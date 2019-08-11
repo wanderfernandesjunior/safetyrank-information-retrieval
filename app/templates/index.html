@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+	<meta name="description" content="SafetyRank">
+	<meta name="author" content="Wander Fernandes Junior - IFES">
+	<!–– CSS do Bootstrap, Font Awesome e Outros ––>
+	<link rel="stylesheet" href="{{ url_for('static', filename='css/bootstrap.4.3.1.min.css') }}">
+	<link rel="stylesheet" href="{{ url_for('static', filename='css/fontawesome-5.2.0/css/all.css') }}">
+	<link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
+	<!–– Favicon ––>
+	<link rel="shortcut icon" href="{{ url_for('static', filename='favicon.ico') }}" type="image/x-icon">
+	<link rel="icon" href="{{ url_for('static', filename='favicon.ico') }}" type="image/x-icon">
+	<title>{% block title %}SafetyRank - Search and classification in public industrial safety alerts{% endblock %}</title>
+</head>
+<body>
+	<header><div style="text-align:center;">
+		<img src="{{ url_for('static', filename = 'imagens/logo.png') }}">
+    	<h1>{% block titulo %}SafetyRank{% endblock %}</h1>
+		<h4 class="text-secondary">{% block subtitulo %}Search and classification in public industrial safety alerts{% endblock %}</h4>
+		<br/>
+    </div></header>
+{% block main %}
+    <main>
+      	<div>
+			<!–– Início - Campo de Busca ––>
+			<div class="container-fluid" style="margin-top:15px">
+				{% block formbusca %}
+				<form method="post" id="busca" target="_self">
+				<div class="row form-group justify-content-center">
+					<div class="col-6"><input type="text" class="form-control form-control-lg" id="descricao" name="descricao" size="10" placeholder="Type..." value="{{ descricao }}" autofocus><input type="hidden" id="palavras" name="palavras" value="{{ palavras }}"></div>
+				</div>
+				<div class="row justify-content-center">
+					<button type="submit" class="btn btn-primary" formaction="/"><i class="fas fa-search"></i> Search Safety Alerts</button>
+				</div></form>
+				{% endblock %}
+			</div>
+			<!–– Fim - Campo de Busca ––>
+
+			<!–– Início - Campo de Avisos ––>
+			<div class="container-fluid" style="margin-top:15px">
+					<div class="row justify-content-center" style="margin-bottom:15px">
+						<div class="col-10 text-center"><p id="info">{{ info|safe }}</p></div>
+					</div>
+			</div>
+			<!–– Fim - Campo de Avisos ––>
+			
+			<!–– Início - Campo de Resultados ––>
+			{% block resultados %}
+				{% for alerta in alertas %}
+						{% if loop.first %}
+						<div class="container-fluid" style="margin-top:30px">
+							<div class="row justify-content-center">
+						{% endif %}
+						<div class="col-10">
+							<div class="row p-2 m-3" style="border-width: 1px;border-style: solid;border-color:#ebebeb">
+											<a target="_blank" href="/static/{{ idioma_attrs['static_folder'] }}/{{ alerta['nome_arquivo'] }}"><h6><img class="img-fluid float-left" src="/static/{{ idioma_attrs['static_folder'] }}/{{ alerta['nome_arquivo'] }}.png">
+											<br/><a target="_blank" href="/static/{{ idioma_attrs['static_folder'] }}/{{ alerta['nome_arquivo'] }}"><h6><i class="far fa-file-pdf"></i> {{ alerta['nome_arquivo'] }}</a></h6>
+											<p class="text-justify"><div class="resultados more text-secondary">{{ alerta['conteudo']|safe }}</div></p>
+											{% if request.method == 'POST' %}<p class="text-muted"><small>(indicador de similaridade: {{ alerta['indicador'] }})</small></p>{% endif %}
+								</div>
+							</div>
+						{% if loop.last %}
+							</div>
+						</div>
+				{% endif %}
+				{% endfor %}
+			{% endblock %}
+			<!–– Fim - Campo de Resultados ––>
+      	</div>
+    </main>
+{% endblock %}
+    <!–– Inicio - Rodape ––>
+    <footer>
+		<div class="container-fluid text-center" style="margin-bottom: 30px;margin-top: 30px">
+			{% block rodape %}
+			<p class="text-secondary"><small>SafetyRank - MSc in Applied Computing - IFES 01/2019</small></p>
+			{% endblock %}
+		</div>
+    </footer>
+    <!–– Fim - Rodape ––>
+    <script src="{{ url_for('static', filename='js/jquery.3.3.1.min.js') }}"></script>
+    <script src="{{ url_for('static', filename='js/popper.1.14.3.min.js') }}"></script>
+    <script src="{{ url_for('static', filename='js/bootstrap.4.3.1.min.js') }}"></script>
+	<script src="{{ url_for('static', filename='js/jquery.mark.8.11.1.min.js') }}"></script>
+    <script src="{{ url_for('static', filename='js/app.js') }}"></script>
+  </body>
+</html>

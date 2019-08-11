@@ -1,0 +1,13 @@
+/*** MARCA TEXTO   ***/
+mark{
+  background: #FFFF99;
+  padding: 0;
+}
+
+/*** VER MAIS / MENOS***/
+.morecontent span {
+    display: none;
+}
+.morelink {
+    display: block;
+}
