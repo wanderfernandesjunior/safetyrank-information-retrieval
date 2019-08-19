@@ -12,13 +12,13 @@
 	<!–– Favicon ––>
 	<link rel="shortcut icon" href="{{ url_for('static', filename='favicon.ico') }}" type="image/x-icon">
 	<link rel="icon" href="{{ url_for('static', filename='favicon.ico') }}" type="image/x-icon">
-	<title>{% block title %}SafetyRank - Search and classification in public industrial safety alerts{% endblock %}</title>
+	<title>{% block title %}SafetyRank - Search and rank public industrial safety alerts{% endblock %}</title>
 </head>
 <body>
 	<header><div style="text-align:center;">
 		<img src="{{ url_for('static', filename = 'imagens/logo.png') }}">
     	<h1>{% block titulo %}SafetyRank{% endblock %}</h1>
-		<h4 class="text-secondary">{% block subtitulo %}Search and classification in public industrial safety alerts{% endblock %}</h4>
+		<h4 class="text-secondary">{% block subtitulo %}Search and rank public industrial safety alerts{% endblock %}</h4>
 		<br/>
     </div></header>
 {% block main %}
