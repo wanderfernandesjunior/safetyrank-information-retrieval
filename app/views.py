@@ -8,7 +8,7 @@ IDIOMA_ATTRS = {'en': {'indice': 'alertas_english_indice',
                        'tabela': 'alertas_english',
                        'static_folder': 'alertas-english',
                        'stop_words_e_lematizador': 'inglês',
-                       'mensagem_inicial': "<p class='text-success'><i class='fas fa-info-circle'></i> There are STR_TOTAL HSE Alerts in our folder.</p><p class='text-secondary'>See below the 10 most recent.</p>",
+                       'mensagem_inicial': "<p class='text-success'><i class='fas fa-info-circle'></i> There are STR_TOTAL HSE Alerts in our folder.</p><p class='text-secondary'>See below 5 random examples.</p>",
                        'mensagem_erro': "<p class='text-danger'><i class='fas fa-exclamation-circle'></i> An error has occurred: STR_ERRO .</p>",
                        'mensagem_sem_resultados': "<p class='text-danger'><i class='fas fa-info-circle'></i> Your search did not found results.</p>",
                        'mensagem_sem_entrada': "<p class='text-danger'><i class='fas fa-info-circle'></i> Type some input for the algorithm.</p>",
@@ -42,8 +42,8 @@ def index(idioma = "en"):
                 SELECT nome_arquivo, conteudo
                 FROM {indice}
                 WHERE datadoc != ? and datadoc LIKE 'D:%'
-                ORDER BY datadoc DESC
-                LIMIT 10;
+                ORDER BY RANDOM()
+                LIMIT 5;
                 """, (db.NOT_AVAILABLE,)).fetchall()
 
             return render_template(template, alertas=alertas, total=total[0], info=info, idioma_attrs=IDIOMA_ATTRS[idioma])
