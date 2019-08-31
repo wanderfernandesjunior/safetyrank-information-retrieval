@@ -17,7 +17,7 @@ uma combinação linear dos indicadores de cada palavra que compõe a consulta e
 O objetivo deste trabalho é a aplicação de conceitos de recuperação de informação do Capítulo 22 do livro Artificial Intelligence: A Modern Approach a documentos de alertas de segurança industriais em formato PDF obtidos da internet.
 
 Este projeto contempla as seguintes etapas:
-- Obtenção de 50 alertas de segurança industriais públicos em formato PDF a partir da internet.
+- Obtenção de 1600 alertas de segurança industriais públicos em formato PDF a partir da internet.
 - Extração de textos e tabulação em base de dados.
 - Aplicação das técnicas de pré-processamento tokenização, remoção de stop words e lematização dos documentos.
 - Elaboração de consulta para busca e ordenação nos respectivos documentos aplicando a técnica Okapi BM25
