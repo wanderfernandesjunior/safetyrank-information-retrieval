@@ -1,0 +1,199 @@
+AB(cid:31)
+
+ 
+
+IMCA Safety Flash 08/08 
+
+Safety Flash
+
+April 2008 
+
+These  flashes  summarise  key  safety  matters  and  incidents,  allowing  wider  dissemination  of  lessons  learned  from  them.    The  information  below  has  been 
+provided in good faith by members and should be reviewed individually by recipients, who will determine its relevance to their own operations. 
+
+The effectiveness of the IMCA safety flash system depends on receiving reports from members in order to pass on information and avoid repeat incidents.  
+Please consider adding the IMCA secretariat (imca@imca-int.com) to your internal distribution list for safety alerts and/or manually submitting information 
+on specific incidents you consider may be relevant.  All information will be anonymised or sanitised, as appropriate. 
+
+A  number  of  other  organisations  issue  safety  flashes  and  similar  documents  which  may  be  of  interest  to  IMCA  members.    Where  these  are  particularly 
+relevant, these may be summarised or highlighted here.  Links to known relevant websites are provided at www.imca-int.com/links   Additional links should 
+be submitted to webmaster@imca-int.com 
+
+ 
+
+1  Fall Through Open Hatch in Walkway 
+
+A  member  has  reported  a  incident  onboard  an  offshore  construction  vessel  in  which  a  crew  member  fell  through  an 
+unprotected hatch on a walkway on to the deck below.  The injuries sustained were only slight bruising and abrasions to left 
+arm, upper chest and left knee.  Whilst the injuries were light, the potential for serious injury was high. 
+
+The hatch, which had been installed along with an access ladder when an additional air conditioning (AC) unit was placed on 
+top of the bridge, had been left tied open by another worker.  The crew member fell through the hatch after raising a safety 
+barrier on the walkway whilst going to inspect some heating, ventilation and air conditioning (HVAC) air ducts. 
+
+Following investigation, the following points were noted: 
+
+♦  The addition of the hatch in the walkway should have been risk assessed and a management of change (MoC) process 
+
+♦  Following  this  incident  the  ladder  access  to  HVAC  air  ducts  was  relocated  to  an  area  outside  the  walkway,  thus 
+
+eliminating the need for a hatch.  The hatch was welded shut. 
+
+♦  Personnel were reminded never to leave a hatchway open without it being barricaded on all sid
+
+es. 
+
+♦  Personnel were reminded never to raise a safety barrier in haste or to enter a danger zone without evaluating potential 
+
+followed. 
+
+dangers. 
+
+ 
+
+ 
+
+Before 
+
+After 
+
+ 
+
+ 
+
+2  Near-Miss Involving Knuckle Boom Crane – Hydraulic Pump Selection 
+
+A member has reported a near-miss incident where a 220 litre drum and pallet lifter made an uncontrolled descent to within 
+2 metres of the deck.  The drum was being moved on to the main deck from the quayside using the whipline of a knuckle 
+boom, heave compensated, computer assisted type crane. 
+
+It is possible, on the type of crane used, for the crane operator to select the number of hydraulic pumps required dependent 
+on the operations to be completed.  There were four hydraulic pumps available but as the operation appeared to require 
+only a single function at low speed the operator had selected only two pumps. 
+
+The crane operator was manoeuvring the load to the selected position using the left slew, boom up, knuckle in and whipline 
+lowering functions. 
+
+On reaching the approximate landing area, the deck foreman and rigger were preparing to take control of the load with the 
+taglines  when  the  load  commenced  an  uncontrolled  descent  of  approximately  three  metres  and  then  came  to  a  stop 
+approximately two metres from the deck.  When the deck foreman and rigger heard the load descending they moved clear. 
+
+The crane manufacturer was contacted.  One of its technicians inspected the crane and reviewed the circumstances leading 
+to the incident.  His findings were as follows: 
+
+“The reported incident appears to be a combination of improper use of pumps during operation – the operator had only two 
+out of the four main pumps running when using multiple functions.  This resulted in reduced flow to all functions when all 
+functions were activated.  When the majority of functions were deactivated and the winch function was still fully active, all 
+hydraulic flow was diverted to the fully open winch function, causing an unintended situation.” 
+
+The crane manufacturer has confirmed that there is a danger that if only two pumps are running the system will produce this 
+“unintended situation”. 
+
+The member involved has instigated the following corrective/preventative actions: 
+
+To ensure safe working for lifting operations involving this type of crane, supervisory staff, in consultation with workers and 
+their representatives are to provide all crane operators with the information contained in this safety notice, and: 
+
+♦  during crane driver training/familiarisation, reiterate the requirement to have, as a minimum, three pumps working and 
+warning of the danger of not doing so.  It is appreciated that some operations can be completed with only two pumps; 
+two pumps should only be selected for a lifting operation when careful assessment has been made of the likely risks and 
+it  is  ensured  that  there  is  no  possibility  of  a  dropped  load.    An  additional  risk  assessment  must  be  completed  to 
+document two-pump operations and the precautions in place that ensure safe operations; 
+
+♦ 
+
+install a warning notice in the crane cab highlighting the requirement to have, as a minimum, three pumps running; 
+
+♦  review the risk assessment for the crane, with additional focus on the potential for this type of incide
+
+nt; 
+
+♦  ensure supervisory personnel involved in lifting operations take responsibility for disseminating this notice and raise deck 
+crew  awareness  of  potential  dropped  loads  through  review  of  the  revised  risk  assessment  and  the  completion  of  a 
+toolbox talk prior to lifting operations; 
+
+♦  provide all personnel onboard with information and instruction regarding the incident and the dangers of approaching 
+
+any raised/suspended loa
+
+ds; 
+
+♦ 
+
+issue this notice to IMCA and request distribution throughout the industry to warn others of the potential for incorrect 
+set-up and operation of this type of crane syste
+
+m. 
+
+ 
+
+3  Partial Parting of a Bell Main Lift Wire 
+
+A member has reported the partial parting of a bell main lift wire. 
+
+During bell recovery a member of the dive team noticed damage on the bell main lift wire, 48m from the bell. 
+
+The bell recovery was stopped, the bell guide weights were brought up to support the bell, strands of damaged wire were 
+removed by the diving technicians and deck crew and the bell was lifted using the bell guide wire.  The bell was then locked 
+into the cursor and safely clamped on to the system. 
+
+Photograph showing partly parted wire 
+
+ 
+
+After investigation by the company involved, the following points were highlighted: 
+
+♦  The  cause  of  the  wire  rope  failure  was  internal  corrosion  damage  where  the  inner  core  wires  of  the  rope  had  been 
+
+reduced in size by up to 50% with no external damage visible; 
+
+♦  The rope lubricant had been lost internally and the galvanised coating was no longer present.  Both of these two factors 
+
+had accelerated the corrosion of the wir
+
+es; 
+
+♦  The local corrosion of the core wires had led to a loss in diameter and strength.  The loss in strength had resulted in 
+
+overload of the individual wires and placed additional stress on the core. 
+
+When checking the size of the bell wire (nominally 22mm diameter) approximately 3m each side of the damaged area, the 
+diameter was recorded as 21mm.  At various other areas of the wire the readings were between 21.3mm and 21.8mm. 
+
+ISO 4309 2004 paragraph 3.5.7 allows for a 3% reduction for multi strand wire making 21mm outside acceptable tolerances. 
+
+Even though the wire inspection, testing and maintenance procedures used by the company were in accordance with local 
+legislation, IMCA guidance and company procedures, the deterioration of the wire failed to be detected. 
+
+The company noted that inspections had been carried out for the wire at six monthly intervals, annual destructive tests had 
+been carried out, a comment regarding lack of lubrication had been noted in last report of destructive testing and pressure 
+lubrication of the wire had been carried out at six-month intervals. 
+
+ 
+
+Photograph of a section taken from the core of the rope close to the fracture 
+
+ 
+
+Possible contributory factors to the failure of the bell wire identified by the member company were:  
+
+♦  The extent of the detrimental effect of multiple sheaves and sheave diameters in use; 
+
+♦  The wire rope had, over a number of years, been bent over heave compensator sheaves which could have led to internal 
+
+fretting taking place within the rope once the rope lubricant had been lost; 
+
+♦  High  peak  loads  could  have  been  experienced  on  the  system  when  the  heave  compensators  were  fully  compressed 
+
+before the bell and cursor were handled in moon
+
+-pool; 
+
+♦  The bell wire was eight years old which was inside the company’s discard policy of ten years which may need to be re-
+
+assessed. 
+
+Members are urged to consider all of the points raised and review their own wire rope maintenance and testing policies as 
+appropriate. 
+
+

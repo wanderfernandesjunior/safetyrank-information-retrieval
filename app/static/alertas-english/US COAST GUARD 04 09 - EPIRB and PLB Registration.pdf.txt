@@ -1,0 +1,101 @@
+ 
+ 
+ 
+ 
+July 13, 2009                                                                                                                      Alert 04-09 
+Washington, DC 
+
+EPIRB and PLB REGISTRATION 
+
+ 
+
+ 
+This  Safety  Alert  addresses  the  importance  of  ensuring  your  Emergency  Position  Indicating  Radio 
+Beacon  (EPIRB)  and  Personal  Locator  Beacon  (PLB)  are  properly  registered  with  the  National 
+Oceanic and Atmospheric Administration (NOAA).   
+ 
+One  of  the  circumstances  surrounding  a  recent  major  marine  casualty  involving  an  uninspected 
+commercial  fishing  vessel  was  the  improper  registration  of  the  vessel’s  EPIRB.    The  Unique 
+Identification Number (UIN) entered into NOAA’s registration database was different from the actual 
+UIN  programmed  into  the  EPIRB  by  the  manufacturer  and  transmitted  to  the  Search  and  Rescue 
+Satellite System after the vessel sank.  The improper registration of this vessel’s EPIRB delayed the 
+notification  to  Search  and  Rescue  personnel,  and  subsequently  delayed  the  launching  of  rescue 
+assets. 
+ 
+The  Search  and  Rescue  Satellite-Aided  Tracking  (SARSAT)  System  is  composed  of  stationary  and 
+orbiting satellites.  For any given location (outside of the Polar Regions), there is continuous coverage 
+by  a  stationary  satellite,  and  coverage  by  an  orbiting  satellite  every  60  to  75  minutes  on  average 
+(which  includes  the  Polar  Regions).    The  stationary  satellites  can  receive  all  of  the  information 
+transmitted by an EPIRB or PLB, but they are not capable of determining the position of the beacon 
+unless the beacon has an optional GPS receiver (not all models carry this option).  Normally, position 
+identification  is  accomplished  by  the  orbiting  satellites.    So,  if  a  beacon  is  not  equipped  with  the 
+optional GPS, it could take up to 100 minutes for the orbiting satellites to identify the location of the 
+beacon.   
+ 
+In the case of this casualty, the first notification was received by a stationary satellite soon after the 
+vessel sank, but the orbiting satellites were not within range and the improper registration prevented 
+the  identification  of  the  vessel’s  name,  homeport  and  emergency  contact  information  from  being 
+forwarded to the Search and Rescue authorities. 
+ 
+As a result of this incident NOAA has commenced an important safety initiative, emailing and mailing 
+all  owners/operators  of  EPIRBs  and  PLBs  registered  in  the  U.S.  National  Beacon  Registration 
+Database, and requesting that they follow the steps listed below.  The U.S. Coast Guard supports this 
+initiative, and strongly recommends all vessel owners and operators: 
+ 
+1.  Confirm that current EPIRB and PLB registrations are correct.  Cross-check that the UIN printed 
+by the manufacturer on your EPIRB or PLB matches the UIN printed on the proof-of-registration 
+decal  sent  to  you  by  NOAA.    The  manufacturer-provided  UIN  is  usually  found  on  the  exterior  of 
+the  beacon,  although  in  some  cases  the  UIN  is  printed  inside  the  beacon,  under  the  beacon’s 
+battery.  You can also cross-check that the above UINs match the NOAA registration database by 
+visiting  the  National  Beacon  Registration  website  at:  www.beaconregistration.noaa.gov  and 
+choosing one of the links for your existing beacon registration. 
+ 
+
+If  any  of  the  numbers  or  letters  in  the  UINs  are  different,  your  beacon  may  not  be  registered 
+properly  and  you  should  contact  NOAA  immediately  at:  (301)  817-4515  or  1-888-212-SAVE 
+(7283).   
+
+ 
+2.  Update  EPIRB  and  PLB  registrations  if  there  are  any  changes  to  the  vessel  information, 
+owner/operator information, emergency contact information, or if your registration information has 
+expired.    Registration  data  must  be  renewed  every  two  years.    Updates  and  renewals  can  be 
+made using the same registration methods listed below. 
+ 
+
+3.  Register  new  or  previously  unregistered  EPIRBs  and  PLBs  with  NOAA  via  the  internet  at: 
+www.beaconregistration.noaa.gov.    Note:  Registration  is  mandatory  and  is  required  by  Federal 
+Regulation. 
+
+ 
+
+Alternatively, you can mail the registration form which can be found in the beacon’s packaging, or 
+downloaded from the beacon registration website provided above, to the following address:  
+ 
+
+Beacon Registration 
+NOAA/NESDIS,  
+NSOF, E/SP3 
+4231 Suitland Road 
+Suitland, MD 20746 
+
+ 
+The registration form can also be faxed to: (301) 817-4565.  
+
+ 
+If you have already received a registration safety notification from NOAA and responded accordingly, 
+no further action is required until your next beacon renewal or update. 
+ 
+This  safety  alert  is  provided  for  informational  purposes  only  and  does  not  relieve  any  domestic  or 
+international  safety,  operational  or  material  requirement.    Developed  by  the  Office  of  Design  and 
+Engineering  Standards,  United  States  Coast  Guard  Headquarters,  Washington,  DC  and  the  NOAA 
+Search and Rescue Satellite-Aided Tracking (SARSAT) Program Office, Suitland, MD. 
+
+ 
+
+ 
+                                                                        ******* 
+ 
+Office of Investigations and Analysis:  http://marineinvestigations.us 
+To subscribe: kenneth.w.olsen@uscg.mil 
+
+

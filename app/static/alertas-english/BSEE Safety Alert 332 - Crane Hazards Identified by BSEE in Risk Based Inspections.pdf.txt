@@ -1,0 +1,161 @@
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+SAFETY ALERT 
+ 
+
+Safety Alert No. 332 
+11 May 2018  
+
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+
+            Contact: Jason Mathews  
+ 
+      Phone: (504) 731-1496 
+
+Crane Hazards Identified by BSEE in Risk Based Inspections 
+
+BSEE and USCG Inspectors identified missing bolt from the boom heel section on platform crane, poorly maintained 
+
+lifting equipment, and numbers faded off of a boom angle indicator during crane risk inspections. 
+
+ 
+
+The Bureau of Safety and Environmental Enforcement (BSEE) recently conducted a review on the 
+latest  compliance and incident  data to identify  safety  trends  throughout the  Gulf  of  Mexico.  The 
+analysis  pointed  to  a  potential  risk  associated  with  lifting  safety  and  cranes.  Between  January 
+2016 and December 2017, 178 crane incidents were reported to BSEE by 30 unique operators. 
+Further, the Agency issued 103 crane-related incidents of non-compliance (INCs) during the same 
+timeframe. To reduce the likelihood of future incidents or compliance issues, BSEE developed  a 
+protocol to conduct targeted Crane Performance Based Risk Inspections (PBRI) on 30 production 
+platforms and 10 well operations in the Gulf of Mexico Region over a two day period. 
+ 
+At the completion of the inspections, BSEE further reviewed the results supplied by the  districts 
+and  conducted  additional  reviews  on  Safety  and  Environmental  Management  System  specific 
+items  –  e.g.,  crane  inspection  (pre-use,  monthly,  quarterly,  and/or  annual)  records,  lifting  Safe 
+Work  Practices,  competency  of  riggers  and  crane  operators,  maintenance  of  lifting  equipment 
+(slings, rigging components, etc.), JSAs, etc.. The findings were: 
+ 
+
+  Approximately 12.5 percent of the facilities involved in the PBRI had documented incidents 
+
+of noncompliance.  
+
+  BSEE was able to determine operators are conducting crane inspections in accordance 
+
+with API RP-2D, Operation and Maintenance of Offshore Cranes, 6th edition; however, 
+evidence suggested that the inspections are not effective in identifying all deficiencies 
+and/or operators are not aggressively closing out noted deficiencies.  
+
+  During the Lifting Safety PBRI, BSEE inspectors were able to conclude that a majority of 
+the operators subjected to the inspection had no method for following the manufacturer’s 
+recommendations for preventative maintenance, track maintenance records, or to replace 
+lifting equipment (slings, components, etc.) on schedule.  
+
+  About 20 percent of the facilities inspected during the PBRI had no load-indicating system 
+
+in place, or had no available record(s) of calibration.  
+
+  The inspections suggest that operators Safe Work Practices (SWP) with tag lines are not 
+
+implemented, specific to line length/strength requirements, or personnel are not familiar 
+with those that exist. 
+
+  Overall, training documents were readily available to BSEE Inspectors during the 
+
+inspections to verify minimum requirements were being met; however, there was a 
+noticeable gap on the determination of a crane operator, crane inspector, or rigger’s 
+competency after training.  
+
+  BSEE identified multiple facilities which lacked evidence of personnel that are 
+
+knowledgeable of proper lifting signals as referenced in API RP 2D, Operation and 
+Maintenance of Offshore Cranes, 6th edition. 
+
+  BSEE identified multiple facilities and operators which lacked personnel transfer 
+
+procedures, specifically those that covered weather and sea conditions.  
+
+  During the PBRI, BSEE identified multiple facilities and operators which lacked evidence 
+
+of companies informing their offshore personnel of the circumstances surrounding an 
+accident or near miss information release by BSEE.  
+
+  Overall, simultaneous operations (SIMOP) plans were readily available to BSEE 
+
+inspectors during the inspections; however, there was evidence to suggest multiple 
+operators fail to address lifting operations within their SIMOPs plan. 
+
+BSEE regulation 30 CFR § 250.108 set the requirements for cranes and other 
+material handling equipment for operators.  Therefore, BSEE recommends that 
+operators: 
+
+  Verify that all API RP 2D required inspections are being performed and ensure all 
+
+associated equipment and systems are operating as intended. Further, operators should 
+develop and maintain a crane maintenance tracker that clearly assigns an individual (or 
+individuals) responsible for correcting the deficiencies. 
+
+  Review Section 5 of API RP 2D, Wire Rope and Sling Inspection, Replacement and 
+
+Maintenance, and develop and/or implement a maintenance program that focuses on lifting 
+equipment, such as slings, wire rope, etc.. 
+
+  Although load indicators must not be used to test cranes, the readings should be recorded 
+on each lift where load indicators are installed on the crane. Additionally, if load indicators 
+are present, Operators should have calibration procedures in place. 
+
+  All lifts on the OCS should be evaluated for all risks, and the appropriate tag lines and use of 
+
+tag lines should be reviewed. This includes defined length, strength, and diameter.  
+
+  Develop procedures, beyond requiring training certifications, to ensure understanding and 
+competency for crane operators, riggers, and crane inspectors. These procedures should 
+specifically address how an operator verifies lifting personnel have adequate retention of the 
+required knowledge and skills to carry out their duties. 
+
+  Review the API RP 2D Figure 1: “Standard Hand Signals for Controlling Crane Operations” 
+
+and verify those signals are implemented and understood by all lifting personnel on their 
+facilities. 
+
+  Review BSEE Safety Alert 331 and develop/implement personnel transfer procedures as 
+
+discussed the recommendations presented within the alert. 
+
+  Review how they disseminate safety and environmental information to direct and contract 
+personnel to ensure all offshore personnel are knowledgeable on the hazards identified by 
+BSEE. 
+
+  Review their SIMOP plans and address lifting operations where applicable. 
+
+ 
+
+ 
+
+ 
+
+A Safety Alert is a tool used by BSEE to inform the offshore oil and gas industry of the 
+circumstances surrounding an accident or near miss. It also contains recommendations 
+that should help prevent the recurrence of such an incident on the Outer Continental 
+Shelf.  
+ 
+
+

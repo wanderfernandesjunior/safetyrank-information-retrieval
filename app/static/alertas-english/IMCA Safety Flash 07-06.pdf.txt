@@ -1,0 +1,116 @@
+AB
+
+ 
+
+IMCA Safety Flash 07/06 
+
+June 2006 
+
+These  flashes  summarise  key  safety  matters  and  incidents,  allowing  wider  dissemination  of  lessons  learned  from  them.    The  information  below  has  been 
+provided in good faith by members and should be reviewed individually by recipients, who will determine its relevance to their own operations. 
+
+The effectiveness of the IMCA safety flash system depends on receiving reports from members in order to pass on information and avoid repeat incidents.  
+Please consider adding the IMCA secretariat (imca@imca-int.com) to your internal distribution list for safety alerts and/or manually submitting information 
+on specific incidents you consider may be relevant.  All information will be anonymised or sanitised, as appropriate. 
+
+A  number  of  other  organisations  issue  safety  flashes  and  similar  documents  which  may  be  of  interest  to  IMCA  members.    Where  these  are  particularly 
+relevant, these may be summarised or highlighted here.  Links to known relevant websites are provided at www.imca-int.com/links   Additional links should 
+be submitted to webmaster@imca-int.com 
+
+ 
+
+1  Near-Miss – Potential Use of Petroleum-Based Grease in an Oxygen-Rich Environment 
+
+A member has reported a near-miss incident involving the use of hydrocarbon-based grease in an oxygen-rich environment.  
+A diving supervisor had asked an electrician to remove a seized CO2 scrubber motor from a deck decompression chamber 
+(DDC) for repair.  The electrician removed the motor to the workshop, where it was dismantled, cleaned and the bearing 
+lubricated with petroleum-based grease. 
+
+The use of petroleum-based grease on a motor to be used in an oxygen-rich environment (as on a CO2 scrubber in a diving 
+bell) could cause self-ignition and fire, with resulting injuries or fatalities. 
+
+It was realised that petroleum grease had been used before the motor was refitted.  The motor was discarded and a new 
+motor used instead. 
+
+The following points were noted: 
+
+  The diving supervisor had not advised the electrician that petroleum-based grease should not be used; 
+
+  The electrician was unaware that petroleum-based grease was not to be used; 
+
+  The fact that grease was applied to the bearing was detected and immediately the scrubber motor was discarded. 
+
+The company involved has made the following recommendations: 
+
+  Procedures for repair or maintenance of any item should specify special requirements (if any) for that item; 
+
+  Diving/life support equipment should only be serviced by appropriately experienced and qualified personnel; 
+
+  Diving/life support equipment should always be checked by appropriately qualified personnel following repair, to ensure 
+
+all appropriate service and maintenance safety precautions are taken. 
+
+2  Kirby Morgan One-Way Valves Follow-Up to IMCA Safety Flash 09/05 item 1 
+
+Further to Kirby Morgan Safety Notice #1 of 2005, Kirby Morgan Dive Systems Inc. has issued the attached Product Bulletin 
+#2 of 2006, reporting out that, following recall of one-way valves p/n 555-195 (see IMCA safety flash 09/05 item 1 and Kirby 
+Morgan safety notice #1 of 2005), these valves have all been re-tested and re-certified; and have been proven the be fully 
+functional and fit for their intended purpose. 
+
+These valves now have two date stamps, as shown in the picture.  The stamp on the cylindrical valve body 
+is the original manufactured date.  The date on the hexagonal valve seat is the date of the re-test. 
+
+3  Crane Incident 
+
+A member has reported a crane incident on one of  its vessels.  A crane hook snagged a piece of piping, 
+which was lifted as the hook was raised.  The piping subsequently fell, missing two people who were on the 
+deck below.  No-one was injured. 
+
+Investigation of the event revealed the following: 
+
+  The crane had been stowed with the hook resting within the open top of a waste skip; 
+
+  The waste skip had not been covered by a net or tarpaulin; 
+
+Safety Flash 
+
+ 
+
+driver clearance to lift. 
+
+  The  crane  boom  and  hook  had  been  raised  before  the  banksman  had  checked  that  all  was  okay  and  given  the  crane 
+
+The following lessons learnt were noted by the company: 
+
+  Crane operations must be properly controlled and managed according to company procedures; 
+
+  Crane hook stowage positions should be properly assessed by the worksite management team; 
+
+  Crane  hook  stowage  positions  should  be  properly  implemented  by  all  crane  drivers.    It  was  noted  that,  on  occasion, 
+
+crane hooks had also been tied off to a handrail and that this practice should cease; 
+
+  Waste  items  in  a  skip  should  be  more  appropriately  positioned  and,  if  necessary,  the  skip  covered  with  a  net  or 
+
+tarpaulin. 
+
+4  Recall Due to Failure of Parts in Dacon Rescue Scoops 
+
+IMCA has been alerted to problems encountered with certain parts of the Rescue Scoop manufactured by Dacon a/s.  This is 
+a crane-operated rescue net for recovery of casualties from the water directly on board rescue vessels. 
+
+There have been two recent failures of Dacon scoop lifting rings. The rings in question parted at the weld causing the scoop 
+to fall, in both cases into the sea.  No-one was injured in either incident. 
+
+As a result of two incidents reported, Dacon a/s has chosen to replace all stainless steel lifting rings on its Rescue Scoops 
+manufactured  after  the  year  2000  when  these  rings  were  introduced.    The  rings  to  be  replaced  are  of  90x13mm  and 
+120x13mm. 
+
+Dacon asks all users of this equipment to contact them for certified replacement rings by e-mail (rescue@dacon.no) or by 
+fax: +47 67 53 34 40. 
+
+This message has been previously published by the Marine Safety Forum, as MSF safety flash 06/16: 
+
+http://www.marinesafetyforum.org/upload-files//safetyalerts/msf-safety-flash-06.16.pdf  
+
+

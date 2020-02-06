@@ -1,0 +1,142 @@
+AB
+
+ 
+
+IMCA Safety Flash 12/03 
+
+September 2003 
+
+These  flashes  summarise  key  safety  matters  and  incidents,  allowing  wider  dissemination  of  lessons  learned  from  them.    The  information  below  has  been 
+provided in good faith by members and should be reviewed individually by recipients, who will determine its relevance to their own operations. 
+
+The effectiveness of the IMCA safety flash system depends on receiving reports from members in order to pass on information and avoid repeat incidents.  
+Please consider adding the IMCA secretariat (imca@imca-int.com) to your internal distribution list for safety alerts and/or manually submitting information 
+on specific incidents you consider may be relevant.  All information will be anonymised or sanitised, as appropriate. 
+
+A  number  of  other  organisations  issue  safety  flashes  and  similar  documents  which  may  be  of  interest  to  IMCA  members.    Where  these  are  particularly 
+relevant, these may be summarised or highlighted here.  Links to known relevant websites are provided at www.imca-int.com/links   Additional links should 
+be submitted to webmaster@imca-int.com 
+
+ 
+
+1  Near-Miss Involving Diver’s Neck Dam (08/03) 
+
+We  were  recently  provided  with  and  issued  details  of  a  ‘high  potential’  near-miss  incident  involving  failings  in  a  saturation 
+diver’s personal protective equipment.  This information was issued as part of safety flash 08/03 under the heading ‘Near Miss 
+Involving Divers Neck Dam’.  Feedback from equipment manufacturers has highlighted the need to make certain clarifications 
+as it was felt that the wording of the flash may have been misleading. 
+
+Divers  were  in  saturation,  with  one  diver  in  the  bell  carrying  out  bell  checks  and  two  divers  dressed  and  making  final 
+preparations prior to entering the bell.  One diver was placing his neck dam over his head when he heard ‘something’ fall.  
+Suspecting something untoward, he removed the neck dam to inspect it in detail.  He observed that two of the four retaining 
+screws in the rear hinge tab plate (at the back of the neck dam) were missing (with one screw ¾ out and the other secure).  
+The screw ¾ out would not tighten and it was found, on close examination that the thread had stripped.  The other screw 
+was checked and found to be okay.  The neck dam was locked out to technicians and the supervisor for further inspection 
+and investigation.  
+
+An inspection highlighted the following findings:  
+
+  The neoprene sleeve to the neck dam had not been fitted according to company procedures;  
+
+  The retaining lug was loose and about to fail; 
+
+missing its locking washer and was loose; 
+
+  Of  the  four  retaining  screws,  all  of  which  should  be  in  position  and  tight,  two  were  missing  completely  and  one  was 
+
+  Specialist adhesive (company procedure) had not been applied to the screws; 
+
+  The tapped hole, which should have held the missing screw, was found to have a stripped thread; 
+
+  The neoprene neck dam had not been positioned/fitted as per the company’s procedures; 
+
+ 
+
+It was obvious that the screw had been forced through the neoprene material, as there were neoprene ‘plugs’ found in 
+the base of each screw hole. Any torque applied to the screws would have given a false indication of tightness.  
+
+The root causes were identified as:  
+
+  Unauthorised maintenance (neoprene neck dam not fitted as per company procedures);  
+
+  Failure to follow or understand company procedure that only technicians trained in dive hat maintenance are allowed to 
+carry  out  work  to  dive  hats  and  associated  equipment  (and/or  a  failure  to  properly  communicate  the  company 
+procedures to the workforce).  
+
+The company involved has identified the following corrective actions:  
+
+  Briefing of divers that only authorised personnel are to carry out repair and maintenance on diving hats;  
+
+  Display of signs on entrances to the hat maintenance workshop to the effect that ‘only authorised personnel are to carry 
+
+out repair and maintenance on diving hats and neck dams’;  
+
+  Display of signs on hat and neck dam storage racks in the hat maintenance workshops to the effect that ‘only authorised 
+
+personnel are to carry out repair and maintenance on diving hats and neck dams’; 
+
+  Control stock of spare/replacement neck dams – now held under lock and key so that only hat maintenance technicians 
+
+have access. 
+
+ 
+
+The previous safety flash stated that placing of the neoprene directly over the rear hinge tab retaining plate was an incorrect 
+procedure.    Members  should  note  that  this  statement  should  have  clarified  that  this  method  of  fitting  the  neoprene  was 
+incorrect only in that it was not in compliance to the member company hat maintenance procedures and this statement was 
+not  intended  to  imply  that  other  methods  of  fitting  the  neoprene  neck  dam  practiced  by  and  in  accordance  with  other 
+member companies established hat maintenance procedures or procedures issued by manufacturers/suppliers were therefore 
+incorrect. 
+
+Safety Flash 
+
+2  Regulator Fire (11/03) 
+
+Keywords:  Ignition 
+
+This incident was originally included in safety flash 11/03, but the flash is being reissued in the light of additional feedback on 
+the recommendations previously given.  The earlier version has been removed from safety flash 11/03. 
+
+A  member  has  recently  experienced  two  oxygen  regulator  fires.    In  both  cases  the  regulators  were  completely  dialled  in 
+when pressure was applied from the oxygen rack.  
+
+The member company provided its workforce with these recommendations to prevent recurrence: 
+
+  Ensure the oxygen cylinders or banks are firmly secured; 
+
+ 
+
+Inspect the cylinder valve for oil, grease and damage to the valve handle.  Do not use the cylinder if oil or grease or a 
+damaged valve is found; 
+
+  Momentarily open and close the cylinder valve prior to attaching the regulator.  This dislodges any contaminants that are 
+
+present and would otherwise enter the regulator; 
+
+  Carefully inspect the regulator for oil, grease or damaged parts.  Do not use a regulator with oil, grease contamination 
+
+or broken parts; 
+
+  Check that the regulator has the correct pressure rating and gas service for the cylinders being used; 
+
+  Attach the regulator to the cylinder and secure tightly; 
+
+  Stand so that the cylinder valve is between you and the regulator.  Slowly and carefully, open the cylinder valve until the 
+maximum  pressure  registers  on  the  high  pressure  side.    Then  open  the  cylinder  valve  completely  to  seal  the  valve 
+packing; 
+
+  Adjust the low pressure side adjustment screw to the desired pressure and check the system for leaks. 
+
+  When temporarily shutting down the system: 
+
+Secure the valve on the cylinder; 
+
+– 
+–  Open the valve on the downstream equipment – this will drain the system; 
+–  Close the valve on the downstream equipment and then turn the adjuster screw counter clockwise to release the 
+
+pressure on the adjusting spring; 
+
+–  Check the gauges after a few minutes for verification that the cylinder valve is completely closed. 
+
+

@@ -1,0 +1,140 @@
+ 
+ALERT 08 – 39 
+ 
+
+Safety Alert 
+
+        From the International Association of Drilling Contractors 
+
+DROPPED OBJECT:  THERMAL TREE CAP (TEA COSY) 
+
+FALLS RESULTING IN FATALITY  
+
+ 
+
+WHAT HAPPENED: 
+ 
+The  operation  was  utilizing  a  rig  crane  to  move  a 
+subsea  tree  from  the  storage  bay  to  the  transport 
+trolley.  When the tree was approximately 20 inches 
+(50.8 cm) above the trolley, a crane failure resulted 
+in  a  non-powered  descent  of  the  tree  to  the  trolley.  
+As  a  result, 
+thermal  cap  was 
+dislodged  from  its  pedestal  and  fell,  fatally  striking 
+an employee involved in the task.  The thermal cap 
+weighed approximately 980 pounds.  
+ 
+
+the  unsecured 
+
+Thermal Tree Cap
+
+ 
+
+ 
+
+ 
+
+ 
+
+WHAT CAUSED IT: 
+ 
+Further fact finding is currently progressing and not all the contributing factors have been identified.  Further 
+communications may be required to highlight any additional contributing factors.  The key contributing factors 
+in this event were:  
+ 
+1.  The thermal cap was unsecured. 
+2.  While suspended by the crane there was an uncontrolled descent of the subsea tree which resulted in 
+
+3.  This uncontrolled descent of the subsea tree occurred due to an over-torque of the crane’s motor that 
+
+the unsecured thermal cap being dislodged,  
+
+operates the main block hoist.  
+
+CORRECTIVE ACTIONS:  To address this incident, this company did the following: 
+ 
+Instructed the Rig Manager and OIM to ensure immediate Corrective Actions to verify:  
+ 
+•  Subsea Tree Handling and Running Operation Activities:  
+
+o  Review, with respective operators and their suppliers, the operator’s and their supplier’s Dropped 
+
+Object survey accompanying subsea trees planned to be handled or run on company installations.  
+
+• 
+
+If a Dropped Object survey has not been conducted, it must be completed and reviewed by all parties 
+prior to handling or running any subsea tree.  
+
+The Corrective Actions stated in this alert are one company’s attempts to address the incident,  
+
+and do not necessarily reflect the position of IADC or the IADC HSE Committee. 
+
+This material is presented for information purposes only.  Managers & Supervisors should 
+
+evaluate this information to determine if it can be applied to their own situations and practices 
+
+Copyright © 2005 International Association of Drilling Contractors All rights reserved. 
+
+Issued November 2008 
+
+Safety Alert 
+
+        From the International Association of Drilling Contractors 
+
+ 
+•  Ensure  all  items  identified  as  potential  dropped  objects  are  either  removed  from  the  subsea  tree 
+(preferred  method)  or  secured  in  a  manner  approved  by  the  subsea  tree  supplier’s  engineering 
+department to prevent and restrain any potential dropped object.  
+
+•  The Rig Manager is responsible to review and approve the subsea tree supplier’s engineered solution 
+
+prior to implementing the securing method.  
+
+ 
+All cranes are inspected to ensure the following:  
+ 
+•  The motor fitted to the main block hoist is consistent with the part number specified by the crane 
+
+•  The motor fitted to the whip line is consistent with the part number specified by the crane manufacturer 
+
+•  The motor fitted to the boom hoist is consistent with the part number specified by the crane manufacturer 
+
+•  The findings from the above checks must be communicated to the Rig Manager and recorded in the 
+
+installation’s planned maintenance system.  
+
+ 
+If additional assistance is needed to complete the required actions contact your respective Business Unit or 
+Division Field Support office.  
+ 
+For all lifts (including client and subcontractor equipment) aboard company installations:  
+•  Ensure all equipment is assessed for dropped object risk as part of the Job Risk Assessment plan.  
+•  Ensure all items identified as potential dropped objects are either removed or secured in a manner 
+
+manufacturer manual.  
+
+manual.  
+
+manual.  
+
+approved by the Rig Manager.  
+
+ 
+ 
+
+The Corrective Actions stated in this alert are one company’s attempts to address the incident,  
+
+and do not necessarily reflect the position of IADC or the IADC HSE Committee. 
+
+This material is presented for information purposes only.  Managers & Supervisors should 
+
+evaluate this information to determine if it can be applied to their own situations and practices 
+
+Copyright © 2005 International Association of Drilling Contractors All rights reserved. 
+
+Issued November 2008 
+
+

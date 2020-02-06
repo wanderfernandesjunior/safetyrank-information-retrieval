@@ -1,0 +1,141 @@
+ 
+
+ 
+ 
+ 
+ 
+April  30,  2013                                                                                                                                                                                       03-13b 
+Washington, DC 
+
+         Inspections and Compliance Directorate 
+
+Surge Protective Devices Onboard Vessels 
+
+(correction with additional information) 
+
+to 
+
+ 
+We’ve  all  seen  them  and  used  them.  Surge  protective  devices  (SPDs),  more  commonly  known  as 
+surge protectors or power strips help protect our expensive electronic devices from being damaged 
+from excessive currents and allow us to simultaneously deliver power to multiple devices. This safety 
+alert addresses the use of certain electrical protection devices onboard vessels and the inherent risks 
+they  may  cause.  Most  commercially  available  SPDs  are  designed  for  use  ashore  and  will  interrupt 
+only  the  hot  conductor  when  a  surge  occurs.  What  does  that  mean  for  the  ship  owner/operator?  It 
+means that while these devices may provide protection in our homes and offices, these same devices 
+may be a fire risk onboard vessels.  
+ 
+A marine casualty investigation of two separate 
+stateroom fires onboard a U.S. Flag Container 
+ship revealed that the sources of the fires were 
+attributed  to  the  use  of  SPDs  plugged  into  a 
+lighting circuit. It was discovered that a ground 
+had  developed  on  another  circuit  that  was 
+connected 
+the  same  distribution  panel 
+providing power to the staterooms. This ground 
+created  an  imbalance  of  voltage  between  the 
+two  power  conductors  supplying  the  SPDs 
+which caused excessive currents, overheating, 
+and subsequently, a fire. In this instance, even 
+if the SPDs automatically tripped as designed, 
+only  one  power  conductor  would  have  been 
+secured  while  the  other  would  continue  to 
+provide power, possibly shorting to the device’s ground wire and the structure of the vessel.  
+ 
+For shipboard applications, it is critical for a device to interrupt both power conductors. Underwriters 
+Lab Standard - UL Marine 1449 – addresses this issue and applies to the use of SPDs.  
+ 
+The  Coast  Guard  recommends  that  vessel  Owners,  Operators,  Class  Society  Surveyors,  Insurers, 
+and  other  inspection  personnel  examine  the  risks  associated  with  the  use  of  SPDs  aboard  their 
+vessels,  and  if  necessary  ensure  their  organizations  have  policies  and  procedures  relating  to  their 
+use.  Vessels should have defined procedures for checking the condition and grounding capabilities 
+of  personal/portable  electrical  equipment,  and  trained  shipboard  personnel  should  be  assigned  to 
+check and approve all SPDs in use or brought on board for compatibility with the vessel’s electrical 
+distribution  system  prior  to  use.  Routine  checks  of  switchboard  and  distribution  system  120  VAC 
+ground  detection  systems  are  necessary  to  detect  the  presence  of  grounds  that  may  cause  similar 
+circumstances with non-marine type SPDs. These recommendations are not mandated rather just an 
+advisory based on lessons learned from the casualty. 
+ 
+
+Page 1 
+
+Additional Technical Information: 
+ 
+
+ 
+
+•  This safety alert only applies to vessels with alternating current power systems and may be most likely applicable 
+to  larger  industrial  and  commercial  vessels.    It  relates  to  different  manners  in  which  power  is  generated, 
+transformed and supplied throughout the vessel. 
+
+•  There  is  no  official  Underwriters  Laboratory  standard  for  Marine  Surge  Protective  Devices  despite  numerous 
+
+retailers advertising “UL Marine 1449.” 
+
+ 
+The  recommendations  on  page  one  of  this  document  remain.  Ideally,  if  there  is  excessive  use of  power  strips onboard 
+there  may  be  a  need  to  consider  the  installation  of  additional  permanent  components  such  as  distribution  panels, 
+breakers, cabling or receptacles.  An SPD should be - 
+
+removed from service if it is hot to touch, 
+
+•  only permitted for use onboard once approved by a trained crewmember, 
+• 
+•  unplugged when not in use, 
+• 
+• 
+•  prevented from use in excessively humid or moist environments, 
+•  provided air circulation and not covered with carpet or other items, and 
+• 
+
+regularly inspected for damage or wear, 
+limited to one SPD per single duplex receptacle outlet and never daisy chained, 
+
+checked to ensure that all plugs are fully engaged. 
+
+ 
+The  primary  concern  of  this  alert  is  to  ensure  electrical  protection  devices  such  as  SPDs  operate  correctly  with  the 
+manner in which the 120 volt receptacle circuitry onboard the vessel is wired.  Receptacle circuitry may be wired in Delta 
+or WYE configurations. 
+
+ 
+Using a voltmeter, a marine electrical professional will note that a Delta wired 
+circuit will read the voltage across the terminals as shown in the image on the 
+right.  The Delta configuration has two hot leads one at +/-60 VAC, the other at 
++/- 60 VAC, simultaneously to provide the 120 VAC potential.  Here lies the 
+problem with inexpensive and older SPDs that only disconnect one “hot” 
+terminal lead.  The other “hot” terminal remains hot if the circuit breaker 
+supplying the receptacle and SPD does not trip. 
+ 
+
+ 
+ 
+A  marine  electrical  professional  using  a  voltmeter  on  a  WYE  wired  circuit  will 
+read voltage across the terminals as shown in the image on the left. For a WYE 
+configuration 120 VAC is established between the hot terminal and the neutral 
+terminal and the hot terminal and the ground terminal of the receptacle. 
+ 
+ 
+ 
+
+ 
+Owner  /  operators  may  wish  to  purchase  equipment  meeting  MIL  Performance  Specification  MIL-PZRF-32167A  which 
+incorporates  ASTM  F1507  (Standard  Specifications  for  Surge  Suppressors  for  Shipboard  Use)  and  UL  1449  (Safety 
+Standards for Surge Protective Devices). Further, for informational purpose only, US Navy and CG vessels use SPDs with 
+the following National Supply Number (NSN) 6150-01-362-7192. 
+ 
+It should be noted that related issues (mismatches between Delta or WYE systems) have been reported with 120 VAC 
+Uninterrupted Power Supplies purchased ashore and used onboard vessels.  Such devices should be selected to match 
+the power supply configuration.    
+ 
+Owner  /  operators  who  are  not  familiar  with  these  issues  or  have  remaining  questions  should  consult  their  technical 
+departments  or  a  marine  electrical  professional.      These  recommendations  are  an  advisory  only  and  not  mandatory.  
+Special  thanks  to  personnel  from  FOSS  Maritime, Keystone  Shipping and  the  Philmont  Group  for sharing  their  insights 
+and policy pertaining to this matter. 
+ 
+This  document  is  provided  for  informational  purposes  only  and  does  not  relieve  any  domestic  or  international  safety, 
+operational  or  material  requirement.    Developed  by  the  Office  of  Investigations  and  Casualty  Analysis,  United  States 
+Coast Guard Headquarters, Washington, DC.  Questions can be addressed to the sender.                                Page 2                     
+
+

@@ -1,0 +1,347 @@
+AB 
+
+ 
+
+IMCA Safety Flash 18/13 
+
+Safety Flash 
+
+ December 2013 
+
+These  flashes  summarise  key  safety  matters  and  incidents,  allowing  wider  dissemination  of  lessons  learnt  from  them.    The  information  below  has  been 
+provided in good faith by members and should be reviewed individually by recipients, who will determine its relevance to their own operations. 
+
+The effectiveness of the IMCA safety flash system depends on receiving reports from members in order to pass on information and avoid repeat incidents.  
+Please consider adding the IMCA secretariat (imca@imca-int.com) to your internal distribution list for safety alerts and/or manually submitting information 
+on specific incidents you consider may be relevant.  All information will be anonymised or sanitised, as appropriate. 
+
+A  number  of  other  organisations  issue  safety  flashes  and  similar  documents  which may  be  of  interest  to  IMCA  members.   Where  these  are  particularly 
+relevant, these may be summarised or highlighted here.  Links to known relevant websites are provided at www.imca-int.com/links   Additional links should 
+be submitted to webmaster@imca-int.com 
+
+ 
+
+1  Fatality During Lifting Operations 
+
+A member has reported an incident in which a crew member suffered fatal crush injuries. This was during lifting operations, 
+on an offshore vessel. The incident occurred whilst rigging equipment was being transferred from one part of the vessel to 
+the  spar  deck.  This  operation  was  conducted  by  the  crane  operator  and  rigger  team.  One  of  the  loads  to  be  transferred 
+involved a  Dyneema  sling  arrangement that was connected to an ROV reverse hook.  The sling weighed approximately 0.7 
+tonne and the hook 2.3 tonne, giving a combined weight of 3.0 tonne. The rigging assembly was prepared on the main deck 
+by the lead rigger and a rigger. 
+
+The rigger foreman, senior rigger (IP) and the certified rigger were located on the spar deck. They had already received and 
+sea-fastened the spreader beam and were awaiting the next load to arrive. As the Heavy Lift Crane boom was located in its 
+rest,  the  Manitowoc  crane  boom  could  not  be  positioned  to  allow  a  plumb  lowering  of  the  load  onto  the  spar  deck.  The 
+senior rigger (IP) was asked to move to a safe position by the rigger foreman.  
+
+After confirmation was given to send the load it arrived suddenly at the spar deck; it landed inboard against the spreader. It 
+then slid forward towards the senior rigger, who was struck twice by the suspended load. Due to his height the load made 
+contact with his chest and crushed him against the cargo rail, at his back.  
+
+The alarm was raised and a  response activated. The vessel doctor found no vital signs, he applied an  airway, gave  oxygen, 
+fitted a cannula and administered adrenaline to the senior rigger but there was no response. Resuscitation continued but was 
+unsuccessful and the senior rigger was declared dead. 
+
+Position of riggers on the spar deck 
+
+Dyneema sling and ROV reverse hook 
+
+ 
+
+ 
+
+ 
+
+ 
+
+♦  The senior rigger may have felt he was already in a safe position, between the end of the spreader bar and the stern of 
+
+Illustration of load movement towards injured person 
+
+ 
+
+Our member’s early investigation notes the following: 
+
+♦ 
+
+Incident occurred in daylight hours; 
+
+♦  Wind was 20-22 knots ESE; 
+
+♦  Significant wave height 2.7m, with maximum wave height of 3.1m; 
+
+the zodiac, not anticipated he was actually at risk; 
+
+♦  The slide forwards of the heavy load may have been caused by: 
+
+Induced momentum from crane swing 
+
+− 
+−  Contact with the parking leg of the spreader beam 
+−  Contact with the lifting eye, nubbins of spreader beam 
+− 
+−  Vessel motion from sea state; 
+
+Induced spin from offset of centre of gravity 
+
+♦  Or any combination of the above factors. 
+
+Our member reiterates the following vital points with regards to all lifting operations: 
+
+♦  Careful consideration should be given to all lifting operations. All lifts require planning whether they are routine or non-
+
+♦  Careful consideration should be given to the positioning of personnel – particularly riggers and banksmen, during lifting 
+
+routine;  
+
+operations; 
+
+♦  Members may also wish to refer to IMCA SEL 019 Guidelines for lifting operations. 
+
+2  Serious Working at Height Incidents 
+
+A member has reported  a number of serious working at height incidents, resulting in a fatality  and five Lost Time Injuries 
+(LTIs). The member would like to raise awareness of the risks associated with working with heights.  
+
+Incident 1 - LTI 
+
+An employee of a sub-contractor slipped and fell 15m resulting in a brain haemorrhage and leg fracture. 
+
+ 
+
+The  injured  person  and  co-
+worker  location  with  a  fall 
+distance of 15m. 
+
+ 
+
+Roof  sheets  stacked  on  top  of 
+one another 
+
+ 
+
+ 
+
+Showing work area from which person fell 
+
+Incident 2 - LTI 
+
+The  injured  person  stood  on  a  cardboard  box  to  access  the  racking  shelves  in  the  storage  area,  of  an  onshore  yard. 
+Consequently, the injured person fell from the box and suffered a broken wrist and fractured elbow. 
+
+Internal storage area at onshore site 
+
+ 
+
+Incident 3 - LTI in Shipyard 
+
+The  injured  person  was  attempting  to  transit  an  unsecured  walkway  and  fell  a  distance  of  1.7m.  The  person  fell  onto  the 
+scaffold structure below; the fall resulted in four broken ribs. 
+
+Showing from where and how injured person fell 
+
+ 
+
+ 
+Incident 4  – LTI on Offshore Vessel 
+
+In the fourth incident, a deck hand slipped and fell down a ladder leading from the deck to the paint store. He was found at 
+the foot of the ladder in pain and unable to move, subsequently he required a medevac. 
+
+Incident  5 – Fall on the same level: LTI on Offshore Vessel 
+
+The injured person stepped down onto exposed hose-work from the ROV launch and recovery system (LARS). The person 
+skidded onto the deck and slipped. The impact resulted in two minor fractures to the bones in right arm. 
+
+Incident 6 – Fall from Height Fatality 
+
+ Showing worksite where injury occurred  
+
+Whilst  installing  a  ventilation  system  an  employee  of  a  sub-contractor,  fell  from  the  roof  of  a  building.  The  person  fell 
+approximately 22m and died as a result. The employee was equipped with a safety harness; neither of the two lanyards had 
+been attached to the adjacent life-lines.    
+
+Height from ground: 22m 
+
+ 
+
+Showing the hole through which person fell and  the distance to ground 
+
+Our member summarised that irrespective of the height, the potential consequence of a fall can be extremely severe and the 
+above cases are clear evidence of this. A fall from a height is entirely avoidable if procedures are followed, risk assessments 
+and tool box talks are conducted also suitable and sufficient mitigation is in place. 
+
+ 
+
+ 
+
+ 
+Our member recommended the following: 
+
+♦ 
+
+Implement  the  conditions  of  the  Permit  to  Work,  consider  operations  which  may  be  undertaken  concurrently  with 
+others; 
+
+♦  Members’  attention  is  also  drawn  to  the  wide  range  of  IMCA  safety  promotional  materials,  which  will  be  of  use  in 
+
+♦  Ensure personnel are suitably qualified and experienced; 
+
+♦  Provide adequate supervision; 
+
+♦  Use appropriate working at height equipment and tooling; 
+
+♦  Conduct a toolbox talk; 
+
+♦ 
+
+If in doubt ‘stop the job’ and re-assess; 
+
+Safety Pocket card SPC 10 Workplace safety self-assessment 
+
+mitigating risks of this sort, including: 
+
+Safety Pocket card SPC 02 Preventing Slips & Trips 
+
+Safety Pocket card SPC 06 Working at height 
+
+Safety Pocket card SPC 18 Permit to Work 
+
+Safety Pocket card SPC 03 Tool Box Talks 
+
+− 
+− 
+− 
+− 
+− 
+− 
+− 
+−  DVD SEL 009 Working at height  
+−  DVD SEL 013 Slips, trips and finger nips 
+−  DVD SEL 021 Risk assessment 
+−  DVD SEL 026 Toolbox talks 
+
+Safety Poster SPP 03 Working at height 
+
+Safety Poster SPP 02 Preventing Slips & Trips 
+
+3  Near Miss – ROV Shackle (potential dropped object) 
+
+A  member  has  reported  a  near  miss  incident  in  which  an  ROV  shackle  holding  a  boulder  grab  became  loose  and  the  pin 
+partially  disengaged.  The  incident  occurred  during  a  subsea  boulder  removal,  along  a  pipeline  route.  A  construction  vessel 
+had  been  working  continuously  for  approximately  19  hours,  conducting  a  boulder  removal  operation.  The  ROV  operator 
+spotted that the ROV shackle on the boulder grab had become loose and the pin was partially disengaged.  
+
+The decision was made to lower and land the boulder grab on the seabed. This was done in a safe and controlled manner. 
+Following  further  toolbox  and  management  of  change  and  risk  assessment  talks,  the  boulder  grab  was  recovered  and  the 
+rigging changed to make it safe.   
+
+Showing shackle (white) and pin (green) partially disengaged. 
+
+ 
+
+ 
+
+(Left): Shackle, pin and ‘R-Clips’ shown loose 
+
+ 
+
+(Right): Shackle, pin and ‘R-Clips’ – complete arrangement 
+
+ 
+
+ 
+
+The ROV shackles are designed to allow easy release by the ROV. This incident demonstrates that there is also the potential 
+for snagging risks, particularly during long, repetitive periods of work. 
+
+The replacement shackle  and rigging arrangement, (25Te ROV shackle for 25Te anchor bow shackle c/w split pin) did not 
+compromise the ability to abandon the boulder grab in any emergency situation.  
+
+The preferred option is to remove the requirement for ROV shackles altogether. The 25Te anchor bow shackle should be 
+connected directly to the boulder grab (where possible) and the soft sling rigging arrangement. In an emergency situation, the 
+ROV would cut the soft sling and release the boulder grab. 
+
+Our member’s investigation revealed the following potential causes of the near miss incident: 
+
+♦  The positioning of the ROV shackle arrangement (just above the boulder grab), there was the potential for the ‘R-Clips’ 
+
+securing the wire to become snagged, on other rigging or the boulder grab; 
+
+♦  Every time the boulder grab landed on the sea-bed to move a boulder, the rigging would slacken. This repeated action, 
+
+over 19 hours continuous use, could have resulted in the ‘R-Clips’ becoming dislodged and the pin working loose. 
+
+Our member took the following action: 
+
+♦  Lowered the boulder grab to seabed; 
+
+♦  Undertook  a  toolbox  talk,  management  of  change  and  further  risk  assessment,  prior  to  recovery  to  deck  of  boulder 
+
+♦  Altered the rigging: (25Te ROV shackle – 25Te anchor bow shackle c/w split pin); 
+
+♦  Considered (where possible) removal of the ROV shackles and replacing with 25Te anchor bow shackle (c/w split pin), 
+
+connected straight to soft sling and boulder grab; 
+
+♦  Members are advised to be aware of the potential snagging risks and to re-assess the use of ROV shackles prior to their 
+
+grab; 
+
+use. 
+
+4  High Potential Near Miss - Incompatible Pillar Valve Assembly 
+
+A member has reported a high potential near miss incident, in which there was a failure of a pillar valve in a diver’s bailout 
+set. The incident occurred  during preparation for diving  operations, requiring three twin bailout sets. Upon completion of 
+assembling the three bailout sets, two sets were charged with a gas mix of He/02 (80/20%) to 300 bar. The first two twin sets 
+were  filled  with  no  concerns  being  noted.  Filling  was  undertaken  in  accordance  with  industry  standards  and  company 
+procedures.  
+
+The third bailout to be charged was attached to the charging whip, secured and bailout opened. The Haskell supply valve was 
+opened  to  decant  the  gas  mix  into  the  twin  bailout  set.  The  bailout  was  equalised  to  approximately  130  bar.  The  filling 
+process was undertaken to fill the third twin set to the required pressure for diving operations. A small leak was detected at 
+the charging whip connection to the bailout. This resulted in the repositioning of the bailout in the charge tank, so that the 
+twin bailout set was submerged. This action was undertaken to assist in the cooling of the twin bailout and in the detection 
+of leaks. Within less than two minutes there was a loud explosion/release of gas from the charging tank. The gas supplied was 
+immediately isolated. Upon inspection it was identified that the pillar valve failed to hold the content of the cylinder. 
+
+ 
+ 
+
+Twin bailout after incident 
+
+Broken manifold assembly 
+
+Broken assembly 
+
+ 
+
+ 
+
+ 
+
+Our member’s investigation noted the following: 
+
+♦  Different types of cylinders (imperial and metric) were being used on the same job site; 
+
+♦  There was no management of change (MOC) process undertaken, to change pillar valve to twin manifold configuration; 
+
+♦  Additional force was applied to insert new pillar valve (no inspection undertaken as to why there was a resistance). 
+
+Our member took the following corrective actions: 
+
+♦  Replacing bailout cylinders with metric only;  
+
+♦  Vessel technicians to be supplied with a precision measuring instrument (for measurement of thread patterns); 
+
+♦  Training to be undertaken by dive team / project department pertaining to the use of MOC; 
+
+♦ 
+
+Implement system that ensures only metric thread cylinders and components used;   
+
+♦  Marking of all metric and imperial parts and cylinders to be undertaken for ease of identification. 
+
+

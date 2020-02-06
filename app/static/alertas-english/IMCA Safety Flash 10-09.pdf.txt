@@ -1,0 +1,265 @@
+AB 
+
+ 
+
+IMCA Safety Flash 10/09 
+
+Safety Flash 
+
+July 2009 
+
+These  flashes  summarise  key  safety  matters  and  incidents,  allowing  wider  dissemination  of  lessons  learnt  from  them.    The  information  below  has  been 
+provided in good faith by members and should be reviewed individually by recipients, who will determine its relevance to their own operations. 
+
+The effectiveness of the IMCA safety flash system depends on receiving reports from members in order to pass on information and avoid repeat incidents.  
+Please consider adding the IMCA secretariat (imca@imca-int.com) to your internal distribution list for safety alerts and/or manually submitting information 
+on specific incidents you consider may be relevant.  All information will be anonymised or sanitised, as appropriate. 
+
+A  number  of  other  organisations  issue  safety  flashes  and  similar  documents  which may  be  of  interest  to  IMCA  members.   Where  these  are  particularly 
+relevant, these may be summarised or highlighted here.  Links to known relevant websites are provided at www.imca-int.com/links   Additional links should 
+be submitted to webmaster@imca-int.com 
+
+ 
+
+1  Compact Fluorescent Lights Interfering with Communications Equipment 
+
+Members’ attention is drawn to the attached announcement from the United States  Coast Guard regarding possible radio 
+frequency interference with vessel communications equipment which may arise from the use of compact fluorescent lights. 
+
+2  High Potential Near-Miss During Back Loading 
+
+A member has reported a high potential near miss incident which occurred during the back loading of a crane boom section 
+from an offshore installation.  Although no injuries were sustained as a result of this incident, two members of the deck crew 
+working on the main deck at this time could potentially have been fatally injured. 
+
+A  platform  supply  vessel  (PSV)  was  alongside  an  offshore  installation  back  loading  a  section  of  a  crane  boom.    The  crane 
+boom section was first landed on deck with no clearance from adjacent tote tanks.  However, it was necessary for deck crew 
+to pass between these tote tanks and the crane boom section to access the crane hook for unlatching.  Therefore, the crane 
+operator was asked to move the back loaded crane boom section towards the port side of the main deck to create a safe 
+gap to allow the crew members clear access. 
+
+The  crane  operator  moved  the  back  loaded  crane  boom  section  1-2m  to  port  and  asked  the  bridge  whether  the  new 
+position was satisfactory.  The bridge then confirmed with the deck crew that this new position was acceptable for them and 
+advised the crane operator accordingly.  The crane wire was then slackened and the crew members started to pass between 
+the back loaded crane boom section and the nearby tote tanks to unlatch the crane hook. 
+
+Crane boom section 
+
+Crane boom section and tote tanks 
+
+ 
+
+ 
+
+The  crane  operator  then  started  to  heave  and  raised  the  back  loaded  crane  boom  section  by  about  1m  to  approximately 
+waist height whilst personnel were between the crane boom section and the tote tanks.  There was very high potential for 
+the two crew members to be crushed between the crane boom section and the tote tanks.  A warning was given on UHF 
+radio to the crew members, who were already aware of the hazardous situation and were already moving to a safe position.  
+The crane operator then lowered the crane boom section to deck.   Weather conditions at the time of the incident were 
+within acceptable working limits, consisting of wind speed 19 knots and significant wave height of between 1.5 and 2.0m. 
+
+  The  crane  operator  lifted  the  back  loaded  crane  boom  section  off  the  deck  but  failed  to  effectively  communicate  his 
+
+Further investigation revealed the following: 
+
+intention to the vessel personnel; 
+
+  The crane operator assumed that the deck was clear of personnel. 
+
+The following recommendations were made: 
+
+  Crane operators should: 
+
+– 
+
+– 
+
+– 
+
+communicate  their  intentions  to  all  relevant  installation  and  vessel  personnel  before  proceeding  with  any  lifting 
+operation 
+ensure  that  all  communications  are  fully  understood  and  verified  by  all  relevant  installation  and  vessel  personnel 
+before proceeding with any lifting operation 
+avoid making assumptions and verify that the deck area is clear of all personnel before proceeding with  any lifting 
+operation 
+
+Members are also referred to the following IMCA publications: 
+
+IMCA SEL 019 – Guidelines for lifting operations 
+
+ 
+
+ 
+
+IMCA SEL 020 – Guidance on operational communications:  Part 2 – Lifting operations. 
+
+3  Lifeboat Davit Failure 
+
+Following a refit, sea trials were being conducted on a member’s vessel in preparation for a return to operations.  Defects 
+were discovered on the davit tilt arms on both the forward and aft legs of two lifeboat davits.  Both tilt plates on each leg of 
+the aft davits were found to be cracked and distorted.  It was evident after inspection that the initial defects were historical 
+and may have existed for some time unnoticed.  The defects may have been compounded by load tests conducted during the 
+recent refit, during which the davits had been upgraded to allow new lifeboats to be installed. 
+
+Following further investigation with the close co-operation of the original equipment manufacturer it was concluded that the 
+defects  to  the  davit  tilt  arms  were  caused  by  the  incorrect  operation  of  the  davits.    The  davit  arms  had  previously  been 
+brought inboard of the vessel without the required minimum 500kg weights attached to the davit hooks.  A clear warning 
+that this should not take place is included in this specific manufacturer’s documentation. 
+
+The following actions were recommended: 
+
+  The  original  equipment  manufacturer’s  documentation  for  the  davits  should  be  consulted  and  appropriate  operating 
+instructions  verified  to  ensure  existing  practices  do  not  deviate  from  manufacturer-recommended  launching  practices, 
+nor compromise the safety and operational integrity of the equipment; 
+
+  Davit launch/recovery operators should ensure that the davit is operated in accordance with the guidance provided by 
+
+the original equipment manufacturer; 
+
+  Warning notices should be posted adjacent to each lifeboat operating station (see the diagram below); 
+
+  A thorough inspection of tilt plates should be included in monthly planned maintenance checks; 
+
+  Since the defects appear to have originated some time in the past, better quality control is required of bi-annual, annual 
+and five-yearly inspections by specialist contractors to ensure that they are conducting the thorough examination of the 
+equipment properly and to an appropriately high standard. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Worn davit tilt plate and parts 
+
+Worn davit tilt plate and parts 
+
+Lifeboat davit 
+
+ 
+
+  
+
+  
+
+Suggested warning placard to be placed near 
+
+lifeboat operating station 
+
+  
+
+4  Uncontrolled Movement of A-Frame 
+
+A member has reported an incident in which there was an uncontrolled movement 
+of  an  A-frame  mechanism.    The  uncontrolled  movement  of  the  A-frame  luffing 
+function occurred whilst personnel were working on top of the tether management 
+system  (TMS).    The  incident  occurred  during  the  re-attachment  of  a  main  lift 
+umbilical  bullet,  following  a  mechanical  re-termination.    Winch  and  A-frame 
+functions had been used to manoeuvre the end of the umbilical through the top of 
+the TMS until the bullet reached the lift point swivel.   A technician was on top of 
+the  TMS  to  guide  the  umbilical  and  then  install  the  clevis  pins  and  keeper  plates.  
+The technician was in full personal protective equipment (PPE) and also using a fall 
+arrester fixed to the top of the A-frame. 
+
+It was at this point that the A-frame started to luff out.  Because the winch did not 
+pay out at the same time the umbilical came under tension and caused the TMS to 
+lift  approximately  1m  off  the  deck.    The  technician  standing  by  at  the  control 
+console  immediately  hit  the emergency  stop,  turning  off  the  hydraulics  to  prevent 
+any  further  movement.    As  soon  as  the  TMS  began  to  lift  the  technician  on  top 
+managed  to  step  off  to  safety  on  to  the  top  of  the  winch  frame.    There  were  no 
+injuries or damage to equipment. 
+
+Subsequent investigation by  the company revealed that  a  proportional valve  driver,  a part of the hydraulic control system, 
+had  failed  and  was  giving  a  constant  output  signal  to  the  luffing  valve  without  any  input  command.    This  caused  the  luffing 
+valve to operate in an uncontrolled way, which in turn caused the A-frame to move.  The valve driver was replaced and full 
+normal operation was restored. 
+
+TMS and A-frame 
+
+ 
+
+ 
+
+The following points were noted: 
+
+equipment; 
+
+  The  events  could  have  resulted  in  a  high  potential  incident,  involving  serious  injury  or  damage  both  to  personnel  and 
+
+  The task should have had a specific risk assessment in place identifying the hazards associated with each job step; 
+
+  The availability of power to the A-frame at the point of attachment should have been identified; 
+
+  When  the  clevis  pins  were  to  be  inserted,  the  hydraulics  to  the  system  should  have  been  isolated  thus  avoiding  any 
+
+inadvertent operation. 
+
+The following actions were recommended: 
+
+  Operating procedures and risk assessments were changed so as to isolate the hydraulics whilst personnel are on top of 
+
+the TMS with the bullet and lift point swivel mechanically connected; 
+
+  Modifications  were  made  to  the  hydraulic  control  system  to  prevent  a  recurrence  of  this  incident.    The  modification 
+included  the  installation  of  a  relay  isolating  the  proportional  valve  driver  output until  the  relative  joystick  is  operated.  
+This would prevent uncontrolled operation of the luffing rams if the proportional valve driver unit had a similar failure 
+again. 
+
+ 
+ 
+ 
+ 
+June 8, 2009                                                                                                                      Alert 02-09 
+Washington, DC 
+
+Compact Fluorescent Lights 
+
+This  Safety  Alert  serves  to  inform  the  maritime  industry  that  energy  saving  Compact  Fluorescent 
+Lights (CFL) or lighting, sometimes known as radio frequency (RF) lighting devices may interfere with 
+certain communications equipment. CFLs employ a RF lighting device to excite a gas inside a bulb in 
+order to produce light.  
+ 
+The  Federal  Communications  Commission  (FCC)  recognized  the  need  for  and  adopted  rules  to 
+control  the  harmful  interference  to  radio  communications  services  from  these  devices.  During  the 
+rulemaking  process  the  Coast  Guard  provided  comments  and  recommended  an  advisory  label  for 
+CFLs / RF lighting devices warning users about potential interference to communication services and 
+particularly with respect to devices capable of producing emissions in the 0.45-30 MHz band.  As a 
+result,  the  FCC  required  manufacturers  of  CFLs  to  provide  an  advisory  statement,  either  on  the 
+product packaging or with other user documentation, similar to the following: "This product may cause 
+interference 
+installed  near  maritime  safety 
+communications  equipment  or  other  critical  navigation  or  communication  equipment  operating 
+between 0.45-30 MHz."  
+ 
+The Coast Guard has learned that CFLs have been installed on the navigation bridges of vessels and 
+in  other  places  capable  of  causing  radio  communications  interference.    Marine  inspectors,  vessel 
+owners  and  operators  should  be  aware  of  this  potential  safety  hazard  and  take  proper  action  as 
+needed. 
+ 
+Below are examples of some compact fluorescent lights with different shapes and sizes.   
+ 
+
+to  radio  communications  and  should  not  be 
+
+ 
+
+ 
+
+   
+ 
+ 
+ 
+This  safety  alert  is  provided  for  informational  purposes  only  and  does  not  relieve  any  domestic  or 
+international safety, operational or material requirement.  Developed by the Office of Domestic Vessel 
+Activities (CG-5431), United States Coast Guard Headquarters, Washington, DC.   
+ 
+                                                                        ******* 
+ 
+ 
+ 
+Office of Investigations and Analysis:  http://marineinvestigations.us 
+To subscribe: kenneth.w.olsen@uscg.mil 
+
+

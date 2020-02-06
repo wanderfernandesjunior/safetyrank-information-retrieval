@@ -1,0 +1,77 @@
+Safety Alert 
+
+        From the International Association of Drilling Contractors 
+
+ 
+ALERT 09 – 22 
+ 
+
+AIR WINCH MOUNTING BOLTS FAILURE 
+
+ 
+WHAT HAPPENED: 
+ 
+While running the BOP stack the air winch was pulled from its foundation.  The air winch came to rest on the 
+handrails overlooking the Moonpool, which is approximately 4 feet in front of the air winch’s original location.  
+There were no injuries associated with this incident.  
+
+ 
+WHAT CAUSED IT: 
+ 
+1.  The air winch operator was new to the rig and was not experienced in operating the air winch while 
+
+running the BOP stack. 
+
+2.  The tattle-tail (indicator) to maintain mid-stroke on the tensioner was a rope tied to the tensioner with a 
+
+shackle tied to the bottom of the rope.  This rig-designed indicator was difficult to see due to the various 
+other lines in the same vicinity. 
+
+3.  The tensioner bottomed out and pulled the air winch from its foundation. 
+4.  The bolts securing the air winch to the foundation had pulled out of the nuts. 
+5.  Bolts were 3/4” in diameter and should have been at least 7/8” in diameter. 
+6.  Although all 16-bolts were of Grade-8 strength, they were corroded and did not have full nuts.   
+7.  There were only 2 to 4 threads made up on each of the nuts. 
+ 
+CORRECTIVE ACTIONS:  To address this incident, this company did the following: 
+ 
+  Action Items – Maintenance Department 
+ 
+
+1.  Modified the Preventative Maintenance (PM) program for all rigs to require inspection of all air winch 
+
+foundation bolts for corrosion, proper size, and make-up during monthly air hoist PMs. 
+
+2.  Added to the annual non-destructive examination (NDE) inspection a requirement to inspect the air 
+
+winch bolts for proper grade and condition, along with the integrity of the air winch’s foundation. 
+
+Installed a rig phone by the air winch to establish better communications with the Driller. 
+
+1. 
+2.  Ensured mid-stroke for the tensioner can easily be seen by the air winch operator.  If not, rig 
+
+personnel were instructed to design a more reliable means of tracking the position of the sheave 
+cluster. 
+
+ 
+  Action Items – Rig 
+ 
+
+ 
+ 
+ 
+
+The Corrective Actions stated in this alert are one company’s attempts to address the incident,  
+
+and do not necessarily reflect the position of IADC or the IADC HSE Committee. 
+
+This material is presented for information purposes only.  Managers & Supervisors should 
+
+evaluate this information to determine if it can be applied to their own situations and practices 
+
+Copyright  2005 International Association of Drilling Contractors All rights reserved. 
+
+Issued July 2009 
+
+

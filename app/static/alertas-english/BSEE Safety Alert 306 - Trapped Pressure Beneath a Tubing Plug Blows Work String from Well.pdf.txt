@@ -1,0 +1,299 @@
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+BSEE 
+
+ 
+
+U.S. Department of the Interior 
+Bureau of Safety and 
+ 
+ 
+EnvironmentalEnforcement 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Safety Alert No. 306 
+ 
+19 March 2014 
+
+ 
+Safety 
+ 
+Alert 
+
+Contact: Matt Nagy 
+ 
+(504) 736-2828 
+
+Trapped  Pressure Beneath  a  Tubing  Plug  Blows  Work  String  from  Well  
+
+ 
+
+ 
+
+   
+
+A lease operator was conducting a recompletion using both a coil tubing unit and a platform rig 
+on an Outer Continental Shelf (OCS) platform. Upon completion of coil tubing operations, a 
+ 
+DX pump through type tubing plug was set in the production tubing. Records indicated that at 
+ 
+the time the plug was set, the fluid weight in the well was 12.7 pounds per gallon and that the 
+ 
+well was static. 
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+Upon re-entry of the well with the platform rig, several attempts were made to pump through the 
+DX plug to ensure the well was indeed static.  During each attempt to pump, the pressure slowly 
+bled off. The operator assumed that the pressure was going into the formation and that the well 
+was in a static state.  An external cutter was then run, and the production tubing was cut below 
+the DX plug.  Upon completion of the cut the tubing parted and unexpected pressure was 
+released into the casing annulus.  The well began to flow and 807 feet of work string was blown 
+from the well.  All personnel were mustered and the blowout preventer (BOP) was closed. No 
+injuries were reported as a result of the incident and all personnel were accounted for. 
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+An investigation by BSEE concluded that the following factors contributed to the accident: 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+•	   Wireline jet-cutter debris  and sand had accumulated on top of and inside the plug  body 
+and the equalizing  sub-assembly  directly  beneath the plug.  The presence of  the debris 
+and sand prevented the fluid from being  pumped through the plug and into the formation 
+to kill the well.  
+
+•	   The  wireline jet-cutter debris and sand made  it unlikely  that the equalizing ports on the  
+plug  would open, thus preventing  the  identification of trapped pressure below the plug.  
+
+•	   The lease operator made  the decision to cut the  tubing  below the plug with  some 
+
+
+uncertainty  as to the presence of pressure trapped below the plug.
+  
+
+BSEE  recommends  the  following  when re-entering  existing  wells  when uncertainty  exists  about  
+the possibility  of trapped pressure below previously set plugs:  
+
+•	   Diagnostics   be   thoroughly   performed  on  wells   prior   to   re-entry   to   check  for   trapped 
+
+pressures.  
+
+•	   Operators develop operational procedures that  account  for   the   possibility   of   trapped 
+
+pressure beneath previously  set plugs.  
+
+•	   Consideration  of  using snubbing units  for  well  servicing when there  is  any doubt  as  to the  
+
+presence of pressure below plugs of  any  type.  
+
+ 
+—BSEE— 
+
+ 
+www.bsee.gov 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+A Safety Alert is a tool used by BSEE to inform the offshore oil and 
+ 
+gas industry of the circumstances surrounding an accident or a near miss. It also 
+contains recommendations that should help prevent the recurrence of such an 
+incident on the Outer Continental Shelf. 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+

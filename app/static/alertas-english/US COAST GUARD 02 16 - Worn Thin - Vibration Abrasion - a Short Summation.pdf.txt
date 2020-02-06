@@ -1,0 +1,67 @@
+ 
+
+         Inspections and Compliance Directorate 
+
+ 
+
+ 
+ Safety Alert 02-16 
+
+April 4, 2016 
+Washington, DC                                            Worn Thin 
+
+Vibration Abrasion, a “Short” Summation 
+
+TELLTALE 
+
+WEAR MARKS 
+
+ 
+This  Safety  Alert  addresses  causal  factors  related  to  a  temporary  loss  of  electrical  power  that 
+occurred onboard a tow boat with a tow.  In this case, electrical power was restored quickly by a 
+standby  generator,  and  the  vessel  and  tow  remained  under  control  throughout  the  event.  
+Furthermore,  the  crew  quickly  identified  the  problem 
+and took appropriate steps to prevent recurrence. 
+ 
+The  casualty  involved  a  diesel-driven  generator,  which 
+grounded  out  and  tripped  off  line  when  one  of  the 
+primary  leads  exiting  the  generator  housing  chafed 
+against  its  steel  enclosure.    Investigators  determined 
+that  other  vessels  operated  by  the  same  company  had 
+similar generators and wiring arrangements.  Inspection 
+of those generators showed similar signs of chafing and 
+abrasion, but the wiring had not yet reached the point of 
+failure. 
+ 
+Corrective action and repairs were quickly taken on the 
+worn  areas.  The  simple  fix  involved  wrapping  the  worn 
+areas  with  friction  or  electrical  tape.    Additional  rubber 
+protectors were also installed and held in place with tie 
+wraps. 
+ 
+Vibrational  loosening  of  diesel  engine  components  is  a 
+well  known  causal  factor  in  fuel  oil  spray  fires.    While 
+this  situation  is  different  than  a  failed  fuel  line,  the 
+unsafe  condition  leading  to  the  failure  is  similar.  Both 
+circumstances  serve  as  a  reminder  for  personnel  to 
+consider  what  could  occur  as  a  result  of  vibration.  
+Inspect at-risk areas such as piping systems connected 
+to  the  engine,  engine  mounts,  pipe  clamps,  wire  bundles,  brackets,  and  areas  where  connected 
+components  pass  through  decks  or  overheads.    Areas  that  house  the  generator’s  larger  leads 
+should only be inspected for insulation wear by qualified personnel. 
+ 
+As  a  result  of  this  casualty  the  Coast  Guard  strongly  recommends  that  vessel  operators  with 
+similar  generators  on  board  consider  having  a  qualified  individual  inspect  the  casing  area  where 
+the  winding  leads  exit  the  generator  frame  for  similar  wear.    All  electrical  safety  precautions 
+including lock out / tag out procedures should be taken prior to beginning work. 
+ 
+This  safety  alert  was  developed  by  the  Coast  Guard  Headquarters  Office  of  Investigations  and 
+Casualty  Analysis  with  assistance  from  Prevention  personnel  of  Coast  Guard  Sector  Lower 
+Mississippi River and the Eighth Coast Guard District.  Questions and comments may be sent to: 
+HQS-PF-fldr-CG-INV@uscg.mil. 
+
+RUBBER CHAFING PROTECTORS 
+
+ 
+
+

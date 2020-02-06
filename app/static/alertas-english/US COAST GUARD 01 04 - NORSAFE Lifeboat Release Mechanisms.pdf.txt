@@ -1,0 +1,214 @@
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+January 27, 2004                                                                                                                 Alert 1-04 
+Washington, DC   
+ 
+
+POTENTIAL SERIOUS SAFETY HAZARD 
+
+NORSAFE CAMSAFE LIFEBOAT RELEASE MECHANISMS 
+
+ 
+Recently  a  NORSAFE  Miriam  8.5  meter  lifeboat  equipped  with  NORSAFE  Camsafe  release 
+mechanism fell from a semisubmersible mobile offshore drilling unit during initial preparation for sea 
+trials.  While  the  lifeboat  was  being  recovered  and  raised  to  its  stowage  position,  the  aft  hook 
+unexpectedly  released  at  a  height  of  about  70  feet,  followed  by  the  disengagement  of  the  forward 
+hook as it took the full load of the boat. The boat tumbled and fell to the water landing upside down, 
+causing one fatality and injuring two other crewmen. 
+ 
+The  NORSAFE  Camsafe  release  mechanism  became  available  in  2000.  It  is  not  Coast  Guard 
+approved,  however,  it  may  be  fitted  on  some  NORSAFE  lifeboats  accepted  by  the  Coast  Guard 
+based on Norwegian approval.  
+ 
+After  the  accident  the  release  mechanism  control  lever  was  found  in  the  locked  position  inside  the 
+boat,  but  it  is  apparent  that  the  hook  itself  was  not  fully  engaged  with  the  cam  inside  the  release 
+mechanism.  Subsequent  investigation  found  that  the  release  mechanism  control  lever  could  be 
+placed in the locked position even though the locking cam had not properly engaged the hook. In this 
+condition, the mechanism can appear upon casual examination to be locked and, due to the design 
+and roughness of the hook and cam surfaces, it could bear a significant load. However, the hook can 
+in fact release at any time without warning.  
+ 
+Satisfactory  engagement  and  locking  of  the  release  device  is  dependent  upon  successful  mating 
+between the male and female portions of the cam and hook, respectively, as shown in the following 
+drawing.  
+
+ 
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+When  properly  engaged,  the  seam  between  the  edges  of  the 
+mating  components  will  be  clearly  visible  in  the  inspection 
+window  located  on  one  side  of  the  release  mechanism. 
+Observation  of  the  components  within  this  window  will  enable 
+confirmation of complete cam-to-hook engagement and look as 
+depicted on the right. 
+ 
+It is important to note that this window is impossible to see from 
+inside  the  lifeboat  and  the  associated  lifeboat  and  release 
+mechanism  manuals  are  not  clear  on  what  the  viewer  should 
+look for to ensure proper engagement.  
+ 
+The  casualty 
+recommendations are likely to follow.  
+ 
+In the interim the Coast Guard strongly recommends:  
+ 
+
+is  not  complete.  Additional 
+
+investigation 
+
+•  That  only  those  launching  and  recovery  operations  that  are  absolutely  necessary  should  be 
+
+carried out with lifeboats having the Camsafe release mechanisms.  
+
+•  Prior to launching the lifeboat, proper cam engagement must be verified as well as each time 
+
+the boat is lifted for recovery operations. 
+
+ 
+Verification Procedure 
+ 
+All  ships  with  NORSAFE  lifeboats  should  be  inspected  immediately  to  determine  whether  they  are 
+fitted with Camsafe release mechanisms. Lifeboats fitted with Camsafe release mechanisms should 
+be examined as described below. 
+ 
+
+1.  With  the  lifeboat  in  the  STOWED  position,  and  MAINTENANCE  PENDANTS  FITTED,  check 
+the inspection window of the hook (which may be outboard) to determine whether the cam and 
+hook are completely engaged. 
+
+2.  A properly engaged cam and hook will look like this: 
+
+ 
+
+ 
+
+ 
+
+ 
+
+3.  An improperly engaged hook and cam may look like this: 
+
+ 
+
+IMPORTANT - The inside surface of the opposite side plate (or half) of the release mechanism 
+will be visible, unless a significant portion of the hook is out side the side plates. 
+ 
+
+4.  If  the  cam  and  hook  are  not  completely  engaged,  the  load  of  the  boat  must  be  temporarily 
+transferred  from  the  release  mechanism  and  on  to  the  maintenance  pendants.  Next  the 
+release lever at the helmsman's station is reset while the hook is pushed into place by hand to 
+ensure  the  cam  and  hook  are  completely  engaged.  The  load  may  then  be  returned  to  the 
+release  mechanism  after  confirming  complete  cam  engagement  through  the  inspection 
+window. 
+
+ 
+With  the  cam  and  hook  completely  engaged,  the  release  mechanism  is  safe  to  use.  However,  until 
+the investigation has been completed, and the need for corrective measures for the Camsafe release 
+mechanism and/or installation has been determined, ONLY THOSE LAUNCHING AND RECOVERY 
+OPERATIONS THAT ARE ABSOLUTELY NECESSARY SHOULD BE CARRIED OUT, with lifeboats 
+having the Camsafe release mechanisms. 
+ 
+Questions  regarding  this  information  and  reports  of  any  Camsafe  release  mechanisms  found  not 
+completely engaged may be addressed to LT Todd Howard of the Coast Guard's Life Saving and Fire 
+Safety Division at (202) 267-6854 or THoward@comdt.uscg.mil. 
+ 
+NOTE - On January 29, 2004 additional information relating to this safety alert was distributed 
+as follows: 
+ 
+
+LIFEBOAT RELEASE MECHANISMS 
+
+Based  on  comments  and  questions  on  the  recent  January  27,  2004  Lifeboat  Release  Mechanism 
+Safety Alert, the Coast Guard is providing the following clarification regarding access to the Camsafe 
+inspection window, resetting procedures, and the safety of other release mechanism designs.  
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+•  The  Camsafe  (7T)  inspection  window  is  impossible  to  see  from  inside  the  Norsafe,  Miriam 
+lifeboat  and  therefore  the  crewmember  must  either  crawl  out  the  hatch  near  the  release 
+mechanism or use the side hatch to go around the outside of the boat to check the window.  
+
+•  The associated lifeboat and release mechanism manuals differ and are not clear on what the 
+crewmember  should  look  for  to  ensure  proper  engagement.  (See  detailed  description  and 
+photographs in the previous message.) The release mechanism manual is less detailed than 
+the  lifeboat  manual,  but  neither  makes  it  clear  that,  to  ensure  complete  engagement  of  the 
+hook and cam, the crewmember at the release mechanism must push on the hook tail while 
+the helmsman closes the release lever.  
+
+•  The  posted  instructions  within  the  lifeboat  do  not  completely  cover  all  the  required  steps  to 
+
+safely recover the lifeboat.  
+
+•  The use of the seat harness while raising the lifeboat might have prevented the fatality and is 
+
+recommended anytime the lifeboat is raised or lowered. 
+
+ 
+There have been a number of casualties associated with recovery of lifeboats and the testing of their 
+release mechanisms, and it is currently the subject of study and discussions within the International 
+Maritime Organization (IMO).  
+ 
+The  Coast  Guard  emphasizes  that  while  lifeboat  release  mechanisms  are  required  by  IMO 
+regulations  to  be  protected  against  accidental  or  premature  release  when  under  load,  the  methods 
+and effectiveness of protection vary with different manufacturers' designs. Accidents can occur with 
+most designs if they are not used properly.  
+ 
+Mariners must never assume that any release mechanism will work like the one on their last 
+ship -- study how each mechanism works and practice with it.  
+ 
+Questions regarding this information may be addressed to LT Todd Howard of the Coast Guard's Life 
+Saving and Fire Safety Division at (202) 267-6854 or THoward@comdt.uscg.mil. 
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+

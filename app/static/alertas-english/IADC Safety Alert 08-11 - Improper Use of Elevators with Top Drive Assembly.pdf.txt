@@ -1,0 +1,100 @@
+Safety Alert 
+
+        From the International Association of Drilling Contractors 
+
+ 
+ALERT 08 – 11 
+ 
+
+IMPROPER USE OF ELEVATORS WITH 
+
+TOP DRIVE ASSEMBLY 
+
+ 
+WHAT HAPPENED: 
+ 
+During a visit to an operating rig, the Top-drive Technician observed the elevators being used in the incorrect 
+position (backwards) during tripping operations.  This occurred despite the fact that he had given instructions 
+on the proper use explained the top drive system (TDS) in detail to the rig crew the previous day. 
+ 
+WHAT CAUSED IT: 
+ 
+The Driller chose to re-install the elevators incorrectly (backwards) in order to extend the link tilts out further 
+for the derrick man while racking back pipe.  In order for this configuration to be operated, the following steps 
+needed to be performed: 
+ 
+•  The  elevators  had  to  have  been  manually  removed,  turned  180  degrees  and  re-installed.    The  Driller 
+would then be in a position to rotate the handler 180 degrees allowing the link tilt to extend further out 
+(Drilling mode). 
+
+ 
+•  The safety system which triggers the warning alarm at 60 feet (18 meters) above the rig floor and then 
+triggers the braking system at 70 feet (21 meters) above the rig floor in order to prevent the TDS from 
+ever reaching the monkey board level when the links are in the drilling position was switched off. 
+
+ 
+In doing the above steps, the Driller knowingly violated procedures,-by-passed a safety device and put the 
+equipment and more importantly, the safety of the Crew at serious risk. 
+ 
+CORRECTIVE ACTIONS:  To address this incident, this company did the following: 
+ 
+•  The job was immediately stopped by the top-drive technician.  He explained again how the TDS needs to 
+be set up for tripping and why.  He then supervised the crew to ensure that the TDS was set up properly 
+in the tripping mode and the safety warning device enabled. 
+
+•  A  behavioral  observation  card  was  written  and  handed  into  the  Rig  Supervisor  and  rig  Top-drive 
+
+Supervisor. 
+
+•  The  rig  Top-drive  Supervisor  then spoke  to  the  Field  Superintendent  and  explained  the  situation.    The 
+Field  Superintendent  then  immediately  called  the  Rig  Manager  to  ensure  the  proper  procedures  are 
+being maintained and enforced. 
+
+The Corrective Actions stated in this alert are one company’s attempts to address the incident,  
+
+and do not necessarily reflect the position of IADC or the IADC HSE Committee. 
+
+This material is presented for information purposes only.  Managers & Supervisors should 
+
+evaluate this information to determine if it can be applied to their own situations and practices 
+
+Copyright © 2005 International Association of Drilling Contractors All rights reserved. 
+
+Issued March 2008 
+
+Safety Alert 
+
+        From the International Association of Drilling Contractors 
+
+ 
+
+ 
+
+to 
+
+Elevator  Handles 
+ALWAYS 
+be 
+positioned  pointing 
+to  the  back  side  of 
+the backup tong 
+
+Back-Up tong 
+
+Elevators 
+
+ 
+
+The Corrective Actions stated in this alert are one company’s attempts to address the incident,  
+
+and do not necessarily reflect the position of IADC or the IADC HSE Committee. 
+
+This material is presented for information purposes only.  Managers & Supervisors should 
+
+evaluate this information to determine if it can be applied to their own situations and practices 
+
+Copyright © 2005 International Association of Drilling Contractors All rights reserved. 
+
+Issued March 2008 
+
+

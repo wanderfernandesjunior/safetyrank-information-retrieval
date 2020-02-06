@@ -1,0 +1,84 @@
+Safety Alert 
+
+        From the International Association of Drilling Contractors 
+
+ 
+ALERT 07 – 03 
+
+MAST RAISING LINE FAILURE 
+
+WHAT HAPPENED: 
+ 
+During the rig move, the drilling rig mast was to be raised.  It was initially lifted 30 cm (12 inches) from its 
+horizontal position  on  the  high  derrick stand  and  operations stopped  for  15  minutes with  the  mast  hoisting 
+system under tension.  This was done to allow the crew to fit Blowout Preventer (BOP) lifting beams below 
+the sub-structure.  Lifting operations then re-commenced pulling 220 tons, lifting a further 60 cm (2 feet).  A 
+bang was heard and the mast fell back 90 cm (3 feet) uncontrolled, landing on and damaging the high derrick 
+stand.  The monkey board and mast were also damaged.  .  No personnel injury but there was major asset 
+damage. 
+ 
+
+Picture 1 
+
+ 
+
+Picture 2 
+
+ 
+
+Picture 3 
+
+ 
+
+ 
+WHAT CAUSED IT: 
+ 
+It was found that the short leg of the 2 1/4" diameter mast raising line had failed at the first sheave.  The mast 
+had been raised 30 cm (12 inches) and left static with the failure weight 220 ton held on the brake.  No clear 
+cause of the raising line failure could be established at the initial site visit.  Further metallurgical and 
+dimensional checks need to be carried out by independent cable examination laboratories.  The line had 
+exceeded its life span as set by the contractor, but not its number of cycles.  A step-out was generated for 
+this, but not on sound engineering principles.   
+ 
+Potential Severity:   
+ 
+A  Level  4  (fatality)  potential  was  assigned  to  this  incident  from  the  fact  that  men  were  then  walking  in  the 
+area  where  the  raising  line  whipped  during  failure.    Given  a  different  time  of  failure  one  or  two  men  could 
+have been seriously injured or killed.   
+ 
+CORRECTIVE ACTIONS:  To address this incident, this company issued the following instructions: 
+ 
+
+•  Change out your raising line on time.  Do not exceed the working life or cycles set by the company. 
+
+Question the assumptions on which the change out is based. 
+
+•  Ensure that all step-outs are based on sound engineering principles, not just to keep a unit in action. 
+Do a reality check on the risk assessment in the step-out, what if this piece of equipment failed, what 
+would the end result be, do not understate the results   
+
+•  Understand the loads applied in the system and the safety factors applied. 
+•  Under no circumstances allow anyone to walk or work under the mast or in the sub-structure area 
+
+when the lifting of the mast is taking place.  If work needs to be done, find another way to do it.  
+
+•  Refer to raising-line procedures in pre-job discussions, recognize loads quoted and question when 
+
+these figures don’t match reality. 
+
+ 
+IADC Note:  Refer to the IADC HSE Committee’s Safety Topic Book “Raising and Lowering the Mast”   
+
+The Corrective Actions stated in this alert are one company’s attempts to address the incident,  
+
+and do not necessarily reflect the position of IADC or the IADC HSE Committee. 
+
+This material is presented for information purposes only.  Managers & Supervisors should 
+
+evaluate this information to determine if it can be applied to their own situations and practices 
+
+Copyright © 2005 International Association of Drilling Contractors All rights reserved. 
+
+Issued January 2007 
+
+

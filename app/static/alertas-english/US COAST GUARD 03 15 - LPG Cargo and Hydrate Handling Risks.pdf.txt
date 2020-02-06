@@ -1,0 +1,161 @@
+ 
+
+March 3, 2015 
+Washington, DC 
+
+         Inspections and Compliance Directorate 
+
+ Safety Alert 3-15 
+
+ 
+
+LIQUEFIED PETROLEUM GAS (LPG) 
+
+ Cargo and Hydrate Handling Risks 
+
+ 
+
+This  Safety  Alert  serves  as  a  reminder  to  all  Gas  Carrier  owners  and  operators  of  the  importance  of 
+ensuring all personnel follow approved Safety Management System cargo handling procedures and industry 
+best  practices.    It  recommends  that  owner  operators  ensure  all  shipboard  personnel  associated  with  the 
+handling of cargo are familiar with all existing procedures to reduce casualty risks.  Further, it recommends 
+that when shipboard personnel identify cargo or safety concerns that they inform facility personnel prior to 
+commencing loading or immediately after an issue is noted during cargo transfers. 
+ 
+Recently, the Coast Guard investigated a fire that occurred in a cargo compressor room onboard a foreign 
+flagged  Liquefied  Petroleum  Gas  (LPG)  Carrier.    Investigators  suspect  that  unsafe  cargo  handling 
+procedures associated with manual draining of hydrates from the drain line on the outlet of re-liquefaction 
+condensers  directly  contributed  to  this  casualty.    Hydrates  are  compounds,  in  the  form  of  crystalline 
+substances,  developed  from  the  interaction  of  water  and  hydrocarbons  at  certain  pressures  and 
+temperatures.    They  are  commonly  present  in  LPG  cargoes  and  must  be  safely  managed  throughout  the 
+cargo  system.    Hydrates,  if  not  removed,  can  result  in  frozen  regulating  valves,  clogged  filters,  damaged 
+equipment, and other problems in the related cargo systems.  
+ 
+In  the  incident  under  investigation,  the  LPG  being  loaded  was  at  a  higher  temperature  than  the  operator 
+desired for transit.  In order to cool the LPG cargo, the gas was re-liquefied to a lower temperature by using 
+the vessel’s boil off system.   The gas was directed from the tank to a compressor, compressed to a higher 
+pressure, and then condensed back to a liquid at a lower temperature.  From the condenser it flowed back 
+to  the  tank,  but  first  passed  through  an  expansion  valve.    It  was  reported  that  while  this  system  was 
+operating, the piping near the expansion valve began constricting flow due to hydrates freezing.  This then 
+caused an increase in system pressure from the expansion valve back via the condenser and to the outlet 
+of the compressor.   
+ 
+Crewmembers 
+reported that a ball 
+valve  at  a  sample 
+a 
+point 
+condenser 
+outlet 
+piping was opened 
+on  occasion 
+to 
+drain  the  hydrates 
+into  a  modified 
+bucket.  It was also 
+that 
+learned 
+flanges 
+the 
+outlet  piping  of  the 
+ball 
+had 
+been  removed  and  left  off.    Investigators  were  told  that  the  Cargo  Engineer  regularly  made  rounds  to 
+manually drain the hydrates to the bucket in order to prevent the freezing of the expansion valve.  However, 
+no buckets were found and significant accumulations of ice were noted in the bilge areas below the same 
+sample point for two of the three liquid line drains. 
+
+Directly Below Valve Flange 
+
+End Blanks Previously Off 
+
+Sample Valve (Ball Type) 
+
+Ice Accumulation 
+
+valve 
+
+on 
+
+in 
+
+1 
+
+Safety Alert 3-15 
+Whether  or  not  buckets  were  used  to  capture  the  hydrates,  along  with  escaping  liquid  propane,  and  then 
+later allowed to boil off as stated by the crew, or if the drains were left cracked on or just leaking, as they 
+were found, may never  be exactly determined.  However, the ice formation in the bilge seems to indicate 
+the latter was the more prevalent condition.  Regardless of either initial condition, a hazardous flammable 
+atmosphere  developed.    With  the  doors  of  the  compressor  room  clearly  labeled  to  be  kept  closed,  but 
+latched  open,  it  is  likely  that  proper  air  flow  and  volumetric  air  changes  in  the  space  did  not  occur.    It  is 
+speculated by crewmembers that a fallen flange blank may have provided the initial spark that ignited the 
+gas.    A  fire  subsequently  developed  and  destroyed  electrical  cabling  and  gaskets  associated  with  the 
+condenser.  It was extinguished quickly by a crewmember who was in the space at the time, using handheld 
+dry chemical extinguishers. 
+ 
+There were also other concerns identified during this investigation.  The following additional concerns focus 
+primarily on procedures that existed or were absent prior to the incident: an emergency system left in the 
+manual mode prevented remote activation; senior organizational personnel for the operator and facility were 
+not  informed  of  the  hydrate  situations;  procedures  for  taking  actions  when  gas  alarms  sounded  were  not 
+followed; and gas detection devices were not properly calibrated. 
+ 
+The  importance  of  Safety  Management  Systems  and  Operational  Manuals  to  be  totally  inclusive  of  all 
+routine  vessel  processes  and  procedures  cannot  be  overstated.    Although  every  scenario  that  involves 
+decision making of officers and crewmembers cannot be documented, it is reasonable to expect that those 
+procedures that are part of day-to-day operations are documented.   
+ 
+As a result of this casualty the Coast Guard strongly recommends that: 
+ 
+
+•  Senior  shore  side  operating  company  personnel  provide  extensive  technical  support  when  a 
+vessel is required to load cargo at higher temperatures and when substantial hydrates quantities 
+are known to be contained within; 
+
+•  Shipboard Safety Management Systems and Operational Manuals be inclusive of all procedures 
+to  be  expected  and  performed  onboard.    In  the  incident  under  investigation  a  procedure  for 
+removal of hydrates was unavailable; 
+
+•  Such  procedures,  when  they  are  developed,  implemented,  and  performed  should  align  with 
+industry best practices and all changes to the documented procedures should be vetted through 
+the associated parties for approval ensuring notification takes place as required;  
+
+•  Routine and frequent training of shipboard officers and crew based on documented procedures 
+for vessels transporting dangerous cargos should take place on a regular basis and cover such 
+topics as; 
+
+o  The safety risk of releasing LPG in open and enclosed spaces; 
+o  Proper  methods  to  acknowledge  and  investigate  gas  detection  alarms  regardless of 
+
+location; (Including making proper notifications to responsible parties) 
+
+o  Ensuring  that  all  ventilation  systems  are  functioning  as  designed  with  no  conditions 
+
+hindering its effectiveness such as open doors or obstructions; 
+
+o  Methods  to  inspect  and  identify  leaks  throughout  the  cargo  system,  and  corrective 
+
+actions to take when leaks are identified; 
+
+o  Ways to manage and minimize the negative effects of hydrates throughout the entire 
+
+o  Methods  to  reduce  static  electricity  as  found  in  the  National  Fire  Protection 
+
+cargo system; 
+
+Association (NFPA) 77. 
+
+ 
+
+LPG  Carrier  owners  and  operators  are  encouraged  to  contact  the  Coast  Guard  regarding  hydrate 
+management and other cargo issues. This Safety Alert is provided for informational purposes only and does 
+not relieve any domestic or international safety, operational or material requirement.   Questions regarding 
+this Safety Alert should be forwarded to the Coast Guard Office of Commercial Vessel Compliance, Foreign 
+and  Offshore  Vessel  Division  (CG-CVC-2)  by  email  at  CGCVC@uscg.mil.    Port  and  Facility  questions 
+regarding this Safety Alert should be forwarded to the Office of Port and Facility Compliance (CG-FAC) by 
+email at CGFAC@uscg.mil. 
+
+ 
+
+2 
+
+

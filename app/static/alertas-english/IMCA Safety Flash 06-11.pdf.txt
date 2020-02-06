@@ -1,0 +1,168 @@
+AB 
+
+ 
+
+IMCA Safety Flash 06/11 
+
+Safety Flash 
+
+July 2011 
+
+These  flashes  summarise  key  safety  matters  and  incidents,  allowing  wider  dissemination  of  lessons  learnt  from  them.    The  information  below  has  been 
+provided in good faith by members and should be reviewed individually by recipients, who will determine its relevance to their own operations. 
+
+The effectiveness of the IMCA safety flash system depends on receiving reports from members in order to pass on information and avoid repeat incidents.  
+Please consider adding the IMCA secretariat (imca@imca-int.com) to your internal distribution list for safety alerts and/or manually submitting information 
+on specific incidents you consider may be relevant.  All information will be anonymised or sanitised, as appropriate. 
+
+A  number  of  other  organisations  issue  safety  flashes  and  similar  documents  which may  be  of  interest  to  IMCA  members.   Where  these  are  particularly 
+relevant, these may be summarised or highlighted here.  Links to known relevant websites are provided at www.imca-int.com/links   Additional links should 
+be submitted to webmaster@imca-int.com 
+
+ 
+
+1  Person Fell after Safety Lanyard Failed 
+
+Information has been passed to IMCA regarding the possible failure of a certain kind of safety lanyard owing to manufacturing 
+defects.  
+
+The working at height equipment manufacturer, Petzl, reported that a climber fell to the ground while recreational climbing 
+in  France.  According  to  the  latest  information  available,  the  accident  appears  to  have  been  the  result  of  a  manufacturing 
+defect of the Petzl SCORPIO lanyard.  The defect consisted of a missing safety stitch (bar tack) on the attachment loop. 
+
+Equipment  of  this  sort  is  used  by  some  IMCA  members.    All  members  are  encouraged  to  pass  this  information  to  the 
+appropriate personnel and instigate appropriate checks of any similar equipment.  
+
+Further information is available from:  
+
+www.petzl.com/en/security-alert-0/2011/05/19/request-immediate-self-inspection-all-absorbica-energy-absorbers  
+
+An inspection procedure has been developed by the manufacturer and can be found from: 
+
+www.petzl.com/files/fckfiles/image/news/sport/produits/scorpio/ABSORBICA-VERIFICATION-PROCESS-EN.pdf  
+
+2  Confined Space – Multiple Fatalities 
+
+IMCA has received information about a confined space incident in there were multiple fatalities.  The incident occurred at an 
+oil well on land.  A workman entered a water tank that contained water mixed with nitrogen, and collapsed. A co-worker 
+entered after him in an attempt to rescue him, and likewise collapsed. He was followed by two further workers who also 
+collapsed.  
+
+Water tank where incident occurred 
+
+ 
+
+The supervisor realised that four workers were inside the tank, gave orders to drain the tank and then asked two further 
+personnel to enter the tank for rescue purposes using safety lines.  
+
+Three of the rescued personnel were found unconscious and one semi-conscious.  All four were evacuated to a nearby clinic 
+for first aid and then to hospital for further treatment.  The three men found unconscious did not recover and were declared 
+dead by a local doctor. 
+
+Investigation revealed the following: 
+
+  Procedures were not followed 
+
+–  There was no permit to work for confined space entry arranged in this case; 
+–  There were no multi-gas tests conducted (LEL, O2, CO2 and H2S) before confined space entry. 
+– 
+–  The rescue attempt was not properly planned or thought through.   
+
+Personnel did not wear appropriate personal protective equipment (PPE) for task; 
+
+Members are reminded that IMCA has dealt with both confined spaces and  permits to work in the following pocket safety 
+cards;  
+
+ 
+
+ 
+
+IMCA SPC 09  Confined spaces can be deadly; 
+
+IMCA SPC 18  Permit to work. 
+
+3  Confined Space – Multiple Fatality  
+
+An incident has been drawn to IMCA’s attention in which one man died and two men had to be hospitalised following entry 
+into a confined space.  The incident occurred when the  chief officer had decided to control the valves of the slop tanks on 
+the  following  day,  and  required  the  bosun  to  open  the  access  hatches  in  order  to  start  ventilation  of  the  slop  tanks  to 
+prepare for ‘gas free’.  Shortly afterwards, personnel heard a noise as if an object had fallen into the tank.  The chief officer 
+came to the starboard slop tank and saw the bosun lying unconscious on the middle platform,  5.2 meters below the main 
+deck.  The chief officer immediately entered the tank with the intention of helping him. Further crew members arrived at the 
+slop tank and saw the chief officer trying to wake the bosun up. Assistance and a stretcher was called for, and one crewman 
+remained and then entered into the tank in order to help the chief officer. 
+
+All three persons became unconscious in the tank.  Shortly thereafter the second officer started preparations for entering 
+safely into the starboard slop tank.  A portable fan was fitted to the slop tank in order to accelerate the ventilation. In the 
+meantime  the  atmosphere  inside  the  tank  was  measured  by  a  portable  gas  analyser.    The  device  went  off  to  indicate  the 
+existence of the H2S in the tank. The read values were O2: 20, CO: 0, H2S: 60 and LEL: 0. Then the second officer put on a 
+BA set and entered the slop tank.  Afterwards the crewman, the chief officer and the bosun were all lifted out of the tank. 
+The  crewman  and  the  chief  officer  were  hospitalised  and  made  a  full  recovery.  Unfortunately  the  bosun  could  not  be 
+resuscitated and died. 
+
+ 
+
+ 
+
+Entrance to slop tank in which incident occurred 
+
+ 
+
+ 
+Following investigation, the following points were noted: 
+
+  The bosun had fallen into the slop tank for unknown reasons; 
+
+  The chief officer entered into the tank impulsively ignoring the safety rules completely and acting emotionally to help his 
+
+  The crewman also reacted emotionally rather than logically and entered the tank to assist the chief officer to rescue the 
+
+colleague; 
+
+bosun; 
+
+  The  recovery  operation,  including  identified  the  danger  caused  by  the  accumulated  gas  in  the  tank,  the  rescue  of  the 
+victims from the tank, the application of the first aid treatment and the helicopter medevac was carried out successfully 
+and professionally in accordance with company procedures; 
+
+  There was inadequate understanding of how this lethal concentration of H2S had been produced in the slop tanks. 
+
+      
+
+ 
+
+ 
+
+ 
+
+4  Failed  Chain Link  Catastrophic Failures in Mooring System 
+
+The  Bureau  of  Ocean  Energy  Management  Regulations  &  Enforcement  (BOEMRE)  has  published  Safety  Alert  No.  296 
+(attached) regarding the catastrophic failure of a chain link in a mooring system, which could have put a floating structure  at 
+risk. 
+
+In the incident, a single point mooring system failed at the tether chain for a free-standing hybrid riser, allowing the buoyancy 
+air can and the free-standing flow line riser to separate.  The 440-ton buoyancy air can rose suddenly to the surface while the 
+free standing riser collapsed. 
+
+Further information can be found at www.gomr.boemre.gov/homepg/offshore/safety/safealt/SA_296.pdf  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+

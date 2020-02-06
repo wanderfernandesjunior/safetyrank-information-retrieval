@@ -1,0 +1,440 @@
+AB 
+
+ 
+
+IMCA Safety Flash 13/14 
+
+Safety Flash 
+
+  July 2014 
+
+These  flashes  summarise  key  safety  matters  and  incidents,  allowing  wider  dissemination  of  lessons  learnt  from  them.    The  information  below  has  been 
+provided in good faith by members and should be reviewed individually by recipients, who will determine its relevance to their own operations. 
+
+The effectiveness of the IMCA safety flash system depends on receiving reports from members in order to pass on information and avoid repeat incidents.  
+Please consider adding the IMCA secretariat (imca@imca-int.com) to your internal distribution list for safety alerts and/or manually submitting information 
+on specific incidents you consider may be relevant.  All information will be anonymised or sanitised, as appropriate. 
+
+A  number  of  other  organisations  issue  safety  flashes  and  similar  documents  which may  be  of  interest  to  IMCA  members.   Where  these  are  particularly 
+relevant, these may be summarised or highlighted here.  Links to known relevant websites are provided at www.imca-int.com/links   Additional links should 
+be submitted to webmaster@imca-int.com 
+
+ 
+
+1  Bell Re-claim Failure Resulting in Minor Injury 
+
+A member has reported an incident in which a member of a dive team suffered minor injuries when equipment in a diving bell 
+failed  under  pressure.    The  incident  occurred  during  saturation  diving  operations  at  110  msw.    The  bellman  was  assisting 
+diver 1 and diver 2 to prepare for diving activities.  On opening the reclaim return line hull valve the internal in line water 
+trap  was  immediately  pressurised  and  ruptured.    Perspex  fragments  of  the  water  trap  dispersed  inside  the  bell  causing 
+superficial  lacerations  to  the  bellman’s  left  ear  and  face.    The  force  of  the  blast  caused  a  small  rupture  to  the  tympanic 
+membrane in his left ear. Diving activities were aborted and divers were returned to the living chamber.  The injured person 
+was further assessed/treated by the diving medical technician in consultation with a physician ashore and with assistance of 
+the on board medic. 
+
+ 
+
+ 
+
+Showing reclaim before and after failure 
+
+Our members’ investigation revealed the following: 
+
+♦ 
+
+In 2013 the diving bell underwent refurbishment and total re-build and as part of this process the external check valve 
+was removed and then re-installed;  
+
+♦  The diving bell had made 23 successful bell runs since being refurbished;  
+
+♦  The  reclaim  compressor  solenoid  had  failed  resulting  in  non-operation  of  the  cross  feed  actuator,  in  turn  causing 
+
+pressure to be retained in the exhaust line;  
+
+♦  The bell return line external check valve had been previously incorrectly installed (inverted) during the refurbishment, 
+allowing stored gas in the exhaust line to pressurise the internal in line water trap once the reclaim return line hull valve 
+was opened by the bellman. 
+
+The root cause of the incident was determined to be that the check valve was incorrectly installed (inverted).  A contributing 
+factor was that the planned maintenance regime did not include increased frequency of filter change since the refurbishment; 
+the reclaim compressor was started remotely. 
+
+Our member drew the following lesson:  
+
+ 
+♦  During refurbishment and  before being certified for use, the saturation system was subject to  a number of  audits  and 
+inspections conducted by third party specialist, client, owner, and project personnel.  Each time, the inverted check valve 
+had  not  been  spotted.    The  audits/inspections  were  consistent  with  IMCA  and  industry  requirements,  but  did  not 
+consider the system at the individual component level required to identify the incorrectly fitted check valve. 
+
+Members  may  wish  to  look  at  the  following  incidents  involving  pressure  failure  in  saturation  diving  equipment  (keywords: 
+pressure, saturation): 
+
+♦ 
+
+♦ 
+
+IMCA SF 08/06 – Incident: 1 Trapped pressure release incident 
+
+IMCA SF 07/14 – Incident: 1 Thermos cup exploded after being in hyperbaric environment 
+
+2  Near Miss: Unauthorised Release of Shore Controlled Mooring Lines   
+
+A member has reported a near miss incident in which mooring lines were released from shore without permission from the 
+vessel bridge.  The incident occurred when the vessel started singling up her mooring lines for departure from a shipyard. 
+The vessel was loaded with a module, which restricted the view aft from the bridge.  The vessel was moored “Mediterranean 
+style”, including her stern, with two bow anchors, six wire ropes and two conventional mooring lines. Four of the six wire 
+ropes were under shore control. 
+
+When the crew of the vessel (with pilot on board) started to single up her mooring lines, the four wire ropes under shore 
+control at the aft side of the vessel were simultaneously released by shore side personnel.  This was done without permission 
+from the bridge, when the tugs were not yet in position.  This release of the mooring lines could not be observed from the 
+bridge.  The bridge was notified with some delay by an additional lookout aft of the vessel.  By swiftly ordering propulsion 
+astern,  the  vessel  master  avoided  heavy  stress  and  possible  breakage  of  the  two  remaining  mooring  lines.    The  vessel 
+remained under control and a tug was made fast before releasing the remaining two mooring lines.  
+
+There were no injuries, damage to assets or uncontrolled vessel movements, owing to the swift and effective action from the 
+vessel master. 
+
+Our members’ investigation revealed the following: 
+
+♦ 
+
+ A pre-departure meeting with all involved parties was carried out two days prior departure.  Due to adverse weather, it 
+was clearly stated at that meeting that the vessel would single up line by line; 
+
+♦  Proper  precautions  were  taken,  such  as  hazard  identification  (HAZID),  toolbox  meetings  and  Job  Safety  Analyses, 
+
+mooring/unmooring plans; 
+
+♦  Actual departure was delayed by last minute modification works on the cargo; 
+
+♦  The vessel master repeatedly refused to start to single up as the gangway was still in place due to delayed works on the 
+
+cargo; 
+
+♦  The release of the shore side mooring lines was not stopped by the vessel’s superintendent; 
+
+♦  The vessel’s superintendent was not equipped with a radio.  It was agreed to communicate by mobile phone.  
+
+Following the incident, our member drew the following conclusions and recommendations: 
+
+♦  The last minute modification works on the module and the resulting delay of departure were improperly and ineffectively 
+communicated  to  and  between  parties  involved.    The  delay  resulted  in  a  change,  for  which  Management  Of  Change 
+procedures should have been followed in order to effectively prevent the incident as occurred; 
+
+♦  Reliance on mobile cell phones for operations is inadequate.  All responsible parties should communicate by radio with 
+
+an agreed protocol; 
+
+♦  Effective and immediate communication between the vessel master  and the vessel superintendent is a vital and critical 
+
+safety factor during such operations and should be catered for accordingly in project execution plans; 
+
+♦  The shore-based linesmen provided by the shipyard clearly demonstrated a lack of awareness of the risks involved.  To 
+lower these risks, when employing third-party personnel for critical operations, the qualifications and training of those 
+personnel involved should be prominently addressed and audited beforehand in project HSE plans.  
+
+Members may wish to refer to the following similar incidents (key words: mooring, lines);  
+
+♦ 
+
+♦ 
+
+♦ 
+
+IMCA SF 04/09 – Incident: 3 (from the UK P&I Club) Mooring incident; 
+
+IMCA SF 04/10 – Incident: 1 Person Injured by Mooring Lines; 
+
+IMCA SF 07/10 – Incident: 2 Crewman Fatally Injured During Mooring Operations. 
+
+ 
+3  Failure of Lifeboat Release Hook Mechanism  
+
+A  member  has  reported  a  recent  high  potential  incident  involving  the  failure  of  a  lifeboat  release  hook  mechanism.    The 
+incident  took  place  during  the  quarterly  mandatory  lifeboat  lowering  operations.  The  forward  release  hook  mechanism 
+opened resulting in the lifeboat dropping into a vertical position, but remaining suspended from the aft hook.  Four persons 
+where onboard the lifeboat at the time, but were uninjured. 
+
+The release hook system in place onboard the vessel 
+is  of  the  Schat-Harding  H-80,  ‘on-load’  release  type. 
+The  basic  overview  of  the  system  is  shown  in  the 
+figure on the left, with the components noted below. 
+ 
+
+Item 
+
+1 
+2 
+3 
+4 
+5 
+6 
+
+Component 
+Davit Fall 
+Aft Hook 
+Hook Pivot Point 
+Main Hook Lever 
+Locking Shaft 
+Locking Lever 
+
+The mechanism is operated from the aft release point, 
+with  both  hooks  disconnected 
+and  engaged 
+simultaneously  through  operation  of  the  aft  release 
+mechanism. 
+the  aft 
+mechanism  to  the  forward  mechanism  to  enable  this 
+single instantaneous operation.  
+
+linkage  rod  connects 
+
+  A 
+
+The  locking  lever  (component  6)  is  twisted  110 
+degrees  at  the  aft  release  point  and  this  command  is 
+replicated  at  the  forward  hook  release  and  the  main 
+hook  lever  (locking  cup)(component  4)  latches  or 
+unlatches the release hook. 
+
+The  current  design  of  the  system  does  not  give  the 
+operator  direct  indication  that  the  forward  hook  is 
+correctly  locked.  A  single  indicator  serves  both  the 
+Master  (aft)  and  Slave  (forward)  locking  systems,  but 
+only  the  position  of  the  aft  hook  is  positively 
+indicated.  
+
+ 
+
+Figure 1: Lifeboat hook release mechanism 
+
+Our members’ preliminary investigation noted the following: 
+
+♦  The  hook  release  mechanism  linkage  was  found  to  have  failed  (sheared)  -  see  Figure  2  -  at  the  forward  end  of  the 
+lifeboat.  This  is  likely  (pending  final  report)  to  have  been  caused  by  misalignment  of  the  hook  during  re-attachment 
+and/or fragile design of the hook release mechanism linkage; 
+
+♦  Further inspection onboard found that the forward release mechanism linkage was severely bent (See Figure 3) in one of 
+
+♦  As a result of the above noted damage, a total of two of four lifeboats were found to have release hooks that were not 
+
+the other three lifeboats; 
+
+fully engaged.  
+
+The company has recommended that the following actions are taken : 
+
+♦ 
+
+Immediate inspection of all lifeboat release hook mechanisms, irrespective of design with the following pointers: 
+
+−  Check for integrity and potential damage  
+
+− 
+
+Ensure that the latching mechanism is fully engaged;  
+
+♦  Ensure that there are routine checks that all hooks are engaged prior to launch, on completion of recovery and during 
+
+routine lifeboat inspections. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+This photograph shows the linkage rod that 
+sheared  on  the  forward  release  hook 
+mechanism  on  the  failed  lifeboat.  With  the 
+linkage  sheared,  the  lifeboat  release  hook 
+was not fully engaged, resulting in the hook 
+releasing.  
+
+ 
+
+This  photograph  shows  the  release  hook 
+mechanism  linkage  at  the  forward  locking 
+mechanism.   
+
+The  arrow  indicates  the  area  of  severe 
+deformation  of  the  linkage  rod,  caused  by 
+the misalignment of the hook and/or fragile 
+design.   
+
+line  represents  the  correct 
+The  blue 
+alignment  of  the 
+In  this 
+condition,  the  lifeboat  hooks  are  not  fully 
+engaged. 
+
+linkage  rod. 
+
+ 
+
+  
+
+Figure 2: Showing sheared hook release mechanism from the lifeboat that dropped 
+
+ 
+
+ 
+
+Figure 3: Damaged hook release mechanism linkage on other lifeboats onboard 
+
+Members may wish to refer to the following similar incidents (key words: dropped, lifeboat, release, mechanism) 
+
+♦ 
+
+♦ 
+
+♦ 
+
+IMCA SF 05/02 – Incident 1: Failure of lifeboat lowering mechanism  
+
+IMCA SF 10/11 – Incident 2: Lifeboat drill – near casualty 
+
+IMCA SF 13/11 – Incident 5: Failure of rescue boat release mechanism 
+
+4  Main ROV Lift Umbilical Parted  
+
+A  member  has  reported  an  incident  in  which  an  ROV  umbilical  parted,  resulting  in  both  the  tether  management  system 
+(TMS) and ROV falling to the seabed.  The incident occurred during operations, when an ROV was being recovered from a 
+dive using its winch and A-frame.  The ROV and TMS were both later successfully recovered from their known position. 
+
+ 
+Our members’ investigation revealed the following: 
+
+♦  The TMS and ROV package was raised to the A frame snubber assembly using manual winch control;  
+
+♦  Before engaging the umbilical termination socket into the latching mechanism, the latch indicator registered closed and 
+
+the snubber skirt was in the raised position as per operating procedures;  
+
+♦  As the umbilical termination socket (bullet) was being engaged into the latching mechanism, the umbilical parted; 
+
+♦  Following the failure of the main umbilical, the TMS and ROV fell from the latch box. 
+
+On further investigation of the Launch and Recovery system (LARS), the following observations were noted: 
+
+♦  The winch was operating on the core of the drum due to an unusually short umbilical (300m).  No line-pull limit was set 
+on the winch drum, which would have been appropriate given the ability of this particular winch to pull in excess of the 
+umbilical breaking strength on the core of the drum; 
+
+♦  One latch was found to be jammed in a partially open position by the mechanical flag indicator which had rotated and 
+
+fouled on a section of the snubber frame; 
+
+♦  Both latch indicator proximity switches were found to indicate closed latch positions when the latches were in fact only 
+
+partially closed.  This could give a false indication on the winch remote control; 
+
+♦  One latch operating pin was found to be bent and the latch did not action smoothly (possibly as a result of the incident). 
+
+The causes of the incident were found to be the combined effect of: 
+
+♦  The unrestricted line pull of the powerful winch with a very short and relatively thin umbilical (7% of drum capacity); 
+
+♦  The improper functioning of the latches. 
+
+Our  member  noted  that  “modern  deep  water  active  heave  compensated  winches  require  high  levels  of  installed  power  to  enable 
+them  to  successfully  compensate  for  vessel  movements,  and  to  safely  recover  the  package  from  up  to  4000m.  This  capability  is 
+normally  only  required  when  the  package  is  at  depth.  During  recovery  when  the  package  is  close  to  the  surface  the  winch  drum  is 
+normally quite full and the effective line pull of the winch is greatly reduced. This generally prevents the maximum torque capacity of 
+the winch from being applied to the umbilical when the TMS is being engaged into the latching mechanism. In this case the very short 
+umbilical resulted in the maximum line pull being applied to the umbilical when the package was pulled into the A-frame snubber.” 
+
+The following corrective actions were taken:   
+
+♦  Modified the unique latch mechanism and indicators of this (one-off) LARS to prevent improper function/false readings; 
+
+♦  Modified procedures to ensure maximum line pull settings are always below the breaking strain of the umbilical. 
+
+Members may wish to consider implementing a procedure to check that line pull is below the umbilical breaking strain, and if 
+necessary,  consider  fitting  some  form  of  line  pull  control.    This  is  particularly  important  in  light  of  recent  trends  towards 
+powerful deep water capable winches combined with thinner, lighter umbilicals with a lower breaking strain. 
+
+Care  should  be  taken  to  ensure  the  line  pull  of  the  winch  will  never  exceed  the  breaking  strain  of  the  umbilical,  in 
+circumstances which include: 
+
+♦  a powerful winch; 
+
+♦  a thin umbilical; 
+
+♦  short umbilical length. 
+
+Members may wish to refer to the following similar incidents (key words: umbilical, ROV, TMS, dropped, parted) 
+
+♦ 
+
+♦ 
+
+♦ 
+
+♦ 
+
+IMCA SF 07/05 – Incident: 1 ROV free fall incident; 
+
+IMCA SF 11/11 – Incident: 2 Equipment damage – dropped ROV/tether management system (TMS); 
+
+IMCA SF 06/13 – Incident: 2 Loss of ROV after umbilical termination failure and damage to ROV during recovery; 
+
+IMCA SF 09/13 – Incident: 1High potential near miss: dropped ROV/TMS leading to equipment damage. 
+
+5  Unplanned Vessel Contact with an Installation During Lifting Operations 
+
+The Marine Safety Forum has published the following safety flash regarding an incident in which a vessel made a very slight 
+contact with an installation during lifting operations.  Only superficial paint damage was caused to the platform and the vessel. 
+
+ 
+The safety flash can be downloaded from www.marinesafetyforum.org/upload-files//safetyalerts/msf-safety-flash-14.31.pdf. 
+
+Members may wish to refer to the following similar incidents: 
+
+IMCA SF 06-99 – Incident: 2 Automatic control – navigation problem; 
+
+IMCA SF 08-12 – Incident: 4 Platform supply vessel comes into contact with fixed platform;  
+
+IMCA SF 10-12 – Incident: 6 Collision between vessel and installation resulting in damage to both.  
+
+6  Potential Dropped Object – Poor Housekeeping 
+
+The Marine Safety Forum has published the following safety flash regarding an incident in which a sledgehammer was found 
+left  loose  on  top  of  a  Cargo  Carrying  Unit  (CCU)  whilst  it  was  being  lifted  from  a  supply  vessel  to  a  platform.    The 
+sledgehammer weighed over 2kg and could have fallen 60m.  Had such an object fallen off the CCU during the lift and hit 
+someone it would have caused a fatality.  
+
+The safety flash can be downloaded from www.marinesafetyforum.org/upload-files//safetyalerts/msf-safety-flash-14.30..pdf 
+
+Members may wish to refer to the following similar incidents: (Key words, CCU, loose, lifting) 
+
+IMCA SF 11/05 – Incident: 6 Near – miss  dropped object narrowly misses worker; 
+
+IMCA SF 10/13 – Incident: 2 Loading and securing of cargo. 
+
+♦ 
+
+♦ 
+
+♦ 
+
+♦ 
+
+♦ 
+
+ 
+
+

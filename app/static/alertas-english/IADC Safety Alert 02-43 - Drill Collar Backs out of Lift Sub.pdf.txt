@@ -1,0 +1,74 @@
+Safety Alert 
+
+From the International Association of Drilling Contractors
+
+ 
+
+ 
+ 
+ALERT 02 – 43 
+ 
+
+DRILL COLLAR BACKS OUT OF LIFT SUB 
+
+ 
+WHAT HAPPENED: 
+ 
+While preparing to lay down the bottom hole collar, the crew was attempting to breakout the bit.  The lift sub 
+backed  out  of  the  drill  collar  allowing  the  drill  collar  to  fall.    The  drill  collar  fell  off  the  rig  floor  striking  the 
+windwall  on  the  drillers  side  of  the  “V-Door”.    The  drill  collar  came  to  rest  with  the  box  end  sticking  in  the 
+ground and the bit at rest against the substructure near the “V-Door”.  There were no injuries.   
+ 
+WHAT CAUSED IT: 
+ 
+The investigation reveled that there were no procedure in place for handling the laying down and/or breaking 
+out of the bit from the bottom collar prior to laying it down.  Due to this, personnel were not aware of the need 
+to  make  the  lift-handling  sub  secure  in  the  drill  collar  prior  to  hoisting  it  to  break  out  the  bit.    Without 
+procedures, there was not adequate training and therefore inadequate knowledge by the personnel working on 
+the rig floor.   Haste to get  the  drill collars laid down and  lack of supervision allowed  the collar  to  be hoisted 
+without the lift sub being tightened into the drill collar.  Due to inadequate visual contact, no one observed that 
+the  drill  collar  was  turning  out  of  the  lift  sub.    It  was  also  discovered  that  there  was  poor  communication 
+between the supervisor and rig floor crewmen.   
+ 
+CORRECTIVE ACTIONS:  To address this incident, this company did the following:   
+ 
+Issued the following directive to rig crews:   
+ 
+•  Make a new JSA to address breaking the bit out while laying down drill collars.   
+
+It was recommended that when developing the JSA, crews include leaving 2 or 3 drill collars above the 
+bit when breaking out the bit.    
+
+•  Also to be  included  in the  JSA is a procedure to ensure that the  lift sub is tightened (torqued) in the 
+
+upper drill collar connection prior to hoisting the drill collars to break out the bit.   
+Include in the JSA a provision to have one of rig floor crewman observe the lift sub to ensure that  it 
+does not back out when the bit is being broke out and removed from the drill collar.   
+
+• 
+
+• 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+IADC Note:  Reference IADC Accident Prevention Reference Guide Section 3.26 for information on drill collar 
+lift subs.   
+
+The Corrective Actions stated in this alert are one company’s attempts to address the incident, and do not 
+
+necessarily reflect the position of IADC or the IADC HSE Committee. 
+
+This material is presented for information purposes only.  Managers & Supervisors should  
+
+evaluate this information to determine if it can be applied to their own situations and practices. 
+
+Copyright © 2002 International Association of Drilling Contractors.  All Rights Reserved 
+
+Issued September 2002 
+
+

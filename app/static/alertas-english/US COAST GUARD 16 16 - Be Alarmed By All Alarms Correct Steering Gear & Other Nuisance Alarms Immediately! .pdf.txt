@@ -1,0 +1,109 @@
+ 
+ 
+ 
+ 
+ 
+
+October 26, 2016 
+Washington, DC 
+
+         Inspections and Compliance Directorate 
+
+ 
+
+                                 Safety Alert 16-16 
+
+Be Alarmed By All Alarms 
+
+Correct Steering Gear & Other Nuisance Alarms Immediately! 
+
+ 
+Recently  in  the  Pacific  North  West,  Coast  Guard  marine  inspectors  experienced  two  different 
+circumstances involving the alarm and control system of Mitsubishi Heavy Industries steering gears 
+onboard relatively new vessels.  Although neither event resulted in a marine casualty, they serve as a 
+reminder  to  the  potentially  dangerous  results  that  may  occur  when  an  alarm  system  is  deliberately 
+ignored.  A false sense of operational safety develops when crewmembers continually silence what 
+they consider to be a “nuisance alarm,” enabling a false perception of normalcy to develop.  
+
+Inspectors  observed  on  two  vessels  that  repetitive  alarms  occurred  every  time  crewmembers 
+performed steering tests that attempted to move the rudder through its range of motion.   The alarms 
+indicated that “hydraulic lock” events had occurred.  Each time, the alarm was simply acknowledged 
+by the crew and the steering gear adequately moved the rudder.  However, no further investigation 
+was conducted to identify the cause of the alarm.   
+
+Solenoid Valves 
+
+DCV  Block / Body 
+
+The  part  of  the  hydraulic  system  that  causes  the 
+movement of the steering gear’s rams involves a 
+Directional  Control  Valve  (DCV),  which  is  a 
+hydraulic  shuttle  valve.    A  set  of  solenoid  valves 
+receive  an  electrical  signal  from  the  bridge  helm 
+or autopilot, which causes the flow of oil to certain 
+sections of the shuttle valve.  The DCV shifts and 
+initiates  flow  to  the  system’s  hydraulic  rams 
+dependent on  the  command.   If  the  shuttle  valve 
+does  not  shift  or  is  not  sensed  as  having  shifted 
+after  a  period  of  time,  an  alarm  on  the  bridge 
+console  activates.    The  devices  that  sense  the 
+movement of the main shuttle valve are proximity 
+switches.  They do not physically touch the ends 
+of  the  shuttle  valve  but  instead  magnetically 
+sense  its  presence.    In  each  of  the  two  cases 
+profiled  here,  the  proximity  switches  were  faulty 
+and required replacement.  Ignoring the problem meant that although the rudder moved as expected 
+in  these  two  cases,  the  lack  of  properly  functioning  proximity  switches  might  result  in  a  failure  to 
+detect if the rudder had not moved, since crewmembers had trained themselves to ignore the alarm.  
+
+Proximity Switches 
+
+It is well known that close calls and near misses occur more frequently than actual incidents.  In this 
+instance, the systems and alarms forewarned the operators of a problem.  By ignoring the alarms, the 
+crewmembers accepted a higher level of risk and reduced their safety margins.  If the situation had 
+been  allowed  to  persist  indefinitely,  an  unwanted  incident  could  have  occurred  with  potentially  dire 
+consequences.  
+
+ 
+
+ 
+
+ 
+
+1 of 2 
+
+Safety Alert 16 -16 
+
+ 
+
+As  the  result  of  these  events,  the  Coast  Guard  strongly  recommends  that  owner  and  operators 
+ensure the following: 
+
+•  address  the  management  of  nuisance  alarms  in  Safety  Management  Systems  and  require  
+
+• 
+
+immediate correction of their specific causes; and 
+ 
+Include  strict  prohibitions  against  the  pinning  or  securing  of  alarm  acknowledgment  buttons 
+and switches.  Such actions should be deemed as unacceptable corrective measures as they 
+have contributed to serious marine casualties in the past. 
+
+This  safety  alert  is  provided  for  informational  purpose  only  and  does  not  relieve  any  domestic  or 
+international safety, operational, or material requirements.  Developed by the Inspection Department 
+of  the  Marine  Safety  Unit  Portland,  OR  and  the  Coast  Guard  Headquarters  Office  of  Investigations 
+and Casualty Analysis.  Questions or comments may be sent to HQS-PF-fldr-CG-INV@uscg.mil. 
+
+ 
+
+ 
+
+******* 
+
+ 
+
+ 
+
+2 
+
+

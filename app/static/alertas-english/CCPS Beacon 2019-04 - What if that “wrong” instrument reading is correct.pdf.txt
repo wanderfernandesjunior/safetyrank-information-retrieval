@@ -1,0 +1,86 @@
+This issue sponsored by
+
+www.aiche.org/ccps
+
+http://www.aiche.org/CCPS/Publications/Beacon/index.aspx
+
+Messages for Manufacturing Personnel
+
+http://www.dekra-process-safety.com/
+
+What if that “wrong” instrument reading is correct?
+
+April 2019
+
+An explosion at a large US chemical manufacturing site caused 16 fatalities and more than 300 injuries. 
+
+There were significant property damage and business interruption losses as well. The explosion occurred 
+during startup of a distillation column. It is believed that the trays in the column were damaged early in the 
+startup. The tray damage caused poor separation. There was an abnormally high nitrobenzene concentration in 
+the bottom of the column – a concentration which was unstable.
+
+There are many lessons from this incident (see references). This Beacon focuses on one – a “bad” 
+
+Before
+
+temperature indication in the distillation column. Hours before the explosion, the column was put on total 
+reflux because of startup difficulties. Later, a control system technician was asked to replace a thermocouple 
+on a tray in the column below the feed tray. The reason – it was reading 121°C when it “should have been 
+reading 102 °C.” The conclusion at the time was that the thermocouple had failed. In hindsight, the
+thermocouple was probably 
+reading correctly. Computer 
+modeling of the column, 
+done many years after the 
+incident and assuming 
+damage to the trays in the 
+bottom of the column, 
+predicted increased 
+nitrobenzene concentration. 
+This would account for the 
+observed temperature of 
+121°C.
+
+Plant location
+
+After
+
+What Can You Do?
+
+How often do we dismiss readings that are not normal as “erroneous?” While this may be the case, shouldn’t 
+
+we first assume that the instrument is reading correctly? Then, try to understand why the reading is not normal.
+ Use other process instruments and related information to perform a more comprehensive assessment of what 
+
+is happening in your process.
+
+ What else can you do to understand if the instrument is failed or correct? For example, can you take a process 
+
+sample for analysis to help understand the situation? Can you look at local temperature or pressure gages in 
+the field? Can you look through a sight glass on top of a tank to see the level?
+
+ Get help from your co-workers, supervisors, and engineering support.
+ Ask “What are the possible consequences if this reading is correct?” Asking the question may lead to reviews 
+
+that could uncover unexpected hazards.
+
+ If the “erroneous” reading warns of a significant threat, work with your supervisors and technical support 
+
+engineers. Understand what action you should be taking to prevent a possible incident if it turns out that the 
+instrument reading is correct.
+
+ In a good process safety culture, everybody should believe instruments, unless a thorough assessment 
+
+indicates that an instrument reading is wrong.
+
+References:   Process Safety Progress 23 (3), September 2004, pp. 221–228, and  Process Safety Progress 35 (1), March 2016, pp. 103–106.
+
+Think about what an “abnormal” instrument reading could mean!
+
+©AIChE 2019. All rights reserved. Reproduction for non-commercial, educational purposes is encouraged. However, reproduction for any 
+commercial purpose without express written consent of AIChE is strictly prohibited. Contact us at ccps_beacon@aiche.org or 646-495-1371.
+
+The Beacon is usually available in Afrikaans, Arabic, Catalan, Chinese, Czech, Danish, Dutch, English, Filipino, French, German, Greek, Gujarati, Hebrew, Hindi, Hungarian, Indonesian,  
+
+Italian, Japanese, Korean, Malay, Marathi, Mongolian, Persian (Farsi), Polish, Portuguese, Romanian, Russian, Spanish, Swedish, Telugu, Thai, Turkish, Urdu, and Vietnamese.
+
+

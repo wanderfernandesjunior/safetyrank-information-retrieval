@@ -1,0 +1,80 @@
+Safety Alert 
+
+        From the International Association of Drilling Contractors 
+
+ 
+ALERT 07 – 30 
+ 
+
+FATAL INCIDENT OCCURS WHILE DEMONSTRATING A  
+
+FAULT IN CONTROL SYSTEM 
+
+ 
+WHAT HAPPENED: 
+ 
+The  Assistant  Driller  (AD)  onboard  a  jack  up  rig  was  fatally  injured  while  performing  a  function  test  of  the 
+Casing  Stabbing  Board  (CSB)  from  within  the  unit.    The  demonstration  was  intended  to  illustrate  to  the 
+Toolpusher, who was present, a hand controller (ascent/decent) fault related to an apparent ‘sticking valve’.  
+When the ascent/decent control lever was activated the CSB ascended; the Assistant Driller moved the lever 
+through its range of positions but was unable to reverse or stop the movement of the unit. 
+ 
+The  AD  attempted  to  exit  the  unit  onto  the  fixed  derrick  walkway  by  grasping  the  entry  bar  and  swinging 
+himself feet first beneath the bar towards the walkway. 
+ 
+The AD failed to exit the unit fully when he collided with the Toolpusher who was standing on the walkway.  
+As the CSB continued to ascend the AD’s upper body became trapped between a cross beam of the CSB 
+running rails and the floor of the CSB.  This trapped position and subsequent force applied to the upper chest 
+region resulted in death at the scene. 
+ 
+WHAT CAUSED IT: 
+ 
+• 
+
+Inadequate  Management  of  Procurement.    This  allowed  the  purchasing  of  critical  equipment  from  non 
+approved vendors. 
+
+•  Failure to implement and manage the CSB installation project, while in the shipyard, through the use of a 
+structured  and  systematic  Project  Management  System.    This  resulted  in  inadequate  training,  support 
+material and commissioning. 
+Inadequate Maintenance System and overall management of maintenance.  This resulted in a failure to 
+capture the equipment on the PMS system. 
+
+• 
+
+ 
+CORRECTIVE ACTIONS:  To address this incident, this company did the following: 
+ 
+•  Maintenance  system  structure  and  management  process  reviewed.  This  review 
+
+included  an 
+encompassing  analysis  of  appropriateness  of  current  system.    An  asset  register  and  compliance  with 
+Management  of  Change  (MOC)  procedures  (including  training  needs  and  documentation)  were 
+implemented. 
+
+•  Undertook immediate analysis of current PMS system and cross-referenced with all inventoried onboard 
+
+•  Undertook  review  and  roll  out  of  operating  procedures  to  ensure  all  are  complete  and  detailed 
+
+equipment to ensure full inclusion. 
+
+instructional documents. 
+
+•  Established preventative maintenance schedules that test limit switches and control mechanisms. 
+•  Removed and replaced the existing CSB control assembly with an approved type. 
+•  Passed on learning to other users of identical equipment. 
+ 
+
+The Corrective Actions stated in this alert are one company’s attempts to address the incident,  
+
+and do not necessarily reflect the position of IADC or the IADC HSE Committee. 
+
+This material is presented for information purposes only.  Managers & Supervisors should 
+
+evaluate this information to determine if it can be applied to their own situations and practices 
+
+Copyright © 2005 International Association of Drilling Contractors All rights reserved. 
+
+Issued October 2007 
+
+

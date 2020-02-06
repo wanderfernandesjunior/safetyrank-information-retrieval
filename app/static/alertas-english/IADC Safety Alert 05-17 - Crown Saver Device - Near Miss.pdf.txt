@@ -1,0 +1,98 @@
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+SAFETY ALERTS 
+
+ALERT 5 – 17    
+
+CROWN SAVER FUNCTION TESTING 
+
+WHAT HAPPENED OR COULD HAVE HAPPENED: 
+The Driller operated the rig without confirming that the Crown Saver Device was properly set.  Therefore, 
+there was a real chance that the travelling equipment could crown out, which, could result in parted drill 
+line and dropped blocks. 
+ 
+Drillers must avoid operating the rig without checking the Crown Saver Device. 
+The consequences of crowning out can be catastrophic; including but not limited to, major equipment damage, 
+serious injury, and/or death. 
+ 
+WHAT WERE CONTRIBUTING FACTORS OR POTENTIAL CONTRIBUTING FACTORS: 
+Drillers have impacted the crown by assuming the crown saver device was set and functioning properly 
+ASSUMPTION IS A TERRIBLE WAY TO OPERATE! 
+ 
+LESSONS LEARNED: 
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+
+Each tour, the Driller is expected to function test the crown saver by slowly picking up the 
+drill string and running the drill line into the toggle of the crown saver. 
+The drill line must trip the toggle. 
+The crown saver must disengage the drawworks. 
+If this does not happen, the crown saver device must be readjusted and/or repaired. 
+The Driller will document the crown saver function test on the daily IADC Drilling Report. 
+The Rig Manager will periodically verify the proper function tests by observing the 
+procedure. 
+Each Rig Manager will hold a stand-down meeting with every crew and communicate the 
+information contained in this alert. 
+Each Rig Manager will personally observe and verify that each Driller knows how to 
+properly function test the crown saver device. (If procedure is not completely understood, the 
+Rig Manager will do additional training with the Driller.) 
+
+  A signed acknowledgement and understanding of an alert will be emailed to the 
+
+Drilling Superintendent and HSE Personnel. 
+
+  Drilling Superintendents and Field Safety Representatives will make sure that these 
+
+expectations are being followed during regular rig visits. 
+Failure to comply with these expectations can lead to injury and/or disciplinary actions. 
+
+ 
+
+-A Safety Alert can consist of any type of health, safety & environment (HSE) notification or 
+
+Near Miss/Near Hit alert.  Proactive Alerts on jobs well done are also encouraged. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+This toggle is not adjusted properly. It allows the drill line to pass underneath it. 
+ 
+
+ 
+
+ 
+
+When adjusted properly, the toggle is contacted by at least the top half of the side of the drill line. 
+
+ 
+
+ 
+
+2  
+
+

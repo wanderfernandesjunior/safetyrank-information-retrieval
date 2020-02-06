@@ -1,0 +1,53 @@
+Safety Alert 
+
+From the International Association of Drilling Contractors 
+
+ 
+
+ 
+ALERT 04 – 16 
+ 
+
+PLASTIC COATED WIRE ROPE SLING SEPARATED AT SWAGE 
+
+ 
+WHAT HAPPENED: 
+ 
+While  positioning  the  stack  test  cap,  the  attached  sling  separated  at  the  swage.  The  eye  of  the  sling  was 
+coated with plastic and crimped into the swage.  This sling had been included in a lifting survey completed in 
+June 2003. The sling was rated for 5 tons and parted at 2 tons.  Due to the load being controlled, rather than a 
+free load, the cap was unable to fall any distance and no injuries were sustained. 
+ 
+WHAT CAUSED IT: 
+ 
+•  Eye of sling was coated with plastic including the area crimped into the swage.  
+•  The plastic coating increases moisture and accelerates corrosion.  
+•  The plastic coating inhibits the visual inspection for corrosion. 
+•  Plastic coating inhibits proper gripping of the cable by the swage  
+ 
+CORRECTIVE ACTIONS:  To address this incident, this company did the following: 
+ 
+Instructed personnel to remove from service any plastic coated wire slings where inspection indicates that 
+plastic coating is included in the crimped area of the swage.   
+ 
+
+ 
+ 
+IADC Note:  Sling manufacturers recommend that all plastic coating be removed from under the swage before 
+it is crimped.  Plastic coating decreases the coefficient of friction required for making a swaged sling.   
+
+ 
+
+The Corrective Actions stated in this alert are one company’s attempts to address the incident, and do not 
+
+necessarily reflect the position of IADC or the IADC HSE Committee. 
+
+This material is presented for information purposes only.  Managers & Supervisors should  
+
+evaluate this information to determine if it can be applied to their own situations and practices. 
+
+Copyright © 2004 International Association of Drilling Contractors.  All Rights Reserved 
+
+Issued April 2004 
+
+

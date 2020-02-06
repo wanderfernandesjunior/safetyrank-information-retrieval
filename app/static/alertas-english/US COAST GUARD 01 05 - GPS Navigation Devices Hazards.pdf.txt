@@ -1,0 +1,43 @@
+February 4, 2005                                                                                                                  Alert 1-05
+Washington, DC
+
+GPS Receiver Manually-Entered Position Offsets May Cause Safety Hazard when Interconnected to
+Navigation Devices
+
+It  has  come  to  the  attention  of  the  U.S.  Coast  Guard  that  certain  Global  Positioning  System  (GPS)
+receivers  do  not  provide  a  proper  indication  to  other  connected  equipment  when  manually-entered
+position  offsets  are  entered  into  the  GPS  receiver.    Even  a  small  offset  could  result  in  danger  of
+collision or other navigation safety hazard when the receiver is interconnected to devices such as an
+automatic  identification  system  (AIS),  Electronic  Chart  Display  and  Information  System  (ECDIS),
+integrated navigation systems (INS) or track control system (TCS).
+
+The  problem  is  caused  by  an  error  in  the  NMEA  0183/IEC  61162  data  interface  Datum  Reference
+(“DTM”) “local datum” field.  Navigation systems interconnected to the GPS receiver use this field to
+determine  whether  the  position  received  is  referenced  to  World  Geodetic  System  84  (WGS84)  or
+something different.  AIS equipment, for example, disregards external position information for reasons
+of safety if the “local datum” field does not indicate WGS84.  As a result, equipment that is interfaced
+to  GPS  receivers  having  this  problem  would  act  as  if  the  position  were  referenced  to  the  WGS84
+datum, when in fact the position differs from the WGS84 datum by the manual offsets entered by the
+vessel’s crew or captain.
+
+The  problem  can  be  identified  if  own  ship  position  displayed  on  an  AIS  changes  in  proportion  to
+manually-entered  offsets  entered  into  the  GPS  receiver  interconnected  to  the  AIS.    The  GPS  is
+operating  correctly  in  such  a  situation  if  the  AIS  reverts  to  its  integral  GPS  and  disregards  the
+manually-entered offsets sent from the externally-connected GPS.
+
+GPS Receivers identified having this problem:
+
+Furuno GP80
+Furuno GP90
+
+Mariners  having  these  receivers  are  advised  to  either  take  steps  to  ensure  that  the  manually-offset
+feature is never and can never be used, or to disconnect these receivers from the AIS, ECDIS, INS,
+TCS or other navigation or communications system.
+
+Technical  questions  relating  to  this  alert  may  be  addressed  to  Mr.  Lee  Luft  at  (860)  441-2685  or
+LLuft@rdc.uscg.mil.
+
+This material is provided for informational purpose only and does not relieve any existing domestic or
+international safety, operational or material requirement.
+
+

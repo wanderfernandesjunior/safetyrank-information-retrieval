@@ -1,0 +1,127 @@
+ 
+
+                      
+
+ 
+December 21, 2010 
+Washington, DC 
+
+ 
+
+ 
+
+   Alert 10(a) -10 
+
+WRONG DIRECTIONS: A RECIPE FOR FAILURE 
+
+ 
+
+Safety Alert 1 of 2 
+
+ 
+This  safety  alert  addresses  critical  concerns  uncovered  during  an  ongoing  marine  casualty 
+investigation  and  should  be  of  vital  interest  to  Ship  Builders,  Classification  Societies,  Owner  / 
+Operators and others involved with vessel operations. 
+ 
+A  machinery  space  fire  onboard  a  relatively  new  vessel  was  effectively  responded  to  and 
+extinguished by the vessel’s quick response team firefighters using portable extinguishing equipment.  
+However, before it was declared completely extinguished and approximately five hours after the fire 
+started, the master of the vessel made the decision to release CO2 from the vessel’s fixed firefighting 
+system.    It  failed  to  operate  as  designed.  Subsequently,  crewmembers  were  unable  to  activate  it 
+manually and CO2 was never directed into the machinery space.  
+ 
+While  the  casualty  investigation  remains  ongoing,  the  following  issues  were  discovered  that  could 
+have  negatively  affected  the  crew’s  emergency  response  and  may  have  contributed  to  the  CO2 
+system failure. 
+ 
+
+•  Shipyard commissioning test procedures appear to differ from procedures documented in the 
+vessel’s  Firefighting  Instruction  Manual  (FIM).    Commissioning  procedures  indicate  that  the 
+discharge line selection to a specific protected zone should be made prior to releasing the gas 
+contrary to the directions in the FIM.  
+
+ 
+•  The FIM refers extensively to a Control Panel (left following image) that differs vastly from the 
+
+one onboard the vessel (right following image). 
+
+ 
+
+ 
+
+ 
+
+1
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+•  The  FIM  states  that the  CO2  Release  station  is on  the  Starboard  side of  the  vessel  when  In 
+
+•  The  FIM  incorrectly  uses  the  word  “Pull”  when  it  should  read  “Turn”  in  reference  to  the 
+
+fact it is located on the Port side. 
+ 
+
+operations of valves. 
+ 
+
+•  The FIM contains the following confusing language “Once the fire has been extinguished make 
+sure that the temperature has decreased before investigate the area same time is needed to 
+wait hours.” 
+ 
+
+•  The  FIM  references  elements  of  an  Emergency  Shut  Down  (E.S.D.)  graphic  on  numerous 
+
+occasions.  However, the graphic display was not found on the vessel. 
+ 
+
+•  The FIM contains photographs of the internals of the CO2 release stations that appear to differ 
+
+from actual CO2 release stations onboard the vessel. 
+ 
+
+•  The  CO2  release  stations  installed  on  the  vessel  have  instructional  placards  that  refer  to 
+
+elements of a completely different control panel then the one used onboard the vessel. 
+ 
+ 
+ 
+
+•  Shipyard  piping  schematics  and  drawings  do  not 
+appear to match the actual installation. The schematic 
+at  the right  shows  the  “A  valve”  for  the  Aft  Machinery 
+Space  in  the  center  position  vice  the  bottom  position 
+as it is installed on the vessel. 
+ 
+
+  
+ 
+ 
+ 
+Because  of  these  and  other  issues,  the  United  States  Coast  Guard  strongly  recommends  that 
+Vessel  Builders  /  Shipyards,  Classification  Societies,  Insurers, Owners  /  Operators,  System  Service 
+Personnel, and others involved with these systems: 
+ 
+
+•  Ensure  that  all  supporting  documentation,  piping  schematics,  plans,  manuals,  component 
+labeling  and  instructions  are  consistent  with  each  other  and  relevant  to  the  systems, 
+equipment, and components installed onboard the vessel. 
+
+ 
+Developed by the U.S. Coast Guard Headquarter’s Office of Investigations and Analysis, Washington, 
+DC.  Questions may be addressed to HQS-PF-fldr-G-PCA@uscg.mil. 
+
+Distributed by the Office of Investigations and Analysis:  http://marineinvestigations.us 
+To subscribe: kenneth.w.olsen@uscg.mil 
+
+2
+
+

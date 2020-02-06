@@ -1,0 +1,348 @@
+Safety Flash 
+
+August 2017 
+
+ 
+
+ 
+
+IMCA Safety Flash 19/17 
+
+These flashes summarise key safety matters and incidents, allowing wider dissemination of lessons learnt from them. The information below has been provided 
+in good faith by members and should be reviewed individually by recipients, who will determine its relevance to their own operations. 
+
+The effectiveness of the IMCA safety flash system depends on receiving reports from members in order to pass on information and avoid repeat incidents. 
+Please consider adding the IMCA secretariat (imca@imca-int.com) to your internal distribution list for safety alerts and/or manually submitting information 
+on specific incidents you consider may be relevant. All information will be anonymised or sanitised, as appropriate. 
+
+A number of other organisations issue safety flashes and similar documents which may be of interest to IMCA members. Where these are particularly relevant, 
+these may be summarised or highlighted here. Links to known relevant websites are provided at www.imca-int.com/links Additional links should be submitted 
+to info@imca-int.com 
+
+Any  actions,  lessons  learnt,  recommendations  and  suggestions  in  IMCA  safety  flashes  are  generated  by  the  submitting  organisation.  IMCA  safety  flashes 
+provide, in good faith, safety information for the benefit of members and do not necessarily constitute IMCA guidance, nor represent the official view of the 
+Association or its members. 
+
+Focus: Hand and Finger Injuries 
+
+All the incidents here involve workers sustaining actual injuries to the fingers or hands. 
+
+1 
+
+LTI: Injury to Right Wrist 
+
+What happened 
+
+Someone  using  a  power  tool  suffered  a  serious 
+injury  to  the  right  wrist  when  the  drill  got  out  of 
+control. Vessel engineers were installing a support 
+frame  for  spray  protection  curtains  around  the 
+evaporator  in  the  engine  room.  The  task  required 
+the engineers, whilst working at height, to drill three 
+10 mm holes in the frame and add the splash curtain 
+to the support frame. 
+
+To  access  the  support  frame,  a  step  ladder  with  a 
+designated working platform was used. The injured person was working on the platform with a power drill. He was 
+directing the drill with his right hand with his left hand on the supporting handle on the left-hand side of the drill. 
+It is estimated that during the drilling of these holes, the drill was at an angle of approximately 45˚. During the 
+drilling of a 10 mm hole, the drill bit snagged within the metal tubing of the supporting frame, causing the pistol 
+drill to kick back and spin in a clockwise direction. As the drill spun, the pistol grip was pulled from the engineer’s 
+right hand. The pistol drill continued to rotate, then contacted his right wrist/forearm, causing a lost time injury 
+(LTI). 
+
+What went wrong/causes 
+
+  There was a lack of active supervision. Supervisors should have a full understanding of safe systems of work, 
+and  thus  be  able  to  ensure  that  if  the  circumstances  of  an  operation  change,  the  team  is  able  to  respond 
+correctly and recognise any new requirements in each situation; 
+
+  A causal factor was the fact that the task was being carried out at height, which made it difficult to drill the hole 
+in the correct position. To attain this position the employee had to work in a position which caused the drill to 
+snag;  
+
+  There was poor procedural and risk awareness surrounding the activity: 
+
+  Whilst  a  toolbox  talk was  conducted  between  the  engineers  carrying  out  the  task,  and  this  highlighted 
+potential hand injuries and slip/trip hazards, no consideration was given to the increased height of the task 
+or the use of power tools whist working from a ladder/platform 
+
+ 
+
+  No permit to work (PTW) or job risk assessment (JRA) was considered necessary, as a similar task had been 
+conducted previously. The engineers did not identify the difference in height between the previous task 
+(180 cm) and the task in hand (293 cm); 
+
+  The work was incorrectly planned and did not have to be done at height. Personnel failed to recognise they 
+were working at height. Had the task been correctly planned and classified as work at height, the decision could 
+have been made to pre-drill the holes at deck level, thus allowing the work party to attain the correct working 
+position and potentially mitigating the snagging of the drill. 
+
+Lessons learnt/actions taken 
+
+  Correct tools and equipment used in the wrong conditions can still result in an incident; 
+
+  Routine tasks can become hazardous when changes are not correctly managed; 
+
+  The step ladder with designated working platform should have had the handrails and securing chain in position 
+
+(they were previously removed due to space required to store the ladders); 
+
+  Tasks requiring ladders, working platforms or alternate access solutions should be reviewed to determine if the 
+appropriate level of work control is applied. Risk assessments and routine duties should be updated accordingly. 
+
+2 
+
+LTI: Crush Injury to Middle and Index Finger 
+
+What happened 
+
+Riggers on a vessel were moving heavy deck plates (2.45 m x 1.2 m x 5 mm, weighing 114 kg) when one of them got 
+his hand caught, causing a crush injury. The riggers were tasked with cleaning an area on the vessel. To do this, they 
+had to lift the deck plates, degrease the deck below and power wash from the suspended deck above. During the 
+task, it was noted that the debris and corrosion on the deck below would require shot blasting. A management 
+decision was made to remove all the deck plates and stack them against handrails in preparation for this work. 
+
+While  moving  one  of  the  plates  and  turning  it  through  90˚  onto  its  long  axis,  to  be  slid  over  the  angle  beam 
+foundation, the leading corner of the plate caught on a section of angle beam and stopped sliding. A rigger (the IP 
+in the sketch below) attempted to rectify this by lifting the corner, enabling the rest of the team to push the deck 
+plate. Upon setting down the deck plate, his middle and index finger became trapped between the angle beam 
+foundation and the deck plate, causing a serious injury. 
+
+What went wrong/causes 
+
+  The incident occurred as a result of ‘scope creep’. There was no proper Management of Change; 
+
+ 
+
+ 
+  The size and weight of the deck plates did not allow for a safe and ergonomically friendly means of moving 
+
+them, especially over the angle beam foundation; 
+
+  The  injured  person  placed  his  hand  beneath  the  deck  plate  despite  being  instructed  not  to  do  so  by  his 
+
+  The injured person was wearing welding gloves,  rather than the  impact  gloves required in the JRA (job risk 
+
+supervisor; 
+
+analysis); 
+
+  Pinch points had been discussed in a task-specific toolbox talk held just before starting the job. 
+
+Lessons learnt/actions taken 
+
+  The change of job scope (‘scope creep’) should have triggered a stop, leading to the change being properly 
+
+managed. A new permit should have been raised with a task specific JRA; 
+
+  Members may wish to use this example to highlight the issue of ‘scope creep’ and appropriate Management of 
+
+Change – particularly where manual handling is involved. 
+
+See IMCA SEL 001 – Guidelines for Management of Change. 
+
+Members may wish to review the following similar incident in which a person suffered a serious finger injury, in 
+which one causal factor was failure to manage change: 
+
+ 
+
+Line of Fire LTI: Finger Injury During Lifting Operations 
+
+3  Hand Injury Whilst Using Pillar Drill 
+
+What happened 
+
+The  Marine  Safety  Forum  (MSF)  has  published  an  alert  in  which 
+someone  was  injured  whilst  using  a  pillar  drill.  An  experienced 
+engineer was changing out a drill bit on a tower drill in the engine room 
+workshop. While doing so he inadvertently operated the wrong handle 
+and started the drill. The engineer was wearing gloves to carry out this 
+task and as the drill turned the glove caught and turned with the drill 
+bit, trapping his hand inside and causing a hand injury. 
+
+He was sent ashore for treatment. 
+
+What went wrong/causes 
+
+The  subsequent  investigation  highlighted  several  safety  critical 
+points, a selection of which are noted below: 
+
+  The  drill  had  multi-function  controls  (including  clutch  speed, 
+gears, slow and fast operation, on/off switches) none of which 
+were actually marked to indicate their purpose; 
+
+  By  its  design,  the  emergency  stop  button  for  the  drill  did  not 
+clearly  identify  to  the  operator  when  it  was  engaged  or 
+deactivated; 
+
+  There was no ‘green light’ (or similar indicator) to show when the 
+
+equipment was ‘energised’. 
+
+Any  modification  of  equipment  should  only  be  done  after 
+consultation  and  agreement  with  the  manufacturer  to  ensure  the 
+
+ 
+modification does not adversely interfere or affect any of the other functions of the drill. 
+
+Lessons learnt/actions taken 
+
+  The company reporting the incident introduced ‘drill familiarisation’ to the engineers’ induction; 
+
+  A full and comprehensive risk assessment should be carried out for the use of all engine room equipment; 
+
+  Engineers intending to use the equipment should be fully familiar with those risk assessments and comply with 
+
+their requirements; 
+
+ 
+
+IMCA  notes  that  in  many  countries  there  are  regulatory  requirements  (the  Provision  and  Use  of  Work 
+Equipment Regulations (PUWER) in the UK) which should have been applied with regard to equipment control 
+markings. 
+
+Note: A more recent model of the same drill incorporates a safety feature where the drill cannot be operated if the 
+drill  guard  is  in  the  open  position.  Such  safety  features  should  be  function-checked  to  ensure  they  are  fully 
+operational before carrying out any drill changes. 
+
+Members may wish to review the following incident: 
+
+  Near Miss: Drawstring on Storm Jacket Nearly Drawn Into Rotating Equipment 
+
+4 
+
+Two Cases of Hand Injuries – UK HSE 
+
+Incident 1: Worker Injures Hand on Lathe 
+
+What happened 
+
+THE UK HSE reports that an engineering firm was sentenced after a worker suffered injuries to his hand. A worker 
+was polishing a metal shaft on a lathe using emery cloth, while wearing gloves. The glove appeared to snag and 
+dragged his hand towards the rotating shaft. As a result of the incident he had stitches in his hand and dislocated 
+his scaphoid bone – part of his wrist. 
+
+The injured person had only been working for four days at the site. 
+
+What went wrong/causes 
+
+The HSE investigation found that: 
+
+polishing; 
+
+  No suitable and sufficient assessments had been carried out to determine control measures for this task of 
+
+  There were no clear guidelines for employees and others, such as agency workers, on safe ways to polish. 
+
+The HSE inspector commented: “Those in control of work have a responsibility to devise safe methods of working 
+and to provide the necessary information, instruction and training to their workers in the safe system of working. 
+This incident could so easily have been avoided by simply carrying out correct control measures and safe working 
+practices.” 
+
+Incident 2: Workers exposed to Hand-Arm Vibration Syndrome (HAVS) 
+
+What happened 
+
+THE UK Health & Safety Executive (HSE) reports that an engineering firm has been fined for failing to control the 
+risk of hand-arm vibration syndrome (HAVS) to employees using hand-held power tools.  A welder who had been 
+working at the company for a number of years had been given a job that involved a significant amount of grinding 
+
+ 
+and polishing. After some hours on the task, the worker began to experience numbness and tingling. He asked to 
+swap with another worker but was told to carry on. 
+
+Whilst his symptoms continued he was told by his supervisor to carry on using vibrating tools. A few weeks later, a 
+20-year-old apprentice welder also began to suffer from vibration-related symptoms from using similar tools. 
+
+What went wrong/causes 
+
+The company failed to adequately control the risks to its employees from exposure to vibration. The company also 
+failed to ensure its employees were given sufficient information, instruction and training on the effects of working 
+with vibrating hand tools. 
+
+The HSE inspector said: “This is a case of the company failing to protect workers using vibrating tools. Exposure to 
+hand-arm vibration is a well-known risk which the company failed to adequately control. The company also failed 
+to  ensure  workers  were  looked  after  when  symptoms  did  arise  leading  to  further  exposure.  This  was  wholly 
+inadequate, and led to two employees suffering significant health effects.” 
+
+Members are encouraged to bring to the attention of their crews the IMCA safety promotional materials on hand 
+safety and other topics, available free to members. See https://www.imca-int.com/core/hsse/publications/safety-
+promotion/  
+
+Hand and finger injuries comprise a significant proportion of all the incidents reported by IMCA members and, in 
+many cases, the root causes of the injuries – as in these cases – are failure to assess risk or properly manage change, 
+or failure to provide a safe system of work. 
+
+Members may wish to review the following similar incident: 
+
+  Uncontrolled Exposure to Hand-Arm Vibration (HAVS) 
+
+In summary 
+
+IMCA members continue to report significant numbers of hand and finger injuries.  They can be broadly divided 
+into two categories. Firstly, incidents/injuries in which the use of hand tools was a causal factor, and secondly, 
+finger nips and crush injuries caused when moving large or heavy objects from one place to another (which is a core 
+task for anyone operating vessels and hence for most IMCA members.) 
+
+Members may wish to look at some of the following incidents (search words: hand, finger, crush): 
+
+This list focuses on injuries caused during use of hand 
+tools. 
+
+This list focuses on finger nips and crushes generally, but 
+not always, from loading or lifting operations.  
+
+  Machine Guarding 
+
+  Crushed Finger 
+
+ 
+
+Lost  Time  Injury  (LTI):  Hand  Cut  During  Cutting 
+Operations 
+
+ 
+
+Lost Time Injury (LTI): Finger Injury Whilst Working 
+in Engine Room 
+
+  Marine Safe Australia – Hand Injuries 
+
+  Finger Injury During Maintenance Work – Restricted 
+
+  Hand Injuries (MSF) 
+
+ 
+
+Lost Time Injury (LTI): Hand Injury 
+
+  Portable Grinders – Hand Safety 
+
+  Finger and Hand Injuries 
+
+  Finger/Hand Injuries (IADC) 
+
+ 
+
+ 
+
+Work Case 
+
+  Finger Injury During Loading Operations 
+
+ 
+
+ 
+
+Line  of  Fire  LTI:  Finger 
+Operations 
+
+Injury  During  Lifting 
+
+Lack of Safety Awareness: Crush Injury During Lifting 
+Operations 
+
+  Serious Hand Injury  
+
+

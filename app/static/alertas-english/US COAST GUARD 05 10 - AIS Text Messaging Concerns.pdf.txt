@@ -1,0 +1,96 @@
+ 
+ 
+ 
+ 
+ 
+ 
+May 27, 2010 
+Washington, DC  
+
+AIS TEXT MESSAGING CONCERNS: 
+
+ USAGE DURING NAVIGATION AND EMERGENCIES 
+
+AND ENSURING ACCURATE AIS DATA 
+
+                           Alert 05-10 
+
+Automatic Identification System (AIS) is an internationally adopted radio-navigation protocol to exchange 
+pertinent navigation-related information amongst its users, either afloat, ashore or airborne. AIS facilitates 
+vessel 
+for  voice  radiotelephone 
+transmissions.  AIS  provide  vessel  information,  including  the  vessel's  identity,  type,  position,  course, 
+speed, navigational status and other safety-related information. It receives automatically such information 
+from similarly fitted ships; monitors and tracks ships; and exchanges data with shore-based facilities.   
+
+traffic  management  while  simultaneously  reducing 
+
+the  need 
+
+Usage During Navigation - AIS enhances user’s situational awareness, and can mitigate risk of collision 
+by providing vessels with more reliable information upon which to base their passing arrangements. This 
+can be accomplished via an AIS safety related text message of up to 156 characters long. However, the 
+Coast Guard strongly reminds operators that use of AIS text messaging does not relieve the vessel of 
+other  requirements,  such  as  the  Vessel  Bridge-to-Bridge  Radiotelephone  regulations  or  of  the 
+requirements to sound whistle signals and display lights or shapes in accordance with the International or 
+Inland Navigation Rules.  
+
+Usage  During  Emergencies  -  With  respect  to  using  AIS  safety  related  text  messages  in  emergency 
+situations, users must be aware that they may not be received, recognized or acted upon as Global 
+Maritime  Distress  Safety  Systems  (GMDSS)  messages  would  be  by  the  Coast  Guard,  other  competent 
+authorities  or  maritime  first  responders.  Thus  AIS  must  not  be  relied  upon  as  the  primary  means  for 
+broadcasting  distress  or  urgent  communications,  nor  used  in  lieu  of  GMDSS  such  as  Digital  Selective 
+Calling radios which are designed to process distress messaging. Nonetheless, AIS remains an effective 
+means to augment GMDSS and provides the added benefit of being ‘seen’ (on radar or chart displays), in 
+addition to being ‘heard’ (via text messaging) by other AIS users within VHF radio range.  
+
+Operators Must Ensure Accurate Data -The Coast Guard has noted a high percentage of inaccurate and 
+improper  AIS  messaging  data.  AIS  requires  operators  to  routinely  update  their  data  as  it  relates  to 
+navigation  status,  draft,  origination  and  destination  ports,  and  eta.  Other  pertinent  static  data  is  to  be 
+maintained  accurately.    Dynamic  Data,  such  as  that  from  positioning  sources  like  GPS  via  external 
+sensors  must 
+See 
+http://www.navcen.uscg.gov/enav/ais/USA_AIS_Data_Entry_Guidance_v5.pdf  for  additional  details.  AIS 
+is only as good as the information provided and exchanged, therefore, users must ensure their unit is 
+always in effective operating condition and broadcasting accurate  information. 
+
+continuously 
+
+operational, 
+
+updated. 
+
+accurate 
+
+always 
+
+and 
+
+be 
+
+safety, 
+
+This  safety  alert  is  provided  for  informational  purposes  only  and  does  not  relieve  any  domestic  or 
+international 
+visit 
+www.navcen.uscg.gov/enav/ais/AISFAQ.htm  for  further  information  on  AIS  or  on  how  to  program  and 
+properly  use  AIS  messaging.  Developed  by  the  Office  of  Waterways  Management,  U.  S.  Coast  Guard 
+Headquarters, Washington, D.C., cgnav@uscg.mil.  
+ 
+
+requirement. 
+
+operational 
+
+material 
+
+Please 
+
+or 
+
+Office of Investigations and Analysis: http://marineinvestigations.us 
+To subscribe: kenneth.w.olsen@uscg.mil 
+
+**** 
+
+

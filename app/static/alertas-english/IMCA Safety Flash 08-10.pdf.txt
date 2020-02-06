@@ -1,0 +1,214 @@
+AB 
+
+ 
+
+IMCA Safety Flash 08/10 
+
+Safety Flash 
+
+December 2010 
+
+These  flashes  summarise  key  safety  matters  and  incidents,  allowing  wider  dissemination  of  lessons  learnt  from  them.    The  information  below  has  been 
+provided in good faith by members and should be reviewed individually by recipients, who will determine its relevance to their own operations. 
+
+The effectiveness of the IMCA safety flash system depends on receiving reports from members in order to pass on information and avoid repeat incidents.  
+Please consider adding the IMCA secretariat (imca@imca-int.com) to your internal distribution list for safety alerts and/or manually submitting information 
+on specific incidents you consider may be relevant.  All information will be anonymised or sanitised, as appropriate. 
+
+A  number  of  other  organisations  issue  safety  flashes  and  similar  documents  which may  be  of  interest  to  IMCA  members.   Where  these  are  particularly 
+relevant, these may be summarised or highlighted here.  Links to known relevant websites are provided at www.imca-int.com/links   Additional links should 
+be submitted to webmaster@imca-int.com 
+
+ 
+
+1  Welding of Shackles 
+
+A member has reported that in spite of clear work instructions and procedures to the contrary, shackles and hooks at the 
+worksite  were  being  regularly  modified  by  welding.  Rigging  suppliers  or  individual  worksites  were  carrying  out  welding 
+modifications  (mainly  to  shackles)  after  delivery  from  the  manufacturer.    This  practice  invalidates  the  manufacturer’s 
+certificate and is potentially hazardous.  
+
+The  welding  of  shackles  (after  delivery  from  manufacturer)  has  the  effect  of  adversely  altering  the  material  properties  and 
+increases  the  risk  of  failure  by  various  brittle  modes.    In  addition  to  this  increased  risk,  the  nature  of  the  failure  is 
+unpredictable, is not time dependant and cannot be prevented by inspection. 
+
+Our member recommends that all shackles and hooks that have been modified by welding should be removed from service. 
+Equipment suppliers should be instructed not to modify or issue modified shackles or hooks for use on any worksite. 
+
+ 
+
+ 
+ 
+
+Example of shackle with welded modification  
+
+performed by supplier  
+
+   Example of shackle with welded modification 
+
+performed at worksite 
+
+ 
+
+ 
+ 
+
+ 
+
+2  Lacerated Chin Caused by Flying Wedge 
+
+An incident has been bought to the attention of IMCA, in which a worker received a laceration to the chin. A worker was 
+removing a steel wedge from the frame of a crane track during disassembly.  The wedge dislodged when struck by a sledge 
+hammer  and  ricocheted  against  the  frame  before  striking  the  worker.    The  worker  was  taken  to  an  offsite  facility  for 
+treatment where he received stitches.  He was able to return to work without restrictions.  
+
+Investigation revealed the following: 
+
+  The wedge was in a bind when it was struck; 
+
+  The injured person was ‘in line of fire’ for the rebound of the wedge after it was struck by the sledge hammer; 
+
+  The injured person was not wearing a face shield whilst removing the wedge; 
+
+ 
+  Established procedures did not adequately recognise or cover the hazards for the task being performed. 
+
+  The use of wedges for this process should be eliminated and the appropriate alternative tools used for pin alignment and 
+
+  Appropriate personal protective equipment (PPE) including face shields should be used for required wedge hammering, 
+
+  More detailed work plans were developed down to the task level, including specific PPE for each task, appropriate tools 
+
+The following lessons were noted: 
+
+removal; 
+
+impacting and banding operations; 
+
+and body positioning. 
+
+ 
+
+ 
+
+Showing worksite and position of wedge 
+
+ 
+
+3  Failure to Calibrate MRU Led to Near Miss 
+
+A  member  has  reported  an  incident  in  which  a  vessel  crane  made  an  uncontrolled  payout  of  approximately  27  metres  of 
+winch wire.  During crane  operations to relocate an anode skid  the winch began paying out  for no apparent reason.  The 
+payout occurred when changeover was taking place between auto-tension and active heave modes.  This should have allowed 
+the crane to lift the skid in a controlled manner.  There were no injuries or damage to assets, but the incident was classified 
+as a high potential near miss.  
+
+Our  member’s  investigation  established  that  the  motion  reference  unit  (MRU)  housed  within  the  crane  had  not  been 
+calibrated since it was installed in 2008.  This had led to incorrect readings from the crane computer system.  The calibration 
+had  been  omitted  owing  to  a  changeover  in  companies  responsible  for  the  MRU  and  a  lapse  in  the  onboard  planned 
+maintenance system. 
+
+The  MRU  was  landed  for  calibration  and  it  was  noted  that  there  was  a  relatively  high  offset  on  the  heave  signal  from  the 
+MRU.  The decision was then taken to change out the MRU for a calibrated spare.  
+
+Following this incident our member decided to carry out a gap analysis of the planned maintenance system of the crane and 
+all other major components in safety critical equipment onboard the vessel against the possibility of similar lapses. 
+
+ 
+4  Diver Safety – Nitrox Generator Use 
+
+The  Australian  National  Offshore  Petroleum  Safety  Authority  (NOPSA)  has  published  the  attached  safety  alert  (NOPSA 
+safety alert 44). 
+
+This information can also be found  at http://www.nopsa.gov.au/alert/Alert44.pdf. 
+
+ 
+
+ 
+5  Right Hand Hit by Flying Wedge  
+
+A member has reported an incident in which a member of the crew was injured when a steel wedge came loose and hit him 
+on the right hand.  The injured person was working in a winch room replacing the band brakes of a winch and had completed 
+similar work on two other winches without any problems.   
+
+During the insertion of the brake belt pin with the help of a hydraulic jack, a steel wedge (weight 2.4 kilograms) was used to 
+hold the foundation plate in the right position.  Just before the pin was fully inserted in the pad eye/hinge-point, the wedge 
+came loose with a lot of energy, and hit the injured person who was not wearing gloves, against his right hand.  The injured 
+person  received  the  necessary  medical  treatment  (four  stitches)  and  was  subsequently  able  to  continue  work  under 
+restricted conditions.   
+
+Our member’s investigation revealed the following: 
+
+  There were two direct causes of the incident: 
+
+– 
+– 
+
+the injured person’s position with respect to the job he was doing  
+the improper position of equipment used – the steel wedge; 
+
+  The  root  cause  of  the  incident  was  considered  to  be  inadequate  experience/supervision  (the  injured  person  had 
+
+less than three months’ experience on this vessel); 
+
+  A significant contributing factor was that the injured person was not using available PPE (gloves) and was performing the 
+
+task in a tight/cramped working area. 
+
+Our member made the following corrective actions: 
+
+  Time out for safety: work was stopped and incident discussed with personnel involved; 
+
+  Further emphasis was given to the importance of safe position with respect to unexpected flying objects; 
+
+  Further guidance and job instructions were given to relative newcomers;  
+
+  Shared lessons were discussed at shift briefings. 
+
+ 
+
+ Installation of brake pin using hydraulic jack (red arrow) 
+
+  The wedge which came loose (yellow circle) 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Overview of worksite and position of injured person (injured person NOT shown) 
+
+ 
+6  Subsea Oxy-arc Cutting – Risk of Explosion 
+
+The  International  Association  of  Oil  &  Gas  producers  (OGP)  has  published  the  attached  safety  flash  (OGP  safety  alert 
+number  227),  entitled  Subsea  oxyarc  cutting  – 
+found  at 
+http://info.ogp.org.uk/safety. 
+
+information  can  also  be 
+
+risk  of  explosion. 
+
+  The 
+
+The safety flash recommends that double isolations that perform a complete break in both poles of the circuit should be used 
+between the surface generator and the diver to form a more effective and dependable isolation. 
+
+Members  are  reminded  that  subsea  oxy-arc  cutting  operations  are  addressed  in  IMCA  D  003  -  Oxy-arc  cutting  operations 
+underwater and IMCA D 022 - The diving supervisor’s manual (chapter 12, section 15). 
+
+Guidance contained within the diving supervisor’s manual includes that the knife switch should be mounted in such a way that it 
+cannot fall or be knocked into the on position.  Ideally it should be a double pole switch enclosed in a protective wood or plastic box 
+with only the handle showing. 
+
+Members are also reminded that both IMCA D 003 and IMCA D 022 are currently under review.  
+
+ 
+
+ 
+
+

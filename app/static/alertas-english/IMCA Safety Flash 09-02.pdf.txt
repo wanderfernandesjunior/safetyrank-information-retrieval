@@ -1,0 +1,104 @@
+AB
+
+ 
+
+IMCA Safety Flash 09/02 
+
+September 2002 
+
+These  flashes  summarise  key  safety  matters  and  incidents,  allowing  wider  dissemination  of  lessons  learned  from  them.    The  information  below  has  been 
+provided in good faith by members and should be reviewed individually by recipients, who will determine its relevance to their own operations. 
+
+The effectiveness of the IMCA safety flash system depends on receiving reports from members in order to pass on information and avoid repeat incidents.  
+Please consider adding the IMCA secretariat (imca@imca-int.com) to your internal distribution list for safety alerts and/or manually submitting information 
+on specific incidents you consider may be relevant.  All information will be anonymised or sanitised, as appropriate. 
+
+A  number  of  other  organisations  issue  safety  flashes  and  similar  documents  which  may  be  of  interest  to  IMCA  members.    Where  these  are  particularly 
+relevant, these may be summarised or highlighted here.  Links to known relevant websites are provided at www.imca-int.com/links   Additional links should 
+be submitted to webmaster@imca-int.com 
+
+ 
+
+1  Failure of Bailout Regulator 
+
+During routine maintenance of bail-out bottles on a members’ dive support vessel (DSV), a serious flaw was discovered on a 
+first stage bail-out regulator.  When the relief valve was dismantled, it was found that two mild steel washers had been fitted 
+to  the  valve  to  effectively  increase  the  spring  tension  to  allow  for  a  20 bar  pressure  release.    Both  washers  were  badly 
+corroded and prevented operation of the relief valve. 
+
+In a situation where a regulator fails because the relief valve is inoperable, there is potential for the low pressure (LP) hose to 
+be  subjected  to  full  bail-out  pressure  of  300 bar.    New-type  LP  hoses  have  a  working  pressure  in  excess  of  60 bar  but, 
+because of safety factors, will have a considerably higher burst pressure.  Thus there is potential to have full bailout pressure 
+at the helmet emergency valve without the diver’s knowledge. 
+
+When the history of the first stage regulator’s relief valve was investigated, the company involved could not trace when they 
+had been delivered.  The manufacturer had no knowledge of such washers ever being fitted to its relief valves, as the normal 
+relief valve setting from the manufacturer was 15 bar.  It is understood that that supplier manufactures special relief valve 
+caps  to  allow  for  a  20 bar  pressure  relief,  but  this  was  based  on  different  spring  settings.    The  company’s  maintenance 
+procedures  would  prohibit  such  materials  being  inserted  in  the  regulator  valves  and  documentary  evidence  of  when  this 
+occurred could not be found. 
+
+The  company  involved  is  concerned  that  this  may  not  be  an  isolated  case  of  incorrect  supply  or  maintenance  and  has 
+instructed all of its diving supervisors to check all first stage regulators at the earliest opportunity to confirm that the relief 
+valves have the correct components fitted, in accordance with suppliers’ specifications.  This check was to include both units 
+in use and stored standby units. 
+
+2  Loss of a Vessel 
+
+2.1 
+
+Introduction 
+
+We  have  received  the  following  information  regarding  loss  of  a  survey  vessel.    This  loss  followed  the  ingress  of 
+water into the ship’s engine room.  There were no injuries amongst the 29 crew members, who were safely carried 
+to shore. 
+
+1.22.2  Circumstances 
+
+The company involved was contracted to conduct a seabed survey for a proposed pipeline and the vessel 
+involved was tasked with carrying out the work scope.  
+
+On  arrival  at  location  the  survey  operations  commenced  by  deployment  of  an  acoustic  transceiver  pole 
+through the vessel’s hull via a gland, support stool and gate valve.  The system is located in the ship’s engine 
+room. 
+
+The  transceiver  pole  weighing  approximately  500 kg  and  5m  in  length  was  lowered  by  a  chain  block 
+assembly.  At some point during the lowering and for reasons unknown, the pole fell freely some four to 
+five  metres.    The  retaining  collar  and  supporting  steelwork  were  destroyed  by  the  inertial  energy  of  the 
+pole thus the pole was lost to sea. 
+
+ 
+
+Safety Flash 
+
+Thereafter there was ingress of water into the engine room from the open gland.  The control wheel to 
+the  gate  valve,  which  was  situated  at  the  base  of  the  support  stool  was  almost  immediately  submerged 
+preventing access by staff to close it. 
+
+The watertight doors to the port and starboard shaft tunnels were closed and the engine room evacuated.  
+Distress calls were initiated, the company’s office advised and a nearby support vessel closed in to render 
+assistance  and  to  receive  all  non-essential  personnel  off  the  vessel.    Assistance  was  also  obtained  from  a 
+nearby coalition force vessel with helicopter support.  Once it was quickly established there was no risk to 
+personnel efforts were focussed on saving the ship.  
+
+Regrettably  only  one  of  three  pumps  landed  onboard  the  vessel  was  operable.    Given  this  situation  all 
+remaining personnel were removed, thereafter the vessel remained afloat a further three hours, sinking in 
+3,000 metres of water. 
+
+Both  the  Master  and  his  team,  supported  by  the  various  vessels,  agencies  and  the  company  emergency 
+response team, managed the whole nine hour incident in a controlled manner.  The entire crew of 29 were 
+transferred by vessel’s rescue craft without injuries or incident of any kind. 
+
+1.32.3  Follow Up 
+
+The  company  involved,  together  with  regulatory  agencies,  is  continuing  to  investigate  the  incident.  
+These investigations have, and will continue to be, focused on the cause and contingency systems.  
+
+However, given the recent vessel losses and incidents within the both the deep seismic and high-resolution 
+seismic industry the company involved believes the view that ‘it cannot happen to us’ must be challenged.  
+The company involved has advised others to review their processes and the effects of their actions.  It is 
+with this focus in mind and the best interests of the industry that the company involved has indicated that it 
+will make available the regulatory findings and make recommendations to the classification society which, if 
+implemented, should avoid such a repetition to other vessels. 
+
+

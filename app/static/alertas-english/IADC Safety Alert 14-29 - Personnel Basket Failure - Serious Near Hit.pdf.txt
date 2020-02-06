@@ -1,0 +1,87 @@
+ 
+
+ 
+
+Safety Alert 
+
+        From the International Association of Drilling Contractors 
+
+PERSONNEL BASKET FAILURE – SERIOUS NEAR HIT 
+
+ 
+
+ 
+ALERT 14-29  
+
+ 
+
+ 
+
+WHAT HAPPENED: 
+
+While lifting a Floorhand in a personnel basket to perform scheduled maintenance on the Pipe Racking System inside the derrick, the 
+curved lifting pipe used to suspend the basket partially separated when the basket hung up on an obstruction.  The basket and rider 
+were approximately 110 feet above the rig floor when the incident occurred.  The rider felt the basket tilt and called “all stop” over a 
+hand held radio he was using to communicate with the banksman.  The basket continued to tilt and the rider repeated the command 
+“all stop”.  The basket stopped just as the lifting pipe partially failed. 
+
+A separate derrick winch line had been anchored to the rig floor, adjacent to the path the basket would travel, to serve as a 
+guideline for the rider. Following the failure, the rider gave the command to lower the basket.  He supported his weight by holding 
+onto the guideline as the basket was lowered to the floor. When the basket reached the rig floor, the lifting pipe parted completely 
+from the basket. 
+
+Personnel Basket with Separated Lifting Pipe 
+
+ 
+
+WHAT CAUSED IT: 
+
+ 
+
+The personnel basket was designed as a lightweight aluminum basket to be used inside the derrick to lift a single rider. It had a Safe 
+Working Load of 400 pounds with a tensile strength of 4,000 pounds.  The hydraulic utility winch used to lift the basket was certified 
+for personnel lifting but had a hoisting capacity of 14,000 pounds, which exceeded the tensile strength of the basket lifting pipe. 
+When the basket hung up on an obstruction, the winch exerted more force than the basket could withstand and the basket partially 
+separated from the lifting pipe. 
+
+ADDITIONAL SAFETY CONCERNS 
+
+•  The rider was wearing a fall protection harness with a lanyard attached to the basket rather than an anchor point  
+
+independent of the basket, making his fall protection ineffective if the lifting pipe failed. 
+
+•  There was a delay between the time the first “all stop” command was given and hoisting of the basket stopped. 
+
+CORRECTIVE ACTIONS:  To address this incident, this company did the following: 
+
+•  Extreme caution should be exercised when using personnel baskets which have a tensile strength below the hoisting capacity 
+
+• 
+
+of the winch being used to lift them. 
+The travel path of the basket should be surveyed for any obstructions that could contact the basket and a banksman should 
+be positioned to have a clear view of the basket and rider at all times. 
+
+•  Continuous hand signals should be used as the primary means of communication.  Should hand signals cease, the lifting 
+
+equipment operator must immediately stop movement and must not resume movement until clearly directed to do so. If radio 
+communications are used the commands should be also be continuous with the operator immediately stopping movement if a 
+command is not heard. 
+
+•  Secondary fall protection attached to an anchor point independent of the personnel basket should be considered in the risk 
+
+assessment conducted for all personnel lifting operations. 
+
+The Corrective Actions stated in this alert are one company’s attempts to address the incident, and do not necessarily reflect 
+
+the position of IADC or the IADC HSE Committee. 
+
+This material is presented for information purposes only.  Managers & Supervisors should evaluate this information to determine if it can be applied to 
+
+Copyright  2014 International Association of Drilling Contractors All rights reserved. 
+
+their own situations and practices 
+
+Issued November 2014 
+
+

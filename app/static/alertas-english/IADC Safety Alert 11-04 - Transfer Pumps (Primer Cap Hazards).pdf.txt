@@ -1,0 +1,221 @@
+Safety Alert 
+
+        From the International Association of Drilling Contractors 
+
+ 
+ALERT 11 – 04  
+
+TRANSFER PUMPS (PRIMER CAP HAZARDS) 
+
+ 
+
+WHAT HAPPENED: 
+ 
+A transfer pump on the reserve pit had stopped working.  The driller alerted a crewmember to shut down the 
+pump  and  take  the  primer  cap  off  to  re-prime  the  pump  if  needed.    The  injured  person  (IP)  shut  off  the 
+transfer pump and began to open the primer cap by loosening the bolts on the top cap.  Pressure from the 
+pump  blew  the  cap  off  resulting  in  super-heated  mud  spraying  the  crewmember  in  the  face.    The  injury 
+resulted in 3rd degree burns to the IP’s face and neck with permanent injuries. 
+ 
+WHAT CAUSED IT: 
+Transfer pumps that are bull plugged with no pressure relief valve pose a serious hazard that could result in 
+serious injury or death.  There have been reports of serious struck-by and burn injuries in the drilling industry 
+when attempting to remove the transfer pump’s primer cap while it is under pressure. 
+ 
+  The discharge hose was buried only a few inches underground in a PVC pipe and routed across a path 
+
+where trucks continuously drive.   
+
+  The PVC pipe was crushed by a truck running over it which pinched off the discharge hose.   
+  The  suction  hose  had  a  one  way  valve  allowing  fluid  in  but  not  back  out  (self-priming).    Once  the 
+discharge  hose  was  pinched  off,  back  pressure  built  up  in  the  primer  reservoir  while  the  impellor 
+continued to operate which superheated the mud.   
+
+  The  ball  valve  located  at  the  bottom  of  the  reservoir  tank  which  could  have  been  used  to  release 
+
+pressure, was plugged and the ball valve lever was removed.   
+
+  The crew member began backing the bolts off of the primer plate when the plate blew off and sprayed 
+
+super-heated mud onto his face and neck.     
+
+ 
+
+CORRECTIVE ACTIONS:  To address this incident, this company did the following: 
+ 
+Corrective Action: The Company recommended the following corrective actions to prevent reoccurrence of 
+this type of incident.  
+ 
+ 
+
+Issued a notice to all rig supervisors that all crew members should be trained (mentored) on the proper 
+operations and safety hazards for transfer pumps. 
+
+  Rig  Supervisors  were  instructed  to  inform  each  new  crew  member  that  if  they  do  not  understand  the 
+maintenance operations of priming the transfer pump, or have not been shown the proper steps to take 
+to prime the pump, then (STOP) the process and ask for help.   
+Instructed  rig  supervisors  to  ensure  that  all  transfer  pumps  have  a  working  ball  valve  (pressure  relief 
+valve)  installed  on  the  reservoir  which  is  not  plugged  so  that  it  can  be  used  to  relieve  pressure  in  the 
+pump.  
+
+ 
+
+  Rig  personnel  were  instructed  to  conduct  two  separate  JSAs  on  opening  the  primer  cap  of  a  transfer 
+pump that has a bull plug but no ball valve lever, and a transfer pump that is properly equipped with no 
+bull plug and does have ball valve lever. 
+o 
+
+It is necessary to conduct both JSAs due to: 
+  Crew members not knowing the normal routine tasks of proper shut down and maintenance on 
+
+the transfer pump that is properly equipped.  
+
+  Crew members not knowing the non-routine task of recognizing improperly modified equipment 
+(i.e.,  bull  plug  and  no  ball  valve  lever)  and  what  the  necessary  steps  are  to  perform  the  task 
+safely. 
+
+  Rig personnel were instructed that proper Lock-Out /Tag-Out Procedures should be taken when working 
+
+on or maintaining the transfer pump: 
+
+The Corrective Actions stated in this alert are one company’s attempts to address the incident,  
+
+and do not necessarily reflect the position of IADC or the IADC HSE Committee. 
+
+This material is presented for information purposes only.  Managers & Supervisors should 
+
+evaluate this information to determine if it can be applied to their own situations and practices 
+
+Copyright  2005 International Association of Drilling Contractors All rights reserved. 
+
+Issued February 2011 
+
+Safety Alert 
+
+        From the International Association of Drilling Contractors 
+
+ 
+
+ 
+
+o  Shut the pump down (electrical power). 
+o  Lock out the power source and tag out the power source (breaker and/ or lock out switch or button). 
+o  Push  the  start  up  button  several  times  making  sure  that  any  residual  electrical  power  is  removed 
+
+o  Release any pressure from the pump by slowly opening the valve located at the bottom of the pump 
+
+from the pump.  
+
+reservoir tank. 
+
+  Rig personnel were instructed to NEVER attempt to remove the primer cap if the pressure relief valve is 
+
+replaced with a bull plug (a approved JSA must be in place before releasing any internal pressure).  
+o 
+
+If  the  pressure  relief  valve  has  a  bull  plug  then  (STOP).    Do  not  attempt  to  open  the  primer  cap.  
+Immediately  contact  your  driller,  pusher  and  company  man  for  further  evaluation  and  instructions 
+(communicate with all three). 
+
+ 
+
+ 
+
+Instructed rig personnel to NEVER remove the suction and discharge hoses without first releasing any 
+built up pressure.  This can be done by slowly opening the pressure relief valve at the bottom of the tank 
+reservoir. 
+Instructed rig personnel  to NEVER attempt to readjust cam levers on the suction and discharge hoses 
+while  the  pump  is  running  or  has  just  been  shut  down.  Always  shut  down  the  power  and  relieve  any 
+pressure.   
+
+  Rig  personnel  were  instructed  that  during  rig  up  procedures,  all  transfer  pumps  (including  3rd  party) 
+
+should be visually inspected: 
+
+Inspect all fittings and hoses. 
+
+Inspect all electrical connections and electrical lines. 
+
+Note:  power shall be locked out before inspecting transfer pumps. 
+o 
+o  Make sure the pressures valves used to relieve pressure do not have a bull plug in place. 
+o  Make sure the pressure relief valve has a ball valve lever in place. 
+o  Make sure the pressure relief valve is working correctly. 
+o 
+o  Make sure any moving parts (couplings) are adequately guarded. 
+Instructed rig personnel to wear PPE including: 
+o  Gloves 
+o  Safety glasses 
+o  Hard hat 
+o  Eye goggles (when removing primer cap or hoses) 
+o  Full face shield (when removing primer cap or hoses) 
+o  Chemical rubber gloves, apron full face shield and goggles if mud is hot or high PH (caustic). 
+
+ 
+SEE NEXT PAGE FOR PICTURES 
+ 
+
+The Corrective Actions stated in this alert are one company’s attempts to address the incident,  
+
+and do not necessarily reflect the position of IADC or the IADC HSE Committee. 
+
+This material is presented for information purposes only.  Managers & Supervisors should 
+
+evaluate this information to determine if it can be applied to their own situations and practices 
+
+Copyright  2005 International Association of Drilling Contractors All rights reserved. 
+
+Issued February 2011 
+
+Safety Alert 
+
+        From the International Association of Drilling Contractors 
+
+ 
+
+Discharge Hose 
+
+Suction Hose 
+
+Figure 1 Transfer pump at reserve pit behind mud tanks. 
+
+Bull Plug 
+
+ 
+
+ 
+
+Figure 2  Primer Cap that was being removed. 
+
+Figure 3  Relief valve on transfer pump with a bull plug in place 
+(pressure cannot be relieved from valve). 
+
+Figure 4  Follow Up Inspection 2 months later on same transfer 
+pump  from  which  the  safety  alert  was  initiated  (see  next 
+picture). 
+ 
+
+ 
+Figure 5  After fleet wide distribution of the initial issuance of 
+this safety alert, the pump was corrected by removing the bull 
+plug and adding a new ball valve lever.   
+
+The Corrective Actions stated in this alert are one company’s attempts to address the incident,  
+
+and do not necessarily reflect the position of IADC or the IADC HSE Committee. 
+
+This material is presented for information purposes only.  Managers & Supervisors should 
+
+evaluate this information to determine if it can be applied to their own situations and practices 
+
+Copyright  2005 International Association of Drilling Contractors All rights reserved. 
+
+Issued February 2011 
+
+ 
+
+ 
+
+ 
+
+

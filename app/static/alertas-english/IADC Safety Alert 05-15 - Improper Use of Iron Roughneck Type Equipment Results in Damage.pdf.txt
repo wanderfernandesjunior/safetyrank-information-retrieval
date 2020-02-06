@@ -1,0 +1,73 @@
+Safety Alert 
+
+        From the International Association of Drilling Contractors 
+
+ 
+ALERT 05 – 15  
+ 
+
+IMPROPER USE OF IRON ROUGHNECK™  
+TYPE EQUIPMENT RESULTS IN DAMAGE 
+
+ 
+The lower jaw on the Iron Roughneck™ was being used to hold back up on a sub while the top drive was 
+being used to spin-up the connection. This resulted in the full torque of the top drive spin-up function being 
+transmitted to the tracks and wheels of the Iron Roughneck™.  The Iron Roughneck™ was not designed to 
+be used as a back up to the top drive, but only as a back up to itself.  The torque applied to the track was 
+sufficient to shear the hold down mechanism on the Iron Roughneck™ and dislodge it from the tracks.  There 
+were no injuries. 
+ 
+WHAT CAUSED IT: 
+ 
+1. 
+
+Improper work procedure.  The model of Iron Roughneck™ is use was not designed to back-up the top 
+drive. The unit is designed to have reactive torque from the top wrench to the bottom wrench, not to hold 
+the torque with the wheels. 
+Insufficient training.  The crews on the rig were not fully trained in the limitations of the unit.  No 
+organized training for operation of the specific model of Iron Roughneck™ was incorporated in the rig 
+training. 
+
+2. 
+
+ 
+CORRECTIVE ACTIONS:  To address this incident, this company did the following:   
+ 
+Instructed all Operations Personnel To:   
+ 
+1.  Review  this  incident  with  crews  and  emphasize  that  an  Iron  Roughneck™  is  designed  to  work  as  an 
+independent unit and shall only be operated as designed.  ANY deviation from the designed use requires 
+a completed formal risk assessment and an approved Management of Change. 
+
+2.  All operators of the Iron Roughneck™ are required to review the operations and maintenance sections of 
+the operations manual.  This must be included in the individual’s training record*.  Specific emphasis is to 
+be placed on a through knowledge of the pre-operating checklist, end-of-stroke interlock, torque wrench 
+back-up mode, and mouse hole operations.  
+
+3.  All work procedures involving the use of the Iron Roughneck™ are to be reviewed by the drill crew for 
+
+compliance to the operating procedure for that piece of equipment and their rig-specific JSA. 
+
+ 
+This  Alert  applies  to  any  ”Iron  Roughneck™”,  type  system,  whether  it  is  on  tracks,  wheels,  or  hangs  on  a 
+wire or arm.  
+ 
+*Requirement  for  this  training  will  be  included  and  documented  in  the  Floorhand  position  in  Competency.  
+Until  this  program  is  complete,  the Driller  must ensure  that  all operators  of  Iron Roughnecks™  and similar 
+equipment are in compliance with Recommended Action #2. 
+
+ 
+
+The Corrective Actions stated in this alert are one company’s attempts to address the incident,  
+
+and do not necessarily reflect the position of IADC or the IADC HSE Committee. 
+
+This material is presented for information purposes only.  Managers & Supervisors should 
+
+evaluate this information to determine if it can be applied to their own situations and practices 
+
+Copyright © 2005 International Association of Drilling Contractors All rights reserved. 
+
+Issued April 2005 
+
+

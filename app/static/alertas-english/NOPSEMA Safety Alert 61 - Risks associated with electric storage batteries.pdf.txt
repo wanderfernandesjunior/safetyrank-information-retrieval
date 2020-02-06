@@ -1,0 +1,213 @@
+ 
+
+ 
+
+ 
+
+Safety alert 61 
+
+ 
+
+November 2015 
+
+ 
+
+Risks associated with electric storage batteries  
+
+What happened? 
+
+Recently, NOPSEMA was notified of a fire that occurred in the battery room on a production facility. This 
+incident has highlighted the potential for thermal runaway events, specifically, when there is short circuit 
+between two or more battery banks of uninterruptible power supply (UPS). This incident was likely caused by 
+leaking electrolyte fluid contacting a conductive metal cabinet frame in the UPS battery room. There were no 
+injuries caused as a result of this incident. However, containing the fire, albeit relatively small, presented 
+challenges. 
+
+Figure 1 – First entry into the battery room post 
+incident. 
+
+ 
+
+ 
+Figure 2 – Battery cabinet with doors removed. 
+Damage within left cabinet. 
+
+ 
+
+What could go wrong? 
+
+Lead acid batteries are capable of delivering an electric charge at a very high rate and, when charging, can 
+release flammable hydrogen gases. As such, when these hydrogen gases are combined with oxygen, they have 
+the potential to cause an explosion. 
+
+Valve regulated batteries described as ‘maintenance free’ are less likely to release hydrogen than conventional 
+flooded electrolyte batteries in normal operational conditions. However, it is still important to take care when 
+charging valve regulated batteries. Hydrogen can be released through the pressure relief valves if the battery 
+charging current or voltage are exceeded, which can also lead to a potential explosion.   
+
+Batteries can contain significant stored energy. Under certain circumstances this energy may be released very 
+rapidly. This can occur during short circuit faults, for example, when the terminals are short-circuited. In the 
+event of a short circuit condition, very large fault currents can be generated, which can result in rapid heat 
+rise. Explosions associated with the fault can result in a shower of molten metal, which can cause serious 
+injuries and ignite explosive gases present around the battery. 
+
+ 
+
+National Offshore Petroleum Safety and Environmental Management Authority 
+
+A452884     Rev 0 
+
+04/11/15 
+
+1 of 3 
+
+ 
+
+               Safety alert 61 
+
+ 
+
+ 
+
+Most battery cells produce low voltages and therefore there is limited risk of electric shock, however, some 
+large battery banks produce more than 120 volts DC. Personnel should be protected from the dangers of 
+electric shock by ensuring that: 
+
+live conductors are effectively insulated or protected  
+
+• 
+•  access to areas where there are dangerous voltages is controlled  
+•  appropriate warning signage is displayed. 
+
+Key lessons 
+
+Battery installations should be designed to eliminate or reduce the risk of fault currents associated with 
+battery terminals or short circuits to the battery stands or trays. Battery stands or trays should be insulated 
+and access to battery terminals, inspection caps, or charge indicators should be sufficient to allow effective 
+maintenance to be conducted safely.  
+
+•  Store batteries in a cool, well-ventilated area away from ignition sources. Where batteries are 
+
+arranged in two or more tiers, adequate circulation of air should be provided. 
+
+• 
+
+Large battery banks should be located in a dedicated battery room with minimal other equipment and 
+services.  
+
+•  Dedicated battery rooms should consider potential explosive gas (hydrogen) release under both 
+normal charging and fault conditions and should consider utilising explosive protected electrical 
+equipment within the space.   
+
+•  Battery room ventilation systems and ducts should be separated from other ventilation systems and 
+
+lead to safe open air locations. 
+
+•  Battery rooms should be provided with smoke and/or heat detection. In addition, provision of gas 
+
+detection should also be considered for battery rooms. 
+
+•  Battery rooms not provided with fixed active fire protection systems such as carbon dioxide (CO2), 
+Inergen or other inert gas should be provided with portable CO2 or dry powder fire extinguishers. 
+
+•  Batteries should be fixed to prevent any movement arising from the motions of any floating facility. 
+•  Battery storage design should consider containment of potential electrolyte leakage and should be 
+
+spill proof. 
+
+• 
+
+Lead acid and alkaline batteries should not be placed in the same space unless separated by suitable 
+screens. 
+
+•  Follow all instructions and manufacturers recommendations and check the manufacturer’s 
+
+specifications on battery storage and battery charging thresholds. Record date of manufacture, 
+installation, and the maximum end of life of batteries. 
+
+Ensure procedures are in place for undertaking regular visual inspections including checking for cleanliness, 
+corrosion, electrolyte levels leaking electrolyte, charge indicators, charging current, system voltage, charger 
+status and alarms, and earth fault indication.    
+
+Regular load testing of battery banks should be performed and the discharge duration and accepted voltage 
+drop should be identified in the performance standards. Thermography testing while battery banks are 
+subjected to load conditions should be considered to identify any loose connections that can lead to a supply 
+loss or result in a potential fire.  
+
+Battery maintenance should consider the effects of battery sulfation, which can lead to a number of battery 
+faults, for example, cell short circuit, excessive voltage drop or lead to casing damage and electrolyte loss. 
+
+Battery charger fault indication and alarms should be considered and appropriately monitored to ensure 
+effective battery charging is maintained. 
+
+Battery earth fault detection systems should be provided for larger battery installations to provide warnings of 
+low levels of insulation resistance. 
+
+ National Offshore Petroleum Safety and Environmental Management Authority 
+
+A452884     Rev 0 
+
+04/11/15 
+
+2 of 3 
+
+ 
+
+               Safety alert 61 
+
+ 
+
+The facility performance standards should clearly identify the operational performance required for the 
+battery systems. Operational performance may include:  
+
+• 
+• 
+• 
+
+the minimum operating duration required for the battery emergency loads 
+the maximum accepted voltage drops for the battery system  
+the key minimum testing and inspection periods that ensure an effective emergency supply is ready on 
+demand. 
+
+Battery replacement by failure is generally not considered appropriate for batteries supplying safety critical or 
+emergency loads that are required to function on demand. Batteries should be replaced before they reach 
+their end of life condition. 
+
+Battery fire is a credible event; these hazards (fire hazard and stored energy) should be assessed as part of the 
+safety case for the facility. 
+
+Operators should prepare a mitigating emergency response procedure for responding to a battery thermal 
+runaway event or battery room fire. The emergency response procedure should cover containing the event, 
+firefighting, training, and emergency preparedness drills. 
+
+The legislation 
+Schedule 3 of the Offshore Petroleum and Greenhouse Gas Storage Act 2006 places specific duties on the 
+operator of a facility to take all reasonably practicable steps to ensure that: 
+
+•  any plant, equipment, materials and substances at the facility are safe and without risk to health and 
+• 
+
+to implement and maintain systems of work at the facility that are safe and without risk to health. 
+
+Facility operators, employers, and persons in charge of work activities should review their practices for the use 
+of battery banks, particularly banks of batteries storing 120 volts DC and above, with regard to the above 
+information. 
+
+Contact 
+
+For further information email alerts@nopsema.gov.au and quote Alert 61. NOPSEMA safety alerts are 
+published at nopsema.gov.au, on the ‘Safety Alerts’ page under the ‘Safety’ tab. 
+
+ 
+
+ 
+
+ National Offshore Petroleum Safety and Environmental Management Authority 
+
+A452884     Rev 0 
+
+04/11/15 
+
+3 of 3 
+
+

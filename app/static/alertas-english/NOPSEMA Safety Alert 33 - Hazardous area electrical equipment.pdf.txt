@@ -1,0 +1,146 @@
+ 
+
+SAFETY ALERT 33 
+
+   NATIONAL OFFSHORE PETROLEUM SAFETY AUTHORITY 
+
+ 
+Hazardous Area Electrical Equipment 
+ 
+What happened? 
+
+An emerging trend identified during NOPSA’s planned inspections of facilities is the range of 
+safety issues relating to electrical equipment in hazardous areas.  Typical safety issues 
+identified include: 
+
+o  Fixed electrical equipment not suitable for the hazardous zone (i.e. not correctly rated). 
+
+o  Corrosion of electrical equipment (e.g. motors, instruments, junction boxes, etc.) 
+
+potentially compromising the hazardous area rating. 
+
+o  Non-rated portable electrical equipment (e.g. hand drills, non-EX rated lighting, etc.) 
+
+used in hazardous areas. 
+
+o  Poorly maintained hazardous area equipment e.g. damaged glands and seals, broken 
+
+conduit, missing labelling, mismatched colour-coding, exposed wiring, etc. 
+
+o  Electrical wiring not appropriately terminated and, in some cases, still ‘live’. 
+
+o  Poorly maintained hazardous area electrical equipment dossiers or registers and expired 
+
+certification. 
+
+ 
+
+Photo 1 – Damaged Conduit and Exposed Wiring 
+
+Photo 2 – Poorly Maintained Light Fitting in 
+
+Process Area 
+
+Photo 3 – Corroded Junction Box on Pump Motor 
+
+Photo 4 – Loose Wiring  
+
+(Not Appropriately Terminated) 
+
+ 
+
+ 
+
+ 
+
+Page 1 of 3 
+
+ 
+
+ 
+
+SAFETY ALERT 33 
+
+   NATIONAL OFFSHORE PETROLEUM SAFETY AUTHORITY 
+
+ 
+Hazardous Area Electrical Equipment 
+
+ 
+
+Photo 6 – Corroded Junction Box 
+
+Photo 5 – Exposed Wiring (pulled out of gland) 
+
+Photo 7 – Poor Dressing of Cables 
+
+Note: Photographs taken either with an intrinsically safe rated camera or under control of hot work permit. 
+ 
+Most of the safety issues identified with electrical equipment occur on aging facilities where 
+maintenance is lacking.  However, there have been instances of incorrectly rated hazardous 
+area electrical equipment being installed in hazardous zones on newer facilities. 
+ 
+
+What could go wrong? 
+
+Inappropriate or poorly maintained electrical equipment could become an ignition source, 
+posing a fire and explosion risk in the event of a release of hydrocarbons or other flammable 
+materials (e.g. hydrogen evolved from UPS batteries, diesel aerosols, vapours from solvents 
+and paints, etc).  
+ 
+
+Key Lessons: 
+
+The Australian and international standards applied in relation to selection and installation of 
+electrical equipment for use in hazardous areas must be specified in the safety case for the 
+facility [MoSOF 11].  Once the safety case has been accepted, there is an obligation to 
+comply with the safety case in force [MoSOF 49]. 
+
+The legislation also imposes duties of care on a range of parties, including the operator of the 
+facility, to take all reasonably practicable steps to ensure that the facility is safe and without 
+risk to the health of any person at or near the facility [OPGGSA 2006 Sch. 3, Clause 9].  This 
+includes the requirement to properly maintain electrical equipment for use in hazardous areas. 
+
+ 
+
+Page 2 of 3 
+
+ 
+
+ 
+
+SAFETY ALERT 33 
+
+   NATIONAL OFFSHORE PETROLEUM SAFETY AUTHORITY 
+
+ 
+Hazardous Area Electrical Equipment 
+ 
+
+ 
+Failures in the selection, installation and maintenance of electrical equipment in hazardous 
+areas have resulted in numerous inspection recommendations.  A range of enforcement 
+actions has also been taken by NOPSA, including improvement notices and in some cases 
+prohibition notices, where the identified defects could lead to an immediate threat to health or 
+safety. 
+
+It is important to ensure that electrical equipment used in hazardous areas is suitable and 
+appropriately certified for the relevant hazardous zone.  Hazardous area-rated electrical 
+equipment is often used as safety-critical equipment in the prevention of fire and explosion 
+and, like all other safety-critical equipment, should be subjected to regular specialist 
+inspection, maintenance and recertification.  In addition, it is essential to properly manage the 
+documentation necessary to ensure hazardous area electrical equipment is maintained in a 
+safe state. 
+ 
+
+Contact 
+
+For further information email alerts@nopsa.gov.au and quote Alert 33. 
+
+ 
+
+Page 3 of 3 
+
+ 
+
+

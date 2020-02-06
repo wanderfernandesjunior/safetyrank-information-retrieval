@@ -1,0 +1,147 @@
+SAFETY ALERT
+
+Safety Alert No.323   
+12 September 2016      
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+
+ 
+               
+
+Contact:  Jason Mathews  
+Phone: (504) 731-1496 
+
+Subsea Flowline Failure Causes Pollution Incident and 
+
+Delayed Detection Leads to Larger Spill Volume 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+
+ 
+ 
+On May 12, 2016, a subsea system experienced a significant release of production fluids into the 
+environment. The subject well and subsea equipment were located in approximately 3,500 feet of 
+water, and the production was tied back through a manifold to a host facility 6.8 miles away via a 6-
+inch flow line. 
+ 
+The subsea monitoring system displayed many alarms at the onset of this pollution event, including 
+subsea tree acoustic sand detector high alarms, subsea tree pressure transmitter low alarms, and well 
+drawdown high alarms. However, the Pressure Safety Low sensor located on the host facility upstream 
+of the boarding shutdown valve remained within its operating limits.  
+ 
+At the time of the incident, control room personnel attributed the alarms to a slugging or plugging 
+event, which had previously triggered alarms. This assumption allowed the leak to persist for several 
+hours. The well was subsequently shut-in, but not before a subsea leak from a segment of the flow line 
+occurred, releasing production fluids. Other affiliated subsea tie-backs to the facility were shut-in as a 
+cautionary measure. 
+ 
+The exact causes of the failure of the flow line are now under investigation.  Because the factors 
+involved in this failure are common to many subsea systems in the U.S. Gulf of Mexico, the BSEE 
+recommends all operators review their emergency shut-in procedures and requirements.   
+ 
+Therefore, BSEE recommends that operators:  
+
+ 
+
+  Ensure that all alarms are investigated thoroughly and assume that they are indicating an 
+
+issue requiring a response until proven otherwise and documented by the appropriate 
+responsible party; 
+
+  Review the protocol and escalation triggers for leak detection in subsea fields, including 
+
+less-than-catastrophic incidents; 
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+  Ensure operating personnel properly monitor all data,  including pressure, 
+
+temperature, rate of change, sand probe, etc., that could be an indicator of a leak or 
+loss of control;   
+
+  Ensure operating personnel are aware of the possible failure modes in subsea 
+
+systems and that they investigate potential leak scenarios earlier in the 
+troubleshooting of anomalies; 
+
+  Ensure that the chain-of-command for facility management is clearly delineated and that 
+
+communication can be established immediately in the event of a subsea issue; 
+
+  When necessary use a Remotely Operated Vehicle (ROV) to check the integrity of a 
+
+subsea system when operating anomalies are observed; 
+
+  Ensure operating personnel take special precautions to monitor activities during higher-
+
+risk events, such as startups and well interventions; 
+
+  Conduct a transient analysis for a small volume leak on subsea infrastructure. 
+
+ 
+A BSEE investigation into this incident is ongoing.  When findings and conclusions about the 
+causes are more fully delineated, an update to this Safety Alert will be released with additional 
+details.  The update will include additional recommendations to the operators to prevent 
+reoccurrence.   
+ 
+ 
+
+A Safety Alert is a tool used by BSEE to inform the offshore oil and gas industry of 
+the circumstances surrounding an accident or a near miss. It also contains 
+recommendations that should help prevent the recurrence of such an incident on the 
+Outer Continental Shelf. 
+
+

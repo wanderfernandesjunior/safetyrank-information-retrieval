@@ -1,0 +1,170 @@
+AB(cid:31)
+
+ 
+
+IMCA Safety Flash 09/07 
+
+Safety Flash
+
+October 2007 
+
+These  flashes  summarise  key  safety  matters  and  incidents,  allowing  wider  dissemination  of  lessons  learned  from  them.    The  information  below  has  been 
+provided in good faith by members and should be reviewed individually by recipients, who will determine its relevance to their own operations. 
+
+The effectiveness of the IMCA safety flash system depends on receiving reports from members in order to pass on information and avoid repeat incidents.  
+Please consider adding the IMCA secretariat (imca@imca-int.com) to your internal distribution list for safety alerts and/or manually submitting information 
+on specific incidents you consider may be relevant.  All information will be anonymised or sanitised, as appropriate. 
+
+A  number  of  other  organisations  issue  safety  flashes  and  similar  documents  which  may  be  of  interest  to  IMCA  members.    Where  these  are  particularly 
+relevant, these may be summarised or highlighted here.  Links to known relevant websites are provided at www.imca-int.com/links   Additional links should 
+be submitted to webmaster@imca-int.com 
+
+ 
+
+1  Pinch Points on Winches – Hand Safety 
+
+A  member  has  identified  a  potentially  serious  hazard  on  a  tugger  winch,  temporarily  installed  on  a  vessel  deck, wherein  a 
+hand could be ‘drawn in’ between the winch drum cheek plate and the winch base. 
+
+Figure 1 – Typical tugger winch 
+
+ 
+
+ 
+
+Rotating ring of bolts 
+
+Stationary winch base 
+
+Figure 2 – Detail of gap between winch drum cheek plate 
+
+ and the winch base 
+
+ 
+
+The operator for such a winch would typically stand with his right hand on the control lever.  It is possible that an operator 
+(or  colleague  standing  nearby)  could  put  his  left  hand  on  the  winch  base,  for  example  to  brace  against  vessel  movement.  
+If the winch was pulling in at the same time a hand could be drawn into the gap between the bolts and the base. 
+
+These winches or similar models are in widespread use and not all of them have adequate guards.  It is recommended that 
+winches with unguarded pinch-point hazards are identified and appropriate actions taken as an immediate measure: 
+
+♦  Hazard warning signs should be applied to the winches; 
+
+♦  Personnel operating or working in the vicinity of the winches should be briefed about the potential hazard. 
+
+An example of an appropriate guard that could be fitted to such a winch is shown below: 
+
+Figure 3 – Example guard for tugger winch 
+
+ 
+
+ 
+
+2  Uncontrolled Lifts of Hinged Deck Hatches 
+
+A  member  has  reported  a  number  of  incidents  of  uncontrolled  lifts  of  a  hinged  deck  hatch  which  resulted  in  damage  to 
+equipment onboard a vessel.  There was no injury to any personnel.  One incident happened during the lifting of a hinged 
+hatch using webbing slings and a crane; the strops failed during the lift causing the hinged hatch to fall back to the deck.  The 
+other incident resulted in failure of the hatch hinges. 
+
+Because  of the  potential to cause  harm  and  because  of  the  recurrence  of  similar  kinds  of  incident,  a  full  investigation  was 
+carried out. 
+
+The investigation team noted the following: 
+
+♦  Opening of this hatch has been considered a routine activity; 
+
+♦ 
+
+In both incidents, sufficient force was applied to the strops or the hatch hinges for them to fail; 
+
+♦  Lifting operations where the load remained attached at one end to the vessel via a hinge or other device represents an 
+
+additional hazard that needs to be taken into account in risk assessment and lift methodology. 
+
+The investigation team recommended the following actions: 
+
+♦  Systematic review of all hatches which are required to be opened on a routine or infrequent basis using mechanical lifting 
+
+equipment, i.e. cranes or hoists; 
+
+♦  Review or completion of a risk assessment for the operation of these hatches; 
+
+♦  Ensuring controls are adequate to prevent failure of lifting equipment or hatches; 
+
+♦  Where controls are identified as inadequate, minimising risk, e.g. with a safe system of work or additional equipment or 
+
+other means of control. 
+
+3  Lifting Rigging on ‘Frog’ Personnel Transfer Capsule 
+
+A recent incident has been reported in which there was a failure of both the primary and back up slings of a ‘Frog’ personnel 
+transfer capsule, which was under low load conditions (a single passenger).  The personnel capsule with its passenger was 
+dropped on to the deck of the vessel.  The occupant received injuries to his back and neck resulting in a medical evacuation. 
+
+The Frog sling set comprises a primary and a back-up sling, each constructed of non-rotating steel wire rope.  A high visibility 
+sling cover, closed by a Velcro fastening, is fitted, to  
+
+i) 
+
+keep both legs of the sling set together; and 
+
+ii)  assist both crane driver and deck crews in monitoring the position of the sling set during Frog operations. 
+
+Subsequent investigations conducted by the operator indicated that the slings failed due to corrosion.  The manufacturer was 
+unable  to  confirm  the  age  of  the  sling  set.    This  corrosion  may  have  been  accelerated  due  to  the  hot  and  humid  tropical 
+operating environment in which the equipment was deployed, causing condensation to collect inside the high visibility cover. 
+
+The incident further highlights the importance of adhering to a rigorous inspection and maintenance procedure, particularly 
+regular inspections of sling sets by a competent person, and periodic replacement of sling sets.  
+
+The manufacturer has noted the following: 
+
+♦  The  lifting  sling  set’s  high  visibility  cover  is  closed  by  means  of  a  Velcro  seam,  to  allow  convenient  opening  for  sling 
+inspection.  This cover should always be opened to allow a full visual inspection prior to use of the unit.  Plastic cable ties 
+or other securing devices which prevent convenient opening of the cover should not be used; 
+
+♦  Users  of  the  Frog  sling  sets  should  conduct  a  one-off  inspection  to  check  the  condition  of  the  slings  and  their 
+maintenance and inspection records, in order to ensure that preventative measures are being carried out and any sling 
+sets showing signs of significant deterioration are replaced; 
+
+♦  Frog sling sets should now be replaced every 12 months (the previous recommended interval was up to 24 months); 
+
+♦  The specifications of the standard sling set were changed earlier in 2007 to a more corrosion resistant material; 
+
+♦  Users in tropical environments (or environments which may cause accelerated corrosion) should change their sling sets 
+
+to the new specification at the earliest opportunity. 
+
+4  Confined Space Fatality 
+
+A member has reported an incident onboard a vessel in dry dock involving a number of fatalities caused by an explosion in a 
+confined space.  The explosion occurred in a machinery space and caused a serious fire.  Though the incident is still under 
+investigation, it is considered possible that a build-up of flammable gas had occurred, which was ignited by an as yet unknown 
+source.  
+
+The company involved has recommended the following actions: 
+
+Ensure that confined or enclosed spaces are certified ‘gas free’ before work is commenced within them.  It is also vital that to 
+highlight  the  need  to  ensure  that  appropriate  atmosphere  monitoring  within  confined  or  enclosed  spaces  is  undertaken 
+throughout the period of work in a confined or enclosed space. 
+
+The following precautions should also be taken: 
+
+1.  All hoses carrying flammable gas should be isolated at the supply source shut-off valve and depressurised during short 
+
+breaks in the work, especially during tea breaks, lunch breaks etc. 
+
+2.  All hoses carrying flammable gas should be removed from spaces during longer breaks in the work, i.e. any duration in 
+
+excess of one hour. 
+
+These precautions should ensure that the potential for build-up of flammable gases is minimised or prevented from reaching 
+hazardous levels. 
+
+ 
+
+ 
+
+

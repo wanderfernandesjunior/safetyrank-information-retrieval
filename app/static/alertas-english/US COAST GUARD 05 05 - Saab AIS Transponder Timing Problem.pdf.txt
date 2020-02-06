@@ -1,0 +1,41 @@
+October 24, 2005                                                                                                                      Alert 5-05 
+Washington, DC 
+ 
+Automatic Identification System (AIS) - Saab Transponder Timing Problem  
+ 
+It has come to the attention of the U.S. Coast Guard that there is a functional timing problem with 
+Saab R3 and R4 Class A mobile AIS equipment.  This timing problem creates a safety risk.  This 
+timing problem results in increased interference with other mobile AIS equipment, as well as the 
+possibility that broadcasts of the R3 and R4 will not be received by other models of Class A 
+equipment.  Interference (slot collisions) can reduce the AIS communications quality, especially in 
+regions with heavy use of AIS. 
+ 
+Saab TransponderTech AB recommends that owners of the R3 and R4 transponder products contact 
+their dealers for a software and equipment upgrade to repair the timing problem. 
+ 
+Background:  All AIS equipment uses UTC time for synchronizing transmissions.  A leap second will 
+be added to UTC time at midnight, 31 December 2005.  The leap second was introduced in the 
+internal GPS receiver module in the R3 and R4 when the announcement of the additional leap 
+second was made in July.  Due to the incorporation of the leap second, the timing of R3 and R4 
+transmissions is in error by one second and will remain that way until 31 December 2005.   
+ 
+This timing error causes each transmission to begin in the middle of a time slot rather than at the 
+beginning of the time slot.  This results in the use of two time slots.  A normal transmission uses one 
+time slot.  Therefore there is a risk that AIS transmissions from these transponders will interfere with 
+the transmissions of other AIS equipment.  Also, because of variations in AIS receiver designs, these 
+transmissions may not be received by certain brands of AIS equipment. 
+ 
+To view the announcement from Saab TransponderTech AB - 
+                                   http://www.uscg.mil/hq/g-m/moa/docs/Saab505.pdf  
+ 
+Questions or comments regarding this safety alert may be addressed to Mr. Joe Hersey, Jr., Chief, 
+Spectrum Management Division at 202.267.1358 or jhersey@comdt.uscg.mil. 
+ 
+This safety alert is provided for informational purpose only and does not relieve any domestic or 
+international, safety, operational, or material requirement. 
+
+ 
+
+ 
+
+

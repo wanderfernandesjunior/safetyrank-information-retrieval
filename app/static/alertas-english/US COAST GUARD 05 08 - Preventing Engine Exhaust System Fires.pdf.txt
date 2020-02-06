@@ -1,0 +1,59 @@
+ 
+ 
+ 
+ 
+ 
+September 17, 2008                                                                                                                 Alert 5-08 
+Washington, DC   
+ 
+
+PREVENTING ENGINE EXHAUST SYSTEM FIRES 
+
+ 
+This  Safety  Alert  addresses  the  issue  of  preventing  unwanted  fires  caused  by  high  temperature 
+components  associated  with  turbochargers  and  engine  exhaust  systems  in  close  proximity  to 
+combustible ship structures.  
+ 
+Two recent marine casualties involving inspected passenger vessels resulted in personnel injury, fire 
+damage to machinery and ship structures, operational down time and lost revenues.  In both cases, 
+the  vessels  were  recently  re-powered  with  new  turbocharged  engines  having  exhaust  systems 
+designed to operate at higher temperatures than the previous engines.  Investigations into each case 
+identified common discrepancies as follows: 
+ 
+
+•  Failure to properly insulate or shield combustible ship structures from engine exhaust systems 
+
+in accordance with 46 CFR §182.430. 
+
+•  Failure to properly submit documentation for plan review, which may have identified failures to 
+
+comply with 46 CFR regulations. 
+
+ 
+As  a  result  of  these  recent  incidents  and  due  to  other  related  casualties  involving  small  passenger 
+vessels, the U. S. Coast Guard strongly recommends vessel owners and operators to: 
+ 
+Inspect vessel engine exhaust systems, machinery spaces, and exhaust compartments to verify that 
+lagging and insulation are properly installed to shield hot surfaces and combustible materials.   Proper 
+insulation and shielding methods will help to prevent fires due to flammable and combustible liquids 
+spraying onto hot surfaces (i.e. turbochargers, exhaust piping) and will prevent combustible surfaces 
+(i.e.  wood,  fiberglass,  FRP)  from  heating  up  to  ignition  temperatures  due  to  close  proximity  to  hot 
+surfaces.  Pay particular attention to areas where exhaust systems penetrate bulkheads and decks, 
+making sure that combustible surfaces are properly shielded and/or insulated using non-combustible 
+materials. 
+ 
+Ensure  that  proper  submittals  for  plan  review  are  made  and  documented  with  the  local  U.S.  Coast 
+Guard  Sector  Office  of  Prevention.    Plan  reviews  are  required  whenever  engines  and/or  propulsion 
+systems are changed or modified.  This includes re-engine projects where engines are not replaced 
+in-kind, but with different types of engines or engine manufacturers. 
+ 
+This  safety  alert  is  provided  for  informational  purposes  only  and  does  not  relieve  any  domestic  or 
+international  safety,  operational  or  material  requirement.    Developed  by  the  District  11  Prevention 
+Division  and  distributed  by  the  Office  of  Investigations  and  Analysis,  United  States  Coast  Guard 
+Headquarters, Washington, DC.   
+
+ 
+Office of Investigations and Analysis:  http://marineinvestigations.us 
+To subscribe: kenneth.w.olsen@uscg.mil 
+
+

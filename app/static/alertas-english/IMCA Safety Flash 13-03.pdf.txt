@@ -1,0 +1,156 @@
+AB
+
+ 
+
+IMCA Safety Flash 13/03 
+
+December 2003 
+
+These  flashes  summarise  key  safety  matters  and  incidents,  allowing  wider  dissemination  of  lessons  learned  from  them.    The  information  below  has  been 
+provided in good faith by members and should be reviewed individually by recipients, who will determine its relevance to their own operations. 
+
+The effectiveness of the IMCA safety flash system depends on receiving reports from members in order to pass on information and avoid repeat incidents.  
+Please consider adding the IMCA secretariat (imca@imca-int.com) to your internal distribution list for safety alerts and/or manually submitting information 
+on specific incidents you consider may be relevant.  All information will be anonymised or sanitised, as appropriate. 
+
+A  number  of  other  organisations  issue  safety  flashes  and  similar  documents  which  may  be  of  interest  to  IMCA  members.    Where  these  are  particularly 
+relevant, these may be summarised or highlighted here.  Links to known relevant websites are provided at www.imca-int.com/links   Additional links should 
+be submitted to webmaster@imca-int.com 
+
+ 
+
+1  Faulty Directional Flow Arrow on Valve 
+
+Keywords: Umbilical 
+
+A member has reported the following safety issue concerning incorrectly machined valves. 
+
+During  general  maintenance  on  a  diver’s  emergency  gas  manifold  which  was  fitted  in  an  air  diving  basket,  a  technician 
+discovered that three valves were apparently fitted such that the flow through the valve body was in the reverse direction to 
+the correct path.  On close inspection, the technician identified that the valves had been incorrectly machined, in that the 
+directional arrow on the outside of the valve body was in the wrong orientation to the correct porting arrangement 
+
+The valves concerned, which were all similar, were designed to be directional and were marked with an arrow on the side of 
+the valve body.  The arrow was intended to ensure that gas or fluid entered the inlet port and exited through the outlet 
+port.  The ports themselves were not marked, but the inlet should have had an entry hole at the bottom of the valve body 
+and the outlet should have a hole at the top of the valve body.  This orientation would have ensured that the gas/fluid flow 
+correctly  pressurised  the  valve  seal,  which  was  controlled  by  the  spindle.    The  three  faulty  valves  had  been  machined 
+incorrectly with reference to the external arrow direction, resulting in incorrect gas/fluid flow through the valve.  This could 
+potentially have caused the seat on the valve stem to have become detached, so that it could enter the gas or fluid system.  In 
+this case, it could have caused the valve seat to enter a diver’s umbilical, with very serious consequences. 
+
+The  valve  in  question  is  a  commonly  used  type  with  3/8”  female  ports.    The  company  involved  had  used  dozens  of  these 
+valves for some years at one base and has undertaken checks throughout its locations.  It is working with its supplier, which 
+is in turn liaising with the manufacturer to try to identify whether other faulty valves have been supplied to the industry at 
+large  and  to  ensure  that  checks  in  the  manufacturing  process  prevent  a  similar  fault  from  occurring  in  the  future.    The 
+supplier (Hydrasun) has also issued a notice to its customers on this subject, which is attached. 
+
+The member has issued its own internal company notice which advises as follows: 
+
+ 
+
+It is essential that the checks be carried out immediately on all systems fitted with such valves.  Priority should be given 
+to valves contained in breathing or diving systems; 
+
+  Checks should make sure that the porting matches the arrow direction; 
+
+  Checks should also ensure that the inlet hole is machined on the bottom of the inlet port and that the outlet hole is 
+machined on the top of the outlet port.  This can be done either by removing the valve completely or by removing the 
+valve stem and checking the position of the ports through the seat cavity.  Where the valve is not removed completely, 
+it should be double checked and confirmed by a second technician; 
+
+  Any valves used in such situations which do not have any directional arrow should be withdrawn from service; 
+
+  Checks should be carried out to ensure that valves are appropriate for their purpose.  Single-directional valves should 
+
+not be used in bi-directional systems, particularly where high pressure gas or fluid is required to flow in both directions 
+
+Members  will  want  to  review  the  above  and  the  attached  notice  and  consider  their  own  company  action  and 
+recommendations.  For further details on the Hydrasun notice, please visit www.hydrasun.com for contact information. 
+
+ 
+
+2 
+
+Keywords:  
+
+Incident Involving a McKissick N419 Snatch Block 
+
+IMCA recently received notification of an incident involving a particular type of snatch block, which could be knocked apart if 
+the bolt and hairpin were removed and the block left open in an unloaded condition.  In the incident described to IMCA, a 
+component part had been knocked free and dropped from a height.  
+
+Correspondence between IMCA and the manufacturer showed that blocks produced prior to 1991 allowed removal of the 
+head  fitting,  albeit  after  removal  of  the  hairpin  and  bolt  and  rotation  of  the  head  fitting  to  an  extreme  position.    Blocks 
+produced since 1991 have a feature that requires a deliberate component removal to allow the head fitting to be removed 
+when the block is open.  There is a possibility that old, pre-1991 versions of the block are still in use. 
+
+We have subsequently received a third-party notice which gives the following additional information and guidance for its own 
+operations which members may find of use: 
+
+ 
+
+The  N419  “Old  Style”  was  designed 
+to  allow 
+interchangeable  fittings  as  can  be  seen  in  the  above 
+photograph.  The  design  utilised  a  “triangle”  shaped 
+spool  that  allowed  the  head  fitting  to  be  rotated  to  an 
+extreme  position  and  removed  after  the  side  plate  has 
+been opened. 
+
+The  head  fitting  on  the  current  N419  McKissick 
+Snatch  Block  is  secured  to  the  block  with  a 
+threaded  round  nut  that  is  staked  to  the  spool. 
+This  feature  prevents  the  head  fitting  from  being 
+removed from the block, regardless of the position. 
+
+The  company involved has banned  the use  at  its  worksites  of  the  McKissick  N419  Snatch block  in figure  A,  whose  design 
+allowed for interchangeable head fittings as depicted in figure A.   
+
+The  Crosby  Group  Inc.  (manufacturer  of  the  McKissick  N419)  has  since  1991  added  features  to  retain  the  head  fitting 
+regardless of the position of the block (Figure B).  Both snatch blocks carry the same name, but production of the snatch 
+block in figure A was discontinued in 1991. 
+
+As a result the company will not use the ‘old style’ snatch block (figure A) in its operations.  
+
+The company instigated the following actions for all of its installations: 
+
+  Check all snatch blocks on installations, and remove from service the ‘old style’ McKissick N419 snatch block; 
+
+  For  applications  where  this  type  of  device  is  required,  ensure  that  the  current  Mckissick  N419  snatch  block  is  used 
+
+(Figure B); 
+
+  Make sure that all inventory lists of loose lifting appliances are updated with necessary information 
+
+3 
+
+Incorrect Pressure-Rated Manifold Fitted to Diver’s Bail-Out 
+
+A member has reported an incident in which a manifold rated to 232 bar was fitted to a twin cylinder 300 bar bail-out. 
+
+The manifold in question had no pressure rating markings, as shown in the first picture below.  The correct manifold is easily 
+identifiable as it has its pressure rating marked clearly about the DIN female connection, as shown in the second picture. 
+
+ 
+
+ 
+
+Pressure rating of 300bar marked on manifold 
+
+No pressure rating marked 
+
+ 
+
+ 
+
+The  company  has  reminded  its  personnel  that  the  fitting  of  correct  pressure  items  is  crucial  in  ensuring  that  a  system 
+conforms to safe design criteria and has instigated the following actions: 
+
+  All bail-out assemblies are to be checked by dive technicians to ensure correctly rated manifolds are fitted; 
+
+  Vessel-held stocks of bail-out manifolds are to be checked to ensure that only correctly rated and marked manifolds are 
+in stock.  Any unmarked manifolds which are identified are to be quarantined and sent back to the company’s equipment 
+department 
+
+

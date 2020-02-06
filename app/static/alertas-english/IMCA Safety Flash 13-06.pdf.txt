@@ -1,0 +1,144 @@
+AB
+
+ 
+
+IMCA Safety Flash 13/06 
+
+November 2006 
+
+These  flashes  summarise  key  safety  matters  and  incidents,  allowing  wider  dissemination  of  lessons  learned  from  them.    The  information  below  has  been 
+provided in good faith by members and should be reviewed individually by recipients, who will determine its relevance to their own operations. 
+
+The effectiveness of the IMCA safety flash system depends on receiving reports from members in order to pass on information and avoid repeat incidents.  
+Please consider adding the IMCA secretariat (imca@imca-int.com) to your internal distribution list for safety alerts and/or manually submitting information 
+on specific incidents you consider may be relevant.  All information will be anonymised or sanitised, as appropriate. 
+
+A  number  of  other  organisations  issue  safety  flashes  and  similar  documents  which  may  be  of  interest  to  IMCA  members.    Where  these  are  particularly 
+relevant, these may be summarised or highlighted here.  Links to known relevant websites are provided at www.imca-int.com/links   Additional links should 
+be submitted to webmaster@imca-int.com 
+
+ 
+
+1  Flash Fire in Gas Supply Equipment Onboard Dive Support Vessel 
+
+A member has reported a small explosion on a vessel, resulting in a flash fire which caused minor burns to the hand of one 
+crew member and slight damage to some equipment, including pipework and fittings. 
+
+A life-support supervisor (LSS) was in the process of decanting oxygen to increase the percentage of an 18% oxygen kelly to 
+20%.  An oxygen line on deck was opened by the LSS to allow oxygen down into the main gas storage/mixing flat.  The line to 
+the kelly was opened and then the panel valve on the diaphragm compressor was opened.  At no time was the diaphragm 
+compressor pump running. 
+
+On opening the needle valve to decant oxygen into the bulk gas mixing panel, the LSS a loud crack followed by a flash.  He 
+immediately closed the oxygen inlet valve and extinguished the burning remains of a hose with some water from a receptacle 
+near by. 
+
+However, oxygen was still escaping from the back of the panel.  The LSS went on deck and closed the supply valve on the 
+quad of oxygen.  He returned to the main gas storage/mixing flat, via the saturation control room, to raise the alarm.  Fire 
+detectors had already picked up the fire and the alarms were raised. 
+
+The LSS sustained superficial minor burns to his arm and hand, plus singed hair. 
+
+Following  investigation,  a  clear  direct  cause  for  the  explosion/flash  fire  was  not  found.    There  were  three  equally  likely 
+possible causes: 
+
+  a failing (crack) in a fitting or pipe, causing escape of oxygen and a flash fire from a fuel source external to the pipework; 
+
+  rapid oxidisation and a flash fire from a fuel source internal to the pipework; 
+
+ 
+
+the valve being opened too quickly, causing friction/ignition within the pipework or a sudden increase in pressure on the 
+pipework or fittings, leading to it rupturing and allowing oxygen to escape on to an external fuel source, either cause 
+resulting in the flash fire. 
+
+The following remedial actions have been recommended: 
+
+  The panel, valves and all other pipework on the diaphragm compressor were replaced; 
+
+  video surveillance was installed in the main gas storage/mixing flat; 
+
+ 
+
+ 
+
+  a specific line for oxygen was installed, direct from the oxygen quads to the main gas storage/mixing flat; 
+
+further non-destructive testing was conducted on parts of the diaphragm compressor to identify a failing in a fitting; 
+
+internal swab and laboratory testing was conducted to determine the fuel source of the fire; 
+
+  signs were installed above all valves taps stating “open valve slowly to ease the pressure into the line”; 
+
+  a regular and documented oxygen cleaning program was instituted. 
+
+2  Open Lifeboat – Corroded Tie Band Side Plates 
+
+IMCA  has  received  the  following  report  regarding  corrosion  to 
+lifeboat parts which could have resulted in loss of life. 
+
+An  empty  open  lifeboat  was  lowered  to  the  embarkation 
+platform,  when  the  aft  boat  hook  tie  band  gave  way  from  its 
+attachment  to  the  keel  of  the  lifeboat.    Tie  bands  are  vital 
+structural  elements  for  the  safe  and  controlled  launching  of 
+lifeboats.  Fortunately  there  were  no  persons  in  the  lifeboat.  
+No-one was injured, but there was some mechanical damage. 
+
+It is believed that the corrosive environment at the bottom of the 
+lifeboat,  combined  with  lack  of  maintenance  over  time,  led  to 
+extensive  corrosion  of  the  tie  bands.    Access  to  them  can  be 
+difficult, hampered by the presence of debris and bilge water. 
+
+Further  tests  were  made  of  other  similar  lifeboats,  and  the  tie 
+bands on these lifeboats were also found to be heavily corroded. 
+Though  well  painted  and  appearing  to  be  well  preserved,  it  was 
+clear that these were in poor shape.  
+
+ 
+
+ 
+
+Figure 2 - Tie band side plates connected to the 
+
+lifeboat with three bolts and with one counter-nut per 
+
+bolt 
+
+Figure 1 - Serious corrosion of tie band side plates  
+
+at connection at bottom of lifeboat 
+
+Lessons learnt from this incident include: 
+
+  Lifeboat  tie  bands,  hooks  and  release  systems  should  be  inspected 
+and  maintained  according  to  the  manufacturer’s  recommendations, 
+and be included in the vessel maintenance schedule; 
+
+  All items encompassed by scheduled inspections should be properly 
+
+examined on a regular basis; 
+
+  Access to, and cleaning of, the tie bands side plates should be made  
+
+prior to inspection of lifeboats; 
+
+  Special attention should be paid to the cleanliness of lifeboat bilges; 
+
+  Corrosion damage of this sort may also occur on totally enclosed or 
+
+partially enclosed lifeboats. 
+
+DNV, which originally issued this alert, has pointed out the following: 
+
+SOLAS does not require people to be onboard when the boat is lowered during 
+drills. In order to reduce the probability of casualties during drills, the following 
+alternate procedures may be applied: 
+
+1)  Lifeboat first lowered to about 2m above water then hoisted for boarding 
+by assigned operating crew and lowered to water for release and manoeuvring. 
+
+2)  Alternatively,  lifeboat  to  be  lowered  to  the  water  without  crew  on  board. 
+Crew  to  embark  via  embarkation  ladder,  boat  to  be  hoisted  approximately 
+2-3m and lowered again, controlled from inside lifeboat. 
+
+

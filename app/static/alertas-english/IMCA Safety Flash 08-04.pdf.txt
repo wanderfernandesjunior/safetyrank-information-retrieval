@@ -1,0 +1,430 @@
+AB
+
+ 
+
+IMCA Safety Flash 08/04 
+
+Safety Flash 
+
+August 2004 
+
+These  flashes  summarise  key  safety  matters  and  incidents,  allowing  wider  dissemination  of  lessons  learned  from  them.    The  information  below  has  been 
+provided in good faith by members and should be reviewed individually by recipients, who will determine its relevance to their own operations. 
+
+The effectiveness of the IMCA safety flash system depends on receiving reports from members in order to pass on information and avoid repeat incidents.  
+Please consider adding the IMCA secretariat (imca@imca-int.com) to your internal distribution list for safety alerts and/or manually submitting information 
+on specific incidents you consider may be relevant.  All information will be anonymised or sanitised, as appropriate. 
+
+A  number  of  other  organisations  issue  safety  flashes  and  similar  documents  which  may  be  of  interest  to  IMCA  members.    Where  these  are  particularly 
+relevant, these may be summarised or highlighted here.  Links to known relevant websites are provided at www.imca-int.com/links   Additional links should 
+be submitted to webmaster@imca-int.com 
+
+ 
+
+Keywords:  Mask 
+
+1  Diving Helmets – Damage to Emergency Valve 
+
+IMCA  has  received  the  attached  Caution  Bulletin  (number  1  of  2004)  issued  by  Kirby  Morgan  Dive  Systems  relating  to 
+possible  damage  to  emergency  valve  main  body  between  male  pipe  threads  and  the  ‘B’  side  block  body’s,  as  well  as  the 
+manifold block body at the mating female pipe threads. 
+
+This  alert, 
+www.kirbymorgan.com/safety.html  
+
+together  with  other  safety-related 
+
+information, 
+
+is  also  available  on 
+
+the  company’s  website  at 
+
+2  Disguised Transportable Gas Cylinders 
+
+Keywords:  Gas 
+
+IMCA  has  been  passed  a  copy  of  the  attached  safety  alert  issued  by  the  European  Industrial  Gases  Association  (EIGA).  
+A number  of  recent  incidents  have  been  reported  in  various  locations  around  the  world  where  gas  cylinders  have  been 
+tampered  with  and  deliberately  disguised.    A  number  of  these  have  been  where  acetylene  cylinders  have  been  marked  as 
+oxygen cylinders, including replacement of the cylinder valve.  The EIGA alert sets out a number of ways of spotting modified 
+cylinders, which should be brought to the attention of anyone dealing with them. 
+
+I R B Y MORGA
+
+N
+
+K
+
+D
+
+I
+
+V
+
+ESYST E M S ,
+
+I n c.
+
+Kirby Morgan Dive Systems, INC.
+
+425 Garden Street
+
+Santa Barbara, California  93101
+
+Telephone (805) 965-8538   Fax (805) 966-5761
+Email info@KMDSI.com  Web www.KMDSI.com
+
+Caution Bulletin
+
+Number 1 of 2004
+
+JULY 28, 2004
+
+Subject: Possible damage to emergency valve main body (550-140) between male pipe
+     threads and the "B" side block body's (550-029) as well as the manifold block
+    body (350-050) at the mating female pipe threads.
+
+Products Affected: Any Kirby Morgan helmets or masks incorporating a side block or
+
+ manifold block, or separate manifold block assembly
+
+An incident has occurred where an emergency valve assembly, 505-070, had cracked causing an
+air leak, then upon inspection, broken off from the side block assembly, ( 505-024 ) on a KMB 18 mask.
+Extensive tests have been performed by KMDSI, to try and determine what if anything during assembly
+or manufacture, may have led to this happening. Also, metallurgical analysis has been performed to
+determine if the proper material was used based on the material certification on file. Nothing in the testing
+points to anything obvious being wrong  either before or after testing. The material analysis performed,
+provided a match with what is stated on the material certificates of Conformance
+
+In looking into the fit of the mating parts taken from inventory, the parts  as brass "RAW"
+condition were consistent with the fit and function requirements of KMDSI as well as other referenced
+industrial standards. However, some Variations were found between the parts that were chrome plated.
+This extra plating may lead to misalignment of the parts when using KMDSI recommended procedures,
+and possibly cause an overstress condition while trying to tighten far enough to obtain proper valve handle
+alignment.
+
+The emergency valve body assembly (505-070) must be indexed (clocked) enough to allow
+access to the control knob for proper use of the valve. If there is excess plating between the side block/
+manifold block body pipe threads, and the emergency valve body pipe threads, this may cause the end
+user, during any scheduled maintenance,to go beyond normal procedure in tightening these threads.
+Overstressing  and  weakening  the  parts  may  result.  Make  certain  to  carefully  follow  recommended
+procedures in the KMDSI operations and maintenance manuals. If excess chrome interference is found,
+it is acceptable to have  the control knob slightly misaligned to keep from applying too much force to the
+valve body, as long as the user can reach the emergency valve.
+
+Recommended Procedure:
+
+ Before installing any pipe sealant, check the fit of the valve assembly pipe threads to the mating
+threads of the side block. There should be 2 turns of hand make up before  needing to use a wrench. If
+there is less make up, then the threads will need to be chased with a 1/4” NPT tap to obtain the proper
+make up , If tapping is required, the bent tube assembly, the one way Valve assembly and steady flow
+components must all be removed and the side block body must be thoroughly cleaned to remove any loose
+particles. Remove the valve assembly from hand tight.
+
+Doc #020909001
+
+  ©Kirby Morgan Dive Systems, Inc All Rights Reserved.
+
+Page 1 of 2
+
+I R B Y MORGA
+
+N
+
+K
+
+D
+
+I
+
+V
+
+ESYST E M S ,
+
+I n c.
+
+Kirby Morgan Dive Systems, INC.
+
+425 Garden Street
+
+Santa Barbara, California  93101
+
+Telephone (805) 965-8538   Fax (805) 966-5761
+Email info@KMDSI.com  Web www.KMDSI.com
+
+Caution Bulletin
+
+Number 1 of 2004
+
+JULY 28, 2004
+
+Subject: Possible damage to emergency valve main body (550-140) between male pipe
+     threads and the "B" side block body's (550-029) as well as the manifold block
+    body (350-050) at the mating female pipe threads.
+
+Products Affected: Any Kirby Morgan helmets or masks incorporating a side block or
+
+ manifold block, or separate manifold block assembly
+
+Recommended Procedure Continued:
+
+Before installing the valve assembly, wrap the pipe threads with  1-1/2  turns of teflon tape starting after
+the first thread. The amount of tape used should be based on what is found in the fit check . Apply the tape with
+slight tension to allow the tape to fill into the threads. If another type of sealant is used, it must be oxygen
+compatible as well as not pose any health  hazard to the diver. Hand tighten the valve, then continue an additional
+1-1/2 to 2 turns with a wrench keeping in mind the proper alignment of the control knob to the side block. Also,
+there should be at least one male thread visible. Check to be certain the valve is tight by trying to loosen the fit
+by hand. DO NOT TIGHTEN THE VALVE BODY TIGHTER THAN NECESSARY!!! OVER TIGHT-
+ENING MAY OVERSTRESS THE PART AND CAUSE  THE PART TO FAIL.
+
+If there are any questions please call or Email KMDSI
+
+Doc #020909001
+
+  ©Kirby Morgan Dive Systems, Inc All Rights Reserved.
+
+Page 2 of 2
+
+      SAFETY ALERT 
+
+Safety Alert SA-05 –  June 2004 
+
+ 
+ 
+ 
+
+ 
+
+Disguised transportable gas cylinders 
+
+ 
+ 
+ 
+Gas companies around the world and their customers operate in excess of 200 million high 
+pressure  gas  cylinders.  The  high  level  of  safety  during  use  and  transportation  of  these  gas 
+cylinders  is  shown  by  the  very  low  level  of  incidents  caused  by  failures  of  gas  cylinders  or 
+associated safety devices which sometimes is followed with the release of gas. To support this 
+high level of safety are a number of European and International standards for the design, retest, 
+filling checks and handling of gas cylinders. One of the most important operating standards is 
+that any modification to a gas cylinder e.g. repair, change of service or stamp markings is only 
+permitted by authorized experts who ensure that the relevant standards are followed to ensure 
+the continued safe service of gas cylinders.   
+ 
+An unauthorised change of a stamp markings of a cylinder e.g. re-test data, gas type or 
+filling pressure, the changing of the required colour coding and labelling or the intentional 
+damaging  of  a  gas  cylinder  is  a  criminal  act.  This  is  because  the  health,  safety  and 
+potentially the life of employees in filling stations and third party persons are endangered.  
+ 
+From  time  to  time  cylinders  with  modified  markings  or  similar  are  reported  to  EIGA.  As  a 
+reminder, EIGA urgently recommends that its members ensure that all persons involved with the 
+inspection of cylinders before filling operations or with gas cylinder retest shall be sufficiently 
+trained to detect Cylinders with unauthorised markings or those that may have been damaged. 
+ 
+The following details can be indicators of unauthorised modifications  
+ 
+•  Are  there  any  contradictions  between  the  cylinder  valve  type,  the  colour  coding, 
+
+precautionary label and the identification of the gas (stamp-markings, label)? 
+
+•  Are there any signs of modification of the cylinder marks, e.g. missing marks, unusual or 
+
+wrong letters? 
+
+•  Are there any signs of modification of the cylinder, e.g. strange colour coding or mechanical 
+
+treatment (grinding or welding work)? 
+
+•  Are there any signs of modification of the cylinder valve or its cap, e.g. loosened screws, 
+
+missing components (gland nut, locking pin, burst disk, new or different cap)? 
+
+• 
+
+Is the indication of the gas (stamp marks, colour, gas name etc) unusual? 
+
+ 
+
+ 
+
+1 
+
+ EIGA 2004 - EIGA grants permission to reproduce this publication provided the Association is acknowledged as the source 
+ 
+EUROPEAN INDUSTRIAL GASES ASSOCIATION 
+AVENUE DES ARTS 3 – 5 (cid:140) B-1210 BRUSSELS 
+PHONE +32 2 217 70 98 (cid:140) FAX + 32 2 219 85 14 (cid:140) E-mail : info@eiga.org  -  www.eiga.org 
+
+Safety Alert SA-05 –  June 2004 
+
+Is the weight of the cylinder unusual for the type of gas? 
+
+Is the size (volume, diameter, length) or design of the cylinder unusual? 
+
+•  Are privately (customer) owned cylinders presented with a brand-new or partly new coating, 
+
+which was not applied at the filling plant where it is to be filled? 
+
+ 
+If one or more of the above mentioned should be answered with yes, a hammer test can give support. If 
+the cylinder emits a dull sound, it could be an indication of that the cylinder has been modified. This is not 
+applicable to acetylene cylinders and to aluminium cylinders. 
+ 
+ 
+Cylinders  having  one  or  more  of  the  above  defects  or  are  suspected  to  have  been 
+modified shall be set aside for additional control measures. 
+ 
+
+« If in doubt, ask your supervisor » 
+
+ 
+ 
+The following examples show the importance of a sufficiently cylinder control before filling. All 
+samples have been identified by the pre-filling checks: 
+ 
+•  Conversion of an acetylene cylinder to a 150 bar oxygen cylinder (picture 1). 
+
+•  Conversion of an acetylene cylinder to Argon mixture gas cylinder (picture 2). 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1 
+
+ 
+ 
+ 
+
+Picture 
+ 
+
+ 
+
+ 
+
+Picture 2 
+
+ 
+
+ 
+ 
+
+ 
+
+• 
+
+• 
+
+ 
+
+ 
+ 
+
+2
+
+EUROPEAN INDUSTRIAL GASES ASSOCIATION 
+AVENUE DES ARTS 3 – 5 (cid:140) B-1210 BRUSSELS 
+PHONE +32 2 217 70 98 (cid:140) FAX + 32 2 219 85 14 (cid:140) E-mail : info@eiga.org  -  www.eiga.org 
+
+ 
+ 
+
+ 
+
+Safety Alert SA-05 –  June 2004 
+
+•  A cylinder used by a smuggler (picture 3). 
+
+•  A high pressure cylinder with a welded plug in the shell (picture 4). 
+
+•  A cylinder with a falsified shoulder marking (picture 5). 
+
+ 
+ 
+
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+Picture 3 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+Picture 4 
+
+ 
+
+ 
+
+ 
+
+Picture 5 
+
+ 
+
+Disclaimer 
+
+ 
+
+All technical publications of EIGA or under EIGA’s name, including Codes of practice, Safety procedures and any other technical information 
+
+contained in such publications were obtained from sources believed to be reliable and are based on technical information and experience 
+
+currently available from members of EIGA and others at the date of their issuance. 
+
+While EIGA recommends reference to or use of its publications by its members, such reference to or use of EIGA’s publications by its 
+members or third parties are purely voluntary and not binding. Therefore, EIGA or its members make no guarantee of the results and 
+
+assume no liability or responsibility in connection with the reference to or use of information or suggestions contained in EIGA’s publications. 
+EIGA has no control whatsoever as regards, performance or non performance, misinterpretation, proper or improper use of any information 
+
+or suggestions contained in EIGA’s publications by any person or entity (including EIGA members) and EIGA expressly disclaims any 
+
+liability in connection thereto.EIGA’s publications are subject to periodic review and users are cautioned to obtain the latest edition. 
+
+3
+
+EUROPEAN INDUSTRIAL GASES ASSOCIATION 
+AVENUE DES ARTS 3 – 5 (cid:140) B-1210 BRUSSELS 
+PHONE +32 2 217 70 98 (cid:140) FAX + 32 2 219 85 14 (cid:140) E-mail : info@eiga.org  -  www.eiga.org 
+
+ 
+ 
+
+

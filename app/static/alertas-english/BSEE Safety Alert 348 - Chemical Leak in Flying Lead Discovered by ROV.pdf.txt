@@ -1,0 +1,106 @@
+ 
+
+ 
+
+SAFETY ALERT 
+ 
+
+Safety Alert No. 348 
+25 April 2019 
+
+ 
+
+ 
+ 
+
+ 
+       
+
+                     Contact: Nicholas Fraiche 
+            
+
+Phone:    (504) 736-7631 
+
+Chemical Leak in Flying Lead Discovered by ROV 
+
+                                 
+
+ 
+
+ 
+ 
+ 
+
+   
+
+With the outer jacket wire braiding removed, the HFL hose inner sheath was revealed to be in a collapsed condition.  
+
+  
+
+ 
+On April 30, 2018, BSEE received a report of a subsea umbilical leak coming from a 
+Hydraulic Flying Lead (HFL) used for chemical injection.  An ROV operator performing a 
+survey for a future PLET installation discovered paraffin inhibitor (Nalco EC 6004A, which 
+contains the chemical naphthalene) leaking into the Gulf of Mexico. It was later 
+discovered that the chemical injection lines had sustained either breaches or breaks in 
+two locations.  The estimated maximum total volume of the discharge was 900 barrels.  
+ 
+The investigation revealed that the hose assembly was rated for the appropriate collapse 
+pressure. The system had been installed in 2015 and tested to demonstrate full pressure 
+integrity.  At an unknown time after May 1, 2017 (the date of the most recent prior ROV 
+inspection), the outer jacket of the chemical injection line sustained damage.  Once the 
+outer jacket was damaged, the line's collapse resistance was compromised. Positive 
+pressure was not maintained in the chemical injection line, which resulted in a collapsed 
+and torn line. The leaks were undetectable from the water’s surface, either visibly or by 
+detection instruments, due to the water depth in which the facility is located.  
+ 
+
+ 
+ 
+Therefore, BSEE recommends that operators consider the following: 
+ 
+
+•  Update operating procedures to ensure that umbilical lines are positively 
+
+pressured. 
+
+maintenance tasks.    
+
+•  Provide operator training to ensure that lines are not bled to a zero pressure during 
+
+Install a check valve to the system topsides to ensure a positive pressure is 
+maintained on the system.  
+
+Install a low-pressure alarm on the chemical pump skid for any injection lines that 
+are connected subsea with a hose. 
+
+•  Monitor fluid inventories of fluids that are pumped subsea. 
+
+•  Consider subsea hose assembly movement (such as chafing, rubbing, friction, 
+
+etc.) during design. 
+
+Inspect subsea equipment on a regular basis utilizing ROV visual video recordings. 
+The visual subsea equipment inspections include inspections of umbilical lines, 
+subsea wellheads, subsea manifolds, etc. The regular visual inspections should 
+identify initial issues with the subsea installation, as well as later life issues which 
+occur during production operations.  
+
+                                                        -- BSEE-- 
+
+• 
+
+• 
+
+• 
+
+ 
+ 
+
+ 
+
+A Safety Alert is a tool used by BSEE to inform the offshore oil and gas industry of the 
+circumstances surrounding a potential safety issue. It also contains recommendations 
+that could assist avoiding potential incidents on the Outer Continental Shelf. 
+
+

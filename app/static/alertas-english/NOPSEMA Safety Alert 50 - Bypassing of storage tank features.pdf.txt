@@ -1,0 +1,86 @@
+Safety alert 50
+
+February 2012
+
+Bypassing of storage tank safety features
+
+What happened?
+
+Recent inspections have found instances where safety features associated with machinery space oil and 
+fuel tanks have been intentionally bypassed.  Deliberately bypassing the spring return valves of tanks 
+containing hydrocarbon inventories by securing them open via a number of means, including zip ties, 
+appears to have become increasingly common practice.
+
+The picture above shows a sight glass for a lube oil tank in a 
+machinery space.  Not only is the valve leaking but it is zip 
+tied in the open position.
+
+The picture above shows a liquid storage tank 
+sight glass fitted with screw down valves instead 
+of a spring loaded valve.
+
+This picture shows a flammable liquid storage tank level 
+indicator with a sight glass spring loaded valve, kept in the 
+open position with a “home made” clip.
+
+National Offshore Petroleum Safety and Environmental Management Authority
+
+1
+
+Safety alert 50
+
+Self-closing valves between a sight gauge and fuel tank must be installed in accordance with the 
+international convention for safety of life at sea (SOLAS).  It is a requirement of the SOLAS convention, 
+Chapter II-2, Section 2.2.3.5.2 that the failure of such gauges or overfilling of the tank shall not permit 
+release of fuel into the space.  This requirement is also addressed, with similar wording, in classification 
+rules which cover the construction of vessels.  In addition to application to vessels that are facilities, 
+NOPSEMA considers compliance with this SOLAS requirement to be good practice for all facilities.
+
+What could go wrong?
+
+In bypassing self-closing valves the entire hydrocarbon inventory of the storage tanks could be released if 
+the sight glass integrity is compromised.  For example, loss of the tank inventory could occur during a 
+machinery space fire or through mechanical damage leading to failure of the sight glass.
+
+ Operators should ensure safety devices on their facilities are not compromised.
+
+ Operators should ensure they are fully compliant with commitments made in their safety case. For 
+
+example, the requirement to meet the SOLAS convention requirements.
+
+ Operators should ensure their personnel are aware of the risks associated with bypassing safety 
+
+devices.
+
+
+
+If there is a need to continually monitor lube oil or other hydrocarbon storage tank levels within 
+tanks, operators should consider appropriate alternative means for obtaining tank level
+measurements to ensure equipment remains safe and without risk to people.
+
+Key lessons
+
+The law
+
+ Operators have a duty of care to take all reasonably practicable steps to ensure equipment at the 
+
+facility is safe and without risk to health (Clause 9, Schedule 3 to the Offshore Petroleum
+Greenhouse Gas Storage Act 2006).
+
+
+
+All persons, including employees, have a duty of care to take all reasonably practicable steps to 
+ensure that they do not take any action, or make any omission, that creates a risk to persons on the 
+facility (Clause 15, Schedule 3 to the Offshore Petroleum Greenhouse Gas Storage Act 2006).
+
+For further information email alerts@nopsema.gov.au and quote Alert 50.
+
+Contact
+
+nopsema.gov.au
+
+National Offshore Petroleum Safety and Environmental Management Authority
+
+2
+
+

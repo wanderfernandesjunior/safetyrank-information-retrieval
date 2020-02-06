@@ -1,0 +1,76 @@
+Safety Alert 
+
+        From the International Association of Drilling Contractors 
+
+ 
+ALERT 05 – 03 
+ 
+
+IMPROPER TOOL SELECTION RESULTS IN INJURY  
+
+ 
+WHAT HAPPENED: 
+Two crewmembers were working together to remove the Allen head bolts that secure the drawworks brake 
+flanges to the drum.  The drum had been removed from the skid and secured on the rotary table.  The tools 
+selected for the job were a ¾” drive impact wrench and socket, and a standard 9/16” Allen key.  The tools 
+were fitted up and the impact wrench was engaged.  The tapered fit friction of the Allen head end of the bolt 
+allowed the nut to break initially without applying torque against the Allen key.  The impact wrench operator 
+continued and as the nut loosened, friction lock was lost and the torque was transferred to the Allen key 
+because lock nut was still bound to the bolt.  The Allen key shaft length was a standard size and not long 
+enough to react against the drum.  The torque now being applied through the bolt to the Allen key was more 
+than the other employee could hold.  The Allen key slipped from his hand spun 3 or 4 times and was thrown 
+free.  The Allen key struck the injured employee in the forehead and above the upper lip requiring stitches in 
+both places.  
+
+WHAT CAUSED IT: 
+
+ 
+
+The investigation revealed that there had been little consideration to tool selection other than that they did fit, 
+and were in good shape.  The potential hazard associated with using an impact wrench which turns at high 
+speed with a (short lever arm) standard Allen key were not considered. While the tools did fit and were in 
+good condition, it was obvious that they were inappropriate for the task in the way they were used.  Impact 
+wrenches free spin at several thousand rpm, and generate significant torque output at several hundred rpm.  
+The back-up wrenches used with impact tools must be firmly secured and personnel clear from harms way. 
+
+CORRECTIVE ACTIONS:  To address this incident, this company issued the following action items: 
+
+Jobs requiring impact tools should be listed on the rig.  
+Each job should be studied to see if a “back up application” exists  
+In cases requiring back up ensure that the back up can be secured in a hands free mode.  
+Safety meetings should be held with all crews to discuss the danger of high-speed air tools.  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Flange with Allen wrench in bolt 
+ 
+ 
+ 
+
+Nut that Impact wrench was attached. 
+
+ 
+
+The Corrective Actions stated in this alert are one company’s attempts to address the incident,  
+
+and do not necessarily reflect the position of IADC or the IADC HSE Committee. 
+
+This material is presented for information purposes only.  Managers & Supervisors should 
+
+evaluate this information to determine if it can be applied to their own situations and practices 
+
+Copyright © 2005 International Association of Drilling Contractors All rights reserved. 
+
+Issued January 2005 
+
+

@@ -1,0 +1,116 @@
+ 
+ 
+ 
+ 
+ 
+ 
+August 28, 2010 
+Washington, DC  
+
+   
+
+Alert 7-10 
+
+CAUTION TO AIS USERS 
+
+NAVIGATING THE JAMES RIVER, YORK RIVER, UPPER CHESAPEAKE BAY, DELAWARE BAY, NEW JERSEY 
+
+SHORE, AND, NEW YORK HARBOR AND APPROACHES 
+
+ 
+
+YOU MAY BE INADVERTENTLY OPERATING ON DIFFERENT AIS CHANNELS 
+
+ 
+ 
+Between July 27 and August 19, 2010, while conducting development testing of its Nationwide Auto-
+matic  Identification  System  (NAIS),  the  Coast  Guard  inadvertently  tele-commanded  most  AIS  users 
+transiting the Eastern United States between lower Connecticut and North Carolina to switch to AIS 
+frequencies other than the AIS default frequencies (161.975 MHz - Channel 87B - 2087 and 162.025 
+MHz  -  Channel  88B  -  2088).  As  a  result,  those  users  within  uniquely  defined  channel  management 
+regions (as shown in the picture) will neither see nor be seen by vessels operating on the default AIS 
+channels when within these regions. Similarly, vessels operating on default frequencies will not see or 
+be seen by those vessels that were inadvertently 
+switched  to  other  frequencies.  No  other  AIS  us-
+ers or areas are impacted. 
+ 
+One  of  the  lesser  known  and  potent  features  of 
+AIS  is  its  ability  to  operate  on  multiple  channels 
+within the VHF-FM marine band. This frequency 
+agility  ensures  AIS  can  be  used  even  when  the 
+default  channels  are  otherwise  unavailable  or 
+compromised.  In  such  conditions,  competent 
+authorities, such as the Coast Guard, can use an 
+AIS base station to tele-command shipborne AIS 
+devices  to  switch  to  other  more  appropriate 
+channels  when  within  defined  regions  of  200  to 
+2000  square  nautical  miles.  This  can  be  done 
+automatically  (and  without  user 
+intervention) 
+through receipt of the AIS channel management 
+message (AIS message 22) or manually entered 
+via  the  AIS  Minimal  Keyboard  Display  (MKD)  or 
+similar  input  device.  Once  commanded  or  ma-
+nually entered, the channel management information will stay in memory for 5 weeks or until an af-
+fected vessel moves more than 500 nautical miles from the defined region. AIS channel management 
+commands  can  only  be  manually  overridden  or  erased  by  the  user  via  the  unit’s  channel  (regional 
+frequencies)  management  function1  or  automatically  overridden  via  another  channel  management 
+
+                                                 
+ 
+ 
+ 
+ 
+ 
+ 
+
+message  for  the  same  defined  region.  Reinitializing  or  resetting  your  AIS  or  transmission  channels 
+will not necessarily reprogram your unit back to the default channels.  
+ 
+Commencing September 1st and continuing for the subsequent 5 weeks, the Coast Guard will broad-
+cast new channel management messages that will tele-command all AIS users back to default chan-
+nels.    This  broadcast  will  occur  each  hour  between  hh.05:30  and  hh.05:59,  but  may  change  as 
+needed. To ensure that these messages are received, they will be broadcast on Channel 70--Digital 
+Selective  Calling  (DSC),  which  is  also  monitored  by  all  type-certified  shipboard  AIS.  While  this  will 
+ensure all AIS users will get the message regardless of what AIS channel the unit is operating on, it 
+could however cause a minor inconvenience to owners of older DSC radios who may receive an alert 
+(tone) upon receipt of this message.  It will have no other effect on DSC radios. 
+ 
+AIS users are encouraged to inform others whom they believe may be affected and are therefore not 
+being seen by others. All AIS users are reminded to maintain their AIS in effective operating condition 
+and to validate their AIS data prior to each voyage and as needed. 
+ 
+This safety alert is provided for informational purposes only and does not relieve any domestic or in-
+ternational  safety,  operational  or  material  requirement.  The  Coast  Guard  has  developed  policy  and 
+procedures to ensure such inadvertent broadcast do not happen again and we apologize for any in-
+convenience  this  may  have  caused.  For  further  information  on  AIS  Channel  Management  or  repro-
+gramming  your  AIS  read  FAQ#19  at  www.navcen.uscg.gov/?pageName=AISFAQ#19  or  contact 
+cgnav@uscg.mil. Developed by the Office of Waterways Management, U.S. Coast Guard Headquar-
+ters, Washington, DC.  
+
+Office of Investigations and Analysis: http://marineinvestigations.us 
+To subscribe: kenneth.w.olsen@uscg.mil 
+
+ 
+
+**** 
+
+                                                                                                                                                                                     
+1  The  following  settings,  if  found  in  your  AIS  Channel  Management  /  Regional  Frequency  pane, 
+should  be  overridden  (as  denoted)  prior  to  navigating  therein;  if  you  do  not  find  these  settings  /  re-
+gions in this pane you are not affected and need do nothing. 
+ 
+Setting / Region X  (MD, DE, PA, J, NY Area) 
+  NE Corner: 41º 07.60 N, 073º 49.10’ W (41.1266667 -73.8183333) 
+  SW Corner: 38º 21.90’ N, 078º 10.40 W (38.3650000 -78.1733333) 
+  Channel 1/ A / AIS1: 1022 / Ch.22B [should be change to 2087 / 87B] 
+  Channel 2 / B / AIS2: 2022 / Ch.22 [should be change to 2088 / 88B] 
+ 
+Setting / Region Y (VA Area) 
+  NE Corner: 37º 42.00' N, 76º 43.80' W (37.7000000 -76.7300000)  
+  SW Corner: 36º 32.00' N, 79º 8.00' W (36.5333333 -79.1333333)   
+  Channel 1 / A / AIS1: 1027 / Ch.27B [should be change to 2087 / 87B] 
+  Channel 2 / B / AIS2: 2006 / Ch.6 [should be change to 2088 / 88B] 
+ 
+
+

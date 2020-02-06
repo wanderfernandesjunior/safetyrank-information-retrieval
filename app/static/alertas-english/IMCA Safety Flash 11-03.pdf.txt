@@ -1,0 +1,359 @@
+AB 
+
+ 
+
+IMCA Safety Flash 11/03 
+
+September 2003 
+
+These  flashes  summarise  key  safety matters  and incidents,  allowing  wider  dissemination  of  lessons learned  from  them.    The information  below has been 
+provided in good faith by members and should be reviewed individually by recipients, who will determine its relevance to their own operations. 
+
+The effectiveness of the IMCA safety flash system depends on receiving reports from members in order to pass on information and avoid repeat incidents.  
+Please consider adding the IMCA secretariat (imca@imca-int.com) to your internal distribution list for safety alerts and/or manually submitting information 
+on specific incidents you consider may be relevant.  All information will be anonymised or sanitised, as appropriate. 
+
+A  number  of  other  organisations  issue  safety  flashes  and  similar  documents  which  may  be  of  interest  to  IMCA  members.    Where  these  are  particularly 
+relevant, these may be summarised or highlighted here.  Links to known relevant websites are provided at www.imca-int.com/links   Additional links should 
+be submitted to webmaster@imca-int.com 
+
+ 
+
+1  Topic Working with Tubulars – Incident Report 
+
+Keywords:  Lifting 
+
+While carrying out backloading operations at a rig, a crewman suffered a lost time injury.  The operation being carried out at 
+the time was the movement of tubulars to make room for an extra 50ft basket.  There were a number of learning points, 
+which came out of the inquiry into this incident, which if instigated should prevent a recurrence of this type of incident. 
+
+1.  No backload list had been supplied to the vessel to allow a loading plan to be produced before backloading commenced. 
+The  basket  was  also  an  additional  item,  which  was  only  prepared  for  backloading  after  the  original  backloading  was 
+complete. 
+
+ 
+
+This was an incident that occurred in the UK sector. The company notes that the preparation of a deck plan prior to loading 
+is a requirement under the UK Code of Safe Working Practices for Merchant Seamen. It is also recommended that vessels 
+are included in any work planning discussions that involve the use of the vessel. 
+
+2. 
+
+This was the second time the tubulars had been moved during this voyage. The tubulars were in different size bundles 
+and of differing lengths. There were not enough tubulars to make use of the pipe stanchions viable.   
+
+The  United  Kingdom  Offshore  Operators  Association  (UKOOA)  Guidelines  on  Safe  Handling  and  Packaging  recommends 
+that small tubulars be transported in racks. 
+
+Inadequate  risk  assessments  were  carried  out  onboard  the  vessel  when  the  task  changed  from  a  standard  lifting 
+process. The strops of one of the tubulars being moved were trapped and therefore the crane hooks were put through 
+a bight on the strops to try and free them. Also when one of the strops failed to come free and it was decided just to 
+straighten up the stow of that tubular, there was no reassessment. There were job discussions as to what to do (i.e. 
+toolbox talks), but these did not include a discussion on the associated risks. 
+
+ 
+
+Tasks should be re-risk assessed any time the job changes. 
+
+At  no  time  did  anyone  call  a  ‘time  out  for  safety’  when the  operation  changed.    Also  nobody  stopped  the  crewman 
+going into danger when they saw him. (Crewman was seen to walk on the unsecured tubulars to grab hold of the for’d 
+crane hook, instead of waiting for the hook to come to him). 
+
+ 
+
+All crew were aware of their ‘stop work’ authority, but did not exercise it when it was important to do so. 
+
+The  crew  of  the  vessel  knew  that  the  statutory  procedures  for  backloading  were  not  being  followed,  but  saw  the 
+process as ‘common practice’ when working rigs. The company stated that during the investigation a comment that was 
+made quite a few times regarding working on a rig was that “you never know what you are going to backload until it is 
+on the hook,” thus there still seems to be acceptance of ‘common practice,’ which is not always ‘best practice’. 
+
+6. 
+
+There was a general acceptance both on the vessel and the installation that non-compliance with the UKOOA PSV and 
+Packing guidelines was accepted. 
+
+The company notes that all companies have accepted the need for common guidelines and practices and that Masters should 
+be encouraged to challenge installations which are not complying and vice versa. 
+
+3. 
+
+4. 
+
+5. 
+
+ 
+
+ 
+
+ 
+
+2  Airline Coupling Failure 
+
+Keyword:  Hoses 
+
+We have received the following report of an incident which occurred during internal cleaning operations in a produced water 
+de-gasser  which  was  being  undertaken  by  two  contract  cleaners.    This  vessel  had  been  open  for  over  a  week  and  forced 
+extraction  was  in  place  to  ensure  that  fresh  air  was  being  drawn  in.  In  line  with  normal  operating  procedures  the  two 
+cleaners were working under air from a breathing apparatus air line unit fed from a breathing apparatus compressor. During 
+the operation a coupling on the air line parted, terminating the primary source of air supply. The problem was immediately 
+recognised by the vessel entry control personnel and both cleaners immediately opened the air supply from their personal 
+secondary supply and withdrew from the vessel to a place of safety. 
+
+The  inventory  of  breathing  apparatus  (BA)  air  hoses  was  collected  together  for  inspection  and  on  cursory  inspection  the 
+male and female connections looked identical on all hoses. The inspection data, certificates and equipment register also did 
+not indicate any difference between the types of hose. 
+
+However, on closer inspection the male fitting indicated a slight difference (see below) which appears to prevent satisfactory 
+connection with the female fitting. The pictures below indicate the difference in the appearance of the made up joints. Both 
+joints hold when tested by hand on initial set up, but the dissimilar tubing fitting is not secure if the tubing is flexed, indicating 
+it does not make a tight/locked connection on the make up. 
+ 
+
+Both  ‘male’  connectors.  Both  ‘female’  connections  look 
+identical superficially. 
+ 
+
+Groove present on this one but not obvious on 
+a cursory examination. 
+ 
+
+Black  ‘male’  connection  to  blue  ‘female’  connection. 
+This combination is the only one that would not seat 
+correctly. 
+ 
+
+Note  the  gap.  NB  some  pressure  is  being 
+exerted to push the connection together. 
+ 
+
+Blue ‘male’ connection to blue ‘female’ connection.  
+
+A tight connection. No pressure. 
+
+ 
+
+ 
+
+ 
+
+  Male connections were not stabbing fully into the female connection because of the slight differences in the design of the 
+
+ 
+
+The following key lessons have been noted: 
+
+male connectors; 
+
+  Back up air systems worked correctly; 
+
+  Safety procedures were complied with. 
+
+The company involved has made the following recommendations: 
+
+  A  system  is  to  be  put  in  place  to  record  that  equipment  has  been  fully  checked  each  day  before  being  used  on  a 
+
+worksite, to include a supervisor’s signature; 
+
+  The contractor is to establish how it was that it was supplied with hoses with ‘mixed’ fittings with the project equipment; 
+
+  A new set of compatible hoses has been requested of the contractor. 
+
+3 
+
+Internal Explosion within 12V Forklift Battery 
+
+Keyword:  Battery 
+
+A  forklift  battery  was  found  to  be  flat  and  it  was  changed  out  with  a  replacement  that  was  held  onboard  and  tested  per 
+procedures, the forklift was also function tested and all were working satisfactorily.  The following morning the pre-start up 
+checks on the forklift were carried out, and no problems were identified.  The forklift operator than attempted to start the 
+engine.  As he did this he heard a loud noise from behind him, he immediately switched off the engine, and turned to see 
+vapour and electrolyte spilling from the battery compartment. The spill was contained, and the electrician was called to make 
+the area safe by disconnecting the battery.  The battery was found to have a ruptured cell and was returned to the supplier 
+to determine the cause of the failure.  The battery was a 12 volt, sealed, lead acid type. 
+
+On inspection it was found that the cell plates within the battery had sulphated and dried, the mud space was also found to 
+be full, which is a natural process with age and this combination had led to an internal explosion.  The failure occurred inside 
+the  battery  enclosure,  which  protected  personnel  from  flying  battery  case  particles  and  electrolyte.    The  electrolyte  that 
+spilled had drained from two holes in the base of the battery compartment. 
+
+The company involved has made the following recommendations: 
+
+  Change out all batteries of sealed lead acid type annually. 
+
+  Future permits to work (PTW) and maintenance procedures should take this incident into consideration, if jump starting 
+
+or fault diagnosis is carried out with the battery exposed. 
+
+4  Fire Inside Falcom Steamer 
+
+Keyword:  Fire 
+
+We have received a report of an incident which began when a night cook baker, returning to the galley after his break, smelt 
+burning.    He  then  noticed  that  there  was  smoke  coming  from  the  top  of  the  steamer.    He  then  informed  the  facilities 
+manager, who accompanied the baker to the galley to investigate.  The manager slowly opened the steamer door and could 
+see that the elements on the base of the steamer were glowing red.  A fire then ignited.  The manager immediately closed 
+the  door  to  contain  the  fire  within  the  stainless  steel  unit  and  then  switched  off  the  power  from  the  main  control  panel.  
+The fire was extinguished by starving it from oxygen.  The OIM was informed immediately and assessed that the machine was 
+made safe and an investigation would be completed. 
+
+Investigation showed that there was a blockage in the pipe that feeds the water into tank and unit.  There was no system that 
+warned of lack of water to the unit and no fail-safe, e.g. the thermostat cut-off to the elements. 
+
+The company’s subsequent recommendations were as follows:  
+
+  A daily visual check to be made to ensure water is flowing freely to the units. 
+
+  Contact manufacturers to enquire if a fail-safe device could be installed within this unit. 
+
+ 
+
+Keywords:  Batteries 
+
+5  Follow-Up to Toxic Gas Emission from Transponder (Lithium Batteries) 
+
+Further  to  the  information  provided  in  safety  flash  01/03,  Kongsberg  Simrad  has  now  updated  its  transponder  safety 
+information.  This can be found at www.kongsberg-simrad.com by following ‘Products’, ‘Transponders’ then ‘Battery Safety’. 
+
+Users of alternative systems are advised to contact their own suppliers for product-specific information. 
+
+6  Loss of Mooring Chain to FPSO 
+
+Keywords:  Winch 
+
+A planned routine maintenance operation was in progress, to individually move each of eight anchor chains, to a pre-arranged 
+plan,  to  ensure  that  the  chain  links  were  not  subject  to  wear  and  fatigue  at  the  same  points  over  the  life  of  the  mooring 
+chain.  This operation had been repeated successfully on an annual basis for the four previous years. 
+
+The  linear  tensioner  assembly  equipment  was  pressured  up  to  allow  for  the  stowing  of  two  links  of  chain  for  tensioner 
+number 5.  The chain was lifted by energising the rams to raise the chain gripper and the chain stopper was opened.  When 
+the rams reached their full extent, the operator tried to close the chain stopper, to engage the chain in its new position.  The 
+chain stopper would not fully engage. 
+
+The rams were lowered back to the start position and a second attempt was made.  Once again, the chain stopper could not 
+be engaged, due to an incorrect chain position (i.e. they tried to close on the side of the link, rather than on the shoulder of 
+the link). 
+
+After the second failed attempt, the operator made the decision to lower the rams to stow the chain in its original position 
+and  report  the  problem.    As  the  rams  were  being  lowered,  the  operator  heard  a  loud  noise,  realised  there  was  a  major 
+problem and abandoned the immediate worksite.  The failure of the equipment assembly resulted in the gypsy wheel being 
+torn from the deckhead.  The upper assembly sheared off of the rams and the chain grippers sheared their retaining bolts, 
+allowing the chain to fall freely and pay out of the locker.  The bitter end shackle pin broke in the chain locker and the chain 
+paid out to the seabed. 
+
+As  a  result  of  a  lengthy  investigation,  including  the  company  involved  and  the  equipment  manufacturer,  the  follow  lessons 
+learned have been noted: 
+
+  The size variation of the individual chain links had had a major impact on the (re)design of chain tensioning equipment, 
+which had not been fully understood or taken into account in the original design.  This had had a significant impact on 
+both the chain gypsy wheel design and the chain gripping arrangement; 
+
+  Changes made during the design stages had not been fully evaluated for their effect on the installed equipment, resulting 
+in the need to redesign and change out the gypsy wheel and to extend the full hydraulic ram lifting movement, which was 
+insufficient to allow for the tolerances on the mooring chain and correct engagement of the stoppers at certain points in 
+the chain; 
+
+  The  angle  of  engagement  between  the  mooring  chain  and  the  upper  grippers  during  the  chain  moving  operation  was 
+
+critical.  If there was an increased angle, there was the potential for the chain weight to force open the upper grippers. 
+
+The company involved has made the following recommendations: 
+
+  The gypsy wheel and its support structure are to be redesigned, to ensure that bearing and chain snagging are eliminated.  
+
+The planned maintenance regime will be redeveloped, to ensure the necessary maintenance tasks are carried out; 
+
+  The tensioner assembly is to be modified to lock chain grippers and stoppers in place hydraulically, to ensure correct 
+
+alignment and to prevent movement and chain release due to chain loading; 
+
+  A  modification  will  be  made  to  increase  the  ram  travel  distance,  to  ensure  that  correct  stopper  engagement  can  be 
+
+achieved when a chain is lifted, taking into account chain link tolerances and variations; 
+
+  A remote control device is to be fitted, to allow the operator to be well clear of the equipment when chain movement 
+
+operations take place. 
+
+7  Filtration Materials 
+
+Keywords:  Breathing Air Compressors 
+
+Please see the attached safety notice from Divex regarding filter materials for use in breathing air compressors. 
+
+  
+
+ 
+
+info@divex.co.uk 
+
+Telephone  +44 (0)1224 740145 
+Facsimile   +44 (0)1224 740172 
+e-mail  
+
+Divex Ltd. 
+Enterprise Drive 
+Westhill, Aberdeen 
+AB32 6TQ, United Kingdom 
+
+ 
+ 
+DIVEX SAFETY NOTICE 
+ 
+ 
+ 
+Safety Notice No. DVX001/2003
+ 
+Filtration Materials  
+ 
+Breathing Air Compressors 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Please  be  advised  that  from  the  date  of  this  letter  Divex  Limited  will  no  longer  supply  loose  filter 
+materials  to  enable  customers  to  re-fill  filter  cartridges  for  use  in  high  pressure  breathing  air 
+compressors. 
+ 
+ 
+It  has  long  been  the  policy  of  our  principals,  Bauer  Kompressoren,  that  only  factory  supplied  and 
+sealed filter cartridges should be used in their breathing air compressors. 
+These cartridges were never designed to be opened and re-filled by operators. 
+ 
+ 
+We are aware that some users operating in remote areas have been carrying out this procedure in 
+the  interests  of  economy  and  logistics,  but  recent  incidents  involving  other  than  factory  supplied 
+cartridges have highlighted the inherent danger of this practice. 
+ 
+ 
+We apologise for any inconvenience this may cause to our compressor operating customers but I am 
+sure you will see the wisdom of our actions. 
+ 
+ 
+For and on behalf of Divex Limited, 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+SIGNED _____________________________________________________  DATED: 6th August 2003 
+ 
+
+G.Gilbert, for and on behalf of Divex Ltd. 
+
+ 
+
+ 
+
+ 
+
+

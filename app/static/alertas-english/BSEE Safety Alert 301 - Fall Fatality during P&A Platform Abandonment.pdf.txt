@@ -1,0 +1,247 @@
+ 
+ 
+U.S. Department of the Interior 
+Bureau of Safety and 
+ 
+EnvironmentalEnforcement 
+Gulf of Mexico OCS Region 
+
+Safety 
+Alert 
+
+ 
+                                                     Contact: Jack Williams 
+(504) 736-1757 
+
+BSEE 
+
+Safety Alert No. 301 
+13 April 2012 
+ 
+
+ 
+
+Fall/Fatality during P&A/Platform Abandonment:   
+
+Supervision, Operational, Equipment, and Organization Errors  
+
+ 
+
+An offshore roustabout was fatally injured while assisting P&A’ing wells and decommissioning a 
+production platform.   The P&A operation was being conducted on the main deck of the platform, using 
+a power swivel skid, casing jack, and crane, in conjunction with other equipment.  
+ 
+The accident occurred at night while the power swivel was being moved from atop the well with the 
+roustabout acting as a rigger helping control the load.  When the power swivel was lifted, the roustabout 
+stepped, or was dragged by the load into the well-access opening in the deck that was exposed by the 
+movement of the power swivel, and fell to his death.  Night medevac callout was delayed due to 
+ 
+confusion in emergency planning. 
+    
+
+ 
+
+ 
+
+ 
+
+ 
+
+An investigation by BSEE personnel concluded the following factors contributed to the accident: 
+ 
+
+ 
+	  The supervisor and company man on site did not have an emergency plan with medevac  
+
+procedure and contact information readily available.  
+ 
+
+ 
+	  The pre-shift JSA meeting did not address the hole in the main deck beneath the power swivel.  
+The JSA meeting was not attended by all parties including the roustabout, and no signed, unique 
+JSA form was created. 
+ 
+
+ 
+	  The pre-lift “tool-box” meeting did not discuss the existence of the hole beneath the power 
+
+swivel, and no fall protection was provided as required by company policies, BSEE, and USGC. 
+ 
+ 
+
+ 
+	  The power swivel skid was equipped with two “tag lines” that were only three-feet long thus 
+
+requiring the riggers to be in close proximity to the load.  The tag lines were attached to the power 
+swivel in such a way that they would drag across the open hole as the skid was moved; 
+ 
+  
+
+ 
+	  Other P&A equipment on the platform was positioned poorly and interfered with the crane 
+
+ 
+
+operation. 
+
+ 
+
+ 
+o	  A rudimentary, inherently dangerous, “pipe rack area” allowed the box ends of 15 joints 
+of work string to protrude over the skid, requiring riggers to manually maneuver the load 
+to keep from hitting the pipe.  
+
+ 
+
+ 
+
+ 
+o	  The temporarily stored casing jack interfered in the crane operator’s vision of the lift.  
+ 
+o	  The lighting may have been inadequate for a night operation. 
+
+ 
+  Management and on-site supervision failed to address safety hazards and equipment deficiencies 
+
+in planning, and made operational errors that contributed to the cause of the accident.  
+  
+
+ 
+  There was no clearly designated, direct supervision of the lift because of multiple responsibilities 
+
+assigned to the only supervisor on duty. 
+
+ 
+BSEE recommends the following to operators conducting plug and abandonment and platform 
+decommissioning operations. 
+ 
+ 
+
+	  Medical evacuation procedures and contact should be prominently displayed and all crew 
+ 
+
+ 
+
+members acquainted with that information and the procedures.  
+
+  
+	  P&A/platform decommissioning operations should have a comprehensive safety evaluation for 
+ 
+ 
+
+the organization of multiple simultaneous tasks. 
+ 
+
+	  A fully attended and comprehensive JSA that covers all the risks should be a requirement. 
+ 
+ 
+
+	  Fall protection should be available and used in the presence of open holes, or if holes may be 
+ 
+
+ 
+
+exposed in the course of an operation. 
+ 
+
+   
+
+   
+
+ 
+
+ 
+
+  
+
+ 
+
+ 
+  
+
+ 
+
+ 
+	  A lift should be evaluated for all risks, and the appropriate tag lines, and use of tag lines, should 
+
+be reviewed. 
+
+ 
+	  Management and supervisors should insure the work space organization, availability of necessary 
+ 
+
+equipment, proper positioning of equipment, and the conduct of operations, be fully and 
+constantly reviewed for safety hazards before and during operations. 
+
+ 
+	  Management should assign enough supervisors to P&A/platform decommissioning operations to 
+
+allow direct, oversight of operations. 
+
+ 
+ 
+A full report of the accident can be reviewed on the BSEE site.  To access the site, click on link 
+as follows: 
+  
+http://www.bsee.gov/Inspection-and-Enforcement/Accidents-and-Incidents/Panel-Investigation-
+Reports/Panel-Investigation-Reports.aspx 
+ 
+  
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+--BSEE--GOMR--
+
+www.gomr.BSEE.gov 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+A Safety Alert is a tool used by BSEE to inform the offshore oil and gas 
+
+industry of the circumstances surrounding an accident or a near miss.  It also 
+contains recommendations that should help prevent the recurrence of such 
+
+an incident on the Outer Continental Shelf. 
+
+

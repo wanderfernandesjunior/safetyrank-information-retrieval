@@ -1,0 +1,428 @@
+AB
+
+ 
+
+IMCA Safety Flash 09/03 
+
+August 2003 
+
+These  flashes  summarise  key  safety  matters  and  incidents,  allowing  wider  dissemination  of  lessons  learned  from  them.    The  information  below  has  been 
+provided in good faith by members and should be reviewed individually by recipients, who will determine its relevance to their own operations. 
+
+The effectiveness of the IMCA safety flash system depends on receiving reports from members in order to pass on information and avoid repeat incidents.  
+Please consider adding the IMCA secretariat (imca@imca-int.com) to your internal distribution list for safety alerts and/or manually submitting information 
+on specific incidents you consider may be relevant.  All information will be anonymised or sanitised, as appropriate. 
+
+A  number  of  other  organisations  issue  safety  flashes  and  similar  documents  which  may  be  of  interest  to  IMCA  members.    Where  these  are  particularly 
+relevant, these may be summarised or highlighted here.  Links to known relevant websites are provided at www.imca-int.com/links   Additional links should 
+be submitted to webmaster@imca-int.com 
+
+ 
+
+1  Use of Rags – Potential Puncture Wound 
+
+Keywords: Near miss 
+
+We have received the following report of a near-miss on board a rig, which provides a reminder of the need for constant 
+safety awareness offshore. 
+
+A coil tubing supervisor was involved in the process of rigging up equipment on the rig floor.  As he was sweating, he went to 
+a rag box and selected an unused rag to wipe his forehead with.  After wiping the sweat from his forehead, he noticed a 1” 
+sewing pin that had been left in the rag. 
+
+No injury occurred.  However, there was considerable potential for a puncture wound to his hands or face. 
+
+The rags came from a chain of suppliers and the rag source was variable. 
+
+The company involved has noted that boxes of rags are a widely-used commodity within the industry and that they may not 
+be free from contamination or sharp objects.  It is possible that rags may be used to soak up contaminant and then returned 
+to the box. 
+ 
+
+While  there  are  certain  checks  within  the  rag  supply  process,  it  is  also  important  that  a  user  checks  the  rag  before  use.  
+Everyone should be alert to the possibility of contaminants or sharp objects within rag boxes.  As a precaution, the company 
+has stated that rags should not be used to wipe faces. 
+
+2  Working with Hoses and Pressure 
+
+Keyword:  Pressure 
+
+Working with pressure and hoses carries several risks that can lead to severe injury.  The identification of the risks involved 
+with pressure and hoses can often be missed.  Lately in the oil industry there have been several such incidents, including two 
+noted below: 
+
+2.1  Leaking Seal on Hydraulic System causes Oil Spray 
+
+One member has reported an incident which occurred recently, whereby a person got sprayed with hydraulic oil 
+due to a leaking seal in the hydraulic system. 
+
+The oil got into his eyes, but he did not take enough time to remove all the oil from his eyes, resulting in a visit to 
+the hospital for check-up on shore. 
+
+The lessons learnt were: 
+
+ 
+
+ 
+
+that  during  pressuring  or  re-pressuring  any  system,  personnel  should  stay  at  a  safe  distance  at  all  times, 
+particularly at sensitive connections (flanges, valves, repaired areas etc.); 
+
+the need for personnel to check the relevant data sheet, which should be readily available, for correct action for 
+the oil/chemical; 
+
+ 
+
+the need to wash eyes or any other body parts extensively if exposed to oils or chemicals; 
+
+ 
+
+ 
+
+that the effects of oils/chemicals may not apparent immediately, but may occur much later, so it is prudent to 
+take immediate defensive action.  
+
+2.2  Fatality While Inflating Truck Tyre 
+
+A heavy-duty truck driver/operator was fatally injured while inflating the truck’s right front tyre.  During inflation, 
+the wheel lock ring flew off, hitting the operator in the face.  The company involved has noted the need to maintain 
+a safe position while carrying out such work, as illustrated in the diagrams below: 
+
+X 
+
+One  member  has  passed  IMCA  its  notes  to  employees  on  the  subject  of  working  with  hoses  and  pressure  as 
+follows: 
+
+Take a moment to review the following points to help prevent any further hose related incidents. 
+
+ 
+
+ 
+
+Risks when working with or around hoses and pressure: 
+
+  Whip from hose resulting from 
+
+–  A sudden release due to connection failure 
+–  Disconnecting a pressurised hose 
+– 
+– 
+– 
+
+Failure to use proper hose safety locks and restraints 
+Sudden release due to improper fastening of connection 
+Failure as a result of exceeding pressure capacity of hose 
+
+  Hose fatigue and exposure to hazardous environment 
+
+  Hose/connection manufacturing defect 
+
+  Pressure injection injuries 
+
+To prevent accidents and damage to hoses: 
+
+  Wear appropriate PPE including, hardhat, safety glasses, gloves while working with hoses. 
+
+  Use hose safety devices including pins. 
+
+  Use the corrective length and diameter of hose. 
+
+  Run the hose as specified by the manufacturer, ensuring proper support and restraint brackets. 
+
+  Replace any chafing guards that are damaged or missing. 
+
+  Do not ignore outer jacket damage.  Replace hose as necessary. 
+
+  Check fittings ensuring they are in good working condition. 
+
+  Keep all air and high-pressure hoses properly coiled when not in use. 
+
+  See that couplings and valves are in good repair.  Make sure ends cannot be pulled loose allowing the lines to 
+
+whip around dangerously. 
+
+ 
+
+  High-pressure  wash  guns  without  trigger  shut-off  valves  should  not  be  used.    Never  point  any  high-pressure 
+
+  Compressed air blow-off guns can be dangerous.  Keep gun directed away from face and use goggles to protect 
+
+spray wand at another person. 
+
+your eyes from flying dust particles. 
+
+  When  working  around  steam  cleaning  operations  always  wear  boots,  heavy  gloves  and  face  protection  to 
+protect from burns.  A shot of steam inside a pair of shoes can raise blisters.  Hands that touch a hot coupling 
+can result in painful burns. 
+
+Pressurised equipment is a potential hazard to be approached with care 
+
+3  Slips, Trips and Falls resulting from Loose Cables and Hoses on Walkways 
+
+Keyword: Fall 
+
+A member has recently issued advice to its employees concerning slips, trips and falls.  It notes that international review of 
+incidents reveals that a substantial percentage of incidents are caused by slips (wet surfaces etc), trips (tripping over objects) 
+and falls (from heights or otherwise). 
+
+One of the main obstacles on board vessels (also at shipyards and shore bases) is loose cables or hoses, etc., lying on deck or 
+other areas. 
+
+There was a recent near-miss where a set of gas hoses together with welding cables were cut/damaged, causing a small fire. 
+
+The company has noted the following lessons learned: 
+
+  Gas and oxygen hoses and electric cables should be kept apart; 
+
+  Cable and hose ‘housekeeping’ should be maintained at all times, with proper maintenance to be carried out on all hoses 
+
+  Hoses and cables should be kept off of the deck/floor through the use of hooks or other means where possible (if this 
+
+impossible, proper protection, such as thresholds, etc., should be used); 
+
+  Tools made available to keep cables and hoses free from the deck/floor should be used and supervisors should check this 
+
+and cables; 
+
+regularly; 
+
+4  Respiratory Equipment 
+
+Keyword: Mask 
+
+A member has recently issued advice to its employees concerning respiratory equipment as follows. 
+
+On board there are several kinds of equipment for protection from possible polluted air.  To be effective, it is necessary to 
+assess which kind of mask is appropriate and whether the mask fits correctly, Maintenance of the mask is important. 
+
+Masks are available in several different forms but the common ones are: 
+
+Disposable Masks 
+
+Half Masks 
+
+This filtering mask covers the mouth and nose and removes respirable dust.  They offer protection against some vapours and 
+gases.  One type, the 3M8210 gives protection against respirable dust so can be used during grinding, cleaning, jobs.  For arc 
+welding/gouging the 3M9925 type also gives protection against the harmful welding fumes. 
+
+Are made of plastic/rubber and are fitted with filter cartridges which can be changed out.  These can be used for vapours, 
+gases and dust, but it is very important that the correct filter is used (a dust filter will not filter vapours). 
+
+Do a fit test of the mask before you start working.  A simple test to see whether the fit is tight or not is to close off the air 
+supply (filter cartridge holes), breath in and hold your breath.  The respirator should collapse on the face. It should then be 
+possible to check to see if there is a leak. 
+
+Similar to the half mask but also covers the eyes by means of a visor. 
+
+A battery operated fan delivers air through a filter to the face mask, helmet or visor. 
+
+For all masks, the following applies – when it is getting hard to breathe, when taste or smell is detected, get out of 
+the area where you are working and change the mask or replace the cartridge. 
+
+ 
+
+Full Face Mask 
+
+Powered Respirator 
+
+5  Machine Guarding 
+
+Keyword: Machinery 
+
+Employee exposure to unguarded or inadequately guarded machines is prevalent in many workplaces.  Amputations are one 
+of the most severe and crippling types of injuries in the occupational workplace. 
+
+All personnel have to be focused on recognising and controlling common amputation hazards associated with the operation 
+and use of certain types of machines. 
+
+A member has recently issued advice to its employees as follows: 
+
+All machines consist of three fundamental areas: 
+
+  The point of operation 
+
+  The power transmission device 
+
+  The operating controls 
+
+Despite  all  machines  having  the  same  basic  components,  their  safeguarding  needs  differ  widely  due  to  varying  physical 
+characteristics and operator involvement. 
+
+  Safeguards are essential for protecting workers from these needless and preventable injuries 
+
+  Any machine part, function, or process which may cause injury must be safeguarded 
+
+  When  the  operation  of  a  machine  or  accidental  contact  with  it  can  injure  the  operator  or  others  in  the  vicinity,  the 
+
+hazards must be either eliminated or controlled. 
+
+In-running nip points 
+
+Nip  points  can  occur  between  rotating  and 
+fixed parts which create a shearing, crushing, or 
+abrading action. 
+ 
+ 
+ 
+ 
+ 
+ 
+Hazards  are  caused  by  the  rotating  parts  on 
+machinery.  Parts  can  rotate 
+in  opposite 
+directions  while  their  axes  are  parallel  to  each 
+other. 
+ 
+ 
+ 
+ 
+Are  also  created  between  rotating  and 
+tangentially moving parts. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Rotating Motion 
+
+Can be dangerous; even smooth slowly rotating 
+shafts  can  grip  hair  and  clothing,  and  through 
+minor  contact  force  the  hand  and  arm  into  a 
+dangerous position. 
+
+Reciprocating Motions 
+
+May be hazardous because, during the back and 
+forth or up-and-down motion, a worker may be 
+struck  by  or  caught  between  a  moving  and  a 
+stationary part. 
+
+Transverse Motion 
+
+in  straight,  continuous 
+
+By  movement 
+line, 
+creates  a  hazard  because  a  worker  may  be 
+struck  or  caught  in  a  pinch  or  shear  point  by 
+the moving part. 
+
+Cutting Action 
+
+The danger of cutting action exists at the point 
+of  operation  where  finger,  arm  and  body 
+injuries  can  occur  and  where  flying  chips  or 
+scrap  material  can  strike  the  head,  particularly 
+the eyes or face. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+6  Dangers when Mooring and Unmooring 
+
+Keyword: Mooring 
+
+A recent near-miss was reported on a member’s vessel, whereby a rigger was nearly hit by a mooring line during a mooring 
+operation.  The rigger was operating the capstan when it happened.  In the past, a number of near misses have occurred and 
+unfortunately also a number of very serious accidents whereby people sustained extensive injuries. 
+
+Mooring  and  unmooring  of  barges  and  ships  has  always  been  a  hazardous  operation.    Clearly,  not  all  parts  of  a  mooring 
+operation can be planned without good co-operation and communication with the crew of the facility or other vessel. 
+
+To  enhance  such  co-operation  and  communication,  with  the  aim  of  eliminating  such  incidents,  the  member  has  noted  the 
+following points in its procedures: 
+
+  Always have a ‘toolbox talk’ prior to any mooring/unmooring operation and keep to the agreements made; 
+
+ 
+
+  Follow the correct (agreed) sequence; 
+
+  Always stand clear of areas where you can be hit by a breaking line or a jumping line; 
+
+  Check the condition of the mooring lines before use –if their condition is unacceptable, scrap them; 
+
+ 
+
+If you end up in a situation where the situation is hazardous, stand back and/or stop the operation and make sure it is 
+safe before proceeding; 
+
+  Communication  between  deck  and  foreman  on  barge  needs  to  be  operating  properly  in  case  of  sequence  changes  or 
+
+otherwise. 
+
+7  Electrical Safety 
+
+Keyword: Power 
+
+Essentially: 
+
+It has been reported to IMCA that there have been several incidents lately relating to electrical safety.  
+
+  Working on electrical equipment can be a highly hazardous job 
+
+  The identification of the risks involved can be hidden and taken for granted. 
+
+Risks associated with working on energised equipment include: 
+
+  Electrical shock/electrocution to personnel 
+
+  Electrical arcing or flash burns 
+
+  Electrical fires 
+
+To  prevent  electrical  injuries  while  working  with  electrical  equipment,  ensuring  the  following  safety  work  practices  are 
+followed: 
+
+  Ensure all applicable ‘permits to work’ and stored energy lock-out/tag-out steps are taken; 
+
+  Prior  to  performing  any  work  a  job  safety  assessment/toolbox  talk  must  be  performed  to  determine  the  appropriate 
+
+safeguards and personal protective equipment. 
+
+8  Care Using Hand Tools 
+
+Keyword: Hand Tools 
+
+A  recent  incident  has  been  reported  to  IMCA.    Whilst  we  do  not  have  details  of  injuries  or  damage,  it  involved  a  fairly 
+standard operation in the engine room.  An engineer was busy drilling holes in a pumping casing, using a high-powered drill 
+machine, which he was using a rope to suspend and then holding by himself. 
+
+ 
+
+ 
+
+Safety Flash 
+
+ 
+
+Causes given in the incident report were: 
+
+  A drill too powerful to be operated by a single person 
+
+  Limited space to operate 
+
+  Poor communication between engineer and his helper 
+
+Corrective action prescribed by the company to all of its vessels is: 
+
+  Heavy hand tools to be operated by at least two operators or other measures to be taken to make their use safer 
+
+  Choose the type of tool to match the job that needs to be done 
+
+ 
+
+If necessary carry out a job safety analysis and do a toolbox talk before starting a job. 
+
+

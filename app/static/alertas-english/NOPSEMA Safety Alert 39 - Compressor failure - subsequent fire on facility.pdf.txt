@@ -1,0 +1,134 @@
+SAFETY ALERT [39] 
+
+  
+
+NATIONAL OFFSHORE PETROLEUM SAFETY AUTHORITY 
+
+Compressor Failure and Subsequent Fire on Facility 
+
+ 
+
+What happened? 
+
+A high pressure gas compressor experienced a catastrophic failure during start up 
+on an FPSO (Floating Production Storage and Offload) vessel. This failure caused a 
+hydrocarbon gas release that auto ignited, resulting in a local jet fire at the compressor 
+and a second fire within the gas turbine enclosure. Fortunately no personnel were 
+injured during the incident.  
+
+Centrifugal gas compressors are widely utilised on production facilities within 
+Australian waters. They are typically used to compress gas required for export or 
+well re-injection.  A typical gas compressor configuration consists of 1st LP (low 
+pressure) stage, 2nd IP (intermediate pressure) stage and 3rd HP (high pressure) 
+stage.  
+
+What could go wrong? 
+
+•  High reliance on a single piece of safety critical equipment - for example, an 
+
+instrument 
+
+• 
+
+• 
+
+alarms 
+
+Inadequate commissioning of the compressor’s control systems 
+
+Inadequate protection systems in place to protect compressors from 
+operating outside design limitations  
+
+•  Personnel overwhelmed by ‘Nuisance’ Alarms’ can overlook significant 
+
+ 
+
+Page 1 of 2 
+
+ 
+
+ 
+
+SAFETY ALERT [39] 
+
+  
+
+NATIONAL OFFSHORE PETROLEUM SAFETY AUTHORITY 
+
+Compressor Failure and Subsequent Fire on Facility 
+
+•  Personnel not trained for site specific equipment operation 
+
+Inadequate management of safety device ‘inhibits’  
+
+Inadequate commissioning of fire protections systems 
+
+• 
+
+• 
+
+ 
+
+Key Lessons: 
+
+•  Ensure commissioning activities are correctly undertaken and verified by 
+
+competent persons.  
+
+•  Ensure control room operations personnel have the required competence and 
+
+training for their specific control system and type of compressor on location.  
+
+•  Ensure control room operators are not overloaded by ‘nuisance’ alarms by 
+
+ensuring effective alarm management through alarm rationalisation. 
+
+•  Any overrides on safety controls should be controlled and be properly risk 
+
+assessed.  
+
+monitoring. 
+
+compressor. 
+
+•  Repetitive alarms need to be properly investigated and resolved.  
+•  Ensure effective management of procedural controls by compliance 
+
+•  Wherever possible minimise dependence on operators in safeguarding the 
+
+•  Develop the compressor’s safe guard system to ensure a fail safe design. 
+•  Consider the impact of an instrument failure in machine control or protection 
+
+systems, particularly if fail-to-danger is undetected.  
+
+•  Ensure integrity of fire protection systems 
+ 
+ 
+
+Who is responsible? 
+
+Under  provisions  of  the  Offshore  Petroleum  and  Greenhouse  Gas  Storage  Act  2006, 
+operators  of  facilities  have  a  duty  of  care  to  ensure  that  plant  and  equipment  at  the 
+facility are safe and without risk to health. Suppliers of plant have a duty to ensure that 
+plant, when properly used, is safe and without risk to health. 
+
+ 
+ 
+
+Contact 
+
+For further information email alerts@nopsa.gov.au and quote Alert [39]. 
+
+Page 2 of 2 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+

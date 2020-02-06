@@ -1,0 +1,86 @@
+ 
+
+ 
+
+SAFETY ALERTS 
+
+ 
+
+ 
+
+ 
+
+ALERT 1 – 17   
+
+DROPPED CASING RESULTS IN EQUIPMENT DAMAGE 
+
+ 
+WHAT HAPPENED: 
+The operation was running 13 3/8" casing. Equipment in use was an automated type Single Joint Elevator (SJE) 
+with a mechanical latch mechanism operated by a Service Engineer. The casing joint was situated at the V-door 
+resting on the bottom stopper. After the SJE was placed around the casing joint, the joint was picked up by the 
+Driller. When the SJE was approximately 8 meters above the rig floor, the casing joint came out of the elevator and 
+slid back down the V-door. The casing joint travelled down the catwalk, bounced over the end stopper and 
+cantilever deck handrail and impacted the protection frame of the exhaust pipe lines near the accommodation 
+bulkhead. The casing joint bounced back and came to rest on top of the casing joints stacked on the main deck. 
+
+WHAT WERE CONTRIBUTING FACTORS: 
+
+The pipe catchers of the SJE were not closed and latched before the casing joint was lifted by the Driller. The 
+casing running tool (CRT) operator and the Driller took action without conformation that the pipe catchers of 
+the SJE were closed and latched. The CRT operator was relieved without a proper handover in the middle of 
+the handling process. The CRT operator had placed the SJE around Casing, set the slips of the flush mounted 
+slip (FMS), but did not close and latch the pipe catchers of the SJE before leaving the CRT control console. The 
+relief  operator  continued  the  task  with  the  assumption  that  the  pipe  catchers  were  closed  and  latched, 
+signaling to the driller to pick up the casing joint. 
+
+LESSONS LEARNED: 
+
+1. 
+
+Implement visual verification at all times by the Driller and designated person at the V-door that the pipe 
+catchers of the SJE are closed and locked prior to lifting casing joint. 
+
+ 
+2.  Designate  the  person  positioned  at  the  V-door  to  visually  verify  that  the  pipe  catchers  of  the  SJE  are 
+
+closed and locked and give only established hand signals to Driller prior to lifting casing joint. 
+
+ 
+3.  Agree upon and only use established hand signals from designated person(s). 
+ 
+4. 
+ 
+5. 
+
+Investigate catwalk end stopper to prevent casing falling from cantilever to main deck. 
+
+Implement thorough handovers to be conducted between crew members, for coffee break, lunch break, 
+etc.,  where  minimum  operation  topics  such  as  equipment  status,  signals,  plan,  next  action,  etc.,  are 
+discussed and at least one full operational cycle is observed until the end by the relief before taking over 
+the position. 
+
+ 
+6.  Review  and  update  JSA  and  Work  Instruction  for  running  13  3/8  casing  using  CRT  to  include 
+
+recommended improvement actions for conducting safe operations. 
+
+-A Safety Alert can consist of any type of health, safety & environment (HSE) notification or 
+
+Near Miss/Near Hit alert.  Proactive Alerts on jobs well done are also encouraged. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+2  
+
+

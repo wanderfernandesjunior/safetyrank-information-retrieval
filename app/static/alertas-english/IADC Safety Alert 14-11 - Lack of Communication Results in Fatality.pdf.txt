@@ -1,0 +1,127 @@
+Safety Alert 
+
+        From the International Association of Drilling Contractors 
+
+LACK OF COMMUNICATION RESULTS IN FATALITY 
+
+ 
+ALERT 14 – 11 
+ 
+
+ 
+WHAT HAPPENED: 
+
+ 
+
+A Mechanic suffered a fatal injury while repairing the iron roughneck (integral to the Pipe Handling Machine – [PHM]) on 
+the rig floor.   
+ 
+The operation at the time was breaking out and laying down the BOP test assembly when a hydraulic hose burst on the 
+iron roughneck.  A decision was made to continue laying out the pipe using manual tongs with the PHM upper and lower 
+racking arms.  The Mechanic was notified and he came to the Drill Floor via the unrestricted (“green”) access stairway.   
+ 
+The  Mechanic  identified  the  burst  hose  and  told  the  Driller  he  would  check  if  there  was  a  spare.    The  Driller  told  the 
+Mechanic that the crew would continue to lay down tubulars and would be using the PHM.   
+ 
+The Mechanic left the Drill Floor and returned via the restricted access port-side stairway and walked to the rear of the 
+PHM.  Signage on the port stairway and on the access gate behind the PHM requires that the Driller be notified prior to 
+entering the rig floor or the area behind the iron roughneck.  No one saw the Mechanic arrive on the rig floor and he did 
+not announce his arrival.   
+ 
+The  iron  roughneck  was  in  “single” mode  and in  this position  the  iron  roughneck  inner  carriage is  extended out  of  the 
+carriage’s frame resulting in a 16 inch (41cm) gap between the iron roughneck and the rear access cover.  The Mechanic 
+climbed  over  the  rear  bumper  bars on  the  PHM  and  entered  into  the  16 inch  (41cm)  gap  between  the  iron  roughneck 
+inner carriage and the rear access cover.   
+ 
+The  Assistant  Driller  functioned  the  PHM  to  “normal”  mode  (which  causes  the  iron  roughneck  inner  carriage  to  retract 
+back into the assembly frame) and then functioned the PHM to rotate to the aft set-back area to pick up a stand of pipe.   
+ 
+The Assistant Driller looked in the direction of the PHM/iron roughneck and noticed red coveralls at the back of the iron 
+roughneck and immediately stopped the PHM. At the same time the drill crew shouted that someone was trapped inside 
+the iron roughneck.  The Driller came out of his cabin and realized the Mechanic had been trapped in the iron roughneck.  
+His injuries were fatal. 
+
+ 
+
+Iron Roughneck, Inner Carriage Extended 
+
+ 
+
+The Corrective Actions stated in this alert are one company’s attempts to address the incident,  
+
+and do not necessarily reflect the position of IADC or the IADC HSE Committee. 
+
+This material is presented for information purposes only.  Managers & Supervisors should 
+
+evaluate this information to determine if it can be applied to their own situations and practices 
+
+Copyright  2014 International Association of Drilling Contractors All rights reserved. 
+
+Issued April 2014 
+
+Safety Alert 
+
+        From the International Association of Drilling Contractors 
+
+Burst hose was in this area 
+
+Piston for extending and retracting 
+inner carriage. The carriage is shown 
+extended leaving a gap of 
+approximately 16 inches between 
+inner carriage and inside of rear 
+access cover 
+
+ 
+
+ 
+
+Mechanic climbed in through 
+the upper space in the rear 
+access cover 
+
+Rear of Iron Roughneck, Inner Carriage Extended 
+
+ 
+
+WHAT CAUSED IT: 
+• 
+
+Inadequate  Communication  -  Mechanic  returned  to  the  worksite  via  a  restricted  access  and  commenced  intrusive 
+work on the iron roughneck without notifying the Driller or the drill crew, even though he had been informed that the 
+PHM was required for operations. 
+
+•  Routine non-compliance with Energy Isolation Requirements – rig floor hydraulic equipment was worked on routinely 
+
+without effective isolation 
+
+CORRECTIVE ACTIONS:  To address this incident, this company did the following: 
+•  Enhanced Control-of-Work Process 
+•  Reinforced restricted access, all personnel must pass through the Drillers Cabin before accessing Rig Floor 
+•  Reviewed all Rig Specific Procedures for operation of remotely operated equipment 
+•  Placed signage stating “This Equipment May Be Remotely Operated” 
+
+• 
+• 
+
+Installed expanded metal screen on iron roughneck rear and side access points 
+Installed a retractable barrier to restrict access between iron roughneck and existing handrails 
+
+•  Clearly communicated that compliance with requirements exceeds all “operational pressures” 
+• 
+
+Liaised with Equipment Manufacturer regarding installation of guards 
+
+The Corrective Actions stated in this alert are one company’s attempts to address the incident,  
+
+and do not necessarily reflect the position of IADC or the IADC HSE Committee. 
+
+This material is presented for information purposes only.  Managers & Supervisors should 
+
+evaluate this information to determine if it can be applied to their own situations and practices 
+
+Copyright  2014 International Association of Drilling Contractors All rights reserved. 
+
+Issued April 2014 
+
+

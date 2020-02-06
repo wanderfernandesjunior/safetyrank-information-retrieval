@@ -1,0 +1,71 @@
+Safety Alert 
+
+From the International Association of Drilling Contractors
+
+ 
+
+ 
+ALERT 02 – 49 
+ 
+
+DROPPED BLOCKS INCIDENT 
+
+ 
+WHAT HAPPENED: 
+ 
+While the rig crew was pulling out of the hole with 5 inch drill pipe (8 stands into trip) to retrieve storm packer, 
+the blocks were being lowered to latch onto another stand and pull it out of the hole.  When the driller applied 
+the  electric  brake  he  immediately  noticed  that  it  was  not  working.    He  then  applied  the  manual  drawworks 
+brakes attempting to stop the blocks.  His efforts slowed but did not stop the blocks from contacting the drill 
+pipe in the slips.  The top drive saver sub landed on the drill pipe and the elevators and bails hit the rig floor 
+and slid towards the drawworks.  The drilling line continued to spool off of the drawworks drum.  According to 
+their training, the floormen had been standing back watching the blocks descend and thus were out of harm’s 
+way when the incident occurred.   
+ 
+WHAT CAUSED IT: 
+ 
+Fatigue failure of electric brake spline ring which occurred due to improper alignment of auxiliary brake and the 
+drawworks shaft.  In addition there were no written procedures requiring proper alignment techniques.   
+ 
+CORRECTIVE ACTIONS:  To address this incident, this company did the following:   
+ 
+•  Shut down and secured rig. 
+•  Held all crew safety meeting. 
+•  Developed plan of action to replace/repair 
+
+damaged equipment and function test 
+equipment to ensure fit for service prior to 
+start-up. 
+
+•  Conducted research into draw works service 
+
+•  Sent damaged equipment to testing facility to 
+
+history. 
+
+identify failures. 
+
+•  Developed additional inspection criteria based 
+
+on equipment downtime history. 
+
+ 
+ 
+
+ 
+
+ 
+
+The Corrective Actions stated in this alert are one company’s attempts to address the incident, and do not 
+
+necessarily reflect the position of IADC or the IADC HSE Committee. 
+
+This material is presented for information purposes only.  Managers & Supervisors should  
+
+evaluate this information to determine if it can be applied to their own situations and practices. 
+
+Copyright © 2002 International Association of Drilling Contractors.  All Rights Reserved 
+
+Issued November 2002 
+
+

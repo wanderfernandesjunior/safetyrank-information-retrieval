@@ -1,0 +1,71 @@
+Safety Alert 
+
+        From the International Association of Drilling Contractors 
+
+ 
+ALERT 09 – 02 
+ 
+
+DROPPED OBJECT – PAD EYES FAIL CAUSING NEAR MISS 
+
+ 
+
+WHAT HAPPENED: 
+ 
+When lifting a newly constructed mud cleaning equipment skid for installation on a mud tank, three of the four 
+lifting lug pad eyes failed at the welds located on the top of the Mud Cleaning System Lifting Frame.  The skid 
+fell  to  the  ground.    The  shaker  skid  was  approximately  two  feet  off  the  ground  when  the  welds  failed.  
+Fortunately, the crew members were using tag lines on the equipment and were at a safe distance from the 
+lift.  No injuries sustained and no equipment damaged. 
+
+ 
+
+ 
+ 
+ 
+
+WHAT CAUSED IT: 
+
+ 
+•  Lack of quality control during fabrication permitted a substandard product to enter into service. 
+•  Weld penetration on the pad eyes was found to be unacceptable by standard welding specifications. 
+•  After construction of the skid, inspection of the welds was not thorough nor complete. 
+ 
+
+CORRECTIVE ACTIONS:  To address this incident, this company did the following: 
+ 
+• 
+
+Instructed construction supervisors that all pad eyes used for lifting purposes need to be stamped with a 
+unique  identity  mark  or  number  to  enable  tracing  of  the  pad  eye  to  the  inspection  and  certification 
+documents. 
+
+•  Personnel  in  charge  of  reconstruction  or  construction  of  skids  were  instructed  to  contract  a  third  party 
+qualified welding inspector to visually inspect and verify that all welding of lifting lugs and pad eyes meet 
+the quality standards for welding. 
+
+•  The  company  revised  engineering  and  drafting  procedures  for  drawings  to  include  the  wording  that  all 
+critical welds on lifting lugs and base plates as well as other critical welds associated with lift and support 
+structures be inspected by a qualified welding inspector for cracks, fatigue, penetration, etc. 
+
+•  The company instructed quality control personnel that the Quality Control System needs to be improved 
+
+and closely monitored. 
+
+•  The  company  instructed  company  personnel  in  charge  of  rig  construction  projects  to  develop  a  Lifting 
+Equipment  Register  and  use  it  to  log  all  pad  eyes  on  the  rig  as  they  are  welded,  inspected  and 
+documented prior to leaving the rig up facility. 
+
+The Corrective Actions stated in this alert are one company’s attempts to address the incident,  
+
+and do not necessarily reflect the position of IADC or the IADC HSE Committee. 
+
+This material is presented for information purposes only.  Managers & Supervisors should 
+
+evaluate this information to determine if it can be applied to their own situations and practices 
+
+Copyright © 2008 International Association of Drilling Contractors All rights reserved. 
+
+Issued January 2009 
+
+

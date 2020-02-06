@@ -1,0 +1,126 @@
+ 
+
+ 
+ 
+ 
+ 
+
+April 3, 2018 
+Washington, DC 
+
+Inspections and Compliance Directorate 
+
+Safety Alert 04-18 
+
+ 
+
+Compliance with SOLAS and USCG Regulations for  
+
+Operation of Main Propulsion and Essential Auxiliary Machinery  
+
+Lessons Learned from the S.S. EL FARO Casualty 
+
+ 
+
+ 
+
+ 
+The purpose of this Alert is to inform operators of the role that the 
+main propulsion lube oil system was found to have played in the EL 
+FARO  casualty.    This  alert  also  recommends  that  operators, 
+especially  ship  engineers,  review  the  operational  procedures  and 
+limitations of vital propulsion machinery, and verify compliance with 
+SOLAS, Classification Society and regulatory standards. 
+ 
+The  Coast  Guard  Marine  Board  Report  on  the  sinking  of  the  EL 
+FARO,  with  33  lives  lost,  revealed  that  loss  of  propulsion  during 
+extremely heavy weather was a contributing factor to the sinking of 
+the  vessel.    The  exact  operational  status  of  all  vital  EL  FARO 
+engineering  equipment  during  the  hours  preceding  the  casualty 
+could not be determined.  However, bridge audio recordings indicate 
+that the vessel lost lube oil pressure to the main propulsion turbine 
+and  reduction  gear  bearings,  resulting  in  loss  of  propulsion.    It  is 
+believed  that  the  vessel’s  substantial  list,  coupled  with  trim  by  the 
+bow,  caused  the  main  engine  lube  oil  pump  to  lose  suction.    A 
+detailed modeling and static analysis of EL FARO’s lube oil system 
+determined  that  a  severe  inclination  of  the  ship,  coupled  with  a 
+relatively low volume of oil in the sump, would likely result in a loss 
+of pump suction.  Figure 1 shows examples (at a constant lube oil 
+volume) of the position of the suction bellmouth relative to the level 
+of lube oil in the sump in several heel and trim conditions.  This static 
+model  does  not  attempt  to  address  the  sloshing  of  lube  oil  in  the 
+sump caused by vessel motions.  
+ 
+The  Coast  Guard  notes  that, although the EL FARO’s engineering 
+plant configuration was similar in design to most steam turbine ships 
+of  a  similar  age, the  vast  majority  of  large  oceangoing  commercial 
+ships currently operating have marine diesel engines as the primary 
+source  of  ship  propulsion.    However,  failure  of  a  vessel’s  lube  oil 
+system  generally  means  a  loss  of  propulsion  for  all  types  of 
+engineering plants.  For a single-turbine ship like EL FARO, this type 
+of  casualty  would  result  in  a  total  loss  of  maneuverability  until  the 
+system can be restored. 
+ 
+Title  46  of  the  Code  of  Federal  Regulations  (46  CFR),  Section 
+58.01-40,  requires  that  propulsion  machinery  and  all  auxiliary 
+ 
+
+0 degree list, 0 degree trim 
+
+15 degree port list, 0 degree trim 
+
+15 degree port list, 5 degree trim by the bow 
+
+15 degree port list, 5 degree trim by the stern 
+
+Figure 1:  EL FARO’s main engine lubricating 
+oil  sump  and  off-center,  aft  oil  suction 
+bellmouth.    Lubricating  oil  is  shown  in 
+green.    The  pump’s  ability  to  maintain 
+suction is affected by vessel list, trim, and 
+motions, and the volume of oil in the sump. 
+
+machinery essential to the propulsion and safety of the vessel (such as the lube oil system) be designed to 
+operate: 
+ 
+
+a)  when the vessel is upright, 
+b)  when the vessel is inclined under static conditions at any angle of list up to and including 15°, and 
+c)  when the vessel is inclined under dynamic conditions (rolling) at any angle of list up to and including 
+22.5° degrees and, simultaneously, at any angle of trim (pitching) up to and including 7.5° by the bow 
+or stern. 
+
+ 
+The International Convention for the Safety of Life at Sea (SOLAS), Chapter II-1, Regulation 26.6, essentially 
+has the same requirements as 46 CFR 58.01-40.    
+ 
+There is no compelling evidence to suggest that U.S. vessels are not in compliance with the above CFR and 
+SOLAS standards.  However, given the criticality of propulsion and essential auxiliary machinery, particularly 
+in heavy weather or high-traffic areas, the Coast Guard strongly recommends that: 
+
+•  Operators  verify  that  their  main  propulsion  machinery,  essential  auxiliary  systems,  and  emergency 
+generators are designed in compliance with the CFR, SOLAS and Classification Society requirements 
+for operation in static and dynamic conditions of list and trim. 
+
+•  Engineering  Department  personnel  review  the  design,  arrangement,  limiting  angles  of  inclination, 
+normal and limiting high/low lubricating oil sump levels, and casualty control procedures for all systems 
+vital to the propulsion and safety of the vessel to better understand the possible ways to mitigate the 
+effects of heavy weather on vessel operations. 
+
+This safety alert is provided for informational purposes only and does not relieve any domestic or international 
+safety, operational, or material requirements.  Developed by the Office of Design and Engineering Standards. 
+Questions may be sent to HQS-PF-fldr-CG-INV@uscg.mil. 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+2 
+ 
+
+

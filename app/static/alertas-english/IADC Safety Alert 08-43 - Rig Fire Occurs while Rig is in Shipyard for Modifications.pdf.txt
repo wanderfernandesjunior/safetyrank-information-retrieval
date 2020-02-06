@@ -1,0 +1,146 @@
+Safety Alert 
+
+        From the International Association of Drilling Contractors 
+
+ 
+ALERT 08 – 43 
+ 
+
+RIG FIRE OCCURS WHILE RIG IS IN  
+
+SHIPYARD FOR MODIFICATIONS 
+
+WHAT HAPPENED: 
+ 
+Rig Status:  A rig was in the shipyard for upgrades, and one project involved extending a 1.5 inch diesel fuel 
+line  to  the  top  of  the  living  quarters  to  supply  fuel  to  the  emergency  generator.    The  new  fuel  line  was 
+connected to the fuel line that supplied the crane.   
+ 
+Fire Event:  A crewman on a nearby rig noticed a small fire start on top boards of a small scaffold erected on 
+the port-forward side of the living quarters.  It quickly migrated outboard toward the port side and accelerated 
+at  a  high  rate.    The  fire  dropped  to  the  deck  below  and  immediately  engulfed  that  area  and  continued  to 
+accelerate on the walls of the living quarters.  The fire spread to the shell of the emergency generator and to 
+the hose-storage platform.  The fire went from a small size to engulfing the side of the living quarters in less 
+than  two  minutes.   When  it  became  apparent  that  the  fire  was  raging  on  the  port  side,  the  fuel  pump  was 
+shut off.  It is estimated that 50 gallons of diesel spilled.  Fortunately a 15 to 20 mph wind was blowing from 
+starboard to port across the rig.  The first attack on the fire was within four minutes but the shipyard fire main 
+was too small and  did  not  have sufficient pressure.   Effective fire fighting did not take place until about six 
+minutes after the fire began.  At this time several explosions from the jack house occurred.  The fire was out 
+in fifteen minutes.  The local fire department arrived on scene after sixteen minutes.   
+ 
+Damage  Assessment  (No  injuries.)    Major  damage  to  the  outer  shell  of  por-tside  quarters—structure, 
+insulation,  and  wiring  was  destroyed.    Damage  to  the  jacking  system:  Cover  plates  warped.  New  bearings 
+and seals were required.  There was damage to the emergency generator room and equipment. 
+ 
+WHAT CAUSED IT: 
+ 
+Causal Factors:   
+1.    The  welder  who  installed  the  valve  to  the  fuel  line  tack,  welded  it  in  place,  but  did  not  complete  the 
+welding of the valve to the fuel line since he intended to readjust it and weld it completely in place the next 
+day.   
+2.  As it was quitting time, the welding crew picked up their tools and left the rig.   
+3.  They did not notify anyone of the work status.   
+4.  Their welding machine was left running with welding leads attached.   
+5.  Following their departure, a check was made to ensure the line was installed and the valve on the end 
+was closed.  It was not recognized that the valve fitting was only tack welded.   
+6.  Later, the crane needed to be refueled so a call was made to have the diesel pump turned on.   
+7.  There  were  no  isolation  valves  in  the  fuel  line,  therefore  all  the  lines  were  charged  resulting  in  diesel 
+under  pressure  sprayed  from  the  tack-welded  fitting  onto  the  top  deck  and  down  the  sides  of  the 
+quarters onto the main deck.   
+8.  Since ignition started on the scaffolding about halfway up the wall of the quarters, it is suspected that a 
+smoldering rod or energized welding lead triggered the fire.   
+ 
+Other Factors:   
+ 
+•  No JSA was written by the shipyard or the rig crew for hot work or refueling. 
+•  No lock-out or tag-out procedure applied to the fuel service line. 
+•  No verification of shipyard fire main capacity. 
+•  There was no hot work permit approved by the OIM for the job being performed by the shipyard crew. 
+•  Welding machines were left running with the live leads in the area of the fire.  The welding leads were 
+
+not properly insulated with wiring exposed and were left connected to an unattended welding machine. 
+
+The Corrective Actions stated in this alert are one company’s attempts to address the incident,  
+
+and do not necessarily reflect the position of IADC or the IADC HSE Committee. 
+
+This material is presented for information purposes only.  Managers & Supervisors should 
+
+evaluate this information to determine if it can be applied to their own situations and practices 
+
+Copyright  2005 International Association of Drilling Contractors All rights reserved. 
+
+Issued December 2008 
+
+Safety Alert 
+
+        From the International Association of Drilling Contractors 
+
+ 
+•  Unsecured fittings on the fuel line were created by the shipyard workers.  
+•  Failure to communicate the status of the work at the end of the day.  No formal handover procedure was 
+
+used. (same scenario as in Piper Alpha disaster) 
+
+The Corrective Actions stated in this alert are one company’s attempts to address the incident,  
+
+and do not necessarily reflect the position of IADC or the IADC HSE Committee. 
+
+This material is presented for information purposes only.  Managers & Supervisors should 
+
+evaluate this information to determine if it can be applied to their own situations and practices 
+
+Copyright  2005 International Association of Drilling Contractors All rights reserved. 
+
+Issued December 2008 
+
+Safety Alert 
+
+        From the International Association of Drilling Contractors 
+
+ 
+CORRECTIVE ACTIONS:  To address this incident, this company did the following: 
+ 
+•  The crew involved with the task along with their supervisor is to write a JSA prior to each job. 
+•  The OIM is to ensure that all work permits are approved by prior to any work with the rig crew being 
+
+informed prior to any work on any fuel lines. 
+
+•  Welding machines are not to be left running while unattended and welding leads are to be in good 
+
+condition. 
+
+•  Work site is to be checked prior to leaving the job site to ensure housekeeping and communications of 
+
+the job status with unfinished work tagged. 
+
+•  When work is being done on fuel lines, the fuel pumps are to be locked and tagged out. 
+•  Company personnel are to work to improve communications between the rig personnel and shipyard 
+
+•  As part of this effort rig management is to hold morning meetings so that both rig and shipyard personnel 
+
+construction personnel. 
+
+know what each other will be doing. 
+
+•  Rig supervisors are to ensure proper controls are in use when fuel is bunkered or being transferred. 
+
+Involve RSTR to verify proper controls are in place. 
+
+•  Rig management is to hold fire drills even when the rig is in the shipyard. 
+ 
+ 
+
+The Corrective Actions stated in this alert are one company’s attempts to address the incident,  
+
+and do not necessarily reflect the position of IADC or the IADC HSE Committee. 
+
+This material is presented for information purposes only.  Managers & Supervisors should 
+
+evaluate this information to determine if it can be applied to their own situations and practices 
+
+Copyright  2005 International Association of Drilling Contractors All rights reserved. 
+
+Issued December 2008 
+
+

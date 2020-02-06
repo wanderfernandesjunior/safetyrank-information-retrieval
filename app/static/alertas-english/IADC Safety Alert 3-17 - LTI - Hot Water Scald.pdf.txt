@@ -1,0 +1,75 @@
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+SAFETY ALERTS 
+
+ALERT 3 – 17    
+
+LTI – HOT WATER SCALD 
+
+WHAT HAPPENED: 
+ 
+Maintenance was being carried out on a fresh water generator situated in the engine room.  The day shift started 
+the work on the generator, cleaning the condenser plates but did not complete the task and handed it over to 
+nightshift.  A toolbox talk took place between the nightshift and dayshift maintenance crew.  
+ 
+The injured person (IP) completed a permit to work, in order to continue the maintenance on the fresh water 
+generator while the isolation certificate remained in place. The Mechanic de-isolated the generator in order to 
+function the system, with the assistance of the Senior Mechanic.  
+ 
+The generator was activated but failed to produce sufficient freshwater, it was then decided to shut down the 
+system, re-isolate and carry out further fault finding. The unit was re-isolated with the exception of the seawater 
+feed, which was used to cool the system down to allow work to be carried out safely.  After approximately 40 
+minutes (time taken for unit to reach the required temperature of below 40°) the sea water valve was closed, 
+locked & tagged. 
+ 
+The IP then started to dismantle the evaporator plates. He removed the end cover and 29 of the plates before 
+encountering some plates which were stuck together – which is not uncommon due to the brine build up from the 
+salt water flashing off during the evaporator process.  Unexpectedly, a quantity of hot water was ejected from the 
+evaporator and struck the mechanic on hand and leg where he suffered second degree burns. 
+ 
+  
+
+-A Safety Alert can consist of any type of health, safety & environment (HSE) notification or 
+
+Near Miss/Near Hit alert.  Proactive Alerts on jobs well done are also encouraged. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+WHAT WERE CONTRIBUTING FACTORS: 
+
+Maintenance procedures inadequate, did not effectively address isolation, draining of preheater system. 
+Mechanical failure of isolation valves. 
+There was no drain point in system to allow the removal of all water from lines 
+ 
+LESSONS LEARNED: 
+
+1.  Review and update job procedure. 
+2. 
+Identify and replace passing isolation valves. 
+3.  Review and update risk assessment for task  
+4.  Evaluate the requirement to install additional drain line(s).  
+5.  Evaluate the requirement to install additional isolation valve on the high temperature inlet. 
+
+ 
+
+ 
+
+2  
+
+

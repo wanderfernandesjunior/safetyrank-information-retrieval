@@ -1,0 +1,300 @@
+AB 
+
+ 
+
+IMCA Safety Flash 16/13 
+
+Safety Flash 
+
+October 2013 
+
+These  flashes  summarise  key  safety  matters  and  incidents,  allowing  wider  dissemination  of  lessons  learnt  from  them.    The  information  below  has  been 
+provided in good faith by members and should be reviewed individually by recipients, who will determine its relevance to their own operations. 
+
+The effectiveness of the IMCA safety flash system depends on receiving reports from members in order to pass on information and avoid repeat incidents.  
+Please consider adding the IMCA secretariat (imca@imca-int.com) to your internal distribution list for safety alerts and/or manually submitting information 
+on specific incidents you consider may be relevant.  All information will be anonymised or sanitised, as appropriate. 
+
+A  number  of  other  organisations  issue  safety  flashes  and  similar  documents  which may  be  of  interest  to  IMCA  members.   Where  these  are  particularly 
+relevant, these may be summarised or highlighted here.  Links to known relevant websites are provided at www.imca-int.com/links   Additional links should 
+be submitted to webmaster@imca-int.com 
+
+ 
+
+1  What is a Safety Flash? 
+
+IMCA  safety  flashes  and  systems  for  incident  reporting  and  analysis  are  an  important  tool  for  sharing  vital  information.  
+By publishing  them,  IMCA  helps  its  members  around  the  world  identify  potential  hazards,  share  lessons  learnt  and  avoid 
+repetition.  Any member can submit material to incidentreports@imca-int.com.  All submissions are handled in the strictest 
+confidence, with information anonymised, checked before issue and published only with clear permission from the originator.  
+Safety flashes should be succinct, specific, factually correct and written in clear language.  The secretariat will assist with this 
+through formatting and checking of the material submitted.  
+
+When  a  member  incident  report  is  received  by  IMCA,  it  will  firstly  be  reviewed  by  a  technical  adviser.    A  draft  “IMCA 
+version” of the incident will be prepared, and this will be sent back for review to the originator.  No further action is taken 
+until the originator signals clearly that the incident is OK to be published.  Sometimes a number of iterations of this process 
+are required before the incident report is ready for publication. 
+
+IMCA remains aware that it is sometimes necessary for members to take legal advice before sharing incident information, and 
+we  would  stress  that  published  safety  flashes  are  always  completely  anonymous.    IMCA  does  encourage  members  to 
+continue to share information about incidents, hazards and lessons learnt, as far as is reasonably practical. 
+
+Sometimes IMCA receives links or references to incidents published by other organisations (for example, the Marine Safety 
+Forum (MSF)), or to incidents that are otherwise already in the public domain.  If it is considered that further sharing of these 
+incidents would be of use and interest to members, we will create a short note within a safety flash providing a link to that 
+incident. 
+
+Members can help by following a number of pointers:  
+
+  The title should be concise and focus on the main issue; 
+
+  The focus should be on lessons learnt and how to prevent a recurrence, rather than on the incident itself; 
+
+  The content should be succinct, specific and, as far as possible, a common theme or pattern should be followed: 
+
+-  What happened?  An incident or an issue will be described; 
+-  Why?  What were the immediate causes and, if appropriate, the root causes; 
+-  Learning: what can members learn from this? 
+-  Action: what are the recommendations for members? 
+
+ 
+
+Ideally there should be photographs or illustrations. 
+
+A  safety  flash  incident  report  should  provide  sufficient  detail  and  communicate  risks,  precautions  and  necessary  actions 
+effectively without releasing information about the people or organisations involved.  For further information, please contact 
+the secretariat.  
+
+ 
+2  Fatality – Man Overboard 
+
+A member has reported an incident in which a crew member was lost overboard and drowned whilst working on a load on 
+deck near to the side of the vessel.  The incident occurred when a team of riggers was working on deck at night securing a 
+load composed of two metal elements (bulwarks) one on top of the other.  One of the riggers was approximately 3 metres 
+to one side, in an area where temporary barriers were installed to prevent falling into the sea.  During the operation, there 
+was  an  unexpected  movement  of  the  metal  structure  on  the  top  in  the  direction  of  the  vessel  side.    The  rigger  moved 
+backwards to avoid the movement of the load toward his position; after 2-3 steps back he fell backward and passed through 
+the barriers, falling into the sea. 
+
+The rigger was not wearing a life jacket.  The sea state was critical (1.25-2.5 metres swell) and he was not able to reach the 
+life buoys that were launched.  The rescue craft reached him and recovered him; the casualty was back on board the vessel 
+eight minutes after the MOB alarm had been raised.  Unfortunately, efforts to resuscitate him were in vain. 
+
+Position of worker as upper element started to move 
+
+ 
+
+ 
+
+ 
+
+One of the stanchions for holding 
+in place was missing (its support 
+was partially covered by plate) 
+
+ 
+
+Showing site of incident 
+
+An investigation revealed the following: 
+
+  The area where the injured person was working (3m away from side) had been previously risk assessed as “safe” with 
+
+regard to the risk of falling into the sea, and so the requirement for a life jacket had not been identified for the task; 
+
+  During the operation, the worker was positioned “in the line of fire” of the metal bulwark element on the top; 
+
+  Temporary  barriers  were  found  not  appropriate,  just  beside  the  workplace  of  the  injured  person,  due  to  a  missing 
+
+stanchion for holding barriers. 
+
+The following lessons were drawn: 
+
+side; 
+
+  Risk of fall overboard should be considered not only for work over the side but also for work in close proximity to the 
+
+  The suitability of temporary barriers should be assessed before the start of the tasks in close proximity; 
+
+ 
+  Housekeeping should be of the highest standard to eliminate any unnecessary slip, trip and fall hazards; 
+
+  All  personnel  taking  part  in  a  task  should  attend  a  toolbox  talk  (TBT)  and  a  job  safety  analysis  (JSA)  and/or  risk 
+
+assessment (RA) discussion before starting; 
+
+ 
+
+In a MOB scenario, a constructive working relationship between marine crew and project crew is vital. 
+
+The following corrective actions were taken: 
+
+  A new risk assessment for bulwark removal and storage; 
+
+  Reinforce implementation of safe system of work; 
+
+  Verify  vessel  search  light  possible  improvements  and  purchase  night  visors  and  personal  locator  beacons  in  order  to 
+
+improve the performance of MOB rescue; 
+
+  Replacement of missing post in port side temporary over-the-side protection; 
+
+ 
+
+Increase housekeeping control on the deck; 
+
+  Complete  audit  and  evaluation  of  MOB  emergency  procedure  to  be  carried  out  utilising  all  required  emergency 
+
+equipment. 
+
+3 
+
+Irukandji Jellyfish Awareness (Australia) 
+
+A member has asked IMCA to raise awareness amongst divers and dive supervisors of the presence of Irukandji Jellyfish in 
+certain Australian waters.  Members are encouraged to pass this information so that personnel are aware of the presence of 
+Irukandji Jellyfish and if encountered, to recognise the signs and symptoms of a sting and the initial first aid treatment. 
+
+There are at least 10 species of Irukandji known, ranging from as small as 1cm to over 10cm in diameter; all are transparent 
+and virtually invisible in water which makes them difficult for swimmers and/or divers to notice.  Irukandji are most likely to 
+be found in Australian tropical waters (see map).  The normal Irukandji season begins from November through to May. 
+
+ (L) Irukandji jellyfish (R) Areas in which Irukandji jellyfish are most likely to be found 
+
+Signs and Symptoms: The initial minor skin sting is followed 5-40min later by severe generalised muscular pain, headache, 
+vomiting and sweating.  The sting from some species can cause very high blood pressure or have effects on the heart which 
+may be life threatening.  These combined symptoms are sometimes referred to as ‘Irukandji Syndrome’. 
+
+First Aid: As with all tropical Jellyfish stings the victim should be doused with vinegar. 
+
+  Call for help or send someone for help; 
+
+  Treat the victim (provide emergency CPR if necessary).  Apply 100% oxygen if patient is at an ambient pressure where it 
+
+ 
+
+is safe to do so; 
+
+  Treat the sting (flood with vinegar), do not rub or apply freshwater; 
+
+  Seek medical assistance (transport to hospital). 
+
+Further  notes:  Particular  care  is  to  be  taken  when  dressing  the  diver  to  ensure  all  exposed  skin  is  covered,  and  any 
+potential exposure is considered, for example taping gloves to sleeves and exposed skin around the neck area. 
+
+ 
+Often the greatest threat is not to the diver but to tenders on deck handling divers’ umbilicals and associated lines that have 
+been submerged.  Great care should be taken by topside personnel, paying particular attention to covering exposed skin by 
+wearing gloves and long sleeve coveralls at all times. 
+
+Ensure  that  topside  personnel  working  in  such  waters  look  for  the  presence  of  Irukandji  and  other  marine  stingers  on 
+equipment  and  wash  down  equipment  thoroughly.    Ensure  all  personnel  are  familiar  with  the  location  of  vinegar  and 
+associated first aid equipment, and its use. 
+
+If hot water suits are being used in tropical waters (for example, by saturation divers) there should be adequate filtration  of 
+water  intakes  in  place  to  prevent  jellyfish,  or  parts  of  jellyfish,  from  being  drawn  into  the  hot  water  suit  intakes  and  then 
+being  pumped  down  to  the  divers’  hot  water  suits.   Sufficient  PPE  to  prevent  jellyfish  stings  should  be  worn  by  anyone 
+required to clean such water intake filters.   
+
+4  LTI: Crewman Injured Foot during Offshore Renewables Mooring Operation 
+
+A  member  has  reported  an  incident  in  which  a  marine  crewman  sustained  a  serious  injury  to  his  foot  during  a  routine 
+mooring operation.  The incident occurred during cable laying operations on an offshore renewables project. 
+
+A  DP2  construction  vessel  and  a  number  of  purpose  built  crew  transfer  vessels  (CTVs)  were  being  used,  the  CTVs  to 
+transfer work parties between the DP vessel and wind turbine towers.  When transfers are completed the CTVs routinely 
+moor up to one of the turbine towers until required.  This enables them to save fuel.  The mooring uses a 100 metre length 
+of rope which is attached to the bow of the CTV at one end of the rope.  The rope is then fed around an upright stanchion 
+on the tower and the second end attached to another point on the bow of the vessel.  The CTV then backs off from the 
+tower and is held down-tide approximately 50 metres from the tower until required.  This operation requires that around 
+100 metres of rope are lying on the foredeck before the CTV backs away from the tower. 
+
+Background 
+
+The incident 
+
+During a mooring operation one of the CTV’s crewmen attached the rope in the manner described above.  He signalled to 
+the Master in the wheelhouse that he was clear to back away from the tower.  He then stepped out of sight of the Master.  
+The  Master  applied  full  reverse  power  briefly,  to  get  away  safely  from  the  tower,  then  put  the  engines  into  neutral.  
+The crewman  was  then  seen  being  dragged  by  the  foot,  which  was  attached  to  the  mooring  line,  across  the  foredeck.  
+The rope  pulled  him  into  a  gap  between  the  hand  rail  sections  causing  a  serious  injury  to  his  foot.    The  operation  was 
+stopped and the CTV called for assistance.  Medics from the DP2 vessel attended and provided initial treatment before the 
+crewman was conveyed by helicopter to hospital.  As a result of the injury the crewman suffered a partial amputation to his 
+foot which included the loss of his toes. 
+
+An investigation is still underway, but the following early findings were: 
+
+  There should have been formal procedures in place for this operation; 
+
+  The crewman should not have been working alone; 
+
+  There should have been an identified area where the crewman could safely stand during the operation, ideally where he 
+
+could be seen by the vessel Master; 
+
+  A CCTV installation would have meant that the Master could see the operation taking place from the wheelhouse; 
+
+  There should have been voice communication between the crew operating on the foredeck and the Master; 
+
+  The mooring should have used a shorter length of rope. 
+
+In  any  mooring  operation  there  is  always  the  potential  for  crew  entanglement  with  the  mooring  ropes,  or  for  a  rope  to 
+become over tensioned and break causing the rope to whip across the deck and injure anyone standing within its range.  
+
+Members’ attention is drawn to the following IMCA documents: 
+
+IMCA SEL 029 – Mooring practice safety guidance for offshore vessels when alongside in ports and harbours; 
+
+ 
+
+ 
+
+IMCA safety poster 12 – Mooring safety. 
+
+ 
+5 
+
+ Hand Injuries 
+
+Incident 1 
+
+Incident 2 
+
+The Marine Safety Forum has published the two following safety flashes regarding hand injuries. 
+
+A crewman suffered crush injuries when his hand was caught between a small boat and a davit frame as the small boat was 
+being recovered.  The incident occurred because he put his hand out to steady himself, didn’t look where he put his hand and 
+inadvertently 
+from 
+http://www.marinesafetyforum.org/upload-files//safetyalerts/msf-safety-flash-13.33.pdf. 
+
+frame.  The 
+
+downloaded 
+
+it  on 
+
+placed 
+
+safety 
+
+davit 
+
+flash 
+
+FRC 
+
+can 
+
+the 
+
+be 
+
+Whilst unpacking supplies, someone received a 1.5 to 2.0cm cut to the back of his left hand between his index and middle 
+finger.  The injury was caused by an old packing knife blade of approximately 7cm.  It was not known how or why the blade 
+came to be in the box.  The safety flash can be downloaded from www.marinesafetyforum.org/upload-files//safetyalerts/msf-
+safety-flash-13.40.pdf  
+
+Members are reminded that IMCA has published a pocket safety card on hand safety: IMCA SPC 08 – Watch Your hands. 
+
+

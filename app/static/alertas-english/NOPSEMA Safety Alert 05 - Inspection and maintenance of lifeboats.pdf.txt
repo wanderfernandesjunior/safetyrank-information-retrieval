@@ -1,0 +1,85 @@
+ 
+
+  
+
+Safety Alert 05 
+
+Inspection and maintenance of lifeboats 
+
+ 
+ 
+What happened? 
+Recent events on Norwegian facilities have highlighted the need for appropriate 
+design  and  manufacturing  regimes,  coupled  with  robust 
+inspection,  and 
+maintenance processes for lifeboats.  Two unrelated events have occurred: 
+
+•  Possible  design  and  manufacturing  deviations  have  been  identified  in  a 
+
+certain type of freefall lifeboat, and; 
+
+• 
+
+Inspections  of  some  conventional  twin  fall  davit  launched  lifeboats  have 
+revealed structural integrity issues in the load paths of several boats. 
+
+ 
+Both occurrences were identified as serious issues, and led to total shutdown of 
+production,  and  partial  de-manning  of  the  platform(s)  involved.    Whilst  the 
+number of freefall boats on Australian offshore facilities is limited, the availability 
+of a lifeboat, be it freefall, or single or twin fall davit launched, must be ensured.  
+The  boat’s  structural  integrity  must  be  maintained,  and  the  performance 
+standards  identified  in  the  safety  case  for  these  essential  safety  critical  items 
+must be complied with. 
+ 
+What went wrong? 
+In the freefall boat event, cracks were noted in the canopy and superstructure of 
+the  freefall  boats(s)  after  a  routine  launch.    This  led  to  questions  of  structural 
+integrity of the boats, which were withdrawn from service, pending investigations 
+by operator and vendor. 
+
+In  the  davit  launched  boat  event,  testing  of  the  boats  revealed  defects  in  the 
+lowering  arrangements  of  the  boats.  Further  investigations  also  revealed 
+corrosion  of  components  in  the  load  path,  resulting  in  structural  integrity 
+questions.    These  boats  were  also  withdrawn  from  service,  pending  an 
+investigation.  This investigation has not yet been completed. 
+
+ 
+NOPSA SAFETY ALERT 05 cont’d 
+ 
+ 
+Key Lessons 
+Initial validation of the design and manufacture of key safety critical equipment is 
+an important factor in ensuring availability of such equipment. 
+ 
+The  ongoing  availability  of  such  equipment  must  be  ensured  by  robust 
+inspection,  testing  and  maintenance  regimes.    Where  there  is  a  possibility  of 
+‘latent’  faults  remaining  undiscovered,  (for  example  corrosion  on  key  structural 
+components), due perhaps to inaccessibility to the components, then the regime 
+must  take  account  of  this.    More  invasive  techniques,  or  more  frequent 
+inspections, may be required to allow continued assurance of availability. 
+ 
+ 
+For more details, see the following links: 
+ 
+http://www.ptil.no/English/Helse+miljo+og+sikkerhet/Sikkerhet+og+arbeidsmiljo/5
+_livbaatproblemer_veslefrikk.htm
+ 
+http://www.statoil.com/STATOILCOM%5CSVG00990.nsf/UNID/41256A3A0055D
+D32C125704A0045976F?opendocument
+ 
+Recent information from AMSA re lifeboats on ships is also given below: 
+ 
+http://www.amsa.gov.au/Shipping_Safety/Port_State_Control/Focused_Inspectio
+n_Campaigns/Phase8.asp
+ 
+NOPSA  intend  to  include  a  review  of  lifeboat  inspection  and  maintenance 
+regimes in forthcoming offshore visits to facilities. 
+ 
+ 
+ 
+Contact 
+For further information email alerts@nopsa.gov.au and quote Alert 05 
+ 
+
+

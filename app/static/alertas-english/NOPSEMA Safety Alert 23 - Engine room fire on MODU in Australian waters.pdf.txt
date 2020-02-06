@@ -1,0 +1,155 @@
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+NATIONAL OFFSHORE PETROLEUM SAFETY AUTHORITY 
+
+  
+
+SAFETY ALERT  23 
+
+Engine Room Fire on MODU in Australian waters 
+
+What happened? 
+
+An  engine  room  fire  occurred  recently  onboard  a  MODU  in  Australian  waters. 
+
+The fire alarm activated when an engine room heat detector was triggered. The 
+
+control  room  operator  checked  the  engine  room,  saw  the  fire  and  raised  the 
+
+general alarm with public address announcements. Lube oil spray in the engine 
+
+room  triggered  a  motion  sensor  which  in  turn  caused  the  engine  room  closed 
+circuit  TV  system  to  record  the  incident  from  the  time  the  lube  oil  spray  began 
+
+and before the lube oil ignited.  
+
+The  muster  check  was  completed,  the  engine  room  was  shut  down,  the  space 
+was sealed and the CO2 was applied within 10 minutes of the fire being detected. 
+This procedure was in accordance with recently issued company procedures. No 
+
+attempt was made to initially fight the fire by hand. 
+
+The flooding of the engine room with CO2 was effective in extinguishing the fire. 
+Boundary cooling was achieved using a fixed deluge system on the engine room 
+
+roof and fire hoses from the rig fire water systems. The area was inspected after 
+
+one hour and the fire was declared to be extinguished. The space was ventilated 
+
+and  the  atmosphere  tested  before  the  fire  team  entered  to  inspect  the  area. 
+
+There were no injuries. 
+
+This prompt action resulted in no escalation to the fire, therefore damage to the 
+
+engine room and its equipment was not sufficient to prevent the rig from returning 
+to normal operations. 
+
+What went wrong? 
+
+The  cause  of  the  fire  was  lube  oil  spraying  from  a  disconnected  lube  oil  pipe 
+
+fitting  onto  a  hot  exhaust  pipe.  The  engine  room  has  four  generators.  Three 
+generators were running and one had been shut down by the mechanic to carry 
+
+out work on some small oil leaks. Each engine was fitted with a lube oil priming 
+
+pump system that operates separately from the engine systems. This pump was 
+
+A61036 
+
+Page 1 of 2 
+
+24-09-2008 
+
+ 
+
+NATIONAL OFFSHORE PETROLEUM SAFETY AUTHORITY 
+
+  
+
+SAFETY ALERT  23 
+
+set  to  operate  for  five  minutes  every  hour.  The  mechanic  had  a  lube  oil  pipe 
+
+coupling disconnected on the engine when it was time for his meal break. When 
+
+he  was  away,  the  lube  oil  priming  pump  cut  in.  Lube  oil  from  the  disconnected 
+
+coupling  sprayed  onto  the  deckhead  above  an  adjacent  generator  which  was 
+
+running. Lube oil dripped onto the hot exhaust and ignited, starting the fire. 
+
+Key Lessons: 
+
+•  There  was  no  pre-job  planning  or  job  safety  analysis  carried  out  for  this 
+task. If the job had been discussed and planned beforehand between the 
+
+Mechanic  and  his  supervisor,  the  Chief  Engineer,  the  Mechanic’s  lack  of 
+
+knowledge  of  the  lube  oil  priming  system  may  have  become  apparent. 
+
+Supervisors  should  satisfy  themselves  that  their  crews  are  competent  to 
+
+carry out the tasks given to them. 
+
+•  There  were  no  signs  or  instructions  provided  on  the  equipment  or  the 
+engine control panels to indicate that the lube oil priming pump was on a 
+
+separate  circuit  from  the  engine.  The  provision  of  the  lube  oil  priming 
+
+system  had  been  a  recent  modification.  Sufficient  information  and 
+
+instructions  should  be  provided  for  the  safe  operation  of  any  equipment. 
+
+This  is  a  clear  example  of  failing  to  complete  a  Management  of  Change 
+
+process;  the  actual  installation  of  the  lube  oil  system  was  completed 
+
+satisfactorily, but the associated changes to safety management systems 
+
+were not completed. 
+
+•  This incident highlights the importance of emergency response for various 
+
+scenarios. Practice makes perfect.  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Contact 
+
+For further information email alerts@nopsa.gov.au and quote Alert 23 
+
+A61036 
+
+Page 2 of 2 
+
+24-09-2008 
+
+ 
+
+

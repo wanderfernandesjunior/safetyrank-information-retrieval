@@ -1,0 +1,252 @@
+AB
+
+ 
+
+IMCA Safety Flash 10/05 
+
+October 2005 
+
+These  flashes  summarise  key  safety  matters  and  incidents,  allowing  wider  dissemination  of  lessons  learned  from  them.    The  information  below  has  been 
+provided in good faith by members and should be reviewed individually by recipients, who will determine its relevance to their own operations. 
+
+The effectiveness of the IMCA safety flash system depends on receiving reports from members in order to pass on information and avoid repeat incidents.  
+Please consider adding the IMCA secretariat (imca@imca-int.com) to your internal distribution list for safety alerts and/or manually submitting information 
+on specific incidents you consider may be relevant.  All information will be anonymised or sanitised, as appropriate. 
+
+A  number  of  other  organisations  issue  safety  flashes  and  similar  documents  which  may  be  of  interest  to  IMCA  members.    Where  these  are  particularly 
+relevant, these may be summarised or highlighted here.  Links to known relevant websites are provided at www.imca-int.com/links   Additional links should 
+be submitted to webmaster@imca-int.com 
+
+ 
+
+1  Crane Wire Failure 
+
+A member has reported a serious crane wire failure.  A night-time recovery of a work-class ROV (weight 4.75 Te) was taking 
+place onto a Class 2 DP survey vessel using the ship’s 5 Te crane.  Weather conditions were fair with an estimated 0.5 m 
+significant  wave  height  on  top  of  a  1.5  m  swell.    During  the  recovery  of  the  ROV,  the  supervisor  could  hear  the  crane 
+hydraulics bypassing the pressure relief valves – indicating a 
+
+n overload.  On trying to lift again, the crane wire parted and the ROV was released to sea. 
+
+  recent and historical damage on the inside face of the swivel sheave cheek plates – indicative of a wire scraping along the 
+
+The company’s investigation revealed: 
+
+  scuffing/gouging of the spelter socket; 
+
+plates; 
+
+ 
+
+that the cheek plates had been distorted outwards by approximately 30 mm; 
+
+  damage to the outer face of the sheave wheel; 
+
+  crushing and mechanical damage to the broken ends of the crane wire. 
+
+The company has concluded that the crane wire had been over-recovered in the past, to the extent where the conical end of 
+the spelter socket had forced itself between the sheave assembly cheek plates, wedging them apart by circa 30 mm.  This, in 
+turn,  allowed  the  wire  rope  to  come  off  the  sheave  and  jam  between  the  wheel  and  the  cheek  plates,  causing  crushing 
+damage to the wire.  The additional impact load on the already damaged wire during the recovery of the ROV through the 
+splash zone ultimately led to the failure of the wire. 
+
+The root causes of the failure were noted as: 
+
+ 
+
+inadequate crane inspection routines; 
+
+  no action had been taken when the existing damage had previously been noted; 
+
+ 
+
+the crane had been previously modified without recourse to a management-of-change procedure or consultation with 
+the manufacturer; 
+
+ 
+
+there was no limit switch fitted to restrict the spelter socket from entering between the cheek plates. 
+
+The company has implemented the following corrective actions: 
+
+  checklists have been modified to include visual inspections of the crane wire and sheave assembly and communication of 
+
+findings to management and crane manufacturer as appropriate; 
+
+ 
+
+the importance of the management of change procedure has been re-emphasised; 
+
+  risk assessment reports have been reviewed and updated as required, highlighting the risks of damaged crane parts. 
+
+2  Engine Room Fire 
+
+IMCA has received a report of an engine room fire.  The master and crew handled the critical situation swiftly by releasing 
+carbon dioxide.  The fire was brought under control, but the ship lost power.  The ship was towed to port for investigation 
+and repairs. 
+
+ 
+
+The fire caused damage to machinery components, piping, cables and bulkhead and the engine room was partially flooded. 
+
+The probable cause of the fire was spraying of leaking hydraulic oil onto an exhaust flange which was not properly insulated 
+(see pictures 1A and 1B).  The exposed flange must apparently have reached a temperature above 220°C. 
+
+The information received reiterates the importance of identifying hot spots in the engine room, noting typical trouble areas 
+such as: 
+
+ 
+
+indicator valves; 
+
+  exhaust pipes from each cylinder; 
+
+  exhaust manifold, in particular overlaps between steel sheets and laggings; 
+
+ 
+
+turbochargers, in particular flanges to such; 
+
+  cut-outs for pressure and temperature sensors; 
+
+  exposed areas on boilers and incinerators. 
+
+After maintenance and repairs, attention should be paid to satisfactory reinstallation of the insulation. 
+
+SOLAS regulations require proper insulation of all surfaces1 with temperatures above 220°C.  See picture 2 for an example 
+of  satisfactory  insulation  of a  flange.    SOLAS  also  includes  requirements  for  jacketed  piping  of high  pressure  fuel lines  and 
+screening of pipe connections on flammable oil systems. 
+
+ 
+
+Pictures 1A and 1B – Main exhaust pipe 
+
+ 
+
+Such an arrangement may have caused the fire.  Note the exposed flange of the expansion joint without insulation.   
+
+The flange has a temperature normally above 220 °C.  Hydraulic oil may hit this flange and start a fire. 
+
+Picture 2 – Exhaust pipe 
+
+ 
+
+One example on how the flange can be properly insulated. The insulation and the metal sheath cover the flange completely. 
+
+The metal sheath protects and ensures proper geometry and location of the insulation material. 
+
+The sheath cover is only fixed on the upper side since it covers the expansion joint. 
+
+                                                      
+1 “For all ships above 500 gross tonnes, SOLAS requires insulation of surfaces with temperature above 220 °C, which may be impinged upon as a result of 
+fuel system failure. For ships built after 1st July 1998 this also applies for system failure of lubricating oil, hydraulic oil and thermal oil. 
+
+ 
+
+3  Explosion in a Ballast Tank Causing Loss of Life 
+
+IMCA has received a report of an incident wherein during a repair job in a pre-load tank (ballast tank) onboard an oil rig at a 
+repair yard, an explosion occurred in the tank.  The oil rig was undergoing extensive repairs.   
+
+Repair workers using oxy-acetylene torches inside the pre-load tank, had shut the gas torch valves down and left the tank for 
+their break.  After their break, when they entered the tank again to continue the job, there was an explosion as soon as they 
+ignited the gas torch. 
+
+Two workers were seriously burned and hospitalized.  One of them subsequently died in hospital. 
+
+The most probable cause of the explosion was ignition of gas coming from the gas torch.  On investigation, it was found that 
+the valve on the gas torch was not tight, hence gas had accumulated inside the tank during the break, as there was no proper 
+ventilation of the tank. 
+
+The following lessons may be drawn from the incident: 
+
+  The  conditions  for  the  validity  of  the  issued  hot  work  certificate  may  change  quickly  during  a  work  shift  and  need 
+
+frequent follow-up; 
+
+  Continuous proper ventilation is vital for work carried out in any enclosed space.  In this case this would have avoided 
+
+or reduced the accumulation of gas causing the explosion; 
+
+  Gas equipment, including hoses, should be well maintained, so as to perform as desired; 
+
+  While  temporarily  leaving  a  work  place,  appropriate  precautions  should  be  taken.    In  this  case,  the  main  gas  cylinder 
+
+valves should have been closed and/or equipment removed from the tank. 
+
+4  Lost Anchor Chain 
+
+IMCA has received a report of a vessel losing one anchor and four lengths of chain cable during anchor handling.  During the 
+vessel’s previous dry docking, a number of chain cable lengths had been renewed on both port and starboard sides, including 
+a  number  of  Kenter  shackles  (joining  shackles)  as  found  necessary,  due  to  wastage  in  excess  of  allowable  limits.    The 
+remaining part of the anchor chain cable lengths and Kenter shackles were at that time found to be in satisfactory condition. 
+
+It was discovered on investigation that the probable cause of the damage was the fracture of a Kenter shackle that had not 
+been renewed in the previous dry dock. 
+
+Note  that  the  intricate  shape  of 
+the  various  parts  of  a  Kenter 
+shackle  means  that  large  forces 
+are transferred through relatively 
+small 
+areas.  Proper 
+design  and  well  machined  faces 
+and  corners  are  very  important 
+for the durability of such shackles. 
+
+contact 
+
+ 
+
+ 
+
+In the above case the failure may be attributed to mishandling  of the Kenter shackle during the opening/ fitting operation. 
+Since in most cases Kenter shackles on old anchor chains are rusty/frozen, and opening up and reassembly requires the use 
+of heating or mechanical force, cracks are likely to develop and should result in replacement rather than re-use. 
+
+The  lesson  to  be  learnt  from  this  incident  is,  when  a  chain  cable  length  is  replaced  due  to  wear  and  tear,  the  Kenter 
+shackle(s) are normally worn as well and should generally be replaced. 
+
+5  Near-Miss During Heavy Lift Operations 
+
+A member has reported a near-miss incident that occurred during a dual crane lift of a stinger being offloaded from a barge. 
+
+Two cranes were required to unload a stinger from a barge.  Since the lift was a multiple crane lift and more than 100 T, a 
+critical lift method statement (CLMS) was required prior to the lifting operation.  The HS&E supervisor was asked to inspect 
+
+Safety Flash 
+
+ 
+
+ 
+
+ 
+
+ 
+
+and arrange for sign-off of the CLMS checklist and verification sheet.  The HS&E supervisor then requested a control and 
+compliance verification as indicated in the CLMS.  After inspecting the area and verifying that everything appeared to be okay, 
+the rigging superintendent/crane operator signed-off on the CLMS and the lift commenced. 
+
+While the lift was in progress, the yard fabrication superintendent arrived and asked to review the CLMS.  A check with the 
+rigging superintendent revealed that the actual weights being lifted exceeded the weights listed on the CLMS and that, as a 
+result, the cranes were procedurally inappropriate for the lift, having inappropriate counterweights.  Subsequent to this, it 
+was discovered that no critical lift meeting had taken place prior to the lift, as required by procedures, and that the weight of 
+the stinger was incorrectly estimated as 140 T rather than 160 T. 
+
+The rigging superintendent then instructed the rigging supervisor and crane operator to manoeuvre each end of the boom 
+load  closer  to  acquire  and  maintain  the  proper  boom  angle  for  a  safe  lift.    The  lift  continued  until  completed  using  this 
+method. 
+
+The company involved has noted a number of key factors leading to this potential incident, including: 
+
+lack of judgment and improper examples set on the part of supervisor level staff; 
+
+inadequate review of work instructions, procedures and standards before the job; 
+
+improper loading of cranes. 
+
+The  company  has  reiterated  that  the  failure  to  follow  clearly  established  procedures  during  complex  heavy  lifts  has  the 
+potential for serious incidents to occur. 
+
+

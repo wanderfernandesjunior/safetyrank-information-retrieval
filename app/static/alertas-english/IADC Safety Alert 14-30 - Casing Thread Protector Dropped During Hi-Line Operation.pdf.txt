@@ -1,0 +1,67 @@
+Safety Alert 
+
+        From the International Association of Drilling Contractors 
+
+ 
+ALERT 14 – 30  
+ 
+
+CASING THREAD PROTECTOR DROPPED DURING HI-LINE OPERATION 
+
+ 
+WHAT HAPPENED: 
+ 
+Having already transferred 40 joints of casing with the Hi-line from the Drill Floor to the Main Deck, 
+another single joint of casing was in the process of being transferred to the Main Deck.   
+While being transferred, the thread protector (900 grams) for the pin end of the joint came loose and 
+dropped onto two cutting skips located 3 meters below.  No personnel were in the vicinity of the area 
+when the drop occurred. 
+ 
+
+ 
+
+ 
+
+ 
+ 
+WHAT CAUSED IT: 
+ 
+
+•  Lack  of  attention  by  the  person  in  charge  of  installing  the  casing  thread  protector  and  lack  of 
+supervision  by  the  supervisor.    The  Installer  did  not  ensure  that  the  thread  protector  was  properly 
+fitted and the supervisor failed to follow-up.  
+
+•  Procedure OMM-3-STD-062 “Casing Procedures”, does not give the proper procedure / safety check 
+
+•  The  JHA  did  not  state  the  need  to  inspect  the  casing  thread  protectors  to  ensure  that  they  were 
+
+for installing thread protectors. 
+
+properly installed. 
+
+ 
+CORRECTIVE ACTIONS:  To address this incident, this company did the following: 
+ 
+
+•  Revision of the Casing  Procedures (OMM-3-STD-062) under section 4.1 ‘Safety  Considerations’ to 
+state, “To avoid dropped objects, the pin / cap thread protector must be tightened correctly to avoid 
+dropped  objects  anytime  that  casing  is  hoisted.    Ensure  that  all  threads  are  made  up  and  that  the 
+correct size pin / cap thread protectors are being used.” 
+
+•  Supervisors  and  Hi-line  Operators  are  to  double  check  that  the  cap  /  pin  thread  protector  are 
+
+properly tightened / secured. This is to be highlighted on the JHA Worksheet HSM-2-JHA-023. 
+
+The Corrective Actions stated in this alert are one company’s attempts to address the incident, and do not 
+
+necessarily reflect the position of IADC or the IADC HSE Committee. 
+
+This material is presented for information purposes only.  Managers & Supervisors should evaluate this information to determine if it can 
+
+Copyright  2014 International Association of Drilling Contractors All rights reserved. 
+
+be applied to their own situations and practices 
+
+Issued November 2014 
+
+

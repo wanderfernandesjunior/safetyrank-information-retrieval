@@ -1,0 +1,171 @@
+AB
+
+ 
+
+IMCA Safety Flash 12/05 
+
+December 2005 
+
+These  flashes  summarise  key  safety  matters  and  incidents,  allowing  wider  dissemination  of  lessons  learned  from  them.    The  information  below  has  been 
+provided in good faith by members and should be reviewed individually by recipients, who will determine its relevance to their own operations. 
+
+The effectiveness of the IMCA safety flash system depends on receiving reports from members in order to pass on information and avoid repeat incidents.  
+Please consider adding the IMCA secretariat (imca@imca-int.com) to your internal distribution list for safety alerts and/or manually submitting information 
+on specific incidents you consider may be relevant.  All information will be anonymised or sanitised, as appropriate. 
+
+A  number  of  other  organisations  issue  safety  flashes  and  similar  documents  which  may  be  of  interest  to  IMCA  members.    Where  these  are  particularly 
+relevant, these may be summarised or highlighted here.  Links to known relevant websites are provided at www.imca-int.com/links   Additional links should 
+be submitted to webmaster@imca-int.com 
+
+ 
+
+1  Failure of High Pressure Fitting 
+
+A member has reported an incident wherein a half inch HP fitting failed at 200 bar.  Whilst no damage was sustained other 
+than to the fitting and the whip check and no injury was sustained, the incident is believed to have had the potential for more 
+serious consequences and was investigated as a high potential event. 
+
+A  dive  vessel  had  been  heading  for  port  after  completing  a  phase  of  work.    Both  diving  bells  had  been  surfaced  to  allow 
+access for maintenance work.  The gas from the bells had been reclaimed into storage in the gas hold of the vessel.  The dirty 
+reclaim tubes were full after this exercise, so it was decided to clean this gas for use later as a dive mix. 
+
+The on-shift life support supervisor (LSS) entered the gas hold to set up the gas supplies for cleaning, which included putting 
+the dirty gas tubes on-line to the cleaner at a supply pressure of 200 bar gauge.  Having opened the supply to the cleaner, he 
+was walking towards it when he heard a loud bang and a continuous rush of gas.  On turning round, he could see that the 
+supply hose from the dirty gas had blown off and gas was venting into the gas hold from the tubes.  He closed off the dirty 
+reclaim tubes and isolated the escaping gas. 
+
+On examination, it was noted that the Comex spin fitting that connected the gas whip to the supply manifold had blown off.  
+The  whip  was  undamaged.    There  was  clear  evidence  of  the  track  the  female  connection  had  made  across  the  male 
+connection as it parted.  On examination of the fitting to ascertain the cause of the failure, it was noted that the gas whip 
+fitting had blown off the supply connection. 
+
+Since there was no clear way of establishing if the other spin-fit fittings could be subjected to the same failure and since new 
+fittings  of  the same  type  were  not immediately  available,  the  only  safe course  of  action  was  to  temporarily  replace  all  the 
+Comex spin-fit connections on the gas supply lines with JIC fittings.  During the shift handover meetings immediately after the 
+incident, all personnel were reminded to check that HP fittings and whip check cords were in good condition and correctly 
+aligned. 
+
+It was concluded that the failure was likely caused by worn threads and daily use exerted on a 20-year old fitting that had 
+been subjected to stretch as a normal part of daily use.  It is believed the whip check cord failed due to the kinetic energy 
+generated as the fitting blew, coupled with the fact that the whip check was not fully extended against the whip and had some 
+slack in it.  Corrosion may also have been a contributory cause of the failure. 
+
+The root causes were identified as being that: 
+
+ 
+
+ 
+
+there had been no planned maintenance/inspection routine for checking wear on the Comex spin-fit fittings; 
+
+there had been uncertainty regarding how best to position whip check cords on the gas manifolds and how they should 
+be rated to ensure they could cope with the energy that may be exerted upon them. 
+
+The following conclusions were drawn by the company involved: 
+
+  Wear  on  the  male/female  thread  of  the  Comex  spin-fitting  had  been  allowed  to  occur  over  a  protracted  period 
+
+unchecked by any formal planned maintenance or inspection routines; 
+
+  Suitable replacement spin-fit fittings have been sourced and fitted on the gas manifolds in the gas hold and in saturation 
+control.  Planned maintenance instructions covering the inspection of the HP whips were revised to include inspection 
+and testing of spin-fit connectors; 
+
+ 
+
+It proposes that high pressure fittings which are subject to wear be changed out every five years; 
+
+Increased awareness is required on how to fit whip checks correctly and more information is required on what size whip 
+check to use on what application, i.e. diameter of hose and pressure within the hose both affect the amount of stored 
+energy that could be released. 
+
+ 
+
+ 
+
+2  Lifting Fatality 
+
+A  member  has  reported  a  fatality  during  crane  operations.    The  accident  occurred  alongside  in  port  during  the  hours  of 
+darkness.    A  vessel  was  engaged  in  lifting  operations  involving  the  use  of  a  mobile  crane  (positioned  on  the  quayside)  to 
+remove  a  deck  mounted  generator  and  to  load  a  replacement.    The  experienced  lifting  crew  had  been  trained  in  crane 
+operations and had worked together before. 
+
+The  generator  was  located  on  the  port  side  of  the  aft  deck  of  the  vessel.    Nevertheless,  because  of  the  presence  of 
+potentially fragile bulwark-mounted survey equipment on the port side of the vessel, she came alongside starboard side-to.  
+This meant that the crane operator had to extend the crane boom to 18m to complete the lift. 
+
+The deck mounted generator was successfully lifted off the vessel and placed on the quay.  The replacement generator was 
+then  connected  to  the  crane  and  the  second  lift  commenced.    The  two  generator  housings,  whilst  slightly  different  in 
+dimensions, were considerably different in weight, but this was not detected.  The first generator weighed 3.6T, whereas the 
+replacement unit weighed 4.9T.  The safe working load of the crane at 18m boom extension was between 2.35T and 2.85T.  
+Both lifts exceeded the safe working load of the crane. 
+
+Whilst attempting to position the replacement generator, the crane was required to ‘jib-out’.  As a result of the combined 
+boom extension and excessive load, the mobile crane’s outriggers lifted off the quayside.  This compromised the stability of 
+the  crane,  causing  the  load  to  move  unexpectedly  downwards  and  across  the  deck  simultaneously  at  considerable  speed.  
+The two tagline operators were unable to control this sudden movement.  One crane worker was unable to get clear in time 
+and  was  struck  by  the  load,  suffering  severe  crush  injuries  to  his  right  leg  and  torso.    He  was  transferred  immediately  to 
+hospital but was pronounced dead on arrival. 
+
+The company conducted an investigation into the accident, which reported the following causes: 
+
+  Failure to adhere to specific areas of the safety management system, in particular: 
+
+  The mobile crane had been working with a load over and above its safe working limits. 
+
+vessel mobilisation procedure 
+
+– 
+–  management of change procedure 
+– 
+– 
+
+risk assessment 
+supply chain management 
+
+  Company safety rules had not been followed 
+
+  There was also: 
+no lift plan 
+no documented toolbox talk 
+no identification/verification of the load weight 
+a lack of basic safety awareness 
+
+– 
+– 
+– 
+– 
+
+The company noted the following lessons learnt and recommendations, some of which have wider application: 
+
+  Safety management system procedures should be followed at all times. 
+
+  Efficient and effective supply chain management is particularly important for safety-critical suppliers  
+
+  Ensure lifting procedures are up to date and followed, including 
+
+lifting risk assessment 
+lift plans 
+lifting toolbox talks 
+lifting checklists 
+
+– 
+– 
+– 
+– 
+–  management of change procedures 
+
+  Re-assess roles and responsibilities of supervisory staff at mobilizations and during lifting operations 
+
+ 
+
+Identify through audit specialist lifting companies and establish an ‘approved vendors list’ for safety-critical suppliers. 
+
+ 
+
+Safety Flash 
+
+ 
+
+

@@ -1,0 +1,79 @@
+Safety Alert 
+
+        From the International Association of Drilling Contractors 
+
+ 
+ALERT 07 – 02 
+ 
+
+DRILLING WITH AIR, AERATED MUD OR FOAM 
+
+ 
+WHAT HAPPENED: 
+ 
+The  rig  was  drilling  with  foam  and  compressed  air  was  being  injected  at  the  standpipe  manifold  at 
+approximately 800psi.  After drilling the Kelly down, the driller contacted the third party air drilling vendor to 
+initiate the connection process.  The third party service hand diverted the air to the blow-down line but did not 
+close the supply valve to the standpipe manifold.  The driller pumped the required fluid volume to displace 
+the  pipe  with  fluid  to  the  BHA  check  valve.    The  lower  Kelly  valve  (LKV)  was  closed  and  the  connection 
+broken  off  in  the  rotary  table.  The  Kelly  was  made-up  to  the  mouse  hole  joint  and  the  rig  crewmember 
+opened  the  LKV.    Compressed  air  trapped  inside  the  Kelly  blew  down  through  the  mouse  hole  joint  and 
+came  out  through  the  top  of  the  mouse  hole.    The  crewmember  was  startled  by  the  incident  and  slipped 
+while moving away from the mouse hole, injuring his shoulder and arm.  
+ 
+WHAT CAUSED IT: 
+ 
+The  connection  procedure  was  not  followed  correctly.    The  procedure  called  for  the  compressed  air  to  be 
+bypassed through a bypass line and the supply valve to be closed.  The supply valve was left in the open 
+position and backpressure from the bypass line forced air into the Kelly.  
+ 
+Underlying Causes: 
+ 
+The  communication  between  the  drilling  contractor  and  third  party  air  vendor  was  not  sufficient.    The  JSA 
+was verbal and no written procedures for bleeding down the system and checking for trapped pressure were 
+in place.  
+ 
+CORRECTIVE ACTIONS:  To address this incident, this company did the following: 
+ 
+
+•  Written  procedures  for  making  connections  and  tripping  have  been  developed  and  posted  at  the 
+
+driller’s station. 
+
+ 
+
+ 
+
+•  An independent bleed off valve/line at the standpipe manifold will be installed and procedures shall 
+
+mandate this valve be opened prior to breaking the Kelly connection. 
+
+•  No  rig  shall  begin  air/foam  drilling  operations  until  the  Operations  Manager  has  reviewed  and 
+
+approved the specific rig up and operating procedures. 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+IADC Note:  See IADC HSE Reference Guide Section 18  
+ 
+
+The Corrective Actions stated in this alert are one company’s attempts to address the incident,  
+
+and do not necessarily reflect the position of IADC or the IADC HSE Committee. 
+
+This material is presented for information purposes only.  Managers & Supervisors should 
+
+evaluate this information to determine if it can be applied to their own situations and practices 
+
+Copyright © 2005 International Association of Drilling Contractors All rights reserved. 
+
+Issued January 2007 
+
+

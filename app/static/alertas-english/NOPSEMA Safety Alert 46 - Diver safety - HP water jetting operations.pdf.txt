@@ -1,0 +1,131 @@
+Safety Alert 46
+
+  
+
+ 
+
+Diver Safety – High Pressure Water Jetting Operations 
+
+What happened? 
+
+A saturation diver undertaking High Pressure (HP) Water Jetting Operations sustained a serious 
+injury when the retro diffuser tube became detached from the gun allowing the full force of the retro 
+jet to penetrate the diver’s arm. 
+
+This accident serves as a reminder of the risks to divers involved with using this type of equipment 
+and in particular those risks posed by the retro jet of underwater jetting guns. 
+
+What could go wrong? 
+
+HP water jetting equipment has been in use in the offshore petroleum and diving industries for 
+many years and a number of related incidents have occurred.  Many of these were caused by the 
+forward lance, however NOPSA is aware of at least two other incidents in which divers operating 
+this type of equipment have sustained injuries from the retro jet. 
+
+Whilst there are a number of types and designs of HP water jetting guns for underwater use, they 
+all employ a retro diffuser tube to balance the force of the forward jet.  Additionally, some guns 
+utilise a shroud which is positioned over the venturi inlet holes to reduce the likelihood of items 
+being drawn into the venturi water flow. 
+
+As this type of equipment requires the retro jet to be necessarily positioned close to the body of the 
+diver operating the gun, the retro diffuser tube is designed to protect the diver from the retro jet and 
+dissipate the energy by allowing surrounding seawater to enter through machined holes in the retro 
+diffuser tube.  The retro diffuser tube should be designed such that the exit wash from the tube is 
+no longer of a velocity that can cause harm to the diver or equipment (umbilicals for example). 
+
+Underwater HP water jetting guns are subjected to a number of dynamic forces which act on safety 
+critical components including the retro tube.  The retro diffuser tube is the only control barrier 
+protecting the diver operating the gun from the retro jet, therefore great care is required to ensure 
+this barrier is appropriately designed, tested and is functioning correctly. 
+
+Injuries caused by HP water jets are typically serious with high risk of infection due to injection of 
+debris and other water borne contaminants.  This is a particular consideration for divers in 
+saturation who will have to complete lengthy decompression before they have full access to 
+medical intervention.  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+A164934      11 April 2011 
+
+Page 1 of 2 
+
+nopsa.gov.au
+
+Safety Alert 46
+
+  
+
+ 
+
+Diver Safety – High Pressure Water Jetting Operations 
+
+ 
+
+Key Lessons: 
+
+Prior to using HP water jetting equipment NOPSA strongly recommends thorough checks are 
+carried out by competent persons to ensure that the associated risks are reduced to a level that is 
+as low as reasonably practicable. 
+
+Whilst not a complete list, those considering use of such equipment should ensure that: 
+
+  The manufacturer’s operating instructions and recommendations are detailed within 
+
+documentation that is held on site with the equipment; 
+
+  The equipment is assembled and used in accordance with the manufacturer’s operating 
+
+instructions and recommendations; 
+
+  The design of equipment used is appropriate for the intended use and has been rigorously 
+
+tested and proven before use; 
+
+  All components, including the retro diffuser tube and venturi shroud (if fitted) are correctly 
+
+assembled and secured in accordance with manufacturer’s instructions; 
+
+  The equipment is inspected, tested and maintained in accordance with the manufacturer’s 
+
+instructions, supplemented with regular inspections to check for signs of: 
+
+  physical damage and wear; and 
+
+  erosion, especially on the inner wall of retro tube and around the venturi holes.  (Grit 
+and other debris resulting from the activity can be entrained into the retro tube via the 
+venturi holes, giving rise to erosion potential). 
+
+Operators of facilities are reminded that they have a duty to take all reasonably practicable steps to 
+provide and maintain equipment that is safe and without risk to health. 
+
+Diving contractors are similarly reminded that they have the responsibility to take all necessary 
+steps to provide and maintain equipment that reduces risks to the safety and health of divers to as 
+low as reasonably practicable.  
+
+Contact 
+
+For further information email alerts@nopsa.gov.au and quote Alert 46. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+A164934      11 April 2011 
+
+Page 2 of 2 
+
+nopsa.gov.au
+
+

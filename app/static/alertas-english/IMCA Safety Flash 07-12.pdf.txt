@@ -1,0 +1,235 @@
+AB 
+
+ 
+
+IMCA Safety Flash 07/12 
+
+Safety Flash 
+
+  July 2012 
+
+These  flashes  summarise  key  safety  matters  and  incidents,  allowing  wider  dissemination  of  lessons  learnt  from  them.    The  information  below  has  been 
+provided in good faith by members and should be reviewed individually by recipients, who will determine its relevance to their own operations. 
+
+The effectiveness of the IMCA safety flash system depends on receiving reports from members in order to pass on information and avoid repeat incidents.  
+Please consider adding the IMCA secretariat (imca@imca-int.com) to your internal distribution list for safety alerts and/or manually submitting information 
+on specific incidents you consider may be relevant.  All information will be anonymised or sanitised, as appropriate. 
+
+A  number  of  other  organisations  issue  safety  flashes  and  similar  documents  which may  be  of  interest  to  IMCA  members.   Where  these  are  particularly 
+relevant, these may be summarised or highlighted here.  Links to known relevant websites are provided at www.imca-int.com/links   Additional links should 
+be submitted to webmaster@imca-int.com 
+
+ 
+
+1  LTI – Incident with Circular Saw Leads to Loss of Thumb    
+
+A member has reported an incident in which a crewman cut off the top of his thumb and his middle finger whilst working 
+with  a  circular  table  top  bench  saw.  The  incident  occurred  when  the  crewman  was  cutting  5mm  thick  plywood  with  the 
+circular saw in order to make shelving for other plywood pieces. The plywood was laid flat on the bench with the injured 
+persons’ hands laid flat on top of the plywood, but the plywood snagged and dragged the crewman's right hand towards the 
+spinning blade. The injured person was medivaced ashore by helicopter in a timely manner after immediate first aid onboard 
+had been administered. The surgeons at the local hospital managed to reattach the middle finger but the top of the thumb 
+was lost.  
+
+An investigation revealed the following: 
+
+♦  No risk assessment had been conducted for the operation; 
+
+♦  The  equipment  was  incorrectly  set  up  and  incorrectly  operated  by  the  injured  person,  though  he  stated  that  he  was 
+
+familiar with the operation of the equipment; 
+
+♦  The bench saw was supplied on board with the necessary safety equipment and full instructions for its safe operation.  
+These instructions included reference to the use of the safety guard, a special tool for pushing the wood through, and 
+the  requirement  to  set  the  cutting  blade  to  the  correct  level  in  accordance  with  the  thickness  of  the  wood  that  was 
+being cut;  
+
+♦  The instruction manual appeared not to have been available at the workplace and the safety requirements for the safe 
+
+operation of the saw were either not fully understood or were disregarded; 
+
+♦  There was no guard fitted to the circular saw blade. 
+
+Unguarded bench saw 
+
+ 
+
+ 
+
+The following lessons were learnt:  
+
+♦  All  power  tools  have  the  potential  to  cause  serious  injury  if  they  are  operated  incorrectly  and  without  the 
+
+manufacturers’ approved and fitted safety devices; 
+
+♦  A  risk  assessment  must  be  completed  and  filed  prior  to  using  any  power  tool.    The  assessment  must  take  into 
+
+consideration the following: 
+– 
+– 
+– 
+
+the competence of the persons using the equipment 
+the condition of the equipment being used 
+the  provision  and  proper  functioning  of  adequate  safety  guards  and  cut-out  devices  such  as  emergency  stops  and 
+barriers 
+general working environmental conditions such as lighting 
+availability and condition of any personal protective equipment; 
+
+– 
+– 
+
+♦  Guards must always be fitted to equipment when designed to have them in place during operations; 
+
+♦  Power equipment should be operated in accordance with the procedures and rules set  for their safe use; 
+
+♦  Full training, manuals and instructions should be available, and manuals and instructions should always be read and fully 
+
+understood by even experienced operators; 
+
+♦  Complacency is a serious issue to be guarded against, especially in experienced personnel. 
+
+Members are also referred to IMCA safety promotional material: 
+
+♦ 
+
+♦ 
+
+IMCA SPC 08 – Watch your hands: you’ve only got one set; 
+
+IMCA SPP 08 – Use tools and equipment properly. 
+
+2  Small Fire and Minor Injury during Gas Cutting  
+
+A  member  has  reported  an  incident  in  which  a  small  fire  caused  a  minor  injury  during  the  use  of  oxyacetylene  cutting 
+equipment. The incident occurred when a welder was using the equipment to cut a piece of steel plate on the deck of the 
+vessel.    When the oxygen ran out the welder attached the regulator to  a full bottle of oxygen.   On reigniting the  gas the 
+oxygen failed to reach the flame.  As the welder was attempting to diagnose the fault, the oxygen hose detached from the 
+burner.  There was a fire which burned through the leg of his overall and burned his thigh.  
+
+The  fire  watcher  reacted  promptly  and  switched  off  the  gases  at  the  bottles.  This  action  quickly  extinguished  the  fire  and 
+prevented  any  escalation.  The  welder  was  taken  to  a  local  hospital  where  his  injuries  were  found  to  be  minor  and  after 
+treatment he was allowed back to work.  His injuries could easily have been more serious. 
+
+An investigation revealed the following: 
+
+♦  The gas hoses were attached to the burner at check valves with crimped fittings; 
+
+♦  The oxygen check valve was damaged by the effects of the fire;  
+
+♦  The acetylene check valve was still connected to the hose.  When the hose was removed it was found to have a deep 
+score across the fitting (see image below).  The damage was consistent with the blade of a hacksaw.  It appears to have 
+been caused when the hoses were being re-terminated.  It was assumed that the oxygen fitting had similar damage which 
+had added to the likelihood of its failure causing the gas release and fire; 
+
+♦  The equipment had been inspected and passed  as fit for use by an external agency three weeks prior to the accident.  
+
+The equipment was only inspected visually and the hoses were not removed to examine the fittings;  
+
+♦  The  welder  was  wearing  standard  coveralls  which  were  not  sufficient  to  withstand  the  effects  of  the  fire.    He  was 
+
+wearing nylon jogging trousers under his coveralls which melted and added to his injuries. 
+
+ 
+
+ 
+
+Damaged acetylene fitting 
+
+ 
+
+It was noted that there was no specific procedure for the connection of regulators to gas bottles, maintenance of the cutting 
+equipment or for the re-termination of the hoses. The following actions were taken: 
+
+♦  The burning equipment was replaced;  
+
+♦ 
+
+Instructions were included so that when re-termination takes place, the check valve fittings should be replaced with new 
+fitting; 
+
+♦  Welders are now required to wear protective overalls appropriate to their work and additional training for welders was 
+
+provided.    
+
+3  Two Recent Cases of Hand and Arm Injuries 
+
+The Marine Safety Forum (MSF) has published two recent safety flashes regarding incidents in which personnel have injured 
+their hands or arms. 
+
+In the first incident, a crewman cut the palm of his hand on a sharp edge found on a door finishing strip. On investigation of 
+the door in question an unexpected razor sharp steel burr (ragged edge) was discovered. This was most likely caused by the 
+cutting process of the steel during the manufacture of the door.  Other similar doors onboard were checked  and some of 
+these also had the same sharp edge.  
+
+The report can be downloaded from www.marinesafetyforum.org/upload-files//safetyalerts/msf-safety-flash-12.25.pdf 
+
+In the second incident, which occurred during mooring operations, a crewman got his hand trapped between the mooring 
+line and a roller fairlead on deck. As his hand was dragged around the fairlead his arm was twisted and fractured.  
+
+The report can be downloaded from www.marinesafetyforum.org/upload-files//safetyalerts/msf-safety-flash-12.26.pdf 
+
+Members are reminded to encourage personnel to look after their hands and arms. IMCA produces a range of pocket safety 
+cards covering aspects of hand and arm safety: 
+
+♦ 
+
+♦ 
+
+♦ 
+
+♦ 
+
+♦ 
+
+IMCA SPC 08 – Watch your hands: you’ve only got one set; 
+
+IMCA SPP 09 – Watch out for pinch points; 
+
+IMCA SPC 11 – Stay safe at the wheel - Cutting and grinding safety; 
+
+IMCA SPC 16 – Caught between and pinch points: What you should know; 
+
+IMCA SPC 17 – Hand-arm vibration: Control the risks. 
+
+ 
+4  Confined Space Entry Fatality 
+
+The Accident Investigation Board of Norway (AIBN) has published the following safety flash regarding a confined space entry 
+fatality  on  board  a  vessel,  in  which  a  crew  member  died  during  cargo  tank  cleaning  work.  The  incident  occurred  when  a 
+crewman entered the cargo tank without breathing apparatus to retrieve a cargo sampling device.  The crewman collapsed 
+inside the tank. He was rescued, but, despite efforts to save his life, he was later declared dead. 
+
+The investigation undertaken by the AIBN noted the following points: 
+
+♦  The crewman died as a result of oxygen deprivation. At the time of the accident, the oxygen content of the atmosphere 
+
+at the bottom of the tank was probably less than 7.2%. The nitrogen content was probably over 90%; 
+
+♦  The crewman was experienced and familiar with the risks involved in entering the tank, and probably thought he could 
+‘get  away  with  it’  and  be  able  to  climb  down  the  ladder,  retrieve  the  equipment  and  climb  back  up  again  without  an 
+oxygen supply; 
+
+♦  The cause of the fatality was probably not due to a lack of knowledge, but a lack of motivation in relation to complying 
+
+with the procedures in the management system; 
+
+♦  Non-compliance with company confined space entry procedures was found to be more widespread on the vessel than 
+
+just the crewman who died. 
+
+The report can be downloaded from www.aibn.no/Sjofart/Rapporter/2012-07-eng 
+
+5  Fall Fatality during Platform Abandonment 
+
+The  US  Department  of  the  Interior  Bureau  of  Safety  and  Environmental  Enforcement  (BSEE)  Gulf  of  Mexico  outer 
+continental shelf (OCS) region has published the following safety flash regarding an incident in which an offshore employee 
+was  fatally  injured  while  assisting  in  plugging  and  abandonment  of  a  well  and  decommissioning  a  production  platform.  The 
+incident occurred at night; the worker, working at the top of the well, was dragged by a load into an exposed well-access 
+opening in the deck, and fell to his death.  
+
+Further information is available from http://www.bsee.gov/uploadedFiles/BSEE/Regulations/Safety_Alerts/SA-301.pdf 
+
+ 
+
+

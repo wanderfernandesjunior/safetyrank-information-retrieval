@@ -1,0 +1,73 @@
+Safety Alert 
+
+        From the International Association of Drilling Contractors 
+
+ 
+ALERT 14 – 12  
+ 
+
+EQUIPMENT SHIFT DURING RIG UP RESULTS IN NEAR MISS 
+
+ 
+WHAT HAPPENED: 
+ 
+While attempting to install center steel (spreader beam) during rig up on a box-on-box substructure, the top 
+of the boxes moved away from each other as a crane attempted to adjust a sub half for pin placement.  The 
+BOP scaffold, which had been put in place prior to pinning the center steel, was pulled off its track and fell 
+approximately 12 feet (3.7 meters).  Two employees were standing at one end  of the scaffold.  They  were 
+wearing  their  fall  protection  harness  and  lanyard  and  were  tied  off  above  their  heads  to  the  substructure.  
+The equipment worked as intended; no injuries occurred. 
+ 
+
+WHAT CAUSED IT: 
+ 
+•  While being hoisted, one side of the substructure moved up and out enough to break the scaffold rollers 
+
+and track stops, allowing it to fall to the ground. 
+
+•  Rolling Scaffold - The scaffold was placed in position prior to securing the substructure halves.  
+•  Center  Steel  Placement  –  Rig  specific  guidelines  and  /  or  JSA-Work  Plan  for  placing  center  steel  to 
+
+secure the substructure halves were either not known or not utilized.  
+
+•  Multiple Components – Once erected, several brace components can be removed as one piece; to save 
+time the crews decided to install them as one piece, rather than breaking them down and installing them 
+separately. 
+
+•  Drillers  and  Crews  –  The  crew  members  did  not  recognize  the  hazard  of  placing  the  scaffold  in  the 
+
+substructure prior to installing adequate center steel. 
+
+ 
+
+CORRECTIVE ACTIONS:  To address this incident, this company did the following: 
+ 
+•  The  company  reminded  all  personnel  that  the  rolling  scaffold  is  NOT  to  be  placed  in  the  substructure 
+until the Rig Manager verifies that an adequate amount of center steel is pinned into place to keep the 
+sub from separating. NO exception without up-line approval. 
+
+•  Rig  Managers  and  Superintendents  were  instructed  that  they  shall  take  steps  to  identify  rig  specific 
+procedures  for  placing  and  pinning  center  steel  and  communicate  these  steps  to  rig  move  companies, 
+Drillers, and crews PRIOR to rig up. JSA / Work Plans shall include this information. 
+
+•  The  company  reminded  all  Rig  Managers  that  unless  approved  by  an  up-line  Drilling  Superintendent, 
+brace components shall be separated PRIOR to rig up; considerations should be given to separation of 
+the components during the rig down procedure. 
+
+•  The company instructed the Drilling Superintendent and Rig Manager that they shall be responsible for 
+ensuring  that  these  minimum  requirements  are  adequately  communicated  to  all  new  Drillers  to  the  rig 
+and / or rig type. 
+
+The Corrective Actions stated in this alert are one company’s attempts to address the incident,  
+
+and do not necessarily reflect the position of IADC or the IADC HSE Committee. 
+
+This material is presented for information purposes only.  Managers & Supervisors should 
+
+evaluate this information to determine if it can be applied to their own situations and practices 
+
+Copyright  2014 International Association of Drilling Contractors All rights reserved. 
+
+Issued April 2014 
+
+

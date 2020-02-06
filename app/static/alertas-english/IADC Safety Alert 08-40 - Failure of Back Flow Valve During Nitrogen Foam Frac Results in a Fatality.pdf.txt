@@ -1,0 +1,67 @@
+Safety Alert 
+
+        From the International Association of Drilling Contractors 
+
+ 
+ALERT 08 – 40 
+ 
+
+FAILURE OF BACK FLOW VALVE DURING NITROGEN 
+
+FOAM FRAC RESULTS IN A FATALITY 
+
+ 
+WHAT HAPPENED: 
+ 
+A fatality occurred when a service company was performing a two stage nitrogen foam frac treatment.  The 
+rig-up required four nitrogen pumps manifolded together.  In the process of beginning the second stage,  a 
+nitrogen pump failed to maintain prime on the boost pump.  While attempting to regain prime, gas from the 
+remaining pumps back-flowed into the nitrogen pump’s storage vessel.  The relief system on the vessel was 
+not capable of venting the volume of gas entering the vessel resulting in a catastrophic failure due to over-
+pressurization. 
+ 
+
+WHAT CAUSED IT: 
+ 
+•  A high pressure dart style check valve in the gas discharge line was modified for other than its intended 
+
+use and did not prevent the back-flow of gas from three trucks online   
+
+•  The pre-operation job site pressure test procedure utilized did not ensure integrity of the dart style check 
+
+valve. 
+
+ 
+
+CORRECTIVE ACTIONS:  To address this incident, this company instructed frac personnel on the 
+following: 
+ 
+•  Ensure  only  engineered  and  inspected  high  pressure  components  are  utilized  for  pressure  pumping 
+
+operations.  
+
+•  Ensure equipment is in proper working condition prior to dispatching to job site.  
+• 
+•  Ensure pre-job pressure test procedure verifies the integrity of check valves.  
+
+Install redundant dart style check valve in gas discharge line.  
+
+ 
+
+Post Incident – Storage Vessel Missing From Nitrogen Unit 
+
+ 
+
+The Corrective Actions stated in this alert are one company’s attempts to address the incident,  
+
+and do not necessarily reflect the position of IADC or the IADC HSE Committee. 
+
+This material is presented for information purposes only.  Managers & Supervisors should 
+
+evaluate this information to determine if it can be applied to their own situations and practices 
+
+Copyright © 2005 International Association of Drilling Contractors All rights reserved. 
+
+Issued November 2008 
+
+

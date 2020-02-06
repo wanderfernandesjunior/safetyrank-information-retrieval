@@ -1,0 +1,83 @@
+Safety Alert 
+
+        From the International Association of Drilling Contractors 
+
+ 
+ALERT 14 – 04 
+ 
+
+BLOCKS FALL TO RIG FLOOR AFTER DRILL LINE CAME OFF OF THE  
+
+DRAWWORKS 
+
+ 
+WHAT HAPPENED: 
+ 
+While rigging down the bridle assembly, the Driller was slacking off on the blocks in an attempt to lower the 
+blocks and the bridle equalizer to the rig floor.  In the process, the drilling line “dog knot” was pulled from the 
+drum.  This allowed the blocks to free-fall approximately 20 feet (6 meters), striking the rig floor.  During the 
+free-fall, the “dog knot” was hung up in the braces and the fast line sheave, keeping the blocks from falling 
+completely onto the floor.  Fortunately there were no injuries. 
+ 
+
+WHAT CAUSED IT: 
+ 
+
+•  The drill line came off the drawworks drum, pulling the “dog knot” free. 
+•  The JSA / Work Plan for rigging up the drill line / drawworks did not address specific requirements for the  
+minimum number of wraps on the drum at all phases of operation; the information was available in the 
+top dog house. 
+
+•  The crew failed to assemble an adequate amount of drilling line wraps on the drum to allow the blocks to 
+
+reach the floor. 
+
+•  The Driller and Rig Manager did not inspect the drum to ensure that the required number of wraps were 
+
+placed on the drum prior to commencing the operations.     
+
+•  The Driller did not pay attention to the drum while lowering the blocks to the drill floor. 
+ 
+
+CORRECTIVE ACTIONS:  To address this incident, this company did the following: 
+ 
+•  The company revised the JSA / Work Plan for rigging up the drill line for all phases of operations to 
+
+include a reminder to verify the number of wraps before commencing operations, and communicated to 
+all crew members; the information shall be readily accessible in the top dog house. 
+
+•  The crew was reminded of their responsibility in verifying the number of wraps on the drum when rigging 
+
+up and / or slipping drill line. 
+
+•  The company instructed the Rig Manager to verify that the correct number of wraps were on the drum.  
+They were also instructed to verify the correct number with the rig specific requirement and agree that 
+the drill line wraps are adequate prior to commencing hoisting operations with the drawworks. 
+
+•  The Drillers were reminded of their responsibility to watch the drum as the blocks are lowered to make 
+
+sure the line does not spool off the drum. 
+
+•  Additionally, the company suggested that a sign be placed in a conspicuous place (drawworks or other 
+
+visible area) reminding the Driller and crew to check the number of wraps on the drum: 
+
+o  Before Raising/Lowering the Mast 
+o  After Rig Up and Before Lowering the Block to the Floor 
+o  After Picking Up the Top Drive 
+o  Before Laying Down the Top Drive 
+o  After Cut and Slip 
+
+The Corrective Actions stated in this alert are one company’s attempts to address the incident,  
+
+and do not necessarily reflect the position of IADC or the IADC HSE Committee. 
+
+This material is presented for information purposes only.  Managers & Supervisors should 
+
+evaluate this information to determine if it can be applied to their own situations and practices 
+
+Copyright  2014 International Association of Drilling Contractors All rights reserved. 
+
+Issued February 2014 
+
+

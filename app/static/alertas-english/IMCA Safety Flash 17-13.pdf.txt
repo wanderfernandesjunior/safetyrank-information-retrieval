@@ -1,0 +1,190 @@
+AB 
+
+ 
+
+IMCA Safety Flash 17/13 
+
+Safety Flash 
+
+ November 2013 
+
+These  flashes  summarise  key  safety  matters  and  incidents,  allowing  wider  dissemination  of  lessons  learnt  from  them.    The  information  below  has  been 
+provided in good faith by members and should be reviewed individually by recipients, who will determine its relevance to their own operations. 
+
+The effectiveness of the IMCA safety flash system depends on receiving reports from members in order to pass on information and avoid repeat incidents.  
+Please consider adding the IMCA secretariat (imca@imca-int.com) to your internal distribution list for safety alerts and/or manually submitting information 
+on specific incidents you consider may be relevant.  All information will be anonymised or sanitised, as appropriate. 
+
+A  number  of  other  organisations  issue  safety  flashes  and  similar  documents  which may  be  of  interest  to  IMCA  members.   Where  these  are  particularly 
+relevant, these may be summarised or highlighted here.  Links to known relevant websites are provided at www.imca-int.com/links   Additional links should 
+be submitted to webmaster@imca-int.com 
+
+ 
+
+1  High Potential Dropped Object 
+
+A member has reported an incident in which  a heavy steel bar fell 10m onto the deck. The incident occurred during ROV 
+deployment, when a round steel bar weighing approximately 20 kg became detached from above the cursor frame umbilical 
+drum mechanism and fell approximately 10m onto the deck (moonpool doors). The object fell and struck the deck and then 
+rolled  under  the  ROV  transfer  plinth.  There  were no  injuries  or  damaged  caused,  though  at  the  time  one  member  of  the 
+ROV deployment crew was standing in the moonpool area approximately 2-3m away from the point of impact and the ROV 
+was approximately 1.5m off the deck. 
+
+The ROV launch operation was immediately stopped, the  ROV was lowered back to deck, the item recovered, operations 
+were suspended and investigations began.  
+
+ROV umbilical 
+
+Steel bar that fell 
+
+Securing mechanism 
+
+ 
+
+Figure: Showing ROV umbilical winch drum from which steel bar fell 
+
+Figure: Looking to the top of the ROV hangar at the cursor and cursor winch 
+
+ 
+
+ 
+Our members’ investigation revealed the following: 
+
+  The  steel  bar  was  identified  as  having  come  from  above  the  cursor  frame  umbilical  drum.  It  was  used  to  stop  the 
+
+umbilical jumping on the drum;  
+
+  During a maintenance period (5 months prior to this incident), to upgrade parts of the existing ROV launch & recovery 
+system, the manufacturer had fitted a guide above the drum as an improvement to the  incumbent system. The function 
+of this steel bar was to stop the umbilical jumping and fouling; 
+
+  The cause of the incident was found to be: three separate steel bars were fitted to a holding  guide frame  and held  in 
+place with bolts at each end. The ROV umbilical on the drum was rubbing against the guide causing the bolts to loosen 
+over a 5 month period. This was due to there being insufficient clearance between the round steel bar and the umbilical 
+when on the cursor drum. 
+
+Our member made the following recommendations:   
+
+  Weekly inspection checks on the steel bar guides, inspection interval to be reviewed, confirmed and included in planned 
+
+maintenance system;  
+
+ 
+
+Inspection to include confirming a minimum of 5mm clearance between the guide bar and umbilical; 
+
+  Ensure that the securing bolts are tight and torqued on all guide bars; 
+
+  A  secondary  securing  device  to  be  fitted  to  the  round  bars  and  this  to  be  inspected  during  the  planned  inspection. 
+
+Remedial hold back on all three guide bars as a temporary measure put in place;  
+
+  All  future  alterations  in  plant  and  equipment  plant  to  be  suitably  communicated,  risk  assessed  and  a  management  of 
+
+change exercise conducted with all the interested parties;  
+
+  Onboard inspection of work areas to identify potential dropped objects with particular reference to the following areas: 
+
+-  Below lifting operations; 
+-  Cranes; 
+-  Elevated work areas or platforms; 
+-  Work spaces where equipment is mounted overhead. 
+
+Members may wish to make use of additional IMCA resources as follows: 
+
+ 
+
+IMCA SPC 12 - Avoiding Dropped Objects. 
+
+2  Small  Workboats  Used  on  Offshore  Wind  Farms:  Combined  Report  on  Windcat  9  &  Island 
+
+Panther Incidents     
+
+The  UK  Marine  Accident  Investigation  Branch  (MAIB)  has  published  a  combined  report  on  two  incidents  involving  small 
+workboats in the offshore renewables sector.  The first incident is a contact with a floating target by the wind farm passenger 
+transfer catamaran Windcat 9; the second, the contact of Island Panther with a wind turbine tower.  
+
+It  is  worth  quoting  the  UK  Chief  Inspector  of  Marine  Accidents  from  the  foreword  of  the  document:  “The  two  accidents 
+featured  in  this  report  occurred  on  the  same  day  but  in  different  circumstances.  However,  they  share  many  common  safety  issues 
+especially with respect to the standard of watch-keeping observed by the crews of both vessels. In particular, the MAIB’s investigations 
+have highlighted a need for robust crew recruitment, training and assessment procedures to ensure the supply of mariners with the right 
+skills.  Flexible  but  rigorous  watch-keeping  practices  are  necessary  together  with  recognition  by  the  industry  and  regulator  that  the 
+reliance on paper charts to navigate high-speed passenger transfer vessels is impractical and does not reflect the current custom of the 
+trade. 
+
+Perhaps the most noteworthy outcomes of the two investigations is the conclusion that there is a compelling need  for the burgeoning 
+offshore  renewable  energy  industry  to  produce  a  comprehensive  best  practice  guide  for  operators  of  workboats  and  to  develop  an 
+effective  means  for  promulgating  safety  lessons  across  the  industry.  Recommendations  have  been  made  to  industry  stakeholders  to 
+progress these two aims in a collaborative way.  
+
+There is an opportunity for the offshore renewable energy industry to establish, at an early stage of its development, a shared safety 
+culture which, if the opportunity is taken, will undoubtedly prevent accidents and save lives in the future.” 
+
+The report can be downloaded from: 
+www.maib.gov.uk/publications/investigation_reports/2013/windcat_9_and_island_panther_combined_report.cfm  
+
+ 
+3  Pilot Ladder Safety 
+
+Incident 1 – Pilot Ladders 
+
+The  Oil  Companies  International  Marine  Forum  (OCIMF)  has  circulated  the  following  safety  flash,  regarding  pilot  ladder 
+safety:  
+
+An inspector was boarding a 1.5 year old ship via a pilot ladder, used in combination with the accommodation ladder. As the 
+inspector was half way up the ladder, one of the side ropes parted leaving the inspector on the ladder with only one rope.  
+Fortunately,  the  other  side  rope  held  and  the  inspector  went  back  down  to  the  launch  and  boarded  the  ship  after  a  new 
+ladder was deployed. 
+
+Upon boarding the ship, the inspector checked the damaged ladder and reported that, while the ladder generally appeared to 
+be in good condition, the rope had parted at the upper end where an eye was formed around a thimble to allow for securing 
+the ladder. 
+
+The  rope  around  the  thimble  was  covered  with  (heat  shrunk)  plastic,  which  did  not  allow  that  part  of  the  rope  to  be 
+inspected before use.  
+
+As it turned out, the rope under the plastic covering was completely rotten. 
+
+Incident 2 – A near miss with Embarkation Ladders 
+
+A near miss report on a ship outlined that, as part of the safety routines on board, the master inspected the ship’s lifeboat 
+embarkation  ladders,  and  noted  that  the  thimble  eye  by  which  the  ladder  secured  to  the  deck  had  been  covered  in  heat 
+shrunk plastic.  
+
+The Master did not approve of this, and asked for these coverings to be removed and the rope inspected. 
+
+The covering was removed and, upon inspection, it was noted that the rope was rotten underneath.   
+
+Considering that the rope was only about two years old, this deterioration would not have been noted, nor expected, and 
+could have resulted in a serious accident or fatality with worse consequences if the ladder were to be used in an emergency. 
+
+These incidents highlight the importance of regularly inspecting every part of all ropes that are deployed on board, whether 
+for safety equipment or for mooring operations. 
+
+ 
+
+ 
+
+Figure: showing plastic covering under which the rope was rotten 
+
+ 
+
+ 
+4  LTI - Pilot Ladder Failure 
+
+The  Marine  Safety  Forum  has  published  the  following  safety  flash,  regarding  an  incident  in  which  both  ropes  on  a  ladder 
+parted simultaneously, causing the pilot to fall approximately two metres to the deck of the launch. The pilot sustained a lost 
+time injury to his ankle.   
+
+The safety flash can be downloaded from www.marinesafetyforum.org/upload-files//safetyalerts/msf-safety-flash-13.34.pdf  
+
+5  Near Miss: Fast Rescue Craft Unplanned Descent  
+
+The Australian National Offshore Petroleum Safety and Environmental Management Authority (NOPSEMA) has published the 
+following  safety  flash,  regarding  an  unplanned  descent  (from  23m)  of  a  fast  rescue  craft  from  its  davit,  whilst  crew  were 
+onboard. There were no injuries or damage to equipment.  
+
+The  safety  flash  can  be  downloaded  from  www.nopsema.gov.au/assets/alert/Safety-Alert-57-Fast-Rescue-Craft-unplanned-
+descent-Aug-2013.pdf 
+
+

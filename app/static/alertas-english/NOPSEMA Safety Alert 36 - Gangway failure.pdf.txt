@@ -1,0 +1,86 @@
+SAFETY ALERT 36
+
+NATIONAL OFFSHORE PETROLEUM SAFETY AUTHORITY
+
+Gangway Failure
+
+What happened?
+
+A purpose-built project modular gangway for jacket access from a construction 
+barge parted at the jacket end and fell into the sea. To allow for movement of the 
+construction barge, the gangway had a roller support at the barge end and was 
+supported by a gimbaled joint at the platform jacket end. The failure occurred in 
+the vertical pin of the gimbaled joint.
+
+Investigation determined that a weld around the centre of the pin was omitted 
+during the fabrication process, which would have increased the stress levels in 
+the pin. It was further determined that the incorrect grade of steel for the pin was 
+ordered, although the yield stress of the steel was as specified in the design.
+
+Although slings and chains were placed on the gangway and connected to the 
+landing platform they were too long to prevent the gangway from dislodging from 
+the landing platform, and were of insufficient strength to withstand the impact 
+loads and prevent the gangway from falling into the sea.
+
+Purely by chance no personnel were transiting across the gangway at the time of 
+the incident and there were no injuries to personnel working in the vicinity.
+
+Had personnel been on the walkway when the jacket end fell some ten metres
+into the sea there could have been multiple fatalities and/or serious injuries.
+
+The failed gimbal pin
+
+   The gangway collapsed into the sea
+
+Key Lessons
+
+1.
+
+Fabrication yard quality assurance must include a thorough inspection to 
+ensure that the design and specification have been met.  These need to 
+include checks that all specified welds have been made, not just Non-
+Destructive Testing (NDT) of the welds that have been made, and that mill 
+certificates for the steel used matches the grade that was specified, not just 
+in relation to yield stress.
+
+Page 1 of 1
+
+SAFETY ALERT 36
+
+NATIONAL OFFSHORE PETROLEUM SAFETY AUTHORITY
+
+Gangway Failure
+
+2.
+
+3.
+
+(i)
+
+Secondary fall protection arrangements must be properly engineered and 
+specified in the installation, operation and maintenance procedures for 
+gangways.
+
+These operation and maintenance procedures also need to provide for 
+close visual inspection at least once per shift when the gangway is in use.
+
+Who is responsible?
+
+The operator of an offshore facility has general duties of care under the 
+Offshore Petroleum and Greenhouse Gas Storage Act 2006 to ensure that 
+all work and other activities are safe, and that the risk to people is as low as 
+reasonably practicable. Specifically, the operator must implement and 
+maintain a safe system of work for any plant and equipment.
+
+(ii) Any titleholder and service contractor who is in control of any part of a 
+
+facility or particular work carried out at a facility has similar duties to the 
+operator for that part of the facility or that particular activity.
+
+Contact
+
+For further information, email alerts@nopsa.gov.au and quote Alert number 36.
+
+Page 2 of 2
+
+

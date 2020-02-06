@@ -1,0 +1,359 @@
+Safety Alert No. 317 
+ 
+12 June 2015 
+ 
+ 
+
+Operations contact: Jason Mathews (504) 731-1496 
+ 
+ 
+SEMS policy contact: Stan Kaczmarek (703) 787-1612 
+
+ 
+
+CATASTROPHIC INCIDENT AVOIDED
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+Failure to communicate hazards and to provide adequate management oversight during a 
+ 
+
+ 
+
+critical lift resulted in equipment damage and the near miss of a catastrophic incident. 
+ 
+
+ 
+
+ 
+
+During the installation of a gas lift mezzanine deck on a deep water floating facility, the 6,500 pound 
+structure shifted unexpectedly.  This shift caused the load to jam between an existing, high pressure gas 
+ 
+lift piping and a 4-inch valve, damaging the still-pressurized gas line and gouging the 4-inch valve 
+body. In a subsequent attempt to free the active gas lift piping, the lifting crew performed a cold cut on 
+a U-bolt brace without a change request or permits to work. A rupture of the line or valve could have 
+led to a significant gas release, fire and/or explosion. The Offshore Installation Manager (OIM) averted 
+disaster by stopping the job during a regular inspection walk on the platform. 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+BSEE and the work crews involved in this incident have concluded that insufficient identification and 
+ 
+ 
+communication to the work force of the risks, inadequate supervision and deviations from the original 
+documented plan led to equipment damage and a near catastrophe. 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+The investigation identified several factors/findings contributing to this incident: 
+ 
+
+ 
+
+•	  The Offshore Construction Manager (OCM) who was responsible for overseeing the critical lift 
+ 
+ 
+
+ 
+
+was called away during the lift. He did not leave a hard copy of the Lift Plan with the work crew. 
+The job proceeded without him or the work plan present. 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+•	  Although the pre-job Hazard Analysis identified the risk of an accidental rupture of pressurized 
+ 
+
+ 
+gas lines in proximity to the area where the lift was occurring, and it recommended a lift strategy 
+that reduced the potential to damage the identified gas lines, this information appears not to have 
+ 
+been transferred to the workforce. 
+ 
+
+ 
+
+ 
+
+•	  The Lift Plan outlined a lifting procedure but did not provide background on the assumptions 
+ 
+ 
+
+ 
+
+and potential risks that were to be mitigated by those instructions, neither did it provide guidance 
+ 
+on potential risks and safeguards should the workers need to deviate from the plan. 
+ 
+
+ 
+
+•	  The Job Safety and Environmental Impact Analysis (JSEA), as documented, did not include a 
+ 
+ 
+
+ 
+
+discussion of the proposed path for the lift, the identification of the active gas lines in proximity 
+ 
+to the work area, or the potential risks should the lines be damaged during the lift. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+•	  The crew did not use the safety procedures, e.g., the use of tag lines outlined in the Lift Plan. 
+ 
+
+ 
+
+ 
+
+They also did not place chain fall beam clamps in pre-defined locations; arrange rigging points; 
+ 
+or utilize a hold back chain lever hoist attached to the lower portion of the deck leg as required 
+in the Lift Plan. 
+ 
+
+ 
+
+•	  Because the pressurized gas line hazards and recommended mitigation steps presented in the 
+ 
+ 
+
+pre-job Hazards Analysis were not included in the JSEA, it is not clear if the workers/ 
+ 
+contractors recognized the risks posed by the pressurized lines near the work site. 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+•	  “Stop Work Authority” was discussed with and acknowledged by the work crew as indicated in 
+ 
+
+the JSEA, but it was not utilized by any individual associated with the lift. 
+  
+
+ 
+
+ 
+
+ 
+
+•	  Changes were made during the work activity (e.g. cutting the U-bolt brace) without first
+ 
+ 
+ 
+
+analyzing the potential hazards or notifying other personnel onboard the facility.
+ 
+ 
+
+•	  Communications between the contractor and operators did not adequately inform critical
+ 
+ 
+ 
+
+personnel of the activities that were underway on the facility.
+ 
+ 
+
+ 
+
+ 
+
+The OIM appropriately implemented Stop Work Authority as soon as he discovered what was going 
+ 
+on. Following incident investigations by the Operator, Contractor and Subcontractor, the companies 
+ 
+implemented a joint stand-down of operations to ensure the seriousness of this situation could be 
+ 
+addressed and used to improve future operations. 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+BSEE recommends that all OCS Operators and Contractors ensure that the components of your 
+ 
+Safety and Environmental Management System (SEMS) are comprehensive, understood, followed 
+by all personnel and enforced during all OCS work activities. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+•	  When communicating work instructions, consider highlighting the potential hazards and the 
+ 
+ 
+appropriate mitigation steps that have been incorporated into all work plans and procedures.  
+ 
+(Hazard Recognition/Safe Work Practices) 
+
+•	  Ensure that supervisors and work crews have access to enough information about the job 
+ 
+
+ 
+
+ 
+
+they are doing to enable them to recognize when they have deviated from the work plan and 
+ 
+if the deviation poses new or different risks.  (Safety and Environmental Information) 
+
+•	  Reinforce the message that everyone has the right and the responsibility to stop work when 
+ 
+ 
+they perceive that there may be a safety concern.  Operators and contractors should review 
+ 
+methods of initiating a “stop work” event, and look for actual and perceived barriers to its 
+ 
+use, to ensure that the use of “stop work” will be effective. (Stop Work Authority) 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+A Safety Alert is a tool used by BSEE to inform the offshore oil and gas industry of the 
+ 
+circumstances surrounding an accident or a near miss. It also contains recommendations 
+ 
+that should help prevent the recurrence of such an incident on the Outer Continental Shelf. 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+

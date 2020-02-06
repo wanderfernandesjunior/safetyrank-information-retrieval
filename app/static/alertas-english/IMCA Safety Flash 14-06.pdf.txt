@@ -1,0 +1,112 @@
+AB
+
+ 
+
+IMCA Safety Flash 14/06 
+
+December 2006 
+
+These  flashes  summarise  key  safety  matters  and  incidents,  allowing  wider  dissemination  of  lessons  learned  from  them.    The  information  below  has  been 
+provided in good faith by members and should be reviewed individually by recipients, who will determine its relevance to their own operations. 
+
+The effectiveness of the IMCA safety flash system depends on receiving reports from members in order to pass on information and avoid repeat incidents.  
+Please consider adding the IMCA secretariat (imca@imca-int.com) to your internal distribution list for safety alerts and/or manually submitting information 
+on specific incidents you consider may be relevant.  All information will be anonymised or sanitised, as appropriate. 
+
+A  number  of  other  organisations  issue  safety  flashes  and  similar  documents  which  may  be  of  interest  to  IMCA  members.    Where  these  are  particularly 
+relevant, these may be summarised or highlighted here.  Links to known relevant websites are provided at www.imca-int.com/links   Additional links should 
+be submitted to webmaster@imca-int.com 
+
+ 
+
+1  DP Run-Off Incident – Class 2 DP Vessel 
+
+IMCA  has  received  a  report  of  a  DP  run-off  caused by  operational  changes  to  the DP  system  which  led  to  the loss  of  all 
+reference systems.  The DP class 2 vessel was alongside a platform and suffered a loss of reference systems, requiring the 
+vessel  to  be  taken  into  manual  control.    The  vessel  was  recovered  to  a  safe  location  without  mishap.    No  damage  was 
+incurred to the platform or the vessel. 
+
+An initiating cause was the deterioration of the performance of one of the position reference systems. The DP operator on 
+watch  selected  alternative  reference  systems  to  maintain  DP  positional  integrity,  in  accordance  with  normal  accepted 
+procedures, whilst the problems with the deteriorating reference system were addressed. 
+
+The configuration of the vessel linked the faulty reference system with a number of other reference systems, with the result 
+that the loss of one system caused the loss of others, including a vertical reference system (VRS).  
+
+The voting algorithm in the DP system was based on three VRS units, rather than two VRS units, as actually installed onboard 
+the vessel.  This caused the  second VRS to be rejected by the DP system, with the secondary effect that all other reference 
+systems were also rejected. 
+
+In addition, sensor offsets to the centre of gravity had been omitted, which caused erroneous calculations of movement, and 
+errors in wiring compensating the pitch had occurred either at commissioning of the vessel or during maintenance of the DP 
+system.  This caused pitch motions to be amplified rather than compensated.  There was insufficient documentation of these 
+wiring changes onboard the vessel. 
+
+It  should  be  noted  that  the  errors  could  normally  have  been  picked  up  during  commissioning  or  annual  FMEA  DP  trials, 
+provided that the FMEA trial was not carried out in calm water, where the corrections for the vessel’s movements would 
+have been too small to be distinguished.  However, since FMEA trials test function and not configuration, the potential for 
+error could remain undetected in the system. 
+
+Further, it should be noted that records of all system configurations, offsets, drawings, changes etc should be held onboard 
+the vessel, and kept up to date. 
+
+The following actions were proposed: 
+
+i)  DP reference inputs should be correctly selected to mitigate loss; 
+
+ii)  DP system configuration should be checked, as every vessel is different; 
+
+iii)  All  DP  issues  should  be  documented,  together  with  the  close-out  issues,  to  aid  the  DP  maintenance  engineers  as 
+
+required; 
+
+through failure of those systems. 
+
+iv)  Configuration of individual reference systems should be modified such that VRS units cannot be inadvertently affected 
+
+2  Near-Miss:  Divers Nearly Hit by Weight on Taut Wire  
+
+IMCA has received a report of a near-miss incident wherein a taut wire weight narrowly missed two divers before coming to 
+rest next to a subsea structure.  There was no injury to the divers nor damage to the structure. 
+
+Safety Flash 
+
+ 
+
+In  undertaking  its  work,  the  DP  vessel  had  moved,  resulting  in  the  taut  wire  running  above  the  divers  and  the  subsea 
+structure.  The dive was being run by a trainee diving supervisor under the direction of an experienced diving supervisor.  
+The  DP  operator  (DPO)  was  a  deck  officer  experienced  in  DP  operations.    Communications  were  through  an  open 
+communication system between the bridge and dive control. 
+
+The divers were in the process of recovering tools to clear the worksite prior to relocation of the vessel.  Bridge and dive 
+control had agreed that the vessel would need to move to re-plumb the taut wire prior to recovery.  Dive control stated 
+that  a  move  of  approximately  15 metres was  required to  re-plumb the  taut  wire.   The  vessel  moved  5m,  after which  the 
+DPO announced that he was “going to lift port taut wire”, believing that the taut wire weight could be recovered clear of the 
+divers and the subsea structure.  At the end of this announcement from the bridge the trainee diving supervisor said “OK” 
+on the open communications channel, but in response to another conversation.  The DPO on the bridge interpreted this as 
+an okay to lift the taut wire.  The experienced diving supervisor immediately called an ‘all stop’.  However, the lift had already 
+commenced and although the bridge stopped the lift there had been nine seconds of lifting, which was sufficient for the taut 
+wire weight to swing towards the subsea structure and the divers. 
+
+The investigation identified the following two main causal factors: 
+
+  There was a failure in communication protocol between the bridge and the dive control; 
+
+  Although  the DP  operator was  experienced,  he  was  experienced in DP  operations  on  lay  vessels  rather than  on  dive 
+
+support vessel. 
+
+The following remedial actions were recommended: 
+
+  Reinforcement  of  correct  “repeat  back”  protocols  to  be  carried  out.    “OK”  is  not  a  sufficient  response  to  a  critical 
+operational  question.    The  correct  response  should  include  confirmation  that  the  “OK”  is  in  relation  to  the  question 
+asked, e.g. “OK to lift the taut wire” or “OK to move vessel”; 
+
+  Review  of  the  familiarisation  process  to  identify  gaps  in  knowledge  when  personnel  are  relocated  from  one  area  of 
+
+operations to another; 
+
+IMCA M 175 – Guidance on Operational Communications, Part 1 – Bridge & Dive Control – contains useful references to 
+publications regarding correct radio procedure. 
+
+

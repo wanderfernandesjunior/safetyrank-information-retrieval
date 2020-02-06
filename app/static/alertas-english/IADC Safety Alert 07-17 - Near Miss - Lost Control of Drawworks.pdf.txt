@@ -1,0 +1,78 @@
+Safety Alert 
+
+        From the International Association of Drilling Contractors 
+
+NEAR MISS—LOST CONTROL OF DRAWWORKS 
+
+ 
+
+WHAT HAPPENED: 
+ 
+A  stand  of  drill  pipe  had  been  drilled  down  using  the  top  drive.    The  Assistant  Driller  (AD)  was  at  the 
+drawworks  controls  but  allowed  the  pipe  to  be  drilled  low  enough  to  “trip”  the  low  level  setting  of  the 
+Crown/Floor Protection Device (CFPD).  The AD then activated the manual bypass to continue drilling down 
+one more foot.  Once he drilled down the extra foot, the AD attempted to pick up the drill string with one hand 
+on  the  clutch  and  the  other  on  the  Crown/Floor  Protection  Device  bypass  control.    The  AD  was  unable  to 
+accelerate  the  motors  enough  to  get  the  drawworks  to  start  hoisting  and  the  drawworks  spooled  off  the 
+drilling line rather than picking up the drill string.  The elevators set down on the rotary table and the elevator 
+links impacted the bottom of the topdrive, bending the elevator links.    
+
+ 
+ALERT 07 – 17 
+ 
+
+ 
+WHAT CAUSED IT: 
+ 
+
+The rig personnel were taught to perform this procedure in this incorrect manner.  The proper procedure for 
+deactivating the Crown/Floor Protection Device was the subject of a recent memo and was added to the 
+HSE Manual and training was supposed to have been done.  The following is from this procedure:   
+
+“When the CFPD is momentarily bypassed, i.e., working long stands, the immediate supervisor of the person 
+performing the bypass must be notified and must approve the bypass.  The approving supervisor must also 
+directly supervise the activity until the operation is completed and the CFPD’s function is restored.”   
+ 
+CORRECTIVE ACTIONS:  To address this incident, this company issued the following directives to 
+rig supervisors and personnel: 
+ 
+
+This incident is a prime example of where failing to “walk the talk”, can have serious consequences.   
+
+ 
+
+ 
+
+•  Rig personnel must understand that safe operating procedures are put in place to ensure that incidents 
+
+don’t happen, however the procedures must be followed by all involved.   
+
+•  Supervisors are continually being observed by their crews to determine what level of safety is expected.  
+•  When supervisors perform or instruct personnel to perform tasks in the accepted safe manner, they are 
+
+passing on proper methods of working safely to all personnel involved.   
+
+•  Supervisors and rig crews need to remember that the key to the preventing unsafe acts is intervention.   
+
+(cid:131)  Dialog, discussion, talking with people are all forms of intervention.   
+(cid:131)  Without intervention, unsafe behavior continues on the same misdirected course until “what can 
+
+go wrong, will go wrong”.   
+
+•  Supervisors:  Are safe work practices “expected” by you on your rig?  If so, let others know! 
+ 
+ 
+
+The Corrective Actions stated in this alert are one company’s attempts to address the incident,  
+
+and do not necessarily reflect the position of IADC or the IADC HSE Committee. 
+
+This material is presented for information purposes only.  Managers & Supervisors should 
+
+evaluate this information to determine if it can be applied to their own situations and practices 
+
+Copyright © 2005 International Association of Drilling Contractors All rights reserved. 
+
+Issued May 2007 
+
+

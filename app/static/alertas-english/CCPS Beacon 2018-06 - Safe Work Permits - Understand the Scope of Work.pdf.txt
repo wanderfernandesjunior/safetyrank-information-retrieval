@@ -1,0 +1,123 @@
+www.aiche.org/ccps
+
+http://www.aiche.org/CCPS/Publications/Beacon/index.aspx
+
+Messages for Manufacturing Personnel
+
+http://www.dekra-process-safety.com/
+
+Work Permits – Understand the Scope of Work
+
+June 2018
+
+This issue sponsored by
+
+1
+
+3
+
+5
+
+2
+
+4
+
+6
+
+A contractor maintenance crew was preparing to install a 
+
+section of pipe at the top of a vessel in an oil refinery (1,2). A 
+work permit (3) was issued for the job, with the expectation 
+that no confined space entry was required. The scope of work 
+was only to install the pipe section. The permit indicated that 
+“Nitrogen Purge or Inerted” was N/A (Not Applicable) 
+although the vessel was being purged with nitrogen (4).
+
+Workers noticed that a roll of tape had been left inside the 
+vessel (5) and decided to try to remove it before installing the 
+pipe (6). They were unable to remove the tape using a long 
+wire. At this point, a worker tried to get closer to remove the 
+tape and was overcome by the oxygen depleted atmosphere 
+near the opening and fell into the vessel. It is also possible that 
+he may have climbed into the vessel to remove the tape, 
+planning to quickly climb back out. The worker collapsed 
+inside the vessel, and, to make the tragedy worse, a co-worker 
+entered the vessel in a rescue attempt and also collapsed in the 
+nearly pure nitrogen atmosphere. Both workers died from 
+nitrogen asphyxiation.
+
+This incident has been discussed in other Beacons – June 
+
+2012 about nitrogen hazards, and April 2015 on the importance 
+of work permit procedures. But there is another lesson – the 
+importance of recognizing a change in scope of work for any 
+job which requires a work permit. The change might introduce 
+additional hazards which require additional safeguards.
+
+Pictures from US Chemical Safety Board Video - http://www.csb.gov/videos/hazards-of-nitrogen-asphyxiation/
+
+Did You Know?
+ The work permit did not warn the 
+
+maintenance crew about the nitrogen purge.
+ As soon as the maintenance crew decided to 
+remove the roll of tape by reaching into the 
+vessel, the scope of the job changed. The 
+original permit did not consider the need to 
+remove anything from inside the vessel. A 
+new permit should have been issued, 
+considering potential confined space entry to 
+remove the tape.
+
+ In this case, a confined space entry permit 
+
+was required, even for a person to reach into 
+the vessel to remove the tape. When any part 
+of the body of a person breaks the plane of an 
+opening large enough to allow full entry, a 
+confined space permit is required. This is the 
+position of US OSHA and other authorities.
+
+What Can You Do?
+
+NOAA/Institute for Exploration/University of Rhode Island 
+
+(NOAA/IFE/URI) Public domain.
+
+ If you issue a work permit, be sure that:
+
+o Hazards are identified and explained to the people doing the work.
+o Required safety procedures are specified and understood.
+o Personal protective equipment is available and used.
+o The people doing the work clearly understand the scope of work, 
+
+and the need to stop work and contact you before they do 
+anything not included the initial job scope.
+
+ If you are working on a job requiring a work permit:
+
+o Understand the hazards, safety procedures, and protective 
+
+equipment.
+
+o Understand the job scope.
+o As you do the job, ensure for every step that you recognize any 
+
+change in the scope of work. Stop the job and consult the person 
+who issued the permit before you do anything not included in the 
+initial job scope!
+
+o If you are not sure if the job scope has changed, stop and ask the 
+
+person who issued the permit.
+
+Recognize a change in scope of work for a permitted job!
+
+©AIChE 2018. All rights reserved. Reproduction for non-commercial, educational purposes is encouraged. However, reproduction for any 
+commercial purpose without express written consent of AIChE is strictly prohibited. Contact us at ccps_beacon@aiche.org or 646-495-1371.
+
+The Beacon is usually available in Afrikaans, Arabic, Catalan, Chinese, Czech, Danish, Dutch, English, Filipino, French, German, Greek, Gujarati, Hebrew, Hindi, Hungarian, Indonesian,  
+
+Italian, Japanese, Korean, Malay, Marathi, Mongolian, Persian (Farsi), Polish, Portuguese, Romanian, Russian, Spanish, Swedish, Telugu, Thai, Turkish, Urdu, and Vietnamese.
+
+

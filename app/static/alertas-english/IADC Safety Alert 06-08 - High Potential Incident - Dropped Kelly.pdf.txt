@@ -1,0 +1,121 @@
+Safety Alert 
+
+        From the International Association of Drilling Contractors 
+
+HIGH POTENTIAL INCIDENT – DROPPED KELLY 
+
+ 
+ALERT 06 – 08 
+ 
+
+ 
+WHAT HAPPENED: 
+ 
+
+In preparation to pick up a 3 ½” Kelly, the 5 ¼” Kelly and swivel connections were broken with pipe in the 
+hole to lend stability to the process.  The 5 ¼” Kelly was then placed in the rat-hole (Kelly shuck) with broke 
+connections  until  such  time  that  it  could  be  laid  down  and  the  3  ½”  Kelly  could  be  picked  up  for  the  next 
+drilling interval.   
+
+Prior the operations getting to a point where the 5 ¼” Kelly was going to be laid down, a change of crews 
+occurred.    The  new  crew  began  preparing  to  test  Blowout  Preventer  Equipment  and  they  were  having 
+difficulty getting the cup tester to set in the casing below the BOPE.  So they picked up the Kelly to help push 
+the cup tester down into position.  Not knowing that the Kelly connections were broken, the driller activated 
+the Kelly spinner to align the cup tester with the casing opening.  The swivel’s left handed threads backed 
+out of the Kelly which separated at the break and the Kelly fell to the off-driller’s side of the floor onto the air 
+hoist and sample house.  No injuries resulted.   
+
+ 
+WHAT CAUSED IT: 
+ 
+Breakdown  in  communication.    There  were  no  handover  notes  indicating  that  the  connections  had  been 
+broken  loose.    Setting  back  a  “disabled”  Kelly  creates  a  perception  of  readiness,  and  requires  that  ALL 
+supervisors are aware of the Kelly’s condition.  The Kelly connections were not marked to indicate that they 
+were  broken  loose.    Lockout/tagout  not  utilized.    The  Kelly  spinner  control  was  not  locked  out  nor  was  it 
+tagged out.   
+ 
+CORRECTIVE ACTIONS:   
+ 
+To address this incident, this company did the following: 
+ 
+
+Communication!  The use of handover notes is an excellent means of detailing prior activities and expected 
+operations.  Critical information should be posted in a conspicuous area such as a doghouse white board, or 
+use a paint stick to put a message on the weight indicator.  Make a note in the Daily Drilling Report and carry 
+this message over everyday that the Kelly remains broken in its rat hole.  Make the Handover Notes concept 
+a formal process for each and every job position. 
+
+A  Lock  out/Tagout  is  another  system  (barrier)  to  prevent  this  kind  of  incident.    De-energizing  the  Kelly 
+spinner by disconnecting the air and placing a lock and tag on the supply valve would also have helped to 
+alert personnel of the Kelly’s condition. 
+
+The JSA for breaking out the Kelly should be modified to include disabling the Kelly spinner in the event that 
+a  Kelly  which  has  had  the  connections  broke  loose  is  setback.    These  systems  aren’t  just  exercises  to 
+appease management; these are fundamental barriers to prevent injury and equipment damage. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+The Corrective Actions stated in this alert are one company’s attempts to address the incident,  
+
+and do not necessarily reflect the position of IADC or the IADC HSE Committee. 
+
+This material is presented for information purposes only.  Managers & Supervisors should 
+
+evaluate this information to determine if it can be applied to their own situations and practices 
+
+Copyright © 2005 International Association of Drilling Contractors All rights reserved. 
+
+Issued February 2006 
+
+Safety Alert 
+
+        From the International Association of Drilling Contractors 
+
+Assuming people know what is going on is a huge mistake.  If the Kelly is set back into the rat hole with the 
+connections broken, assume the possibility that someone will pick up the Kelly, unaware of its condition, and 
+back off the connections.  Now what can be done to prevent your assumption from happening?   
+
+♦  disconnect the Kelly spinner air line and lock it out (not just close the air valve) 
+♦  write this important information on the weight indicator, if practical 
+♦  write this information on a white board 
+♦  put this information in the handover notes and pass it on 
+♦  verbally tell your relief and his lead floorhand 
+♦ 
+♦ 
+♦ 
+ 
+
+tell your supervisor 
+tell your crew to mention the status of the Kelly in their handover (verbal and/or written) 
+tell the operator’s representative 
+
+ 
+ 
+
+ 
+
+ 
+
+The Corrective Actions stated in this alert are one company’s attempts to address the incident,  
+
+and do not necessarily reflect the position of IADC or the IADC HSE Committee. 
+
+This material is presented for information purposes only.  Managers & Supervisors should 
+
+evaluate this information to determine if it can be applied to their own situations and practices 
+
+Copyright © 2005 International Association of Drilling Contractors All rights reserved. 
+
+Issued February 2006 
+
+

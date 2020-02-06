@@ -1,0 +1,62 @@
+Safety Alert 
+
+        From the International Association of Drilling Contractors 
+
+ 
+ALERT 15-01 
+
+ 
+
+ 
+
+UNINTENTIONAL UNLATCHING OF AN AIR OPERATED ELEVATOR 
+
+WHAT HAPPENED: 
+While the rig was operating using “single joint drill pipe” operations, the 350 Ton air operated elevator was unintentionally opened by 
+the Driller. This resulted in a single joint of drill pipe dropped onto the Drill Floor from a height of +/- 3 meters before coming to rest on 
+the Derrick structure. 
+ 
+WHAT CAUSED IT: 
+•  Skill based (training & competency of person at controls) Mistake 
+•  Cyberbase/air operated elevator system(s) can open at any given time (double click left joy stick button). 
+Some of the casual factors surrounding this event included: 
+• 
+• 
+ 
+CORRECTIVE ACTIONS: To address this incident, this company did the following: 
+•  Review Lessons Learned with crews during Weekly Safety Meeting. 
+•  Remind individuals to remain outside the “Red Zone” when joints are suspended. 
+•  Onshore and Offshore Managers should review automated operated elevators and slips and ensure specific technical measures to 
+
+Inadequate Joystick Design 
+Inadequate Consideration of Human Factors 
+
+prevent dropped objects are incorporated. 
+
+•  Review JSA and update if necessary for any operations involving remotely operated elevators. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+The Corrective Actions stated in this alert are one company’s attempts to address the incident, and do not necessarily reflect the position of 
+
+IADC or the IADC HSE Committee. 
+
+This material is presented for information purposes only.  Managers & Supervisors should evaluate this information to determine if it can be applied to 
+
+Copyright  2015 International Association of Drilling Contractors All rights reserved. 
+
+their own situations and practices 
+
+Issued April 2015 
+
+

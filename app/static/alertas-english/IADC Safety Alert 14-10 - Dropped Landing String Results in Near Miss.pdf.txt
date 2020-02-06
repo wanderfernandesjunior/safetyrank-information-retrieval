@@ -1,0 +1,70 @@
+Safety Alert 
+
+        From the International Association of Drilling Contractors 
+
+ 
+ALERT 14 – 10 
+ 
+
+DROPPED LANDING STRING RESULTS IN NEAR MISS 
+
+ 
+WHAT HAPPENED: 
+ 
+At  the  time  of  the  event,  the  rig  crew  was  running  upper  completion  on  7  5/8”  VAM®  Top  FE  (Fatigue 
+Enhanced) landing string.  The hanger was 87 feet (27 meters) from land off.  Having made up the final full 
+joint of landing string, the  string  was  lifted approximately five feet to enable a centralizer to be fitted  8 feet 
+(2.4  meters)  back  on  the  previous  joint  and  manual  slips  were  pulled.    When  the  string  was  lifted 
+approximately five feet, the latch on the 250 ton side-door elevators failed and the string dropped, with the 
+upper tool joint passing through the rotary.   
+ 
+At the time of failure the elevators were positioned +/- 45 feet (14 meters) above the rotary.  There were no 
+injuries to personnel. The blocks were then lowered to the deck for a closer inspection. 
+ 
+WHAT CAUSED IT: 
+ 
+•  A side door type elevator had been used to lift the VAM® TOP FE coupling. 
+• 
+
+It  was  discovered  that  the  elevators  primary  latch  mechanism  had  sheared  off.    No  other  parts  were 
+missing. 
+
+•  A mechanical failure of the VAM® TOP FE coupling face had occurred. 
+•  A  mechanical  failure  of  the  side-door  elevator  latch  had  occurred  due  to  the  VAM®  Top  FE  coupling 
+
+failure. 
+Investigations are ongoing and an update will be given in due course. 
+
+• 
+ 
+
+CORRECTIVE ACTIONS:  To address this incident, this company did the following: 
+ 
+Personnel  running  VAM®  TOP  FE  products  were  reminded  that  the  running  recommendations  must  be 
+followed.  See the following:   
+ 
+•  Slip type elevators must be used for the running of this product. 
+•  Side door elevators should only be used as “single-joint elevators” to lift one joint of pipe at a time. 
+•  Any  VAM®  TOP  FE  pipe  strings  previously  run  using  side  door  elevators  should  be  inspected  before 
+
+•  Any  previous  VAM®  TOP  FE  connection  data  sheets  that  may  state  a  “max  load  on  coupling  face” 
+
+use. 
+
+should be disregarded. 
+
+•  Contact VAM® services or the supplier for a new Connection Data Sheet or for further information. 
+
+The Corrective Actions stated in this alert are one company’s attempts to address the incident,  
+
+and do not necessarily reflect the position of IADC or the IADC HSE Committee. 
+
+This material is presented for information purposes only.  Managers & Supervisors should 
+
+evaluate this information to determine if it can be applied to their own situations and practices 
+
+Copyright  2014 International Association of Drilling Contractors All rights reserved. 
+
+Issued April 2014 
+
+

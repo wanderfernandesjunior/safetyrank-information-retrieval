@@ -1,0 +1,99 @@
+ 
+
+Failure to Follow Safe Systems of Work  
+
+Safety Alert 13 
+
+(MoC & QA/QC) 
+
+ 
+
+ 
+What happened? 
+A recent incident involving the failure of a mud pump pulsation damper has highlighted the 
+importance of ensuring that a safe system of work and appropriate management of change 
+is applied to repair and refurbishment work. 
+
+The retention plate threads for a mud pump pulsation dampener bladder were found to 
+have been damaged in the dampener body and the pulsation dampener was sent to shore 
+for repair.  Shortly after being returned to service the retention plate securing system failed 
+to retain it against normal working pressure, and subsequently it was blown vertically under 
+high pressure into the deck above.  It caused minor deck damage, and released Synthetic 
+Based Drilling Fluid in the pump room and on the main deck. 
+
+Fortunately, there were no injuries, although two personnel in the mud pump room at the 
+time were traumatized.  This incident had the potential to cause one or more fatalities either 
+by a person being caught in the path of the retention plate as it was ejected under pressure 
+or being under it as it fell after striking the deck above. 
+ 
+
+What went wrong? 
+Investigation found the engineering firm assigned to the task of repairing the dampener, 
+verbally agreed to fit 12 x 1/12 UNF 12 TPI threaded studs and follow this with a pressure 
+test to verify the unit was still fit for purpose.  However, the engineering firm deviated from 
+this work scope and fitted pressed parallel sleeves without consulting the operator.  The 
+dampener was also not pressure tested prior to being dispatched offshore.  The operator’s 
+shore base personnel assumed certification for pressure testing went to the rig with the 
+repaired equipment.  The operator’s rig personnel assumed their shore based support 
+personnel had the certificates.  The dampener was fitted without any verification it was fit 
+for the intended service. 
+
+Both the engineering firm and the operator failed to ensure their respective processes 
+addressing change management, design validation, verification and certification were 
+appropriately followed and that all personnel with responsibility for the implementation of 
+these processes had been appropriately trained in them. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+o 
+o 
+o 
+
+o 
+
+o 
+
+NOPSA SAFETY ALERT 13 cont’d 
+
+Key Lessons: 
+•  Appropriate requirements for QA/QC including validation, verification, testing and 
+
+certification must be adequately documented when preparing to have plant and 
+equipment repaired, refurbished or modified; 
+
+•  Repaired or refurbished equipment must be appropriately inspected and, where 
+
+necessary, tested and verified prior to bringing it back into service. 
+
+Summary of Key Regulator Requirements: 
+
+From Offshore Petroleum Act 2006, Schedule 3 clause 9 
+
+•  Operators must take all reasonably practicable steps to ensure that: 
+
+plant and equipment are safe and without risk to health; 
+safe systems of work are effectively implemented and maintained; 
+information, instruction, training and supervision necessary for personnel to 
+undertake their activities are provided; 
+
+From Offshore Petroleum Act 2006, Schedule 3 clause 13 
+
+•  Suppliers of plant must take all reasonably practicable steps to 
+
+ensure it is in such a condition as to be, when properly used, safe and without risk 
+to health, and; 
+carry out, or cause to be carried out, the research, testing and examination 
+necessary to discover, and to eliminate or minimise, any risk to health or safety 
+that may arise form the condition of the plant 
+
+ 
+Contact 
+For further information email alerts@nopsa.gov.au and quote Alert 13. 
+
+

@@ -1,0 +1,158 @@
+AB 
+
+IMCA Safety Flash 08/12 
+
+Safety Flash 
+
+  July 2012 
+
+These  flashes  summarise  key  safety  matters  and  incidents,  allowing  wider  dissemination  of  lessons  learnt  from  them.    The  information  below  has  been 
+provided in good faith by members and should be reviewed individually by recipients, who will determine its relevance to their own operations. 
+
+The effectiveness of the IMCA safety flash system depends on receiving reports from members in order to pass on information and avoid repeat incidents.  
+Please consider adding the IMCA secretariat (imca@imca-int.com) to your internal distribution list for safety alerts and/or manually submitting information 
+on specific incidents you consider may be relevant.  All information will be anonymised or sanitised, as appropriate. 
+
+A  number  of  other  organisations  issue  safety  flashes  and  similar  documents  which may  be  of  interest  to  IMCA  members.   Where  these  are  particularly 
+relevant, these may be summarised or highlighted here.  Links to known relevant websites are provided at www.imca-int.com/links   Additional links should 
+be submitted to webmaster@imca-int.com 
+
+1  Near Miss: Dropped Objects 
+
+A member has reported an incident on an offshore platform in which three scaffold boards fell 4m from one deck to another. 
+The  incident  occurred  when  the  scaffold  boards  were  being  lowered  in  vertical  bundles  of  three  boards  through  a  hatch 
+opening on the cellar deck.  The crew were using a timber hitch and a half hitch on a 19mm hemp rope fed through a shackle 
+attached  to  a  beam  clamp.  Whilst  lifting  the  bundle  of  three  boards  over  the  handrail  of  the  hatch,  the  knot  holding  the 
+boards together contacted the handrail, causing it to loosen. This resulted in the three boards falling to the temporary deck 
+(+24m level) four metres below. One of the boards then ricocheted off and fell a further 15 metres, landing in an area where 
+two painters were working. The scaffold plank grazed one of the painters on the arm before coming to rest. The painter was 
+assessed by the medic, but no treatment was required. 
+
+ 
+
+ 
+
+ 
+
+View through Cellar Deck Opening to +24m landing 
+
+ 
+
+ 
+
+View from Sub Cellar deck +24 m level 
+
+ 
+
+An investigation revealed the following: 
+
+♦  Work preparation and risk assessment was not adequate – the HIRA controls had been ‘ticked off’ and yet not followed, 
+
+and the work method was inappropriate for the volume of scaffolding being moved; 
+
+♦ 
+
+Improper rigging practices were used – the rope was rigged over a shackle rather than using a gin wheel; 
+
+♦  Three boards were being lowered at once – industry practice is for two boards at once as a maximum. 
+
+♦  Local scaffolding  guidelines were updated to reflect industry practice of no more than  two boards to be lowered at a 
+
+The following lessons and actions were identified: 
+
+time; 
+
+♦  Dropped object zones need to account for potential deflection. 
+
+2  Near Miss: Bell Umbilical Damage Incident 
+
+A member has reported an incident in which a diving bell umbilical was damaged after it was trapped between the cursor and 
+the  bell.  After  completion  of  diving  operations  a  deck  foreman  was  in  the  vessel  bell  garage  assisting  with  bell  recovery 
+operations. He noticed that the white tape mark on the bell umbilical and the white tape mark on the cursor wire were not 
+aligned as the curser started to rise. He called an ‘all stop’ and the situation was investigated. 
+
+It  was  found  that  the umbilical  was  snagged  under  the  upper  guide  wire  slot  on  the  cursor  and  was  trapped  between  the 
+cursor and the bell. The deck foreman advised the dive supervisor who lowered the bell back to 30m of sea water, in order 
+to investigate the problem further. The umbilical was freed by slackening it and slowly raising the bell on the main winch. A 
+Remote Operated Vehicle (ROV) was used to check the condition of the bell umbilical. 
+
+A  slight  leak  was  detected  from  damage  observed  to  the  umbilical  outer  sheath  and  a  small  amount  of  gas  could  be  seen 
+coming from one of the small pneumo-fathometer hoses. The divers secured the pneumo valves and the leak was stopped. 
+The bell left 30m and internal pressure was maintained. The bell arrived on surface and was locked onto the system. All of 
+the bell internal valves were closed and the system was bled down and the bell prepared for surfacing and sealed. All valves 
+were secured inside the bell and the bell was recovered with the correct amount of tension on the umbilical for immediate 
+transfer of the divers and assessment of the damage in the dry. There was no loss of integrity to the bell and the divers inside 
+were unharmed.   
+
+ 
+
+ 
+
+View from ROV showing damaged umbilical leaking gas 
+
+ 
+
+During an investigation the following points were noted: 
+
+♦  The immediate cause of the incident was found to be that the dive supervisor did not ensure sufficient tension on the 
+
+bell umbilical to eliminate the risk of it bunching, trapping and being damaged during bell recovery operations; 
+
+♦  Underlying causes identified were as follows: 
+
+– 
+
+– 
+
+loss  of  control:  the  dive  supervisor  lost  concentration  when  distracted  during  the  aft  bell  recovery 
+operations/activities.  Existing  procedural  and  engineering  control  measures  which  might  have  prevented  this  were 
+not effectively applied 
+design: the differential read-out monitor alarm indicator is a visual alarm only, and not audible also, which could go 
+unnoticed; 
+
+♦ 
+
+It  was  unclear  whether  or  not  the  dive  supervisor  had  noticed  the  visual  alarm  (red  flashing  bell  in  the  screen  of  the 
+differential read-out monitor) which highlights the differential selected for each dive undertaken; 
+
+♦  The  dive  supervisor  was  a  very  experienced  member  of  the  dive  team,  with  great  experience  in  using  on-board  bell 
+launch and recovery systems, and had performed bell deployment and recovery operations numerous times in the past. 
+On  this  occasion  the  dive  supervisor  believes  he  had  become  distracted  and  had  not  paid  attention  to  the  length  of 
+umbilical paid out prior to recovery; 
+
+♦  Experience and competence in tasks does not mean that the risks of being distracted, or losing focus, does not remain 
+
+high when undertaking what may be considered “routine” tasks; 
+
+The following corrective and preventative actions were taken: 
+
+♦  Re-termination of umbilical; 
+
+♦ 
+
+Installation  of  an  audible  alarm  onto  the  differential  panel  read-out  on  the  hydraulic  control  panel,  which  will  enhance 
+pre-existing warning controls of differentials when recovering dive bells; 
+
+♦  Bell launch/recovery risk assessments reviewed and updated with incident findings and addition hazard control measures. 
+
+ 
+
+ 
+
+3  Near Miss: Failure of Load During Lifting  
+
+The Marine Safety Forum (MSF) has published the following Safety Flash regarding a near miss incident in which a 20 tonne 
+subsurface buoy split in two and fell 30cm back onto the trailer from which it was being lifted. There were no injuries or 
+damage to the trailer. The only equipment damaged in the incident was the buoyancy itself. 
+
+The report can be downloaded from www.marinesafetyforum.org/upload-files//safetyalerts/msf-safety-flash-12.28.pdf 
+
+4  Platform Supply Vessel comes into Contact with Fixed Platform 
+
+The MSF has published the following Safety Flash regarding an incident in which a platform supply vessel came into contact 
+with  the  leg  of  a  fixed  platform,  causing  some  slight  damage  to  the  leg.  The  immediate  cause  was  found  to  be  mechanical 
+failure of a relay in the engine control system. 
+
+The report can be downloaded from www.marinesafetyforum.org/upload-files//safetyalerts/msf-safety-flash-12.29.pdf 
+
+

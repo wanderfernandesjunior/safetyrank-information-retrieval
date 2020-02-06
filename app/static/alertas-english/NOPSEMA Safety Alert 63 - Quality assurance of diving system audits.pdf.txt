@@ -1,0 +1,154 @@
+Safety alert 63
+
+December 2016 
+
+Quality assurance of diving system audits
+
+What happened?
+
+A  number  of  NOPSEMA  inspections have identified a  trend  in the  standard  of  audits  conducted  on  diving 
+systems  and  equipment.  Specifically,  a  number  of  operators  of  diving  projects and  diving  contractors have 
+failed to ensure diving system audits have been conducted to an appropriate standard.
+
+While reviewing the audits conducted by the diving project operators and the diving contractors, NOPSEMA’s 
+inspectors identified the following deficiencies:
+
+ Man-riding  wire  destructive  test  certification  was  not  adequately  assessed, resulting  in  the  failure  to 
+identify  that  the  percentage deterioration  was  greater than  that  permitted by  the relevant  International 
+Marine Contractor’s Association (IMCA) code/guidelines and therefore should have been replaced.
+
+ Inappropriate  application  of  a  management  of  change  process to  justify  the  deferral  of  man-riding  wire 
+
+destructive tests.
+
+ Utilisation  of  a self-propelled  hyperbaric lifeboat  (SPHL)  with  the connections  for the emergency services 
+(e.g.  breathing  gas,  cooling,  etc.)  located in  a  place  on  the  SPHL  that  was  not  readily  accessible,  and 
+therefore  not  as  required  by  the  relevant 
+International  Marine  Organisation  (IMO)
+codes/guidelines.
+
+IMCA and 
+
+ Failure to make an emergency services umbilical available for SPHL connection to its life support package.
+
+ A high pressure (200 bar) flexible oxygen hose was found during a NOPSEMA inspection to be too long, 
+
+made up with joins and was damaged, however it was marked as compliant during an earlier audit
+
+ Older diving systems built to class have not been upgraded, where practicable, to meet current class 
+requirements e.g. fire suppression systems within diving chambers unable to be externally actuated.
+
+Each of the deficiencies outlined above should have been identified and rectified as a result of the third party 
+or in-house audits.
+
+What could go wrong?
+
+Failure to identify audit non-conformances associated with safety-critical elements of a diving system may 
+result in an increased level of risk to the air and saturation divers. The non-conformance examples provided 
+above have the potential to compromise the integrity of the system components and reduce functionality in 
+an emergency. Any loss of integrity or system redundancy has the potential to result in serious injury or 
+fatalities to divers and others involved in diving operations.
+
+Key lessons
+
+the task
+
+Operators of diving projects and diving contractors should have measures in place to ensure:
+ quality assurance checks are carried out on third party and in-house diving system audits
+ audits are conducted by suitably trained and qualified personnel
+ audits are reviewed by personnel who have the necessary experience and knowledge to be competent for 
+
+ auditor observation lists are reviewed to identify any potential non-conformance items
+ non-conformance close out actions are documented and verified by a competent person
+ safety-critical non-conformance items are verified closed prior to the commencement of diving operations.
+
+National Offshore Petroleum Safety and Environmental Management Authority
+
+A530425
+
+20/12/16
+
+1 of 2
+
+Quality assurance of diving system audits 
+
+Safety alert
+
+Diving project hazard identification workshops and hazard registers consistently record IMCA compliant diving 
+systems as a control for a multitude of hazards. Diving system IMCA audit compliance provides the divers, 
+supervisors and the operator of the diving project, with a level of assurance that the diving system is safe and 
+fit for its intended use.
+
+It is important that these IMCA audits are effectively managed as part of the operator’s quality assurance and 
+diving project risk assessment processes, to ensure the diving operations are safe and risks are reduced to as 
+low as reasonably practicable (ALARP).
+
+The legislation
+
+Clause 9 of Schedule 3 to the Offshore Petroleum and Greenhouse Gas Storage Act 2006 requires that ‘the 
+operator of a facility must take all reasonably practicable steps to ensure that the facility is safe and without 
+risk to the health of any person at or near the facility.’ This includes an obligation to take all reasonable 
+practicable steps to:
+
+ implement and maintain systems of work that are safe and without risk to health [Clause 9(2)(d)]; and
+
+ provide all members of the workforce with the information, training and supervision necessary for them to 
+
+carry out their activities in a manner that does not adversely affect the safety of persons at the facility 
+[Clause 9(2)(f)].
+
+ For further information email alerts@nopsema.gov.au and quote Safety alert 63. NOPSEMA safety alerts 
+
+are published at nopsema.gov.au, on the ‘Safety Alerts’ page under the ‘Safety’ tab.
+
+Contact
+
+Further information
+
+The following oil and gas publications provide further information about the recommended practice on diving 
+system inspection and auditing:
+
+ The International Marine Contractors Association, Annual Auditing of Diving Systems. IMCA D 011 Rev 1 –
+
+December 2010.  http://www.imca-int.com/diving-division.aspx
+
+ The International Maritime Contractors Association, Diving Equipment Systems Inspection Guidance Note, 
+
+DESIGN for Saturation (Bell) Diving Systems, IMCA D 024 Revision 2 July 2014. http://www.imca-
+int.com/diving-division.aspx
+
+ The International Marine Contractors Association, DESIGN for Surface Orientated (Air) Diving Systems, 
+
+IMCA D 023 Rev. 1 January 2014.  http://www.imca-int.com/diving-division.aspx
+
+ The International Marine Contractors Association, Hyperbaric Evacuation Systems (HES) Interface 
+
+Requirements, IMCA D 051 Rev. 1 October 2014. http://www.imca-int.com/diving-division.aspx
+
+ The International Marine Contractors Association, Guidance on Hyperbaric Evacuation Systems, IMCA D052 
+
+May 2013.  http://www.imca-int.com/diving-division.aspx
+
+ International Association of Oil & Gas Producers, Saturation Diving Emergency Hyperbaric Evacuation and 
+
+Recovery Performance Requirements. OGP 478 – September 2014.  
+http://www.iogp.org/Reports/Type/478/id/660
+
+ International Association of Oil & Gas Producers, Diving System Assurance. OGP 468 - February 2016.  
+
+http://www.iogp.org/Reports/Type/468/id/633
+
+ International Maritime Organisation, Resolution A.692(17) 1991, Guidelines and Specifications for 
+
+Hyperbaric Evacuation Systems.  
+http://www.imo.org/en/KnowledgeCentre/IndexofIMOResolutions/Pages/Assembly-(A).aspx.
+
+National Offshore Petroleum Safety and Environmental Management Authority
+
+A530425
+
+20/12/16
+
+2 of 2
+
+

@@ -1,0 +1,100 @@
+Safety Alert 
+
+        From the International Association of Drilling Contractors 
+
+HELICOPTER WHEEL SNAGS HELIDECK NET 
+
+Near Miss with High Severity Potential 
+
+ 
+ALERT 09 – 31 
+ 
+
+ 
+WHAT HAPPENED: 
+ 
+
+Just before lifting off the helideck, the helicopter moved slightly forward and slid to the side causing the net 
+on that side to buckle up and catch  on the  wheel.  The Helicopter Landing Officer (HLO) observed the net 
+caught on the wheel and radioed to inform the pilot.  Fortunately the net self-released from the wheel as it 
+was lifted about 30 cm (1 ft) off the helideck.  
+
+Potential Consequences:   
+
+Dynamic  rollover  resulting  in  multiple  (including  fatal)  injuries  and  extensive  property  damage  including 
+destruction or loss of the helicopter overboard.  
+ 
+
+WHAT CAUSED IT: 
+ 
+1. 
+2. 
+ 
+
+The helideck net was not tensioned as recommended.   
+The helicopter moved forward and slid to the side causing the net to buckle up.   
+
+CORRECTIVE ACTIONS:  To address this incident, this company did the following: 
+ 
+•  Ensure  that  the  HLO  and  his  crew  are  well  trained  to  inspect  the  helideck  and  surrounding  areas;  be 
+equipped  with  a  constant  means  of  communication  with  the  pilot;  and  be  fully  alert  during  landing  and 
+takeoff for any sign of danger and know when to immediately inform the pilot.   
+•  Check helideck net for proper tension (see below) before all helicopter arrivals.  
+•  Comply  with  regional  regulations  governing  helideck  nets.  One  standard  for  guidance  on  offshore 
+helidecks is CAP 437 which goes into great detail on the layout and tensioning of helideck nets. (Rigs in 
+the  United  States  Gulf  of  Mexico  are  not  required  to  have  helideck  nets  so  there  are  no  governing 
+regulations for the US GOM.)  CAP 437 states the following concerning tensioning the net:  
+o  Tautly-stretched  rope  netting  should  be  provided  to  aid  the  landing  of  helicopters  with  wheeled 
+undercarriages  in  adverse  weather  conditions.    The  intersections  should  be  knotted  or  otherwise 
+secured to prevent distortion of the mesh.  It is preferable that the rope be 20 mm (0.787 in) diameter 
+sisal  (strong  fiber  rope),  with  a  maximum  mesh  size  of  200  mm  (7.87  in).    The  rope  should  be 
+secured  every  1.5  meters round  the  landing  perimeter  and  tensioned  to  at  least  2225  N  (500  lbs).   
+….netting  may  be  made  of  other  material  but  should  not  be  constructed  of  polypropylene-type 
+material which is known to readily deteriorate and flake when exposed to weather.  Tensioning to a 
+specific  value  may  be  impractical  offshore.  As  a  rule  of  thumb,  it  should  not  be  possible  to 
+raise  any  part  of  the  net  by  more  than  approximately  250  mm  (7.8  in)  above  the  helideck 
+surface when applying a vigorous vertical pull by hand.  
+
+ 
+References: 
+Company’s Helicopter Operations Guidelines:  “Helideck tension, if fitted with a net.”  
+U.K. Civil Aviation Authority, CAP 437 Offshore Helicopter Landing Areas – Guidance on Standards, 
+at 
+Sixth 
+http://www.caa.co.uk/docs/33/CAP437.PDF  The  above  info  on  helideck  netting  is  in  chapter  3,  page  12, 
+Section 7.3.  
+ 
+
+December 
+
+document 
+
+Edition, 
+
+2008. 
+
+entire 
+
+seen 
+
+The 
+
+can 
+
+be 
+
+ 
+
+The Corrective Actions stated in this alert are one company’s attempts to address the incident,  
+
+and do not necessarily reflect the position of IADC or the IADC HSE Committee. 
+
+This material is presented for information purposes only.  Managers & Supervisors should 
+
+evaluate this information to determine if it can be applied to their own situations and practices 
+
+Copyright  2005 International Association of Drilling Contractors All rights reserved. 
+
+Issued November 2009 
+
+

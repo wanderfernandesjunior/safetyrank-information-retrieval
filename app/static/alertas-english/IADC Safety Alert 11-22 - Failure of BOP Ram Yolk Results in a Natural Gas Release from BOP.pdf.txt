@@ -1,0 +1,115 @@
+Safety Alert 
+
+        From the International Association of Drilling Contractors 
+
+ 
+ALERT 11 – 22  
+
+FAILURE OF BOP RAM YOLK 
+
+RESULTS IN A NATURAL GAS RELEASE FROM BOP 
+
+ 
+WHAT HAPPENED: 
+ 
+A rigless snubbing unit was preparing to stage a production tubing string into a well.  The average well bore 
+pressure was recorded at 28mPa (4000 psi).  At that pressure it is required to snub the tubing using the ram 
+to ram staging method.  As the snubbing operator was staging the coupler of joint #44 into the staging 
+chamber of the snubbing unit, he closed the lower stripping Quick Ram Change (QRC) rams, de-pressurized 
+the chamber, and opened the upper stripping QRC rams.  Immediately after the upper QRC rams were 
+opened there was a natural gas release from the closed annular blowout preventer (BOP) on top of the 
+snubbing stack.  The operator closed the upper QRC rams and investigated the cause of the release.  It was 
+noticed that the lower stripping QRC rams had malfunctioned and did not close properly.  The operating yoke 
+of the QRC stripping ram was found to be broken on the left side.  This made it impossible to apply the 
+correct closing pressure to the QRC stripping pipe ram to achieve a seal on the tubing.  The tubing hanger 
+was staged in using the upper stripping QRC rams and the damaged QRC rams were removed from the 
+snubbing stack and sent for analysis of the failure.  
+ 
+The BOP involved in the incident was within its 3 year required certification, having been inspected 1.5 years 
+ago by a third party recertification facility.  No damage or irregularities were detected. 
+
+ 
+
+WHAT CAUSED IT: 
+ 
+  The immediate cause of the incident was the failure of the operating yoke on the QRC BOP.   
+  The original purchaser of the rams had requested the manufacturer to modify the original equipment 
+
+design to improve overall ease of handling, as well as, rigging in and rigging out of the BOP.   
+
+  The underlying causes of the failure included a faulty design that did not account for the conditions 
+
+the QRC BOP was being used.   
+
+  A  full  management  of  change  review  was  not  conducted  prior  to  the  changes  made  to  the 
+equipment and assumptions were made about the strength and durability of the operating yoke and 
+QRC. 
+
+ 
+
+ 
+
+ 
+ 
+ 
+
+The Corrective Actions stated in this alert are one company’s attempts to address the incident,  
+
+and do not necessarily reflect the position of IADC or the IADC HSE Committee. 
+
+This material is presented for information purposes only.  Managers & Supervisors should 
+
+evaluate this information to determine if it can be applied to their own situations and practices 
+
+Copyright  2008 International Association of Drilling Contractors All rights reserved. 
+
+Issued September 2011 
+
+Safety Alert 
+
+        From the International Association of Drilling Contractors 
+
+ 
+CORRECTIVE ACTIONS:  To address this incident, this company did the following: 
+ 
+  Prior to commencing operations a safety meeting was held and a review of the company’s ram to ram 
+staging Job Safety Analysis (JSA) was completed.  These actions were documented with all personnel 
+on location. 
+ 
+
+  The company has 6 sets of the faulty QRC BOPs and all were upgraded with new, heavier yokes.  The 
+
+yokes that were removed from service were sent for Non-Destructive Testing (NDT) and it was 
+discovered that they were ALL cracked in the same spot. 
+
+  Recommended that snubbing operators add a visual inspection of BOP components to the supervisor’s 
+
+daily checklist. 
+
+  Recommended that snubbing operators utilize original equipment manufacturer (OEM) or an OEM 
+
+approved vendor for BOP service and recertification. 
+
+  All companies that purchase remanufactured equipment must not take for granted that all designs are 
+
+flawless and to ensure that a management of change process is developed and followed when any 
+changes are made to equipment or processes. 
+
+ 
+
+ 
+ 
+
+The Corrective Actions stated in this alert are one company’s attempts to address the incident,  
+
+and do not necessarily reflect the position of IADC or the IADC HSE Committee. 
+
+This material is presented for information purposes only.  Managers & Supervisors should 
+
+evaluate this information to determine if it can be applied to their own situations and practices 
+
+Copyright  2008 International Association of Drilling Contractors All rights reserved. 
+
+Issued September 2011 
+
+

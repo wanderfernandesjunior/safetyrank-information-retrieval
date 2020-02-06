@@ -1,0 +1,119 @@
+ 
+
+ 
+
+Safety alert 62
+June 2016 
+
+Vessel loss of position while diving in close proximity to a 
+hydrocarbon facility 
+
+What happened?  
+Recently a vessel facility undertaking construction activities had an unplanned movement while diving 
+activities were being conducted approximately 130 metres from a hydrocarbon facility. The loss of position 
+was caused by a deactivation of the forward/aft automatic positioning function by unintentionally 
+deselecting the ‘surge’ button on the DP (Dynamic Position) console located on the bridge (Image 1 & 2) 
+which then deactivated the ‘Auto Position’ mode. The deselection was thought to have occurred by the 
+placement of a notepad on the side of the console. The vessel drifted off location by over 40 metres and 
+this drift was initially noticed by a diver when his umbilical started to become taut. 
+
+Once the DPO (Dynamic Position Operator) became aware of the excursion, the ‘Auto Position’ mode was 
+reactivated causing the vessel to stop moving and remain in position. During this time, the diver had 
+followed his umbilical, moved clear of any obstacles, and walked with the vessel. 
+
+Image 1 – DPO workstation 
+
+Image 2 – Inset of DP console (‘Surge’ button circled) 
+
+ 
+
+What could go wrong? 
+A loss of position during diving could cause diver fatalities if their umbilicals or other equipment becomes 
+entangled or snagged on subsea infrastructure during the excursion. A loss of position whilst working in 
+close proximity to a hydrocarbon facility could also potentially cause a collision, leading to a loss of 
+hydrocarbon containment and subsequent fire or explosion.  In both cases the consequences could involve 
+multiple fatalities.  
+
+Investigation findings 
+Due to the potential severity of the consequences of this incident NOPSEMA directed its inspectors to 
+investigate the incident by conducting an OHS inspection on board the facility (independent of the facility 
+operator’s own investigation). NOPSEMA’s investigation identified that the auto DP mode buttons (Surge, 
+Sway and Yaw) were located in the left hand corner of the console next to desk space commonly used for 
+completing DP related checklists and logs. Consequently, these buttons were susceptible to accidental 
+activation by personnel. 
+
+The inspectors found that although the incident arose by an accidental and unknowing double press of a 
+button by the DPO, the design of the DP system allowed a human error to escalate this act into a dangerous 
+
+National Offshore Petroleum Safety and Environmental Management Authority 
+
+1 
+
+ 
+
+ 
+
+Safety alert 62 
+
+occurrence by neither requiring any positive confirmation of deactivation of ‘Auto Position’ mode nor 
+providing any alarm that required acknowledgment that ‘Auto Position’ mode had been de‐activated.  The 
+situation was exacerbated and recovery impeded as deselecting the ‘surge’ button automatically 
+deactivates the excursion alarms in that axis and the DP display was no longer providing useful feedback in 
+terms of the loss of position event as the excursion rings started to track with the vessels movement. 
+
+If either of the controls identified above were in place, it is unlikely the incident would have escalated to a 
+loss of position event. In order to rectify the issue the operator, with assistance from the manufacturer, are 
+currently upgrading the control systems software to provide a separate dialogue box confirmation 
+requirement when deactivating the ‘Auto Position’ mode.  
+
+Key lessons 
+
+  Control system interfaces should be designed to account for foreseeable human error.  Adequate 
+
+control measures to prevent and recover from errors should be in place. 
+
+  For DP vessels, operators need to ensure that suitable controls are in place to prevent a single 
+
+inadvertent act from leading to a loss of position.  
+
+  Double press activation for switches with safety critical functions may not be an adequate barrier to 
+
+prevent an inadvertent action. More robust methods need to be considered. 
+
+  DP systems can prevent inadvertent operator selection in several other ways including operation of 
+
+two separate selection devices and using screen based question pop‐ups.   
+
+  Monitoring tasks are not a human strength; hence control panel operators are heavily reliant on 
+control systems to provide alerts of any unsafe operational conditions, to allow them to problem 
+solve the issue (which is a human strength). Good control system design should account for this. 
+
+  Switches with safety critical functions should be positioned to avoid accidental 
+
+activation/deactivation that could cause an unsafe condition.  
+
+  Facility operators need to ensure that lessons are learned from previous incidents and any additional 
+
+controls suitably communicated to the workforce. In this case, the vessel had a similar human error 
+induced loss of position event in 2009.  
+
+The legislation  
+
+  Facility operators have a duty of care to take all reasonably practicable steps to ensure equipment 
+
+at the facility is safe and without risk to health (Clause 9, Schedule 3 to the Offshore Petroleum 
+Greenhouse Gas Storage Act 2006). 
+
+  Manufacturers  of  plant,  including  control  systems,  must  take  reasonably  practicable  steps  to 
+ensure that the plant and equipment is so designed and constructed as to be, when properly used, 
+safe  and  without  risk  to  health  and  safety.  (Clause  12,  Schedule  3  to  the  Offshore  Petroleum 
+Greenhouse Gas Storage Act 2006). 
+
+Contact 
+For further information email alerts@nopsema.gov.au and quote:  Safety Alert 62.  
+
+National Offshore Petroleum Safety and Environmental Management Authority 
+
+2 
+
+

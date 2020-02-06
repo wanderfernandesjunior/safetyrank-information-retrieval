@@ -1,0 +1,171 @@
+AB
+
+ 
+
+IMCA Safety Flash 05/09 
+
+Safety Flash
+
+April 2009 
+
+These  flashes  summarise  key  safety  matters  and  incidents,  allowing  wider  dissemination  of  lessons  learnt  from  them.    The  information  below  has  been 
+provided in good faith by members and should be reviewed individually by recipients, who will determine its relevance to their own operations. 
+
+The effectiveness of the IMCA safety flash system depends on receiving reports from members in order to pass on information and avoid repeat incidents.  
+Please consider adding the IMCA secretariat (imca@imca-int.com) to your internal distribution list for safety alerts and/or manually submitting information 
+on specific incidents you consider may be relevant.  All information will be anonymised or sanitised, as appropriate. 
+
+A  number  of  other  organisations  issue  safety  flashes  and  similar  documents  which  may  be  of  interest  to  IMCA  members.    Where  these  are  particularly 
+relevant, these may be summarised or highlighted here.  Links to known relevant websites are provided at www.imca-int.com/links   Additional links should 
+be submitted to webmaster@imca-int.com 
+
+ 
+
+1  Fire in Vertical Lay System Moonpool 
+
+A member has reported an incident in which there was a fire in the moonpool of a vertical lay system (VLS).  A vessel had 
+been involved with the recovery of redundant/damaged 10” flexible flowlines to on-deck storage reels, and ‘wet storage’ (on 
+the seabed) was being prepared for a previously recovered section of 10” flowline.  (This flowline section had been flushed of 
+hydrocarbons in January 2008.) 
+
+Following the recovery of the flowlines to deck, the vessel made several transits totalling approximately 12 kilometres over a 
+19 hour period. Work was approved to remove some gouges on the VLS moonpool doors utilising a pneumatic grinder.  A 
+highly  experienced,  and  competent,  boilermaker  proceeded  to  grind  out  the  gouges  on  the  moonpool  doors  with  the 
+grinding sparks directed down and into the moonpool water. 
+
+A  fire  started  on  the  water  within  the  moonpool  centraliser  and  then  grew  to  an  above  deck  height  of  more  than  two 
+metres.  The person conducting the grinding was using body harness/fall arrest equipment as the moonpool doors had been 
+opened slightly to give him better access.  When the fire started, he experienced difficulty in escaping from the area as the 
+fall arrest unit prevented the pay-out of the cable.  Fortunately a nearby colleague freed him from the fall arrest cable and 
+they both escaped from the fire area without injury. 
+
+The  fire  alarm  was  raised  and  the  fire  was  extinguished  within  25  minutes  of  the  alarm  being  sounded  with  no  persons 
+injured or harmed. 
+
+The following were noted: 
+
+  The moonpool area, including the area below the VLS doors, was visually checked prior to the grinding, but nevertheless 
+
+nobody observed or identified the presence of flammable liquids within the moonpool; 
+
+  At the earlier onshore hazard identification and risk assessment, the presence of ‘inhibited seawater’ containing very low 
+hydrocarbon levels had been identified, however a fire risk or accumulation of flammable hydrocarbon products within 
+the confines of the moonpool had not been considered as a potential hazard; 
+
+  The  concentration  of  hydrocarbon  levels  found  within  the  10”  flowline  was  inconsistent  with  the  hydrocarbon  levels 
+expected  (‘flushing  fluid’  consisting  of  hydrocarbon  <  30mg/ltr  (flushed  earlier  in 2008)).    It is possible  that  there may 
+have  been  localised  concentration  of  oil  in  the  intervening  period  through  gravity  separation  of  fluids  of  different 
+densities and/or reintegration of oil trapped in the interstices of the rough bore pipe carcass; 
+
+  The application of the permit to work, risk assessment and associated process were not sufficiently robust or effective 
+
+and several management system improvements have been identified/implemented; 
+
+  Competency  of  the  onboard  personnel  resulted  in  the  fire  teams  responding  very  quickly  and  bringing  the  fire  under 
+
+control in a timely manner. 
+
+2  Personal Locator Beacons on Helicopters 
+
+Further to recent helicopter accidents in the UK Offshore Sector, the UK Civil Aviation Authority (CAA) has stopped the 
+use of passengers’ personal locator beacons (PLBs) when on helicopter flights for the UK offshore oil and gas industry. 
+
+An  explanatory  note  from  the  CAA  is  attached,  together  with  an  announcement  from  Oil  &  Gas  UK.    Further  enquiries 
+should be as directed to bhallbauer@oilandgasuk.co.uk or to philip.wiggs@imca-int.com  
+
+ 
+
+Press release: 
+ISSUED BY OIL & GAS UK 
+19 April 2009 
+ 
+REINSTATEMENT OF SAFETY BEACONS A PRIORITY, CONFIRMS OIL & GAS UK 
+ 
+Finding a technical solution that will allow personal safety beacons to be safely reinstated for all helicopter 
+passengers flying offshore is a matter of priority, oil and gas industry body Oil & Gas UK confirmed today 
+(19 April). 
+ 
+This was one of the key helicopter safety issues discussed at the first meeting of the industry’s Helicopter Issues 
+Task Group in Aberdeen on Friday (17 April).   
+ 
+Bob Keiller, CEO of PSN and chairman of the task group, said: “Reinstating these beacons, known in the industry 
+as Personal Locator Beacons or “PLBs”, is being dealt with by an industry workgroup which was set up by Oil & Gas 
+UK soon after an offshore helicopter ditched in the North Sea in February.  At Friday’s meeting, the Helicopter 
+Issues Task Group agreed that the momentum must be maintained on this work and even accelerated where 
+possible so that we can get PLBs back in use as quickly as we can.” 
+ 
+ Following the ditching of the helicopter in February, the preliminary investigation by the Air Accidents 
+Investigation Branch (AAIB) revealed that when the PLBs worn by the passengers were automatically activated 
+during the ditching, they interfered with the long range rescue beacons fitted to the helicopter and life rafts.  This 
+interference resulted in these main aircraft beacons being shut down, which could have seriously hampered search 
+and rescue operations if the incident had occurred at night or out of view of the offshore platform. 
+ 
+As a result of the AAIB findings, the Civil Aviation Authority (CAA) instructed helicopter operators in the UK that all 
+PLBs had to be switched off for the duration of offshore flights because of the risk of inadvertent activation and 
+subsequent risks of interference with aircraft safety systems. 
+ 
+The PLB workgroup, involving representatives from the manufacturers, helicopter operators, PLB users and the 
+Health & Safety Executive, is meeting tomorrow (Monday, 20 April) to identify the various options for a possible 
+technical solution.    
+ 
+ENDS 
+ 
+For further information, contact: 
+Britta Hallbauer on Tel. 07891 769 113 or bhallbauer@oilandgasuk.co.uk 
+ 
+ 
+Note to Editors 
+ 
+
+1.  The Helicopter Issues Task Group was established by leaders of the UK offshore oil and gas industry 
+
+immediately following the North Sea Flight 85N helicopter tragedy of 1 April.  It held its first meeting on 17 
+April, 2009. 
+
+2.  It set up to act on behalf of the industry as a communications focal point for sharing information, advice 
+
+and learning across the industry and with other stakeholders on matters arising from this and previous 
+helicopter accidents. 
+
+3.  The group is chaired by Bob Keiller, CEO of PSN and currently involves representatives of the companies 
+
+directly affected by the recent fatal accident as well as Grampian Police.  At the first meeting, It was 
+agreed to invite all offshore helicopter operators, the trade unions and representatives from the oil and gas 
+workforce to future meetings.  
+
+4.  Oil & Gas UK is the leading representative organisation for the UK offshore oil and gas industry.  Its 
+
+members are licensed by the Government to explore for and produce oil and gas in UK waters and those 
+who form any part of the industry’s supply chain. 
+
+Passenger Personal Locator Beacons (PLBs) 
+
+ 
+
+Briefing for Offshore Passengers: 
+ 
+As you may be aware a recent incident involving an offshore helicopter has 
+highlighted some concerns about passenger PLBs. 
+ 
+The UK Civil Aviation Authority (CAA) has discovered that passenger PLB’s may 
+interfere with the long range rescue beacons that are fitted to the helicopter and 
+life rafts. This could impact the effectiveness of search and rescue operations. 
+ 
+As a result, the CAA has instructed that all PLBs must be switched off for the 
+entire duration of your flight. 
+ 
+In order to have a common approach, the industry has agreed to stop the 
+carriage of all PLB’s onboard oil and gas related helicopters until a technical 
+solution to the problem can be found. 
+ 
+PLB’s can still be used offshore onboard platforms but will be transported 
+offshore either as freight or, if onboard helicopters, will be stored securely in the 
+unarmed position. 
+ 
+An Industry Workgroup is looking at medium and long term solutions to the 
+issues, and will work to resolve this issue as quickly as possible. 
+ 
+Thank you for your attention. 
+ 
+
+

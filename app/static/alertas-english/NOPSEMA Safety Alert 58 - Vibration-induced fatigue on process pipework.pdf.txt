@@ -1,0 +1,133 @@
+ 
+
+Safety alert 58 
+
+ 
+
+January 2014 
+
+ 
+
+Vibration-induced fatigue on process pipework 
+
+What happened? 
+
+During a recent inspection at a facility, a NOPSEMA inspector observed vibration-induced fatigue cracking and 
+evidence of rectification work carried out on several small bore connections on seawater cooling pipes.  On 
+further investigation, it was discovered that there had also been a recent fatigue failure on the hydrocarbon 
+test separator header.  Fortunately, the operator had detected hydrocarbon leaking out of the crack and the 
+line was repaired without any major release of hydrocarbons.  
+
+The operator of the facility initially did not report the incident as a dangerous occurrence (damage to safety 
+critical equipment), as it was considered only a “minor weep”. 
+
+  
+
+ 
+
+Failed hydrocarbon test header with engineered 
+temporary clamp  
+
+Seawater line with fatigue cracking 
+
+What could go wrong? 
+
+Key lessons: 
+• 
+
+In certain situations, vibration-induced fatigue could lead to a loss of containment of a significant quantity of 
+hydrocarbons, which if ignited could result in a major accident event involving multiple fatalities.   
+
+The risk of vibration-induced fatigue on hydrocarbon facilities must be thoroughly assessed.  All types of 
+excitation should be considered, including: 
+
+•  pulsation from reciprocating and positive displacement pumps and compressors, rotational stall 
+
+•  flow induced turbulence 
+
+•  mechanical excitation 
+
+and flow induced excitation 
+
+•  high frequency acoustic fatigue 
+
+•  surge/momentum changes due to valve operations 
+
+•  cavitation and flashing.  
+
+National Offshore Petroleum Safety and Environmental Management Authority 
+
+ Rev 0 A339011 
+
+28/01/2014 
+
+1 of 2 
+
+ 
+
+Safety alert 58 
+
+Vibration-induced fatigue on 
+process pipework 
+
+ 
+
+The Energy Institute, based in the United Kingdom, has developed guidelines for the avoidance of 
+vibration-induced fatigue failure in process pipework. The guidelines can be used from the design stage 
+through to the operational stage in the life of a facility to identify and address pipework at risk of 
+vibration-induced fatigue. 
+
+It is a requirement to report any dangerous occurrence on a facility to NOPSEMA under Clause 82 of 
+Schedule 3 to the Offshore Petroleum and Greenhouse Gas Storage Act 2006.  Regulation 2.41 of the 
+Offshore Petroleum and Greenhouse Gas Storage (Safety) Regulations 2009, defines a dangerous 
+occurrence as: 
+
+•  An occurrence that did not cause, but could reasonably have caused: 
+
+a. 
+
+the death of, or serious personal injury to, a person; or 
+
+b.  a member of the workforce to be incapacitated from performing work for a period of at least 3 
+
+days. 
+
+•  A fire or explosion 
+
+•  A collision of a marine vessel with the facility 
+
+•  An uncontrolled release of hydrocarbon vapour exceeding 1 kilogram 
+
+•  An uncontrolled release of petroleum liquids exceeding 80 litres 
+
+•  A well kick exceeding 8 cubic metres (or 50 barrels) 
+
+•  An unplanned event that required the emergency response plan to be implemented 
+
+•  Damage to safety-critical equipment 
+
+Contact 
+
+For further information email alerts@nopsema.gov.au and quote Alert 58. 
+
+ 
+
+• 
+
+• 
+
+ 
+
+ 
+
+ 
+
+National Offshore Petroleum Safety and Environmental Management Authority 
+
+Rev 0 A339011 
+
+28/01/14 
+
+2 of 2 
+
+

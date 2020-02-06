@@ -1,0 +1,96 @@
+Safety Alert 
+
+        From the International Association of Drilling Contractors 
+
+DROPPED OBJECT:  KELLY DISCONNECTS FROM HOOK 
+
+ 
+
+ALERT 08 – 42 
+ 
+
+ 
+
+ 
+WHAT HAPPENED: 
+ 
+During  drilling  of  the  surface  hole  (12  ¼“),  the 
+driller  made  a  connection  and  started  to  wash  / 
+ream down to bottom.  Due to tight hole conditions, 
+the drill string stopped two feet before the bushings 
+were able to be set into the rotary table.  The driller 
+received  direct  instructions  from  the  company 
+representative  to  operate  the  kelly  spinner  to  over 
+come  the  tight  hole  and  the  drill  string  did  move 
+down  for  ½  foot.    The  driller  was  re-instructed  by 
+the  company  representative  to  move  the  string  up 
+and down.  During the process of moving the string 
+down,  the  drill  string  reached  a  bridge,  but  the 
+driller  didn’t  notice  it.    This  resulted  in  the  string 
+bouncing  and  the  swivel  hitting  the  hook,  causing 
+the  latch  to  open  and  the  kelly  to  drop  to  the  rig 
+floor  resulting  in  damages  to  Kelly,  rig  floor 
+handrail, mast ladder and driller’s panel.  
+
+ 
+
+The Corrective Actions stated in this alert are one company’s attempts to address the incident,  
+
+and do not necessarily reflect the position of IADC or the IADC HSE Committee. 
+
+This material is presented for information purposes only.  Managers & Supervisors should 
+
+evaluate this information to determine if it can be applied to their own situations and practices 
+
+Copyright  2005 International Association of Drilling Contractors All rights reserved. 
+
+Issued December 2008 
+
+Safety Alert 
+
+        From the International Association of Drilling Contractors 
+
+WHAT CAUSED IT: 
+ 
+•  The rig was provided with a 220 ton swivel instead of 150 ton swivel.  Due to this, the bail diameter of 
+this swivel is bigger than the hook space could accommodate.  The larger bail made it difficult to close 
+the hook without using force. This mismatch was not assessed by the engineering team or the rig crew. 
+Failure to follow Management of Change (MOC) procedures. 
+
+•  The  air  hoist  was  attached  to  a  whip  check  that  was  used  to  close  the  lock  of  the  hook  latch.    This 
+resulted  in  bending  the  locking  pin,  preventing  the  pin  from  fully  engaging.  (Deviation  from  standard 
+procedure). 
+
+•  The driller was not paying attention to the hook load (weight indicator), so hitting the bridge caused the 
+
+kelly to bounce. 
+
+ 
+CORRECTIVE ACTIONS:  To address this incident, this company did the following: 
+ 
+•  Swivel was replaced with one that fit the hook opening.  In addition the kelly was replaced.  
+•  The latch lock was repaired and the hook pin was inspected.  
+•  Rig  supervisors  were  instructed  that  any  change  in  equipment  shall  be  accompanied  with  a  risk 
+assessment in order to identify hazards and consequences. Refer to the company’s. “Design Control and 
+Development”, Procedures and instructions Manual. 
+
+ 
+ 
+
+ 
+ 
+ 
+
+The Corrective Actions stated in this alert are one company’s attempts to address the incident,  
+
+and do not necessarily reflect the position of IADC or the IADC HSE Committee. 
+
+This material is presented for information purposes only.  Managers & Supervisors should 
+
+evaluate this information to determine if it can be applied to their own situations and practices 
+
+Copyright  2005 International Association of Drilling Contractors All rights reserved. 
+
+Issued December 2009 
+
+

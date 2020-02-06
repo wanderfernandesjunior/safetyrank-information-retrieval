@@ -1,0 +1,78 @@
+Safety Alert 
+
+        From the International Association of Drilling Contractors 
+
+ 
+ALERT 08 – 33 
+ 
+
+INADVERTENT ACTIVATION OF CONTROL LEVER RESULTS IN SERIOUS INJURY 
+
+ 
+WHAT HAPPENED: 
+ 
+The operation in progress was making-up 9 ½ drill collar lifting sub in a drill collar which was setting in the 
+rotary table slips.  A crewman was using a chain tong to tighten the lifting sub.  The Rig Manager was inside 
+the driller’s cabin lowering the elevator to latch on to the lifting sub.  As he reached for the joystick on the 
+control panel, the back of his right hand brushed the rotary table speed knob resulting in the knob turning.  
+This caused the rotary table to spin in reverse with the chain tongs on the sub.  The chain tong handle struck 
+the injured person in the left torso and threw him into the Driller’s side of the drawworks, resulting in a very 
+serious injury. 
+ 
+
+WHAT CAUSED IT: 
+ 
+•  When the Rig Manager reached for the joystick on the control panel, the back of his right hand brushed 
+
+•  Due to the lack of resistance on the rotary speed control knob, the knob easily turned, causing the rotary 
+
+the rotary table speed control knob. 
+
+table to rotate in reverse. 
+
+•  The “Stop” position on the Rotary Table/Stop/Top Drive switch on the chair arm was actually a “Neutral” 
+
+position and does not isolate the Rotary Table throttle control. 
+
+CORRECTIVE ACTIONS:  To address this incident, this company did the following: 
+ 
+•  The  company  requested  that  the  manufacturer  the  driller’s  chair  and  control  console  reposition  the 
+controls and install separation devices to prevent driller’s hand from accidentally activating any controls.  
+This would need to be done on both the right and left sides of the chair. 
+
+•  Exiting chairs are to add a plexiglass / lexan cover around the rotary control knob until such time as the 
+
+control can be relocated.  
+
+•  Rotary table must be isolated on the touch screen when using chain tongs to manually spin-in or spin-out 
+tubular connections.  In addition, relocate the TD lockout button to the back of the control panel to allow 
+room for the reconfiguration of the rotary speed control.  Add a RT lockout button beside the TD lockout 
+button. 
+
+•  Change RT/Stop/TD mode selector switch to a RT/TD selector switch. 
+•  Drilling  crew  (including  the  Rig  Manager,  Toolpusher  and  Drillers)  must  undergo  simulator  training  for 
+
+•  Create a new JSA to include locking-out rotary table when using chain tongs for making-up or breaking 
+
+DDC (Digital Drilling Controller.  . 
+
+connections. 
+
+ 
+
+ 
+ 
+
+The Corrective Actions stated in this alert are one company’s attempts to address the incident,  
+
+and do not necessarily reflect the position of IADC or the IADC HSE Committee. 
+
+This material is presented for information purposes only.  Managers & Supervisors should 
+
+evaluate this information to determine if it can be applied to their own situations and practices 
+
+Copyright © 2005 International Association of Drilling Contractors All rights reserved. 
+
+Issued October 2008 
+
+

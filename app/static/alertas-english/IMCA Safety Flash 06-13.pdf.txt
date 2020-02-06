@@ -1,0 +1,274 @@
+AB 
+
+ 
+
+IMCA Safety Flash 06/13 
+
+Safety Flash 
+
+ April 2013 
+
+These  flashes  summarise  key  safety  matters  and  incidents,  allowing  wider  dissemination  of  lessons  learnt  from  them.    The  information  below  has  been 
+provided in good faith by members and should be reviewed individually by recipients, who will determine its relevance to their own operations. 
+
+The effectiveness of the IMCA safety flash system depends on receiving reports from members in order to pass on information and avoid repeat incidents.  
+Please consider adding the IMCA secretariat (imca@imca-int.com) to your internal distribution list for safety alerts and/or manually submitting information 
+on specific incidents you consider may be relevant.  All information will be anonymised or sanitised, as appropriate. 
+
+A  number  of  other  organisations  issue  safety  flashes  and  similar  documents  which may  be  of  interest  to  IMCA  members.   Where  these  are  particularly 
+relevant, these may be summarised or highlighted here.  Links to known relevant websites are provided at www.imca-int.com/links   Additional links should 
+be submitted to webmaster@imca-int.com 
+
+ 
+
+1  Crew Transfer Vessel Trapped Under a Boat Landing 
+
+A  member  has  reported  an  incident  in  which  a  crew  transfer  vessel  became  trapped  when  the  bottom  section  of  a  boat 
+landing  fixed  to  an  offshore  accommodation  vessel  gave  way.  The  master  of  the  crew  transfer  vessel  was  not  able  to 
+manoeuvre  the  vessel  free  under  own  power,  and  the  vessel  was  eventually  pulled  clear  by  another  crew  transfer  vessel. 
+Some of the passengers launched liferafts and abandoned ship without any obvious instructions from the crew of the transfer 
+vessel. Personnel were in a liferaft adjacent to the vessel when it was pulled clear and could have been run down. One liferaft 
+was  launched  incorrectly  and  did  not  inflate.  The  boat  landing  was  damaged,  and  there  was  minor  damage  inflicted  to  the 
+bow of the crew transfer vessel. One member of the transfer vessel crew suffered minor bruising.    
+
+Figure:  Crew transfer vessel shown trapped 
+
+ 
+
+During the investigation a number of immediate causes were noted, including: 
+
+♦  Defects or failures in design of equipment (the boat landing and the bow of the crew transfer vessel); 
+
+♦ 
+
+Inadequate risk assessment or consideration of the deteriorating weather and sea state; 
+
+♦  Unexpected relative motion between the crew transfer vessel and the accommodation vessel; 
+
+♦  The trim and draft of the accommodation vessel. 
+
+The underlying causes were found to be: 
+
+♦ 
+
+Inadequate structural integrity of the boat landing - inadequate design; 
+
+♦  Existing work procedures not adequate to the work in hand;    
+
+ 
+
+ 
+♦  The bow height of the crew transfer vessel; 
+
+♦ 
+
+Inadequate communication. 
+
+Actions identified included the following: 
+
+♦  Repair, redesign and subsequent extension of boat landing system; 
+
+♦  Use of fall arrest equipment when transferring from crew transfer boat to accommodation vessel; 
+
+♦  Ensure life-rafts are properly attached to vessels; 
+
+♦  Development of more adequate procedures and detailed risk assessment for this method of crew transfer. 
+
+2  Loss of ROV after Umbilical Termination Failure and Damage to ROV During Recovery 
+
+A member has reported an incident in which there was an ROV umbilical termination failure, loss of ROV and subsequent 
+damage to the ROV during emergency recovery from the seabed. The ROV and its TMS were lost during launch of the ROV 
+when the umbilical detached from the TMS bullet.  
+
+Umbilical Termination Failure and Loss of ROV 
+
+The launch operation was supported by 3 ROV technicians, one operating the winch from a remote controller and another 
+the handling platform using manual hydraulic valve handles. The third person (the ROV supervisor) monitored the operation 
+from the ROV control room. To be able to unlatch and disengage from the docking head, the operator needed to lift weight 
+off  the  docking  head  latches.  This  was  qualified  visually  by  the  operators.  Once  the  bullet  was  lifted  off  and  latches 
+disengaged,  the  umbilical  became  detached  from  the  TMS  bullet.  The  ROV  and  TMS  descended  to  the  seabed  and  landed 
+sideways at 298 meters water depth in soft sediments.  
+
+Emergency Recovery 
+
+Another  vessel  was  able  to  assist  in  the  recovery  of  the  ROV.  The  ROV  was  inspected  on  the  seabed  and  based  on  that 
+information and the sea conditions (3m significant wave height), a risk assessment and toolbox talk was carried out between 
+the two vessels, and recovery was considered safe and possible. A soft sling was used and attached into the bullet. The sling 
+was routed through the legs in the bullet, and doubled back. The TMS and ROV were then recovered to deck. After breaking 
+the splash zone it was discovered that the “tools” were loosened from the manipulator. When landing on the seabed, the 
+front  of  the  ROV  frame  was  on  top  of  the  “tools”.  The  crane  driver  held  the  ROV  with  2  T  tension  while  a  tag  line  was 
+attached to the “tools”. When lifting off again, approximately 1 metre, the soft sling snapped. The ROV frame collapsed from 
+the weight of the TMS (2.9 tons). There were no injuries to personnel but the ROV, TMS and umbilical were damaged.  
+
+   
+
+ 
+
+Figures: (Left) ROV on the seabed  (Right) Parted umbilical 
+
+Umbilical Termination Failure 
+
+Our member had the parted umbilical analysed by a third-party consultant, who drew the following conclusions: 
+
+♦  Three main factors combined to cause the umbilical to fail; 
+
+♦  The overall effect of these factors was a failure to wedge the potting properly into the bullet;  
+
+If one or more of the below factors had not occurred the break point would more likely to have been above the bullet; 
+
+ 
+♦ 
+
+♦  The factors were: 
+
+1.  The lack of seating was hindered by the rough internal surface of the bullet. The cast had not been seated properly 
+in the socket cone, limiting the strength of the termination to the cohesion/friction between the steel wires and the 
+cast; 
+
+2.  The reported use of a booster pack, at temperatures higher than recommended, dramatically shortened the curing 
+time,  causing  the  wirelock  to  gel  rapidly.  It  is  not  known  whether  or  not  this  caused  the  insufficient  filling  at  the 
+bottom part of the socket, but considered as likely. The use of a booster pack at temperatures above 9°C is not in 
+accordance with manufacturer’s recommendations and is strongly advised against.   
+
+3.  Un-axial  loads  were  imposed  on  the termination  occurred,  which  caused  snagging.  This  was  confirmed  by  several 
+witnesses onboard. This is a result of the design of the bullet/socket allowing the bullet/socket to catch/stop when 
+entering the docking head receptacle. Un-axial loads are likely to have been a contributory factor. It was reported 
+by the crew that the socket occasionally got caught on the edge of the receptacle of the snubber. Normally such a 
+scenario  would  be  more  likely  to  cause  overload  of  the  wires  than  snagging  should  the  termination  have  been 
+arranged correctly. If, as argued above, the socket was not properly seated or if sufficient filling was not achieved at 
+the  bottom  of  the  cone,  un-axial  loading  is  likely  to  have  instigated  the  failure.  Un-axial  loading  is  a  possible 
+explanation for the fact that the termination failed at a significantly lower load than the load test. Snagging may have 
+broken the bonding between the cast and the steel wires and the wires could have worked themselves out of the 
+cast over time until the length of wires remaining in the cast were insufficient to support the weight of the ROV and 
+TMS. 
+
+Illustration of un-axial load on cable from edge of socket getting caught on snubber 
+
+ 
+
+ 
+
+Emergency Recovery 
+
+Our member’s investigation revealed the following: 
+
+♦  Sharp edges on the bullet cut through the soft-sling and caused the ROV and TMS to drop to the deck during landing; 
+
+♦  The  edge  inside  the  bullet  grade  was  sharp  and  not  polished.  An  emergency  recovery  strop  was  not  installed  on  the 
+
+TMS.  
+
+      Figure: Showing sharp edges on bullet 
+
+ 
+ 
+
+Our member drew the following lessons from the incident: 
+
+♦  Umbilical re-termination procedures to be revised: 
+
+–  Prevent flat edge on the cone and use machine tools to prevent surface roughness inside the socket, all edges to be 
+
+–  Use of a booster pack at temperatures above 9°C not in accordance with manufacturers recommendations and is 
+
+rounded and polished. 
+
+strongly advised against. 
+
+♦  Emergency strop to be mounted on TMS systems; 
+
+♦  Bullet design to be approved and quality checked before use;    
+
+Members may also wish to refer to: 
+
+IMCA R 004 - Code of practice for the safe and efficient operation of remotely operated vehicles 
+
+IMCA R 011 - The initial and periodic examination, testing and certification of ROV handling systems 
+
+3  Near miss: Dropped Object - falling camera 
+
+A member has reported an incident in which the mounting for a fixed camera gave way allowing the camera, weighing 25kg, 
+to fall 4 metres. Electrical cable and a gland held it in place, preventing the camera from landing on the deck. This happened in 
+an area where personnel could have been working. There were no injuries.  
+
+Figure:  Camera of the sort that fell 
+
+ 
+
+Our member’s investigation revealed the following: 
+
+♦  The equipment was so reliable that it had become part of the fixtures and therefore “invisible”; 
+
+♦  Weak fastening / mounting; 
+
+♦  Securing wire not fit for purpose; 
+
+♦  Possibility of excessive vibration from nearby machinery; 
+
+♦  The camera had not been identified as a potential dropped object. 
+
+The following lessons were learnt and corrective actions taken: 
+
+♦  Similar cameras are now secured with wire (safety sling); 
+
+♦  Recommended inspection routine advised based on physical and environmental circumstances. 
+
+ 
+4  Near Miss: Dropped Objects During Lifting Operations 
+
+A  member  has  reported  an  incident  in  which  pieces  of  angle  bar  slipped  out  of  slings  and  fell  into  the  sea.  The  incident 
+occurred when the crew of a platform supply vessel used slings instead of a cargo basket, as the means to hoist a cargo of 
+angle bar up to a rig.  
+
+A number of factors made this incident of particular concern to our member: 
+
+♦  No cargo baskets were available for this job – use of an approved cargo basket would have prevented this incident; 
+
+♦  The slings used were provided by a 3rd party contractor and were of uneven lengths, which caused the load to hang at 
+
+–  The  crane  operator  assumed  that  the  incident  would  be  reported  by  someone  else  and  thus  did  not  report  the 
+
+an angle, and the bars to fall into the sea; 
+
+♦  No proper near miss report was made at the time of the incident: 
+
+dropped object himself. 
+
+–  No report was made until 10 days after the incident. 
+
+Our member noted the following: 
+
+♦  Where possible, cargo baskets should be used for pipes, metal bars and other objects that can easily fall out of slings; 
+
+♦  Crew  should  be  reminded  that  when  using  slings  or  other  lifting  gear,  care  should  be  taken  to  select  the  appropriate 
+
+♦  ALL incidents and near misses should be reported, no matter if one believes that someone else has reported it, or how 
+
+equipment for the job at hand; 
+
+trivial the matter may seem. 
+
+Members should refer to the following IMCA documents, in particular the pocket safety cards which are intended for use by 
+vessel crews:  
+
+IMCA SEL 019 - Guidelines for lifting operations 
+
+IMCA SPP 04 - Avoiding dropped objects 
+
+IMCA SPC 05 - Lifting equipment 
+
+IMCA SPC 12 - Avoiding dropped objects 
+
+5  Failure of Connector on Marine Riser 
+
+The U.S. Department of the Interior Bureau of Safety and Environmental Enforcement Gulf of Mexico OCS Region (BSEE) 
+has published the following report regarding a pollution incident involving the discharge of synthetic base mud (SBM) into the 
+sea due to a loss of integrity of a connector on a LMRP (lower marine riser package).  
+
+The report can be downloaded from http://www.bsee.gov/uploadedFiles/BSEE/Regulations/Safety_Alerts/SA-303.pdf  
+
+ 
+
+ 
+
+

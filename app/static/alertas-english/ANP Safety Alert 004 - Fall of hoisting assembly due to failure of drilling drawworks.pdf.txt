@@ -1,0 +1,90 @@
+ 
+
+Safety Alert 004 - ANP/SSM 
+
+Fall of hoisting assembly due to failure of drilling 
+
+drawworks 
+
+ 
+
+ 
+
+The Superintendence of Operational Safety and Environment is issuing this safety 
+alert to notify the petroleum and gas industry and other stakeholders about an incident related to fall of 
+hoisting assembly due to failure of drilling drawworks. 
+
+What happened? 
+
+During normal operations running BOP (blowout preventer) with marine riser on an offshore drilling 
+unit with dynamic positioning, occurred the unrestrained descent of the hoisting assembly (traveling block 
+and top drive). The load came to a complete stop upon the top drive colliding on the drill floor (rotary table), 
+remaining two thirds of the BOP below the mudline. There was no point of rupture in the marine riser string.  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Potential consequences 
+
+Dropped objects either at sea or at the unit can result in fatalities, environmental or material loss. 
+Additionally, excessive friction due to the drawworks steel cable during an unrestrained descent can start a 
+fire. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Identified causes 
+
+  Maintenance management failure; 
+  Contamination of disc brake with oily substance. 
+
+The accident root cause pointed by the operator investigation was the failure of the drilling unit team 
+in NOT following the original equipment manufacturer instructions for tests, inspections and maintenance 
+tasks. 
+
+Regulatory Framework 
+
+According  to  item  13.2.1  of  ANP  Resolution no.  43/2007,  the  rig  operator  shall  stablish  plans  and 
+procedures  for  inspection,  test  and  maintenance,  in  order  to  seek  mechanical  integrity  of  its  systems, 
+structures and Operational Safety Critical Equipment and Systems. Such documentation shall comply with 
+manufacturer’s recommendations, standards and engineering practices. 
+
+Item  13.4  Monitoring  and  Results  Assessment  requires  that  unit  operator  will  be  responsible  for 
+
+monitoring and assessing inspections and tests results. 
+
+The  drilling  drawworks  shall  comply  with  NR-12  (Segurança  no  trabalho  em  máquinas  e 
+
+equipamentos) requirements. 
+
+Lessons learned 
+
+  Critical equipment for operational safety shall in accordance with item 2.5.1 of Chapter I of SGSO, 
+
+stablished by ANP Resolution no. 43/2007 or supervening. 
+
+  The  maintenance plan  of  the  drilling unit  shall  be  corrected in order to better  reflect the  original 
+
+equipment manufacturer guidelines. 
+
+For  additional  information  regarding  this  safety  alert,  please  contact  ANP’s  Superintendence  of 
+
+Operational Safety and Environment at incidentes@anp.gov.br. 
+
+Contact 
+
+

@@ -1,0 +1,76 @@
+Safety Alert 
+
+From the International Association of Drilling Contractors
+
+ 
+
+ 
+ALERT 02 – 45  
+ 
+
+STABBING BOARD INCIDENT RESULTS IN AN LTI 
+
+ 
+WHAT HAPPENED: 
+ 
+An  incident  occurred  when  the  stabbing  board  fell,  resulting  in  a  fractured  ankle.  The  Assistant  Driller  (AD) 
+sent  a  Floorhand  up  to  the  stabbing  board  to  check  the  prep  work  on  the  welds  for  the  Non  Destructive 
+Inspection.    The  Floorhand  entered  the  stabbing  board  which  was  not  in  its  properly  stored  location  and 
+attempted to lower the stabbing board, but was unsuccessful.  The AD went up to the stabbing board to assist 
+the Floorhand in lowering the stabbing board.  The AD manually disengaged the safety lock and the Floorhand 
+opened  the  “dogs”  so  the  stabbing  board  could  be  lowered.  The  AD  then  proceeded  to  lower  the  stabbing 
+board.   While  lowering  the  stabbing  board,  the  lifting  cable  parted  and  dropping  the  stabbing  board  8’  –  10’ 
+feet.  The Floorhand was properly secured with a full body harness attached to a safety retracting lifeline, that 
+was  located  at  the  top  of  the  stabbing  board  frame  work  and  anchored  to  the  Derrick  structure.    The 
+Floorhand’s fall was arrested by the safety retracting lifeline, but he was struck by the framework as the board 
+descended, which resulted in a first aid case.  The AD was wearing a full body harness, but had attached the 
+safety lanyard to the stabbing board.  The AD fell with the stabbing board and received a fractured ankle. 
+ 
+WHAT CAUSED IT: 
+ 
+No pre-job meeting was conducted between the AD and Floorhand and the weight of the stabbing board and 
+two employees  was not evaluated..  The weight  of two employees on the stabbing board combined  with  the 
+weight of the board exceeded the safe working load (1,500 lbs) of the stabbing board assembly.  The AD was 
+not  utilizing  proper  fall  protection  per  company  policy  and  secondary  fall  protection  had  been  removed.  
+Although it is not necessary to disengage the primary safety device to lower the stabbing board, it had been 
+manually disengaged and thus prevented the primary safety device from working properly.   
+ 
+It was also found that neither the Chief Engineer nor Mechanic was notified of the mechanical problems with 
+the stabbing board.   Although  in use  only five months, the cable showed unusual  wear  at the  point  where it 
+parted.   
+ 
+CORRECTIVE ACTIONS:  To address this incident, this company instructed operations personnel to:   
+ 
+•  Ensure personnel understand the importance of not securing themselves to the stabbing board, or to any 
+
+equipment that has the potential to fall.  Additionally, equipment and procedures must be in place to 
+prevent potential falling equipment from striking anyone. 
+
+•  Create a separate JSA for stabbing board inspection/work.  Include the use of safety retracting lifelines 
+
+instead of lanyard.  
+
+•  The stabbing board JSA must be reviewed prior to use.   
+• 
+• 
+
+Identify the Safe Working Load for the stabbing board and include it in the Master JSA.   
+Install a sign at the stabbing board entrance that states, “Safety Retracting Lifeline” required while working 
+on stabbing board. 
+
+•  Stabbing boards with Cable Climber type devices must renew cables annually.  
+•  Stabbing boards must be stored with weight off the winch or hoist. 
+
+The Corrective Actions stated in this alert are one company’s attempts to address the incident, and do not 
+
+necessarily reflect the position of IADC or the IADC HSE Committee. 
+
+This material is presented for information purposes only.  Managers & Supervisors should  
+
+evaluate this information to determine if it can be applied to their own situations and practices. 
+
+Copyright © 2002 International Association of Drilling Contractors.  All Rights Reserved 
+
+Issued October 2002 
+
+

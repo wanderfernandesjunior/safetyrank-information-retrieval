@@ -1,0 +1,189 @@
+ 
+ 
+ 
+ 
+ 
+October 23, 2008 
+Washington, DC 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+                   Alert 9-08 
+
+ELECTRONICALLY-CONTROLLED CARGO PUMP ENGINE COMPONENTS 
+
+  
+For  many  years,  cargo  pump  engines  on  weather  decks  of  Subchapter  D  &  O  tank  barges  had 
+mechanical-type  start  and  control  systems.    The  installation  of  electronically  controlled  engines  on 
+tank  barges  since  the  1990s  has  introduced  non-approved  electrical  equipment  associated  with 
+engine monitoring and control systems into hazardous locations (Class I, Division I) on thousands of 
+tank barges nationwide. 
+ 
+U.S. Coast Guard District Eight recognized this problem with John Deere manufactured engines and 
+distributed enforcement guidance to their field units on November 22, 2005. Since then, John Deere 
+has engineered retrofit packages for approximately 400 units and has gained approval from the U.S. 
+Coast  Guard  Marine  Safety  Center  for  some  engine  models.    Because  of  widespread  use  of 
+electronically  controlled  engines,  we  suspect  there  may  be  other  equipment  currently  in  use  that 
+similarly is not designed or approved for hazardous locations.  Other manufacturers of these engines 
+will likely need to follow suit with their own retrofit packages. 
+ 
+46  CFR  111.105-31(1)  defines  Class  I  /  Division  1  locations  as  any  area  located  within  10  feet  (3 
+meters) of a cargo tank vent outlet or ullage opening, or cargo pipe flange or valve on a tank barge 
+that carries a flammable or combustible cargo with a flashpoint below 60 degrees C (140 degrees F).  
+By  regulations,  electrical  equipment  located  in  hazardous  locations  must  be  approved  intrinsically 
+safe, explosion-proof, or purged and pressurized. 
+ 
+On John Deere electronically controlled cargo pump engines, electrical ignition sources were found in 
+control panels, notification lights, alternators, batteries, computers, and associated wiring for engine 
+sensors.  Since new components are still being designed and tested, it may be some time before all 
+electronic  components  on  John  Deere  engines  can  be  re-engineered  and  retrofitted  for  hazardous 
+locations.  Again, we suspect other makes of electronically controlled engines have the same issues. 
+ 
+Until complete retrofit packages are designed and approved for these engines, vessel operators and 
+OCMIs  should  take  immediate  steps  to  eliminate  the  risk  by  ensuring  all  electrical  components  on 
+tank barges are in sound and serviceable condition, and those components that that are not suitable 
+for hazardous locations are replaced as soon as possible. 
+ 
+See the photographs below for examples of electrical components on electronically-controlled pump 
+engines that should be examined, repaired or replaced.  All electric starters should be removed and 
+replaced  with  a  hydraulic  starter  with  a  manual  hand  pump,  or  a  pneumatic  starter  with  the  air 
+compressor located in a non-hazardous location. 
+
+Alternators:  If  an  alternator  is  used,  it  should  be  an  approved 
+flameproof or explosion proof alternator. 
+ 
+Typical flame proof /explosion proof alternator.  
+ 
+ 
+ 
+ 
+ 
+ 
+In  some  installations,  cables  between  the  alternator  and  battery 
+were cut and a connector put in place to allow easier servicing. This 
+alteration is not appropriate for hazardous locations.  The cable seal 
+on  this  alternator  may  not  be  the  one  approved  for  the  alternator 
+and may have to be examined.   
+ 
+Cable  entries  on  flameproof  or  explosion  proof  enclosures  require 
+sealing fittings that are suitable for the enclosure. 
+
+in  explosion  proof 
+
+Electronic  displays  should  be  enclosed 
+enclosures. 
+ 
+ 
+Typical  unacceptable  electronic  display.  This  is  not  in  an  explosion 
+proof  enclosure.    The  beacon  installation  shown  here  outside  of  the 
+enclosure is also unacceptable.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Typical  acceptable  electronic  display  –  This  particular  one  was 
+approved  by  the  Marine  Safety  Center  (John  Deere  Part  No. 
+RE531478) 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+Engine control units (ECU) should be installed 
+in  an  explosion-proof  enclosure  or  outside  the 
+hazardous zone. 
+On this particular ECU, a large hole was drilled 
+in  the  bottom  of  the  enclosure  with  multiple 
+wiring  harnesses  coming  into  it  and  installed 
+without  any  sealing  compound  installed  in  the 
+  This 
+cable  gland. 
+in 
+hazardous locations.  
+ 
+An  acceptable  engine  control  unit 
+(ECU) 
+enclosure 
+is  shown  here  with  a  sealing 
+compound  installed  in  a  proper  cable  gland. 
+Sealing  compound  poured  in  the  conduit  or 
+cable seal fitting should surround each individual 
+insulated  conductor  and  the  outer  jacket  of  the 
+cable,  unless  the  cable  is  gas  tight.  Cables 
+should be prevented from being pulled out of the 
+conduit or cable seal fitting. 
+
+is  not  acceptable 
+
+ 
+Batteries  should  be  placed  in  explosion  proof 
+enclosures  and  should  have  an  approved 
+breather installed on top. 
+ 
+An  acceptable  battery  installation  as  shown 
+here,  approved  for  this  purpose  should  be  the 
+“sealed, gel or AGM” types.  
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+This  safety  alert  is  provided  for  informational  purposes  only  and  does  not  relieve  any  domestic  or 
+international safety, operational or material requirement.  Developed by the Office of Domestic Vessel 
+Activities (CG-5431), United States Coast Guard Headquarters, Washington, DC.  Questions should 
+be directed to LT James T. Fogle at (202) 372-1038 or james.t.fogle@uscg.mil.  
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Distributed by the Office of Investigations and Analysis: http://marineinvestigations.us 
+
+To subscribe: kenneth.w.olsen@uscg.mil 
+
+

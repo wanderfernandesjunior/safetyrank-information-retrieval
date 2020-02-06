@@ -1,0 +1,95 @@
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+November 21, 2006                                                                                                                               Alert 5-06 
+Washington, DC 
+ 
+Structural Integrity of Propulsion Boiler Casings 
+ 
+Recently  a  Great  Lakes  bulk  cargo  vessel  suffered  a  boiler  tube  rupture  resulting  in  a  boiler  casing  failure 
+which injured two crewmembers.  The tube failure was not unique and the boiler casing should have contained 
+and channeled the steam out the stack.   
+ 
+An  investigation  revealed  that  the  structural  integrity  of  the  inboard  boiler  casing  was  compromised  and  the 
+increase  in  internal  casing  pressure  caused  by  the flashing  of  water  into  steam  and  its  expansion  caused  a 
+portion of the casing to separate, allowing the steam and a mixture of soot, refractory and other debris to be 
+released  in  the  vicinity  of  the  operating  station.  (Attachment  detail  1)  Investigators  discovered  a  number  of 
+areas where the strength of the inboard casing was compromised.    
+ 
+The aft inboard corner of the boiler casing is constructed of three inch angle iron which runs vertically to the top 
+of the boiler.  Attached to it are the studs which hold the dogs that secure the inboard most door of the aft side.  
+The  bottom  of  the  vertical  run  should  be  welded  to  a  similar  piece  of  three  inch  angle  iron  which  runs 
+transversely across the boiler front.  The transverse leg of the angle iron remained attached but the vertical leg 
+had been cut away during a previous modification and not refastened.  (Attachment detail 2) 
+ 
+The  inboard  boiler  casing  at  the  intersection  of  the  steam  drum  is  not  permanently  attached.    (Attachment 
+detail 3)  The edge of the casing is fitted into a flanged expansion joint. An inner flange is welded perpendicular 
+to  the  drum  surface and  the  outer  half  is bolted to  it.  The  two flanges form  a  slot  and the  outermost  casing 
+edge fits within. This arrangement allows for drum movement due to thermal expansion of boiler components 
+without damaging the casing.  It also prevents the casing from moving in any direction. For reasons unknown, 
+about 20 inches of the aftermost edge of the casing which should have been recessed into the slot was cut 
+away;  weakening  the  strength  of  the  casing.  This  modification  combined  with  the fact  that  the  corner  at  the 
+upper casing between the inboard and aft casing had been cut away, left the after portion of the upper inboard 
+casing substantially unsupported.   (Attachment detail 4) 
+ 
+To  prevent  a  similar  casualty,  the  U.S.  Coast  Guard  strongly  recommends  that  owner  operators  of  steam 
+propelled  vessels  have  their  engineering  staffs  assess  the  structural  integrity  of  their  boiler  casings;  paying 
+particular  attention  to  support  structure  interfaces  at  the  steam  drum,  front  to  side  casing  attachments  and 
+upper to lower casing transitions.   It is also recommended that a thorough review of previous casing repairs be 
+conducted to identify signs of diminished structural integrity.  For U.S. flag vessels, any repairs necessitated by 
+this  assessment  should  be  coordinated  with  the  cognizant  Officer  in  Charge  Marine  Inspection  and 
+Classification Society representatives to ensure that the equipment is reconstructed as originally designed and 
+in accordance with good marine practice. 
+ 
+Questions  pertaining  to  this  safety  alert  may  be  addressed  to  CDR  Brian  Fisher  of  the  USCG  Quality 
+Assurance  Staff  at  brian.t.fisher@uscg.mil  or  Mr.  Ken  Olsen  at  kenneth.w.olsen@uscg.mil  of  the  Office  of 
+Investigations and Analysis. 
+ 
+This information and the attached graphics are provided for informational purposes only and does not relieve 
+any existing domestic or international safety requirement.  
+
+ 
+
+ 
+
+Attachment to Safety Alert 5-06
+
+The drawing below  is provided for informational purposes only and may not represent the exact boiler
+associated with the casualty.
+
+Detail 1
+
+(Aft side of casing.)
+
+Detail 3
+
+Drum
+
+Outer Flange
+
+Edge fits under this flange.
+
+Edge that w a s c u t
+
+a w a y.
+
+Inboard Casing
+
+Detail 4
+
+Inboard Casing
+
+Detail 2
+
+Area  of Detail 1.
+
+Side View
+
+(Inboard side of casing.)
+
+

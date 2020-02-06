@@ -1,0 +1,94 @@
+Safety Alert 
+
+        From the International Association of Drilling Contractors 
+
+ALERT 05 – 17  
+
+NEAR MISS – ELEVATOR FAILURE  
+
+ 
+
+ 
+
+ 
+
+ 
+WHAT HAPPENED: 
+ 
+ 
+A serious near miss occurred recently while laying down 3.5” tubing 
+on  an  offshore  rig.  This  incident  could  have  been  avoided  if  a 
+simple safety device was installed in the elevator hinge pin.  The rig 
+employee operating the air hoist lifted a joint of 3.5” tubing from the 
+mouse hole using a single joint elevator. After installing the thread 
+protector and while laying down the tubing, the elevator struck the 
+top  of  the  V-door.  The  hinge  pin  was  knocked  out  of  the  elevator 
+hinge, the hinge opened and the tubing slid down the V-door along 
+the catwalk and came to rest on the main deck. 
+
+ 
+WHAT CAUSED IT: 
+ 
+1.  A safety device (lock ring) was not installed in the hinge pin.  
+2.  The elevator failed because a safety device was not installed.  
+3.  The elevator struck the V-door because the operator was 
+
+inexperienced or inattentive or there was inadequate supervision.  
+
+Hinge Pins 
+
+ 
+
+Note – No locking pin 
+
+ 
+
+ 
+A pre-job safety meeting should have included an inspection of the equipment and identified striking the V-
+door as a hazard. 
+ 
+CORRECTIVE ACTIONS: To address this incident, this company did the following: 
+ 
+1.  Safety devices should be recognized in the pre-job deployment stage.  The 3rd party contractor did have 
+an  inspection  check  for  the  hinge  pin  but  there  were  no  specifications  for  the  inspection  (NDT)  and 
+nothing about the lock-ring.  Note:  The single joint elevators have two hinges and therefore two hinge 
+pins.    Of  the  two  sets  on  location  (one  backup)  three  of  the  four  lock-rings  were  missing.    This  is  an 
+omission by the 3rd party contractor.  
+If additional supervision is needed on the rig floor when multi-tasking, then it should be clearly identified 
+in the JSA and supervision should be provided.  
+
+2. 
+
+3.  Rig Supervisors are to inspect all elevators delivered to the rig to ensure safety devices are fitted.  
+4.  Pressed  hinge  pins  may  be  considered,  however  only  the  exposed  sections  of  this  type  can  be  non-
+
+destructively tested.  
+
+5.  Rig Site Management along with the Safety Officer must ensure that JSA’s are carried out seriously and 
+
+then executed according to the steps. 
+
+ 
+Conclusion: 
+ 
+This  incident  could  have  been  avoided  if  a  simple  safety  device  was  installed  in  the  elevator.    Pre-
+deployment  and  onsite  checklists  are  designed  to  prevent  such  incidents.  Although  not  the  cause  of  the 
+incident,  the  inexperienced  or  inattentive  air  hoist  operator  was  a  contributing  factor.  The  JSA  if  done 
+properly should have identified the V-door as a potential hazard. The investigation is ongoing with the third 
+party contractor to determine root cause of the incident. 
+ 
+ 
+
+The Corrective Actions stated in this alert are one company’s attempts to address the incident,  
+
+and do not necessarily reflect the position of IADC or the IADC HSE Committee. 
+
+This material is presented for information purposes only.  Managers & Supervisors should 
+
+evaluate this information to determine if it can be applied to their own situations and practices 
+
+Copyright © 2005 International Association of Drilling Contractors All rights reserved. 
+
+Issued May 2005 
+
+

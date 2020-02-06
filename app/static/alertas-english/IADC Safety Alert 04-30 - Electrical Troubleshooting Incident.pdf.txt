@@ -1,0 +1,62 @@
+Safety Alert 
+
+From the International Association of Drilling Contractors 
+
+ 
+
+ 
+ 
+ALERT 04 – 30 
+ 
+
+ELECTRICAL TROUBLESHOOTING INCIDENT  
+
+ 
+WHAT HAPPENED: 
+ 
+A  problem  was  experienced  with  a  main  engine-cooling  pump.    The  electrician  was  asked  to  check  the 
+electrical  supply  to  the  cooling  pump  motor.    The  electrician  opened  the  Motor  Control  Center  panel  and 
+proceeded  to  check  the  fuses  with  his  multi-meter  on  the  Ohms  scale.    During  his  tests  the  probe  from  the 
+meter shorted across fuses 2 and 3 causing flash burns to the electricians hands; it also blacked out the rig 
+due to consequential reasons. 
+ 
+WHAT CAUSED IT: 
+ 
+•  The MCC panel inter-lock was faulty causing the cubicle to remain live after the door was opened.  
+•  The electrician did not prove the electrical supply “DEAD” prior to working in the cubicle. 
+•  The electrician did not adhere to the Try section of Lock, Tag and Try. 
+•  The electrician did not review the appropriate JSA for the task. 
+ 
+CORRECTIVE ACTIONS:  To address this incident, this company issued the following action items: 
+ 
+1.  All  electricians  are  to  make  sure  that  the  Electrical  Procedures  section  in  the  company  preventative 
+
+maintenance manual is reviewed and understood.  
+
+2.  Electricians are to make sure that electrical JSAs reflect the content of the Electrical Procedures section. 
+
+(With specific regard to “PROVING DEAD” prior to starting work).  
+
+3.  Electricians to make sure the JSAs are reviewed prior to starting work.  
+4.  Electricians are to use fused and shrouded test leads to avoid short circuit risks.  
+ 
+It is the responsibility of the Rig Manager/OIM to make sure that any Master JSA affected by this Alert is 
+updated.  The Rig Manager/OIM will also make sure that the information in this Alert is provided immediately 
+to all personnel, and that it will be included as a topic at the next regularly scheduled Safety Meeting.  If the 
+Alert is safety or environmentally critical to the present operation, the OIM will call a special Safety Meeting to 
+cover the topic with all personnel. 
+ 
+
+The Corrective Actions stated in this alert are one company’s attempts to address the incident, and do not 
+
+necessarily reflect the position of IADC or the IADC HSE Committee. 
+
+This material is presented for information purposes only.  Managers & Supervisors should  
+
+evaluate this information to determine if it can be applied to their own situations and practices. 
+
+Copyright © 2004 International Association of Drilling Contractors.  All Rights Reserved 
+
+Issued July 2004 
+
+

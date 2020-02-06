@@ -1,0 +1,94 @@
+This issue sponsored by
+
+www.aiche.org/ccps
+
+http://www.aiche.org/CCPS/Publications/Beacon/index.aspx
+
+Messages for Manufacturing Personnel
+
+http://www.dekra-process-safety.com/
+
+What if your agitator fails?
+
+August 2018
+
+In 1993 in a German factory, o-chloronitrobenzene was reacted with 
+
+caustic soda dissolved in methanol to produce o-nitroanisol in a 36 m³ (9500 
+US gal) batch reactor. This reaction is exothermic (generates heat), and the 
+addition of caustic normally took place at about 80 °C over 5 hours. 
+
+Surprisingly, a batch did not require cooling! In fact, rather than needing 
+
+cooling to maintain the required batch temperature, steam heating was 
+required. Then it was found that the agitator had not been on during the 
+caustic addition. The reactants were not properly mixed (1). The agitator 
+was started, the unreacted chemicals were mixed (2), and the batch 
+temperature quickly increased, exceeding 160 °C (320 °F). At the elevated 
+temperature a different, also exothermic, reaction occurred. 10 m³ (2650 US 
+gal) of reactor contents were vented to the atmosphere through a
+pressure relief valve. A large area, including nearby residences, was contaminated. Nobody was injured, but health risk 
+concerns remain. Direct costs were about 40 million DM (in 1993, equivalent to about US $ 38 million today).
+
+1
+
+2
+
+Did You Know?
+
+What Can You Do?
+
+ Chemicals can’t react if they do not come into con-
+
+tact with each other. If there is no agitation in a 
+reactor, the reaction will be slow or stop, and 
+unreacted chemicals will accumulate. In an exo-
+thermic reaction this is a serious hazard. If you re-
+start the agitator, there will be a lot of unreacted 
+material available and the reaction may be very fast. 
+Your cooling system may not be able to remove the 
+heat fast enough to control the reactor temperature.
+ Mixing is clearly important in a vessel containing a 
+multi-phase mixture such as liquid-solid or organic-
+aqueous liquid phases. It is also important if the 
+materials in the vessel are mutually soluble. In the 
+pictures below, balsamic vinegar, which is 
+completely soluble in water, is added to water 
+without mixing. The vinegar sinks to the bottom of 
+the glass and does not form a uniform solution until 
+the mixture is stirred with a spoon.
+
+ If you lose agitation in a reactor, batch or continuous, get 
+technical assistance before re-starting the agitator. Gather 
+some data to share with technical experts to help decide on 
+the appropriate action. For example, how long was the 
+agitator off, what was added to the vessel while it was off, 
+what is the temperature and pressure history of the vessel?
+ Recognize that loss of agitation can be a problem in other 
+
+vessels even if there is no intended reaction. Without 
+agitation, there can be large temperature and concentration 
+differences in the vessel. This can cause freezing on cooling 
+surfaces, boiling near heating surfaces, precipitation of solids 
+from a solution, or settling of solids from a slurry. Variation 
+in composition of material fed from an improperly mixed 
+vessel to other equipment can cause operating or safety 
+issues in downstream process units.
+
+ Heating or cooling of a vessel without agitation is likely to 
+
+be inefficient, and temperature indication may be inaccurate 
+if the vessel contents are not mixed.
+
+Reference  Gustin, J-L., “How the Study of Accident Case Histories Can Prevent Runaway Reaction Accidents to Occur Again.” IChemE Symposium Series No. 148, pp. 27-40, 2001.
+
+Keep your reactor agitated for safety!
+
+©AIChE 2018. All rights reserved. Reproduction for non-commercial, educational purposes is encouraged. However, reproduction for any 
+commercial purpose without express written consent of AIChE is strictly prohibited. Contact us at ccps_beacon@aiche.org or 646-495-1371.
+
+The Beacon is usually available in Afrikaans, Arabic, Catalan, Chinese, Czech, Danish, Dutch, English, Filipino, French, German, Greek, Gujarati, Hebrew, Hindi, Hungarian, Indonesian,  
+
+Italian, Japanese, Korean, Malay, Marathi, Mongolian, Persian (Farsi), Polish, Portuguese, Romanian, Russian, Spanish, Swedish, Telugu, Thai, Turkish, Urdu, and Vietnamese.
+
+

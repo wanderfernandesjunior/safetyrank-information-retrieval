@@ -1,0 +1,84 @@
+Safety Alert 
+
+        From the International Association of Drilling Contractors 
+
+FAILURE OF SAFETY DEVICES ALLOWED 
+
+CASING STABBING BASKET TO FALL TO RIG FLOOR 
+
+ 
+WHAT HAPPENED: 
+ 
+While the rig crew was running a bottom hole assembly into the hole, the casing stabbing basket (CSB) fell 
+to  the  rig  floor  and  toppled  over.    As  it  tipped  over,  the  Casing  Stabbing  Basket  contacted a  de-energized 
+electrical cable, which in turn pushed a floorhand to the rig floor.  While the floorhand was not struck directly 
+by the Casing Stabbing Basket, he did experience two lacerations to the head; one on the forehead and the 
+other  on  the  top  of  the  head.    The  crew  assisted  the  floorhand  from  within  the  confines  of  the  Casing 
+Stabbing  Board  and  to  the  rig  doghouse  where  the  crew  administered  first  aid.    The  floorhand  was 
+transported  to  the  local  medical  clinic  where  the  wounds  were  sutured.    The  floorhand  was  subsequently 
+seen in an emergency room for further evaluation and received a work release. 
+
+ 
+ALERT 06 – 43 
+ 
+
+ 
+WHAT CAUSED IT: 
+ 
+
+1.  The Casing Stabbing Basket winch cable broke:   
+
+•  Due  to  extremely  high  winds  over  several  days,  the  cable  which  raises  and  lowers  the  CSB, 
+
+rubbed against a piece of angle iron.  The rubbing eventually frayed the cable until it broke. 
+
+2.  The Line Break Safety System did not engage.  
+
+•  When the CSB began to fall the springs that should have applied tension and make the safety 
+
+dogs engage failed.   
+
+3.  The CSB parking brake did not engage.  
+
+•  The parking brake spring was missing. 
+
+ 
+CORRECTIVE ACTIONS:  To address this incident, this company did the following: 
+ 
+
+1.  Modifications were made to the existing Casing Stabbing Basket to improve safety device function. 
+2.  Specifics  of  Casing  Stabbing  Board  (functional  and  safety)  were  added  to  pre-job  inspection  as 
+
+referred to in the Rig Operating Guidelines for running all tubulars. 
+
+3.  The derrick inspection checklist were modified to include the safety features of the Casing Stabbing 
+
+Basket. 
+
+4.  Training on operation of Casing Stabbing Baskets to be implemented. 
+5.  Casing  Stabbing  Baskets  and  all  its  critical  components  will  be  added  to  the  Preventative 
+
+Maintenance Program being sure to specify frequency of inspections. 
+
+6.  Develop rig operating guidelines specific to Casing Stabbing Baskets for the entire fleet of rigs. 
+7.  Placards will be developed and posted that provide operating instructions and safety hazards while 
+
+operating Casing Stabbing Baskets. 
+
+ 
+ 
+ 
+
+The Corrective Actions stated in this alert are one company’s attempts to address the incident,  
+
+and do not necessarily reflect the position of IADC or the IADC HSE Committee. 
+
+This material is presented for information purposes only.  Managers & Supervisors should 
+
+evaluate this information to determine if it can be applied to their own situations and practices 
+
+Copyright © 2005 International Association of Drilling Contractors All rights reserved. 
+
+Issued December 2006 
+
+

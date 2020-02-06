@@ -1,0 +1,66 @@
+Safety Alert 
+
+From the International Association of Drilling Contractors
+
+ 
+
+ 
+ALERT 02 – 50 
+ 
+
+CUTTING OFF CASING RESULTS IN FIRE IN THE CELLAR 
+
+ 
+WHAT HAPPENED: 
+ 
+Casing (13 3/8") had been run in the hole and cemented in place.  The cement had been displaced using oil-
+based  mud.    The  welder  was  instructed  to  cut  off  the  casing.    A  hot  work  permit  was  developed  with  the 
+assistance of the operator’s safety rep and contractor supervisor and the hot work permit was issued for this 
+job.    
+ 
+To start the job, a torch was used to cut a hole in the casing to allow the fluid above the intended cut in the 
+casing to drain.  When the hole was cut the torch ignited the oil-based mud as it sprayed out of the hole in the 
+casing.    There  was  a  fire  watch  standing  by  who  immediately  extinguished  by  the  fire  and  the  job  was 
+suspended.    
+ 
+WHAT CAUSED IT: 
+ 
+The  level  of  oil  based  mud  in  the  casing  was  not  determined  prior  to  commencing  cutting  the  casing  off.  
+Whenever  oil-base  mud  is  in  use  there  is  a  potential  for  fire  and  an  extremely  efficient  ignition  source  was 
+provided with the cutting torch.  The “Fire Hazard” of oil based mud was not identified in the Hot Work Permit.  
+Therefore purging requirements were not met.  The job was being performed around 2 AM following a cement 
+job and personnel may not have been as alert as needed to be.   
+ 
+CORRECTIVE ACTIONS:   
+ 
+To address this incident, this company instructed rig personnel:   
+ 
+•  When  oil  based  mud  is  used  to  displace  cement,  pump  a  water  blanket  to  displace  the  oil  based  mud 
+
+before cutting the casing.  
+
+•  Ensure all personnel understand the requirements and follow “Hot Work Permit” procedure. 
+•  Review MSDS for Oil Based Mud to get a better understanding of this concept  of oil-base mud catching 
+
+•  Hot  Work  Permits  are  designed  to  prevent  these  kinds  of  incidents,  but  they  have  to  be  more  than  just 
+
+exercising a required procedure.  They are there for your protection and must be taken seriously.   
+
+fire.   
+
+ 
+ 
+
+The Corrective Actions stated in this alert are one company’s attempts to address the incident, and do not 
+
+necessarily reflect the position of IADC or the IADC HSE Committee. 
+
+This material is presented for information purposes only.  Managers & Supervisors should  
+
+evaluate this information to determine if it can be applied to their own situations and practices. 
+
+Copyright © 2002 International Association of Drilling Contractors.  All Rights Reserved 
+
+Issued November 2002 
+
+

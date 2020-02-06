@@ -1,0 +1,131 @@
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+November 19, 2015 
+Washington, DC 
+
+Inspections and Compliance Directorate 
+
+   Safety Alert 13-15 
+ (Update 1 to 02-15) 
+
+ 
+
+Ultra Low Sulfur Fuel Oil & Compliance with MARPOL Requirements 
+
+Before entering and while operating within Emission Control Areas 
+
+This  safety  alert  updates  Safety  Alert  2-15,  dated  March  3,  2015,  by  adding  two  additional 
+recommendations highlighted in red.  
+ 
+The Coast Guard has confirmed several reports it has received stating that main engines may not 
+attain  the  expected  speed  when  using  ultra  low  sulfur  fuel  oil.    As  such,  the  Coast  Guard  has 
+revised  its  list  of  recommendations  to  vessel  owners  and  operators  about  the  importance  of 
+establishing effective fuel oil changeover procedures to comply with MARPOL Annex VI emission 
+regulations.   
+
+The  Coast  Guard  strongly  recommends  that  vessel  owners  and  operators  ensure  the  following 
+measures are completed as part of their fuel oil switching procedures: 
+
+•  Ensure  fuel  oil  switching  is  accomplished  outside  of  busy  traffic  lanes  and  the  ECA. 
+Generally  the  ECA  is  200  nm  from  the  North  American  Coast  and  50  miles  from  the  U.S. 
+Caribbean coast (e.g., the Commonwealth of Puerto Rico and the U.S. Virgin Islands); 
+
+•  Utilize their technical resources to develop safe operations and maintain full compliance with 
+
+emission requirements; 
+
+•  Consult  with  engine  and  boiler  manufacturers  for  fuel  oil  changeover  guidance  and  to 
+
+determine if system modifications or additional safeguards are necessary; 
+
+•  Consult fuel suppliers for proper fuel selection; 
+•  Ensure  all  sensors,  controls  and  alarms (e.g., pressure,  temperature,  viscosity,  
+
+differential pressure, and flow indicators) are operational and function as designed; 
+
+•  Ensure system piping, seals, gaskets, flanges, fittings, brackets, etc., are maintained; 
+•  Ensure detailed system schematics are available; 
+•  Review and update fuel oil changeover procedures as needed; 
+•  Establish a fuel oil system inspection and maintenance schedule; 
+•  Remember that the energy content of a given volume of ULS fuel oil may differ from residual 
+fuel,  such  that  existing  throttle  settings  may  not  give  the  desired  propeller  shaft  RPM  or 
+generator  loads; performance and speed  trials  on  ULS  fuel  oil  may  need  to  be  conducted;  
+(New) As part of the master-pilot information exchange (as required by 33 CFR 164.11(k)), 
+discuss the vessel's maneuvering characteristics, including any change in RPMs associated 
+with ULS fuel oil; 
+(New) Determine if using ULS fuel necessitates amendments to the pilot card (see IMO RES 
+A.601(15) and NVIC 7-89); 
+
+• 
+
+• 
+
+1 
+
+ 
+ 
+
+ 
+ 
+
+ Safety Alert 13-15 
+Change 1 to 02-15 
+
+ 
+ 
+ 
+•  Review and update fuel changeover procedures based on lessons learned; 
+•  Provide initial and periodic crew training for accomplishing safe, effective and leak-free fuel 
+
+switching; and 
+
+•  Anticipate that there may be many technical challenges for operators when beginning to use 
+ULS fuel  oil  as  a  matter  of  routine  and  compliance.  These  range  from  excessive  leakages 
+of fuel system components, increased wear and tear on these components, lack of lubricity 
+of 
+in  maintenance  schedules, 
+operational  methods, etc.   
+
+for  possible  changes 
+
+fuels,  and 
+
+the  need 
+
+the 
+
+This Safety Alert is provided for informational purposes only and does not relieve any domestic or 
+international  safety,  operational  or  material  requirement.  Questions  should  be  forwarded  to 
+the  Coast  Guard  Office  of  Commercial  Vessel  Compliance,  Foreign  and  Offshore  Vessel 
+Division (CG-CVC-2) at 202-372-1218 or by email at CGCVC@uscg.mil. 
+ 
+ 
+Link to original safety alert:    http://www.uscg.mil/hq/cg5/cg545/alerts/0215.pdf 
+ 
+
+ 
+
+ 
+
+******* 
+ 
+
+2 
+
+

@@ -1,0 +1,118 @@
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+June 16, 1998 (reformatted 2014) 
+Washington, DC 
+
+         Inspections and Compliance Directorate 
+
+REPOWERING WOOD BOATS 
+
+      Safety Alert 01-98 
+ 
+
+the  operator  of  an 
+
+Upon return from a routine day fishing trip in November 
+1997, 
+inspected  wood  small 
+passenger  vessel  reported  that  his  vessel  was  taking 
+on  water  at  the  dock  after  discharging  passengers. 
+Preliminary  investigation  indicated  that  the  starboard 
+chine  log  and  outside  starter  plank  of  his  41  ft  cross-
+planked Chesapeake deadrise hull were fractured. 
+
+Further  investigation  revealed  that  the  28  year  old  vessel  had  replaced  the  existing  and  original  twin 
+gasoline engine installation with twin diesels at the beginning of the season. Although the diesels were of 
+comparable horsepower, they were double the physical size and weight of the original installation, with an 
+available  peak  torque  of  over  twice  the  existing  gasoline  engines.  For  details,  see  Traveling  Inspection 
+Report dated January 15, 1998 and Safety Alert message dated February 5, 1998. 
+
+Diesel technology has advanced rapidly in the last ten years, with engines becoming increasingly efficient 
+for their size. These mechanical advances coupled with already proven planing hull designs may result in 
+combinations  which  drive  existing  wood  hulls  harder  than  envisioned  by  their  original  builders  and  or 
+designers. Some already optimized designs may not have sufficient structure to survive such a re-powering 
+without additional hull strengthening or careful engine choice. 
+
+CROSS-PLANKED HULLS 
+
+Cross-planked hulls are a type of vee-bottom construction unique to the Chesapeake Bay, although Coast 
+Guard  records  indicate  that  these  vessels  are  operating  throughout  the  country  .  Their  construction  is 
+unique  in  that  the  side  planking  above  the  chine  is  run  fore  and  aft  with  vertical  side  frames  at  regular 
+intervals, while the bottom planks run perpendicular to the keel instead of fore and aft. The side frames end 
+at the chine, and do not extend to the keel. The bottom structure consists of longitudinal stringers or "sister 
+keels"  run  fore  and  aft  at  regular  intervals  between  the  keel  and  the  chine.  Transverse  strength  is  via 
+strategically  placed  "strongback"  timbers  which  run  chine  to  chine  and  are  generally  tied  into  the  side 
+planking with sizeable brackets. (See NVIC 7-95 and BOATBUILDING by Howard Chappelle) 
+
+1 
+
+When  these  hulls  are  loaded,  the  chine  log 
+and starter plank will give the first indication of 
+structural  failure.  The  construction  detail  in 
+these  areas  may  also  contribute  to  the  hull 
+failure  mechanism,  whether  brought  on  by 
+natural  aging  or  exacerbated  by  increased 
+propulsion power installation. The direction of 
+the  wood  grain  selected  in  order  to  bend  the 
+chine  and  starter  planks  in  place  runs  fore 
+and  aft.  The  side  frame  heels  are  generally 
+bolted from the outside in, through the starter 
+plank and face of the chine log to pick up the 
+frame.  These  frame  bolts  are  generally  in  a 
+line horizontally with grain of the chine log.  
+
+Initial  indications  include  shallow  checking  of  the  face 
+of  the  chine  log  on  the  inside  or  on  the  face  of  the 
+starter plank on the outside "bolt to bolt." 
+
+As the hull continues to work, these checks can widen 
+into fractures, with the worst case of both the chine log 
+and  the  outside  starter  plank  fracturing  all  the  all  the 
+way through.  
+
+ 
+
+2 
+
+ 
+
+ 
+
+The chine log and starter planks on all cross-planked hulls should be inspected closely at each scheduled 
+drydock  inspection  for  early  signs  of  deterioration.  When  inspected  underway,  leakage  on  the  top  of  the 
+chine log may indicate a split starter plank, versus leakage on the bottom of the chine which is an indication 
+of the condition of the bottom planking to chine connection. These areas should be looked at closely before 
+re-powering  schemes  are  approved,  so  that  any  preliminary  indications  can  be  fully  documented  and 
+watched over time 
+
+OTHER WOOD HULLS 
+
+Although the above casualty and discussion are specific to Chesapeake cross-planked deadrise hulls, the 
+issue  of  re-powering  and  its  impact  on  existing  wood  hulls  is  applicable  regardless  of  design.  This  is 
+particularly  important  when  the  conversion  is  made  from  gasoline  to  diesel  engines.  Because  of  the 
+inherently  higher  torque  available  from  diesels,  they  will  allow  an  operator  to  drive  the  hull  harder  in  sea 
+conditions where a gasoline engine would load down and automatically force a reduction in speed. Lightly 
+built  planing  hulls  that  will  continue  to  perform  with  increased  power  should  be  targeted  and  examined 
+closely both before and after modification for any adverse effects to the hull structure. Field offices should 
+not hesitate to involve the Hull Division of the Marine Safety Center (202-366-6481) when existing inspected 
+wood  hulls  are  re-powered,  or  require  owners  to  prove  structural  sufficiency  by  utilizing  the  services  of  a 
+qualified naval architect. The G-MO-1 Traveling Inspection staff (202-267-1080) is available to assist in the 
+field evaluation of existing installations showing signs of structural deficiency.  
+
+This  safety  alert  is  provided  for  informational  purpose  only  and  does  not  relieve  any  domestic  or 
+international  safety,  operational  or  material  requirement.  Developed  by  the  Office  of  Investigations  and 
+Casualty Analysis. For questions or concerns please email hqs-pf-fldr-cg-inv@uscg.mil 
+
+ 
+
+ 
+
+2 
+
+

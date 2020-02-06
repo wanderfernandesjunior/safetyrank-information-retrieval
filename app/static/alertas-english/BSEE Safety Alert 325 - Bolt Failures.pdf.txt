@@ -1,0 +1,130 @@
+ SAFETY ALERT  
+
+Safety Alert No. 325  
+ 
+18 October 2017  
+ 
+ 
+
+ 
+
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+Contact: Douglas Morris 
+Phone: (202) 208-3974 
+ 
+
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+ 
+
+Bolt Failures 
+
+ 
+ 
+The Bureau of Safety and Environmental Enforcement (BSEE) has been informed about 
+a recent subsea bolt1 failure by a European offshore safety regulator and the original 
+equipment manufacturer (OEM) of the affected Blowout Preventer (BOP).  The specific 
+bolt failure described herein occurred during a 21 day BOP high pressure test at a water 
+depth of approximately 7,382 feet.  A leak was observed in the area of the lower marine 
+riser package (LMRP) connector.  The leak did not result in a loss of well control or 
+personal injury.  
+ 
+Upon inspecting the BOP and LMRP 
+on the surface, personnel noted that 
+13 of 20 bolts failed at the LMRP 
+connector.  The BOP OEM and an 
+independent test laboratory are 
+currently conducting testing to 
+determine the root cause for the failure 
+by evaluating the bolts’ material 
+properties.  At this time, it is suspected 
+that the reason for this failure is that 
+the raw material and/or heat treatment 
+processes were not suitable for the 
+bolts intended use. 
+ 
+Although this bolt failure did not occur 
+on the U.S. OCS, BSEE is aware of 
+multiple U.S. OCS bolt failures 
+associated with subsea critical 
+equipment (connectors, LMRP, BOP) 
+which pose recurring  
+risks to oil and gas operations and the 
+environment.  Operators should 
+continue to work with drilling contractors and OEMs to ensure that these components 
+meet the latest industry standards and best practices. Details on previous OCS bolt 
+failure occurrences and BSEE reports can be found at: www.bsee.gov/bolts. 
+ 
+ 
+
+Generalized blowout preventer (BOP). This example is not meant to 
+be indicative of the blowout preventer discussed in this Safety Alert. 
+ 
+
+ 
+
+1 For this Safety Alert, the term “bolt” includes all types of fastening devices, such as a stud. 
+
+BSEE Recommends:  
+
+Operators should work with their OEMs to do the following: 
+ 
+
+  Confirm that all customers and assemblies using the affected heat treatment lot 
+
+number TN-696 have been notified directly by the supplying OEM.  BSEE 
+supports this OEM’s recommendation that all connectors utilizing bolts from this 
+heat treated lot should be removed from service until the bolts have been 
+changed out.  
+
+  Verify that all in-service components’ material properties are in compliance with 
+
+your BOP OEM’s specifications and the latest industry standards. 
+
+  Verify that all installation and maintenance procedures (including equipment 
+
+calibration, lubrication, torque processes, and recorded torque values) satisfy 
+OEM specifications and ensure that best practices are effectively implemented. 
+ 
+
+  Report any failures to OEMs and appropriate industry organizations in a timely 
+
+manner to ensure the prompt communication of relevant data to the industry. 
+
+ 
+BSEE is continuing to evaluate the bolt failures discussed in this Safety Alert to 
+determine if long-term action is needed to prevent potential future failures on the OCS. 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+A Safety Alert is a tool used by BSEE to inform the offshore oil and gas industry of the circumstances 
+surrounding an accident or near miss. It also contains recommendations that should help prevent the 
+recurrence of such an incident on the Outer Continental Shelf.  
+
+

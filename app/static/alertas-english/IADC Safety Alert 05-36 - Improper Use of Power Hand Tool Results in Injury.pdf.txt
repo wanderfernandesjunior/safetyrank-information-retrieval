@@ -1,0 +1,64 @@
+Safety Alert 
+
+        From the International Association of Drilling Contractors 
+
+ 
+ 
+ALERT 05 – 36 
+ 
+
+IMPROPER USE OF POWER HAND TOOL RESULTS IN INJURY 
+
+ 
+WHAT HAPPENED: 
+ 
+Recently an employee was using a hand-held power drill to drill out some built up paint from some boltholes 
+on a bracket to be installed.  At the time the employee was wearing all the PPE for the task and the bracket 
+had  been  installed  into  a  vice  as  required.    As  the  employee  began  to  drill  out  the  built  up  paint  from  the 
+bolthole, the bit jammed on the edge of the bolt hole.  This caused the drill to twist from the employee’s hand, 
+resulting in a fracture. 
+ 
+WHAT CAUSED IT: 
+ 
+The investigation revealed a number of causes for this incident.  The drill that was being used was size 1/2 
+inch.  The description of the drill, which mentioned the size of the drill, was printed in very small lettering on 
+the side of the drill.  It was also stamped on the chuck of the drill itself.  This particular drill is supplied with a 
+ratchet mounted side handle that allows the handle to be mounted in various positions.  At the time of the 
+incident, this handle was not mounted due to being damaged previously.  The drill had not been tagged or 
+taken out of service, even though another employee had suffered a similar injury. 
+ 
+CORRECTIVE ACTIONS:  To address this incident, this company instructed rig supervisors to: 
+ 
+•  Hold  a  meeting  with  all  personnel  and  discuss  the  operation  and  dangers  of  all  hand  power  tools. 
+
+Discuss the incident with all crewmembers so that all hazards may be defined and eliminated. 
+
+•  Create or revise a JSA on “Usage of Hand Power Tools”. 
+•  Look into purchase of a 3/8-inch drill for smaller jobs and use of a drill press or a magnetic drill for larger 
+
+• 
+
+tasks. 
+Inspect and ensure that all power hand tools are in good state of repair prior to usage and ensure that 
+the Right Tool for the task is utilized. Ensure that all hand drills have the appropriate side handle prior to 
+next purchase. Remove any model from service that does not comply. 
+
+ 
+ 
+IADC Note:  Please refer to alerts:  98-11, 01-06, 02-36, and 03-35, 05-03 
+ 
+ 
+
+The Corrective Actions stated in this alert are one company’s attempts to address the incident,  
+
+and do not necessarily reflect the position of IADC or the IADC HSE Committee. 
+
+This material is presented for information purposes only.  Managers & Supervisors should 
+
+evaluate this information to determine if it can be applied to their own situations and practices 
+
+Copyright © 2005 International Association of Drilling Contractors All rights reserved. 
+
+Issued October 2005 
+
+

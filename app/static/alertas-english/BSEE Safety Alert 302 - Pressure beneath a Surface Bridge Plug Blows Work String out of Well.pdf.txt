@@ -1,0 +1,124 @@
+ 
+ 
+U.S. Department of the Interior 
+Bureau of Safety and 
+  
+Environmental Enforcement 
+Gulf of Mexico OCS Region 
+
+Safety 
+Alert 
+
+Contact:  Jason Mathews 
+(504) 731-1496 
+
+Pressure beneath a Surface Bridge Plug 
+
+Blows Work String out of Well  
+
+BSEE 
+
+Safety Alert No. 302 
+2 July 2012 
+ 
+
+ 
+
+ 
+Recently, a loss of well control occurred as an OCS Operator was drilling out a combination 
+surface cement/bridge plug during Plug and Abandonment (P&A) operations.  The P&A 
+operation was being conducted on the main deck of the platform, from a lift boat, using a power 
+ 
+swivel, BOPs and crane. 
+ 
+Prior to the reentry to begin P&A operations, the well had been in the temporarily abandoned 
+(TA) status since 2010, and all existing plugs, including the surface plug, were successfully 
+tested. Once the operator identified 100 psi of sustained casing pressure on the 11-7/8” by 16” 
+annuli during reentry, they submitted a revised permit to reenter the TA’d well, drill out the 
+
+ 
+
+surface cement plug in the 7-5/8” casing, clean out deeper, cut 3-1/2" tubing deeper, cut 7-5/8" 
+and 11-7/8" casings, set cast iron bridge plug /retainer as needed with cement on top to repair the 
+100 psi SCP, and then finalize the abandonment.  
+ 
+During the P&A operations, pressure encountered below the bridge plug ejected 385-feet of 
+work string and the bottom-hole assembly out of the wellbore before the blind shear rams of the 
+BOP sealed the well.  A portion of the ejected bottom-hole assembly struck a diesel tank and 
+released approximately 5-gallons of diesel into the Gulf.  In conjunction with sealing off the well 
+with the BOP, the crew activated the emergency shut-down device for the platform which 
+functioned properly. 
+ 
+An investigation by BSEE personnel concluded the following factors contributed to the incident: 
+ 
+
+ 
+  Upon re-entering the well on May 15, 2012, the Operator found 100 psi sustained 
+
+pressure on the 11 7/8-inch by 16-inch annulus; 
+
+ 
+  The Operator did not take additional precautions, such as, conducting a hazard analysis 
+
+for potential pressure below the plug; 
+
+ 
+  There was no indication of a pressure build up below the bridge plug until the 200-feet of 
+
+cement was drilled out and the bridge plug penetrated.   
+
+ 
+BSEE recommends Operators review their procedures for re-entering wells with sustained casing 
+pressure.  In such cases, Operators should modify operational plans to take into account the 
+likelihood of well-bore pressure beneath plugs.  Based on a case-by-case basis, consider using 
+coiled tubing, snubbing unit and/or a workover rig.   
+ 
+A full report of the incident can be reviewed on the BSEE site located at the following link: 
+ 
+http://bsee.gov/Inspection-and-Enforcement/Accidents-and-Incidents/District-Investigation-
+Reports.aspx 
+  
+
+www.bsee.gov/Regulations-and-Guidance/Safety-Alerts.aspx 
+  
+
+--BSEE--GOMR--
+
+ 
+
+ 
+ 
+
+ 
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+A Safety Alert is a tool used by BSEE to inform the offshore oil and gas 
+industry of the circumstances surrounding an accident or a near miss.  It also 
+contains recommendations that should help prevent the recurrence of such 
+an incident on the Outer Continental Shelf. 
+
+

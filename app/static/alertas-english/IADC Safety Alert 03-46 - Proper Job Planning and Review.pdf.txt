@@ -1,0 +1,69 @@
+Safety Alert 
+
+From the International Association of Drilling Contractors 
+
+ 
+
+ 
+ 
+ALERT 03 – 46 
+ 
+
+PROPER JOB PLANNING AND REVIEW 
+
+ 
+WHAT HAPPENED: 
+ 
+The company had several incidents recently where the  root cause was determined to be a failure in the job 
+planning process or failure to recognize that the job steps had changed and no action was taken to revise the 
+J.S.A.  
+ 
+WHAT CAUSED IT: 
+ 
+J.S.A covered changing out the BOP rams:  The employees had loosened the bonnet bolts while the stack 
+was  sitting  on  the  stump.    The  stack  was  removed  from  the  stump  and  moved  by  the  trolley  over  to  the 
+wellhead  and  stabbed.    The  third  party  employees  had  started  to  tighten  the  BOP  bolts  as  the  company’s 
+employees continued to work on the bonnets.  A 1-½ ton come-along was used to pull the stack over so that 
+the bonnets could be opened without hitting the BOP stack.  
+ 
+1.  The step of using the 1-½ ton come-along was not mentioned in the J.S.A. and risks not analyzed.   
+2.  The come-along slipped and an employee was pinned in between the BOPs and the rig tank. 
+ 
+J.S.A.  covered  changing  out  pump  swab  rod  assembly:    The  employees  had  covered  the  steps  in  the 
+J.S.A. and had begun the job.  None of the persons involved in the job realized that a step in the J.S.A. was a 
+complete violation of company’s Policy on lock out and tag out. 
+ 
+•  One of the steps in the J.S.A. required the employees to remove the pump from its locked out status and 
+
+to activate it from a remote location and use the power of the traction motor to push the swab out. 
+
+•  When  the  pump  was  activated  a  piece  of  the  Pony  rod  chipped  off  of  the  hub  and  struck  an  employee 
+
+above the right eye requiring 11 stitches. 
+
+It is ultimately the responsibility of the employees and the supervisor to critique the steps of any job before 
+
+ 
+CORRECTIVE ACTIONS:  To address this incident, this company instructed rig personnel:   
+ 
+• 
+it is undertaken.  
+• 
+•  Every employee must take the initiative to protect himself and others when he recognizes a hazard. 
+ 
+
+It is everyone’s responsibility to IDENTIFY HAZARDS and shut down a job when the job scope changes.  
+
+The Corrective Actions stated in this alert are one company’s attempts to address the incident, and do not 
+
+necessarily reflect the position of IADC or the IADC HSE Committee. 
+
+This material is presented for information purposes only.  Managers & Supervisors should  
+
+evaluate this information to determine if it can be applied to their own situations and practices. 
+
+Copyright © 2003 International Association of Drilling Contractors.  All Rights Reserved 
+
+Issued November 2003 
+
+

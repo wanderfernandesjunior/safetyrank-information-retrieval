@@ -1,0 +1,269 @@
+AB
+
+ 
+
+ 
+
+i) 
+
+ii) 
+
+IMCA Safety Flash 07/01 
+
+July 2001 
+
+These  flashes  summarise  key  safety  matters  and  incidents,  allowing  wider  dissemination  of  lessons  learned  from  them.    The  information  below  has  been 
+provided in good faith by members and should be reviewed individually by recipients, who will determine its relevance to their own operations. 
+
+The effectiveness of the IMCA safety flash system depends on receiving reports from members in order to pass on information and avoid repeat incidents.  
+Please consider adding the IMCA secretariat (imca@imca-int.com) to your internal distribution list for safety alerts and/or manually submitting information 
+on specific incidents you consider may be relevant.  All information will be anonymised or sanitised, as appropriate. 
+
+A  number  of  other  organisations  issue  safety  flashes  and  similar  documents  which  may  be  of  interest  to  IMCA  members.    Where  these  are  particularly 
+relevant, these may be summarised or highlighted here.  Links to known relevant websites are provided at www.imca-int.com/links   Additional links should 
+be submitted to webmaster@imca-int.com 
+
+1  Failure of a Shackle 
+
+A member has reported an incident which resulted in an injury to one of its crew, when an abandonment and recovery wire 
+was  being  spooled  off  a  winch.    The  shackle  connecting  the  messenger  wire  to  a  pad  eye  welded  on  the  end  of  the 
+abandonment and recovery wire failed and hit an observer on the thigh. 
+
+The shackle failed due to an increase in load, resulting from the lack of flexibility and torsional strength in the connection. 
+
+The company concerned has carried out the following actions: 
+
+the vessel has revised its procedure and the messenger wire is now spliced on to the core of the abandonment and 
+recovery wire; 
+
+a  review  of  similar  operations  is  to  be  undertaken,  to  ensure  that  the  possibilities  of  bending  and  torsion  are 
+considered  in  the  design  of  any  connection.    Adequately  sized  shackles  are  to  be  used  or  alternative  flexible 
+connections should be designed; 
+
+iii) 
+
+all  personnel  to  stay  clear  of  wires  under  tension  and  adequate  guarding  to  be  provided  and  used  during  such 
+operations. 
+
+2  Dangerous Occurrence involving a Mobile Crane 
+
+A member has notified us of a serious incident involving a mobile crane onboard one of its vessels.  The crane was being 
+utilised to install a spool piece subsea.  The crane was severely overloaded and its track lifted off the vessel deck as it started 
+to  topple  over.    The  load  was  released  and  the  crane  fell  back  to  deck,  suffering  extensive  damage  in  the  process.    The 
+overload protection mechanism on the crane had been deactivated. 
+
+The company involved has notified all of its vessels and work sites, which were requested to inspect their cranes and lifting 
+equipment to ensure that all overload protection mechanisms are installed, operational and activated. 
+
+It has stressed that no unauthorised modifications of lifting equipment are permitted. 
+
+The company has also reiterated its policy for lifting operations, which includes ensuring: 
+
+  any safety devices installed on lifting equipment are operational and activated; 
+
+ 
+
+the load does not exceed the dynamic or static capacity of the lifting equipment, in accordance with the conditions on 
+the approved capacity chart for the lifting equipment; 
+
+ 
+
+the actual load has been verified, including a test, if necessary. 
+
+3  Explosion Caused by Ignition of Paint Vapours 
+
+A member has reported the following incident, whereby an explosion occurred in a tank on a barge.  Fortunately, nobody 
+was injured, but the incident resulted in significant structural damage to the barge. 
+
+The water tank had been painted and the second coat of a three-layer epoxy coating system had been completed, 48 hours 
+prior  to  the  explosion.    During  the  paint  curing  period,  the  tank  hatch  cover  had  been  left  open  for  ventilation,  but  no 
+mechanical blowers or extractors had been provided.  This allowed solvent vapours – emitted from the coating materials – 
+to build up inside the tank, forming an explosive atmosphere.  Vapours escaped from the tank to the surrounding area via the 
+
+ 
+
+ 
+
+ 
+
+1. 
+
+2. 
+
+3. 
+
+4. 
+
+5. 
+
+6. 
+
+7. 
+
+8. 
+
+open tank hatch.  This vapour trail eventually reached a source of ignition – an electric fan being used to ventilate an adjacent 
+tank approximately 5-6 metres from the tank hatch.  This electric fan was not ex-rated.  The vapour trail ignited, causing a 
+flash back to the tank hatch, resulting in an explosion inside the tank. 
+
+Under  normal  atmospheric  conditions,  the  solvent  vapours  are  heavier  than  air.    There  was,  however,  no  breeze  that 
+evening, allowing the vapours to seep through the tank hatch and along the deck, forming a vapour trail several metres long.  
+The vapours were at a temperature above their flash point (25°C), as the ambient temperature was 31°C. 
+
+The company has identified the root cause of the incident to be lack of ventilation during the curing period, mainly due to: 
+
+lack of technical and product safety information on site; combined with; 
+
+limited technical. 
+
+The company involved found, on investigation, that neither the painting contractor nor the manufacturer’s representative had 
+attended  the  risk  assessment  meeting  and  that  the  risk  of  explosion  during  the  curing  period  had  not  been  identified  or 
+assessed.    The  appropriate  material  data  sheets  for  solvents  and  the  paint  were  not  available  on  site,  nor  was  the 
+manufacturer’s code of safe practice for tank lining applications. 
+
+The company has subsequently made thirteen recommendations to prevent such an occurrence happening again, including: 
+
+ 
+
+the need for all safety-critical tasks involving sub-contractors/suppliers to be subject to a formal risk assessment; 
+
+  operations, marine and warehouse management need to ensure that all material safety data sheets and applicable codes 
+of safe practice are available, understood and followed during the storage, handling and use of chemicals, solvents, paints 
+and other dangerous substances. 
+
+4  Grinding Stone Incident 
+
+We  have  received  information  of  an  incident  involving  a  cup  grinding  stone.    In  this  incident,  the  cup  stone  exploded.  
+However, the findings are considered applicable to any type of abrasive wheel.   
+
+In the incident, a pipe welder was using a pneumatic grinder to bevel the end of a 3” pipe when the grinding stone exploded, 
+striking the welder on his shoulder. 
+
+The investigation revealed that the guard used on the grind was not the correct one for a cup stone and that the flange was 
+not the correct size for the stone. 
+
+The following common errors were identified in the use of grinding stones: 
+
+use of flanges of uneven or too small diameter; 
+
+use of washers instead of flanges; 
+
+flanges without proper clearance or relief; 
+
+excessive tightening, causing flanges to bend; 
+
+failure to clean all dirt and foreign material from sides of wheels and flanges; 
+
+forcing a wheel onto an arbour where fit is tight; 
+
+use of any loose washers or bushings to try to make a wheel fit a machine for which it is not intended; 
+
+failure to use blotters on wheels. 
+
+5  Oxy-Arc Cutting 
+
+The investigation into a diver fatality on a subsea structure involving oxy-arc cutting has identified that the most likely cause 
+of the explosion was that gas trapped in a cavity above the diver was ignited by a spark.  The gas was likely to have been 
+generated during the oxy-arc cut on the spool directly below the cavity. 
+
+The company involved has issued the following instructions to its personnel regarding subsea oxy-arc cutting: 
+
+  oxy-arc cutting should only be used if there are no practical alternatives; 
+
+Safety Flash 
+
+ 
+
+  any oxy-arc cutting operation needs the approval of the relevant manager for that operation and a specific task plan and 
+
+risk assessment covering the detail of the particular task need to be in place; 
+
+  supervisors  should  ensure  all  hazards  have  been  identified,  the  risk  properly  assessed  and  that  control  are  clearly 
+
+specified, communicated and in place prior to work commencing; 
+
+  divers who use oxy-arc equipment should be trained in its use; 
+
+  divers who are to carry out oxy-arc cutting should be fully aware of and understand the risks and risk control methods 
+
+to be adopted; 
+
+  supervisors and oxy-arc equipment operators need to ensure that there is no possibility of gas entrapment, creating a 
+
+potential explosion hazard, prior to striking an arc; 
+
+  supervisors and oxy-arc equipment operators need to ensure that any potential location where gas could be trapped is 
+completely vented before striking the arc.  This will probably require creation of a vent hole.  Flushing the cavity with air 
+is not likely to be sufficient; 
+
+  oxy-arc equipment operators should not energise the Broco rod unless oxygen is flowing through the rod.  Hydrogen 
+
+from electrolytic action can otherwise build up in the rod, creating an explosion hazard. 
+
+6  Checking of Safety Helmets 
+
+Our attention has been drawn to an injury on a drilling rig, when a heavy bolt fell 14 metres and hit a roughneck on the head.  
+He was wearing a safety helmet, but the incident nevertheless resulted in a lost time injury. 
+
+The operator has stated that this injury could have had a much more serious outcome if the helmet had been more than four 
+years old, as plastic ‘hard hats’ degrade through time. 
+
+The following simple checks have been suggested to ensure that head protection is adequate: 
+
+i) 
+
+The shell should be inspected for dents, cracks, nicks, gouges and any damage due to impact, penetration, abrasions, 
+rough treatment or wear that might reduce the degree of protection originally provided.  Hats showing signs of damage 
+or wear should be replaced immediately. 
+
+ii)  Hard  hat  shells  are  susceptible  to  UV  light  damage,  temperature  extremes  and  chemical  degradation.    Signs  of 
+degradation include: stiff or brittle shells, a faded, dull or chalky appearing shell.  Shells exhibiting these characteristics 
+should be immediately replaced. 
+
+A recommended test for degradation is to compress the shell inward from both sides about one inch and then release the 
+pressure without dropping the shell.  It should return to its original shape quickly.  A comparison can be made by testing a 
+new shell.  If the elasticity is not similar to a new shell, it should be replaced. 
+
+iii)  The suspension should be inspected for cracks, greyed or cut crown straps, torn headband or size adjustment slots, 
+loss of pliability or other signs of wear.  Suspensions exhibiting these characteristics should be removed from service 
+and replaced immediately. 
+
+iv) 
+
+Important points to remember: 
+
+Hard hats struck by a blow should be replaced; 
+
+Hard hats are designed to protect impacts from above, not from the side or rear; 
+
+a) 
+
+b) 
+
+c) 
+
+d) 
+
+e) 
+
+f) 
+
+g) 
+
+h) 
+
+Never modify the shell or suspension of a hard hat; 
+
+Avoid contact of the hard hat with electrical devices; 
+
+Do not store hard hats in direct sunlight; 
+
+Do not sit on hard hats; 
+
+Do not wear anything inside the hat that would affect the clearance between the shell and head; 
+
+Do not paint hard hats. 
+
+v)  Users should establish a regular inspection schedule for their hats to evaluate the status of the shell and the suspension. 
+
+

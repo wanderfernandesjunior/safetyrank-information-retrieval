@@ -1,0 +1,64 @@
+Safety Alert 
+
+        From the International Association of Drilling Contractors 
+
+ 
+ALERT 11 – 31  
+ 
+PRESSURE RELIEF VALVE SPRAYS DILUTE ACID ACROSS LOCATION ON A 
+
+FRAC JOB 
+
+ 
+WHAT HAPPENED: 
+ 
+During a frac job, a hydraulically-activated pressure relief valve, which was protecting the iron between the 
+pumps and the wellhead, opened unexpectedly and sprayed about 6 bbls of a diluted mixture of 15% HCL 
+and gel across the wellhead, crane and open top tanks. There were no injuries and the spill was cleaned up.  
+ 
+The emergency response went well. The diluted acid was further neutralized by spraying it down with soda 
+ash  and washed  into  the cellar where  it  was  vacuumed  up.  Material  Safety  Data  Sheets for  the chemicals 
+were onsite. A post-incident safety stand down was held to discuss the lessons learned and an investigation 
+was conducted. 
+ 
+WHAT CAUSED IT: 
+ 
+The pressure relief valve that was used during this incident had been used in the past, but had been replaced 
+with a newer design because the newer design relieves into a tank instead of to the atmosphere.  However, 
+the  new  design  was  unavailable  at  this  location  so  the  contractor  used  the  older  valve  that  relieves  to 
+atmosphere.  The  hazards  associated  with  potential  atmospheric  release  by  this  older  pressure  relief  valve 
+were  recognized  during  the  Job  Safety  Analysis;  and  injuries  were  avoided  by  restricting  worker  access  to 
+the area in which the relief valve might affect if it were to release.  
+ 
+The  pressure  relief  valve  activated  unexpectedly  because  the  diesel  engine  that  provides  the  hydraulic 
+pressure  ran  out  of  fuel.    The  diesel  engine  ran  out  of  fuel  because  the  crew  changed  in  mid-stage  and 
+during the handover the fuel status was not communicated. This failure would have caused either the old or 
+new pressure relief valves to release. The difference between the old and new pressure relief valve is that 
+the newer design would have relieved into a tank whereas the older valve relieved to atmosphere. 
+ 
+ 
+CORRECTIVE ACTIONS:  To address this incident, this company did the following: 
+ 
+1) 
+2) 
+
+Pre-Job Safety Analyses should continue to be standard operating procedure. 
+In the future, shift changes will not take place mid-stage of a frac without extraordinary consideration 
+and handover discussion. 
+
+ 
+ 
+
+The Corrective Actions stated in this alert are one company’s attempts to address the incident,  
+
+and do not necessarily reflect the position of IADC or the IADC HSE Committee. 
+
+This material is presented for information purposes only.  Managers & Supervisors should 
+
+evaluate this information to determine if it can be applied to their own situations and practices 
+
+Copyright  2005 International Association of Drilling Contractors All rights reserved. 
+
+Issued December 2011 
+
+

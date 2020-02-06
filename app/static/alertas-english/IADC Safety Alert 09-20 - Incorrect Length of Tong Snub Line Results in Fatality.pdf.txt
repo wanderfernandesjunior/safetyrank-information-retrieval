@@ -1,0 +1,95 @@
+Safety Alert 
+
+        From the International Association of Drilling Contractors 
+
+ 
+ALERT 09 – 20  
+ 
+
+INCORRECT LENGTH OF TONG SNUB LINE RESULTS IN FATALITY 
+
+ 
+
+WHAT HAPPENED: 
+ 
+A rig floor operation required a longer snub line so the drill crew changed out the snub line on the make-up 
+tong  for  longer  tong  snub  line.    The  floormen  retrieved  the  old  break-out  tong  snub  line  that  was  being 
+utilized as a rig floor sling and installed it on the make-up tong.  When the operation was completed, the drill 
+crew did not replace the longer snub line with the standard length one.  Two days later when the drill crew 
+was  making up  a  bit  onto  a  bit  sub  the  driller  engaged  the rotary  into  reverse  to  back  the  bit  into  the sub.  
+This caused the make-up tong to rotate around 180 degrees from the anchor post, instead of stopping at 90 
+degrees.  This resulted in the floorman manning the make up tong to become trapped between the tong and 
+the extended snub line suffering fatal injuries. 
+ 
+
+WHAT CAUSED IT: 
+ 
+
+  The drill crew did not replace the longer tong line with the proper tong line on completion of the task 
+
+that required longer snub line. 
+
+  When the drill crew engaged the tongs they did not push the tongs around to a point that the snub 
+
+line would be taut thus allowing them and the driller to see that the line was too long. 
+
+  The driller going off tour did not inform the driller coming on tour that the snub line on the make-up 
+
+tongs was changed out for a longer one to accommodate a special operation. 
+
+  The  supervisor  felt  that  a  JSA  for  tripping  pipe  adequately  covered  the  steps  of  the  task  at  hand 
+
+when it actually did not (making up a bit). 
+
+  The practice of removing snub lines and placing them into service as a sling if they passed a visual 
+
+inspection had developed despite a company alert stating that they are to be destroyed. 
+
+ 
+
+CORRECTIVE ACTIONS:  To address this incident, this company did the following: 
+ 
+
+  Rig Managers are to review this alert and the following procedures with all crews.  Reference is to be 
+made  to  the  company’s  operations  manual  sections  “Making  a  Connection”,  “Driller  Tour  Changes 
+and Daily Checks”, “Tong Care and Rigging”  
+
+  Rig personnel are to review and make changes to the relevant JSAs aboard their facility to reflect the 
+requirement  of  a  Permit  To  Work  for  changing  of  snub  lines  as  detailed  in  company’s  Operations 
+Procedure manual.   
+
+  Drillers are to incorporate the new drill floor check list as minimum standard into their daily checks of 
+
+the rig floor. 
+
+  Rig Managers are to change the relevant JSAs to ensure the capture of the changes to procedures 
+
+regarding changes being made to rig floor equipment.    
+
+  Rig Managers are to incorporate the minimum requirements of the procedures for “Making Up a Bit” 
+
+when they are released to the fleet. 
+
+ 
+ 
+IADC Note: Refer to IADC APRG Section 3 for additional information. 
+Refer  to:  IADC  Safety  ALERT  03  –  28  TONG  INCIDENT  RESULTS  IN  A  FATALITY  and  04  –  11 
+MANAGEMENT OF CHANGE TONG SNUB-LINE REMOVAL RESULTS IN AN INJURY for information 
+on similar incidents.  
+Additional Note:  Refer to  API 7K  
+Rev. Nov 09 
+ 
+
+The Corrective Actions stated in this alert are one company’s attempts to address the incident,  
+
+and do not necessarily reflect the position of IADC or the IADC HSE Committee. 
+
+This material is presented for information purposes only.  Managers & Supervisors should 
+
+evaluate this information to determine if it can be applied to their own situations and practices 
+
+Copyright  2005 International Association of Drilling Contractors All rights reserved. 
+
+Issued July 2009 
+
+

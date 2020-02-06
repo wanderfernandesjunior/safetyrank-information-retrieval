@@ -1,0 +1,85 @@
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+June 16, 1998 (reformatted 2014) 
+Washington, DC 
+
+         Inspections and Compliance Directorate 
+
+WIRE ROPE FAILURES 
+
+      Safety Alert 02-98 
+ 
+
+The  starboard  lifeboat  aboard  a  large  freighter  was  lowered  to  facilitate  securing  the  gear  and 
+stores in the boat. At approximately 9:40 a.m., stowage was completed and the boat was ready to 
+be  raised  up  to  its  inboard  stowed  position.  Three  men  remained  in  the  boat  as  it  was  being 
+hoisted.  The  floating  blocks  connected  with  the  davit  arms  and  the  davit  arms  started  up  the 
+trackways.  The  davit  arms  were  23  inches  up  the  trackways  when,  without  warning,  the  forward 
+lifeboat fall parted with a loud snap. All the men in the lifeboat were immediately dropped into the 
+water as the boat swung, still being held by the after fall, against the after davit arm. Cause of the 
+accident:  Localized  corrosion  which  caused  thinning  of  the  wires  and  thus  the  weakening  of  the 
+strands. Failure occurred when the corrosion-reduced cross section was overloaded. Injuries: One 
+man received a cervical sprain; another incurred a serious back injury, which caused considerable 
+lost work time; the last man had his right ear drum perforated.  
+
+This  accident  description  is,  unfortunately,  not  unique.  It  is  typical  of  a  kind  of  accident  which  is 
+repeated so often that even the casual observer cannot help but wonder at the mariner's failure to 
+heed the safety measures which have been established to prevent such recurring accidents.  
+
+Standards and procedures for the care and maintenance of wire rope falls on lifeboat davits have 
+long  been  established  by  both  manufacturers  and  the  U.S.  Coast  Guard;  yet  each  year  serious 
+injuries to personnel and property damage are caused by the failure of wire rope falls.  
+
+These failures have two things in common: their cause, and the opportunity for their prevention. In 
+nearly every case, such accidents are caused by the separation of the falls at a point which was 
+inaccessible  for  proper  maintenance  and  inspection  when  the  davit  was  in  a  full  upright  stowed 
+position.  In  nearly  every  case,  the  accidents  could  have  been  prevented  had  the  davits  been 
+partially  lowered  to  allow  access  to  the  entire  length  of  the  fall  line  for  proper  lubrication  and 
+inspection.  
+
+Wire  rope,  like  complicated  machinery,  consists  of  many  small  interwoven  parts  that  need 
+lubrication. There isn't a mariner worth his salt who wouldn't acknowledge the necessity to keep an 
+engine  or  winch  well  lubricated  to  achieve  best  results.  Yet  many  of  these  knowledgeable 
+seafarers ignore the necessity of keeping wire rope clean and well lubricated.  
+
+Most davits on shipboard are located so that they are continuously exposed to both sea spray and 
+stack gas. The combination of salt water and engine or boiler exhausts creates acids which pit and 
+corrode  wire  rope,  providing  bending  and  fatigue  points  which  eventually  lead  to  failures.  This 
+weakening can be prevented by proper cleaning and lubrication. In most cases investigated, this 
+wear  at  stress  points  around  sheaves  and  through  blocks  would  have  been  visible  to  the  naked 
+eye had the entire length of the fall been examined by the lowering of the davit. Lowering the davit 
+would have allowed access to those areas of the fall line which are normally inaccessible.  
+
+1 
+
+Another  factor  contributing  to  failures:  the  failure  of  crew  members  to  periodically  change  the 
+position  of  wire  rope,  allowing  a  piece  of  wire  rope  to  remain  in  a  single  use  position  for  the 
+expected life of the rope. A ship is subjected to considerable vibration while at sea. This vibration is 
+arrested sharply at the tangent point in the sheaves creating areas of potential fatigue failure. If the 
+position of the rope is periodically changed by moving the boom position, the wear and fatigue is 
+distributed more evenly along the length of the rope, thus reducing the chance of failure.  
+
+Modern  wire  rope  is  made  to  the  highest  engineering  standards.  By  the  use  of  many  tests  and 
+controls  during  its  manufacture,  it  is  almost  impossible  for  serious  flaws  to  exist  in  the  finished 
+product.  An  accident  in  service  with  wire  rope  almost  always  results  from  poor  maintenance 
+procedures.  To  keep  wire  ropes  in  safe  operating  condition,  clean  and  lubricate  them  frequently, 
+and regularly change their stowage position.  
+
+This  safety  alert  is  provided  for  informational  purpose  only  and  does  not  relieve  any  domestic  or 
+international safety, operational or material requirement. Developed by the Office of Investigations 
+and Casualty Analysis. For questions or concerns please email hqs-pf-fldr-cg-inv@uscg.mil 
+
+ 
+
+ 
+
+2 
+
+

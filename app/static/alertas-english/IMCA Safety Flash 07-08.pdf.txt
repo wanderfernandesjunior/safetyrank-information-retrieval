@@ -1,0 +1,289 @@
+AB(cid:31)
+
+ 
+
+IMCA Safety Flash 07/08 
+
+Safety Flash
+
+April 2008 
+
+These  flashes  summarise  key  safety  matters  and  incidents,  allowing  wider  dissemination  of  lessons  learned  from  them.    The  information  below  has  been 
+provided in good faith by members and should be reviewed individually by recipients, who will determine its relevance to their own operations. 
+
+The effectiveness of the IMCA safety flash system depends on receiving reports from members in order to pass on information and avoid repeat incidents.  
+Please consider adding the IMCA secretariat (imca@imca-int.com) to your internal distribution list for safety alerts and/or manually submitting information 
+on specific incidents you consider may be relevant.  All information will be anonymised or sanitised, as appropriate. 
+
+A  number  of  other  organisations  issue  safety  flashes  and  similar  documents  which  may  be  of  interest  to  IMCA  members.    Where  these  are  particularly 
+relevant, these may be summarised or highlighted here.  Links to known relevant websites are provided at www.imca-int.com/links   Additional links should 
+be submitted to webmaster@imca-int.com 
+
+ 
+
+1  Fatal  Accident  in  Connection  with  the  Operation  of  an  A-frame  based  Launch  and  Recovery 
+
+System (LARS) used for ROV Operations 
+
+1.1  The Incident 
+
+During the process of docking in a floating dock, an ROV 
+crew consisting of seven persons was working on an ROV 
+spread  inside  the  hangar  on  the  port  side  of  the  vessel.  
+This work was mainly to undock the ROV from the tether 
+management  system  (TMS)  unit  and  to  cut  out  and 
+re-terminate  a  50-70m  section  of  the  umbilical  on  the 
+ROV winch. 
+
+Prior  to  the  incident,  the  ROV  had  been  separated  from 
+the TMS and both units were resting on the base platform 
+in  the  hangar,  with  the  TMS  located  just  underneath  the 
+docking  head  which  was  situated  2.5m  above  the  top  of 
+the  TMS.    The  ROV  was  located  adjacent  to  the  TMS 
+towards the port side of the 
+
+hangar. 
+
+A total power black out occurred onboard the vessel due 
+to lack of cooling water supply to the auxiliary engines.  At 
+this  time  the  TMS  unit  made  a  sudden  and  significant 
+vertical upward movement (of approximately 2.5m) until it 
+was  stopped  by  the  docking  head  overhead.    The  ROV 
+senior supervisor was standing on top of the TMS with the 
+aim of assisting with the pull-out of the umbilical.  He was 
+thus trapped between the TMS and the docking head and 
+subjected to a massive force of 13.7 tonnes, resulting in his 
+death. 
+
+At  the  time  of  the  accident,  the  ROV  supervisor  was 
+standing  on  a small  service  platform  on the  side of the  TMS  facing  the accommodation  and he was thrown  clear, 
+landing on the base platform, with no apparent injuries. 
+
+The other ROV crew members were located in the following positions: 
+
+♦  One  person  was  strategically  located  between  the  ROV/TMS  and  the  accommodation  operating  the  remote 
+
+control for the LARS system, 
+
+♦  One  person  was  located  on  the  ROV  winch  deck  on  top  of  the  ROV  hangar,  adjusting  the  position  of  the 
+
+transversal crane to keep it well clear of the LARS system, 
+
+♦  Two persons were located on the inboard side of the TMS, pulling out slack on the umbilical from the umbilical 
+
+winch, 
+
+♦  One ROV trainee was observing the operation from a safe position near the centre of the hangar. 
+
+The accident was sudden and the witnesses of the tragedy estimated the time it took for the uncontrolled and rapid 
+spooling of the winch to be in the order of 2-3 seconds. 
+
+ 
+
+1.2  Facts and Observations from the Investigation 
+
+There was no offshore manager (OM) assigned onboard after the vessel’s departure from its last port. 
+
+The ROV crew had allegedly obtained, from the bridge, permission to work at heights. 
+
+There  were  no  indications  that  the  ROV  crew  members  were  not  wearing  the  correct  PPE  for  this  type  of 
+operation. 
+
+The ROV crew was working on the ROV spread during the de-ballasting of the floating dock. 
+
+Relevant crew allegedly knew that a power black out would take place during the dry docking process, although the 
+exact  timing  of  this  black  out  and  the  permanent  loss  of  440  VAC  was  not  known  to  some  key  personnel 
+beforehand. 
+
+The accident occurred at the same time as the power black out.  The ROV winch spooled in the umbilical instantly 
+and in an uncontrolled manner, lifting the TMS module vertically up towards the docking head, causing the fatality. 
+
+The ROV supervisor was standing on top of the TMS with the aim of assisting the pull-out of the umbilical of which 
+about 5m had been slacked off when the incident occurred.  He was trapped and his body subjected to a massive 
+force of 13.7 tonnes between the TMS and the docking head. 
+
+Due to power cut the operation of the emergency stop had no effect. 
+
+It is  anticipated  that the task  of  spooling off  (approximately  50m)  of  umbilical in  order  to  re-terminate  had  to be 
+completed prior to docking – this may have led to time pressure. 
+
+It has been noted that assistant ROV supervisor was in process of lashing down the TMS at the time of the incident. 
+
+1.3  Technical Errors 
+
+Testing and trouble shooting have confirmed that there were serious technical discrepancies on the LARS system 
+resulting in a chain of events having a direct effect on the accident. 
+
+The mechanisms with effect, cause and corrective measures are presented below.  It was noted that all of the six 
+mechanisms described below had to occur simultaneously for the erratic winch behaviour to occur. 
+
+1.3.1  The isolation valve fails to close: 
+
+♦  The motor remains open to hydraulic power. 
+
+♦ 
+
+Incorrect wiring. 
+
+Corrective measure: 
+
+Effect: 
+
+Cause: 
+
+ Effect: 
+
+Cause: 
+
+♦  Wiring done according to original drawing; 
+
+♦  The valve is hardwired into the emergency stop circuit (de-energising). 
+
+1.3.2  The bypass valve fails to open: 
+
+♦  Potentially full pressure differential over the motor with failure on the isolation valve, thus enabling the 
+
+motor to produce maximum torque. 
+
+♦  An  error  in  the  motor  controller  (HNC)  software  fails  to  de-energise  the  bypass  valve  when  an 
+
+emergency stop is triggered, while operating the winch from the radio remote or the operator panel. 
+
+ 
+
+Corrective measure: 
+
+♦  Software for motor controller updated.  Bypass valve will be de-energised as originally intended when 
+
+the winch is rotating during an emergency stop. 
+
+1.3.3  The brake fails to engage within reasonable time: 
+
+♦  The brake cannot stop winch motion within reasonable time. 
+
+ Effect: 
+
+Cause: 
+
+Effect: 
+
+Cause: 
+
+Effect: 
+
+Cause: 
+
+♦  The main controller (PC104) software will not engage the brake until a brake engage request is given 
+from  the  motor  controller  (HNC)  software.    The  motor  controller  software  will  not  give  such  a 
+request in all situations. 
+
+Corrective measure: 
+
+♦  Software  for  motor  controller  updated.    Brake  on  command  (de-energising)  will  be  provided 
+
+immediately in case of an emergency stop; 
+
+♦  Software  for  main  controller  updated.    Brake  on  command  (de-energising)  will  be  provided 
+
+immediately in case of an emergency stop, independent of the motor controller; 
+
+♦  Brake control is hardwired into the emergency stop circuit (de-energising). 
+
+1.3.4  The displacement (swivel angle) of the motor is sufficient to create winch pull: 
+
+♦  The motors had a displacement creating torque so that the winch could pull in. 
+
+♦  To avoid the load from dropping during a normal emergency stop, the displacement of the motors is 
+set at a fixed value.  As long as the isolation valve is closed as it should be in case of an emergency 
+stop, the winch can only give a static torque and cannot hoist any load as the supply of high pressure 
+oil  is  cut  by  the  isolation  valve.    When  the  bypass  valve  opens,  there  will  be  no  significant  pressure 
+differential over the motor and the winch’s ability to also create a static torque will be lost. 
+
+Corrective measure: 
+
+♦  None.    Displacement  is  required  to  prevent  the  load  from  dropping  during  an  ordinary  emergency 
+stop.    Investigations  regarding  alternatives  ongoing.    This  is  to  be  tested  at  the  implementation  of  a 
+coming release of new motor controller software. 
+
+1.3.5  The winch has a speed signal different from the control signal for zero: 
+
+♦  Winch hoisting for a longer period of time after an emergency stop. 
+
+♦ 
+
+In  the  original  motor  controller  software,  the  brake  did  apply  quickly  at  an  emergency  stop  at  zero 
+speed, but not when the speed was different than zero. 
+
+Corrective measure: 
+
+♦  As for 1.3.3. 
+
+1.3.6  Hydraulic power is available: 
+
+ Effect: 
+
+♦  Winch motion possible. 
+
+ 
+
+Cause: 
+
+♦  Pumps do not instantly stop rotating, due to rotation inertia; 
+
+♦  Hydraulic energy is stored in accumulators; 
+
+♦  Hydraulic energy is stored in the system due to the flexibility of pipes, hoses and the oil itself. 
+
+Corrective measure: 
+
+♦  A  valve  on  the  accumulator  will  be  installed  to  cut  the  connection  to  the  main  line,  and  relieve  the 
+energy  into  the  return  line.    The  valve  will  be  hardwired  into  the  emergency  stop  circuit  (de-
+energising). 
+
+The following summarises the applied measures: 
+
+♦  Wiring of isolation valve corrected to comply with original drawing; 
+
+♦ 
+
+Isolation valves hardwired into the emergency stop circuit; 
+
+♦  Brake control valve hardwired into the emergency stop circuit; 
+
+♦  Main controller software updated to request brake on upon an emergency stop; 
+
+♦  Motor controller software updated to request brake on upon an emergency stop; 
+
+♦  Motor controller software updated to de-energise bypass valve upon an emergency stop; 
+
+The applied measures of the introduction of modifications to the software and electronic hardware will minimise the 
+probability of any failure to engage the brake, or failure to close the isolation valve, during an emergency stop.  The 
+duration of any significant dynamic winch pull will also be minimised as the bypass valve short-circuits the hydraulic 
+motor shortly after an emergency stop. 
+
+Further, the following measure will be applied at a later stage due to lead time of components: 
+
+♦  The accumulator will be cut off from the main line, and the stored high pressure oil will be discharged to tank 
+
+through a hydraulic valve being hardwired into the emergency stop circuit. 
+
+The combination of technical and human error had resulted in an unfortunate breach of barriers causing the fatality.  
+Apart from the technical issues identified, there were several examples of human error including: 
+
+1.4  Company’s Conclusion 
+
+♦  Management/supervision; 
+
+♦  Communication; 
+
+♦  Culture; 
+
+♦  Compliance; 
+
+♦  Task planning; 
+
+♦  Barriers. 
+
+These issues are to be focused on by the company. 
+
+

@@ -1,0 +1,74 @@
+ 
+ 
+ 
+ 
+ 
+June 16, 2009                                                                                                                      Alert 03-09 
+Washington, DC 
+
+Avoiding propulsion loss from fuel switching:  
+
+American Petroleum Institute Technical Considerations 
+
+ 
+
+Ships  switch  fuel  oil  from  residual  fuels  to  distillate  fuels  in  order  to  reduce  emissions.    The  Coast 
+Guard  expects  ships  will  switch  fuel  more  frequently  to  comply  with  new  emission  reduction 
+regulations.    When  switching  fuel  oil,  some  ships  have  experienced  propulsion  losses  linked  to 
+procedural errors or fuel oil incompatibility.  
+ 
+API  developed  a  paper  titled  “Technical  Considerations  of  Fuel  Switching  Practices”  that  discusses 
+problems 
+is  available  at 
+http://marineinvestigations.us  >Safety  Reports.  This  document  may  be  useful  to  vessel  owners, 
+operators, and engineers interested in preventing fuel system failures and propulsion casualties while 
+meeting current and future exhaust emission control requirements. 
+ 
+In  order  to  prevent  casualties  associated  with  fuel  oil  switching,  the  Coast  Guard  strongly 
+recommends that owner and operators: 
+ 
+
+loss  while  switching 
+
+to  propulsion 
+
+fuel. 
+
+lead 
+
+that 
+
+It 
+
+ 
+
+•  Consult engine and boiler manufacturers for fuel switching guidance; 
+•  Consult fuel suppliers for proper fuel selection;  
+•  Exercise tight control when possible over the quality of the fuel oils received; 
+•  Consult manufacturers to determine if system modifications or additional safeguards are 
+
+necessary for intended fuels; 
+
+•  Develop detailed fuel switching procedures;  
+•  Establish a fuel system inspection and maintenance schedule; 
+•  Ensure system pressure and temperature alarms, flow indicators, filter differential pressure 
+
+transmitters, etc.., are all operational; 
+
+•  Ensure system purifiers, filters and strainers are maintained; 
+•  Ensure system seals, gaskets, flanges, fittings, brackets and supports are maintained; 
+•  Ensure a detailed system diagram is available; 
+•  Conduct initial and periodic crew training; 
+•  Complete fuel switching well offshore prior to entering restricted waters or traffic lanes.   
+
+ 
+This  safety  alert  is  provided  for  informational  purposes  only  and  does  not  relieve  any  domestic  or 
+international  safety,  operational  or  material  requirement.    Developed  by  the  Office  of  Design  and 
+Engineering  Standards  and  Office  of  Investigations  and  Analysis,  United  States  Coast  Guard 
+Headquarters, Washington, DC.   
+                                                                        ******* 
+ 
+Office of Investigations and Analysis:  http://marineinvestigations.us 
+To subscribe: kenneth.w.olsen@uscg.mil 
+
+

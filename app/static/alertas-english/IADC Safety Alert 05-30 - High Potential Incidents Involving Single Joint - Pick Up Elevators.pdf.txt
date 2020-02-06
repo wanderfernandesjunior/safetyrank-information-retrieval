@@ -1,0 +1,74 @@
+Safety Alert 
+
+        From the International Association of Drilling Contractors 
+
+ 
+ALERT 05 – 30 
+ 
+
+HIGH POTENTIAL INCIDENTS INVOLVING SINGLE JOINT / PICK UP 
+
+ELEVATORS 
+
+ 
+WHAT HAPPENED: 
+ 
+Over the past few weeks we have experienced two separate incidents within our fleet that involved dropping joints of 
+tubulars simply because the wrong size and type elevators were used.  While neither of these incidents resulted in any 
+form of injury the emerging trend is disturbing and requires immediate corrective action.  The following represents a 
+summary of the High Potential Near Miss incidents where we have dropped tubulars when using single joint / pick up 
+elevators.  
+ 
+Incidents:  
+ 
+While picking up 3-1/2” (Hydril PH6) tubing and running in the hole with single joint elevators a joint came free and 
+fell  approximately  10  feet  into  the  mousehole.    The  elevators  remained  closed  with  the  pin  secured.    Closer 
+investigation revealed that the elevators which were supplied by a third party on behalf of the customer were dressed 
+with Blohm & Voss inserts and hard stamped 3-1/2” machined to order at 12 degrees.  Following a measurement of the 
+inside  diameter  of  the  elevators  it  was  established  that  the  actual  ID  was  4”,  almost  3/8”  too  large  resulting  in  only 
+minimal contact with the upset of the tubing.  
+ 
+In a separate incident while rigging up and running a 4-1/2” liner, the shoe joint was picked up vertically using pick up 
+elevators and lowered through the rotary table. The joint was filled with mud and was in the process of being raised to 
+check that the shoe was clear when the joint slipped through the elevators and dropped into the well.  The shoe joint 
+was the only joint with the collared VAM ace connection, the remaining liner was the Hydril 521 thread with a slick 
+profile.  Once again the handling tools were supplied by a third party on behalf of the client and in this case the pick up 
+elevators supplied were 5”.  The pick up elevators were clearly stamped 5” and rated for 1000 pounds.  In addition to 
+the pick up elevators the third party had supplied two sets YC elevators rated at 75 tons.  The rig actually performed an 
+equipment inspection and noted that one of these sets was incorrectly dressed with a 4” die profile while the other was 
+correctly dressed.  The reason that the crew decided to handle the shoe joint using the pick up elevators while there 
+was a correctly dressed set of side door elevators readily available is still under investigation.  
+ 
+WHAT CAUSED IT: 
+ 
+These two incidents highlight the need to implement a thorough risk assessment process for this type of activity which 
+should  include  not  just  the  inspection  and  tallying  but  the  physical  measuring  of  the  dimensions  of  the  handling 
+equipment supplied. The stamping of equipment can no longer be taken as a guarantee that the material is that 
+actual size. 
+ 
+CORRECTIVE ACTIONS:  To address this incident, this company issued the following directives to rig 
+personnel: 
+ 
+For  the  purpose  of  establishing  that  we  have  the  correct  tools  for  the  job,  the  risk  assessment  also  needs  to  clearly 
+identify what type of elevators should be used for the activity? i.e.  Do we use pick up elevators to run tools through the 
+rotary table?  What is the process for inspecting the equipment supplied?  How are we checking this equipment?  Who 
+is responsible for the checking and when was this accomplished?  Please discuss both these incidents onboard your rig.  
+We  were  very  fortunate  in  both  incidents  that  nobody  was  injured.    Review  Company  HSET  Bulletin  previously 
+distributed on April 15, 2004 which reflects the ultimate penalty for not getting this right; a fatality.  Please use this 
+bulletin to reinforce the message to share and implement the lessons learned.  If we don’t get it right the first time, we 
+may not always be lucky enough to have another chance. 
+ 
+
+The Corrective Actions stated in this alert are one company’s attempts to address the incident,  
+
+and do not necessarily reflect the position of IADC or the IADC HSE Committee. 
+
+This material is presented for information purposes only.  Managers & Supervisors should 
+
+evaluate this information to determine if it can be applied to their own situations and practices 
+
+Copyright © 2005 International Association of Drilling Contractors All rights reserved. 
+
+Issued August 2005 
+
+

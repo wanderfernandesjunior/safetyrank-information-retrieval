@@ -1,0 +1,139 @@
+ 
+
+March 3, 2015 
+Washington, DC 
+
+         Inspections and Compliance Directorate 
+
+      Safety Alert 2-15 
+ 
+
+ 
+
+Ultra Low Sulfur Fuel Oil & Compliance with MARPOL Requirements 
+
+Before entering and while operating within Emission Control Areas 
+
+This safety alert is a reminder to vessel owners and operators about the importance of establishing 
+effective fuel oil changeover procedures to comply with MARPOL Annex VI emission regulations.  
+Recently,  there  have  been  several  reported  incidents  involving  substantial  machinery  space  fuel 
+leakages  while  vessels  were  switching  fuel  oil  to  ensure  compliance.    Although  such  leakages 
+were contained, fuel releases of any kind may result in pollution, injury or death of personnel and 
+shipboard engine room fires.  Moreover, many losses of propulsion have occurred in different ports 
+and have been associated with changeover processes and procedures. 
+ 
+On  January  1,  2015,  the  new  fuel  oil  sulfur  limit  authorized  by  MARPOL  Annex  VI,  Regulation 
+14.3.4  came  into  effect,  lowering  fuel  sulfur  content  from  1.0%  to  0.10%.1  The  0.10%  fuel  sulfur 
+content  must  be  used  the  entire  time  the  vessel  is  operating  in  the  North  American  and  U.S. 
+Caribbean  Sea  Emission  Control  Areas  (ECA).    As  a  result,  vessels  using  higher  sulfur  content 
+fuels must change to ultra low sulfur (ULS) fuel oil to comply.  The vessels must use the ULS fuel 
+oil  on  inbound  and  outbound  transits,  at  the  dock,  and  anytime  within  the  ECA.    Meeting  this 
+requirement requires planning and analysis before any changeover from higher sulfur content fuel 
+oil to ECA compliant fuel oil and vice-versa.   Each ship which uses higher sulfur content fuel oil is 
+required  to  develop  and  implement  changeover  procedures  for  switching  between  residual  and 
+distillate fuels in accordance with MARPOL Annex VI, Regulation 14.6. 
+ 
+In  some  cases  vessels  may  require  fuel  oil  service  or  day  tank  modifications  and  fuel  oil  service 
+piping  modifications  to  facilitate  safe  procedures  and  compliant  fuel  operations  within  the  ECAs.  
+The  management  and  oversight  of  any  fuel  oil  mixing  that  may  be  part  of  a  changeover  process 
+including, proper control and reduction of the operating temperature of fuel supplied, varying ratios 
+of  the  mixed  fuels  and  control  of  mixed  fuel  viscosity  to  the  engines  must  take  place  before  the 
+vessel enters the ECAs or after the vessel leaves the ECAs.  The amounts of ULS fuel oil onboard 
+must be enough to satisfy the vessel’s fuel demand at all times while the vessel operates within the 
+ECAs or efforts should be made to take on additional ULSF while in port.   
+ 
+There are many other important technical issues associated with the use of ultra low sulfur fuel oils 
+and  fuel  oil  switching  addressed  in  documents  produced  by  class  societies,  insurers,  engine 
+manufacturers and industry associations. A few of these documents are presented as links at the 
+bottom of the next page.    
+            
+
+ 
+                                                
+1 Vessels that have an accepted exemption under Marpol Annex VI, Regulation 3 or an equivalency under Regulation 4 may not 
+need to switch fuel depending on the requirements of their exemption or equivalency. 
+
+ 
+
+ 
+
+1 
+
+Safety Alert 2-15 
+
+ 
+The Coast Guard strongly recommends that vessel owners and operators: 
+ 
+
+•  Ensure  fuel  oil  switching  is  accomplished  outside  of  busy  traffic  lanes  and  the  ECA. 
+Generally  the  ECA  is  200  nm  from  the  North  American  Coast  and  50  miles  from  the  U.S. 
+Caribbean coast (e.g., the Commonwealth of Puerto Rico and the U.S. Virgin Islands); 
+
+•  Utilize their technical resources to develop safe operations and maintain full compliance with 
+
+emission requirements; 
+
+•  Consult  with  engine  and  boiler  manufacturers  for  fuel  oil  changeover  guidance  and  to 
+
+determine if system modifications or additional safeguards are necessary; 
+
+•  Consult fuel suppliers for proper fuel selection; 
+•  Ensure  all  sensors,  controls  and  alarms  –  pressure,  temperature,  viscosity,  differential 
+
+pressure, flow indicators, etc.,  are  operational and function as designed; 
+
+•  Ensure system piping, seals, gaskets, flanges, fittings, brackets, etc., are maintained. 
+•  Ensure detailed system schematics are available;  
+•  Review and update fuel oil changeover procedures as needed; 
+•  Establish a fuel oil system inspection and maintenance schedule; 
+•  Review and update fuel changeover procedures based on lessons learned; 
+•  Provide initial and periodic crew training for accomplishing safe, effective and leak-free fuel 
+
+switching; 
+
+•  Remember that the energy content of a given volume of ULS fuel oil may differ from residual 
+fuel,  such  that  existing  throttle  settings  may  not  give  the  desired  propeller  shaft  RPM  or 
+generator  loads  and  performance/speed  trials  on  ULS  fuel  oil  may  need  to  be  conducted 
+and; 
+
+•  Anticipate that there may be many technical challenges for operators when beginning to use 
+ULS fuel oil as a matter of routine and compliance.  These range from excessive leakages 
+of fuel system components, increased wear and tear on these components, lack of lubricity 
+of  the  fuels  and  the  need  for  possible  changes  in  maintenance  schedules,  operational 
+methods, etc.  The links below provide additional information on these topics. 
+
+  
+
+This Safety Alert is provided for informational purposes only and does not relieve any domestic or 
+international  safety,  operational  or  material  requirement.    Questions  regarding  this  should  be 
+forwarded  to  the  Coast  Guard  Office  of  Commercial  Vessel  Compliance,  Foreign  and  Offshore 
+Vessel Division (CG-CVC-2) at 202-372-1218 or by email at CGCVC@uscg.mil.   
+
+Note: The Coast Guard has collected the following links from open internet sources and re-
+posted them for informational purposes only. Their inclusion here is not an endorsement or 
+expression of preference of any kind towards any specific publication or organization. 
+
+•  MAN B&W Operation on Low Sulphur Fuels 
+•  Wartsila Low Sulphur Fuel Guidelines 
+•  Steamship Mutual – Risk Alert: ECAs Low Sulphur Fuel Oil Changeover Procedures 
+• 
+
+International Council on Combustion Engines  -  Guidelines for the Operation of 
+Marine Engines  on Low Sulphur Fuel 
+
+•  ABS Fuel Switching Advisory Notice 
+•  DNVGL – Sulphur Limits 2015 Guidelines on Compliance 
+• 
+
+Intertanko/OCIMF Recommendations on the Hazard Assessment of Fuel Changeover 
+Processes 
+
+ 
+
+******* 
+
+2 
+
+ 
+
+

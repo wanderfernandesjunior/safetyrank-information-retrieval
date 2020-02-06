@@ -1,0 +1,83 @@
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+October 1, 2002 (reformatted 2014) 
+Washington, DC 
+
+         Inspections and Compliance Directorate 
+
+TANK EXPLOSION 
+
+      Safety Alert 09-02 
+ 
+
+The Marine Safety Unit at Galveston, Texas reports the following casualty. Recently, a 13,700 GT 
+Chemical tanker suffered a major tank explosion and fire at an offshore anchorage in the Gulf of 
+Mexico.  The  early  morning  explosion  occurred  in  an  empty  cargo  tank  that  had  previously 
+contained benzene.  
+
+Upon nearing completion of tank washing while stripping the tank, the vessel's pumpman opened 
+the tank top cover. Air immediately rushed in and an explosion occurred. The centerline bulkhead 
+between the ignition space and the adjacent cargo tank ruptured. A fire also developed and was 
+extinguished in twenty minutes by the ship's crew using a water/foam mixture.  
+
+The  pumpman  was  severely  burned  and  required  an  evacuation  to  a  medical  facility.  The  cargo 
+hold was severely damaged and resultant structural and machinery repair costs are expected to be 
+significant.  
+
+The investigation into this casualty is not complete. This information serves as a reminder and is 
+provided  only  to  assist  vessel  owners,  operators,  shore-support  staff,  crews,  and  engineering 
+personnel in assessing and understanding risks associated with the operation, maintenance, and 
+repair of their vessels.  
+
+ 
+
+1 
+
+A  preliminary  investigation  reveals  that  the  upper  bearing  of 
+the cargo pump located deep within the tank had failed. The 
+shaft and impeller shifted axially one half an inch causing the 
+impeller to contact and spin against the end plate of the pump 
+casing.  The  resultant  friction  caused  extreme  heat  and 
+possibly sparks which ignited the atmosphere in the tank. 
+
+Pump and Motor Assembly 
+
+The pump is driven by a drive shaft enclosed in an oil filled assembly. The shaft is rotated by an 
+electric  motor  encased  in  an  explosion/weather-proof  housing  on  the  open  deck  above  the  tank. 
+The  pump  end  known  as  the  "pump  head"  is  located  at  the  bottom  of  the  cargo  tank.  Two 
+discharge  lines  are  provided  and  connected  at  the  pump  head,  one  for  normal  high  capacity 
+discharge operations and another for "stripping" operations.  
+
+When  the  cargo  tank  is  near  empty,  the  pump's  stripping  line  valve  is  opened  and  its  main 
+discharge closed. The pump is kept running while the remaining product in the discharge line or in 
+the tank is removed via the stripping line.  
+
+Explosion  
+
+When the tank top cover was opened, enough fresh air was introduced to allow the benzene vapor 
+content  to  fall  below  the  upper  explosive  limit  and  into  the  explosive  range.  The  vapor  in  the 
+presence  of  the  operating  but  severely  overheating  cargo  pump  components  ignited  and  caused 
+the explosion.  
+
+To reduce the risk of fatalities, injuries, environmental damage and severe economic loss the U.S. 
+Coast  Guard  strongly  recommends  that  owners,  operators,  superintendents,  port  engineers, 
+shipboard engineers and crewmembers of vessels having similar equipment and systems:  
+
+•    Ensure  that  the  proper  maintenance  and  repair  as  recommended  by  the  manufacturer  is 
+accomplished for all pump, motor and drive components. 
+ 
+This  safety  alert  is  provided  for  informational  purpose  only  and  does  not  relieve  any  domestic  or 
+international safety, operational or material requirement. Developed by the Office of Investigations 
+and Casualty Analysis. For questions or concerns please email hqs-pf-fldr-cg-inv@uscg.mil.  
+
+ 
+
+2 
+
+

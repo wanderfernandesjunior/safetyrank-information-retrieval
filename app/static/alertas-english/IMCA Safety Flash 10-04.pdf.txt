@@ -1,0 +1,380 @@
+AB 
+
+ 
+
+IMCA Safety Flash 10/04 
+
+November 2004 
+
+These  flashes  summarise  key  safety matters  and incidents,  allowing  wider  dissemination  of  lessons learned  from  them.    The information  below has been 
+provided in good faith by members and should be reviewed individually by recipients, who will determine its relevance to their own operations. 
+
+The effectiveness of the IMCA safety flash system depends on receiving reports from members in order to pass on information and avoid repeat incidents.  
+Please consider adding the IMCA secretariat (imca@imca-int.com) to your internal distribution list for safety alerts and/or manually submitting information 
+on specific incidents you consider may be relevant.  All information will be anonymised or sanitised, as appropriate. 
+
+A  number  of  other  organisations  issue  safety  flashes  and  similar  documents  which  may  be  of  interest  to  IMCA  members.    Where  these  are  particularly 
+relevant, these may be summarised or highlighted here.  Links to known relevant websites are provided at www.imca-int.com/links   Additional links should 
+be submitted to webmaster@imca-int.com 
+
+ 
+
+1  Uncontrolled Decompression of Diving Bell 
+
+Keywords: Decompression 
+
+A  member  has  reported  an  incident  involving  the  uncontrolled  decompression  of  a  submersible  decompression  chamber 
+(SDC) during diving operations.  The three man bell vented to surface from 175 fsw when the last man leaving accidentally 
+kicked open a ¼-turn valve.  Thinking that a seal had been lost, he immediately continued through the man-way to the TUP 
+and secured the door behind him.  The valve was located on the bottom inner door and was not accessible from the outside 
+as  the  outer  bottom  door  was  in  the  closed  position.    The  bell  was  allowed  to  vent  to  surface  as  the  decompression 
+occurred at a rapid enough rate such that it was deemed inadvisable to try and ‘catch’ the leak with the addition of more gas.  
+There were no injuries or equipment damage reported. 
+
+Elements contributing to the incident according to the first report are listed as: 
+
+ 
+
+the valve having been the wrong type and size; 
+
+  previous  man-way  sealing  problems  which  initiated  the  assumption  that  the  source  of  the  leak  was  in  the  man-way.  
+
+This in turn prompted a hasty retreat through to the TUP. 
+
+The immediate action was to remove the handle from the stem to avoid a recurrence.  Subsequently the oversized ¼-turn 
+ball valve was replaced with a small bore needle valve to affect a permanent solution. 
+
+Sealing  problems  due  to  misalignment  were  evident  at  the  initial  stages  of  the  mobilization  when  the  system  was  being 
+function  tested  onboard  the  diving  support  vessel.    Several  modifications  to  the  skid  and  clamping  device  had  to  be  made 
+prior to achieving a successful pressure leak test.  The system was a recent rebuild and the project was the first one for its 
+current configuration. 
+
+Had the valve been kicked open with three men inside prior to opening the door to the TUP, the consequences could have 
+been dire.  The combination of the crowded circumstance, the possible loss of visibility from the condensation build up and 
+the  focus  on  a  leak  anticipated  in  another  area  of  concern  (the  man-way)  would  have  made  a  controlled  response  very 
+unlikely. 
+
+The company has summarised the key issues as follows: 
+
+  The valve originally installed was not suitable for purpose in terms of both size and type; 
+
+  The  testing  and  commissioning  of  a  new  or  re-build  system  should  be  completed  prior  to  its  installation  on  a  project 
+
+vessel; 
+
+  System familiarisations  and  drills should note and highlight the most likely sources of potential leaks  – in this case the 
+
+bottom door hatch (this is the rationale behind the double valve arrangement of a bell flood up valve); 
+
+  Caution should always accompany movements within confined spaces. 
+
+2  Fatality – Fall from Scaffold Opening/Breakdown in Co-ordination/Communication 
+
+Keywords: Heights  
+
+Attached  is  a  safety  circular  issued  by  the  Singapore  Ministry  of  Manpower,  which  has  been  passed  to  us  by  a  member.  
+Although the notice is from last year, the company has re-issued it as a reminder to its personnel.  The incident involves a 
+number of safety issues including working at height, communication, lighting and management of change. 
+
+ 
+
+3  Lightning Strike 
+
+Keywords: Near-Miss 
+
+A member has reported an incident which occurred while a yard rigger was preparing to lift some pipes from ground level.  
+A sudden lightning strike struck the shore crane’s jib and a flash of lightning found its way onto the shackle, missing the rigger 
+by a few inches.  The rigger was holding the nylon web sling at the time.  He was not hurt. 
+
+It was observed afterwards that there was a burn mark on the web sling.  It was believed that most of the lightning’s energy 
+had  been  transferred  to  ground  through  ‘earth’,  but  apparently  some  of  this  energy  had  gone  through  the  crane  sling  and 
+onto the shackle. 
+
+Fortunately,  no  injury  was  sustained  and  there  was  no  fire.    However,  it  was  observed  afterwards  that  there  were  minor 
+burn marks on the lifting belt the rigger had been using (see pictures below). 
+
+Burn 
+mark 
+on  web 
+sling 
+ 
+
+                 
+
+       Rigger             
+
+The company involved has noted the following indicators of potential lightning in work areas: 
+
+  dark clouds forming overhead and/or inclement weather conditions; 
+
+ 
+
+ 
+
+thunder or ‘rumbling’ sound as the rain approaches from a distance; 
+
+lightning flashes in the distance as rain approaches work areas. 
+
+The company has noted the following precautions to be taken in the event of these specific potential lightning conditions: 
+
+  avoid standing next to tall structures or working at height; 
+
+  do not stay in open areas; 
+
+  do not use mobile telephones in open areas; 
+
+ 
+
+take shelter in covered areas or buildings; 
+
+  do not use mobile or berth cranes due to the height of crane booms. 
+
+Members should consider the potential risk such weather can pose and the ways in which the risks can be minimised. 
+
+4  Head Injury 
+
+Keywords: Helmet/Lifting 
+
+A member reports that a diver, whilst working on deck, suffered a severe head injury while attempting to align two 8” flanges 
+on  the  deck  of  a  DSV.    The  assembly  was  a  subsea  buoyancy  tank  which  was  being  connected  to  two  flexible  risers.  
+The risers were coiled on a deployment reel and the tank was temporarily secured on a raised launch cradle on the opposite 
+side  of  the  vessel.    In  an  effort  to  rotate  the  riser  flange  into  alignment  with  the  tank  flange,  three  drift  pins  were  placed 
+through the 3, 6 and 9 o’clock bolt hole positions on the riser side and partially into the tank side flanges.  In order to assist 
+rotation, a come-along and nylon strop were attached to the pin at the 3 o’clock position and tension was applied in what 
+was thought to be a controlled manner while the pin at 6 o’clock was knocked into place.  The pin at 3 o’clock deformed, 
+was  forced  from  its  position,  bounced  off  of  a  structural  member  and  the  man  who  was  working  on  the  bottom  pin  was 
+struck.  The blunt end of the pin struck and tore a hole in the visor of his safety helmet before leaving a gash in his forehead.  
+Diagnosis was a compound fracture of the skull and loss of integrity to the sinus cavity.  Four hours of reconstructive surgery 
+and  ten  days  in  hospital  followed.    A  minimum  of  two  months’  recuperation  is  required  before  any  diving  medical  can  be 
+applied for. 
+
+Safety Flash 
+
+ 
+
+This  blow  to  the  head  by  the  drift  pin  was  caused  by  the  violent  release  of  the  pin  from  its  position  under  tension.    The 
+misalignment  of  the  flanges  was  not  foreseen,  so  a  specific  job  safety  analysis  (JSA)  for  the  task  had  not  been  undertaken. 
+Although the team had taken time out to discuss and agree upon an approach to the alignment, the method chosen held an 
+unidentified risk.  The behaviour of the pin under the tension of a side pull, applied in such a configuration (partial insertion 
+into the tank flange  bolt holes and against a shifting surface), was unpredictable  and not under the full control of the men 
+performing  the  task.    Despite  efforts  to  retain  the  pins  with  lanyards  and  hand  holds,  the  forces  developed  and  the 
+destructive potential were not anticipated. 
+
+The evidence of the torn safety hat,  in addition to the injury, points to  a significant force at impact.   Due to the fact that 
+damage was sustained, a report and enquiry will be made to the manufacturer.  The consequences of the casualty not having 
+worn his personal protective equipment (PPE) in this instance would, no doubt, have been even more severe. 
+
+The root cause of the incident will also be reviewed by the company.  It advises that likely subjects at the moment are: 
+
+  Was the use of a swivel flange considered at any time? 
+
+  The  original  installation  schedule  stipulated  assembly  of  the  flanges  after  the  risers  had  been  deployed  from  the  reel.  
+This  would  have  allowed  a  greater  degree  of  mobility  to  the  risers  as  compared  to  when  on  the  reel.    Was  a 
+management of change procedure engaged at this juncture? 
+
+  Over the course of the engineering phase of the project several people were replaced for one reason or another.  What 
+
+effect did this have on the integrity of the procedures? 
+
+  The vessel was due to sail within 24 hours of the incident.  Did this constraint place pressure on the crew to rush the 
+
+task prior to heading to sea where hazards would have been magnified on a moving vessel? 
+
+5  Loss of Position of DP DSV 
+
+Keywords: Umbilical 
+
+A member has reported that a DP  diving  support vessel  was in the midst of  a  diving  operation when it rapidly moved off 
+location by some 107 metres from the work site.  Two divers were locked out at the time.  Diver 1 was working while diver 
+2 was at the bell on the guide weight.  The effect of the force was such that diver 1 could not return to the bell on his own, 
+nor could Diver 2 manage to haul him back via the umbilical.  Once recovered to the bell, the diver, overcome with carbon 
+dioxide  toxicity  as  a  result  of  overbreathing  inside  the  helmet,  began  to  vomit  almost  immediately  upon  having  his  helmet 
+removed.  He was settled down, put on BIBS and gradually recovered. 
+
+The company’s investigation concluded that the ‘run off’ was attributed to the effects of a Soliton.  A full description of this 
+phenomenon  can  be 
+see  www.falkirk-wheel.com/ 
+edinburgh/information/john_scott_russell.html).  However, by the simplest definition they are subsea waves of significant risk 
+potential  for  diving  and  ROV  operations.    Detection  by  slight  surface  irregularities  with  either  the  naked  eye  or  radar  is 
+possible.    They  tend  to  be  seasonal  and,  although  their  direction  of  travel  is  somewhat  predictable,  reliance  on  direction 
+alone as a precaution is not advised. 
+
+found  at  http://citeseer.ist.psu.edu/hsu00nonlinear.html 
+
+(also 
+
+The company carried out a risk assessment and made recommendations for operating in waters of known Soliton activity as 
+follows: 
+
+  When feasible, schedule work for low season Soliton activity; 
+
+  Seek local knowledge and experience with regards to expected activity levels; 
+
+  The vessel heading should be into the direction of the most likely Soliton approach regardless of optimum heading for 
+
+DP or other environmental considerations; 
+
+  A dedicated competent person shall remain on radar watch at all times during critical work phases; 
+
+  Radar shall be tuned to optimise potential to see approaching Soliton, setting the sensitivity/gain to reduce wave scatter; 
+
+  Break away or quick release lines should be installed on all down-lines; 
+
+  Facility to overboard the supply end of tool umbilicals with buoys attached should be provided; 
+
+  Clear runs for overboard lines on deck should be established and maintained; 
+
+  When feasible, two divers should be working together at all times; 
+
+  The DP operator is to be alerted when the divers have entered a structure or confined area; 
+
+  Optimise control at subsea structure positions; 
+
+  Divers should be immediately alerted of all anomalies; 
+
+  No diver ‘turn arounds’ if attached to fixed structures in known Soiliton areas. 
+
+   
+
+ 
+SAFETY CIRCULAR ON A FATAL ACCIDENT DUE TO 
+ 
+BREAKDOWN IN COORDINATION AND 
+ 
+ 
+COMMUNICATION    < OSD / SY CIR / 04 / 2003 > 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+By Shipyards Branch, Occupational Safety Department 
+Ministry of Manpower 
+ 
+ INTRODUCTION 
+ 
+In Jun 2003, a painter fell 16 meters from an opening 
+on a scaffold erected inside a tank onboard a ship and 
+landed at the bottom of tank.  He was killed on the 
+spot. 
+ 
+ 
+ 
+ 
+
+Two hand-held lamps 
+& a flood light were 
+provided 
+
+Opening in the scaffold  
+
+• 
+
+•  While he was inside the tank, the deceased fell 
+
+through the opening on the scaffold work platform. 
+The opening was due to the removal of scaffold 
+planks during the dismantling process.  
+
+•  Although the "NO ENTRY" and "DO NOT USE 
+
+THE SCAFFOLD" signs were clearly displayed at 
+the entrance to the tank, the deceased still 
+proceeded to enter the tank to carry out the touch 
+up work. 
+
+Illumination (lighting conditions) inside the tank 
+was poor.   
+
+The deceased had 
+gained access from this 
+manhole  
+
+The signage "DO NOT 
+USE THE SCAFFOLD"  
+
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+OBSERVATIONS AND FINDINGS 
+ 
+•  The  deceased  was  in  the  tank  to  touch  up  the 
+paintwork  for  a  sensor  mounting.    While  he  was 
+walking  on  a  scaffold  platform  inside  the  tank,  he 
+fell  through  an  opening  on  the  scaffold.  The 
+distance of fall was about 16 meters. 
+
+ 
+•  One  day  prior  to  the  accident,  the  ship  repair 
+manager  was  informed  that  the  inspection  of  the 
+paintwork  inside  the  tank  had  been  cleared  and 
+accepted  by  the  vessel  owner  and  that  the 
+scaffolds 
+for 
+dismantling.  Instruction  was  then  passed  to  the 
+scaffold contractor to dismantle of the scaffolds on 
+the next day (the day of the accident). 
+
+tank  were 
+
+inside 
+
+ready 
+
+the 
+
+ 
+•  The painting foreman, however, was not aware of 
+the  instruction  to  dismantle  the  scaffold.  On  the 
+morning  of  the  day  of  accident,  the  painting 
+foreman  instructed  his  chargehand  to  conduct  a 
+final  check  on  the  tank.  The  deceased  was 
+subsequently  assigned  to  touch  up  the  paintwork 
+inside the tank.  
+
+ 
+
+ 
+LESSONS LEARNT 
+
+• 
+
+Investigations revealed that the cause of accident 
+was  attributed  to  a  lack  of  coordination  and 
+communication between the relevant trades which 
+resulted  in  the  concurrent  execution  of  scaffold 
+dismantling  and  painting  works  inside  the  tank.  
+Coordination  of  work  activities  established  at  the 
+vessel  safety  co-ordinate  committee  meeting 
+should  be  properly  communicated  to  all  affected 
+parties, including their foremen and workers.            
+
+•  Shipyards  are  reminded  to  instill  their  workers  on 
+the  importance  to  observe  strictly  all  safety  signs 
+such  as  “NO  ENTRY”  signs  into  confined  spaces 
+and tanks.  
+
+•  Adequate lighting should be provided while work is 
+
+being carried out inside the tank.    
+
+ 
+________________________________________________________________________________________________________________ 
+
+Safety Circular On Fatal Accident due to Breakdown in Coordination & Communication 
+
+For copies of this Circular please check our website at http://www.mom.gov.sg 
+
+

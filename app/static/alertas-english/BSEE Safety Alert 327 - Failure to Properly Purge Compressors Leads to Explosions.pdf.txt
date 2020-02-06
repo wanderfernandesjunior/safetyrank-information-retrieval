@@ -1,0 +1,121 @@
+SAFETY ALERT 
+ 
+
+Safety Alert No. 327 
+8 December 2017  
+
+ 
+ 
+
+ 
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+              Contact: Jason Mathews  
+ 
+        Phone: (504) 731-1496 
+
+Failure to Properly Purge Compressors Leads to Explosions 
+
+ 
+Recently, two safety incidents have occurred relating to compressors not being purged properly 
+prior to start-up.  These incidents involved inadequate Job Safety Analysis’ (JSAs) and improper 
+purging procedures.   
+ 
+
+Compressor Scavenger Box after Explosion 
+
+ 
+
+ 
+
+ 
+
+  10 June 2017: During normal startup operations, the gas compressor ran for 
+
+approximately twenty minutes before shutting down due to a platform air compressor 
+problem. After the air compressor was back on line there were two failed attempts to 
+restart the gas compressor. The mechanic then made adjustments to the magnetic pickup 
+and the flywheel. Two attempts later, the gas compressor appeared to be starting, but 
+after 2-3 seconds, the engine backfired. The subsequent explosion sent the scavenger 
+box and debris airborne and ignited the paper filters in the filter housing. The fire was 
+immediately extinguished; however, the mechanic standing next to the air box was injured 
+by flying debris that contacted his chin and upper body.  
+
+The initial investigation indicates that failure to properly purge the gas compressor is the 
+probable cause of the backfire because the compressor panel logic allows the purging 
+process to occur with the starters engaged.  After engagement, the panel logic allowed 
+ignition causing the backfire and subsequent explosion.  
+ 
+
+  16 July 2017: During normal start-up operations, the reciprocating compressor ran for 
+
+approximately five minutes without being loaded. The engine then shut down due to low 
+fuel supply. Once corrected, the compressor was restarted without being purged or 
+loaded. The engine ran in idle for about ten minutes with the blowdown valve in the open 
+
+position. During that time, an explosion occurred causing damage to the 3rd stage cooler 
+and associated piping.  
+ 
+Initial investigation showed that a lack of understanding of the proper purging technique 
+and an insufficient JSA with respect to listing and job steps are probable causes of the 
+failure to purge the compressor.  
+ 
+
+Therefore, BSEE recommends the following:  
+
+  Review JSAs involving compressors to confirm that they include the steps associated with 
+
+properly purging equipment before start-up.  
+ 
+
+up procedures.  
+
+  Review operating procedures to ensure purging operations are stated in compressor start-
+
+  Review training program and work instructions to ensure personnel are aware of, and 
+
+trained, in proper purging procedures.  
+
+  Review compressor panel logic permissives to ensure the proper sequence of events in 
+
+compressor start up. 
+ 
+
+  Follow manufacturer’s recommendations for compressor maintenance.  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+A Safety Alert is a tool used by BSEE to inform the offshore oil and gas industry of the 
+circumstances surrounding an accident or near miss. It also contains recommendations 
+that should help prevent the recurrence of such an incident on the Outer Continental 
+Shelf.  
+ 
+
+

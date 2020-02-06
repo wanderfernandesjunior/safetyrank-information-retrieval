@@ -1,0 +1,79 @@
+Safety Alert 
+
+        From the International Association of Drilling Contractors 
+
+ 
+ALERT 11 – 25  
+ 
+
+DEFECTIVE CLUTCH RESULTS IN DROPPED TOP DRIVE 
+
+ 
+WHAT HAPPENED: 
+ 
+While tripping out of the hole, a stand had been backed out by the Driller.  The Tourpusher then relieved him 
+to  handover  to  his  relief.    With  the  Tourpusher  running  the  rig,  he  discovered  that  the  pipe  threads  had 
+snagged.  He slacked back off the stand to rotate the pipe out again.  When he released the drum clutch, in 
+order to slack off and rotate the stand, the clutch did not release thus causing the brake to loosely set.  When 
+the  clutch  did  release,  the  added  weight  of  the  top  drive  on  the  brakes  caused  the  assembly  to  descend.  
+The top drive contacted the top tool joint and bowed out the stand of pipe.  The Tourpusher applied the brake 
+further, which stopped the top drive’s descent. 
+ 
+
+WHAT CAUSED IT: 
+ 
+
+  The  operation  was  stopped  during  the  process  of  breaking  off  the  stand,  rather  than  waiting  until  the 
+Driller had the block at the floor for the start of the cycle; The rig operator did not notice that the clutch 
+had not dumped its air when the clutch control was released to neutral; 
+
+  The clutch control had debris in the control mechanism, thus preventing the air’s release and signaling to 
+
+the dump valves to dump the air to the clutch; 
+
+  The Driller noticed the brakes were not acting normal about two stands before the incident took place, 
+
+but thought that the brakes had merely gotten water on them; 
+
+  The  brake  flange  was  leaking  water  and  the  driller  thought  the  sluggishness  of  the  brakes  was  due  to 
+
+water on the flanges. 
+
+CORRECTIVE ACTIONS:  To address this incident, this company did the following: 
+ 
+ 
+
+Instructed Drillers not to hand over control of the rig in the middle of breaking out a stand—set it back 
+and bring the blocks to the floor in order to begin a new cycle in the procedure.  
+Instructed Drillers to listen for changes; investigate smells; investigate the feel of controls or any changes 
+in vibration.  
+o  Things have a “normal” sound, appearance, smell and feel.  The Driller should have investigated the 
+
+ 
+
+cause when the brake felt sluggish for the two prior stands.   
+
+o  A change in the sound of the brake or the sound of the air in the clutch dumping a few seconds late 
+
+are indicators that something is wrong.   
+If the brakes become wet the sound changes as they are applied. 
+
+o 
+
+ 
+
+ 
+
+The Corrective Actions stated in this alert are one company’s attempts to address the incident,  
+
+and do not necessarily reflect the position of IADC or the IADC HSE Committee. 
+
+This material is presented for information purposes only.  Managers & Supervisors should 
+
+evaluate this information to determine if it can be applied to their own situations and practices 
+
+Copyright  2005 International Association of Drilling Contractors All rights reserved. 
+
+Issued October 2011 
+
+

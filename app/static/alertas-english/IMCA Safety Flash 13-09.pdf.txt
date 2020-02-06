@@ -1,0 +1,60 @@
+AB 
+
+ 
+
+IMCA Safety Flash 13/09 
+
+Safety Flash 
+
+September 2009 
+
+These  flashes  summarise  key  safety matters  and incidents,  allowing  wider  dissemination  of  lessons learned  from  them.    The information  below has been 
+provided in good faith by members and should be reviewed individually by recipients, who will determine its relevance to their own operations. 
+
+The effectiveness of the IMCA safety flash system depends on receiving reports from members in order to pass on information and avoid repeat incidents.  
+Please consider adding the IMCA secretariat (imca@imca-int.com) to your internal distribution list for safety alerts and/or manually submitting information 
+on specific incidents you consider may be relevant.  All information will be anonymised or sanitised, as appropriate. 
+
+A  number  of  other  organisations  issue  safety  flashes  and  similar  documents  which may  be  of  interest  to  IMCA  members.   Where  these  are  particularly 
+relevant, these may be summarised or highlighted here.  Links to known relevant websites are provided at www.imca-int.com/links   Additional links should 
+be submitted to webmaster@imca-int.com 
+
+ 
+
+1  Use of Pre-Mixed Nitrox Gases 
+
+An incident has been brought to IMCA’s attention where premixed cylinders or quads of nitrox gas may not have had the 
+necessary oxygen content to sustain safe diving and the cylinder or quad may not, in fact, have contained the mix that was 
+indicated on the label and/or accompanying paperwork. 
+
+In a recent near-miss incident, a contractor was conducting diving operations using third-party-supplied cylinders and quads 
+of premixed nitrox via a dive control panel arrangement that fortunately included in-line gas analysers. 
+
+In a situation where the nitrox mix should have had a 36% oxygen content, during the operational monitoring process the 
+contractor  chose  to  immediately  suspend  diving  operations  when  a  reading  of  32%  oxygen  content  was  observed  by  the 
+panel operator and supervisor.  Further tests were conducted which verified that the nitrox gas supplied was not the correct 
+gas mix for safe diving operations. 
+
+During subsequent testing of both the cylinders and quad contents, an oxygen content of approximately 15% was observed in 
+some  cylinders,  a  percentage  well  below  that  specified  and  at  a  level  where  a  serious  incident  could  have  resulted.    Since 
+there is an obvious increased risk of decompression sickness when the oxygen content of the nitrox mix required is less than 
+the oxygen content specified in the decompression tables being used, attention to detail is critical.  In this instance it was only 
+the vigilance of the contractor that detected the problem before an incident occurred. 
+
+The following lessons may be drawn: 
+
+  The mix of the gas should be clearly specified to any third party supplier and knowledge of their quality assurance system 
+
+known and understood before an order is accepted for operational use; 
+
+  Cylinders  and  quads  delivered  from  third  parties  should  have  their  gas  content  analysed  after  delivery  and  certainly 
+
+before first use on site; 
+
+  The use of panel mounted in-line gas analysers has proved to be extremely beneficial in this case; 
+
+  Particular attention should be paid to individual bottles within their racks as any bad mix could dilute easily into the pack 
+
+and not be found.  If such a bottle were utilised as a single source for supply it would be particularly dangerous. 
+
+

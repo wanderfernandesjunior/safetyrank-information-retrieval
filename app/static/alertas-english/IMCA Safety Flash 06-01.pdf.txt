@@ -1,0 +1,152 @@
+AB
+
+ 
+
+IMCA Safety Flash 06/01 
+
+April 2001 
+
+These  flashes  summarise  key  safety  matters  and  incidents,  allowing  wider  dissemination  of  lessons  learned  from  them.    The  information  below  has  been 
+provided in good faith by members and should be reviewed individually by recipients, who will determine its relevance to their own operations. 
+
+The effectiveness of the IMCA safety flash system depends on receiving reports from members in order to pass on information and avoid repeat incidents.  
+Please consider adding the IMCA secretariat (imca@imca-int.com) to your internal distribution list for safety alerts and/or manually submitting information 
+on specific incidents you consider may be relevant.  All information will be anonymised or sanitised, as appropriate. 
+
+A  number  of  other  organisations  issue  safety  flashes  and  similar  documents  which  may  be  of  interest  to  IMCA  members.    Where  these  are  particularly 
+relevant, these may be summarised or highlighted here.  Links to known relevant websites are provided at www.imca-int.com/links   Additional links should 
+be submitted to webmaster@imca-int.com 
+
+ 
+
+1  Corrosion of Band Securing Screw on Diver Band Mask 
+
+A  member  has  recently  reported  the  failure  of  a  band  securing  screw  on  a  DSI  Mrk  18B  band  mask.    During  the  annual 
+return to base for a full strip-down and service of the diver band mask, the company reported the failure of one of the band 
+securing screws, resulting in the band falling away from the mask.  The dive technician was re-assembling the unit and had 
+already inspected both screws and considered them fit for use.  While tightening one screw, the head of the screw fell off. 
+
+On closer inspection, severe corrosion could be observed where the head of the screw joined the threaded section.  This 
+corrosion was not visible prior to the failure – only slight wear of the cross-head was reported.  Since then, the company 
+concerned has instigated a full inspection of all band-securing screws with any screw showing slight wear being replaced. 
+
+2  Fast Rescue Boats (Zodiac) 
+
+One  of  our  members  has  recently  reported  an  incident on  of  its  vessels,  whereby  a rigger  crushed  his  hand  between  the 
+zodiac and the structure.  A similar incident was known to have happened on another company’s vessel, where the rigger 
+also received a hand injury. 
+
+The  similarity  between  the  two  incidents  is  striking,  since  both  involved  a  zodiac  connecting  lines,  which  is  a  routine  job 
+carried out by experienced crew. 
+
+The company concerned noted that the majority of incidents on its vessels happen when: 
+
+The company has noted the following lessons learned from the incident: 
+
+i) 
+
+ii) 
+
+iii) 
+
+i) 
+
+ii) 
+
+iii) 
+
+iv) 
+
+doing routine jobs; 
+
+using experienced crew (mainly riggers); and 
+
+using standard equipment and methods. 
+
+Be alert; 
+
+Think before you act; 
+
+Do not take anything for granted; 
+
+If necessary, perform a job safety analysis. 
+
+3  Use of Hand-Held Disc Grinders 
+
+One of our members has recently received the following information on an incident: 
+
+A fatality occurred when a worker was using an air-powered disc grinder to cut grooves into cast iron.  The disc fractured 
+and a large fragment penetrated the worker’s face shield and hit his face, with fatal consequences. 
+
+Several rule-violating factors contributed to this incident: 
+
+i) 
+
+the disc installed was larger than allowed for the grinder tool; 
+
+Safety Flash 
+
+ 
+
+ii) 
+
+iii) 
+
+iv) 
+
+v) 
+
+i) 
+
+ii) 
+
+iii) 
+
+iv) 
+
+i) 
+
+ii) 
+
+iii) 
+
+the disc guard had been removed; 
+
+the disc was not designed for this type of cutting; 
+
+the side handle had been removed; 
+
+the marked disc speed was 4500rpm, while the grinder tool could make 7600rpm. 
+
+The following lessons learned were noted: 
+
+Never remove guards installed by tool manufacturers; 
+
+Only use consumables recommended for the tool by the manufacturer; 
+
+Always check if tools are fit for the purpose before use; 
+
+Ensure face shields in use are adequately dimensioned for their intended use. 
+
+4  Fork Lift Truck Operations 
+
+A recent incident on one of our members’ vessels occurred when working on an internal lifting tool, using a fork lift to lift 
+and install grippers. 
+
+The gripper fell off of the forks and hit a man on his hand, causing serious crush wounds. 
+
+The main reason for the incident was that the forks were being used as a lifting tool.  The grippers were attached using a 
+rope.  The rope was not secured against slipping. 
+
+Proper slings/shackles should have been used, along with a device to prevent slipping.  On a similar vessel, a shoe and tie-back 
+device is used. 
+
+The lessons learned from the incident were: 
+
+use fork lift trucks for what they are designed for; 
+
+use proper slings, shackles and securing devices; 
+
+supervisors should check on all ongoing work. 
+
+

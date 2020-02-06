@@ -1,0 +1,94 @@
+SAFETY ALERT 
+
+Safety Alert No. 329   
+20 February 2018  
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+         Contact: Jason Mathews 
+              Phone: (504) 731-1496 
+
+Potentially Catastrophic Crane and Lifting Incidents 
+
+Crane boom hanging over the side of drilling rig associated with 29 November 2017 incident 
+
+Four recent safety incidents have occurred that involve cranes and lifting devices. As the 
+descriptions below demonstrate, the failures could have resulted in catastrophic 
+consequences for personnel and the environment. 
+
+·  16 October 2017: Incident occurred while conducting the operation of running a 
+
+drilling riser in preparation for latching up the Blowout Preventer (BOP). While 
+picking up a slick joint to connect to the BOP stack, the joint became un-lodged  
+from the riser running tool and fell across the derrick, causing structural damage to 
+the main drawworks track support bracing, hydraulic line, electrical cables and 
+cable trays. The dropped joint of marine riser weighed 43,000 lbs. No personnel 
+were in the drop zone at the time of the incident. 
+
+·  28 November 2017: Personnel were attempting to lift a diesel tote from a supply 
+
+vessel and the fast line was lowered to the deck and attached to the pre-slung 
+diesel tote. When the tote was lifted approximately five feet off of the deck, the fast 
+line parted and about 120 feet of cable, crane ball, and tote fell back to the deck. 
+Failure of the crane was caused by a frozen boom tip sheave which caused the 
+running line to jump the sheave. No personnel were in the drop zone at the time of 
+the incident. 
+
+·  29 November 2017: Immediately after completing a four-person personnel transfer, 
+workers were preparing to hook up a pallet from a crew boat. The port crane boom 
+fell freely hitting the side of the jack-up rig, puncturing a hole in the port diesel tank. 
+The cause of the failure was missing retaining rings that held the pawl pin in place, 
+causing the pin to dislodge. Inspection of the starboard crane also revealed 
+missing retaining rings. Thirty eight barrels of diesel fuel was released into the Gulf 
+of Mexico as a result of this incident. 
+
+·  13 December 2017: A rig crew was in the process of loading tubing from the rig to 
+
+a work boat.  When they started to lift a bundle of tubing from the V-door, one 2-
+7/8" tubing joint slid out of the center of the bundle of 12 joints and fell about 120 
+feet to the deck of the work boat below.  The joint landed on an empty cutting box, 
+puncturing the lid and then fell to the deck of the boat.  No personnel on the boat 
+were near the area of the cutting box and there were no injuries.  
+
+Therefore, BSEE recommends that operators consider the following options: 
+
+·  Ensure that proper planning is conducted prior to lifts. This planning should include 
+
+review of drop zones, identification of safe zones while the lift(s) occurs and 
+verification that all participants are trained in the work practices to conduct lifts 
+and/or perform inspections. 
+
+·  Review the mechanical integrity program to verify that crane maintenance and 
+
+inspections are being performed per the Operator’s SEMS plan, BSEE regulations 
+and API RP 2D. The frequency of inspections and test must meet the 
+manufacturer’s recommendations. Special consideration should be given to: 
+o  accessibility and inspection of a crane’s boom hoist lock pawl cylinder 
+
+assembly; 
+
+o  outer diameter measurements of boom, main, auxiliary and pendant cables; 
+o  documentation on installation date, manufacture date and identification 
+
+information for boom, main, auxiliary and pendant cables; 
+inspection and lubrication of sheaves; and, 
+
+o 
+o  ensuring that wire rope size and sheave sizes are compatible. 
+
+·  Verify that loads are centered, balanced and secured prior to initiating lifts. 
+
+A Safety Alert is a tool used by BSEE to inform the offshore oil and gas industry of the 
+circumstances surrounding an accident or near miss. It also contains recommendations 
+that should help prevent the recurrence of such an incident on the Outer Continental 
+Shelf.
+
+

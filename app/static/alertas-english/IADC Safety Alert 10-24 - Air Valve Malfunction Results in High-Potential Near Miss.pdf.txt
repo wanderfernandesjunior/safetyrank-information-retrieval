@@ -1,0 +1,89 @@
+Safety Alert 
+
+        From the International Association of Drilling Contractors 
+
+ 
+ALERT 10 – 24 
+
+AIR VALVE MALFUNCTION RESULTS 
+
+IN HIGH-POTENTIAL NEAR MISS 
+
+ 
+WHAT HAPPENED: 
+ 
+The  driller  was  in  the  process  of  back  reaming  when  the  air  supply  to  the  drum  clutch  of  the  draw  works 
+suddenly bled off.  This allowed the drum clutch to release and the top drive system, with a 5-inch drill string 
+attached, to move down approximately 4-meters (13 feet).  The drill pipe elevators came in contact with the 
+rotary table resulting in damage to the bails and the link tilt hydraulic cylinders. 
+ 
+
+ 
+
+WHAT CAUSED IT: 
+ 
+Combination of leaking o-rings and the valve “tattletale hole” being plugged.  
+ 
+
+  The o-rings were found to be brittle and allowed air to leak by the shaft into the end cap.  
+  The “tattletale” hole was found to be plugged causing the pressure leaking by the o-rings to build up 
+
+in the end cap exerting internal pressure against the end of the valve. 
+
+  The reverse pressure shifted the valve into the vent position which shut off the air to, and dumped air 
+
+from, the drum clutch. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+The Corrective Actions stated in this alert are one company’s attempts to address the incident,  
+
+and do not necessarily reflect the position of IADC or the IADC HSE Committee. 
+
+This material is presented for information purposes only.  Managers & Supervisors should 
+
+evaluate this information to determine if it can be applied to their own situations and practices 
+
+Copyright  2005 International Association of Drilling Contractors All rights reserved. 
+
+Issued August 2010 
+
+Safety Alert 
+
+        From the International Association of Drilling Contractors 
+
+ 
+CORRECTIVE ACTIONS:  To address this incident, this company did the following: 
+ 
+1.  As an immediate corrective action, the o-rings were changed on this valve. 
+2.  Contacted the valve manufacturer and informed them of the incident and inquired if there have been 
+
+similar incidents in the past. 
+
+3.  Obtained recommended maintenance and inspection procedures from the valve manufacturer and 
+
+added the procedures to the company Preventative Maintenance System. 
+
+4.  Communicated these procedures to maintenance personnel.   
+ 
+ 
+
+The Corrective Actions stated in this alert are one company’s attempts to address the incident,  
+
+and do not necessarily reflect the position of IADC or the IADC HSE Committee. 
+
+This material is presented for information purposes only.  Managers & Supervisors should 
+
+evaluate this information to determine if it can be applied to their own situations and practices 
+
+Copyright  2005 International Association of Drilling Contractors All rights reserved. 
+
+Issued August 2010 
+
+

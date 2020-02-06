@@ -1,0 +1,335 @@
+AB
+
+ 
+
+IMCA Safety Flash 17/08 
+
+Safety Flash 
+
+December 2008 
+
+These  flashes  summarise  key  safety  matters  and  incidents,  allowing  wider  dissemination  of  lessons  learnt  from  them.    The  information  below  has  been 
+provided in good faith by members and should be reviewed individually by recipients, who will determine its relevance to their own operations. 
+
+The effectiveness of the IMCA safety flash system depends on receiving reports from members in order to pass on information and avoid repeat incidents.  
+Please consider adding the IMCA secretariat (imca@imca-int.com) to your internal distribution list for safety alerts and/or manually submitting information 
+on specific incidents you consider may be relevant.  All information will be anonymised or sanitised, as appropriate. 
+
+A  number  of  other  organisations  issue  safety  flashes  and  similar  documents  which  may  be  of  interest  to  IMCA  members.    Where  these  are  particularly 
+relevant, these may be summarised or highlighted here.  Links to known relevant websites are provided at www.imca-int.com/links   Additional links should 
+be submitted to webmaster@imca-int.com 
+
+ 
+
+1  Accidental Shutdown of Main Engines 
+
+A member has reported an incident in which a vessel’s main engines were inadvertently shut down.  During transit, the vessel 
+was rolling considerably and as a result the door of a nearby cabinet swung loose.  A member of the marine crew moved to 
+close the door; as he did so the vessel rolled and he was accidentally pressed against the emergency shutdown buttons.  The 
+two central buttons controlling the fuel pumps were accidentally activated (see photographs below), causing loss of power to 
+both fuel pumps.  The vessel was without main engines for 35 minutes.  The generators were unaffected and a thruster was 
+started to provide headway. 
+
+It was discovered that the Perspex cover in place to prevent accidental activation was so flexible that it bent in sufficiently to 
+press against and thus activate the emergency stop buttons when the crew member accidentally pressed against it. 
+
+Emergency power switches 
+
+ 
+
+The following lessons were drawn: 
+
+ 
+
+It should not be possible to accidentally activate critical items such as emergency shut down controls; 
+
+  Protective covers and other barriers to prevent accidental activation must be fit for purpose; 
+
+  At least two separate actions should be required to activate the shut down; 
+
+  Emergency  controls  should  located  in  such  a  way  as  to  be  quickly  accessible  when  required  but  so  that  accidental 
+
+activation is not possible. 
+
+at the next port call. 
+
+The following action was implemented immediately to prevent recurrence of this potentially very serious incident: 
+
+  The Perspex guard was temporarily strengthened and steps were put in place to fabricate and install a permanent guard 
+
+ 
+
+2  Fatality – Struck by Falling Object During Lifting Operation 
+
+An incident has been reported in which a shipyard worker was struck and killed by a falling object whilst working in a ballast 
+tank.  The incident occurred during the dry docking of a vessel and occurred during lifting operations.  A piece of steelwork 
+fell from its rigging to the bottom of the ballast tank and hit the worker, causing fatal injuries. 
+
+Six large heavy plates, weighing approximately 100kg each, were being lifted by one team from the quay into the bottom of a 
+ballast tank onboard the vessel. 
+
+Following a break period the lifting operation continued, although there was now other work taking place simultaneously at 
+the bottom of the ballast tank.  The first lift following the break was of a long angle plate sized 2000 x 300 x 90mm.  This was 
+initially rigged with a nylon flat webbing sling, choked around the plate. 
+
+At  this  point  a  safety  officer  stopped  the  job,  noting  that,  in  order  to  make  the  job  safe,  a  padeye  lifting  point  should  be 
+welded to the plate.  The rigger went to see his supervisor in order to get a padeye welded on the angle iron, and the safety 
+officer  went  to  the permit to  work  office to  request that  the  permit  for  this  lift be put  on  stand-by  until  the  padeye  was 
+welded in place. 
+
+For unexplained reasons, the lift nonetheless continued without the padeye.  Workers in the bottom of the ballast tank were 
+asked to move away as a lifting operation would shortly be in progress but not all of them did so.  As the angle plate was 
+lowered into the ballast tank, it or its web strop rigging got stuck on an obstruction, such that the plate slipped within the 
+choked sling and then fell free.  The plate fell to the bottom of the ballast tank and struck a worker who had not moved 
+away, causing fatal injuries. 
+
+Beam being lowered into ballast space (re-enactment) 
+
+Detail of webbing strop getting caught 
+
+ 
+
+ 
+
+Following investigation of this wholly avoidable incident the following causes were identified and actions were put in place to 
+prevent recurrence: 
+
+  Bad rigging practices; specific rigging rules were not followed – a nylon flat webbing sling was used to rig the angle plate 
+
+rather than a safe welded padeye welded as required by the safety officer; 
+
+  Lack of communication between sub-contractors and poor management of simultaneous operations; 
+
+ 
+
+Instructions from safety officer were not followed; 
+
+  There was no proper control of the lifting operation: 
+
+– 
+– 
+– 
+
+the area under lift was not controlled 
+proper communications (radios) were not employed 
+a rigging supervisor was not involved; 
+
+ 
+
+Insufficient personnel were involved in the operation, which involved lifting via a narrow opening, through two different 
+levels down inside a ballast tank, with poor visibility, a load not vertical and no rigger at the landing area to receive the 
+load. 
+
+ 
+
+3  Stored Energy – Injury Sustained Whilst Removing Metal Straps 
+
+A member has reported an incident in which a crane operator suffered a lost time injury.  A team comprising three crane 
+operators, acting as riggers and under the supervision of a foreman, was preparing heavy wire-rope slings for rigging on the 
+spreader bar for a lifting operation.  The slings (six in all) were coiled on one large pallet as received from the supplier and 
+had been secured for transportation using metal ‘Band-It’ style straps (see photograph on left below). 
+
+The task consisted of unpacking the lifting equipment and checking and positioning all the slings temporarily on the ground.  
+An  auxiliary  rope  for  the  safe  retaining  of  the  slings  whilst  unpacking  them  was  available  on  site  but  this  was  not  used.  
+In order to carry out the job it was necessary to cut and take off the metal straps used by the supplier for transportation/ 
+storage of the grommets. 
+
+Five slings were unpacked and positioned by the team without any difficulties.  During the unpacking and positioning of the 
+sixth sling, as one of the two retaining metal straps was cut, the second strap became over-tensioned and gave way.  The 
+sling acted as a spring and moved violently outwards, striking the crew member on the helmet and ankle.  Following first aid 
+the  crew  member  was  taken  to  hospital  for  further  examination.    The  crew  member  was  unable  to  return  to  work  for 
+20 days. 
+
+Slings are received from supplier 
+
+Sling after stored energy was released 
+
+ 
+
+ 
+
+  High levels of stored energy resulting from extreme compression while coiling/packaging to optimise transportation on 
+
+The following factors were identified as contributory to the incident: 
+
+one pallet; 
+
+ 
+
+Inadequate pallet, not large enough to handle this kind of package; 
+
+  Lack  of  communication  on  the  part  of  the  supplier  of  the  relevant  hazards  (stored  energy/slings  under  tension)  and 
+
+inadequate instructions for safe removal of the metal wraps; 
+
+  General lack of communication between supplier and user about residual risks related to handling packages of this kind; 
+
+  Team did not use available equipment to contain the sling under tension whilst cutting the wraps; 
+
+  Risk was not appropriately assessed before the start of the job; no relevant job safety analysis took place. 
+
+The following actions were suggested: 
+
+ 
+
+Improve communications between supplier, client and user so that hazards of such packages were fully understood and 
+risks appropriately controlled; 
+
+  Supplier of slings to send relevant information and instructions for the safe unpacking of its products; 
+
+  Develop procedures for safe unpacking of metal slings; 
+
+  Make full use of existing safe systems of work; 
+
+  Perform risk assessment and job safety analysis before starting the job. 
+
+Members’ attention is also drawn to section 2.1 of IMCA M 194 – Guidance on wire rope integrity management for vessels in the 
+offshore industry – which highlights the hazard posed by stored energy in wire ropes. 
+
+ 
+
+4  Failure of Webbing Strop During Lifting Operations 
+
+A member has reported an incident in which a webbing strop failed during a lifting operation onboard a vessel.  The rigging 
+crew found it necessary to reposition the mattress lifting frame which had been landed incorrectly.  The lift was being carried 
+out to reposition the lifting frame at one end, in order to square it up, as the forward section was not sitting correctly on the 
+mats. 
+
+The  weight  of  the  handling  frame  and  rigging  was  9.2Te.    A  webbing  strop  with  a  safe  working  load  (SWL)  of  3.6Te  was 
+selected.  The sling was then basket-rigged to give a SWL of 5.8Te, attached to the main lift rigging of the handling frame and 
+then on to the crane whip line block. 
+
+With all personnel clear of the load, the rigging foreman instructed the crane operator to commence the lift.  As the weight 
+of the lift was taken on the crane the rigging parted, causing the frame to land back in place.  No one was injured.  The crane 
+computer showed a peak load of 9Te. 
+
+Mattress lifting frame 
+
+Example of worn lifting strop 
+
+ 
+
+ 
+
+Following investigation, these conclusions were drawn: 
+
+  The sling was incorrect for carrying out this lift.  It was not only an insufficient SWL but was also worn and in a generally 
+
+degraded condition.  There were no ID marks or colour codings on the sling; 
+
+  The sling was not subject to inspection prior to use and as such the wear and lack of ID was not observed; 
+
+  The intention had been only to lift up one end of the frame.  However, with no adequate lift planning in place, the sling 
+
+was connected to the central lifting point; 
+
+  An assumption was made that this sling would be of a sufficient SWL when basket-rigged to lift one end only. 
+
+The following actions were recommended: 
+
+  The need for an appropriate lifting plan for every lift, however small or routine, should be reiterated; 
+
+  All vessels should check their items of lifting equipment and rigging to ensure that they have appropriate and readable ID 
+markings  which  are  part  of  a  vessel’s  itemised  rigging,  are  free  from  defects  and  are  included  in  regular  planned 
+inspection; 
+
+  Personnel should ensure they are familiar with the relevant lifting operation procedures including documentation and lift 
+
+  Members should ensure that relevant information on lifting – including pocket safety cards, posters and procedures – is 
+
+planning; 
+
+available at worksites and vessels; 
+
+  Use of generic lifting plans should be scrutinised to ensure their suitability. 
+
+Members’ attention is also drawn to IMCA SEL 019 – Guidelines for lifting operations. 
+
+ 
+
+5  Uncontrolled Movement of Crane Jib During Inspection 
+
+A  member  has  reported  an  incidence  of  uncontrolled  movement  of  a  crane  jib  during  inspection  operations.    The  crane 
+boom/knuckle had been lowered to deck to enable access to the main hoist sheave for inspection and maintenance purposes.  
+The  crane  was  powered  down  and  the  operator  was  not  in  the  cab.    During  the  inspection  there  was  an  uncontrolled 
+movement of the knuckle section along the deck of approximately 30cm towards the crane pedestal. 
+
+The hydraulic cylinders in the main boom were not fully closed when the crane was stowed in this position; therefore the 
+weight of the jib was able to overcome the friction on deck and thus caused the movement of the knuckle head across the 
+deck.  At the time of the movement the inspector had been positioned close to the equipment in order to gain access on 
+either side for a complete overview. 
+
+Main boom cylinders not fully closed 
+
+Main boom cylinders FULLY closed 
+
+ 
+
+ 
+
+A number of key lessons were drawn from this near-miss: 
+
+  Conduct such inspections and routine maintenance with the crane stowed in dedicated parking position i.e. crane crutch; 
+
+  Ensure that the main boom cylinders are fully closed to avoid uncontrolled movement of crane jib; 
+
+  Follow approved procedures and always fully brief third party personnel during a toolbox talk prior to commencing the 
+
+  Follow and adhere to the permit to work system, review and risk-assess specific tasks; 
+
+  Ensure that a complete and thorough shift handover is conducted at all times and strive to identify any hazards while the 
+
+operation; 
+
+job is in progress; 
+
+  Barrier off work-site and ensure all personnel are aware of the potential hazards. 
+
+ 
+Deck area where uncontrolled movement of the knuckle occurred 
+
+ 
+
+Showing correct angles and position of crane 
+
+during the inspection operation 
+
+ 
+
+Showing correct boom position 
+
+ 
+
+6  Failure of Lifting Padeye 
+
+A member has reported a near miss in which a member of an ROV team spotted that one padeye on the tether management 
+system winch was at an unusual angle.  After closer inspection by the ROV pilot technician it became clear that the padeye 
+had peeled away from the box section of the winch. 
+
+Following  investigation  it  was  concluded  that  this  was  likely  to  have  happened  during  a  recent  mobilisation  and  had  gone 
+unnoticed  for some  weeks.   The  shift  supervisor  was  informed,  who  brought  the matter up in the  daily  meeting  the  next 
+morning. 
+
+The cause of the incident is thought to be incorrect design.  The 30mm thick padeye is welded directly to the top of a box 
+section  made  from  5mm  thick  steel.    The  load  on  the  padeye  goes  directly  into  the  unreinforced  top  surface  of  the  box 
+section.  Under repeated loading the padeye had peeled back the top surface of the box section as shown in the photograph. 
+
+ 
+
+The following conclusions were drawn: 
+
+  When  hiring  such  equipment  it  can  be  taken  for  granted  that  the  equipment  has  been  designed  correctly  particularly 
+when  the  equipment  is  certified.    This  incident  shows  that  certification  is  no  guarantee  that  equipment  is  correctly 
+designed or has been handled correctly; 
+
+  Personnel involved in lifting operations must always check the condition of the lifting lugs/padeyes and slings prior to and 
+
+immediately after use.  In this case the damaged padeye was not noticed until some days after the damage was caused; 
+
+  All equipment subject to lifting must be treated with caution, particularly equipment that is repeatedly mobilised; 
+
+  During lifting operations always be prepared for the possibility that the load could drop or an object could fall off.  The 
+safety rule stating that personnel are not to go under the load, not to lift the load over the top of personnel and to keep 
+a safe distance at all times should be reinforced. 
+
+

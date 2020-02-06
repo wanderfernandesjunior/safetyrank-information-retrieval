@@ -1,0 +1,120 @@
+Safety Alert 
+
+        From the International Association of Drilling Contractors 
+
+ 
+ALERT 09 – 23 
+
+LIFEBOAT INCIDENT RESULTS IN A FATALITY 
+
+ 
+
+BACKGROUND: 
+ 
+Offshore  rigs  or  Mobile  Offshore  Drilling  Units  (MODU)  are  normally  outfitted  with  lifeboats  as  a  means  of 
+emergency evacuation.  Since the lifeboats are lifesaving equipment, they must be maintained in a “ready to 
+go”  condition  AT  ALL  TIMES.    Regular  drills  along  with  and  testing  of  lifeboats  &  equipment  is  generally 
+required  by  regulation  and  has  been  the  industry-accepted  means  of  assuring  readiness  of  the  lifeboats.  
+Accident statistics indicate that most accidents involving lifeboats occur during drills and other maintenance 
+activities. 
+ 
+WHAT HAPPENED: 
+ 
+A MODU launched its starboard lifeboat with a crew of seven as part of a planned drill.  At the conclusion of 
+the drill, while recovering the lifeboat, the aft hook opened inadvertently as the life-boat was hoisted close to 
+its stowed position. The lifeboat swung onto its forward hook, with the sequential failure of that davit line also, 
+resulting in the lifeboat and its occupants free falling approximately 65 feet into the sea.  This resulted in the 
+tragic loss of life of one crew member and in addition the six other crew members suffered various degrees 
+of injury. 
+ 
+
+WHAT CAUSED IT: 
+ 
+Investigations  revealed  that  the  “On-Load”  release  system  of  the  lifeboat  had  malfunctioned  due  to 
+deterioration  of  some  critical  components  of  the  system  with  age  and  use.    The  rig  crew  did  not  fully 
+understand  the  way  the  lifeboat  release  system  worked  in  order  to  conduct  adequate  checks  of  its 
+mechanism  and  assure  its  integrity  prior  to  hoisting  the  lifeboat  back  up  to  the  rig.    Some  of  the  planned 
+maintenance for the lifeboat and its release mechanism had not been implemented partially due to confusion 
+on  the  rig  between  preventive  maintenance,  marine  certification  and  flag  state  regulatory  requirements.    A 
+long  history  and  a  lot  of  information  exists  within  the  shipping  and  ship  owner’s  domain  about  lifeboat 
+accidents  due  to  “On-Load”  release  system  malfunction.    This  information  had  somehow  not  been  fully 
+shared with the Drilling Contractor community. 
+ 
+
+CORRECTIVE ACTIONS:  To address this incident, this company did the following: 
+ 
+  Company Rig Managers are to immediately plan for an OEM engineer to visit all MODUs to assess the 
+lifeboat release systems and conduct annual and 5-yearly inspection/overhaul/testing of the lifeboats and 
+their release systems (if this inspection/overhaul has not been conducted and documented in the last six 
+months).  
+
+  Company  Maintenance  Supervisors  are  to  enforce  prompt  and  timely  implementation  of  approved 
+
+maintenance tasks and procedures. 
+
+  Upon  completion  of  the  above  inspection/overhaul,  company  Rig  Managers  are  to  have  the  OEM 
+representative  fully  explain  the  operation  of  each  lifeboat  release  system  and  its  mechanism  to 
+respective rig crews and ensure the latest version of the operating manual is present on the MODU.  
+
+  Each  MODU  manager  (Rig  Manager)  is  to  conduct  and  document  a  formal  Risk  Assessment  exercise 
+
+before conducting any lifeboat drills in future.   
+
+  Each  MODU  manager  (Rig  Manager)  is  to  update  preventive  maintenance  tasks  and  procedures  to 
+
+include the latest IMO/SOLAS regulations for lifeboats and other life saving equipment. 
+
+  Company  management  is  to  establish  contacts  with  IMO/SOLAS,  the  IADC  and  the  lifeboat  OEM  to 
+permit  knowledge  sharing  regarding  marine  safety  regulations,  updates  to  current  regulations,  alerts 
+involving lifeboats and any equipment changes and/or modifications.  
+
+ 
+
+The Corrective Actions stated in this alert are one company’s attempts to address the incident,  
+
+and do not necessarily reflect the position of IADC or the IADC HSE Committee. 
+
+This material is presented for information purposes only.  Managers & Supervisors should 
+
+evaluate this information to determine if it can be applied to their own situations and practices 
+
+Copyright  2005 International Association of Drilling Contractors All rights reserved. 
+
+Issued August 2009 
+
+Safety Alert 
+
+        From the International Association of Drilling Contractors 
+
+ 
+ 
+ 
+
+In the light of this and many other serious incidents involving lifeboats, company personnel are to assess 
+whether it may be better to move to a safer means of evacuation in the event of an emergency. 
+
+ 
+IADC Note See IMO Documents: IMO MSC.1/Circ.1206/Rev.1 11 June 2009 MEASURES TO PREVENT 
+ACCIDENTS WITH LIFEBOATS found at  
+http://www.imo.org/includes/blastDataOnly.asp/data_id%3D25943/1206-Rev-1.pdf  
+INTERIM RECOMMENDATION ON CONDITIONS FOR AUTHORIZATION OF SERVICE PROVIDERS FOR 
+LIFEBOATS, LAUNCHING APPLIANCES AND ON-LOAD RELEASE GEAR 
+  http://www.imo.org/includes/blastDataOnly.asp/data_id%3D22233/1277.pdf  
+GUIDELINES FOR THE FITTING AND USE OF FALL PREVENTER DEVICES (FPDs) 
+  http://www.imo.org/includes/blastDataOnly.asp/data_id%3D25970/1327.pdf 
+ 
+ 
+
+The Corrective Actions stated in this alert are one company’s attempts to address the incident,  
+
+and do not necessarily reflect the position of IADC or the IADC HSE Committee. 
+
+This material is presented for information purposes only.  Managers & Supervisors should 
+
+evaluate this information to determine if it can be applied to their own situations and practices 
+
+Copyright  2005 International Association of Drilling Contractors All rights reserved. 
+
+Issued August 2009 
+
+

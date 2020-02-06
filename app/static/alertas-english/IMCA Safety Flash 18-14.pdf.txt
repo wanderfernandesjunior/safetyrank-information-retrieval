@@ -1,0 +1,610 @@
+AB 
+
+ 
+
+IMCA Safety Flash 18/14 
+
+Safety Flash 
+
+  November 2014 
+
+These flashes summarise key safety matters and incidents, allowing wider dissemination of lessons learnt from them.  The information below has been provided 
+in good faith by members and should be reviewed individually by recipients, who will determine its relevance to their own operations. 
+
+The effectiveness of the IMCA safety flash system depends on receiving reports from members in order to pass on information and avoid repeat incidents.  
+Please consider adding the IMCA secretariat (imca@imca-int.com) to your internal distribution list for safety alerts and/or manually submitting information on 
+specific incidents you consider may be relevant.  All information will be anonymised or sanitised, as appropriate. 
+
+A number of other organisations issue safety flashes and similar documents which may be of interest to IMCA members.  Where these are particularly relevant, 
+these may be summarised or highlighted here.  Links to known relevant websites are provided at www.imca-int.com/links   Additional links should be submitted 
+to webmaster@imca-int.com 
+
+ 
+
+1  Failure of Bell Winch Clutch Coupling during Bell Recovery 
+
+A member has reported  an incident  in which  a winch  clutch failed during bell recovery.  A  diving support work barge was 
+performing riser installation in saturation mode.  The saturation dive system was third party hired equipment with technicians 
+provided by the supplier.  The system model is of a type the diving contractor also owns and operates. 
+
+During recovery with three quarters of the bell submerged the clutch between the winch and the hydraulic motor disengaged 
+causing an in water descent of the bell to 10 msw. There were no injuries to bell occupants or topside support personnel. 
+
+The secondary motor and clutch assembly was engaged and the bell was recovered to surface, locked-on and transfer under 
+pressure (TUP) without further incident.  The faulty equipment was replaced and a load test was carried out to 14.88Te  
+
+Subsequently two further dry bell runs were carried out on each motor during which the bell was lowered to below surface 
+and lifted back to hooks.   
+
+What went wrong?   
+
+Excessive wear of the clutch components and their retaining device provided enough ‘slop’ in the assembly to allow space for 
+separation  of  the  coupling.    The  winch  brake  did  not  engage  and  prevent  the  free  fall  as  the  fail  safe  hoist  lever  was  not 
+immediately released upon descent (both the internal disc and external band brakes engage only when the lever is in the neutral 
+position).   
+
+Figure: bell winch showing the clutch coupling mechanism in the undogged and locked position (LR). 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Figure: material loss on the bronze bushing 
+
+Figure: clutch cog wear showing ½ the actual gap                                       
+
+against the replacement clutch. 
+
+ 
+
+ 
+
+Our member’s investigation revealed the following:  
+
+The leading edge of the clutch on the load bearing side pushed the pinion coupling outwards causing wear of both the bronze 
+bushing and the engaging edge of the clutch cog, providing a gap which eventually allowed unintentional disengagement of clutch. 
+
+It  was  learned  that  a  similar  loss  of  control  incident  involving  identical  wear  of  the  same  components  on  that  system  had 
+occurred several years previously. 
+
+Of  the  many  system  ‘General  Safety  Recommendations’,  and  ‘Operating  Procedures’  listed  in  the  supplier/manufacturer’s 
+manuals are the following: 
+
+  Read all warning tag information and become familiar with all controls before operating the winch; 
+
+  Slowly hoist or lower (main bell winch).  The gearbox brake will automatically release and the hand brake automatically 
+
+opens; 
+
+ 
+
+Inspect rigging, drive and hydraulic hoses at the beginning of each work shift.  Defects should be corrected immediately; 
+
+  Check all hinges, clevises and grease points. 
+
+Our member noted the following causes: 
+
+  Worn/damaged components led to an unintended disengagement of the clutch; 
+
+  The location/position of the components involved does not lend immediately to direct observation; 
+
+  An inadequate inspection regime: information regarding the correct operation and maintenance was available from the 
+manufacturer however, the planned maintenance system (PMS) used was of a general type and had omissions of critical 
+component care; 
+
+  Failure to follow up on recommendations resulting from the initial incident. 
+
+Our member took the following immediate actions: 
+
+  Repaired and made function test of the equipment; 
+
+  Forwarded advice to the system supplier and held meetings soon after; 
+
+  Reviewed system maintenance and operating procedures; 
+
+  Sent pre-investigation internal notification to worksites, requiring inspection of like components where installed; 
+
+  Formal investigation initiated. 
+
+The following preventative actions is being taken: 
+
+  Clean and apply fresh paint of bright, unlike colours to the two opposing jaws of such couplings to highlight any developing 
+increase in spacing and increase visibility/retain awareness of the critical components.  Currently, the modification has been 
+implemented on the bell winch system on one of the saturation diving systems.  The method is not limited to this particular 
+equipment and should be considered for application wherever safety critical components are installed, especially if they 
+have a history of a previous incident; 
+
+ 
+
+ 
+
+Before 
+
+  Measurements of the coupling jaws to be taken over time and logged in order to monitor wear and tear on this and similar 
+
+     
+
+ 
+
+After 
+
+devices; 
+
+monitor the system; 
+
+  Once every two weeks, alternate the  primary and secondary  clutch  and motor in order to reduce wear  and tear  and 
+
+ 
+
+Increase the thoroughness of inspections for third party equipment with the use of company saturation system function 
+test protocol, updated to include the particulars of the components involved in this incident; 
+
+  Revision of company maintenance schedules for inclusion of a segment on critical components and with closer attention 
+to specifics.  Note: grease nipples are not applicable to this area.  ‘Open gear lubricant’ is the requirement (at the bushing 
+interface). 
+
+Members may wish to refer to the following similar incidents (key words: clutch, brake, failure): 
+
+ 
+
+ 
+
+ 
+
+IMCA SF 01/00 – Incident 4. Lifeboat winch failure;  
+
+IMCA SF 08/01 – Incident 1. Failure of ROV lift umbilical winch brake; 
+
+IMCA SF 18/09 – Incident 2. Fatal incident onboard a dive support. 
+
+2  Master Link Failure during Testing of Overboarding Chute 
+
+A member has reported an incident in which a master link failed during articulation of an overboarding chute.  As one of the 
+final stages of mobilisation of a jumper deployment spread to a project vessel, an overboarding chute (circa 25Te) was being 
+function  tested  on  completion  of  securing  to  deck  grillage.    The  function  test  involved  operating  the  chute  articulation 
+mechanism by connecting to the crane main line to lift and move (traverse) the chute from its upper resting position, past top 
+dead centre then lowering into its lower (deployment) position where it rests on stoppers and is secured via swing bolts.  As 
+the chute went through top dead centre a 38.3Te master link failed in the rigging assembly resulting in the chute making an 
+uncontrolled  movement  forward,  into  its  deployment  position.    Based  on  crane  data  the  load  applied  to  the  chute  hinge 
+mechanism (between chute and grillage) at the time of failure was circa 80Te; more than 50Te greater than the weight of the 
+chute assembly.  It should be noted that the crane data indicates the load at failure exceeded the Safe Working Load (SWL) 
+(38.3Te) but did not exceed the Minimum Breaking Load (MBL) of 153.2Te. 
+
+The chute sustained damage in several areas to the extent that it and the deployment spread had to be demobilised from the 
+vessel.  No-one was injured but the potential existed for a person to be struck by the failed master link as it fell to deck. 
+
+ 
+
+ 
+
+Figure: showing overboarding chute (L) and failure of master link (R) 
+
+ 
+
+Our member’s investigation noted the following: 
+
+  Whilst the immediate causes of the incident contributed to the failure of the master link, the root cause was attributed 
+
+to a failure to develop and apply an effective safe system of work; 
+
+  The deployment spread mobilisation procedure did not include the function test; 
+
+  No lift plan was in place for task despite being identified as an existing control measure in the hazard identification and risk 
+
+assessment (HIRA); 
+
+  The absence of details on expected loads, lift plan, and required crane movements was not challenged; 
+
+  Operations review, HIRA and procedure approval process did not recognise the risk of lifting the chute while attached to 
+
+the deck (over pull).  There was also no indication that this was considered at site either; 
+
+  The requirement to closely monitor the load was not recognised;  
+
+  Analysis of the failed master link identified defects that could have caused failure below MBL.  The process of establishing 
+
+the cause of the defects was ongoing. 
+
+Our member concluded that although rigging failures such as the above were relatively few in comparison to the frequency of 
+lifting operations in our industry, there was no cause for complacency in our approach to working around suspended loads.  In 
+all cases the complexity of lifting activities must be understood in order to ensure the task is suitably planned and risk assessed. 
+Where there is any apparent lack of information or concerns then this must be openly challenged and resolved. 
+
+The following actions were taken: 
+
+  Reviewed all master links onboard; quarantined any William Hackett 38.3Te master link with batch number H678/1-8; 
+
+  Management/Supervisory personnel to discuss alert with their teams and reinforce expectation that anyone can request 
+
+further or challenge information that may compromise the safety of the task; 
+
+  Recognise the potential risks associated with moving loads that are attached to the deck (or similar) as part of reviews, 
+
+and ensure an appropriate level of detail in procedures, lift plans and risk assessments accordingly. 
+
+Members may wish to review the following similar incidents (key words: master, link): 
+
+ 
+
+IMCA SF 12/11 – Incident 1. Offshore tank container rigging failure; 
+
+ 
+ 
+
+ 
+
+IMCA SF 07/14 – Incident 6. Master link and sub-link failures on lifting equipment; 
+
+IMCA SF 11/14 – Incident 1. Failure of master link during subsea lifting operations.  
+
+3  Hydraulic Umbilical Winch Operation – Trapped Thumb  
+
+A member has reported an  incident in which  a member  of the deck crew injured their thumb while operating  a  hydraulic 
+umbilical winch.  The vessel deck crew were recovering hydraulic power hoses from subsea onto a hydraulic umbilical winch 
+drum, when the winch operator trapped his thumb between the safety guard and the drum.   The operator was wearing the 
+correct personal protective equipment (PPE) for the task.  After the incident, the operator removed his glove and noticed a 
+small amount of blood; he reported the incident immediately to his supervisor who in turn contacted the medic.  The extent 
+of the injury was a small abrasion to the left hand and the thumbnail had lifted. 
+
+Figure: hydraulic winch showing control lever and the 
+
+Figure: position of operator at time of incident (mock up) 
+
+guard in which the operator trapped his thumb 
+
+- hatched markings on the guards are post-incident 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Figures: showing varying distance between winch drum and guards 
+
+Figure: added strip of additional guarding and safety 
+tape to highlight potential ‘pinch’ points to operators. 
+
+Our members’ investigation noted the following:  
+
+  The operator was not in the correct location for operating the equipment.  He was forward of the winch.  The winch 
+
+controls were located at the rear of equipment where adequate guarding was provided; 
+
+ 
+
+ 
+  The operator or any other person should not have had physical access to the moving parts (such that an entrapment is 
+possible) regardless of their position.  Persons working controls should ensure they were not in a place where they would 
+be exposed to any risk to their health or safety as a result of the operation of those control; 
+
+  Gaps between the safety guards, located on the forward side of the winch, were found to vary in gap size ranging from 
+
+5mm to 15mm; it was found that the larger gap increased the risk of entrapment; 
+
+  The incident highlights the importance of having adequate guarding fitted to all equipment.  It was found on this occasion 
+that guarding can become a hazard in itself if gaps are not kept to a minimum.  Subsequent checks on similar equipment 
+located on other vessels highlighted further issues relating to the guarding provided; 
+
+  This incident highlights the requirement for guarding to be re-assessed on an ongoing basis during maintenance periods 
+
+and during the completion of risk assessments. 
+
+Our member reports that the crew have made suggestions as to how to improve the guarding and these will be implemented 
+onboard.  The improvements were to add a strip of additional guarding in an effort to close the 15mm gap and in addition to 
+this apply safety tape (as shown above) to highlight potential ‘pinch’ points to operators. 
+
+This is a reminder for all involved in tasks to watch out for pinch points and look out for one another at all times and to stop 
+the job as required.  Please see the following IMCA safety promotional material: 
+
+  Pocket card: Caught between and pinch points – Click here; 
+
+  Safety poster: Watch out for pinch points – Click here; 
+
+  Safety DVD: Slips, trips and finger nips – Click here. 
+
+Members may wish to refer to the following similar incidents (key word: pinch): 
+
+IMCA SF 09/07 – Incident 1. Pinch points on winches – Hand Safety; 
+
+IMCA SF 12/08 – Incident 3. Hand injury; 
+
+IMCA SF 05/12 – Incident 3. LTI: Crewman’s finger pinched when moving the gangway. 
+
+ 
+
+ 
+
+ 
+
+4 
+
+Injuries Sustained Whilst Trying to Stop Moving Objects 
+
+A member has reported two similar incidents, which happened within two days at two very different locations, in which persons 
+were  injured  whilst  trying  to  stop  moving  objects.    The  first  during  pipe  handling  at  an  onshore  yard,  the  second  during 
+maintenance work on a vessel under way.  The first incident was classified as a medical treatment case, the second as a first 
+aid case. 
+
+Incident 1 – trying to stop a rolling pipe 
+
+During routine pipe handling at an onshore yard a pipe rolled from the forks of a wheel loader.  Although this should not have 
+happened the situation was not of itself dangerous.  All personnel were at a safe distance as per procedure.  The speed of the 
+rolling pipe was low and there was a lot of empty space around.  The pipe first rolled 1.5m from the loader and a further 1.8m 
+to come to a stop.  However, the banksman guiding the operation followed after the rolling pipe trying to stop it. When putting 
+his foot against one pipe end he slipped and the pipe end rolled over his foot.  
+
+Figure: showing the sequence of events demonstrating his initial safe position (light grey) to his final position (black) 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Figure: showing location where pipe dropped and rolled 
+
+ 
+
+ 
+
+ 
+
+Figure: position of IP when attempting to stop the pipe rolling 
+
+Figure: final position of IP 
+
+Incident 2 – Trying to stop a moving chain block 
+
+This incident happened during routine maintenance work on a gearbox.  It is usual to conduct such activities while at sea under 
+good weather conditions.  For that day however the bridge had announced that bad weather was upcoming.   Although the 
+crew members were aware of the vessel motion they did not consider them severe enough to impact the safety of the worksite. 
+However, the vessel started rolling with a double amplitude of 7° which caused a chain block suspending a lifting frame to start 
+uncontrolled travelling along its lifting beam.  A mechanic tried to catch the chain of the chain block, in order to regain control 
+of the lifting frame before it could hit equipment or personnel in the vicinity.  While doing this, his little finger got stuck in one 
+of the chain links which caused an injury to the top of his little finger.  
+
+Figure: showing chain block location 
+
+ 
+
+ 
+Our member notes: this safety flash is not about the root causes of loss of control over the objects, which in both cases were 
+very different.  It is about the immediate cause, stepping in without thinking to try and stop something.  It serves to highlight 
+the reactions of people stepping in and trying to rectify the situation, to bring the object under control again, stopping it.  This 
+appears to be a natural behaviour.    A  couple of  years  ago a lifting supervisor noticed that  a  lifting shackle was  incorrectly 
+positioned and stepped in to rectify the situation.  The shackle toppled over and injured his hand.  
+
+Often such reactions  are in a hurry or even in a state of  panic.    People are not  aware of potential risks  in that particular 
+situation because they do not take (or have) the time to think.   There can be a lack of oversight and understanding of the 
+situation. 
+
+Job Safety Assessments should consider potential loss of control and define what mitigations should be in place. 
+
+Members may wish to refer to the following similar incidents (key words rolling, pipe): 
+
+ 
+
+ 
+
+IMCA SF 08/06 – Incident 2. Serious injury during pipestalk rolling operation; 
+
+IMCA SF 05/14 – Incident 2. RWC: Injury to foot caused by moving roller. 
+
+Members may wish to refer to the following similar incidents (key words chain, block): 
+
+ 
+
+IMCA SF 15/13 – Incident 1. LTI: dropped object incident. 
+
+5  Dropped Object Incidents  
+
+A member has highlighted a number of dropped object incidents in recent months, two of which were considered high potential 
+and reportable to the local regulatory authorities.  This safety flash serves as a reminder about the danger of dropped objects, 
+highlighting that there can be no cause for complacency at any time. 
+
+High potential incident 1 – dropped ROV hooks 
+
+A survey support vessel was closing the ROV hangar doors following recovery of the ROV.  This entailed the removal of two 
+‘hooks’ that were securing the ROV door in position.  Numerous attempts were made to lift the first hook, but it would not 
+move.  The crew member then proceeded to unscrew the hook.  Unfortunately, on reaching the end of the threaded section, 
+the hook fell to the ROV hangar floor.  The crew member then employed the same removal method for the second hook, 
+with the same result.  This time the hook fell into the sea.  
+
+Figure: ROV hook on floor of ROV hangar 
+
+Figure: hooks in use, steel wire secondary securing in place 
+
+ 
+
+ 
+
+Our member noted the following: 
+
+  A full report on this incident has been prepared; 
+
+  The area was made safe and a DROPS sweep conducted for further potential dropped objects (both ROV hangars).  A 
+
+similar dropped object survey was conducted through all areas of the vessel; 
+
+  Braided steel wire fastened to hooks were used as secondary hold backs – a permanent solution being assessed from an 
+
+engineering perspective; 
+
+ 
+
+ 
+  No personnel permitted in ROV hangar during opening/closing of doors;  
+
+  A full Root Cause Analysis Incident Investigation had been carried out. 
+
+The following two incidents occurred within 24 hours of one another: 
+
+High potential incident 2 – tensioner pad fell 7m to deck 
+
+During routine change out of pads on the tensioner a pad was dropped and fell approximately 7m on to the vessel deck.  The 
+pads were being changed out to allow for a different dimension of pipe to be fed through.  The old/new pads were being passed 
+via a ‘human chain’ from one person to another, from the tensioner to the deck via a series of work platforms.  The operator 
+had removed the securing bolt and a crewman, who was assisting, had difficulty removing the pad as it was tightly fitted.  With 
+some effort the pad came loose and the crewman fumbled and dropped the pad.  The pad hit the tensioner frame and dropped 
+down through the lay ramp to the vessel deck.  
+
+It should be noted that this activity was being conducted under a Permit to Work, with a risk assessment in place.  The area 
+was also barriered off so that no-one could enter the area below the tensioner.  The vessel crew had taken every precaution 
+to reduce the risk of injury to personnel to ALARP. 
+
+Figure: tensioner and height of fall (7m) 
+
+Figure: tensioner pad (weight 7kg) 
+
+ 
+
+ 
+
+Incident 3 - Plastic ROV Launch and Recovery System (LARS)  
+
+During recovery of the starboard side ROV a plastic ladder ‘swing gate’ arm was observed to fall to the ROV hangar deck from 
+the LARS.  Personnel were working in the vicinity, as part of the ROV recovery operation, but were unharmed.  The plastic 
+arm weighed 0.75kg and fell 7m to the floor.  
+
+Figure: ROV LARS ladder guard (plastic) reinstated 
+
+ 
+
+ 
+
+ 
+On investigation, it is thought that the swing gate arm was not properly installed and the vessel vibration caused the arm to 
+work loose.  An inspection of the port side LARS swing gate arm showed it was in good condition with no issues observed. 
+
+Our member noted the following: 
+
+  A full DROPS sweep was conducted for further potential dropped objects; 
+
+  Dropped object surveys should be carried out, with secondary hold-backs installed (where required) and regularly checked, 
+
+for new and existing vessels and for new equipment;  
+
+  Appropriate control measures (e.g. Permits to Work, Risk Assessments and barriers) are important factors in reducing 
+
+risks. 
+
+Dropped  objects  are  one  of  the  most  common  types  of  hazards  in  our  industry.    The  consequences  of  an  impact  from  a 
+dropped object can include fatalities and/or serious injuries and/or serious damage.  The risks from these hazards must be 
+adequately  managed  and  controlled,  like  any  other  risk.    To  achieve  this,  due  consideration  should  always  be  given  to  the 
+potential for dropped objects, to identifying how they may occur and how they can be prevented.  
+
+Members are encouraged to bring these incidents to the attention of their offshore crews, as a means to increasing awareness 
+on potential dropped objects.  Before starting any task, all personnel should consider the environment where they work and 
+other activities going on in the vicinity.  
+
+Potential dropped objects should be risk assessed, giving consideration to its potential and probability of occurrence.   Local 
+work areas should be visually inspected for potential dropped objects, removing or securing them as appropriate.  Personnel 
+can be reminded that not only can anyone call an ALL STOP, but that they should call an ALL STOP if they see any act or 
+condition they consider is, or may be, unsafe. 
+
+IMCA members have reported more than 10 incidents this year involving dropped objects or dropped object near misses.  In 
+last year’s (2013) IMCA contractor member safety statistics, 23% of reported LTIs were caused by persons being struck by 
+moving or falling objects.  
+
+Members are reminded of IMCA promotional material as follows: 
+
+  Pocket card IMCA SPC 06 – Working at height; 
+
+  Pocket card IMCA SPC 12 – Avoiding dropped objects; 
+
+  Poster IMCA SPP 04 – Avoiding dropped objects; 
+
+  Working at height DVD – click here. 
+
+6  Near Miss: Inadequate Insulation of 690V Bus Bars   
+
+A  member  has  reported  a  near  miss  incident  in  which  690V  bus  bars  were  found  with  inadequate  insulation.    The  690V 
+switchboard had been isolated for a survey, and the panels were opened for inspection.  It was observed that not only had the 
+breakers  been  removed,  but  the  bases  had  also  been  removed  leaving  exposed  bus  bars.  It  was  also  noted  that  the  wire 
+terminations were not fully insulated.  The bus bars would be live when the switchboard is in its normal condition, and they 
+have a degree of flexibility, so it is feasible that as they move with vessel vibration they could  arc, causing significant damage 
+and injury to personnel if they were present in the area.  
+
+Figure: showing blanks on the switchboard panel where breakers had been removed. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Figure: exposed bus bars 
+
+Figure: uninsulated wire terminals 
+
+ 
+
+ 
+
+After investigation, our member noted the following: 
+
+  Nearly three years previously, two further incidents had occurred in which there were significant breaker failures on the 
+vessel 690V switchboard which had resulted in serious injury to personnel.  Short term remediation work had been carried 
+out at that time, and a survey for long term rectification works was being carried out prior to a maintenance period; 
+
+  During this survey it was noted that there were blanks on the switchboard panel where breakers had been removed.  The 
+missing breakers supply power to a tensioner that is currently not installed.  The unused tensioner breakers had been 
+removed to be used in other areas as the vessel had insufficient spares onboard to replace all the breakers impacted by 
+the breaker failure.  They were relocated some time ago with the vessel technical management being aware of this; 
+
+  Subsequent to the initial failure and prior to the most recent survey this switchboard had undergone a full health care 
+
+check by a third party which also failed to identify these discrepancies; 
+
+  There was no check made to ensure that the third party contractor’s work was carried out in a satisfactory manner; 
+
+  Spare parts were not effectively managed onboard, with parts removed as necessity at the time not being replaced; 
+
+  A management of change process was not used when the breaker and base were initially removed. 
+
+Our member concluded that: 
+
+  Work standards in insulating the terminations and leaving the bus bars exposed were unacceptable; 
+
+  Management of spare parts stock was inadequate and should be improved; 
+
+  Management of change and technical oversight needed to be improved; 
+
+  Continuity of handovers and outstanding priority works needed to be improved, especially as the personnel involved with 
+
+the original incident were no longer serving on the vessel; 
+
+  Third party contractors require robust supervision and verification of completed work. 
+
+ Members may wish to refer to the following similar incidents (key words: insulation, breaker): 
+
+IMCA SF 02/10 – Incident 1. Crewman received 440V electric shock; 
+
+IMCA SF 05/10 – Incident 1. Near miss: burnt out electrical socket; 
+
+IMCA SF 06/12 – Incident 1. Near miss: live electrical cable. 
+
+

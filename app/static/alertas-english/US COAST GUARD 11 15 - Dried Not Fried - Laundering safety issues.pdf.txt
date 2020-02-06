@@ -1,0 +1,150 @@
+         Inspections and Compliance Directorate 
+
+November 9, 2015 
+Washington, DC 
+
+ 
+
+ Safety Alert 11-15 
+ 
+
+ 
+
+DRIED NOT FRIED 
+Laundering safety issues. 
+
+included 
+
+they  were  not 
+
+inspections  and  evaluations  of 
+
+ 
+Owners  and  operators  of  vessels  employing  large  laundry  operations  and  extra-large-capacity 
+drying  machines  are  warned  of  the  potential  fire  hazards  this  equipment  poses.  They  are  also 
+encouraged to be aware of and familiar with the equipment and all associated safety systems and 
+to ensure these systems are properly maintained and operational. 
+ 
+Recently  a  small  fire  developed  in  a  dryer  onboard  a 
+cruise  ship.  The  fire  was  quickly  extinguished  by  the 
+vessel’s  crew  and  caused  no  significant  damage.  
+Subsequently,  it  was  discovered  that  a  built-in  fire 
+suppression  system,  a  component  of 
+the  dryers 
+designed  to  spray  water  into  the  drums  in  case  of  fire, 
+had  been  disabled  on  all  six  of  the  vessel’s  installed 
+dryers.  Initial  investigation  of  the  associated  processes 
+and  procedures  related  to  these  suppression  systems 
+indicated 
+in 
+the  vessel’s 
+maintenance systems such as “Infoship.”  
+ 
+Regular 
+fire 
+suppression  equipment  did  not  occur,  despite  other 
+excellent  laundry  room  risk  reduction  actions  routinely 
+undertaken  by  the  crew.    Another  area  of  concern 
+involved  the  shared  responsibility  for  inspection  and 
+maintenance  of  the  laundry  equipment  by  two  sub-
+departments:  Galley  Service  Technicians  and 
+the 
+Electrical  Department.    Their  specific  responsibilities  for 
+this equipment were unclear. 
+ 
+The  exact  cause  of  the  fire  is  unknown.    Highly  worn 
+cleaning  cloths  were  being  dried  and  the  crew  reported 
+that none of their routine cleaning fluids were considered 
+flammable.  Investigators  suspect  that  a  minor  spark 
+occurred due to a loose or disconnected wire, igniting lint 
+in  the  spaces  under  the  dryer  and  then  the  rags  in  the 
+dryer  drum.  Thermostats, 
+thermistors,  and  other 
+electrical components were destroyed, preventing a complete analysis of causal factors.  
+ 
+Laundry systems and the normal production of dryer lint create significant fire hazards due to the 
+flammability of the lint.  Nearly two decades ago, a fire occurred on a cruise ship due to a welding 
+spark  igniting  lint.    As  a  result,  operators  have  developed  dryer  fire  prevention  procedures  that 
+
+this 
+
+1 
+
+Safety Alert 12-15 
+
+ 
+
+describe  the  exact  process  for  securing  the  equipment  and  cleaning  the  machine’s  internal  and 
+external areas.  
+ 
+Naval publications indicate that the majority of dryer fires are caused by spontaneous combustion 
+of  residual  soils,  paint,  edible  oils,  etc.  Furthermore,  they  are  also  caused  by  human  errors  or 
+negligence such as leaving dried materials unattended in the dryer; not properly washing, rinsing 
+and  extracting  clothes;  not  cooling  down  dryer  loads  for  ten  minutes  at  ambient  temperatures; 
+improper  cleaning  lint  traps;  and  damaged  lint  traps.  Other  important  concerns  are  the  need  for 
+properly  operating  automatic  temperature  controls,  timing  devices,  cool  down  cycles  and  the 
+absence  of  fire  sensing  and  smothering  devices.    The  involved  dryer  in  this  case  was  equipped 
+with all of these components. 
+ 
+Although  the  impact  of  this  incident  was  relatively  small,  if  not  for  the  response  of  the  vessel’s 
+crewmembers and firefighters, the outcome could have been much worse.  As a result, the Coast 
+Guard recommends that owners and operators having similar industrial sized drying equipment: 
+ 
+
+Identify and maintain all associated safety equipment and extinguishing systems; 
+
+•  Re-evaluate the risks associated with the equipment; 
+• 
+•  Establish clear lines of responsibility for equipment inspections, maintenance, and repair;  
+•  Prohibit all personnel from overriding safety components; and  
+•  Consider the necessity of additional signage and instructions in proper languages. 
+
+ 
+
+ 
+This Safety Alert is provided for informational purposes only and does not relieve any domestic or 
+international  safety,  operational  or  material  requirement.    Special  thanks  to  the  Prevention 
+Department of Sector Jacksonville and LT John Nee.  Developed and distributed by the Office of 
+Investigations  and  Casualty  Analysis,  Washington  DC. 
+to  
+HQS-PF-fldr-CG-INV@uscg.mil. 
+ 
+Naval Signage Example: 
+
+  Questions  may  be  sent 
+
+WARNING 
+
+ 
+SPONTANEOUS COMBUSTION CAN OCCUR IN FRESHLY LAUNDERED ITEMS WITHIN 1 TO 
+4 HOURS AFTER COMPLETION OF DRYING CYCLE. THIS MAY BE DUE TO A COMBINATION 
+OF HIGH TEMPERATURES AND SOIL RESIDUE. 
+ 
+TO PREVENT FIRES: 
+ 
+
+1)  ACCOMPLISH ALL LAUNDRY CYCLES. 
+
+ 
+
+2)  ENSURE  THAT  ALL  DRYER  LOADS  RECEIVE  A  FINAL  10  MINUTE  TUMBLING  WITH 
+DAMPERS  SET  TO  DELIVER  AIR  AT  AMBIENT  ROOM  TEMPERATURE.    (Cool  down 
+period.) 
+ 
+
+3)  REMOVE  ALL  LAUNDERED  ITEMS  FROM  DRYER  WHEN  THE  DRYER  CYCLE  IS 
+
+COMPLETED. 
+ 
+
+4)  OVERHAUL  ALL  DRYER  LOADS  TO  PREVENT  RESIDUAL  HEAT  BUILDUP.  DO  NOT 
+
+LEAVE LAUNDRY UNMANNED UNTIL THIS HAS BEEN ACCOMPLISHED. 
+
+2 
+
+ 
+
+ 
+
+

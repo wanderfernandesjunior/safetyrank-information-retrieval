@@ -1,0 +1,67 @@
+SAFETY ALERT 
+
+Safety Alert No. 346 
+25 January 2019   
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+          
+
+        Contact: Jason Mathews 
+
+Phone: (504) 731-1496 
+
+Fractures Found on Stainless Steel Fittings 
+
+In November 2018, BSEE was notified of multiple fitting failures occurring on a Gulf of 
+Mexico facility’s chemical injection skid that was recently placed in-service. The 
+deficiencies observed consisted of cracks along various fitting bodies. These cracks can 
+potentially lead to threatening high-pressure gas releases. Furthermore, unused Parker 
+Hannifin IPD (Parker) 316 Stainless Steel (SS) MPITM fittings arrived at an offshore facility 
+and were determined to be unsuitable for installation. Parker is currently reviewing the 
+root cause(s) for these failures and establishing effective corrective actions. Although the 
+primary type of fitting associated with these fractures has been identified as the Parker 
+316SS MPITM, this has been an issue discovered on other manufacturer fittings 
+throughout the Gulf of Mexico.             
+      
+
+             
+
+                                       
+
+          Cracked Fitting Previously In-Service   
+
+                Cracked Fitting Sampled from Stock 
+
+Therefore, BSEE recommends that operators consider the following options: 
+
+· 
+
+Identify the Parker 316SS MPITM fittings (as well as fittings of similar design) on your 
+facilities and inspect for damage. If cracks or other deficiencies are detected, contact 
+the manufacturer directly per Parker’s product quality alert. 
+
+·  Schedule more frequent inspections of the equipment that utilize this type of fitting. 
+Apply the fittings to your Quality Assurance / Mechanical Integrity system as a focal 
+point for inspections.  
+
+· 
+
+Include the fittings for review within future facility hazard analyses (if applicable). 
+
+-- BSEE -- 
+
+A Safety Alert is a tool used by BSEE to inform the offshore oil and gas industry of the 
+circumstances surrounding an accident or near miss. It also contains recommendations 
+that should help prevent the recurrence of such an incident on the Outer Continental 
+Shelf.
+
+

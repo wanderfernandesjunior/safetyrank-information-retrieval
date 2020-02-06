@@ -1,0 +1,278 @@
+AB 
+
+ 
+
+IMCA Safety Flash 05/14 
+
+Safety Flash 
+
+ April 2014 
+
+These  flashes  summarise  key  safety  matters  and  incidents,  allowing  wider  dissemination  of  lessons  learnt  from  them.    The  information  below  has  been 
+provided in good faith by members and should be reviewed individually by recipients, who will determine its relevance to their own operations. 
+
+The effectiveness of the IMCA safety flash system depends on receiving reports from members in order to pass on information and avoid repeat incidents.  
+Please consider adding the IMCA secretariat (imca@imca-int.com) to your internal distribution list for safety alerts and/or manually submitting information 
+on specific incidents you consider may be relevant.  All information will be anonymised or sanitised, as appropriate. 
+
+A  number  of  other  organisations  issue  safety  flashes  and  similar  documents  which may  be  of  interest  to  IMCA  members.   Where  these  are  particularly 
+relevant, these may be summarised or highlighted here.  Links to known relevant websites are provided at www.imca-int.com/links   Additional links should 
+be submitted to webmaster@imca-int.com 
+
+ 
+
+Saturation 
+
+1  Decompression  Illness  (DCI)  Incident  during  Routine  Decompression  of  Divers  from 
+
+A member has reported a decompression illness incident during a routine and planned decompression of divers in saturation 
+chambers from a storage depth of -160 metres sea water (msw).  During the course of the decompression one of the divers 
+complained of pain in his pelvis and knees.  The pressure in the saturation chamber at the time of the incident was -93 msw.  
+
+Following  this  report  a  Diver  Medical  Technician  (DMT)  inside  the  chamber  carried  out  a  physical  and  neurological 
+examination of the affected diver.  This found that, aside from the presence of pain in both knees and hips, the condition of 
+the diver appeared essentially normal.  On a scale of one to ten the pain experienced by the diver was described as a two.  
+An initial diagnosis of Type 1 (mild) decompression illness was made. 
+
+In  accordance  with  standard  diving  procedures  the  diver  was  recompressed  to  a  depth  where  the  pain  disappeared  (-128 
+msw).    He  was  then  provided  with  a  suitable  therapeutic  gas  treatment  mixture  through  the  chamber  built-in  breathing 
+system (BIBS).  On advice from the contracted diving specialist medical adviser the diver (and his two colleagues) were then 
+stabilised and observed at -128 metres for a period of twelve hours.  Thereafter normal decompression was recommenced.   
+No  re-occurrence  of  symptoms  was  experienced  by  the  diver  and  the  team  reached  surface  without  further  mishap.  
+Following a standard bend watch period all the divers were released to return to their homes.   
+
+An investigation team considered if any of the following physiological and environmental factors known to influence DCI had 
+caused or contributed to the incident: 
+
+♦  physical fitness/obesity; 
+
+♦  dehydration; 
+
+♦  age; 
+
+♦  meals; 
+
+♦  exertion; 
+
+♦ 
+
+temperature; 
+
+♦  previous history of DCI; 
+
+♦  multiple dives; 
+
+♦  omitted decompression; 
+
+♦  drugs and alcohol; 
+
+♦  sleep pattern and conditions; 
+
+♦  emotional state / stress. 
+
+♦  nature of dive profiles, including upwards and downwards excursions; 
+
+In addition the investigation team examined the competence and compliance to process of key personnel. 
+
+The  investigators  concluded  that  the  incident  could  only  be  attributed  to  the  individual  diver’s  physiology.    However,  the 
+following findings were identified: 
+
+♦  The diver’s level of hydration at the time of the incident could not be categorically confirmed; 
+
+♦  Non-approved personal vitamin/protein supplements were taken into saturation; 
+
+ 
+♦  No deviations from approved procedure were observed; 
+
+♦  Competence levels were high; 
+
+♦  The diving contractor maintained a very good diving safety culture. 
+
+The following recommendations were made: 
+
+♦  Health check, water/fluid intake and urine colour questions should be asked on a daily basis, and the results should be 
+
+♦  Bag  searches  should  be  conducted  prior  to  entering  saturation  to  ensure  only  controlled  items  can  be  taken  into 
+
+recorded; 
+
+saturation; 
+
+♦  Personal vitamin/protein supplements need to be declared prior to entering saturation. 
+
+Members may wish to look at the following similar incident: 
+
+♦ 
+
+IMCA SF 04/04 – Incident 3 Late Onset of Decompression Illness (DCI)  
+
+2  RWC: Injury to Foot Caused By Moving Roller 
+
+A member has reported an incident in which a person sustained an injury to his right foot caused by a moving roller in pipe-
+handling  equipment.  The  injury  happened  when  a  crewman  took  a  window  of  opportunity  during  a  short  repair  period  to 
+paint pipe numbers on the ends of the pipes. The operator of the roller did not ensure that the area was clear moving the 
+roller, and the crewman was caught by the roller and sustained a crush injury to the right foot. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Figure: (L) showing position of injured person’s right foot 
+
+Figure: (R) Showing injured person’s position at time of incident 
+
+ 
+
+ 
+
+ 
+
+Pipe roller operator 
+
+IP position 
+
+Figure: (Above) diagram of incident site 
+
+  
+
+ 
+
+♦  Operator operating the roller machines failed to ensure the ramp way/area was clear before activating the pipe transfer 
+
+ 
+Our member’s investigation revealed the following: 
+
+machines; 
+
+♦  There was a lack of supervision from the work supervisor; 
+
+♦  The operator of the roller machine was not able to communicate effectively with other workers. 
+
+Our member took the following corrective actions: 
+
+♦  The task of numbering of pipes was transferred to another, safer, location; 
+
+♦  An alarm warning system was installed to alert the operator of the presence of personnel in the path of the rollers; 
+
+♦  Signage was installed warning personnel that they were ‘in the line of fire’ in this location. 
+
+Members may wish to refer to the following similar incidents (key words: pipe, roll) 
+
+♦ 
+
+♦ 
+
+IMCA SF 08/06 – Incident 2 Serious injury during pipestalk rolling operation; 
+
+IMCA SF 10/02 – Incident 1 Pipe stacking fatality. 
+
+3  Snubber Failure 
+
+A member has reported the discovery of a failure to a snubber on an ROV launch and recovery system. This was discovered 
+during maintenance and annual load test of the ROV. When the tether management system (TMS) was separated from the 
+ROV to facilitate maintenance work, this highlighted that the snubber did not appear to be sitting level. Upon investigation, it 
+was found that the starboard snubber guide runner had detached from the snubber. Whilst this did not prevent the snubber 
+function from operating, it did result in the snubber not maintaining its level when operating. On closer inspection, the port 
+side snubber guide runner was found to have cracked welds also. The failed items were not associated with the load path and 
+therefore there was no risk of dropped objects. 
+
+Figure: (Above) showing cracked welds 
+
+ 
+
+ 
+ 
+
+ 
+
+The  incident  emphasises  the  need  for  thorough  inspections  during  routine  maintenance  tasks  in  order  to  capture  any 
+damage, fatigue or abnormalities. 
+
+Our member took the following corrective actions: 
+
+♦  Cleaned and prepared area for repair and welding; 
+
+♦  Close visual inspection of the other ROV onboard the vessel. No cracked welds were  observed, but the welding was 
+
+reinforced as a contingency; 
+
+ 
+♦  Added a six monthly visual inspection of the snubber assembly to company preventative maintenance system.  
+
+Members may wish to review the following similar incidents (key words: weld, failure): 
+
+IMCA SF 08/07 – Incident 1 Failure of Welding on Hyperbaric Rescue Chamber Medical Lock Door Assembly; 
+
+IMCA SF 09/13 – Incident 1 High Potential Near Miss: Dropped ROV/TMS Leading to Equipment Damage. 
+
+4  EPIRB Precautionary Bulletin    
+
+It has come to IMCA’s attention that there are a very small number of instances where certain EPIRB (Emergency Position 
+Indicating  Radio  Beacons)  have  failed  a  self-test  procedure.    A  consequence  of  such  failure  may  mean  the  EPIRB  will  not 
+operate in an emergency situation. 
+
+The  affected  devices  are  designed  and  manufactured  by  Standard  Communications  Pty  Ltd  and  they  are  marketed  globally 
+under the GME brand.  
+
+Further information can be found from www.sarsat.noaa.gov/epirb%20safety%20alert.pdf   
+
+5  Overloading Leads to Catastrophic Failure of Crane Boom     
+
+The  United  States  Department  of  the  Interior  Bureau  of  Safety  and  Environmental  Enforcement  (BSEE)  has  published  the 
+following safety flash regarding an incident in which a crane boom collapsed after being massively overloaded. Investigation 
+revealed a number of causes, one being that an  incorrect  load chart was used at the time of the incident. There were no 
+injuries.  
+
+The safety flash can be downloaded from www.bsee.gov/uploadedFiles/BSEE/Regulations/Safety_Alerts/SA-308.pdf    
+
+Members may wish to look at the following similar incidents (key words: crane, boom, failure, overload): 
+
+IMCA SF 03/98 – Incident 3 Fatal accident involving a boom crane; 
+
+IMCA SF 07/01 – Incident 2 Dangerous Occurrence involving a Mobile Crane.  
+
+6  Misuse of Beam Clamps as an Electrical Earth   
+
+The  United  States  Department  of  the  Interior  Bureau  of  Safety  and  Environmental  Enforcement  (BSEE)  has  published  the 
+following safety alert regarding the use of beam clamps on many  Outer Continental Shelf (OCS) facilities. It is determined 
+that the use of beam clamps as electrical grounding conductors could potentially cause fires and present electrical hazards to 
+personnel. 
+
+Many offshore construction support vessel (OCSV) facilities are utilizing beam clamps as current carrying external ground to 
+meet  the  requirements  in  the  American  Petroleum  Institute  (API)  RP  14F.  The  beam  clamps  are  approved  by  the 
+manufacturer to mount and support conduit and cable from structural beams, but NOT as temporary or permanent external 
+equipment electrical earthing conductors.   
+
+Further information can be downloaded from www.bsee.gov/uploadedFiles/BSEE/Regulations/Safety_Alerts/SA-309.pdf  
+
+♦ 
+
+♦ 
+
+♦ 
+
+♦ 
+
+ 
+
+ 
+
+

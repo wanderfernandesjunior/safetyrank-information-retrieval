@@ -1,0 +1,92 @@
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+• 
+• 
+
+• 
+
+ 
+
+• 
+• 
+
+• 
+
+• 
+
+Safety Alert 
+
+        From the International Association of Drilling Contractors 
+
+ 
+ALERT 13 – 20 
+
+DROPPED OBJECT RESULTS IN NEAR MISS 
+
+ 
+
+WHAT HAPPENED: 
+A half-moon clamp insert weighing 1.9kg (4.9lbs) had been identified as redundant equipment and was being removed 
+from  a  hose.    The  work  party,  who  removed  the  clamp,  was  not  aware  that  the  assembly  contained  inserts.    It  was 
+assumed  that  the  inserts  were  integral  to  the  swaged  end  fitting  of  the  hose.    However,  the  inserts  were  held  on  by 
+friction  and  had  “weathered”  in  place.    Two  days  later,  one  of  the  clamp  inserts  fell  12  meters  (39  feet)  from  the 
+compensator fluid hose to the drill floor.  Even though this incident could have resulted in a fatality, no personnel were 
+struck by the dropped object and the remaining half-moon insert was safely removed and brought to the drill floor. 
+
+Lifting Collar Clamp Assembly 
+
+ 
+
+WHAT CAUSED IT: 
+
+The clamp assembly had been in-situ since 2009 and had been used as a form of secondary retention. 
+The  lifting  clamp  assembly  had  been  identified  during  specialist  DROPS  inspections  as  a  method  of  secondary 
+retention.  It was not known that the lifting collar was not designed to carry out this function. 
+
+•  Upon further investigation of the OEM documentation, it was discovered that the clamp assembly was only designed 
+
+as a lifting collar to assist with hose installation and should not be used as a form of secondary retention. 
+The OEM documentation was available on the MODU but had not been referenced and the clamp assembly was not 
+identified as a potential hazard. 
+
+ 
+
+CORRECTIVE ACTIONS:  To address this incident, this company did the following: 
+•  All facilities were instructed to conduct an inspection of all derrick hoses to check for any similar arrangements.   
+•  All facilities were instructed to contact their hose supplier and request that the lifting clamp assemblies are suitably 
+
+identified and marked as being “for installation purposes only.” 
+
+•  All rig personnel were reminded that OEM documentation states that the lifting clamp assembly may be left on hose 
+
+after installation but that it is not for secondary retention. The rig personnel requested that this be amended by the 
+company to reduce the risk of re-occurrence and potential dropped objects being left at height. 
+The company contacted the DROPS inspection companies to inform them of this issue. 
+The company amended their task risk assessments (TRA) to include specific detail on the removal of lifting clamp 
+assemblies. 
+The company amended their DROPS procedure to state that the removal of items from the derrick should be verified 
+by a supervisor and to reference OEM/Technical guidance when required. 
+The company updated their DROPS Inspection Manuals to reflect the fact that lifting clamp assemblies are now 
+removed. 
+
+The Corrective Actions stated in this alert are one company’s attempts to address the incident,  
+
+and do not necessarily reflect the position of IADC or the IADC HSE Committee. 
+
+This material is presented for information purposes only.  Managers & Supervisors should 
+
+evaluate this information to determine if it can be applied to their own situations and practices 
+
+Copyright  2013 International Association of Drilling Contractors All rights reserved. 
+
+Issued August 2013 
+
+

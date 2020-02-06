@@ -1,0 +1,100 @@
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+March 13, 1997 (reformatted 2014) 
+Washington, DC 
+
+         Inspections and Compliance Directorate 
+
+EARLY MODEL ACR/RLB-23, 406 Mhz EPIRB PROBLEMS 
+
+      Safety Alert 02-97 
+ 
+
+THIS  ALERT  APPLIES  ONLY  TO  EARLY  MODEL  ACR/RLB-23,  406  Mhz  EPIRB'S  THAT  HAVE 
+MAGNETICALLY ACTIVATED INTERNAL SWITCHES AND NOT THE NEWER MODEL ACR/RLB-23, 406 
+MHZ  EPRIBS  THAT  HAVE  SALT  WATER  ACTIVATION  SWITCHES.  Information  provided  courtesy  of 
+Marine Safety Office San Francisco.  
+
+During the investigations into the events surrounding the recent loss of a commercial fishing vessel, it was 
+found  that  the  vessel's  EPIRB  successfully  deployed  from  its  hydrostatic  release  mount.  However,  the 
+EPIRB's  signal  was  never  received  by  the  search  and  rescue  coordinators.  It  is  believed  that  the  EPIRB 
+failed to transmit a signal because the power switch on the EPIRB itself was not turned to the required "ON-
+TEST" position when it was mounted in its storage bracket. 
+
+The investigation found that the vessel's ACR/RLB-23 EPIRB had been serviced by the manufacturer and 
+returned to the owner just two weeks prior to the casualty. These EPIRB units are serviced and tested by 
+the manufacturer and then shipped from the servicing facility ready to be used. Typically, the manufacturer 
+places a narrow yellow tape labeled "DO NOT REMOVE BEFORE USE" over the "ON-TEST/OFF" switch 
+found  on  the  top  of  the  EPIRB.  This  tape  MUST  be  removed  before  the  EPIRB  is  placed  in  its  mounting 
+bracket.  
+
+OWNERS  AND  USERS  OF  EARLY  MODEL  ACR/RLB-23,  406  Mhz  EPIRBs  THAT  HAVE 
+MAGNETICALLY  ACTIVATED  INTERNAL  SWITCHES  ARE  CAUTIONED  THAT  FAILURE  TO  MOUNT 
+THE  EPIRB  CORRECTLY  CAN  LEAD  TO  A  FALSE  SENSE  OF  PROTECTION.  THE  EPIRB  WILL  NOT 
+TRANSMIT  A  DISTRESS  SIGNAL  IF  IT  IS  AUTOMATICALLY  RELEASED  UNLESS  IT  IS  MOUNTED  IN 
+THE FOLLOWING MANNER: 
+
+1.  Remove the narrow yellow tape labeled "DO NOT REMOVE BEFORE USE" which is affixed by the 
+
+manufacturer over the "ON-TEST/OFF" switch on top of the EPIRB.  
+
+2.  Place  the  "ARM/ON"  switch  found  on  the  bottom  of  the  mounting  bracket  to  the  "ARM"  position. 
+
+Make sure that the slide switch actually snaps into its indent. 
+
+3.  Place  the  EPIRB  into  the  foam  cradles  on  the  bottom  of  the  mounting  bracket.  This  should  be 
+accomplished by aligning the strobe light and switch guard at the top of the unit with the proper cut-
+outs on the foam locator of the mount. 
+
+4.  Place  the  "ON-TEST/OFF"  switch,  located  on  the  top  of  the  EPIRB,  to  the  "ON-TEST"  position. 
+Although this will actually turn the EPIRB on, the unit will turn off once it is correctly mounted it the 
+bracket. The EPIRB's switch must always be in the "ON-TEST" position while it is in the mounting 
+bracket. 
+
+5.  Move the "ARM/ON" switch on the mounting bracket to the "ON" position ensuring that it snaps into 
+
+the indent. The EPIRB will now activate and the strobe light will begin flashing within 15 seconds.  
+
+1 
+
+6.  Return 
+
+the 
+
+"ARM"  position.  
+This should be done within 45 seconds of placing the "ARM/ON" switch on the mounting bracket to 
+the "ON" position in step #5. 
+
+the  mounting  bracket 
+
+"ARM/ON"  switch  on 
+
+the 
+
+to 
+
+PLEASE  NOTE  THAT  THE  FAILURE  TO  MOVE  THE  "ARM/ON"  SWITCH  ON  THE  MOUNTING 
+BRACKET  TO  THE  "ARM"  POSITION  WITHIN  45  SECONDS  WILL  CAUSE  THE  EPIRB  TO 
+TRANSMIT A DISTRESS SIGNAL.  
+
+7.  Secure mounting cover over EPIRB. 
+
+8.  The  strobe  will  now  shut  off  but  the  EPIRB  will  be  armed  and  ready  for  automatic  release  in  the 
+
+event of a casualty. 
+
+This  safety  alert  is  provided  for  informational  purpose  only  and  does  not  relieve  any  domestic  or 
+international  safety,  operational  or  material  requirement.  Developed  by  the  Office  of  Investigations  and 
+Casualty Analysis. For questions or concerns please email hqs-pf-fldr-cg-inv@uscg.mil. 
+
+ 
+
+2 
+
+

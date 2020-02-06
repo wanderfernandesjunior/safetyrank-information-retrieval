@@ -1,0 +1,76 @@
+Safety Alert 
+
+From the International Association of Drilling Contractors
+
+ 
+
+ 
+ALERT 03 – 10 (REVISED) 
+ 
+
+DECANTING SYNTHETIC BASED MUD  
+
+CAN RESULT IN A FLASH FIRE 
+
+ 
+WHAT HAPPENED: 
+ 
+The purpose of this alert is to remind everyone of a frequently overlooked hazard involving Synthetic Based Mud (SBM) 
+additives.    SBM  is  typically  shipped  to  rig  locations  in  tote  tanks.    Once  on  location,  it  is  usually  gravity  fed  to  mud  pits 
+through flexible hoses.  Synthetic Based Mud additives with a flash point of 73F (23C) meets the standard of a Class 1C 
+flammable  liquid.    (Check  the  SBM  additive  MSDS  sheet  for  flammability.)    Decanting  SBM  additives  with  a  low  flash 
+point without bonding and or grounding can result in an explosion.  
+ 
+WHAT CAUSED IT: 
+ 
+Among  the  many  variables  that  can  determine  when  and  where  a  liquid  transfer  explosion  and  fire  takes  place  are  the 
+following:  the temperature of the liquid (which influences vapor quantity); the air temperature; the flash point of the liquid; 
+the upper and lower explosive limits of the material being transferred (there may be too much or too little vapor to explode 
+when a spark occurs); the relative humidity at the time of the transfer (which has a bearing on static buildup); the clothing 
+worn by the worker (wool, for example, can generate more static than cotton); the type of containers used; and whether or 
+not the source container has built up a charge before decanting begins.  Plastic containers can accumulate a significant 
+static  electrical  charge,  but  the  charge  cannot  disperse  uniformly  throughout  the  material.    Because  of  this bonding and 
+grounding are not effective on non-conducting containers.   
+ 
+Electrical charges can build up in flammable liquids when the liquids flow through piping systems or when they are agitated 
+in their storage containers as a result of mechanical movement or splashing.  The proper bonding and grounding of the 
+piping system is often enough to control this static buildup.  However, if rapid flow rates are used to transfer the liquid into 
+a  storage  tank,  high  electrical  potentials can occur  on  the surface  of  the liquid in  the  tank.    The  rate  of accumulation  of 
+static charge may be much greater than the liquid's ability to transfer it to the grounded metal storage vessel.  
+ 
+CORRECTIVE ACTIONS:   
+ 
+Bonding can be done to eliminate the difference in electrical potential between two or more objects.   
+ 
+•  The  size  of  the  bonding  wire  is  usually  based  on mechanical  strength  rather than on  current-carrying  capacity.  The 
+maximum resistance of the grounding conductor should be less than one megohm to ensure the dissipation of static 
+electricity. 
+
+•  The attachment point on both objects must be solid and secure and should be made on a bare metal surface. 
+•  Using a pressure clamping device (screw-on or spring-loaded) is a good way to ensure a positive connection. 
+•  The  connection  must  be  made  prior  to  beginning  the  transfer  of  material  between  the  containers.    If  the  bonding  is 
+done after the transfer, the static charge buildup could result in a spark as the bond wire is connected to one of the 
+containers. 
+
+ 
+Grounding 
+ 
+Grounding  an  object  serves  a  different  purpose  than  bonding.    Bonding  eliminates  the  difference  in  potential  between 
+containers that are bonded together, but it will not eliminate the potential difference between an object and the ground.  To 
+ensure that a static charge will not create a spark as a result of this difference, a conductive path must be provided to the 
+earth.  A proper ground will provide a means for continuously discharging a charged, conductive body to the earth.  It is 
+important that the grounding system be checked to ensure that there is continuity and proper resistance.   
+
+The Corrective Actions stated in this alert are one company’s attempts to address the incident, and do not 
+
+necessarily reflect the position of IADC or the IADC HSE Committee. 
+
+This material is presented for information purposes only.  Managers & Supervisors should  
+
+evaluate this information to determine if it can be applied to their own situations and practices. 
+
+Copyright © 2003 International Association of Drilling Contractors.  All Rights Reserved 
+
+Issued March 2003 
+
+

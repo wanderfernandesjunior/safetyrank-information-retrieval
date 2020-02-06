@@ -1,0 +1,65 @@
+Safety Alert 
+
+        From the International Association of Drilling Contractors 
+
+ 
+ALERT 09 – 18 
+ 
+
+NEAR MISS – LOOSE CRANE RING BOLTS  
+
+ 
+
+WHAT HAPPENED: 
+ 
+A crane boom slew was jamming while lifting medium loads.  The boom, counterweight, winch, pedestal, lift 
+cylinders and lower pedestal plate were removed for inspection.  The rig crew discovered 30 loose bolts with 
+another 30% of the bolts sheared off from contact with the inspection hole as well as a grooved path cut into 
+the  top  plate.    Bolt  holes  were  stressed  and  cracked  on  the  thin  walled  sides  and  bearings  and  rails  were 
+badly worn. 
+ 
+
+Cracked Wall in Ring: 
+
+ 
+
+ 
+Outcome/Potential Outcome: 
+ 
+Possible fatality and major equipment damage if there had been a total failure of the pedestal system. 
+ 
+WHAT CAUSED IT: 
+ 
+
+1.  The bolts may not have been properly torqued as per the crane OEM manual.   
+2.  The Preventative Maintenance recommended by the manufacturer was not followed. 
+
+ 
+
+CORRECTIVE ACTIONS:  To address this incident, this company did the following: 
+ 
+The  problem  was  identified  and  investigated  before  a  more  serious  situation  developed.    Lessons  were 
+shared within the company to prevent a similar occurrence elsewhere.  A heightened awareness developed 
+regarding the importance of Preventative Maintenance with this piece of equipment. 
+ 
+The  crane  manufacturer  recommended  that  the  base  be  taken  apart  and  inspected  every  600  operating 
+hours.  On  this  unit,  pedestal  bearing  base  bolts  should  have  lock-tite  placed  on  the  threads  then  the  bolts 
+torqued to 460 ft-pounds when being assembled. 
+ 
+Rig  Maintenance  personnel  were  instructed  to  follow  the  crane  manufacturer’s  recommended  preventative 
+maintenance schedule.   
+ 
+
+The Corrective Actions stated in this alert are one company’s attempts to address the incident,  
+
+and do not necessarily reflect the position of IADC or the IADC HSE Committee. 
+
+This material is presented for information purposes only.  Managers & Supervisors should 
+
+evaluate this information to determine if it can be applied to their own situations and practices 
+
+Copyright  2005 International Association of Drilling Contractors All rights reserved. 
+
+Issued June 2009 
+
+

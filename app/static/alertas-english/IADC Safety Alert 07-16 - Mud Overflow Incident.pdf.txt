@@ -1,0 +1,60 @@
+Safety Alert 
+
+        From the International Association of Drilling Contractors 
+
+ 
+ALERT 07 – 16 
+ 
+
+MUD OVERFLOW INCIDENT 
+
+ 
+WHAT HAPPENED: 
+ 
+While filling a trip tank with drilling fluid, the Driller started another task and failed to monitor the progress of 
+drilling fluid entering the tank.  The overflow return line could not cope with the volume of fluid and eventually 
+the tank overflowed. 
+ 
+WHAT CAUSED IT: 
+ 
+•  The Driller did not identify the importance of visual monitoring during this operation and left the control 
+
+console.  This resulted in the driller not being able to see the “tank rise” visual alarm.   
+
+•  The audible alarm had been disconnected due to continuous malfunction.   
+•  The diameter of the overflow return line was not large enough to cope with the volume of fluid entering 
+
+the tank. 
+
+ 
+CORRECTIVE ACTIONS:  To address this incident, this company did the following:   
+ 
+Instructed Rig Personnel and Supervisors to do the following:  
+ 
+• 
+• 
+
+Inspect all visual and audible alarms on all mud control and return systems and tanks. 
+Inspect tank overflow return lines on all similar tanks to ensure it is sufficient diameter to cope with the 
+volume of fluid if there is an overflow. 
+
+•  Review the importance of continually manning the Driller’s console at safety meetings. 
+•  Review  incident  reporting and  accountability  requirements  contained  in  Safety  Management  System  at 
+
+safety meetings. 
+
+ 
+
+The Corrective Actions stated in this alert are one company’s attempts to address the incident,  
+
+and do not necessarily reflect the position of IADC or the IADC HSE Committee. 
+
+This material is presented for information purposes only.  Managers & Supervisors should 
+
+evaluate this information to determine if it can be applied to their own situations and practices 
+
+Copyright © 2005 International Association of Drilling Contractors All rights reserved. 
+
+Issued May 2007 
+
+

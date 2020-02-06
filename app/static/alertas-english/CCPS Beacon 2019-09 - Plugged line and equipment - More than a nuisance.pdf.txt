@@ -1,0 +1,84 @@
+www.aiche.org/ccps
+
+http://www.aiche.org/CCPS/Publications/Beacon/index.aspx
+
+Messages for Manufacturing Personnel
+
+www.dekra.us/process-safety
+
+Plugged line & equipment – More than a nuisance
+
+September 2019
+
+This issue sponsored by
+
+The CSB investigated an incident where a process 
+upset plugged the vent (Fig. 1) and the relief 
+device on the waste surge tank.  When the 
+maintenance personnel came to open the surge 
+tank to clean-out the surge tank, residual pressure 
+blew the heavy cover off (Fig. 2), killing all 3 of 
+them. Why did this happen?
+
+Why did the maintenance people open the tank 
+while it was under pressure? During the start-up 
+the process had diverted off-spec product to the 
+surge tank that released gas, and fouling of the vent 
+had increased pressure in the tank. The pressure 
+indicator (gauge) was also plugged and did not 
+register any pressure. 
+
+Fig. 1 Plugged vent line
+
+Did you know?
+
+What can you do?
+
+Fig. 2 Blown-off lid 
+
+ Plugged lines and equipment are a nuisance; 
+
+clearing them safely can be a lot of messy 
+work. Plugged lines and equipment can be 
+connected with and  indicate another major 
+issue – blocked key instrumentation or relief 
+devices. 
+
+ Many things can cause plugging, higher 
+melting materials, solids in the process 
+stream or corrosion products. Unplugging 
+equipment needs proper isolation before 
+starting any line/equipment opening. 
+(LOTO). 
+
+ A procedure should exist or be created to list 
+
+the corrects steps and methods before 
+starting clearing the lines.
+
+ Plugged lines and equipment are indicators 
+of other problems – a process upset, excess 
+corrosion, etc. Report plugging even if a 
+minor process problem occurs. 
+
+ Frequently plugged lines or equipment 
+
+need to be investigated to avoid upsets and 
+problems with clearing them.
+
+ Before clearing lines or equipment stop to 
+
+review how the work will proceed and 
+what other hazards could be present 
+creating exposure during clearing. 
+
+When equipment plugs, it may be a warning that other equipment is plugged too
+
+©AIChE 2019. All rights reserved. Reproduction for non-commercial, educational purposes is encouraged. However, reproduction for any 
+commercial purpose without express written consent of AIChE is strictly prohibited. Contact us at ccps_beacon@aiche.org or 646-495-1371.
+
+The Beacon is usually available in Afrikaans, Arabic, Catalan, Chinese, Czech, Danish, Dutch, English, Filipino, French, German, Greek, Gujarati, Hebrew, Hindi, Hungarian, Indonesian,  
+
+Italian, Japanese, Korean, Malay, Marathi, Mongolian, Persian (Farsi), Polish, Portuguese, Romanian, Russian, Spanish, Swedish, Telugu, Thai, Turkish, Urdu, and Vietnamese.
+
+

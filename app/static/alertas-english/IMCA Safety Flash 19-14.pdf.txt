@@ -1,0 +1,427 @@
+AB 
+
+IMCA Safety Flash 19/14 
+
+Safety Flash 
+
+  December 2014 
+
+These flashes summarise key safety matters and incidents, allowing wider dissemination of lessons learnt from them.  The information below has been provided 
+in good faith by members and should be reviewed individually by recipients, who will determine its relevance to their own operations. 
+
+The effectiveness of the IMCA safety flash system depends on receiving reports from members in order to pass on information and avoid repeat incidents.  
+Please consider adding the IMCA secretariat (imca@imca-int.com) to your internal distribution list for safety alerts and/or manually submitting information on 
+specific incidents you consider may be relevant.  All information will be anonymised or sanitised, as appropriate. 
+
+A number of other organisations issue safety flashes and similar documents which may be of interest to IMCA members.  Where these are particularly relevant, 
+these may be summarised or highlighted here.  Links to known relevant websites are provided at www.imca-int.com/links   Additional links should be submitted 
+to webmaster@imca-int.com 
+
+1 
+
+Injuries due to Failure of Diver’s Emergency Gas Cylinder 
+
+A member has reported an incident which a valve failed on a diver’s emergency cylinder.  The incident occurred on board a 
+diving support vessel (DSV) whilst divers were preparing for a dive and were putting on their diving suits.  A valve forcefully 
+parted from a high pressure (HP) compressed air cylinder filled to 180 bar.  Five divers were injured by the parted valve as it 
+flew off the cylinder. 
+
+Investigation  is  still  ongoing  but  preliminary  assessment  has  confirmed  that  the  inner  thread  on  the  HP  cylinder  was  not 
+compatible with the outer thread of the pillar valve.  The pillar valve outer thread was an M25x2 parallel thread and the inner 
+thread of the HP cylinder was a 3/4"x14 TPI parallel thread. How the incompatible valve and HP gas cylinders came to be used 
+together, is still being investigated. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Figure: inspection of the inner thread type at a HP gas cylinder 
+
+Figure: inspection of the outer thread type at a pillar valve 
+
+A pillar valve or cylinder valve is the point at which the cylinder connects to the diving regulator.   The purpose of the pillar 
+valve is to control gas flow to and from the cylinder.  The neck of the cylinder is internally threaded to fit a cylinder valve. 
+Parallel threads are made to several standards and the most common standards are: M25x2 parallel thread, which is sealed by 
+an O-ring, M18x1.5 parallel thread, which is sealed by an O-ring, 3/4"x14 BSP parallel thread, [5] which has a 55° Whitworth 
+thread form, 3/4"x14 NGS (NPSM) parallel thread, sealed by an O-ring, 3/4"x16 UNF, sealed by an O-ring.  These parallel 
+threads are very similar but not compatible, as pitch, pitch diameter and thread forms are different. 
+
+The main lesson learnt is that the incompatibility of the valve thread and HP cylinder thread led to a serious incident.  Members 
+involved in diving operations should perform an immediate check to confirm the compatibility of the HP gas cylinders and valve 
+threads in use at their operations.  They should also clearly mark and register both HP gas cylinders and valves separately, so 
+that compatibility can be verified and assured. 
+
+The following actions were recommended: 
+
+  Make documented check of all HP gas cylinder threads and pillar valve threads for compatibility; 
+
+  Mark the cylinder thread size for all HP cylinders; mark the thread size for all pillar valves, applying a unique identification 
+
+  Develop and implement a working procedure and instructions that include the verification of the compatibility of both the 
+
+that will be permanently visible and traceable; 
+
+pillar valves and HP gas cylinders; 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Include the HP gas cylinder and pillar valve identification numbers in the six-monthly inspection certificates; 
+
+Include compliance with this working procedure in the IMCA DESIGN audits which validate the six-monthly internal and 
+external inspections of HP gas cylinders. 
+
+Members may wish to refer to the following similar incidents (key words: thread, incorrect, wrong, pillar, and valve): 
+
+IMCA SF 02/04 – Incident 2. Near-miss involving bail-out bottle pillar Valve;  
+
+IMCA SF 12/09 – Incident 1. Pillar valve failure; 
+
+IMCA SF 05/10 – Incident 3. Diver injury during air cylinder recharging; 
+
+IMCA SF 07/13 – Incident 1. Near miss: failure of gas quad fitting. 
+
+2  Confined Space Entry Fatality 
+
+The International Association of Oil and Gas Producers (IOGP) has published the following safety alert regarding a confined 
+space entry fatality in which one person lost his life and another required medical treatment.  The incident occurred when two 
+shipyard workers entered a confined space after welding under argon gas shielding.  
+
+The safety alert can be downloaded from: http://safetyzone.iogp.org/SafetyAlerts/alerts/Detail.asp?alert_id=259.  
+
+Confined space entry remains a very serious risk for IMCA members’ personnel, one that needs to be taken very seriously. 
+IMCA has created a DVD addressing the issue of safety in confined spaces; the DVD can be obtained from IMCA and can be 
+viewed online, please click here. 
+
+Members may wish to refer to the following similar incidents (key words: confined, space, fatality) 
+
+IMCA SF 06/11 – Incident 2. Confined space – multiple fatalities; 
+
+IMCA SF 07/12 – Incident 4. Confined space entry fatality.  
+
+3  Near Miss: Dropped Object from Cargo 
+
+A  member  has  reported  a  near-miss  incident  which  a  crew  member  was  almost  struck  by  a  falling  object.    The  near-miss 
+occurred when the crew member was executing a daily sea-fastening inspection.  A steel object of approximately 1.8kg fell 
+from a height of 12m onto the deck, landing close to the crew member. 
+
+Figure: dropped object 
+
+Figure: cargo showing loose debris 
+
+ 
+
+ 
+
+  During vessel movement, the loose object moved towards the edge and at a certain moment fell over the edge; 
+
+Our members’ investigation revealed the following: 
+
+  The cargo was not sufficiently cleaned or prepared before loading; 
+
+  The immediate causes were identified as follows: 
+
+insufficient cleaning of the cargo prior to delivery  
+
+ 
+
+ 
+
+insufficient checking of the cargo prior to loading by the member;  
+
+ 
+  The root cause was identified to be insufficient awareness of client failure to clean the cargo could result in a hazardous 
+
+situation. 
+
+Our member noted that although the responsibility for delivering the cargo in a safe state lies with the client, it should not be 
+taken for granted that this had been done, and the condition of the cargo should always be checked before loading.  
+
+The following actions were taken: 
+
+ 
+
+Immediate inspection of the cargo for other loose items and removal thereof – insofar as the objects could be reached 
+safely;   
+
+  Creation of exclusion zones underneath areas which could not be cleaned;   
+
+  Circulated this incident report to re-emphasize the hazards of dropped objects;    
+
+  Ensured pre-job risk assessments emphasize the possibility of loose objects on the cargo;   
+
+  Ensured client awareness of the responsibility to deliver the cargo in safe state. 
+
+Members may wish to refer to the following similar incidents (key words: dropped, cargo): 
+
+ 
+
+ 
+
+ 
+
+ 
+
+IMCA SF 11/12 – Incident 5. Able seaman injured by shifting cargo; 
+
+IMCA SF 11/13 – Incident 3. Securing of cargo; 
+
+IMCA SF 01/14 – Incident 2. High potential dropped object – rigger struck by falling object; 
+
+IMCA SF 13/14 – Incident 6. Potential dropped object – poor housekeeping. 
+
+4  Collision and Near Miss Caused by Guard Vessel 
+
+A member has reported two incidents, one involving a near miss, the other involving a collision between two vessels, with the 
+common factor between them being the way in which a guard vessel was managed.   The incidents occurred during inshore 
+diving operations on a wind farm under construction.  
+
+Near Miss – Yacht Nearly Collided with Diving Vessel at Anchor 
+
+In the first incident, a private yacht narrowly missed colliding with an anchored vessel involved in inshore wind farm diving 
+operations, with a diver in the water.  A sailing yacht was encountered, with no name or home port visible on the hull.  The 
+spinnaker sail was fouled, and the crew of the yacht were on deck trying to clear it.  The yacht drifted across the 500m zone 
+and barely cleared the port forward anchor buoy.  
+
+Our member noted the following: 
+
+entered the 500 metre zone; 
+
+  The guard vessel lay at anchor and did not respond appropriately to the approaching yacht, only calling the yacht when it 
+
+  The yacht was called by the guard vessel on channel 16 – there was no response; 
+
+  The guard vessel did not call the diving vessel to alert it of the approaching yacht; 
+
+  The crew of the yacht were unaware of their surroundings; 
+
+  The yacht’s rigging was fouled and the crew onboard where trying to regain control; 
+
+  Given the relatively low speed of the yacht there should have been plenty of time for the guard vessel to see it, hail it and 
+following lack of radio response from the yacht, move to intercept it, or to alert its crew to the impending danger, by 
+sounding a fog horn or alarm whistle. 
+
+Our member suggested that this incident might have been prevented by: 
+
+  A better look out from the guard vessel; 
+
+  Pre-emptive action from the guard vessel before intruder came into exclusion zone. 
+
+Collision between Guard Vessel and Diving Vessel 
+
+In the second incident, there was a collision between a guard vessel/anchor handler and a vessel at anchor involved in diving 
+operations on an inshore wind farm.  The incident occurred in daylight when the guard vessel/anchor handler was asked to 
+come alongside the vessel at anchor.  The guard vessel/anchor handler approached the anchored diving vessel not as requested 
+(from aft) but from forward, barely avoiding the forward anchor wire.  The guard vessel/anchor handler collided with the diving 
+
+ 
+platform, distorting the diving basket, damaging the clump weight wire and possibly damaging the frame itself (which had to be 
+to be checked later and the complete system re-certified). 
+
+Our member noted the following: 
+
+  The master of the guard vessel/anchor handler was not sufficiently in control of the vessel when manoeuvring; 
+
+  The crew of the guard vessel/anchor handler ignored communications and put the guard vessel/anchor handler at great 
+
+risk, ignoring the expressed wishes of the bridge crew of the anchored vessel;  
+
+  The guard vessel/anchor handler was temporarily removed from duty. 
+
+Our member reported the further following action recommended by their client, which was to arrange for a replacement 
+master for the guard vessel.  This was done and the guard vessel has returned to work with a new master, and the working 
+relationship between the two vessels has been very good. 
+
+Members may wish to refer to the following similar incident (key words: collision) 
+
+ 
+
+IMCA SF 11/12 – Collision between vessel and installation resulting in damage to both. 
+
+5  Fatality: Worker Hit by Ship Crane during Lifting Operation 
+
+The Workplace Safety and Health Council of Singapore (WSH) has published the following safety bulletin regarding an incident 
+in which a worker was hit and fatally injured by a ship crane during lifting operations.  The worker was assisting in a lifting 
+operation to unload cargo from a vessel to the wharf.  He was within the slewing zone of the ship crane on the main deck 
+when he was struck by the crane’s structure as it moved.  The worker was conscious at the time of the accident but he passed 
+away whilst being conveyed to the hospital. 
+
+The safety bulletin can be downloaded from here.  
+
+Members may wish to review the following similar incidents (key words: slewing): 
+
+IMCA SF 07/11 – Incident 4. Near miss: personnel almost caught between crane house and scaffold pipe.  
+
+6  Fire in Wheelhouse on Offshore Renewables Crew Transfer Vessel 
+
+An incident has been reported to IMCA in which there was a small fire in a below-decks space on an offshore wind turbine 
+crew transfer vessel (CTV).  The incident occurred whilst the CTV was near a wind turbine tower, with the passengers working 
+as engineers on the turbine tower. 
+
+The vessel master smelled burning plastic in the wheelhouse and went to investigate in the space under the wheelhouse, while 
+a crewman opened panels in the back of the console.  When the panels in the console were opened, grey/white smoke was 
+seen.  Flames  were  observed  coming  through  the  dashboard  vent  in  the  wheelhouse.   Dry  powder  fire  extinguishers  were 
+deployed into the console and below-decks space.  The windows in the wheelhouse were closed and there was some smoke, 
+but the fire appeared extinguished and there were no further flames.  The local coastguard were called and it was reported 
+that there had been a fire onboard and that assistance was required. 
+
+Shortly thereafter, just before the arrival of the lifeboat, smoke was seen from the underdeck hatch and the panel and it was 
+thought that the fire had re-ignited.  A CO² fire extinguisher was discharged through the access hatch; vessel electrical systems 
+were isolated, and the master and crewman evacuated to the lifeboat.  After a wait of about 15 minutes the vessel master and 
+a lifeboat crewman returned to the CTV with a fire extinguisher.   No further smoke or flames were observed.   The CTV 
+returned to port under its own power, escorted by the lifeboat.  
+
+Although  there  were  no  injuries,  both  the  vessel  master  and  the  crewman  inhaled  some  smoke  and  powder  from  the 
+extinguishers they reported feeling “chesty” and had headaches, but no further medical advice was sought.  There was some 
+damage to fittings and equipment on the CTV. 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Figure: damaged survival suit 
+
+Figure: main control cable conduit burned through 
+
+Figure: exterior sheath of the main 
+
+control cable burned through; 
+
+ 
+
+Figure: Flexible hoses to the 
+windscreen demisters in the 
+wheelhouse had burn damage 
+
+Figure: damage caused by dry powder extinguishers   
+
+Figure: charred remains of laminated 
+
+notices 
+
+ 
+
+ 
+
+ 
+
+Figure: main discharge trunking from the heater system was seen 
+
+Figure: several items had been stored in the underdeck space 
+
+to have become disconnected from the heater 
+
+ 
+
+ 
+
+ 
+An investigation noted the following: 
+
+  At the time of the incident, several items had been stored in the underdeck space including a number of solid buoyancy 
+lifejackets, a stretcher in its valise, a chart canister, a vacuum cleaner and three immersion suits in storage bags.  One  suit 
+and its protective bag suffered burn damage; 
+
+  The main control cable conduit had been burned through.  The exterior sheath of the main control cable itself had been 
+
+burned although the internal sheathed strands appeared undamaged; 
+
+  Flexible hoses to the windscreen demisters in the wheelhouse had burn damage; 
+
+  Signage in the form of laminated paper sheets had been secured in several locations within the underdeck space.  Some of 
+
+these signs were damaged in the fire.  Charred remains of such sheets were found in the area;  
+
+  The main discharge trunking from the heater system was seen to have become disconnected from the heater.  The crew 
+had commented that prior to the incident, the heating in the wheelhouse had been erratic although the console had been 
+warm, occasionally hot; 
+
+  Electrical engineers examined the control cable and system but found no faults that would have caused the cable to ignite. 
+
+Damage to the cable appeared to be mainly external indicating a separate heat source; 
+
+  The root cause of the fire appeared to have been a detached outlet hose from the electrical heater which allowed hot 
+air to melt and possibly ignite the outer casing on the main control cable.  Burning or molten material from this cable then 
+dripped onto the laminated sheet immediately beneath the cable, and possibly the bagged immersion suit underneath.  The 
+burning  materials  would  have  fallen  onto  the  bagged  immersion  suit  and  the  flames  subsequently  burned  through  the 
+demister conduits immediately above; 
+
+  The underdeck storage area and all electrical connectors and circuit boards were heavily coated in powder from the fire 
+
+extinguishers. 
+
+It was noted that the actions of the vessel crew during and after the incident were positive and commendable.  Attempts were 
+made to deal with the fire in a safe and practical manner and the relevant authorities were informed although there was some 
+delay in locating the out of hours contact number for the client. 
+
+The following recommendations were made: 
+
+  Heater connections on other vessels to be checked to ensure all hoses and connections are secure and in good condition; 
+
+  Storage of items in the underdeck space to be prohibited pending a review of alternative arrangements; 
+
+  Use of laminated sheets in confined spaces and/or near heat sources to be prohibited; 
+
+  The  use  of  dry  powder  extinguishers  behind  the  wheelhouse  console,  whilst  effective,  resulted  in  considerable 
+contamination of electrical systems and components delaying the return to service of the vessel.  Ready availability and use 
+of CO² extinguishers would obviate this problem; 
+
+  Access to the interior of the wheelhouse console and the underdeck area was difficult and a review of firefighting provision 
+
+for this space should be undertaken; 
+
+  Contact details of clients, including out of hours contact, should be readily available in case of emergencies. 
+
+Social Media and Information Handling 
+
+There were two communications-related aspects of this incident which are of particular interest to members: 
+
+  During the incident there was communication by radio and mobile phone between the engineers working on the turbine 
+tower and the vessel crew, which interfered with handling of the incident, particularly during communication with the local 
+coastguard and lifeboat;  
+
+  The engineers on the tower took photographs of the incident and some of these were uploaded to social media before 
+
+the CTV was in port following the incident.  
+
+The contractor involved held a review of policies on the use of social media and information handling. 
+
+Members may wish to refer to the following similar incidents (key words: fire, wiring): 
+
+ 
+
+ 
+
+IMCA SF 09/13 – Incident 4. Generator Fire Incident; 
+
+IMCA SF 10/14 – All incidents in this safety flash are fires. 
+
+

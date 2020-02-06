@@ -1,0 +1,68 @@
+Safety Alert 
+
+From the International Association of Drilling Contractors 
+
+ 
+
+ 
+ 
+ALERT 03 – 43 
+ 
+
+DIVERTER EQUIPMENT – HIGH POTENTIAL CONSEQUENCES 
+
+ 
+WHAT HAPPENED: 
+ 
+A Drilling Contractor in the Gulf of Mexico reports that subsequent to cementing surface casing using a jack up 
+MODU, annular flow was reported to rig management.  The integral diverter system that had been installed on 
+the rig was placed in the “test” mode and the well was shut in to give time for the cement to set up. (The “test” 
+mode is normally used to test the diverter system, after installation, in accordance with MMS requirements.)  
+When pressures rose, the diverter flow line seals started leaking gas to the rig floor.  Personnel evacuated the 
+area  and  an  attempt  was  made  to  divert  the  well  from  the  remote  station.    Due  to  the  configuration  of  the 
+control system placed previously in the “test” mode on the rig floor, the remote would not operate the desired 
+diverter functions.  There were no injuries or environmental impacts due to this incident, however there were 
+high potential consequences. 
+ 
+WHAT CAUSED IT: 
+ 
+Subsequent investigations determined that there was a general lack of knowledge of the complete capabilities 
+and limitations of the integral type diverter system:   
+ 
+1.  Flow line seal pressure could have been increased to stop the gas leak and;  
+ 
+2.  The  diverter  could  have  been  closed  in,  after  a  time  delay,  had  the  “test”  valve  been  left  in  the  normal 
+mode.  With the “test” valve in the normal mode, operations from the remote panel would have worked as 
+designed. 
+
+ 
+Additionally, further investigations revealed that there are several types of approved diverter systems in use in 
+the Gulf of Mexico with control systems of varying complexities, which meet all of the current regulations.   
+ 
+CORRECTIVE ACTIONS:  To address this incident, this company issued the following to operations 
+personnel: 
+ 
+•  Rig  Management  and  drill  crews  should  be  trained  and  competent  in  the  installation,  use,  testing  and 
+
+maintenance of the diverter system installed on their particular assigned rig. 
+
+ 
+•  Up to date drawings, manuals and technical information should be available on the rig for reference and 
+
+training purposes. 
+
+ 
+
+The Corrective Actions stated in this alert are one company’s attempts to address the incident, and do not 
+
+necessarily reflect the position of IADC or the IADC HSE Committee. 
+
+This material is presented for information purposes only.  Managers & Supervisors should  
+
+evaluate this information to determine if it can be applied to their own situations and practices. 
+
+Copyright © 2003 International Association of Drilling Contractors.  All Rights Reserved 
+
+Issued November 2003 
+
+

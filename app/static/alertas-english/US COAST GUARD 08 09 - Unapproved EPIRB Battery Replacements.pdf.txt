@@ -1,0 +1,66 @@
+ 
+ 
+ 
+ 
+November 30, 2009                                                                                                                Alert 08-09 
+Washington, DC 
+
+UNAPPROVED EPIRB BATTERY REPLACEMENTS 
+
+ 
+
+Fishing vessel safety staff in the Coast Guard’s Seventh District has received at least three reports in 
+the  past  few  months  regarding  unapproved  replacements  of  406  EPIRB  batteries  by  servicing 
+companies  having  no  association  with  the  EPIRB  manufacturer.    These  unauthorized  battery 
+installations would likely result in a failure of this critical item of lifesaving equipment, and as such are 
+not in compliance with the operational readiness requirements of 46 CFR. 
+ 
+The following is a typical excerpt from an EPIRB manufacturer report: 
+ 
+
+“The unit was opened and a foreign battery was found inside.  The battery was built up using 
+(manufacturer) fuses and wiring salvaged from the original (manufacturer) battery.  They then 
+covered their battery with the original (manufacturer) yellow heat shrink, (manufacturer) labels 
+and taped it together.  This was then covered with a black heat shrink wrap.  The connections 
+were  soldered  and  not  spot  welded,  as  is  required  by  the  design  and  is  performed  in 
+(manufacturer) production.  The battery measured 8.7 volts.  Our batteries read 9+ volts when 
+they are new.  This battery was installed one week prior to it being brought into (manufacturer). 
+ 
+There  was  also  evidence  of  water  intrusion  due  to  the  crack  in  the  top  cap,  which  (servicing 
+company) did not recognize as they are not trained in these matters. 
+ 
+The EPIRB was condemned by (manufacturer) and the customer was notified when he came 
+to pick the unit up.”  
+
+ 
+Every  approved  (i.e.,  accepted  by  the  FCC)  EPIRB  is  tested  during  its  approval  process  using  a 
+battery,  or  batteries,  specified  by  the  manufacturer.    Approved  EPIRBs  come  with  a  user's  manual 
+which describes battery maintenance and replacement procedures.  In order for the EPIRB to remain 
+within  the  conditions  of  its  approval,  the  manufacturer's  instructions  in  the  user's  manual  must  be 
+adhered  to.    To  ensure  that  replacement  batteries  are  of  the  same  type  with  which  the  EPIRB  was 
+approved, and are correctly installed, manufacturers typically specify that battery replacements only 
+be done by the manufacturer or a manufacturer-approved shop. 
+ 
+Any modification or changes to an EPIRP must be made in accordance with the manufacturer.  The 
+use  of  alternative  replacement  parts  or  batteries  is  prohibited  and  may  prevent  the  device  from 
+meeting lifesaving requirements.  The Coast Guard strongly reminds EPIRB owners and servicing 
+facilities to be aware of the compliance implications and potential for equipment failure stemming from 
+any EPIRB modification or unauthorized battery replacement. 
+ 
+This  safety  alert  is  provided  for  informational  purposes  only  and  does  not  relieve  any  domestic  or 
+international  safety,  operational  or  material  requirement.    Questions  regarding  the  information 
+presented  in  this  alert  may  be  addressed  to  LCDR  Vince  Gamma  of  the  U.S.  Coast  Guard 
+Headquarters 
+or 
+Vincent.A.Gamma@uscg.mil. 
+                                                                                  ******** 
+
+Lifesaving  &  Fire  Safety  Standards  Division 
+
+202.372.1396 
+
+at 
+
+ 
+
+

@@ -1,0 +1,150 @@
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+BSEE 
+
+U.S. Department of the Interior 
+Bureau of Safety and 
+EnvironmentalEnforcement 
+
+Safety Alert No. 310 
+19 March 2014 
+
+Safety 
+Alert 
+
+Contact: Matt Nagy 
+(504) 736-2828 
+
+Hydraulic Workover Unit Toppled by Waterspout 
+
+While conducting workover operations, a Hydraulic Workover (HWO) unit was toppled by 
+strong winds caused by a waterspout that touched down near the platform. The result was the 
+entire HWO unit collapsing onto the facility, as well as into offshore waters. The collapse 
+resulted in damage to the lower riser portion of the HWO unit as well as to several other pieces 
+of well servicing equipment located on the platform.  The upper riser portion and the BOP stack 
+of the HWO unit fell into the water resulting in total loss of the BOP stack.  All personnel had 
+been moved from the platform to the supporting lift boat prior to the collapse, and no fatalities or 
+injuries resulted from the incident. 
+
+An investigation by BSEE concluded the following factors contributed to the accident: 
+
+•  High wind loading was exerted on the unit as a result of the waterspout being so near to 
+the facility. The large surface area presented by the HWO unit, against which the wind 
+could act, and the close proximity of the waterspout resulted in a high wind loading being 
+exerted on the unit. 
+
+•  The small deck area of the platform caused an increase in the angle(s) of the guy lines 
+
+used to support the HWO unit. This increase in angle(s) resulted in diminished stability 
+of the HWO unit during the high wind conditions caused by the waterspout. 
+
+• 
+
+Installation of additional guy lines would have helped to compensate for the increased 
+angle(s) in the guy lines, thus increasing stability and support for the HWO unit in the 
+event of increased wind loading due to the storm, or swaying due to high sea state and 
+possible sway in the platform. 
+
+BSEE recommends the following when installing guy lines to support HWO or related well 
+servicing equipment: 
+
+•  Engineering calculations be performed to determine the correct angle(s) for the guy lines 
+
+when installing HWO, or related well service equipment. 
+
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+• 
+
+Installation of additional guy lines when deck space on the host platform is limited and 
+guy line angle(s) increases. 
+
+•  Seasonal weather patterns be taken into consideration when installing guy lines and other 
+
+means of support. 
+
+•  Guidelines for construction, safety factor, and storm load for wire rope guy lines found in 
+
+API Spec 4F, Section 8.1.2 and 8.1.3 be followed when selecting wire rope used for the 
+purpose of guy lines. 
+
+—BSEE— 
+
+www.bsee.gov 
+
+A Safety Alert is a tool used by BSEE to inform the offshore oil and 
+gas industry of the circumstances surrounding an accident or a near miss. It also 
+contains recommendations that should help prevent the recurrence of such an 
+incident on the Outer Continental Shelf. 
+
+

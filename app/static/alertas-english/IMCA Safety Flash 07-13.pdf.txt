@@ -1,0 +1,255 @@
+AB 
+
+ 
+
+IMCA Safety Flash 07/13 
+
+Safety Flash 
+
+May 2013 
+
+These  flashes  summarise  key  safety  matters  and  incidents,  allowing  wider  dissemination  of  lessons  learnt  from  them.    The  information  below  has  been 
+provided in good faith by members and should be reviewed individually by recipients, who will determine its relevance to their own operations. 
+
+The effectiveness of the IMCA safety flash system depends on receiving reports from members in order to pass on information and avoid repeat incidents.  
+Please consider adding the IMCA secretariat (imca@imca-int.com) to your internal distribution list for safety alerts and/or manually submitting information 
+on specific incidents you consider may be relevant.  All information will be anonymised or sanitised, as appropriate. 
+
+A  number  of  other  organisations  issue  safety  flashes  and  similar  documents  which may  be  of  interest  to  IMCA  members.   Where  these  are  particularly 
+relevant, these may be summarised or highlighted here.  Links to known relevant websites are provided at www.imca-int.com/links   Additional links should 
+be submitted to webmaster@imca-int.com 
+
+ 
+
+1  Near Miss: Failure of Gas Quad Fitting 
+
+A member has reported an incident in which there was a potentially catastrophic failure of a high pressure fitting on a gas 
+quad.  The incident occurred in a yard ashore when crew were carrying out pre-mobilisation equalisation transfer between 
+banks on mixed gas DIV64 quad pack using high pressure (HP) hose.  The wrong fitting (incorrect thread and low pressure 
+(LP) rather than HP) was used to connect the HP whip to the king valve on the quad.  The fitting failed due to a hairline crack 
+as the gas transfer was being conducted between the HP banks. 
+
+The LP fitting failed such that it split into two pieces.  One piece was found in the immediate vicinity; the other was found 
+20m away from the point of failure.  It was later discovered that this piece had travelled with such force that it had hit and 
+chipped an internal brick wall within a nearby workshop.  The trajectory of this second piece would have crossed the main 
+general workshop area in the facility at a height of approximately 3 metres where an estimated 10 other persons had been 
+working.  There were no injuries. 
+
+Part of failed fitting 
+
+Hose damage resulting from inadequate whip check 
+
+ 
+
+ 
+
+The company concerned noted that the following safety precautions were in place: 
+
+¤  A risk assessment on the immediate work area had been carried out prior to starting work; 
+
+¤  A permit to work had been completed, signed and displayed by the operator and immediate supervisor; 
+
+¤  Adequate bunting and warning signage had been erected to alert surrounding work areas of HP activities; 
+
+¤  The worker conducting the task had reviewed and signed a job hazard analysis for high pressure filling. 
+
+During investigation, the following points were noted: 
+
+¤ 
+
+In order to complete this task in equalising gas between the mixed gas  DIV64 internal  banks, use was  made of  NPTT 
+(tapered) adapter fittings from both the HP king valve stem connection ports and adapting to the HP transfer hose, and  
+in this incident both the thread type and the choice of material were incorrect.  Low pressure fittings were used rather 
+than high pressure fittings; 
+
+ 
+¤  Whip checks had been installed at each end of the transfer hose and secured to the DIV64 frame prior to equalisation 
+operations being conducted. However, the hose end at the point of failure did not adequately choke or restrict the hose 
+to a point where by it should have prevented the uncontrolled movement.  This resulted in the hose also being damaged 
+and ripped at the section where the stainless steel hose crimp is machine fitted (see photo); 
+
+¤  An identical ¼” NPTP brass socket fitting arrangement had been used on the other end of the hose; upon inspection, a 
+
+hair-line crack was found in the material; 
+
+¤  Additionally the first section of the brass fitting had clear visual evidence of heavy condensation, and icing on the exterior 
+of  the  other  associated  adapter  fittings  at  the  point  of  the  pressure  drop  which  would  have  further  contributed  to 
+reducing the structural integrity of material under high pressure. 
+
+It was also noted that there was no specific process or procedure in place for the task, and that the time allowed for the task 
+was not sufficient. 
+
+The following root causes were identified: 
+
+¤  Pressure of circuit was above the coupler’s capacity; 
+
+¤  Crimped swivel fittings not suited to pressure of this level; 
+
+¤  Crew were not aware of different thread types;  
+
+¤  Whip checks insufficient; 
+
+¤  Valves open more then they needed to be; 
+
+¤  Regulator not used; 
+
+¤  Pressure not monitored; 
+
+¤  Over-tightening on coupler resulted in hairline stress cracks. 
+
+The following lessons were learnt: 
+
+¤  Equipment should be of sufficient pressure rating; 
+
+¤ 
+
+Improved training and information were required on this task; 
+
+¤  Risk assessment for this task needed to be more detailed; 
+
+¤  Hose securing – whip checks – should be improved; 
+
+¤  Consider increasing size of restricted access area during high pressure work;  
+
+¤  Real-time measurement of high pressure should be in place; 
+
+¤  Time allowed for this work should be realistic; 
+
+¤  Complacency is to be guarded against.  
+
+2  LTI: Fall from Height 
+
+A member has reported an incident in which a crewman suffered an injury during a fall from height.  The incident occurred 
+when a senior ROV pilot technician was climbing down from the ROV hydraulic power unit (HPU) after cleaning the unit 
+with another crewman acting as spotter and assistant.  When making his final step down from the HPU, the injured person’s 
+full body harness safety lanyard caught on one of the rigging points.  As the lanyard hung up, it prevented him from touching 
+the  deck  with  his  final  step  from  the  HPU,  causing  him  to  swing  into  and  make  forceful  contact  with  the  LARS  stowed 
+transport post.  The post protruded approximately 5 inches and is approximately 4 feet off the deck.  He hit the post in the 
+lower right back just below his right shoulder blade. 
+
+During the injured person’s descent, the other crewman had left the area to stow tools. He heard a loud bang and a scream.  
+When he arrived back at the scene, he noted his colleague was suspended approximately one inch off of the deck, with toes 
+just touching the deck.  He helped him to the deck, and called the medic.  
+
+The injured person was taken to local medical facilities where he was diagnosed with rib contusion and given prescription 
+drugs for pain.  At a follow-up examination some days later the injured person’s duty status was changed to restricted duty 
+with no bending, no climbing and no lifting of more than 5 kg.  A further medical appointment was scheduled.  Four days of 
+lost time were incurred. 
+
+ 
+The company’s investigation revealed the following: 
+
+¤  Failure to follow the job safety analysis that had been established and reviewed prior to work starting; 
+
+– 
+– 
+
+the JSA identified that a ladder should be used, however this ladder was not used for either ascent or descent 
+the spotter was to remain in the work area during the performance of all tasks, but left to store tools during his 
+colleague’s descent from height; 
+
+¤  Rushing  to  complete  the  job  without  consideration  of  hazards  which  included:  the  injured  person  failing  to  check  all 
+conditions before descent from the HPU, and the spotter leaving area to store tools before his colleague was safely on 
+deck. 
+
+The  company  noted  that  risk  assessments  and  job  safety  analyses  are  generated  and  reviewed  for  employees’  safety,  and 
+should  be  read,  understood  and  followed,  otherwise  employees  and  their  colleagues  can  be  placed  at  risk.    The  following 
+lessons were learnt: 
+
+¤  Failure to understand and fulfil assigned safety responsibilities places everyone in danger.  Spotters and observers must 
+
+recognise the importance of their roles and remain vigilant when monitoring work activities; 
+
+¤  Rushing to complete tasks could have serious long-term consequences, as short cuts may be taken which could result in 
+accidents.  No job is more important than the people who perform it.  Work carefully and deliberately and give yourself 
+time to think about potential hazards and doing the job right.  Always put safety first. 
+
+3  LTI: Serious Foot Injury 
+
+A member has reported an incident in which a rope access technician suffered a serious injury to one of his toes, leading to 
+partial amputation.  During J-lay pipeline operations, a malfunction was discovered in the locking pin designed to lock off the 
+hang-off clamp (HOC).  The pin would move down, but not up.  Maintenance of the equipment was arranged.  A crewman 
+was assigned to clean the hang-off clamp using a water jet, and during this process he was supervised, from the deck level, by 
+the Chief Engineer and 1st Engineer.  When the cleaning was complete, he confirmed using hand signals to his supervisors 
+that the job was complete. 
+
+The supervising team alerted the crewman that there would shortly be a test movement of the locking pin in order to test 
+the functionality of the equipment.  The supervising team alerted the crewman of the imminent movement of the pin, giving 
+signals  that  he  should  move  to  a  safer  location.    He  confirmed  visually  that  he  had  received  this  signal,  but  did  not  move, 
+remaining  with  his  foot  on  the  pin.    The  1st  Engineer  gave  instructions  via  radio  that  the  pin  should  be  moved.    Whilst 
+moving, the pin squeezed the toe cap of the crewman’s boot, causing injuries leading to partial amputation of his right big toe. 
+
+HOC’s locking pin 
+
+ 
+
+ 
+
+Showing hang-off clamp locking pin 
+
+ 
+
+ 
+
+Line drawing showing place of incident and position of persons involved 
+
+ 
+
+An investigation identified the following causes: 
+
+¤ 
+
+Improper communication between all persons involved: 
+– 
+
+injured person and supervisory team communicated using hand and visual signals and there was no confirmation that 
+the signals were understood as intended 
+1st Engineer and control room operator communicated by radio 
+
+– 
+–  There was no communication between injured person and control room operator; 
+
+¤  The control room operator could see the hang-off clamp, but could not see personnel working nearby; 
+
+¤  There was no evidence of any toolbox talk before the operation to agree on proper communication channels or planning 
+
+of the operation; 
+
+¤  Whilst a job safety analysis and permit to work had been issued, these did not fully identify the task hazards. 
+
+The following corrective actions were taken: 
+
+¤ 
+
+¤ 
+
+Improved job safety analysis to ensure adequate identification of all hazards and mitigation measures; 
+
+Improved communication protocols and instituted use of common communications channel between crew and control 
+room. 
+
+4  Gangway Safety: A Review of Recent Incidents and Near Misses Involving Vessel Gangways 
+
+The Marine Safety Forum has published the following safety flash reviewing a number of incidents and near misses reported 
+by base staff involving vessel gangways.  These incidents and near misses range from improperly rigged gangways and safety 
+nets through to poor housekeeping standards with tripping hazards left on the gangway  
+
+The safety flash can be downloaded from www.marinesafetyforum.org/upload-files//safetyalerts/msf-safety-flash-13.09.pdf  
+
+ 
+5  Dropped Object Injury 
+
+The Marine Safety Forum has published the following safety flash covering an incident in which a crew member was injured 
+when  a  trolley  and  chain  hoist  came  off  the  lifting  beam.    The  immediate  cause  of  the  incident  was  that  in  certain 
+circumstances there was no end stopper to prevent the trolley and chain host from coming off the end of the beam. 
+
+The safety flash can be downloaded from www.marinesafetyforum.org/upload-files//safetyalerts/msf-safety-flash-13.10.pdf  
+
+6  Risks Associated with Pneumatic Hose Couplings 
+
+The National Offshore Petroleum Safety and Environmental Management Authority of Australia (NOPSEMA) has published 
+the following safety alert covering the risks of incorrectly assembled or faulty pressurised pneumatic (air) hose couplings.  
+
+The alert can be downloaded from www.nopsema.gov.au/assets/publications/Safety-Alert-55.pdf  
+
+

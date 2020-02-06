@@ -1,0 +1,84 @@
+AB
+
+ 
+
+IMCA Safety Flash 06/99 
+
+November 1999 
+
+These  flashes  summarise  key  safety  matters  and  incidents,  allowing  wider  dissemination  of  lessons  learned  from  them.    The  information  below  has  been 
+provided in good faith by members and should be reviewed individually by recipients, who will determine its relevance to their own operations. 
+
+The effectiveness of the IMCA safety flash system depends on receiving reports from members in order to pass on information and avoid repeat incidents.  
+Please consider adding the IMCA secretariat (imca@imca-int.com) to your internal distribution list for safety alerts and/or manually submitting information 
+on specific incidents you consider may be relevant.  All information will be anonymised or sanitised, as appropriate. 
+
+A  number  of  other  organisations  issue  safety  flashes  and  similar  documents  which  may  be  of  interest  to  IMCA  members.    Where  these  are  particularly 
+relevant, these may be summarised or highlighted here.  Links to known relevant websites are provided at www.imca-int.com/links  Additional links should 
+be submitted to webmaster@imca-int.com 
+
+ 
+
+1  SOPEP Oil Booms 
+
+One of our members has alerted us to a problem with one type of SOPEP oil boom – type SMB40. 
+
+SPOEP  oil  booms  are  normally  manufactured  using  blown  polypropylene  as  the  absorbing  membrane,  contained  within  an 
+outer cover manufactured and sewn together using polypropylene.  Whilst polypropylene will begin to melt at 160°C, it will 
+not support combustion. 
+
+Type  SMB40 oil booms have  been  found to  be  covered  in nylon,  which  will burn  rapidly  when  in  contact  with an  ignition 
+source. 
+
+The  member  involved  has  instructed  all  of  its  vessels  to  remove  these  booms  from  service  and  has  informed  us  that  the 
+manufacturer has withdrawn this type of boom from offshore sale and use. 
+
+2  Automatic Control – Navigation Problem 
+
+We have recently had reported to us this near-miss concerning an ROV support vessel and an unmanned installation.  The 
+vessel was operating under automatic control with the platform selected in the outboard navigation computer as the target 
+destination. 
+
+On approaching the 500m zone, the on-shift Chief Officer commenced operations to position the vessel outside the 500m 
+zone for field arrival trials. 
+
+However,  as  a  result  of  his  omission  to  deselect  automatic  control,  the  vessel  failed  to  respond  as  he  had  expected  and 
+continued into the platform 500m zone at a speed of between three and six knots. 
+
+The Vessel Master, who was also on the bridge, realised that the automatic control had not been deselected.  He changed to 
+manual mode and stopped the vessel short of the platform. 
+
+The vessel is reported to have come within 10-60m of the structure. 
+
+Following the incident, the vessel departed the 500m zone and satisfactorily completed standard field arrival trials prior to 
+starting DP operations. 
+
+The  company  involved  has  noted  that  the  incident,  which  occurred  on  the  UKCS,  occurred  as  a  result  of  the  failure  to 
+comply with UKOOA’s ‘Guidelines for the Safe Operation of Offshore Support Vessels’, Section 3 ‘Way Points’, compounded by 
+operator error.  A number of corrective actions have been taken by the company to prevent recurrence of this situation.  
+
+3  Failure of a ½” BSP Cap Under Pressure on Well Service Work 
+
+The following incident was recently reported to us.  It occurred on an offshore installation where the ½” BSP cap appears to 
+have blown off a pressure testing manifold under approximately 1200psi of water pressure.  The cap and BSP/NPT connector 
+were rated to 45000psi.  The cap was not found, so the conclusions are based on the following assumptions: 
+
+1.  The cap was not fully engaged; 
+
+2. 
+
+It was over-tightened. 
+
+ 
+
+system; 
+
+The key lessons learned from the incident were identified as: 
+
+1.  Be  aware  of  the  ratings,  tightening  procedures  and  limitations  of  all  pressure  fittings  used  in  a  temporary  pressure 
+
+2.  Pressure fittings should be in good condition prior to use – in particular, threads should be free of paint and debris.  If in 
+
+doubt, use new fittings.  
+
+

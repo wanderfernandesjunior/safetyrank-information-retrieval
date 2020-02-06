@@ -1,0 +1,294 @@
+AB 
+
+ 
+
+IMCA Safety Flash 07/15 
+
+Safety Flash 
+
+  May 2015 
+
+These flashes summarise key safety matters and incidents, allowing wider dissemination of lessons learnt from them.  The information below has been provided 
+in good faith by members and should be reviewed individually by recipients, who will determine its relevance to their own operations. 
+
+The effectiveness of the IMCA safety flash system depends on receiving reports from members in order to pass on information and avoid repeat incidents.  
+Please consider adding the IMCA secretariat (imca@imca-int.com) to your internal distribution list for safety alerts and/or manually submitting information on 
+specific incidents you consider may be relevant.  All information will be anonymised or sanitised, as appropriate. 
+
+A number of other organisations issue safety flashes and similar documents which may be of interest to IMCA members.  Where these are particularly relevant, 
+these may be summarised or highlighted here.  Links to known relevant websites are provided at www.imca-int.com/links   Additional links should be submitted 
+to webmaster@imca-int.com 
+
+ 
+
+1  Second-Hand Equipment Causes Engine Breakdown 
+
+A member has reported an incident in which an offshore wind farm Crew Transfer Vessel (CTV) suffered an engine breakdown 
+due to the drive belt automatic tensioner seizing.  The incident occurred whilst the vessel was on transit from harbour to site. 
+The port engine alarm activated, it was quickly discovered after short investigation that the main engine  auxiliary  belt that 
+drives the alternator and the cooling pump had broken and the belt tensioner was badly damaged.  
+
+The CTV had to return to harbour using one engine only, to allow for further investigation and the repairs to be safely carried 
+out. The damaged parts were removed by the crew and replaced with onboard spares.  
+
+ 
+
+Figures: showing drive belt tensioner 
+
+ 
+
+Our members’ investigation noted the following: 
+
+  The belt tensioner that failed had been fitted to the engine second-hand only two months previously, and its age and run 
+
+  The replacement part was only intended to be a short term solution until a new belt tensioner could be sourced and fitted; 
+
+  The bearings had fallen apart and the pulley wheel seized causing the belt to run over the stationary plastic wheel until 
+
+time were unknown;  
+
+friction caused failure; 
+
+  The engine manufacturer recommended that checks be made every twelve hours: 
+
+  To see if the drive belt was damaged or worn 
+
+  To see if the automatic belt tensioner was in proper working order and keeps the belt correctly tensioned; 
+
+  The service check sheets showed that these checks had been made at the previous services;  
+
+  The service report/invoice had been checked and there was no mention of the tensioner arm being replaced by a second 
+
+hand spare but that it would be replaced covered by manufacturer’s warranty; 
+
+ 
+  The crew did not write any notes to their opposite shift to alert them of the second hand tensioner arm being used to fix 
+
+the problem and therefore there was no further communication regarding the future renewal of this equipment; 
+
+  The engine maintenance log also did not mention that the tensioner replacement was a second hand spare; 
+
+  When the new tensioner arrived onboard the crew were not aware that they needed to change the second-hand spare 
+with it; the engine manufacturer had not informed either the crew or the management that the new part should be fitted 
+upon arrival; 
+
+ 
+
+It was noted that whilst the belt tensioner could be and was checked, it was very difficult to accurately check the pulley 
+bearing as it was a sealed unit with no means of lubrication during its working life (only at manufacture) and it  was not 
+possible to see the condition of the bearing; 
+
+  The engine manufacturer offered no guidance advising on a lifespan or recommended change time for the belt or tensioner. 
+
+Our member drew the following lessons: 
+
+  Servicing guidelines and procedures: improvements were made to on-board servicing guidelines for engines of this sort; 
+
+  Communications and record-keeping: comprehensive and proper records should be made in the vessel maintenance log – 
+
+and forwarded to management ashore – when changes were made to the engine, or parts therein were replaced. 
+
+Members may wish to refer to the following incident (key words: home-made): 
+
+ 
+
+IMCA SF 01/11 Incident 6 – Failure of home-made [lifting] equipment.  
+
+Or the following incidents (key words: engine, CTV, wind): 
+
+ 
+
+ 
+
+ 
+
+IMCA SF 12/13 Incident 3 – Incidents of failure of jet drives on wind farm service vessels; 
+
+IMCA SF 10/14 Incident 3 – Fire in engine space on CTV (Crew Transfer Vessel); 
+
+IMCA SF 02/15 Incident 5 – Near miss: man overboard [following engine failure]. 
+
+2  Near Miss: Unexpected Water Ingress during Fault Finding of a Cracked Water Pipe  
+
+A member has reported a near miss incident in which large volumes of sea water were found in the bilges of a small boat 
+(offshore wind turbine CTV).  The water was discovered during pre-shut down checks when the vessel was alongside.  After 
+initial fault finding it was found that there was a leak due to a cracked raw water cooling return pipe from the port side main 
+engine.  The crew closed the raw water sea chest and after making every effort to temporarily seal the crack, went ashore to 
+seek a long-term solution. 
+
+When the crew returned to the engine room it was found that the leak had continued to flow into the bilge, though not much 
+had entered the bilge; it was thought that it was probably resting water from the engine.  The bung was removed and the water 
+flow was monitored to check that the resting water was emptying out of the system, after approximately 20 minutes the water 
+had not ceased to stop flowing and the crew became concerned. 
+
+Figure: location of stopcocks 
+
+Figure: original fault 
+
+ 
+
+ 
+
+Our member notes: 
+
+from the stern tube;  
+
+  During subsequent further fault finding to eliminate the source of the water flow it was found that the flow was coming 
+
+ 
+  This particular type of vessel was propeller driven with water lubricated stern tubes.  Underneath the floor plate at the 
+
+stern gland there was another seacock; 
+
+  This seacock had not been highlighted to the crew during delivery of the vessel;  
+
+  There was no hatch in the foot plate to allow easy access to the valve; 
+
+  The pipe was repaired the following morning;  
+
+  An investigation is currently underway as to why the pipe cracked.  Preliminary consideration was that it may be due to 
+
+the weight of the temperature gauge causing the pipe to weaken over time. 
+
+Our member required the crews of other similar CTVs from the same manufacturer to check the plastic pipes in the engine 
+rooms regularly for signs of deterioration or stress around the reduction glands and temperature/pressure gauges,  and any 
+deficiencies were to be immediately reported to the management. 
+
+Members may wish to refer to the following incidents (key words: water, ingress, CTV, engine): 
+
+IMCA SF 09/02 Incident 2 – Loss of a vessel [owing to water ingress to engine room]; 
+
+IMCA SF 05/10 Incident 2 – Water ingress to bow thruster space; 
+
+IMCA SF 19/14 Incident 6 – Fire in wheelhouse on offshore renewables crew transfer vessel. 
+
+ 
+
+ 
+
+ 
+
+3  Near Miss: Equipment Failure: Broken Mast Arms 
+
+A member has reported two near miss incidents in which there has been a failure of a mast arm on a CTV.   Both incidents 
+related to weld fatigue.  In both cases heavy aerials have caused welds to crack and break over time until the mast arm gives 
+way. 
+
+Figures: photographs of mast damage following the first incident 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Figures: photographs of mast damage following the second incident 
+
+In both cases the CTVs were able to safely navigate back to harbour.  However, this could have very easily been a different 
+story if the conditions were different or if the mast had damaged any of the equipment. 
+
+Our member recommended the following: 
+
+ 
+  On CTVs, mast checks should be to be added to a planned maintenance or check schedule; 
+
+  These checks should focus on the tension of the shrouds and the strength of the welds supporting the mast arms; 
+
+  Extra special attention should be given to those parts of the mast that are unsupported and connected to large or heavy 
+
+aerials or equipment. 
+
+Members may wish to refer to the following similar incidents (key words: mast, fatigue, weld, failure): 
+
+ 
+
+ 
+
+ 
+
+IMCA SF 04/10 Incident 2 –  Falling object [from mast];  
+
+IMCA SF 06/13 Incident 3 – Near miss: dropped object - falling camera;  
+
+IMCA SF 02/14 Incident 4 – Vibration-induced fatigue on process pipework. 
+
+4  Minor damage to pontoon cleat during Crew Transfer Vessel Mooring Operations 
+
+A member has reported an incident in which a pontoon cleat was damaged during offshore renewables Crew Transfer Vessel 
+mooring operations. The incident occurred when the vessel was leaving its berth. When the mooring lines were being removed, 
+the master caused the vessel to pull back onto the spring line to allow the forward breast line to be released. At this point the 
+mooring cleat on the pontoon gave way and broke, flying across the pontoon near to where a crewman was standing whilst 
+assisting with the mooring ropes.  There was minor damage and no injuries.  
+
+Figure: showing damaged cleat 
+
+ 
+
+ 
+
+ 
+
+Figure: Schematic showing mooring line layout at the time of damage 
+
+Our members’ investigation noted the following: 
+
+  The vessel was alongside due to very strong winds and was waiting for the next opportunity to sail;  
+
+  Owing to the strong winds, the vessel had been secured with additional mooring lines around the pontoon uprights to 
+
+help alleviate pressure; 
+
+  The vessel had been moored in position for six days alongside the pontoon and had been tied to the same cleats for the 
+whole time, most probably weakening the cleat due to the increased stress of the large vessel weight added to the wind 
+force pulling on them; 
+
+  The vessel had been pushed away from the pontoon by the wind, which put significant stress onto the mooring cleats, 
+
+possibly leading to equipment/material fatigue and consequent increased likelihood of failure;  
+
+  This particular model of CTV was Fixed Pitch Propeller driven and also has a large air draft, making it susceptible to being 
+
+affected by the wind whilst moored or manoeuvring; 
+
+  When the vessel was preparing to leave the pontoon to begin work after the bad weather, one mooring line had been left 
+
+attached for one reason or another and come under load as a result of the vessel’s movements. 
+
+ Our member recommended: 
+
+  Larger, heavier crew transfer vessels should moor onto pontoon uprights or purpose-made heavy duty mooring points 
+during bad weather, this was to avoid unnecessary stress or weakening to pontoon equipment designed typically for use 
+by yachts and smaller vessels; 
+
+ 
+
+Improve  communications  between  master  and  crew  onboard  the  CTV  (for  example,  holding  a  toolbox  talk)  before 
+manoeuvres were made in order to get underway, this was to avoid mooring lines being left attached and coming under 
+load.  In these cases the casualty was a cleat, but it could easily have been a critical piece of equipment or even an arm or 
+leg;  
+
+  “Closed loop” communications should be adopted, i.e. feedback made that all communications were properly understood 
+
+before action taken.  
+
+Members may wish to refer to the following: 
+
+IMCA SEL 038 –  Mooring incidents safety video; 
+
+IMCA Mooring safety poster;   
+
+ 
+
+ 
+
+ 
+
+IMCA SEL 029  - Mooring practice safety guidance for offshore vessels when alongside in ports and harbours. 
+
+

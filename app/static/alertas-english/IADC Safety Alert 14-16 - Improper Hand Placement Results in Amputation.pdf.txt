@@ -1,0 +1,92 @@
+Safety Alert 
+
+        From the International Association of Drilling Contractors 
+
+IMPROPER HAND PLACEMENT RESULTS IN AMPUTATION 
+
+ 
+ALERT 14 – 16  
+ 
+
+ 
+WHAT HAPPENED: 
+
+ 
+
+The rig crew and a 3rd party company were running casing with a Casing Running Tool (CRT).  After running the casing 
+to  the  curve  (kick-off  point),  the  slips  were  set,  the  elevators  were  removed,  and  the  CRT  was  lowered  to  fill  up  the 
+casing.  As the CRT was nearing the top of the casing in the rotary, a 3rd party casing employee (IP or injured person) 
+grabbed the top of the casing for leverage.  In an attempt to gain leverage, he placed part of his fingers inside the casing 
+while pushing the elevator links out of the way with his other hand.  As the CRT was lowered, his fingers were trapped 
+between the CRT and the casing resulting in the amputation of his fingertips. 
+ 
+
+ 
+
+ 
+
+ 
+WHAT CAUSED IT: 
+
+ 
+
+• 
+• 
+
+• 
+
+ 
+
+• 
+
+The 3rd party casing employee placed his hand into a pinch point for leverage.   
+The 3rd party employee was a Short Service Employee (SSE) and was not recognized in the pre-task JSA as such 
+prior to beginning the casing operation.  
+The  slips  were  set  with  the  top  of  the  casing  low  to  the  floor  which  allowed  for  a  “convenient”  leverage  point  for 
+employees working on the floor. 
+
+•  With the slips set where the top of the casing was low to the floor, there was not enough room to allow the insertion 
+
+of the CRT without removing the elevators. 
+
+•  Crew positioning, while pushing the elevators and links back, minimized the Driller’s view. 
+•  Wet weather conditions minimized the Driller’s view of the work area. 
+ 
+
+CORRECTIVE ACTIONS:  To address this incident, this company did the following: 
+
+ 
+
+The company instructed all rigs in the fleet to review and revise the rig specific JSAs to: 
+•  Remind  all crew  members, including  rig  and  3rd party  contractors,  to  never  place  their  hands and  fingers  into  any 
+
+pinch points, especially on top of pipe or casing that is being run in / out of the hole. 
+
+•  During the pre-job safety meeting, the supervisor should question 3rd party personnel to determine their experience 
+
+level / SSE status, and to remind all personnel to be more watchful over inexperienced personnel. 
+For fill-up operations, set the slips high enough to keep personnel from being able to reach into the top of the casing 
+for leverage.  
+
+•  Setting the slips high should allow the CRT to be inserted into the casing without removing the elevators.  If this is 
+not feasible, then other steps should be determined and communicated to identify the potential pinch points and to 
+remind personnel to keep their hands and fingers clear. 
+
+•  Keep the floor area around the casing clear of personnel when lowering the CRT. 
+•  Whenever  conditions  (weather,  obstruction  by  personnel,  etc.)  minimize  the  view  of  the  work  area,  a  Stop  Work 
+
+should be called to discuss the concerns and determine the steps to proceed more safely. 
+
+The Corrective Actions stated in this alert are one company’s attempts to address the incident,  
+
+and do not necessarily reflect the position of IADC or the IADC HSE Committee. 
+
+This material is presented for information purposes only.  Managers & Supervisors should 
+
+evaluate this information to determine if it can be applied to their own situations and practices 
+
+Copyright  2014 International Association of Drilling Contractors All rights reserved. 
+
+Issued June 2014 
+
+

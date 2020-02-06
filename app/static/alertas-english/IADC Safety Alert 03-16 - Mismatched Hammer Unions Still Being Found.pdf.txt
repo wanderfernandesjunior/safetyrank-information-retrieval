@@ -1,0 +1,88 @@
+Safety Alert 
+
+From the International Association of Drilling Contractors
+
+ 
+
+ 
+ALERT 03 – 16  
+ 
+
+MISMATCHED HAMMER UNIONS STILL BEING FOUND 
+
+ 
+WHAT HAPPENED: 
+ 
+Reports continue to come in involving pressurized lines and the unions used on these lines.  Employees have 
+been observed mis-matching unions.  In addition, employees have been observed hammering on lines while 
+still  under  pressure.    Several  accidents  within  the  industry,  including  a  fatality,  have  occurred  due  to 
+pressurized lines being improperly connected or being hammered on while under pressure.  
+ 
+WHAT CAUSED IT: 
+ 
+The thread (or male half) of a 2” 602 and 1002 hammer union will make-up to the wing nut (or female half) of a 
+2” 1502 hammer union leading an oilfield worker to believe he has mated two compatible components that will 
+withstand fluid pressures up to 6,000 psi.  As the threads on the two halves are of the same pitch and design, 
+they will actually screw together.  However, because there is a 5/16” difference between the diameters of the 
+thread  and  wing-nut  halves  described  above,  the  two  mismatched  components  will  NOT  actually  hold  high 
+pressures  very  long.    The  hammer  unions  will  eventually  separate. When  the  union  halves  blow  apart  three 
+immediate hazards are created: 
+ 
+
+1.  The  wing-nut  becomes  an  8  lb.  Projectile  that  moves  in  an  undetermined  direction,  maybe  at 
+
+personnel. 
+
+2.  Uncontrolled release of high-pressure fluids that may or may not strike an employee in its path. 
+3.  Uncontrolled release of potential toxic fluids (acids, oils, fuels, diesel base mud) that may cause harm 
+
+to persons or the environment. 
+
+ 
+CORRECTIVE ACTIONS:  To address this incident, this company did the following:   
+ 
+
+•  This company decided that where 2 inch hammer unions are needed on their drilling rigs, only Fig 1502 
+
+hammer unions will be used.   
+
+•  This company decided that workover rigs may use Fig 602 hammer unions.   
+
+o  On workover rigs ensure that any service company connecting to our equipment (hammer unions) 
+
+uses the correct size union.  
+
+o  Supervisors are to visually inspect the service company’s connection(s) prior to work being performed. 
+o  Supervisors were instructed that if 602 hammer unions are in use on their rig, they are to fill out an 
+engineering request form stating that the rig has 602 hammer unions.  The completed form is to be 
+sent to the company HSE department.  
+
+• 
+
+o  Minimize types of unions on location to only company specified types.   
+o  Ensure all employees understand the difference between union types. 
+Instructed all employees:   
+o  Ensure all pressure is bled off lines prior to breaking lines. 
+o  Use LockOut/TagOut and Work Permit Systems when working on pressurized lines. 
+
+•  The company decided to work with industry leaders in an attempt to change thread designs for certain 
+
+types of unions. 
+
+ 
+IADC Note:  Refer to Safety Alerts 98 – 01, 99 – 13, and 00 – 15.  Also refer to the IADC HSE Meeting notes 
+on Hammer Union Meeting. 
+
+The Corrective Actions stated in this alert are one company’s attempts to address the incident, and do not 
+
+necessarily reflect the position of IADC or the IADC HSE Committee. 
+
+This material is presented for information purposes only.  Managers & Supervisors should  
+
+evaluate this information to determine if it can be applied to their own situations and practices. 
+
+Copyright © 2003 International Association of Drilling Contractors.  All Rights Reserved 
+
+Issued April 2003 
+
+

@@ -1,0 +1,165 @@
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+June 6, 2017 
+Washington, DC 
+
+         Inspections and Compliance Directorate 
+
+ 
+
+                                 Safety Alert 06-17 
+
+Fuel Spray Fire - Déjà Vu 
+
+Prepare and Prevent it from Happening to You! 
+
+ 
+
+This safety alert addresses yet another fuel spray fire onboard a commercial vessel.  These types of 
+incidents,  involving  fuel  leakages  contacting  hot  surfaces  and  igniting,  happen  too  frequently  and 
+have  been  a  focus  of  various  marine  safety  organizations  such  as  the  IMO  for  many  years.    One 
+recent  marine  casualty  involved  a  194  GRT  inspected  offshore  supply  vessel  with  an  unmanned 
+engine  room.    This  engine  room  fire  led  to  significant  damage,  operational  down  time  of  the  vessel 
+and lost company revenues.   Fortunately, no one was injured during this event. 
+ 
+Investigators learned that the master received a main engine low fuel pressure alarm on the bridge 
+which was then investigated by the crew.  The crew member on watch entered the engine room and 
+identified a high pressure fuel leak spraying over and upon the port engine’s turbocharger.  He also 
+reported a large quantity of diesel fuel in the bilge.  The master then went down into the engine room 
+and  witnessed  the  ignition  of  the  fire.    Using  a  hand  held  portable  fire  extinguisher  he  quickly 
+attempted to extinguish the fire without success. The master activated the general alarm, secured the 
+hatches,  had  crew  members  secure  the  ventilation  dampers  and  closed  the  remote  fuel  shut-off 
+valves to the engine room.  The fire then quickly self extinguished. 
+  
+During  the  post-casualty  inspection  of  the  engine 
+room,  the  source  of  the  fuel  leak  was  identified  to 
+be  a  rupture  on  a  flexible  fuel  hose  connected  to 
+the  fuel  filter  assembly.    Additionally,  it  was  noted 
+that  the  fuel  filter  assembly  and  its  components 
+were  installed  in  relatively  close  proximity  to  the 
+turbocharger  on  the  inboard  side  of  the  engine.  
+Although components of the turbochargers may be 
+insulated, temperatures on some surfaces typically 
+exceed  the  fuel’s  ignition  point.    In  this  instance, 
+the  heat 
+turbo  charger 
+components  was  very  high  and  likely  led  to  the 
+degradation  of 
+flexible  rubberized  hoses 
+nearby. However, the installation was confirmed to 
+be in accordance with an accepted location on the 
+manufacturer’s marine engine manual.  
+
+TTTuuurrrbbboooccchhhaaarrrgggeeerrr               
+                                                                                         IIInnn sss uuu lllaaa ttt eee ddd                                           
+                                                                               EEExxx hhh aaa uuu sss ttt    PPPiiippp iiinnn ggg    
+ 
+             RRRuuuppptttuuurrreeeddd      
+                                       FFFuuueeelll   HHHooossseee   
+ 
+ 
+ 
+ 
+ 
+ 
+           
+
+Following  the  casualty,  the  owner/operator  of  the  vessel  enacted  fleet-wide  changes  and  relocated 
+the  fuel  filter  assemblies  away  from  the  turbochargers  on  the  outboard  side  of  the  engines  in  the 
+vicinity of the fuel pumps.  
+ 
+ 
+
+radiating 
+
+from 
+
+the 
+
+the 
+
+ 
+
+ 
+
+ 
+
+ 
+
+1 of 2 
+
+Safety Alert 06-17 
+
+ 
+
+The U.S. Coast Guard strongly recommends vessel owners and operators to regularly: 
+ 
+
+•  Avoid  an  “out  of  sight,  out  of  mind  mentality.”      Unmanned  machinery  spaces  should  be 
+inspected  at  least  daily,  but  preferably  several  times  per  day.    Those  who  perform  such 
+activities should develop an eye for detail by tracing out and inspecting all equipment, systems, 
+and components.  Such spaces should be well lit as good lighting will benefit mindsets of those 
+within the spaces and enhance the ability to detect anomalies. 
+
+ 
+• 
+
+Inspect  fuel  and  lubricating  systems  closely  from  source  tanks  to  system  end  points.    Think 
+about  system  vulnerabilities,  loose  or  missing  pipe  clamps  and  securing  devices,  wear  or 
+chaffing  due  to  vibration  impacting  hoses,  and  piping  or  tubing  which  may  be  insufficiently 
+secured.    Make  sure  plastic  piping  is  not  close  to  hot  spots.    Examine  fuel  supply  pumps, 
+noting shaft sealing for leakages and bearings when fitted, for overheating and indications of 
+wear. Pay similar attention to the pumps and motors associated with other systems. 
+ 
+
+ 
+HHHooossseee   RRRuuuppptttuuurrreee   
+
+•  Regarding  hot  spots;  examine  all  heat 
+sources  particularly  with  respect  to  engine 
+exhausts.  Look  closely  at  areas  where 
+exhaust  piping  may  exit  the  space  and 
+proceed  through  other  spaces.    Numerous 
+fires  onboard  vessels  have  occurred  in 
+these areas.  Ensure all insulation, blankets, 
+and  lagging  are  maintained  and  kept  tight. 
+Look  for  areas  where  released  fluids  may 
+make contact.  Check that spray shielding is 
+kept  in  place  where  used  and  consider 
+adding  such  shielding  around  gasketed 
+flanges and other areas if helpful. 
+ 
+
+•  Minimize  the  use  of  nonmetallic  flexible  hoses  in  systems  carrying  flammable  liquids 
+particularly around engine areas where failures leading to leakage or spray may find hot spots 
+capable of igniting the fluids.  Consult with engine representatives if modifications are needed 
+to minimize the risk of fuel spray fires. 
+ 
+In this instance the installed engines and components were about three years old.  It may be 
+beneficial for vessel owners to consult with engine manufacturer representatives to determine 
+if  a  replacement  schedule  is  necessary  taking  into  account  hose  exposure  to  heat  sources, 
+vibration, and other factors that may degrade the hose strength internally or externally. 
+ 
+
+• 
+
+This  safety  alert  is  provided  for  informational  purpose  only  and  does  not  relieve  any  domestic  or 
+international safety, operational, or material requirements.  Developed by Marine Safety Unit Morgan 
+City  and  distributed  by  the  Office  of  Investigations  and  Casualty  Analysis.    Questions  or  comments 
+may be sent to HQS-PF-fldr-CG-INV@uscg.mil.  Similar alerts are available at the following links: 
+ 
+
+https://www.uscg.mil/hq/cg5/cg545/alerts/1214.pdf 
+https://www.uscg.mil/hq/cg5/cg545/alerts/0508.pdf 
+https://www.uscg.mil/hq/cg5/cg545/alerts/ll1109.pdf 
+
+ 
+
+2 of 2 
+
+

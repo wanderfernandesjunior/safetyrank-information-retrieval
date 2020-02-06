@@ -1,0 +1,238 @@
+AB 
+
+ 
+
+IMCA Safety Flash 08/15 
+
+Safety Flash 
+
+  June 2015 
+
+These flashes summarise key safety matters and incidents, allowing wider dissemination of lessons learnt from them.  The information below has been provided 
+in good faith by members and should be reviewed individually by recipients, who will determine its relevance to their own operations. 
+
+The effectiveness of the IMCA safety flash system depends on receiving reports from members in order to pass on information and avoid repeat incidents.  
+Please consider adding the IMCA secretariat (imca@imca-int.com) to your internal distribution list for safety alerts and/or manually submitting information on 
+specific incidents you consider may be relevant.  All information will be anonymised or sanitised, as appropriate. 
+
+A number of other organisations issue safety flashes and similar documents which may be of interest to IMCA members.  Where these are particularly relevant, 
+these may be summarised or highlighted here.  Links to known relevant websites are provided at www.imca-int.com/links   Additional links should be submitted 
+to webmaster@imca-int.com 
+
+ 
+
+1  Near Miss: Hot Work in No Weld Zone 
+
+A member has reported an incident in which crew were found conducting welding operations in an area of a vessel where hot 
+work was forbidden.   The incident occurred when arrangements were being made for the installation of steel shelves in a 
+storage cage on the upper tween deck.  This area ‘upper tween deck’ is below the main deck, amidships. 
+
+A permit to work was raised for this operation and was signed by the rigging supervisor as Area Authority.  The welder set up 
+the required equipment at the worksite and was in the initial stages of the task when the Chief Engineer walked by on a routine 
+inspection and stopped the job.  The Chief Engineer explained to the welder that he was about to weld onto a fuel tank which 
+is located on the other side of the deck, and called an ALL STOP. 
+
+ Figure: Work site (No Weld area highlighted) 
+
+Figure: “No welding” marking which was covered over 
+
+ 
+
+ 
+
+Our member summarises a series of failures which brought about this event: 
+
+Inadequate task plan; 
+
+ 
+
+ 
+
+Inadequate communication of task plan; 
+
+  Lack of awareness/perception of risk; 
+
+ 
+
+Inadequate attention to detail; 
+
+  Unclear/conflicting lines of responsibility; 
+
+ 
+
+Insufficient warning signage; 
+
+  Following usual task; 
+
+  Poor housekeeping. 
+
+The following actions were taken:  
+
+  Reviewed this incident and communicated it to all appropriate personnel; 
+
+Identified all no weld areas on vessels and ensured they were suitably marked/highlighted and ‘No Welding’ signage was 
+clear from all directions; 
+
+  Ensured that vessel GA (General Arrangement drawings) were used to show location of open permits and to assist in de-
+conflicting permits and hot work, had all the no weld zones/areas clearly marked to assist in the approval of Hot Work 
+permits and to prevent approval being given for hot work on ‘no weld areas’; 
+
+  Ensure that persons responsible for issuing Permits to Work were suitably trained and fully understand their roles and 
+
+responsibilities;  
+
+  Ensure that those who were “Area Authorities” fully understand the hazards and restrictions associated with those areas. 
+
+Members may wish to refer to the following similar incidents (key words: hot work): 
+
+IMCA SF 08/13 Incident 5 – Fire caused by hot work; 
+
+IMCA SF 06/14 Incident 7 – Pontoon compartment explosion on floating roof tanks. 
+
+2  ROV Main Lift Umbilical Failure 
+
+A member has reported an incident in which an ROV main lift umbilical parted causing the ROV to drop to the seabed (1360m 
+water depth).  The incident occurred while recovering a ROV to deck.  With the use of the vessel crane and the assistance of 
+a second ROV, the fallen ROV was recovered to deck and inspected; there was no damage.  There were no injuries. 
+
+Our members’ investigation noted the following: 
+
+for purpose; 
+
+  The main lift umbilical had recently undergone third-party destructive testing and load testing and had been certified as fit 
+
+  The scheduled maintenance and inspection was found to be in accordance with the manufacturer’s original requirements; 
+
+  An umbilical lubrication system was in place and operational;  
+
+  The current lubrication system had been installed a year earlier as a systems upgrade to the originally fitted system; 
+
+  At the time of the incident, the vessel was located in a safe recovery zone away from subsea assets; 
+
+  During inspection, internal strands of the main lift umbilical were found to have damage consistent with previous water 
+
+ingress (rust), and there was no evidence of lubricant present in the inner core. 
+
+Our member determined that the cause of the failure was internal (hidden) damage of the main umbilical, following from lack 
+of lubricant penetration. 
+
+  All rope parts should be thoroughly examined and tested to determine if wire damage has occurred in locations that are 
+
+  Conducting ROV launch and recovery operations clear of subsea assets was a mitigation; this prevented further equipment 
+
+The following lessons were learnt: 
+
+not visually accessible; 
+
+damage that could potentially have occurred. 
+
+Recommendations and corrective action: 
+
+and re-termination; 
+
+procedures now reflect this); 
+
+service. 
+
+  Ensure that close visual inspections are carried out on each strand of all layers of the umbilical during the annual cut back 
+
+  Ensure  the  condition  of  the strands  was  reported  on  the  umbilical  destruction  test  report  (Umbilical  destruction  test 
+
+  Recommend further research into the use of UT scanning and cleaning equipment on ROV umbilicals after 10 years of 
+
+Members may wish to refer to the following similar incidents (key words: umbilical failure): 
+
+IMCA SF 18/09 Incident 4 – Loss of ROV – dropped object; 
+
+IMCA SF 06/13 Incident 2 – Loss of ROV after umbilical termination failure and damage to ROV during recovery; 
+
+IMCA SF 13/14 Incident 4 – Main ROV lift umbilical parted.   
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+3  Near Miss: Fire Axe Falls Out of Cabinet, almost Hits a Fireman’s Toes   
+
+The Danish organisation SEAHEALTH www.seahealth.dk/en has published the following near miss report of how an axe fell 
+from a cabinet, narrowly missing someone’s toes.  A crewman was preparing to get fire-fighting equipment out of the fireman’s 
+equipment cabinet, when the fire axe fell out and fell 1.5m to the floor.  The axe landed blade down only a few centimetres 
+from the crewman – who at that moment was in his socks, wearing no toe-cap boots, as he was preparing to don a fireman’s 
+outfit.   
+
+This cartoon can be found at http://uk.nearmiss.dk/media/24433/Axe-UK.jpg.  
+
+This cartoon neatly explains the difference between unsafe conditions, unsafe acts, near misses, and actual incidents.  Further 
+similar cartoons and explanatory information was available here: http://uk.nearmiss.dk/knowledge/what-is-what/. 
+
+ 
+
+4  Fatalities: Engine Room Fire Caused by Fuel Spray Ignition 
+
+The United States Coast Guard (USCG) has published Safety Alert 4-15 entitled “ENGINE ROOM OPERATIONS: Maintaining 
+Machinery, Knowing Escape Routes, & Conducting Thorough Engineering Watches”.    
+
+The safety alert deals with an engine room fire that occurred onboard an older cruise ship while it was at berth.  A fuel oil 
+spray under pressure developed from an operating engine’s fuel supply line when a bolted flange parted.  The fuel spray ignited 
+when  it  contacted  the  engine’s  exhaust  piping  or  turbocharger  components.    The  vessel’s  fine  mist  extinguishing  system 
+automatically activated and performed as designed extinguishing the primary fire.   Fuel pumps and shutoff valves were also 
+secured.  
+
+However, the short-duration fire also ignited cable bundles, quickly filling the machinery space with smoke.  As a result, one 
+crew member and two technicians were unable to egress and perished in the engine room. 
+
+The US Coast Guard has issued this safety alert in order to: 
+
+ 
+  Reiterate the importance of vessel engineers recognizing and taking action on engine manufacturer technical bulletins and 
+
+service letters; 
+
+  Remind personnel working in machinery spaces to have a personal exit plan no matter where they were working;  
+
+  Stress the value of having engineers frequently perform detailed engineering space inspection rounds on engines, systems, 
+
+and other equipment. 
+
+The full safety bulletin can be found here. 
+
+Members will be aware of a number of similar engine room fire incidents, some of which were caused by fuel spray ignition. 
+IMCA Safety Flash 10/14 deals solely with engine room fires.    
+
+5  Bulk Hose Drawn into Thruster – Severe Damage and Delay 
+
+The Marine Safety Forum has published the following safety flash regarding a hose incident.  Around 100m of bulk transfer hose 
+including fittings were drawn into the port azipod thruster of the vessel, resulting in destruction of the bulk hose and significant 
+delays to operations. 
+
+The safety flash can be found here: www.marinesafetyforum.org/upload-files//safetyalerts/msf-safety-flash-15.13.pdf. 
+
+Members may wish to review the following similar incidents (key words: hose, thruster): 
+
+IMCA SF 04/14 Incident 3 – Oil spill incident; 
+
+IMCA SF 11/11 Incident 6 – Oil spill in port whilst discharging waste oil; 
+
+IMCA SF 13/13 Incident 2 – Bunkering hose cut by propeller.  
+
+ 
+
+ 
+
+ 
+
+ 
+
+

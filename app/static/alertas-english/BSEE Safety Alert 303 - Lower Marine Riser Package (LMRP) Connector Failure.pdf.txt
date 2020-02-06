@@ -1,0 +1,292 @@
+ 
+
+BSEE 
+ 
+
+ 
+
+ 
+ 
+Safety Alert No. 303 
+ 
+29 January 2013 
+ 
+ 
+
+ 
+
+ 
+ 
+ 
+U.S. Department of the Interior 
+Bureau of Safety and Environmental 
+ 
+Enforcement 
+ 
+ 
+Gulf of Mexico OCS Region 
+
+ 
+
+ 
+
+Safety 
+ 
+Alert 
+ 
+
+ 
+Contact:  Lance Labiche 
+(504) 736-2433 
+ 
+
+Lower Marine Riser Package (LMRP) Connector Failure 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+On January 24, 2013, BSEE personnel met with industry to discuss initial findings associated 
+with a pollution incident involving the discharge of synthetic base mud (SBM) into the Gulf of 
+Mexico (GOM) due to a loss of integrity of a LMRP H-4 connector. During this meeting, a 
+ 
+qualified third-party presented preliminary evidence that the stress corrosion cracking caused by 
+ 
+ 
+hydrogen embrittlement was a contributor to the incident.  It was introduced that zinc 
+ 
+electroplating without proper baking, as per ASTM B633, was a possible cause of hydrogen 
+ 
+embrittlement.  During this meeting, BSEE was informed of two other rigs as having H-4 
+connector bolt failures. 
+ 
+ 
+On January 25, 2013, BSEE received information from the connector vendor which identified 
+rigs as having blowout preventer (BOP) stack connectors that may contain bolts that may no 
+longer be fit for purpose.  BSEE issued emails to the associated operators of the subset of rigs 
+ 
+with current well operations in the Gulf of Mexico.  The content of the emails notified these 
+ 
+operators of the initial findings and gave specific instructions on securing the current well 
+ 
+operations in order to retrieve the LMRP and/or BOP to the surface, if not already on the surface.  
+These operators were directed to then suspend operations until the existing bolts on the LMRP 
+ 
+connector/wellhead connector could be changed out with bolts that have been certified by an 
+independent third-party to be in compliance with recommended heat treatment practices or the 
+existing bolts have been examined and certified by an independent third-party that they are fit for 
+ 
+purpose. 
+ 
+ 
+In order to ensure all of these affected bolts are identified and proper corrective action is taken, 
+ 
+BSEE recommends the following: 
+ 
+ 
+Operators are hereby urged to make an inventory of your contracted rigs [currently involved in 
+well operations in the Gulf of Mexico Outer Continental Shelf (GOM) or planned to conduct 
+ 
+well operations in the GOM] and investigate the bolts of the LMRP and Wellhead connectors.  
+For detailed instructions on identifying affected bolts please refer to the Safety Notice issued by 
+ 
+GE Oil and Gas on January 25, 2013, titled,  “H4 Connector Bolt Inspection Required(P/N 
+ 
+H10004-2)” at the following: http://www.ge-energy.com/connector-update.jsp 
+ 
+ 
+If you have H-4 connectors, as identified in GE’s safety notice, and have verified through 
+ 
+documentation that the connector contains any affected bolts, you should immediately notify 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+BSEE.  You should also consult with your contractors and subcontractors to determine the 
+ 
+appropriate inspection, disposition and/or corrective actions.  BSEE will require an independent 
+ 
+third-party certification that confirms proper inspection and refurbishment processes were 
+completed prior to reinstallation of any affected bolts.   
+ 
+ 
+Operators should review the QA/QC programs for all equipment vendors (contracted and sub­
+contracted) to ensure that all equipment is being manufactured to the required specifications.   
+Special attention should be given to ensure proper heat treating has taken place in accordance 
+with the specifications. 
+ 
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Upper half of failed LMRP Connector  
+
+                                       
+
+Lower half of failed LMRP Connector 
+ 
+
+ 
+
+               
+ 
+
+ 
+
+ 
+
+--BSEE--GOMR-­
+www.bsee.gov 
+ 
+
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+
+A Safety Alert is a tool used by BSEE to inform the offshore oil and 
+ 
+gas industry of the circumstances surrounding an accident or a near miss. It also 
+contains recommendations that should help prevent the recurrence of such an 
+incident on the Outer Continental Shelf. 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+  
+ 
+ 
+ 
+
+

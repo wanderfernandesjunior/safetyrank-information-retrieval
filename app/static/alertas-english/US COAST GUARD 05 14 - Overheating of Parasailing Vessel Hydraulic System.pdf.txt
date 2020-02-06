@@ -1,0 +1,179 @@
+ 
+           
+
+ 
+May 12, 2014 
+Washington, DC 
+
+         Inspections and Compliance Directorate 
+
+ 
+
+ 
+
+ 
+
+   Alert 05-14 
+
+OVERHEATING OF PARASAIL VESSEL HYDRAULIC OIL SYSTEM 
+
+LEAVES PARASAILORS ALOFT FOR THREE HOURS 
+
+ 
+The  information  in  this  safety  alert  is  derived  from  a  recent  parasail  casualty  investigation.    Two 
+passengers  were  successfully  launched  from  a  parasail  vessel  for  a  ride  aloft.   As  they  were  being 
+winched  in  the  winds  picked  up.  The  parasail  towline  winch  became  inoperable  and  800  feet  of 
+towline payed out stranding  the passengers aloft.  Additionally, the vessel was unable to make way 
+through the water while battling rough seas and the strong winds.   
+ 
+The  cause  of  the  winch  malfunction  was  due  to  overheating  of  the  hydraulic  power  system.  This 
+occurred because of an inadequate oil cooling system (through hull fittings / scoop type system) that 
+relied  solely  on  the  vessel's  movement  through  the  water.  When  the  vessel's  movement  was 
+overcome  and  stalled  by  the  wind  acting  against  the  parasail  and  the  waves,  there  was  no  water 
+circulation  and  thus  no  resultant  cooling  of  the  hydraulic  oil.    Since  there  was  no  fail  safe  braking 
+system, the towline payed out when the hydraulic motor could no longer develop power.  Three hours 
+passed before the winds subsided enough to allow forward movement of the vessel, cooling off of the 
+oil, and restoring the system to operation. 
+ 
+This  event  was  fortunate  in  that  the  parasail  towline  did  not  break  and  there  were  no  fatalities  or 
+injuries.  Nevertheless, to prevent similar occurrences, the Coast Guard strongly recommends that 
+insurers, owners and operators of parasail vessels: 
+ 
+
+•  Ensure  their  vessel’s  parasail  winch  hydraulic  oil  cooling  systems  are  not  dependent  on 
+forward movement of the vessel. If necessary, have the system modified by a parasail vessel 
+professional. 
+ 
+
+•  Owners of parasail vessels which do have pressurized hydraulic oil cooling systems should 
+ensure that their systems are properly fitted with inlet strainers on the sea water supply and 
+that the rest of the system, pumps, motors, controls, oil filters, etc. are properly maintained 
+at the proper frequency. 
+
+•  Review the attached previously sent “Know Your Ropes” safety alert and remember: 
+
+You set the stage for passenger safety! 
+
+This  safety  alert  is  provided  for  informational  purposes  only  and  does  not  relieve  any  domestic  or 
+international  safety,  operational  or  material  requirement.  Developed  by  the  Office  of  Investigations 
+and Casualty Analysis.  For questions or concerns please email hqs-pf-fldr-cg-inv@uscg.mil. 
+
+   
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+July  22,  2013             
+Washington, DC                                     Parasailing Operations 
+
+       
+
+     
+
+     
+
+     
+
+     
+
+   
+
+   
+
+Know Your ROPES 
+
+ 
+
+        Assistant Commandant for Prevention Policy 
+
+       
+
+     
+
+     
+
+    Alert  07-13 
+
+A series of parasail incidents resulting in fatalities and injuries have occurred over the last few years.  
+Since  2006,  there  have  been  11  deaths  and  52  injuries  as  a  result  of  parasailing  activities.    There 
+have  been  several  common  factors  in  all  of  these  incidents  that  are  unique  to  parasailing.  The 
+following  mnemonic  ‘Know  Your  ROPES’  was  designed  to  remind  parasail  operators  of  important 
+safety issues that may help prevent future casualties: 
+Remember that most parasail fatalities and injuries are related to the failure of the towline.  Failures 
+have occurred at tensions significantly below the rated towline strengths due to a variety of reasons 
+that may include cyclic loading, long term exposure to environmental elements, the presence of knots 
+creating a weak point, and overloading. 
+Observe  and  monitor  weather  conditions  continuously.  Increases  in  wind  speed  impacts  the 
+relative speed against the chute, where limits of the towline and/or chute can quickly be exceeded. As 
+wind  speed  doubles,  the  load  on  the  towline  may  quadruple.    Be  vigilant  in  monitoring  weather 
+conditions noting the formation of squalls, thunderstorms, or whenever weather fronts are expected to 
+pass  through  your  operational  area.    Cease  operations  well  before  such  weather  conditions  impact 
+your  parasailing  operation.    ASTM  Standard  F2993-13  published  on  April  1,  2013  is  a  ‘Standard 
+Guide  for  Monitoring  Weather  Conditions  for  Safe  Parasail  Operation’.    It  is  available  for  purchase 
+and download on line at http://www.astm.org/. 
+Prepare for emergencies by having  well  documented procedures and conducting crew training to 
+ensure  proficiency  in  responding  to  emergencies  such  as  towline  breaks,  winch  failures,  propulsion 
+failures, and any other concerns that impact crew/passenger safety.   
+Ensure  that  all  of  your  equipment  is  properly  maintained  on  a  continual  basis.    This  includes  the 
+winch and drive motor, hydraulic brakes, hoses and piping, spooling systems, and other tackle.  Also 
+check  your  chutes,  harnesses,  and  related  components  for  stitching  failures,  degradation,  and  the 
+need for general repairs. Immediately correct identified problems. 
+Safety is up to you the Operator.  Coast Guard Credentialed Operators are expected to provide an 
+adequate level of safety during vessel operations, to include the monitoring of weather conditions and 
+maintenance of equipment. 
+ 
+ 
+The  Coast  Guard  encourages  owners  and  operators  to  work  with  each  other  and  related  industry 
+associations  to  share  best  practices  and  develop  operational  standards  to  maximize  safety  and 
+prevent marine casualties.  Enforcement action may be taken against the operator for misconduct or 
+negligent operation. 
+ 
+This  alert  is  provided  for  informational  purposes  only  and  does  not  relieve  any  domestic  or 
+international  requirement.    Developed  by  the  Office  of  Investigations  and  Analysis,  USCG 
+Headquarters, Washington, DC. 
+
+Distributed by the Office of Investigations and Analysis:  Http://marineinvestigations.us 
+To subscribe:  Kenneth.W.Olsen@uscg.mil 
+
+Know Your ROPES 
+
+Your towline! Most accidents are related to the failure of 
+the tow line.  Remember to continuously assess your line. 
+
+Weather!  Increased winds and other weather conditions 
+can significantly impact your operations.  Cease operations 
+well in advance! See ASTM ‘Weather’ Standard F2993-13. 
+
+Be ready for any emergency. Have well documented proce-
+dures and conduct crew training frequently. 
+
+Ensure your equipment is properly maintained. Immedi-
+ately correct any problems. 
+
+Safety is up to you...the Operator!  Do everything you can 
+to ensure the safety of your passengers. 
+
+

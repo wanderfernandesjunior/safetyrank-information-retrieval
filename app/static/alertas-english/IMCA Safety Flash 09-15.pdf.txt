@@ -1,0 +1,249 @@
+AB 
+
+ 
+
+IMCA Safety Flash 09/15 
+
+Safety Flash 
+
+  June 2015 
+
+These flashes summarise key safety matters and incidents, allowing wider dissemination of lessons learnt from them.  The information below has been provided 
+in good faith by members and should be reviewed individually by recipients, who will determine its relevance to their own operations. 
+
+The effectiveness of the IMCA safety flash system depends on receiving reports from members in order to pass on information and avoid repeat incidents.  
+Please consider adding the IMCA secretariat (imca@imca-int.com) to your internal distribution list for safety alerts and/or manually submitting information on 
+specific incidents you consider may be relevant.  All information will be anonymised or sanitised, as appropriate. 
+
+A number of other organisations issue safety flashes and similar documents which may be of interest to IMCA members.  Where these are particularly relevant, 
+these may be summarised or highlighted here.  Links to known relevant websites are provided at www.imca-int.com/links   Additional links should be submitted 
+to webmaster@imca-int.com 
+
+ 
+
+1 
+
+“Routine” Task, Non-Routine Result: Batteries Stored Sideways Leak Battery Acid 
+
+A member has reported a near miss incident in which there was a spill of battery acid.  An electrician had charged the wet cell 
+batteries  of  two  motion  reference  units  (MRU),  each  contained  in  a  plastic  box.    Once  the  charging  was  completed,  the 
+electrician closed the boxes and had to place them on the floor to wait for the next shift to test the equipment.  
+
+However, to limit the amount of floor space for storage the electrician placed the boxes on their sides, neglecting to remember 
+that this improper orientation (batteries on their side) could allow the wet cell batteries to leak acid.   
+
+Crew  on  the  following  shift  opened  one  case  and  noticed  a  smell,  suggesting  battery  acid.    Upon  further  inspection,  the 
+electricians noticed that battery acid had run out of the vents of the batteries in both plastic containers.  
+
+Had the circumstances been different, this could have been a very serious incident.  
+
+Figures above: No labelling on container indicating proper storage instruction or hazards of contents 
+
+ 
+
+ 
+
+ 
+
+Figure: Location of vents permitting acid to leak out of battery 
+
+Figure: Extent of acid spill 
+
+when improperly stored 
+
+ 
+
+Our members’ investigation noted the following: 
+
+  A wet cell battery with vents would permit leakage of the battery if stored improperly; 
+
+  The containers were stored on their sides; the electrician forgot that in doing this, the batteries might leak; 
+
+ 
+
+  The battery containers were not labelled to provide information regarding: 
+
+  Which way up they should be stored 
+
+  What was inside – the possible hazards of wet cell batteries.  
+
+The lessons were: 
+
+  Boxes and containers should be clearly labelled so all crew know which way is up and any hazards relating to what is inside; 
+
+  This should particularly be the case for containers used for batteries; 
+
+  Consider replacement of the wet cell batteries with dry cell batteries – thus eliminating the hazard of an acid spill. 
+
+Members may wish to refer to the following similar battery-related incidents (key words: battery, acid): 
+
+ 
+
+ 
+
+IMCA SF 01/02 – Incident 3. Dangers of battery charging; 
+
+IMCA SF 05/13 – Incident 2. Battery damage caused by charger failure. 
+
+2 
+
+“Routine” Activities – Non-Routine Result: Finger Injury during Welding   
+
+A member has reported an incident in which a welder injured his finger whilst at work.  The welder was finishing cutting and 
+noticed there was some loose slag built up from previous work.  He swept this slag away with his hand and felt he had cut his 
+left index finger.  He inspected the welder’s hot work gloves he was wearing and noticed there was a hole in the left index 
+finger of the glove.  He was unsure if the hole was caused by sweeping away the slag or if it was already present. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Figure: Injury to hand 
+
+This was a routine or everyday activity, where complacency had perhaps set in.  
+
+Our member notes: 
+
+ 
+
+It is important to retain a focus on the  routine  as well as on significant, major or potentially catastrophic  “high risk” 
+events; 
+
+  Crew should remain alert to memory lapse or lack of awareness. 
+
+ 
+In this case: 
+
+  The welder should have used a broom for removing the loose slag; 
+
+  Gloves are personal protective equipment (PPE) and worn for protection, they are not sweeping tools;  
+
+  PPE should be regularly checked for damage.  Perhaps most especially, helmets, safety glasses and gloves – Change out 
+
+and dispose of damaged PPE; 
+
+  The incident was discussed at welder’s pre-start meetings and use of brooms was reiterated.   The risk assessment for 
+
+welding was reassessed regarding proper use of tools, equipment and materials. 
+
+Members may wish to refer to the following similar incidents (key words: gloves, cut): 
+
+IMCA SF 16/13 – Incident 5. Hand injuries; 
+
+ 
+
+ 
+
+IMCA SF 05/15 – Incident 4. Routine task: badly cut finger changing mop head. 
+
+Members should be aware that IMCA has  a  pocket safety card on this topic,  Watch  your hands – you’ve only  got  one set! 
+http://www.imca-int.com/media/102527/imcaspc08.pdf. 
+
+  
+
+ 
+
+3  Near Miss: Trapped Tagline Pins Banksman against Stanchion 
+
+The  Marine  Safety  Forum  has  published  the  following  safety  flash  regarding  a  near  miss  incident  in  which  taglines  became 
+trapped under a load.  During loading operations, a banksman was unaware that one of the taglines was trapped under the load 
+and that he was standing in a potential pinch point.  As he signalled by radio for the crane operator to hoist up the hook and 
+taglines, the trapped tagline became tight pinning the banksman against the stanchion.  The banksman, with assistance from one 
+of the load handlers, managed to move the tagline, enabling him to give the radio command to lower the hook.   The crane 
+operator lowered the crane hook releasing the banksman.  There were no injuries. 
+
+Some of the contributing factors or causes were: 
+
+ 
+
+ 
+
+Inadequate supervision and oversight; 
+
+Inexperienced and relatively new crew; 
+
+  Failure to recognize the hazard. 
+
+The incident can be downloaded from www.marinesafetyforum.org/upload-files//safetyalerts/msf-safety-flash-15.17.pdf. 
+
+ 
+Members may wish to review the following similar incident: (search word: tagline): 
+
+ 
+
+IMCA SF 05/11 – Incident 3. Lack of safety awareness: crush injury during lifting operations.  
+
+Members should also refer to IMCA SEL 019 – Guidelines for lifting operations. 
+
+4  Vessel Electrical Equipment Caught Fire 
+
+The  Marine  Safety  Forum  has  published  the  following  safety  flash  in  which  electrical  equipment  caught  fire  leading  to  the 
+triggering of the vessel’s fire detection system.  A capacitor in a deck floodlight failed, causing a small fire in an electrical ballast 
+unit.  The ships fire party mustered, the cause of the activation was quickly identified, the circuit isolated and the unit replaced 
+with minimal damage. 
+
+The report can be downloaded from www.marinesafetyforum.org/upload-files//safetyalerts/msf-safety-flash-15.15.pdf. 
+
+Members may wish to review the following similar incidents: (search words: fire, electrical): 
+
+ 
+
+ 
+
+IMCA SF 05/13 – Incident 3. Near miss: exposed live electrical cable; 
+
+IMCA SF 14/11 – Incident 5. Diver helmet hat light [caught fire]. 
+
+5  Fire on Offshore Renewables Industry Crew Transfer Vehicle (CTV)     
+
+The Danish Maritime Accident Investigation Board (DMAIB) has published a report on an incident involving a fire on an offshore 
+renewables industry crew transfer vehicle (CTV).  The vessel suffered an engine room fire while engaged in the transfer of 
+wind turbine technicians in the North Sea.  
+
+The  accident  happened  when  a  fire  occurred  in  the  transition  area  between  the  starboard  main engine room and the 
+adjacent  casing.    The  immediate,  technical  cause  of  the  fire  was  likely  a  combination  of  insufficient  insulation  and  possibly 
+elevated exhaust gas temperatures from the propulsion engine due to insufficient ventilation. 
+
+All passengers were evacuated, and the fire was extinguished with assistance from other ships in the vicinity.  There were no 
+injuries. 
+
+A full report can be downloaded here. 
+
+Members may wish to review the following similar incidents (search words: CTV, fire): 
+
+IMCA SF 03/14 – Incident 4. Fire and subsequent foundering of wind farm support workboat; 
+
+ 
+
+ 
+
+IMCA SF 10/14 – Incident 1- 4 – This safety flash concentrates on one single issue – fires in engine room spaces. 
+
+6  Aberdeen Harbour: Annual Summary of Marine Safety Reports for 2013   
+
+The Marine Safety Forum has published information note 15/02, comprising a summary of marine safety incident reports during 
+2013, from Aberdeen harbour.  The report contains short details of the 30 recorded safety incidents in 2013 involving vessels 
+entering or leaving, or manoeuvring within, the harbour. 
+
+The summary report notes that 47% of the incidents reported were collisions, contact between vessels, or grounding.  It notes 
+that in three quarters (75%) of the incidents reported, human error was a cause. 
+
+The full report can be found at www.marinesafetyforum.org/upload-files//notices/marine-information-note-15-02,.pdf. 
+
+

@@ -1,0 +1,127 @@
+AB
+
+ 
+
+IMCA Safety Flash 09/01 
+
+August 2001 
+
+These  flashes  summarise  key  safety  matters  and  incidents,  allowing  wider  dissemination  of  lessons  learned  from  them.    The  information  below  has  been 
+provided in good faith by members and should be reviewed individually by recipients, who will determine its relevance to their own operations. 
+
+The effectiveness of the IMCA safety flash system depends on receiving reports from members in order to pass on information and avoid repeat incidents.  
+Please consider adding the IMCA secretariat (imca@imca-int.com) to your internal distribution list for safety alerts and/or manually submitting information 
+on specific incidents you consider may be relevant.  All information will be anonymised or sanitised, as appropriate. 
+
+A  number  of  other  organisations  issue  safety  flashes  and  similar  documents  which  may  be  of  interest  to  IMCA  members.    Where  these  are  particularly 
+relevant, these may be summarised or highlighted here.  Links to known relevant websites are provided at www.imca-int.com/links  Additional links should 
+be submitted to webmaster@imca-int.com 
+
+ 
+
+1  Failure of ROV Lift Umbilical Winch Brake – Update 
+
+In  the  Safety  Flash  08/01  we  reported  an  incident  concerning  an  uncontrolled  ROV  umbilical  winch  run  off  involving  a 
+MacArtney  CORMAX  unit  manufactured  by  Norlau.    The  member  company  has  updated  us  on  this  issue  noting  that  the 
+manufacturer has now acknowledged that there is a design problem and that until they can provide a technical solution the 
+manufacturer recommends that that winches should be operated at LOW SPEED only.  This is a short term measure; the 
+long term solution may involve modifications to the winch system. 
+
+2  Hazard Potential from Equipment using Enclosed Rechargeable Batteries 
+
+A member has reported that a damage event occurred recently at one of their workshop facilities, where a sealed housing 
+containing a rechargeable battery pack exploded.  In this incident a ‘Divescan’ system was in the process of being assembled 
+and tested, and the system was being powered by its uninterruptable power supply (UPS) component. 
+
+At the end of the test, when the technician switched off the power from the UPS, the UPS housing lid blew off, bounced off a 
+shelf at eye level, and landed some distance away in the workshop area.  Fortunately, it missed the technician and he was not 
+injured. 
+
+Further to this particular incident, a CTD (conductivity, temperature and depth) probe battery casing on ROV operating one 
+of the members vessel’s on also exploded; again without injury. 
+
+As a result of these two common undesired events, the following procedures, have been issued by the company concerned: 
+
+  Always closely inspect the equipment containing rechargeable batteries, prior to, and after use, for any signs of external 
+damage,  water  ingress,  broken  connectors  etc.    In  cases  where  there  is  damage  or  damage  is  suspected,  competent 
+personnel only should examine such equipment further – before it is then used; 
+
+  Equipment containing rechargeable batteries should be subject to an annual inspection by competent technical personnel 
+
+who have received the appropriate product training; 
+
+  When carrying out maintenance on such equipment, especially if enclosed in a pressure housing, always consider that the 
+equipment could potentially be pressurised and take all necessary precautions when handling and dismantling the unit. 
+(i.e. wear a full face mask, dismantle the end cap assembly of the subsea housing pointing it away from yourself and other 
+personnel.); 
+
+  When  the  equipment  requires  an  external  unit  to  charge  the  batteries,  always  use  the  charger  specified  by  the 
+
+manufacturer of the equipment, thus minimising risk of damage to the equipment or harm to the operator; 
+
+  Operators  of  such  equipment  must  use  the  correct  charging  procedure  outlined  in  the  manufacturer’s  operating 
+
+  Battery condition and replacement history should be recorded by a notice attached to the equipment and in the planned 
+
+instructions; 
+
+maintenance records. 
+
+3  ROV Winch Failure 
+
+One of our members has reported an ROV winch failure during drill support on a semi submersible drill rig working in 80-
+100 meters water depth. 
+
+Safety Flash 
+
+ 
+
+During  a  ROV  launch  the  vehicle  was  raised  approximately  1.8  meters  to  allow  the  moonpool  doors  to  open.    With  the 
+doors secured open the ROV was lowered through the moonpool.  When the top of the TMS became level with the cellar 
+deck the winch went into free fall.  Since all attempts by the winch operator to gain control of the winch had no effect, the 
+winch  operator  and  ROV  crew  secured  the  area,  put  safety  barriers  in  place  and  a  person  posted  to  prevent  any  one 
+entering the launch area.  The 1500 meters of steel armoured umbilical had spooled off the winch drum and the end was 
+retained by the clamp mechanism on the drum. 
+
+No one was injured and there was no damage to subsea structures resulting from the incident. 
+
+The  initial  investigation  conducted  by  the  winch/gearbox  manufacturers  has  shown  a  bearing  in  the  gearbox  had  failed 
+allowing  the  output  shaft  with  the  drive  pinion  to  be  ejected  from  the  gearbox.    The  winch  manufacturer  is  Lawson 
+Engineers, and the gearbox manufacturer is Brevini. 
+
+Both the hydraulic lock and the failsafe brake are on the input side of the gearbox and had operated correctly, but when the 
+output  shaft  was  ejected  the  drive  pinion  lost  contact  with  the  drum  gear  ring  and  all  control  of  the  drum  was  lost.  
+The winch then went into freefall. 
+
+The following actions have been initiated by the member concerned: 
+
+  Gearbox oil samples to be taken from all similar winches in service to establish any signs of early bearing failure; 
+
+  Oil replaced in all gearboxes to allow an even starting point for future analysis; 
+
+  Gearbox oil samples to be taken every three months and analysed to help early detection of any future bearing failure; 
+
+  A mechanical retaining plate to be retrofitted to all similar winches to prevent the gearbox output shaft being ejected 
+
+and causing the drive pinion to loose contact with the drum ring gear. 
+
+4  Failure of Plastic Floatation Buoy 
+
+We have received the following information concerning a failure of a plastic floatation buoy.  During deepwater operations 
+on one of our member’s vessels, a sling had been recovered to surface and riggers were in the process of removing a cluster 
+of plastic flotation buoys.  These buoys were rated for 150 bar external pressure and were hollow air filled types. 
+
+Without warning or any obvious signs of damage, one of the buoys exploded, resulting in two halves of the float flying apart 
+with some force (see picture below).  Fortunately no-one was injured, however this serious near miss serves to remind us, 
+that such events are not unknown and for this reason, IMCA produced IMCA Guidance Note IMCA R 001 – Plastic spherical 
+air-filled fishing buoys – concerning failures of this type of buoy giving recommendations on their use. 
+
+Whilst  the  floats  being  used  were  suitably  pressure  rated,  the  company  concerned  cannot  be  sure  that  either  through 
+manufacturing  defects  or  due  to  rough  handling  that  fissures  in  the  seam  of  the  floats  allowed  the  internal  void  to  be 
+pressurised. 
+
+A number of IMCA member companies have a policy of not using plastic buoys. 
+
+ 
+
+

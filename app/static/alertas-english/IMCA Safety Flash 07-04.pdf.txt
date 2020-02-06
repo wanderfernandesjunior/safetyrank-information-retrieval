@@ -1,0 +1,147 @@
+AB
+
+ 
+
+IMCA Safety Flash 07/04 
+
+August 2004 
+
+These  flashes  summarise  key  safety  matters  and  incidents,  allowing  wider  dissemination  of  lessons  learned  from  them.    The  information  below  has  been 
+provided in good faith by members and should be reviewed individually by recipients, who will determine its relevance to their own operations. 
+
+The effectiveness of the IMCA safety flash system depends on receiving reports from members in order to pass on information and avoid repeat incidents.  
+Please consider adding the IMCA secretariat (imca@imca-int.com) to your internal distribution list for safety alerts and/or manually submitting information 
+on specific incidents you consider may be relevant.  All information will be anonymised or sanitised, as appropriate. 
+
+A  number  of  other  organisations  issue  safety  flashes  and  similar  documents  which  may  be  of  interest  to  IMCA  members.    Where  these  are  particularly 
+relevant, these may be summarised or highlighted here.  Links to known relevant websites are provided at www.imca-int.com/links   Additional links should 
+be submitted to webmaster@imca-int.com 
+
+ 
+
+1  Exhaust Valve Cage Assembly Blow-Out 
+
+Keywords: Near Miss   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+A member has reported the following serious incident which occurred aboard one of its vessels.  It has been categorised by 
+the company as ‘near miss fatality’ – fortunately the only damage sustained was to equipment.  The aft exhaust valve cage 
+assembly from one of the units blew out of the engine, damaging the rocker arm assembly and destroying the rocker cover. 
+
+The assembly struck the lifting beam above the main engine and was deflected directly aft over the turbo-charger, narrowly 
+missing the duty engineer, who had been inspecting a tappet knocking noise at a nearby cylinder head.  The assembly landed 
+on the bottom plates near CPP pumps. 
+
+Jacket cooling water was gushing out of the cylinder head of the damaged unit, restricting direct access to the main engine 
+controls.    The  duty  engineer  ran  from  the  engine  room  to  the  engine  control  room  and  informed  the  bridge  to  use  the 
+emergency stop to shut down the main engine.  The main engine was stopped within twenty seconds. 
+
+The  damage  was  summarised  as  follows  (see  pictures  below,  which  show  the  position  of  the  engineer  at  the  time  of  the 
+incident): 
+
+the exhaust valve cage assembly was blown out of the cylinder head, shearing one holding-down stud and stripping the 
+thread out of the nut of the second holding-down stud; 
+
+the rocker arm assembly was damaged beyond repair; 
+
+the rocker cover was destroyed; 
+
+the rocker gear bridge piece casting had a section of the holding-down base broken off and was beyond repair; 
+
+the lifting beam gantry above the main engine had a significant dent; 
+
+the alarm light and fluorescent light above the main engine were destroyed. 
+
+The  immediate  assumption  was  that  the  unit  had  hydraulically  locked  due  to  ingress  of  water  into  the  cylinder  liner  and 
+preparations were started to remove the unit for inspection and repair. 
+
+The company’s subsequent investigation established that the incident could be directly attributed to sea water entering the 
+combustion space of the unit via the scavenge air system, hydraulically locking the engine cylinder, due to the failure of a sea 
+water cooling tube on the charge air cooler, the failure of the scavenge air/water drains and the failure to check the drains’ 
+condition during normal watchkeeping rounds. 
+
+The  exact  time  of  the  failure  of  the  sea  water  cooling  could not  be  ascertained, but it is  believed  that it  could have  been 
+leaking  over  a  period  of  time.    The  company  is  of  the  opinion  that  a  slug  of  water  had  been  trapped  behind  the  built-up 
+sludge at the charge air cooler.  This slug of water/sludge travelled along the charge air manifold, blocking the drain cocks and 
+entered the cylinder. 
+
+The volume of water entering the cylinder was greater than what could have been consumed in the combustion cycle.  The 
+quantity of water would have been minimal, as there was only 0.2mm bump clearance from the piston crown to the cylinder 
+head.  A full hydraulic lock with complete flooding of the unit did not occur, as in such a case greater damage to the piston, 
+connecting rod and crankshaft would have resulted. 
+
+The  second  engineer  was  in  attendance,  investigating  an  unusual  noise  coming  from  another  unit  as  part  of  his  normal 
+watchkeeping duties.  The failure occurred before the analysis of that problem had been completed. 
+
+Safety Flash 
+
+ 
+
+ 
+
+ 
+
+Clockwise from top left: 
+
+Location of impact above cylinder; 
+
+Rocker cover fragments; 
+
+Position of engineer when incident happened 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+The company has instigated the following preventative actions as a result: 
+
+  removal of current scavenge air drain cocks and replacement with ball valves with a bigger bore; 
+
+fitting of drain cock clearing devices at each drain cock; 
+
+further development of previous engine room rounds check sheet to provide regular and accurate inspection of plant 
+and equipment against specific performance criteria; 
+
+  more thorough checking during watchkeeping rounds in accordance with engine room practice. 
+
+While not directly related, it has also recommended the following: 
+
+  updating of engine room procedures; 
+
+  seeking to establish, as much as possible, more continuity of engine room crew; 
+
+  providing earlier, longer and more detailed familiarisation for engine room crew not familiar with/new to a vessel; 
+
+  developing  a  written  procedure  to  show  requirements  and  expectations  for  situations  where  the  whole  engine  room 
+
+crew is new to the vessel, which should clearly explain: 
+– 
+– 
+– 
+– 
+
+the maintenance system onboard the vessel; 
+the method of storing maintenance records; 
+the style of watchkeeping and parameter recording required and the supply of suitable logbooks for this purpose; 
+handover procedures between chief engineers, to ensure that required knowledge is passed on. 
+
+

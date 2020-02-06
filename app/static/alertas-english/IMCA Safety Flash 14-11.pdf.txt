@@ -1,0 +1,389 @@
+AB 
+
+ 
+
+IMCA Safety Flash 14/11 
+
+Safety Flash 
+
+  December 2011 
+
+These  flashes  summarise  key  safety  matters  and  incidents,  allowing  wider  dissemination  of  lessons  learnt  from  them.    The  information  below  has  been 
+provided in good faith by members and should be reviewed individually by recipients, who will determine its relevance to their own operations. 
+
+The effectiveness of the IMCA safety flash system depends on receiving reports from members in order to pass on information and avoid repeat incidents.  
+Please consider adding the IMCA secretariat (imca@imca-int.com) to your internal distribution list for safety alerts and/or manually submitting information 
+on specific incidents you consider may be relevant.  All information will be anonymised or sanitised, as appropriate. 
+
+A  number  of  other  organisations  issue  safety  flashes  and  similar  documents  which may  be  of  interest  to  IMCA  members.   Where  these  are  particularly 
+relevant, these may be summarised or highlighted here.  Links to known relevant websites are provided at www.imca-int.com/links   Additional links should 
+be submitted to webmaster@imca-int.com 
+
+ 
+
+1  Near Miss – Diver Loss of Gas 
+
+A member has reported a near miss incident in which a diver very nearly lost his gas supply. The incident occurred when a 
+vessel was engaged in flushing operations, and was assisting with barrier testing flushing/flooding and positive isolation. The 
+bellman reported that the diving bell was snatching heavily and the decision was made to abort the dive. Both divers returned 
+to under the bell. Diver 1 was recovered into the bell while diver 2 waited on the seabed. Diver 1 entered the bell just as the 
+vessel heaved; both diver 1 and the bellman were unbalanced. 
+
+At  this  point  diver  2  reported  to  the  dive  supervisor  that  his  ‘gas  had  gone  tight’  and  opened  his bailout  supply.  The  dive 
+supervisor immediately informed the bellman who saw that the gas supply valve was half closed. The bellman opened the gas 
+supply valve fully and main gas supply was restored to diver 2. Diver 2 secured his bailout supply, then left the seabed and 
+was safely recovered into the bell. There were no injuries or ill effects. 
+
+Dive bell panel with valves in original closed position 
+
+(Note: valves turn anti-clockwise to open) 
+
+ 
+
+ 
+
+After the divers returned to the chambers the bell was vented to surface to allow for checks and any modifications to be 
+carried out on the valve in question, to prevent recurrence.  
+
+The valve control handle was reconfigured and turned 180 degrees from its original closed position, which will ensure that 
+when the valve is in the open position, that it cannot be accidently knocked to closed. 
+
+ 
+
+Dive bell panel showing modifications to the valve handles 
+
+ 
+
+An investigation revealed the following:  
+
+  The main cause of the incident was that when the bellman lost his footing as the bell heaved during marginal weather 
+conditions,  he  fell  against  the  diver’s  gas  supply  valve  and  knocked  it  toward  the  closed  position.  The  design  and 
+positioning of this valve arrangement, in the context of the confined space within the bell, was a potential hazard that had 
+been overlooked. 
+
+The following corrective actions were taken: 
+
+  Diving operations were suspended until corrective actions taken, and the black box hard disk recording was copied; 
+
+  The bell was surfaced for investigation and repositioning of the valve/valve handle to prevent a recurrence; 
+
+  The dive team were fully briefed on the incident and actions taken to prevent recurrence. 
+
+The following lessons were learnt: 
+
+  Diving bells  are confined spaces packed with complex equipment. The ergonomics of  bell diving operations brings  the 
+risk of  equipment  being inadvertently  moved or operated.  Changing the way key components function can reduce the 
+risk of inadvertent operation; 
+
+  The actions of the supervisor, bellman and diver were correctly and quickly undertaken as soon as the gas went ‘tight’, 
+
+showing the benefit of undertaking regular diving emergency drills. 
+
+2 
+
+Identification of Differential Pressures Subsea during Diving Operations  
+
+A member has reported an incident in which, during diver intervention work on a subsea pipeline, considerable suction was 
+encountered  when  the  diver  attempted  to  separate  a  pair  of  flanges.  The  diver  noted  the  suction  before  the  flange  was 
+completely separated and called a stop to operations before any injury occurred or damage resulted. 
+
+An investigation revealed that there was  confusion and lack of understanding regarding the difference between the internal 
+pipeline pressure and the subsea ambient pressure caused by the water depth. 
+
+Although negative pressure (suction) is something that divers are especially concerned about and aware of, it is not always a 
+generally understood hazard that is readily comprehended or identified by persons not normally involved in diving operations 
+i.e. the concept of standing in and working in  a space where the  ambient pressure  is greater than that contained in a void 
+which is being opened, for example, when a diver opens a bolted flange on a pipeline. 
+
+The following example was given: 
+
+ 
+
+If  a  pipeline  from  a  platform  extends  to  the  seabed  at  150msw,  the  absolute  pressures  and  differential  pressure  effects  are 
+considerably different for a surface worker on an installation and the diver on the seabed. If the installation pressurises a pipeline 
+to 10 Bar gauge (11 Bar absolute), this shows itself as a net positive pressure of 10 Bar to the person on the installation and a net 
+negative pressure of 5 Bar to the diver at 150msw (16 Bar absolute). 
+
+ 
+Because  of  the  opportunity  for  confusion  and  the  potential  for  two  completely  different  hazards  (retained  pressure  and 
+suction) it is important that any pressures noted in project procedures, permits, risk assessments, dive plans etc. are done so 
+in a clear, concise and objective way ensuring that there is no room for misinterpretation or misunderstanding.  
+
+When recording or stating pressures in documents where there is scope for misinterpretation due to differential pressures 
+during diver intervention works, all pressures should be noted as the actual pressure value, such as Pressurise pipeline to 12 
+bar gauge rather than (as is often the case) relative or referenced pressure values such as Pressurise pipeline to 2 bar greater 
+than  seabed  ambient.  If  not  completely  unambiguous,  instructions  should  also  state  where  the  pressure  is  measured  e.g. 
+whether on the installation, or subsea. 
+
+Further information is available in the following IMCA guidance: 
+
+IMCA D 014 – IMCA International Code of Practice for Offshore Diving   
+
+IMCA D 044 – Guidelines for isolation and intervention: Diver access to subsea systems 
+
+ 
+
+ 
+
+3  Crewman Injured when Steel Plates fell against Him   
+
+A member has reported an incident in which a crewman was injured by steel plates falling whilst being placed in storage. The 
+incident happened on a vessel when four crew members were moving steel plates (each weighing 250 kg) from the bosun’s 
+store to the welding shop. Their intent was to create a new storage area in the welding shop for these steel plates. The new 
+storage area was to be at a slight elevation of approximately 75 cm off the deck. 
+
+The plates were moved by overhead hoisting equipment from the bosun’s store to the welding shop. Because there were 
+some brackets welded on the bulkhead, the steel plates had to be pushed into place manually once they were  lifted onto the 
+elevated  storage  area.  Because  several  plates  were  to  be  stored  in  the  storage  area  they  were  temporarily  secured  with 
+clamps. When all plates were in their final position, steel poles were welded on the deck to secure them in place. 
+
+During the job a securing clamp was inadvertently knocked off while crewmembers manually moved one of the plates into its 
+final position. As  a result the plates fell over towards one of the crew members.  He saw them coming, but owing to the 
+weight of the plates he was unable to push them back and instead tried to jump out of the way. He was not successful; the 
+plates came into contact with his body and he hit his head on a nearby column, resulting in small fractures to the skull and 
+shoulder.   
+
+Showing welding bay storage area  
+
+ 
+
+ 
+
+Showing securing clamp 
+
+ 
+
+ 
+
+ 
+
+An investigation revealed the following: 
+
+  The  job  was  considered  routine  and  no  Job  Hazard  Analysis  was  conducted.  Though  the  handling  of  steel  plates  is  a 
+
+routine activity on board this vessel, the creation of a new storage area was not routine; 
+
+  Manual handling of steel plates weighing 250kg is inherently risky; 
+
+  A  workplace  inspection  prior  to  the  activity  would  have  revealed  the  risks  posed  by  the  obstructing  brackets  on  the 
+
+bulkhead; 
+
+  The clamps used to secure the steel plates temporarily were not adequate or safe for the activity being conducted; 
+
+  There were too many people in too small a work space.  
+
+ 
+
+4  Lifeboat Falls after Equipment Failure 
+
+A member has reported an incident in which equipment failure allowed a  lifeboat to fall free from one side of a vessel. The 
+incident  occurred  during  periodical  function  tests  performed  on  the  vessel  lifeboats.  When  the  port  side  lifeboat  was 
+recovered, one of the wire rerouting sheaves from the launching/recovery system buckled and broke off allowing the lifeboat 
+to  free  fall  from  one  side.  The  lifeboat  and  launching  system  were  seriously  damaged.  No  personnel  were  on  board  the 
+lifeboat at the time, and there were no injuries. 
+
+ 
+
+  
+
+ 
+
+ 
+
+A thorough investigation was conducted and the following was noted: 
+
+  When the incident occurred, one davit arm was in its rest position, while the other one was still under recovery; 
+
+  Severe deformation of the sheaves and their support plate indicated an ‘out of plane’ loading; 
+
+  The sheave had signs of groove wear and corrosion of the bottom side; 
+
+  Though  the  functioning  of  the  entire  lifeboat  launch  and  recovery  system  was  tested  periodically,  there  was  no 
+
+preventive maintenance programme for separate pieces of equipment within the system. 
+
+The following remedial actions were put in place: 
+
+  Replaced lifeboat lift wire with particular attention to the length adjustment; 
+
+  Replaced damaged (bent) support plate; 
+
+  Thorough cleaning and removing old paint from boom guide and sheaves, replacing as necessary; 
+
+  Non-destructive testing on pin from sheaves. 
+
+It  was  also  noted  that  owing  to  the  work  environment  and  equipment  criticality,  a  preventative  maintenance  schedule  for 
+individual parts on the lifeboat launch and recovery system should be developed, as this would reduce the likelihood of this 
+type of equipment failure. 
+
+ 
+5  Diver Helmet Hat Light 
+
+A member has reported an  incident in which  an overheating diver helmet hat light nearly  caused a fire inside a diving bell 
+onboard a dive support vessel.  The diving bell was not under pressure and the bottom doors were open to atmosphere. A 
+report was made of a strong smell of smoke within the dive  control area. This was  investigated  and smoke was observed 
+coming from the forward diving bell, situated within the bell garage. The dedicated emergency teams were mustered and the 
+appropriate emergency response actions instigated. The fire in the diving bell was successfully extinguished. There were no 
+injuries.  The  fire  resulted  in  extensive  damage  sustained  to  a  Kirby  Morgan  17B  helmet,  light,  camera  and  associated 
+umbilicals.  
+
+  
+
+ 
+
+ 
+
+Damaged Kirby Morgan 17B helmet   
+
+ 
+
+ 
+
+Location of helmet light control switch 
+
+An investigation established that the source of the fire was a dive helmet hat light which overheated to the point that the 
+outer  casing  caught  fire.  The  light  overheated  because  it  was  inadvertently  switched  on  whilst  the  equipment  was  on  the 
+surface and without any type of cooling in place, such as seawater. 
+
+The helmet light is operated via  a surface mounted push button located in dive control forward of the dive control panel. 
+Some twenty-five minutes before the incident occurred, the dive crew had held a short meeting in the immediate vicinity of 
+the  push  button  switch box that  controls  the  helmet  lights  in  the  forward  bell  for  both  diver  1  &  2.  It  was  surmised  that 
+during this meeting an attendee inadvertently leaned against the push button switch and turned on the helmet light. Nearly 
+half an hour elapsed before the first smell of smoke was reported.  
+
+The lessons learnt were as follows: 
+
+  There  were  no  safeguards  to  prevent  the  activation  of  the  push  button  controlling  the  helmet  hat  light.  Temporary 
+protection  was  put  in  place  on  the  switch  box,  and  the  control  boxes  replaced  with  guarded  switches  to  prevent 
+inadvertent activation; 
+
+  The hat light would overheat without seawater cooling, and consequently should not be used for long periods in air. A 
+new  design  for  this  model  of  light  incorporates  a  positive  temperature  coefficient  (PTC)  thermistor  device  which 
+prevents the unit from overheating. 
+
+ 
+
+6  Failure of Pallet Lifters   
+
+A member has reported two incidents involving the failure of pallet lifters. The first incident resulted in the failure of a  wire 
+rope  for  a  fork  pallet  lifter  which  parted  following  the  lifting  of  a  load  of  chemical  drums  onto  a  vessel  deck.  The  second 
+incident resulted in a pallet lifter fork being twisted due to overloading during a lifting operation to load a pallet of steel plate 
+onto a vessel deck. 
+
+Incident 1 
+
+A pallet lifter with a 2.5T safe working load (SWL) had lifted a 400kg load of 16 chemical drums onto the working deck of a 
+vessel.  The  chemical  drums  being  lifted  had  also  been  cargo  strapped  to  the  lifter  as  a  means  of  secondary  securing.  The 
+pallet  lifter  in  use  had  recently  undergone  a  thorough  inspection  and  had  been  correctly  colour-coded  by  a  3rd  party 
+inspection company to verify its fitness for purpose. As the load was landed on the deck, a rigger removed the lifter forks 
+from  the pallet.  At  this  point  the  wire  rope  (which  attaches  to  the  lifting  eye  and  the tensioning  springs  on this  particular 
+model) parted and the wire struck the rigger across the back of his hand. There were no injuries as the rigger was wearing 
+Kevlar gloves which provided adequate protection for this type of operation. The rigger notified the vessel supervision and 
+the pallet lifter was taken out of use immediately. 
+
+ 
+
+ 
+
+Pallet lifter after parting of wire rope 
+
+After investigation, the following was: 
+
+  On further inspection, the general condition of the pallet lifter, and the wire rope in particular were found to be in poor 
+
+condition and showing signs of corrosion and poor maintenance. This should have been noticed; 
+
+  The 3rd party inspection company which had completed a thorough inspection of the lifter to allow its updated colour-
+code  and continued use had  clearly not provided  a sufficient standard of inspection to  ensure this piece of equipment 
+was safe for work on this vessel; 
+
+  All  lifting  equipment  should  be  given  a  full  visual  inspection  by  the  user  prior to  any  lifts,  with  all  defects  or  concerns 
+
+being raised immediately. The condition of this lifter should have been noticed and highlighted by the onboard team;  
+
+  There was no on-going maintenance on this kind of equipment and they are used until failure; 
+
+  Had the pallet lifter been entered into the vessel planned maintenance system this would allow for regular inspections to 
+
+take place, with paint and greasing regimes to be implemented as necessary;  
+
+  When  purchasing  lifting  equipment  for  vessel  use,  full  consideration  should  be  given  by  a  competent  person  as  to 
+
+whether or not the item is suitable for the operations and environment in which it will be used onboard. 
+
+ 
+
+Incident 2 
+
+A pallet lifter with a 2.0T SWL was being used to transfer pallets of steel plate on to the main working deck of a vessel. The 
+plate being loaded was delivered on pallets and wrapped with plastic covers. The weight of the load had not been provided 
+by the supplier and was not known to the lifting team prior to the lift.  
+
+This lifting operation involved inserting the pallet lifter forks, and the load being raised slightly to allow  a secondary cargo 
+strap  to  be  positioned  around  the  load  and  prevent  any  movement  during  the  lift.  However,  as  the  load  was  raised 
+approximately six inches off the quayside to attach the cargo straps, the plates moved, sliding forward and to the left of the 
+forks. The pallet lifter and load was then returned to the quay and the forks removed from the pallet. Once the pallet lifter 
+had been removed from the pallet it was evident that the left fork had been twisted due to the load moving and overloading 
+the pallet lifter fork. 
+
+Pallet of steel plate for loading 
+
+ 
+
+After investigation, the following was noted: 
+
+  A  permit  to  work  and  lift  plan  had  been  completed  for  this  operation  but  no  consideration  was  given  to  the  lack  of 
+information about the load to be moved or the limitations of the pallet lifter. This should have been highlighted in the lift 
+plan risk assessment and the toolbox talk prior to moving the pallets. Hazard awareness and correct lifting procedures 
+were not applied during this lifting operation; 
+
+  As the steel plate loads had no clear indication of the weights contained on each pallet, a lifter which has a SWL of 2.0T 
+
+should not have been used without confirmation that the working limits would not be exceeded by the load; 
+
+  Good practice for transporting of plate onto vessels should be to transfer the load into a certified lifting basket ensuring 
+
+the lifting of all plates in a contained and controlled manner. 
+
+7 
+
+  Near Miss during Anchor Line Recovery 
+
+The Marine Safety Forum (MSF) has published the following Safety Flash 11-38 regarding a near miss incident during anchor 
+line  recovery.  A  large  anchor  chain  snapped  and  the  inboard  end  came  back  onto  the  deck  out  of  control,  almost  hitting 
+some of the crew.  
+
+Further information can be found from www.marinesafetyforum.org/upload-files//safetyalerts/msf-safety-flash-11.38.pdf   
+
+8  Poor Condition of Lifting Strops 
+
+The  MSF  has  published  the  following  Safety  Flash  11-39  regarding  lifting  strops  found  in  poor  condition.    Recent 
+audits/inspections have highlighted deficiencies with regards the state of lifting strops which were found to be in a severely 
+deteriorated condition, unfit for purpose and still in service onboard. 
+
+Further information can be found from www.marinesafetyforum.org/upload-files//safetyalerts/msf-safety-flash-11.39.pdf    
+
+Members are also referred to IMCA SEL 019  Guidelines for lifting operations 
+
+ 
+9  Leak of Oil-based Mud from Drain Valve 
+
+The MSF has published the following Safety Flash 11-40 regarding leakage of oil-based mud from a drain valve. This incident 
+had the potential to cause a significant pollution incident and highlights the need for pre-loading checklists to be carried out 
+thoroughly. 
+
+Further information can be found from www.marinesafetyforum.org/upload-files//safetyalerts/msf-safety-flash-11.40.pdf  
+
+10  Biocide Incident   
+
+The MSF has published the following Safety Flash 11-41 regarding a biocide pollution incident. During the treatment of ships 
+fuel  tanks  with  a  biocide  chemical  an  incident  in  which  someone  was  sprayed  around  the  face  and  upper  body  with  the 
+biocide  chemical.  This  resulted  in  eye  abrasion  and  skin  irritation  and  led  to  the  injured  person  being  evacuated  from  the 
+vessel for further medical examination and treatment. 
+
+Further information can be found from www.marinesafetyforum.org/upload-files//notices/msf-safety-flash-11.41.pdf  
+
+ 
+
+

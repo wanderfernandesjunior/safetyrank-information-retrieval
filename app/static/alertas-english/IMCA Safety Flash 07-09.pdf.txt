@@ -1,0 +1,379 @@
+AB 
+
+ 
+
+IMCA Safety Flash 07/09 
+
+Safety Flash 
+
+June 2009 
+
+These  flashes  summarise  key  safety  matters  and  incidents,  allowing  wider  dissemination  of  lessons  learnt  from  them.    The  information  below  has  been 
+provided in good faith by members and should be reviewed individually by recipients, who will determine its relevance to their own operations. 
+
+The effectiveness of the IMCA safety flash system depends on receiving reports from members in order to pass on information and avoid repeat incidents.  
+Please consider adding the IMCA secretariat (imca@imca-int.com) to your internal distribution list for safety alerts and/or manually submitting information 
+on specific incidents you consider may be relevant.  All information will be anonymised or sanitised, as appropriate. 
+
+A  number  of  other  organisations  issue  safety  flashes  and  similar  documents  which may  be  of  interest  to  IMCA  members.   Where  these  are  particularly 
+relevant, these may be summarised or highlighted here.  Links to known relevant websites are provided at www.imca-int.com/links   Additional links should 
+be submitted to webmaster@imca-int.com 
+
+ 
+
+1  Fatal Electrocution 
+
+IMCA  has  learnt  of  a  fatal  incident  in  which  a  person  was  electrocuted.    A  rig  sub-contractor  suffered  fatal  injuries  from 
+electrical shock whilst performing a welding operation.  A lamp used to illuminate the worksite was found to be a potential 
+source of electrical shock as the lamp’s electrical cord was found to have been damaged.  The damage may have been caused 
+by a pinching action of the cord between the loose mounting bracket of the light and the light housing which was observed to 
+be in contact with the victim’s body. 
+
+Damaged electrical cord 
+
+ 
+
+Further investigation revealed the following: 
+
+♦  A  ground  fault  circuit  interrupter  (GFCI)  was  not  utilised  and  the  circuit  breaker  did  not  trip  when  the  incident 
+
+♦  The  lamp  used  was  designed  for  permanent  exterior  mounting  and  had  been  modified  for  use  as  an  interior  portable 
+
+occurred; 
+
+illumination source; 
+
+♦  The approved job safety analysis (JSA) overlooked the potential for electric shock hazards and for cord damage and did 
+
+♦  Sub-contractor personnel had not been effectively supervised; 
+
+♦  An effective pre-job (pre-start) safety discussion had not taken place; 
+
+not address the actual work that was performed; 
+
+♦  Confined space entry was not considered or included in permits; 
+
+♦  The hot work permit review process was not effective. 
+
+ 
+
+The following lessons were learnt: 
+
+♦  When using portable electric tools in potentially  damp areas,  a  GFCI (fixed or portable) should be utilised to protect 
+
+personnel from potential electrical shock; 
+
+♦  All tools and equipment should only be used for their intended and manufacturer’s recommended purpose; any change 
+to  a  tool  or  equipment’s  intended  purpose  should  be  thoroughly  reviewed  and  approved  through  an  effective 
+management of change (MoC) process; 
+
+♦  An effective pre-start meeting should be held with the personnel performing the work to ensure that all hazards have 
+been  identified,  proper  tools  are  being  utilised  and  the  job  scope  is  well  defined  and  understood.    The  supervisor  in 
+charge of the worksite should be responsible for having this meeting.  A field review of the work site should be part of 
+this meeting; 
+
+♦ 
+
+JSAs should be specific to the job being performed.  JSAs should focus on the steps taken to accomplish the task rather 
+than  generalised  statements  that  cover  a  wide  range  of  activities.    JSAs  should  focus  on  hazard  identification  and 
+mitigations for each hazard; 
+
+♦  Established  procedures  for  issuing  and  approving  general  work  permits,  hot  work  permits,  and  confined  space  entry 
+permits should be rigorously followed to ensure necessary steps have been taken to minimise risk of injury, including a 
+survey of the work site by the person in charge. 
+
+2  Electric Shock Near-Miss 
+
+A  member  has  reported  an  incident  in  which  an  employee  sustained  an  electrical  shock  whilst  re-routing  a  work  class 
+remotely operated vehicle (ROV) tether.  The ROV and tether management system (TMS) have separate electrical supplies 
+and separate electrical circuits.  At no point in the operation was power ever supplied to the ROV through the soft tether 
+either deliberately or accidentally. 
+
+The  ROV  electrical  power  was  isolated  and  locked  off  in  order  to  allow  ROV  personnel  to  remove  the  tether  from  the 
+vehicle.  The TMS power supply was not locked off, in order to allow spooling to take place.  Prior to removing the tether 
+from the ROV, technicians used the correct test equipment and earthing equipment to ensure that there was no electrical 
+power at the topside power distribution junction box and at the subsea ROV junction box. 
+
+During  the  rerouting  operation  the  TMS  single  phase  power  was  energised  to  pay  out  the  tether.    At  this  point  an  ROV 
+technician received an electric shock to his wrist between his glove and coverall.  On investigation it was found that, with the 
+TMS  single  phase  power  energised,  360V  AC  was  seen  on  the  vehicle  end  of  the  ROV  umbilical  instrument  conductors.  
+When the TMS single phase was switched off it was then noticed the 360V AC had dropped to zero volts.  All of the wiring 
+was as per specification, no wires were crossed. 
+
+No injury was sustained and no medical treatment was required. 
+
+High voltage (HV) junction box with earthing equipment attached 
+
+ 
+
+Following investigation, the following points were noted: 
+
+♦  A toolbox talk was carried out where the operation and safety aspects were discussed; 
+
+♦  The immediate cause of the electric shock was the ROV technician coming into contact with a conductor at the end of 
+
+the ROV tether; 
+
+♦  This  conductor,  whilst  isolated  from  a  direct  power  source,  was  identified  as  having  an  induced  voltage  present.   The 
+
+voltage was induced in the main lift umbilical on the deck winch; 
+
+♦  One of the functions of the earthing equipment was to tie conductors to earth and eliminate any induced voltage that 
+may be present.  On this occasion, two of the clips of the earthing equipment had become dislodged.  The ‘crocodile’ 
+clip arrangement was found not to be a secure method of attaching such a safety critical device; 
+
+♦  Some  of  the  persons  involved  with  this  earthing  equipment  had  not  fully  understood  the  criticality  of  the  equipment, 
+particularly in the case of high voltage (3000V) and a long umbilical (3300m).  Nevertheless, this equipment was correctly 
+used and all appropriate procedures were followed; 
+
+♦  Personnel  needed  to  be  more  aware  of  induced  voltages  and  their  potential  to  be  fatal.    The  umbilical  manufacturer 
+confirmed  that  the  induced  voltage  found  in  this  tether  was  potentially  fatal  rather  than  superficial  as  some  of  the 
+persons involved had thought. 
+
+The company has made the follow recommendations and corrective actions: 
+
+♦ 
+
+Improve design of earthing equipment in such a way as to remove the possibility of inadvertent disconnection; 
+
+♦  Follow up with the manufacturer to include start up, induced voltage and isolation in training course material; 
+
+♦  Ensure all personnel working on work class ROV systems have completed HV training courses; 
+
+Ensure signage is posted at all high voltage junction boxes warning of HV dangers and necessity to use appropriate earthing 
+equipment. 
+
+3  Lifeboat D-Ring Failure 
+
+Members’  attention  is  drawn  to  the  attached  document  from  the  Marine  Safety  Forum  regarding  the  failure  of  a  lifeboat 
+D-ring. 
+
+4  Worker Fatally Injured During Pipelay Operations 
+
+Members’  attention  is  drawn  to  the  following  safety  flash  from  the  US  Department  of  the  Interior  MMS  (Minerals 
+Management Service for the Gulf Coast Offshore continental shelf), regarding a fatal incident during pipelaying operations. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Marine Safety Forum – Safety Flash 09/12 
+ 
+ 
+Issued:  28th April 2009 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+Subject:  Lifeboat D-Ring Failure 
+  
+ 
+ 
+Summary:   
+A  recent  incident  in  offshore  operations  highlighted  some  actions  related  to  lifeboat/Fast  Rescue 
+Craft (FRC) maintenance that should be taken immediately.  During the incident, the lifeboat fall D-
+ring failed while load testing the lifeboat and wire fall assembly. It was found that the failed D-ring 
+was non-OEM (Original Equipment Manufacturer) and was of welded construction rather than the 
+forged construction originally supplied by the OEM. 
+ACTIONS FOR EACH SPU 
+The immediate actions resulting from this incident are to: 
+ 
+1)  
+
+Only use OEM equipment on new and existing lifeboat/FRC and lifeboat/FRC 
+fall assemblies, except when changes have been subject to the appropriate 
+MOC and approved by the relevant Marine Authority; and 
+
+Conduct all load testing, maintenance and inspection of lifeboat/FRC and 
+lifeboat/FRC fall assemblies using detailed procedures that have been subject to 
+a risk assessment and approved by the relevant Marine Authority. 
+
+ 
+
+ 
+
+ 
+
+ 
+2)  
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ U.S. Department of the Interior 
+ Minerals Management Service 
+ Gulf of Mexico OCS Region 
+
+        Safety  
+             Alert 
+
+Contact:  Manny Gagliano
+(504) 736 2549
+
+MMS 
+
+Safety Alert No. 280 
+May 13, 2009 
+ 
+
+Worker Fatally Struck by Moving Pipe During Pipelay Operations 
+
+A bevel machine operator was fatally injured on a pipelay barge when he was struck by moving 
+pipe during pipelay operations.  An MMS investigation revealed that the conveyor system had 
+become inadvertently energized and advanced pipe toward the ready rack where the bevel 
+machine operator was working.  The moving pipe on the conveyor system struck the bevel 
+machine operator in the back and pinned him between it and the end of a stationary pipe joint on 
+the ready rack. 
+ 
+The MMS investigation identified the following causes of the accident: 
+ 
+1)  Inadequate hazard analyses and failure to adequately implement hazards analyses 
+
+recommendations.  The recommended physical barriers such as guards or handrails in the 
+pinch point area were not installed prior to the accident.   In addition, although close-circuit 
+television cameras were installed as recommended, they were not working on the day of the 
+accident.  
+
+ 
+2)  Failure to adequately implement and adhere to recommendations of the job safety analysis 
+
+(JSA).    The JSA recommended that personnel avoid working in pinch points areas and 
+specifically to stand to the side of the pipe while grinding.  The JSA also indicated that 
+personnel should not walk in pinch point areas, although the victim’s hand tools were stored 
+such that he was required to pass through the pinch point to retrieve them from storage. 
+
+  
+Other contributing causes to the accident included: 
+ 
+1.  The inadequacy of the JSA’s.  Job tasks were often vague rather than specific.  The JSA also 
+did not include important steps in the task sequence, and did not address the  tasks of specific 
+job functions individually or the methods they would use to communicate and coordinate 
+their tasks. 
+
+  
+2.  Inadequate supervision.  The investigation found that it was routine for personnel to walk in 
+and work in pinch point areas near the conveyor system.  MMS could find no evidence that 
+supervisors, who routinely monitored the area, requested or required the crew to cease this 
+practice.   
+
+ 
+
+ 
+
+3.  Lack of a detailed written job description and formal training for bevel machine operators. 
+
+The tasks specific to moving and hand grinding pipe were not included in the bevel machine 
+operators’ job description.  There was also no specific training for the bevel machine 
+operators’ other than on-the-job-training. 
+
+ 
+4.  Failure of the bevel machine operator  to attend safety meetings. There was no evidence that 
+
+the bevel machine operator attended any of the safety meetings. 
+
+ 
+5.  Possible inadequate inspection/maintenance of the conveyor system control panel switches.  
+
+There was no conclusive evidence that proves the condition of a conveyor switch was a 
+contributing factor to the accident.  Third party analysis of the control panel switches after 
+the accident found that a conveyor switch was prone to sticking and had damaged internal 
+components.  This indicated possible lack of inspection and maintenance of the switch. 
+
+ 
+Based on the investigation findings, MMS makes the following recommends to Lessees, 
+Operators, and their contractors during pipelay operations: 
+ 
+
+•  Safety barriers should be installed and maintained on pipe lay vessel conveyor systems to 
+
+limit access to pinch point areas.   
+
+•  Warning signs should be posted to alert personnel of pinch point areas. 
+
+•  Supervisory observations should be conducted more frequently in order to monitor work 
+
+habits of all personnel in all areas, particularly around pipe conveyor systems. 
+
+•  Lessees should review the company’s safety meeting policies with contract personnel and 
+
+express the importance of conducting safety meetings.  The Lessees should also 
+emphasize that documentation of all meetings and those personnel in attendance is 
+required.   
+
+•  Contractors should consider installing CCTV cameras in conveyor system areas to allow 
+
+for additional supervision of operations. 
+
+•  Contractors should provide detailed written job descriptions and implement formal 
+
+training for specific job duties and responsibilities rather than generalized job 
+descriptions that cover several positions.  
+
+• 
+
+Inspection and maintenance guidelines should be provided for all safety equipment in 
+place, and this equipment should be inspected for proper operation prior to the 
+commencement of a project.  Any inoperable equipment should be repaired, replaced, 
+and tested immediately.  Proper documentation of safety equipment inspection, 
+maintenance, repairs, and test results should be maintained. 
+
+ 
+
+ 
+  
+ 
+
+--MMS--GOMR-- 
+
+www.gomr.mms.gov 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+

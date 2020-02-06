@@ -1,0 +1,88 @@
+Safety Alert 
+
+        From the International Association of Drilling Contractors 
+
+ 
+ALERT 14 – 13 
+ 
+
+PRESSURE RELEASE AFTER ICE PLUG REMOVAL RESULTS IN INJURY 
+
+ 
+WHAT HAPPENED: 
+ 
+A  snubbing  crew  rigged  up  on  location.    Set-up  operations  were  completed  for  the  wellhead  stabilizer, 
+snubbing jack, catwalk, pipe racks, pumping unit and primary accumulator.  The crew was in the process of 
+installing  the  snubbing  unit  equalizer  line  and  the  pumping  unit  flow  line.    The  snubbing  unit  operator  was 
+installing  the  equalizer  crossover  into  the  production  casing  valve.    The  casing  valve  handle  was  in,  what 
+was assumed to be, a fully closed position.  The downstream piping assembly was then depressurized and 
+removed. 
+ 
+Upon  removal  of  the  downstream  piping,  the  snubbing  operator  noticed  an  ice  build-up  inside  the  casing 
+valve.  The snubbing operator sprayed methanol to attempt removal of the blockage, but was not successful.  
+The  snubbing  operator  then  used  a  steel  chisel  to  break  up  the  blockage.    At  this  time,  the  snubbing 
+supervisor entered the well head area near the affected production casing valve.  When the ice plug within 
+the casing valve was removed, a high pressure flow of wellbore gas and fluid was released. 
+ 
+The snubbing operator and crew evacuated the area and gathered at the safety meeting point.  A head count 
+revealed that the snubbing supervisor was not present and was still lying in the wellhead area near a crane.  
+The  crew  retrieved  the  snubbing  supervisor  and  controlled  the  well  by  fully  closing  the  production  casing 
+valve. 
+ 
+
+WHAT CAUSED IT: 
+ 
+•  Winter temperatures allowed fluid to freeze and form an ice plug within the production casing valve. 
+•  When  the  production  casing  valve  was  functioned  to  the  close  position,  it  only  went  six  turns  before  it 
+appeared to seat.  The valve was not reopened or reclosed to confirm the starting position of the valve 
+and whether the correct number of turns had been achieved to fully close the valve. 
+
+•  When  the  ice  plug  in  the  production  casing  was  discovered,  crew  members  failed  to  report  the  out-of-
+
+scope condition to the snubbing supervisor/well site supervisor. 
+
+•  The  task  was  not  suspended  and  nor  was  a  pre-job  hazard  assessment  completed  prior  to  attempting 
+
+removal of the ice plug. 
+
+•  Crew members failed to use proper tools or techniques to remove the ice plug from the valve. 
+ 
+
+CORRECTIVE ACTIONS:  To address this incident, this company did the following: 
+ 
+•  The company reminded all employees: 
+
+o  To be extremely aware of potential for ice plug/hydrate build-up in piping systems and the associated 
+
+trapped pressure hazards. 
+
+o  When functioning gate-style valves, ensure the number of turns to open/close are known,  and that 
+
+the proper number of turns can be achieved to confirm the valve is closed. 
+
+o  Always assume that an ice plug within a piping system will contain trapped pressure. 
+o  When out-of-scope operations are encountered during routine tasks, STOP the task and report the 
+
+condition.  DO NOT PROCEED WITH THE TASK. 
+
+o  To always ensure that a site specific hazard assessment is completed to determine a safe course of 
+
+action and the control measures required to mitigate the out-of-scope conditions. 
+
+ 
+Credit to: Enform Safety Alert SA-2014-05.  Also see IADC Safety Alert 13-28 for additional information. 
+ 
+
+The Corrective Actions stated in this alert are one company’s attempts to address the incident,  
+
+and do not necessarily reflect the position of IADC or the IADC HSE Committee. 
+
+This material is presented for information purposes only.  Managers & Supervisors should 
+
+evaluate this information to determine if it can be applied to their own situations and practices 
+
+Copyright  2014 International Association of Drilling Contractors All rights reserved. 
+
+Issued May 2014 
+
+

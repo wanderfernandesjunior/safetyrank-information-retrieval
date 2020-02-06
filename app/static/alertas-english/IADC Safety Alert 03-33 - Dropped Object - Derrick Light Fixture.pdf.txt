@@ -1,0 +1,84 @@
+Safety Alert 
+
+From the International Association of Drilling Contractors 
+
+ 
+
+ 
+ALERT 03 – 33 
+ 
+
+DROPPED OBJECT – DERRICK LIGHT FIXTURE 
+
+ 
+WHAT HAPPENED: 
+ 
+A 41-pound (18 kg) explosion proof 400-watt Mercury Vapor light fixture fell 20 feet (6 meters) from the derrick and landed 
+on  the  rig  floor  in  front  of  the  Drawworks.    The  electrical  cable  pulled  out  of  the  light  leaving  the  cable  energized  in  the 
+derrick.  No injuries were associated with this incident. 
+ 
+WHAT CAUSED IT:   
+ 
+1.  The bolts that connected the light fixture to the bracket, vibrated loose. 
+2.  The light was a new type, and when the light was installed into the derrick a risk assessment was not done to identify 
+
+the potential hazards.  Because of this: 
+•  The safety cable was secured to the bracket, instead of the light fixture. 
+•  There is no means to secure the safety cable directly to the light fixture. 
+
+3.  The loose bolts and the improper manner in which the safety cable was secured to the fixture were missed during the 
+
+weekly derrick inspection. 
+
+4.  During the weekly derrick inspection the inspector noted the safety cable was present, however a detailed inspection 
+
+of the light and how the light was secured was not. 
+
+ 
+CORRECTIVE ACTIONS:  To address this incident, this company issued the following directives and 
+action items: 
+ 
+Directives 
+ 
+1.  Risk assessments must be done when installing new equipment or same-type equipment in a new location to ensure 
+
+all potential hazards are identified and safety measures are in place. 
+
+2.  When  performing  the  weekly  derrick  inspection  the  inspectors  must  carefully  exam  each  item  (lights,  raceways, 
+sheaves, secondary fall protection blocks, etc) and confirm that the item is properly secured to the bracket, and the 
+bracket to the fixture, and that the safety cable is secured in a manner to prevent the fixture and bracket from falling. 
+
+3.  Prior to the purchase of new items that are to be installed overhead it should be confirmed that the item is designed so 
+
+a safety cable may properly be installed to the fixture. 
+
+ 
+Action items 
+ 
+1. 
+
+Inspect all overhead equipment that has the potential to fall (lights, sirens, horns, etc) in the derrick, walkways, living 
+quarters, etc., and ensure the safety cable is secured to the fixture and bracket.  If the safety cable cannot be secured 
+to  the  fixture,  the  equipment  should  be  removed  from  service.    Inspect  all  safety  cables  and  ensure  the  cable  is 
+secured in a manner to prevent the dropped object from falling closer than 6-1/2 feet(1.95 meters) from the deck. 
+
+2.  All overhead equipment must have “double nuts” if possible.  If unable to “double nut” equipment due to design, than 
+
+alternative means (jam nuts, lock washers, cotter pins, etc.) must be utilized to prevent nuts from vibrating loose. 
+
+ 
+Note:  See IADC Alerts – 00 – 05, 00 – 18, 00 – 31, 02 – 04, 02 – 07, 02 – 35, 02 – 38, 03 – 06,  
+
+The Corrective Actions stated in this alert are one company’s attempts to address the incident, and do not 
+
+necessarily reflect the position of IADC or the IADC HSE Committee. 
+
+This material is presented for information purposes only.  Managers & Supervisors should  
+
+evaluate this information to determine if it can be applied to their own situations and practices. 
+
+Copyright © 2003 International Association of Drilling Contractors.  All Rights Reserved 
+
+Issued August 2003 
+
+

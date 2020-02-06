@@ -1,0 +1,63 @@
+Safety Alert 
+
+From the International Association of Drilling Contractors
+
+ 
+
+ 
+ 
+ALERT 03 – 08  
+ 
+
+DROPPED OBJECT – JOINT OF HEAVY WEIGHT DRILL PIPE 
+
+ 
+WHAT HAPPENED: 
+ 
+An  incident  occurred  recently  which  resulted  in  a  lift  sub  backing  out  in  the  elevators  and  a  joint  of  Heavy 
+Weight drill pipe being released.  The drill crew was making up a sub to a single joint of 6-5/8” HW drill pipe. 
+No elevators were available on the rig for the HW pipe size, so a decision was made to use a lift sub to pick-up 
+the HW. The lift sub was made up with chain tongs and "bumped-up" with a hammer. The HW was then picked 
+up in the elevators and moved over a sub and stabbed onto a rotating pin sub that was in the rotary bushing 
+pinhole. The HW was spun-up with a pipe spinner. The torque from the spinner backed out the lift sub from the 
+HW box and the joint of pipe fell across the drill floor. There were no injuries. 
+ 
+WHAT CAUSED IT: 
+ 
+The lift sub was not torqued to the HW Drill Pipe.  The practice of "Hammer Tightening" a connection is not 
+sufficient to withstand the torque and acceleration applied by a power spinner.  The crew was not watching the 
+break for the potential of the lift sub backing out. 
+ 
+CORRECTIVE ACTIONS:  To address this incident, this company did the following:   
+ 
+Instructed Rig Supervisors to:  
+ 
+•  Review this incident with all crews with specific focus on the ineffectiveness of hammer-tight connections 
+
+to withstand the force of power tongs.   
+
+•  Review with crews and modify all JSAs to reflect that all lift subs will be torqued to a minimum 20,000 ft-lb 
+
+prior to being racked in the derrick or being spun with a power spinner.  
+
+•  Review with crews and modify all JSAs to reflect that power-spinning equipment will not be used to make 
+
+up any connection where a "Hammer-up” lift sub is overhead. 
+
+•  Review with crews and modify all JSAs to require a specific individual be assigned to watch the break on 
+
+all lift subs, lift caps, lift nubbins, etc. while being made up either manually or with power tools. 
+
+The Corrective Actions stated in this alert are one company’s attempts to address the incident, and do not 
+
+necessarily reflect the position of IADC or the IADC HSE Committee. 
+
+This material is presented for information purposes only.  Managers & Supervisors should  
+
+evaluate this information to determine if it can be applied to their own situations and practices. 
+
+Copyright © 2003 International Association of Drilling Contractors.  All Rights Reserved 
+
+Issued February 2003 
+
+

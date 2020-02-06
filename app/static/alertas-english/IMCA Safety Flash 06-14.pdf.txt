@@ -1,0 +1,332 @@
+AB 
+
+ 
+
+IMCA Safety Flash 06/14 
+
+Safety Flash 
+
+ April 2014 
+
+These  flashes  summarise  key  safety  matters  and  incidents,  allowing  wider  dissemination  of  lessons  learnt  from  them.    The  information  below  has  been 
+provided in good faith by members and should be reviewed individually by recipients, who will determine its relevance to their own operations. 
+
+The effectiveness of the IMCA safety flash system depends on receiving reports from members in order to pass on information and avoid repeat incidents.  
+Please consider adding the IMCA secretariat (imca@imca-int.com) to your internal distribution list for safety alerts and/or manually submitting information 
+on specific incidents you consider may be relevant.  All information will be anonymised or sanitised, as appropriate. 
+
+A  number  of  other  organisations  issue  safety  flashes  and  similar  documents  which may  be  of  interest  to  IMCA  members.   Where  these  are  particularly 
+relevant, these may be summarised or highlighted here.  Links to known relevant websites are provided at www.imca-int.com/links   Additional links should 
+be submitted to webmaster@imca-int.com 
+
+ 
+
+1  Fatality During Air Diving Operations 
+
+A member has reported an incident in which a diver was killed during air diving operations, whilst working from a four point 
+dive support vessel moored alongside an offshore platform. The incident occurred when the diver was working on attaching 
+a marker buoy near to a leak in a 12” live high pressure (800psi-900psi) water injection pipeline. This was so that the leak 
+could be located later for repairs. The diver was working in 29m of water.  
+
+The diver successfully attached the buoy to the pipeline but it became fouled under the vessel.   In order to free the buoy the 
+diver was asked to move it to the far side of the leak.  At the time of the dive, visibility was reduced as it was approaching 
+sunset; the diver used his hat-mounted light to navigate. In addition, the tremendous noise of the leak on the live pipeline 
+severely hampered voice communications between the diver and diving supervisor.   
+
+Once the diver had detached the marker buoy he started to move along the seabed beside the pipeline.  He was on the same 
+side as the leak.  The diver appeared to look down at some debris and, as he stepped over this material, he was struck by a 
+jet of the high pressure water coming from the damaged pipeline.  All communication with the diver was instantly lost. 
+
+The standby diver was deployed immediately using the second diving basket.  Within 5 minutes he had located the stricken 
+diver who was lying on the seabed.  The dive helmet (KM37) was no longer on the diver’s head but was lying beside him with 
+the neck dam still attached.  Both divers were recovered to surface.  All attempts to resuscitate the injured diver failed; he 
+was later pronounced dead by a doctor who had been helicoptered offshore.    
+
+An independent investigation was conducted by an experienced third party Diving Accident Investigator and various findings 
+were noted, including the following: 
+
+♦  The diving equipment was functional, in-date, certified and compliant with IMCA guidelines at the time of the incident.  
+
+There is no suggestion that diving equipment failure played any part in this incident; 
+
+♦  A generic risk assessment was used; 
+
+♦  A toolbox talk was conducted verbally for the divers and the hazard was informally discussed; 
+
+♦  There was a flow of work instructions that started off via formal instructions contained in the Diving Service Order and 
+email  and  was  changed  later  via  informal,  verbal  commands  and  radio  communications  between  various  parties  as  the 
+work progressed which may have caused some confusion; 
+
+♦  Reduced visibility, poor ambient lighting conditions and extreme noise interfered with conduct of the dive. 
+
+The root cause of the incident was determined to be a lack of understanding of the level of risk posed by the leak. 
+
+Our member learnt the following lessons: 
+
+♦  All supervisory personnel should be conversant with industry guidelines and in this particular instance operations of this 
+
+nature should be conducted in accordance with IMCA D 006 – Diving operations in the vicinity of pipelines:  
+
+− 
+
+“In planning to undertake damage inspection on pressurised pipelines it is important that the assessment of hazards 
+encompasses  not  only  the  possible  failure  modes  but  also  the  associated  risks  to  the  diver,  diving  support  vessel 
+(DSV) and environment.  ROV inspection should be used to conduct any initial inspection.  Diver access should not 
+occur until the pipeline has been depressurised to a level which has been established as safe through the engineering 
+hazard assessment; 
+
+♦  Hazard  identification  and  risk  analysis  must  be  carried  out  before  any  hazardous  activity.  The  results  of  the  hazard 
+
+identification (HAZID) should be used to inform a job safety analysis (JSA) before the diver, if required, is deployed. 
+
+♦  Toolbox talks should be informed by the HAZID and JSA and should include all members of the dive team;  
+
+ 
+♦  Care should be taken to ensure that all members of the dive team have fully understood the hazards and risks involved;  
+
+♦  A  formal  documentary  record  should  be  kept  of  the  toolbox  talks,  including  the  name  of  the  person  conducting  the 
+
+toolbox talk, date, time, dive no., and names of persons attending; 
+
+♦  Communication of work instructions to and from the vessel needs to be formalised and if possible reduced in volume;  
+
+♦  Environmental conditions should be taken into account in any diving operation; 
+
+♦  Following a serious or fatal accident it might be appropriate to consider arranging psychological counselling for all those 
+
+involved. 
+
+♦ 
+
+♦ 
+
+♦ 
+
+Members may wish to refer to the following similar incidents (key words: diver, pipeline, pressure): 
+
+IMCA SF 12/01 – Incident 2: Negative pressure injury to a diver [when breaking containment on subsea pipework]; 
+
+IMCA SF 14/11 – Incident 2: Identification of differential pressures subsea during diving operations; 
+
+IMCA SF 03/03 – Incident 6: Fatality during diving operation [on a pipeline end manifold]; 
+
+2  Near Miss: Strong Sun Glare Contributes to Heavy Impact on Boat Landing   
+
+A member reported an incident in which a CTV (crew transfer vessel) made a heavy impact on a boat landing on an offshore 
+renewable  energy  turbine  tower.  The  weather  conditions  were  1-1.5m  significant  wave  height,  wind  on  the  beam  of  the 
+vessel and a flood tide. On this occasion the sun was low in the sky almost directly behind the turbine tower and was causing 
+significant glare on the water. Although sunshades were in place and adjusted, the Master found it difficult to judge the final 
+approach and landed on the boat landing in excess of the threshold limit of 200 KN. There was no damage to the vessel or 
+injury to crew. 
+
+ View as seen by vessel Master shortly before incident 
+
+ 
+
+Our member’s investigation revealed the following: 
+
+♦  The heavy impact was recorded by the ‘vessel black box’ monitoring equipment; 
+
+♦  Whilst  the  conditions  made  manoeuvring  the  CTV  challenging,  more  than  30  landings  had  already  been  made  without 
+
+incident; 
+
+♦  The glare made it difficult to judge the distance in final approach; 
+
+ 
+♦  The approach could have been delayed to allow for the glare to reduce. 
+
+Our member took the following corrective actions: 
+
+♦  Revision of generic risk assessment for navigation along with procedures for small vessel operations; 
+
+♦  Reminded vessel Masters to take into account all elements of visibility and to adjust their passage plans and approaches 
+
+accordingly, including delaying a pickup, if they deem that the conditions are not safe. 
+
+Members may also refer to the following similar incident (key words: turbine, slip) 
+
+♦ 
+
+IMCA SF 16/13 – Incident 4: LTI: Crewman injured foot during offshore renewables mooring operation 
+
+3  Near Miss Incidents during Personnel Transfer to Offshore Renewable Energy Installations     
+
+A member has reported a number of near miss incidents involving a workboat used to service wind turbine towers in the 
+offshore  wind  farm  sector.  The  near  misses  related  to  marine  growth  on  the  ladders  and  boat  landing  push  tubes,  which 
+became exposed during a period of exceptionally low tides.  
+
+Incidents 1 and 2 
+
+In  the  first  near  miss  incident,  a  technician  slipped  whilst  on  the  rung  of  a  ladder  on  the  side  of  the  turbine  tower,  but 
+recovered – there was no injury or damage. The ladder was cleaned by scraping the rungs with a sharp tool. 
+
+In the second near miss incident, some days later, a technician reported that he had caught his knee on a protruding barnacle 
+on the boat landing push tube. His immersion suit was not damaged and he was not injured. 
+
+Our member noted the following: 
+
+♦  The incidents occurred at a period of extremely low tides which exposed parts of the boat landing normally submerged; 
+
+♦  Not  all  small  workboats  are  fitted  with  pressure  washers  so  cleaning  of  boat  landings  might  have  to  be  performed 
+
+♦  The manual method of cleaning by scraping the ladder rungs with a sharp tool was not effective; 
+
+♦  Although there was no injury or damage, the crew correctly reported the incidents and proposed revised methods of 
+
+manually; 
+
+working. 
+
+The following actions were taken: 
+
+♦  A change to the method of cleaning - using a stiff brush and wiping with a rag: this was implemented the next day; 
+
+♦  Revision of risk assessment for personnel transfer to turbine towers; 
+
+♦  Amendment of company procedures to reflect new technique. 
+
+ Members may also refer to the following similar incidents (key word: ladder): 
+
+♦ 
+
+♦ 
+
+IMCA SF 17/13 – Incident 3: Pilot ladder safety 
+
+IMCA SF 11/11 – Incident 8: Pilot ladder failure 
+
+(Key issues in both – housekeeping and corrosion). 
+
+Members may also refer to the following similar incident (key words: turbine, slip): 
+
+♦ 
+
+IMCA SF 16/13 – Incident 4: LTI: Crewman injured foot during offshore renewables mooring operation. 
+
+Incident 3 
+
+A  technician  transferring  from  a  small  workboat  to  an  offshore  wind  turbine  tower  was  snatched  by  his  fall  arrest  device 
+when the bow fender slipped on the boat landing.  
+
+Our member noted the following: 
+
+♦  The bow slippage was caused by an unanticipated wave trough; 
+
+♦  The wind farm operator had made a recent revision to the transfer method, to ensure that the transferring technicians 
+
+were connected using fall arrest devices when on the deck of the vessel and not to disconnect until back on the deck; 
+
+♦  This revision did not include a step where slack in the tag line is handed to the attending deckhand to ensure that the 
+
+line does not become caught if the bow slips; 
+
+ 
+♦  Concerns were raised about who should be watching for unexpected waves as it seems that everyone was concentrating 
+
+♦  A  similar  incident  had  been  reported  before  but  the  revisions  to  procedures  made  at  that  time  as  a  result  were  not 
+
+on the transfer; 
+
+wholly effective. 
+
+Working in co-operation with the client, our member made a thorough revision of the procedures for personnel transfer in 
+this context, particularly addressing the following:  
+
+♦  Slack in the fall arrest tag line should be handed to the deckhand; 
+
+♦  The Master is responsible for monitoring the passing wave sets and warning the crew of any changes. 
+
+Members may also refer to the following similar incident:  
+
+♦ 
+
+IMCA SF 06/13 – Incident 1: Crew transfer vessel trapped under a boat landing. 
+
+4 
+
+ Navigational Near Miss in Restricted Visibility  
+
+A member has reported a near miss incident in which  an offshore wind farm  crew transfer vessel (CTV)  avoided another 
+vessel  in  its  path  during  a  period  of  restricted  visibility.  The  incident  occurred  when  the  vessel  was  on  passage  along  the 
+designated wind farm traffic route. It entered a fog bank which resulted in visibility being reduced to less than 100m. Upon 
+entering the fog bank, the Master reduced to minimum steerage way, posted a lookout in the wheelhouse and commenced 
+making  sound  signals  as  required  by  International  Maritime  Organization  (IMO)  collision  regulations.  In  addition  to  this,  a 
+second  crew  member  prepared  to  mount  a  watch  on  the  foredeck,  and  the  intercom  external  speaker  was  activated  to 
+monitor for sound signals of other vessels. 
+
+Another  vessel  ahead  was  sighted  at  less  than  100m  away.  It  was  at  anchor  in  the  wind  farm  traffic  route.  The  Master 
+immediately  stopped  the  CTV  and  then  proceeded  slowly  around  the  anchored  vessel,  which  was  not  making  any  sound 
+signals nor was an Automatic Identification System (AIS) signal noted. Although the CTV had radar operating on the 2 mile 
+range  the  anchored  vessel  was  not  detected.  This  incident  was  reported  to  the  UK  Marine  Accident  Investigation  Branch 
+(MAIB) and the client. 
+
+Showing fog from bridge of CTV 
+
+ 
+
+Our member took the following recommendations: 
+
+♦  Amend  the  generic  risk  assessment  for navigation,  along  with  the  company  procedures  for  small  vessel  operations,  to 
+
+reflect this incident; 
+
+ 
+♦  Ensure Masters are aware of their radar settings, as improperly adjusted rain and sea clutter or gain settings can affect 
+
+reception; 
+
+♦  Ensure Masters are able to use known objects such a channel buoys to confirm correct calibration. 
+
+5  Hand Injury - Grease Injection into Small Finger   
+
+The  Marine  Safety  Forum  (MSF)  has  published  the  following  safety  alert  regarding  an  incident  in  which  someone  using  a 
+grease gun managed to inject grease into his arm. The incident occurred when the person was using a hand held grease gun 
+to lubricate various grease points on earth moving plant. Medical attention was sought resulting in a lengthy operation and 
+removal of a vein in the forearm. This was replaced with an artificial vein.  
+
+The safety flash can be downloaded from www.marinesafetyforum.org/upload-files//safetyalerts/msf-safety-flash-14.07.pdf  
+
+This is quite an unusual incident – but it has occurred before. Members may wish to refer to the following:  
+
+♦ 
+
+IMCA SF 16/09 – Incident 3 Hand injury – injection of hydraulic fluid.   
+
+6  Equipment Damaged by Waterspout   
+
+The  United  States  Department  of  the  Interior  Bureau  of  Safety  and  Environmental  Enforcement  (BSEE)  has  published  the 
+following  safety  alert,  regarding  an  incident  in  which  hydraulic  work-over  equipment  was  toppled  over  and  damaged  by  a 
+waterspout which touched down nearby. A significant amount of equipment was lost as a result, but there were no injuries 
+or loss of life. 
+
+The safety flash can be downloaded from www.bsee.gov/uploadedFiles/BSEE/Regulations/Safety_Alerts/SA-310.pdf  
+
+7  Pontoon Compartment Explosion on Floating Roof Tanks 
+
+The International Association of Oil and Gas Producers (OGP) have published the following safety alert regarding an incident 
+in which an explosion occurred. The incident occurred at a location during restoration activities on a crude oil tank which 
+had been cleaned up. Two workers were carrying out hot work on the top of the tank floating roof (cutting rim seal brackets 
+in close proximity to the pontoon). One of the pontoon compartments exploded. Flammable residue was released onto the 
+tank floor causing a small fire. 
+
+In this case, workers sustained moderate injuries. However similar accidents involving hot work on floating roofs after tank 
+clean-up had taken place in the past and led to more severe injuries and fatalities.  
+
+The safety alert can be downloaded from http://info.ogp.org.uk/safety/SafetyAlerts/alerts/Detail.asp?alert_id=255   
+
+Members may wish to refer to the following similar incidents (key words: explosion, pressure, fire, hot work) 
+
+♦ 
+
+♦ 
+
+♦ 
+
+IMCA SF 07/01 – Incident 3 Explosion Caused by Ignition of Paint Vapours 
+
+IMCA SF 05/13 – Incident 1 Explosion causing fatal injury during maintenance of metocean buoy 
+
+IMCA SF 08/13 – Incident 5 Fire Caused by Hot Work. 
+
+

@@ -1,0 +1,84 @@
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Finger Injury results from BOP Handling 
+
+ 
+
+ 
+
+       Alert 4-19 
+ 
+
+ 
+WHAT HAPPENED: 
+ 
+The deck crew was in the process of landing part of the BOP into an open top container in preparation for sea 
+fastening and backload to onshore. As part of the BOP was landed onto the flange, three members of the deck 
+crew had to line up the tie down bolts through the bottom of the flange. During this step of the task, part of the 
+BOP caught the top of the tie down bolt, which in turn was forced down onto the injured persons (IP) right little 
+finger causing a small cut.  
+ 
+IP suffered a small cut to their right little finger that required a visit to the medic.  Medical Treatment included the 
+application of steri-strip’s and over the counter medication.   
+ 
+
+   
+
+ 
+
+CONTRIBUTING FACTORS: 
+ 
+Inadequate design - The design of the container being used for back loading requires the use of bolts to secure 
+the BOP to the bottom plate.  
+Task plan not fit for purpose - The method chosen by the crew to locate the bolts (inserting from below) put the 
+team in the line of fire.  
+Inadequate change management - When identifying that the nuts were seized onto the bolts, the team should 
+have stopped the job and arranged for them to be freed. This would have allowed the bolts to be inserted from 
+above.  
+Inadequate Procedure - The back-loading work guideline was not detailed enough to instruct the crew to the 
+accepted method of locating the bolts.  
+People – Hazard Awareness - Control methods identified in the Toolbox talk were not effective. Pinch points 
+when locating bolts were identified as a hazard, but the team did not put the control methods in place for the task.  
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+LESSONS LEARNED: 
+ 
+
+ 
+
+Back loading work guideline to be reviewed and updated to address correct bolt installation sequence when 
+loading BOP.  
+
+Hands Free Picture Book to be updated to include correct bolt installation sequence.  
+
+Re-enforce requirement for pre-use checks to be carried out on all equipment prior to back load.  
+
+Addition of signage/poster inside container to remind crews of the correct bolt installation sequence.   
+
+IP to present incident and learnings at upcoming safety meeting offshore.  
+
+Lessons to be shared with transport container vendors.  
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+

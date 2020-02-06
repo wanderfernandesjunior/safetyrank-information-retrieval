@@ -1,0 +1,68 @@
+January 19, 2016 
+Washington, DC 
+
+         Inspections and Compliance Directorate 
+
+ 
+
+ 
+ Safety Alert 01-16 
+
+Global Navigation Satellite Systems – Trust, But Verify 
+
+Report Disruptions Immediately 
+
+ 
+Do  you  know  what  equipment  relies  upon  the  U.S.  Global  Positioning  System  (GPS)  signal?    How  would 
+you  respond  if  you  lost  the  signal?    This  past  summer,  multiple  outbound  vessels  from  a  non-U.S.  port 
+suddenly lost GPS signal reception.  The net effect was various alarms and a loss of GPS input to the ship’s 
+surface search radar, gyro units and Electronic Chart Display & Information System (ECDIS), resulting in no 
+GPS  data  for  position  fixing,  radar  over  ground  speed  inputs,  gyro  speed  input  and  loss  of  collision 
+avoidance  capabilities  on  the  radar  display.    Fortunately,  the  vessels  were  able  to  safely  continue  their 
+voyage using radar in heads up display, magnetic compass and terrestrial navigation.  Approximately 6nm 
+later, the vessels’ GPS units resumed operation.  Although the vessels had back-up systems to allow a safe 
+transit,  the  consequences  could  have  been  severe.    These  types  of  events  highlight  the  potential 
+detrimental  impact  to  navigation  caused  by  GPS  interference  or  jamming  and  the  importance  in 
+understanding how your vessel’s or facility’s equipment could be impacted by a loss of GPS signal. 
+ 
+Whether  walking  through  the  city,  driving  across  town  or  navigating  the  world,  Global  Navigation  Satellite 
+Systems (GNSS) have become an integral part of everyday life.  However, at times, the positioning signals 
+may be impacted by interference from both natural and human-made sources.  The most common types of 
+interference  are  reception  issues,  usually  due  to  bad  installations,  poor  antenna  positioning  or  faulty 
+equipment.  Jamming devices (https://transition.fcc.gov/eb/jammerenforcement/fccdhssj.pdf), while illegal in 
+the U.S. and a threat to safety, have been used for nefarious or deceptive purposes.  Interference can also 
+be  unintentionally  caused  when  operating  GNSS  in  close  proximity  to  other  radiating  devices,  such  as 
+amplified  TV  antennas  (see  our  Safety  Alert  11-02).    Therefore,  it  is  important  to  remember  to  use  all 
+available means for navigation and maintain proficiency so you can still navigate should your primary GPS 
+fail. 
+ 
+Indicators of positioning systems interference include an intermittent signal, no signal, or an incorrect signal.  
+Suspected  or  suspicious  disruptions  should  be  reported  immediately.    Critical  information  to  take  note  of 
+during a disruption event includes location, time, and period of outage. 
+ 
+Commercial  operators  are  reminded,  should  your  navigation  or  other  equipment  onboard  (e.g.  AIS)  be 
+impaired as a result of a disruption or interference, this should be reported to the nearest U.S. Coast Guard 
+Captain  of  the  Port,  District  Commander  or  Vessel  Traffic  Center  as  soon  as  possible;  and,  await  further 
+directions (per 33 CFR 164.53). 
+ 
+All  operators  should  be  aware,  vigilant,  and  immediately  report  GPS  disruptions  to  the  U.S.  Coast  Guard 
+Navigation  Center  (NAVCEN).    The  report  will  be  disseminated  to  the  U.S.  Air  Force  GPS  Operations 
+Center and the Federal Aviation Administration in an attempt to identify the problem and correlate with any 
+other  GPS  incidents  in  the  same  general  geographic  location.    Depending  on  the  severity  of  the  report, 
+NAVCEN may refer it to law enforcement and/or other federal agencies for further investigation. 
+ 
+Reporting a disruption - or other navigation hazards or aids to navigation outages - is simple, and can be 
+done electronically (http://www.navcen.uscg.gov - the preferred method) or phone call to the NAVCEN (703-
+313-5900), 24 hours a day. 
+ 
+This  Safety  Alert  is  provided  for  informational  purposes  only  and  does  not  relieve  any  domestic  or 
+international  safety,  operational  or  material  requirement.    Questions  should  be  forwarded  to  the  Coast 
+Guard  Navigation  Center  at  703-313-5900  or 
+the  NAVCEN  website, 
+http://www.navcen.uscg.gov. 
+
+via  email  using 
+
+ 
+
+

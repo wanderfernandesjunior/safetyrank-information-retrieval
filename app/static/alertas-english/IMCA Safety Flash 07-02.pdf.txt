@@ -1,0 +1,123 @@
+AB
+
+ 
+
+IMCA Safety Flash 07/02 
+
+July 2002 
+
+These  flashes  summarise  key  safety  matters  and  incidents,  allowing  wider  dissemination  of  lessons  learned  from  them.    The  information  below  has  been 
+provided in good faith by members and should be reviewed individually by recipients, who will determine its relevance to their own operations. 
+
+The effectiveness of the IMCA safety flash system depends on receiving reports from members in order to pass on information and avoid repeat incidents.  
+Please consider adding the IMCA secretariat (imca@imca-int.com) to your internal distribution list for safety alerts and/or manually submitting information 
+on specific incidents you consider may be relevant.  All information will be anonymised or sanitised, as appropriate. 
+
+A  number  of  other  organisations  issue  safety  flashes  and  similar  documents  which  may  be  of  interest  to  IMCA  members.    Where  these  are  particularly 
+relevant, these may be summarised or highlighted here.  Links to known relevant websites are provided at www.imca-int.com/links   Additional links should 
+be submitted to webmaster@imca-int.com 
+
+ 
+
+Power Management System Dynamic Positioning (DP) Incident 
+
+We have received the following information from a member regarding a power management system (PMS) fault which led to 
+a DP station keeping incident on one of its vessels.  This safety flash outlines the incident, the learnings from the incident and 
+the member’s recommendations. 
+
+1  Operational Status 
+
+At the time of the incident, the member’s vessel was engaged in routine saturation diving operations and two divers were 
+deployed working inside a subsea jacket within the 500 m zone.  The weather conditions were moderate with a wind speed 
+of 30 knots. 
+
+The vessel was operating in DP Class 2 with two 2 stern azimuth thrusters and two bow thrusters running with all enabled in 
+the DP system.  Three diesel generators were running with the bus tie closed and the other generator was on standby. 
+
+The  reference  systems  in  use  at  the  time  were  a  DGPS,  the  port  and  starboard  tautwires  and  a  hydroacoustic  reference 
+system. 
+
+2  The Incident 
+
+At 1000 hours, due to the increasing weather conditions, a decision was made to start another bow thruster and at 1007 
+hours the engineers operated the breaker to start the thruster.  However, it failed to start and within 10 seconds the two 
+stern azimuth thrusters indicated ‘not ready’ and stopped.  The power management system was checked which confirmed 
+that the two stern azimuth thrusters were not in operation.  The vessel started to move ahead under the influence of the 
+wind and seas that were from astern. 
+
+The  Red  Abandon  Dive  Alarm  was  activated  and  the  divers  commenced  returning  to  the  bell.    The  vessel  Master,  upon 
+hearing the alarm, went to the bridge.  The dynamic positioning operator (DPO) changed to DP manual control of the vessel. 
+By this time, the vessel was down wind from her intended position some 15 metres off the platform. 
+
+One  of  the  stern  azimuth  thrusters  started  and  the  DPO  was  able  to  gain  some  control  by  using  full  thrust  astern  and 
+selecting yaw to control heading.  The other stern azimuth thruster attempted to start causing both stern azimuth thrusters 
+to stop.  One stern azimuth thruster again started and the engineers were instructed to leave the situation as it was but the 
+power management again tried to start the other stern azimuth thruster leading to both units again stopping. 
+
+The port and starboard tautwires and bow beacon were deployed ahead of the vessel so that the above movements did not 
+make them out of limits at any time therefore they were always available as references. 
+
+This sequence of events covered approximately six minutes and resulted in the vessel being a maximum of 40 metres from 
+her  intended  location  before  being  driven  back  some  10  metres  towards  the  divers.    At  approximately  1016 hours  the 
+situation was stabilised.  The divers were recovered to the bell and the bell was recovered to surface. 
+
+Safety Flash 
+
+ 
+
+3  Conclusions as to the Cause 
+
+The incident is considered to have been caused by a failure of the timer in the bow thruster when starting it which lead to an 
+overcurrent on the bus bar, which, due to the proximity of the control cables of the control system board to the bus bar, 
+caused a partial failure in one of three cards on the control system board. 
+
+Two  of  these  control  system  cards  initiated  the  start/stop  sequence  for  the  vessel’s  thrusters.    It  was  expected  that  if  a 
+failure occurred on a card the system would fail safe and maintain the status quo, i.e. if thrusters were operating they would 
+continue to operate and the fault in the card would be indicated to the operator. 
+
+The situation was further exacerbated by the fact that the control system cards were not sufficiently segregated and that the 
+damaged  card  contained  the  control  functions  for  both  stern  azimuth  thrusters  which  were  shut  down  as  a  result  of  this 
+incident. 
+
+The DP FMEA for the vessel was reviewed as part of the investigation and it was found that it did not identify the above 
+single point failure.  Neither had this fact been identified internally or during annual DP trials and audits which the vessel had 
+undergone  since  the  FMEA  was  first  written.    The  FMEA  has  been  regularly  reviewed  since  first  being  produced  and  the 
+document was on its fifth revision. 
+
+Until the incident, it had been considered that a failure of this type was not possible on board the vessel.  
+
+4  Recommendations 
+
+As  a  result  of  the  incident  and  the  findings  of  the  investigation,  the  company  involved  has  identified  a  number  of 
+recommendations which are set out below: 
+
+i) 
+
+ii) 
+
+iii) 
+
+The control system cards should be reconfigured to bring about a suitable segregation of critical consumers (thrusters 
+and transformers) to remove the single card failure mode affecting systems on both sides of the switchboard. 
+
+An independent review of the reconfiguration should be undertaken to ensure that the modification is valid and will not 
+bring about other failures that lead to undesired events. 
+
+Protection  systems  should  be  installed  on  the  control  boards  such  that  the  supply  to  the  input  channels  (from  field 
+devices) is galvanically isolated from that used within the boards’ processing package.  The protection system should be 
+demonstrated prior to acceptance. 
+
+iv)  The segregation of the data input cables from diesel generator protection units to the control systems cards should be 
+
+increased to protect the cards from the possibility of an induced current or voltage.  
+
+v) 
+
+An FMEA should be carried out on the reconfigured vessel management system (power management/integrated control 
+systems) and a trials protocol developed to test and validate the FMEA findings.  
+
+vi)  A review of other vessels in the fleet vessel management systems should be undertaken to ensure that similar failure 
+
+mechanisms are not present. 
+
+

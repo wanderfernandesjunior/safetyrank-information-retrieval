@@ -1,0 +1,343 @@
+AB 
+
+ 
+
+IMCA Safety Flash 11/14 
+
+Safety Flash 
+
+    July 2014 
+
+These  flashes  summarise  key  safety  matters  and  incidents,  allowing  wider  dissemination  of  lessons  learnt  from  them.    The  information  below  has  been 
+provided in good faith by members and should be reviewed individually by recipients, who will determine its relevance to their own operations. 
+
+The effectiveness of the IMCA safety flash system depends on receiving reports from members in order to pass on information and avoid repeat incidents.  
+Please consider adding the IMCA secretariat (imca@imca-int.com) to your internal distribution list for safety alerts and/or manually submitting information 
+on specific incidents you consider may be relevant.  All information will be anonymised or sanitised, as appropriate. 
+
+A  number  of  other  organisations  issue  safety  flashes  and  similar  documents  which may  be  of  interest  to  IMCA  members.   Where  these  are  particularly 
+relevant, these may be summarised or highlighted here.  Links to known relevant websites are provided at www.imca-int.com/links   Additional links should 
+be submitted to webmaster@imca-int.com 
+
+ 
+
+1  Failure of Master Link during Subsea Lifting Operations    
+
+An incident has been brought to IMCA’s attention in which a master link (lifting ring) fitted to a 10t air lift bag failed in use 
+during subsea lifting. This style of master links are also fitted to 10t water load bags. 
+
+ 
+
+ 
+
+Showing the overall size of the master link, and the part number embossed on the flat section 
+
+ 
+
+Unique Seaflex has identified the batch number of the parted master link. However, as these links are interchangeable, as a 
+precaution, the company has decided to advise all owners or users of 10t air lift bags and 10t water load bags to inspect the 
+master links fitted to their bags and quarantine any products marked with the following two possible lot numbers (which can 
+be found embossed within the pressed section opposite the weld in the centre of one long side):  
+
+♦ 
+
+IWA; 
+
+♦  LWA 
+
+ 
+Members using 10t air lift bags or 10t water load bags fitted with a red master link marked IWA or LWA should contact Ian 
+Margham  at  ian.margham@uniquegroup.com  for  further  information  in  regards  to  ring  change-out  and  replacement 
+instructions. 
+
+Members may wish to consult the following similar safety flashes: 
+
+IMCA SF 12/11 Incident: 1 – Offshore tank container rigging failure; 
+
+IMCA SF 07/14 Incident: 6 – Master link and sub-link failure on lifting equipment.  
+
+♦ 
+
+♦ 
+
+2  LTI – Hand Severed During Mooring Operations 
+
+An incident has come to IMCA’s attention in which a crewman lost his right hand during mooring operations. The incident 
+occurred  when  a  service  vessel  was  moving  floating  hoses  away  from  an  incoming  tanker  (a  routine  procedure)  using  soft 
+‘pick up ropes’ attached to each hose. Members of the deck crew and Bosun picked up and secured the first pick up rope.  
+They had  difficulty in securing the second hose. The Chief Mate (the  injured party) came down from bridge  and physically 
+took over the job. He held the pick-up rope close to the ‘panama eye’ of the vessel with his arm through the eye of the rope. 
+A sudden sea swell tightened the rope.  His right hand was caught against the hard edge of the panama eye, and severed.  
+
+Showing elbow linked through pick up rope soft eye 
+
+Showing pick-up rope (re-enactment) 
+
+Investigation identified the following root causes: 
+
+♦  The Chief Mate ‘stepping down’ to crew task without preparation; 
+
+♦  A potential high consequence hazard was not recognised; 
+
+ 
+
+ 
+
+ 
+
+ 
+
+♦  The injured person did not follow accepted practice of seamanship for handling mooring lines; 
+
+♦  Others  who  might  have  challenged  him  and  stopped  the  job  were  hindered  by  cultural  norms  regarding  challenges  to 
+
+formal lines of authority. 
+
+Members may wish to refer to the following similar incidents (key words: mooring, hand): 
+
+IMCA SF 02/08 Incident: 1 – Finger injury whilst casting off towing line; 
+
+IMCA SF 07/12 Incident: 3 – Two recent cases of hand and arm injuries; 
+
+IMCA SF 16/13 Incident: 4 – LTI: Crewman injured foot during offshore renewables mooring operation. 
+
+Members  are  reminded  to  encourage  personnel  to  look  after  their  hands  and  arms.  IMCA  produces  a  range  of  safety 
+promotional material on hand and arm safety, as well as a poster on mooring safety: 
+
+IMCA SPC 08 – Watch your hands: you’ve only got one set 
+
+IMCA SPC 11 – Stay safe at the wheel - Cutting and grinding safety  
+
+IMCA SPC 16 – Caught between and pinch points: What you should know and a poster IMCA SPP 09 – Watch out for pinch 
+points 
+
+♦  MCA SPC 17 – Hand-arm vibration: Control the risks 
+
+♦ 
+
+IMCA SPP 12 – Mooring safety 
+
+♦ 
+
+♦ 
+
+♦ 
+
+♦ 
+
+♦ 
+
+♦ 
+
+ 
+3  LTI - Severe Hand Injury in Galley 
+
+An incident has come to IMCA’s attention in which a member of the galley staff sustained severe injuries. The individual was 
+grinding tomatoes when his arm got trapped in the feeder tube of a meat grinder machine. His colleagues freed him from the 
+machine and transported him to the onsite clinic in a private vehicle. The victim received immediate treatment at the onsite 
+clinic. When he was stabilised, he was transferred to a local hospital. During emergency surgery at the hospital his right hand 
+had to be amputated. 
+
+ 
+
+Showing INCORRECT set-up with no plunger or top tray 
+
+Showing CORRECT set-up with plunger and top tray 
+
+ 
+
+The on-going and as yet incomplete investigation has revealed the following: 
+
+♦  The equipment was not properly configured for safe use – see photographs; 
+
+♦  All the necessary guards were not in place; 
+
+♦  The machine was being operated by someone who was not fully familiar with how to operate it; 
+
+♦  The machine was not being used for the purpose for which it was intended. 
+
+The following toolbox talk/safety meeting points were suggested: 
+
+♦  What kind of machinery is there in your galley or catering facility that could cause harm;  
+
+♦  Are these machines being operated safely? Are all the necessary guards in place and functional; 
+
+♦  Are the cooks and galley staff trained and competent to use the machines properly and safely; 
+
+♦ 
+
+Is there anything that can be done to further improve galley safety;  
+
+♦  Are your emergency response procedures adequate to deal with an injury of this sort. 
+
+Members  may  wish  to  refer  to  the  following  similar  incidents  (key  words:  hand,  finger,  guard,  removed,  galley).  All  of  these 
+incidents except the final one have as a cause, failure to have physical safeguards in place to avoid finger or hand injuries. 
+
+♦ 
+
+♦ 
+
+♦ 
+
+♦ 
+
+IMCA SF 06/01 Incident: 3 – Use of hand-held disc grinders; 
+
+IMCA SF 03/05 Incident: 2 – Injury while grinding without PPE;  
+
+IMCA SF 07/12 Incident: 1 – LTI – Incident with circular saw leads to loss of thumb;  
+
+IMCA SF 05/13 Incident 4 – Finger and hand injury [in the galley]. 
+
+Members may wish to make use of the IMCA DVD  ‘Slips, trips and finger nips’ and  also the IMCA pocket card ‘Watch your 
+hands’ www.imca-int.com/media/102527/imcaspc08.pdf.  
+
+ 
+4  Near Miss: Collapse of ROV Launch & Recovery System (LARS)   
+
+A member has reported an incident in which a launch and recovery system (LARS) collapsed causing damage to the sheave, 
+snubber  and  LARS  deck  plates.  The  incident  occurred  during  the  demobilisation  of  an  ROV  spread.  A  Lawson  type  ROV 
+LARS ‘A’ frame was required to be lowered into its stowage position and lifted from the vessel onto the quayside. During 
+this process the ‘A’ frame collapsed.  
+
+During  the  disassembly  of  the  LARS,  existing  company  procedures  were  not  consulted  by  the  ROV  team.  As  a  result,  an 
+ROV supervisor attempted to lower the ‘A’ frame with his own perceived method, and subsequently the ‘A’ frame fell in an 
+uncontrolled manner to the deck. The method of lowering one supporting hydraulic ram at a time whilst the other is firmly 
+bolted into place was not followed. The supervisor removed all the securing bolts from the feet of both the hydraulic rams, 
+believing the system would  gently slide  down into the stowage position. To  aid the initial movement of the rams, the two 
+supervisors stood on the LARS platform and started striking the feet with a sledge hammer, one ram at a time. Once the first 
+ram  moved  approx.  13cm,  they  then  struck  the  second  ram  which  resulted  in  the  ‘A’  frame  collapsing  at  speed.  Both 
+supervisors  were  extremely  fortunate  that  they  were  not  struck  by  the  falling  ‘A’  frame  -  they  were  unharmed,  but  this 
+incident had the potential for serious injury/loss of life. 
+
+ 
+
+ 
+
+‘A’ frame in final position after collapse – showing where bolts 
+
+Position of the two supervisors after ‘A’ frame collapse  
+
+were removed from feet of hydraulic rams 
+
+NB: Actual worksite after event. Yellow arrow denotes direction in which ‘A’ frame collapsed 
+
+Our member’s investigation noted the following: 
+
+♦  An important opportunity to STOP the job was missed – an able seaman not involved in the operation asked the ROV 
+team  if  they  would  like  the  assistance  of  the  vessel  crane  to  support  the  ‘A’  frame  during  the  lowering  process.  He 
+explained that he had seen this done before during other demobilisations and the process the ROV team were using did 
+not seem safe. His advice was not taken - If in doubt STOP the job; 
+
+♦  No  proper  control  of  work  –  no  toolbox  talk,  risk  assessment,  method  statement  or  hazard  identification  and  risk 
+
+assessment (HIRA); 
+
+♦  Procedures were not followed; 
+
+♦  Poor hazard awareness and poor risk perception of the task; 
+
+♦ 
+
+Insufficient management and control of the work; 
+
+♦  Poor supervision and poor leadership at the work site; 
+
+♦ 
+
+Incomplete technical understanding of the equipment;  
+
+♦  Personnel were not competent for the task in hand. 
+
+Our  member  reflected  that  the  reoccurrence  of  dropped  object  incidents  throughout  its  fleet  is  evidence  that  dropped 
+objects  are  still  harming  and  have  the  potential  to  kill.  This  incident  could  have  been  averted  if  the  procedures  had  been 
+followed and the basic safety management tools used to control the works. Active supervision of the work site and control 
+of works by the vessel management is vitally important to ensure safe operations are conducted at all times. 
+
+Members can find many incidents in which the immediate and root causes are inadequate control of work, procedures not 
+followed  etc.  Likewise  there  are  many  dropped  object  incidents,  and  a  number  of  dissimilar  incidents  involving  ROVs  or 
+
+ 
+LARS. It is possible that this incident, in which basic failure to follow common safety procedures led to a serious dropped 
+object near miss involving very heavy equipment, may be without precedent amongst recorded safety flashes.   
+
+Members may wish to refer to the following similar incident in which the root causes identified included: 
+
+♦  The potential of falling objects was not recognised or identified as a foreseeable and  significant risk; 
+
+♦  Work instructions were not followed; 
+
+♦  There was a lack of situational awareness.  
+
+IMCA SF 15/13 Incident: 1 – LTI: dropped object incident. 
+
+5  Hydraulic Hose Failure Caused Collapse of Heavy Haulage Trailer 
+
+A  member  has  reported  an  incident  in  which  a  low  loader  collapsed  at  the  quayside  while  carrying  a  157t  suction  pile. 
+Suction piles (16m x 6m, 157t) were being transported to the quayside upending and storage area. The piles had previously 
+been received at the site and moved from the quayside to their respective storage locations without incident using the heavy 
+haulage  trailer.  Around  20  suction  piles  had  been  delivered  to  the  support  base  and  positioned  in  the  storage  areas.  In 
+readiness  for  mobilisation  and  offshore  installation  the  suction  piles  were  to  be  moved  to  an  area  close  to  the  quayside 
+before being up ended (positioned vertically).  
+
+Whilst  the  trailer  was  moving  at  a  slow  walking  speed  along  the  quayside,  one  of  its hydraulic  hoses  burst.  The  hose  was 
+located near the rear of the trailer. This caused a loss of hydraulic pressure which caused the trailer to sink on the nearside 
+which  in  turn  made  the  load  lower  toward  the  quay.  The  wheels  on  the  trailer’s  offside  lifted  clear  of  the  ground 
+approximately 20cm and on the nearside of the trailer the suction pile saddles made contact with the concrete. 
+
+Following the incident the crawler cranes that were to offload at the upending area were tracked to the location and used to 
+stabilise the load prior to levelling out the trailer (suspension on offside lowered). The trailer was then moved clear and the 
+load transported to the upending area on the cranes.  
+
+Suction pile after hose failure 
+
+Damaged hose 
+
+ 
+
+ 
+
+The following lessons were learnt: 
+
+♦  The  hydraulic  hose  that  failed  was  located  behind  the  wheel  arch  running  along  the  chassis  of  the  trailer;  it  was  quite 
+
+inaccessible for regular cleaning, inspection and maintenance;  
+
+♦  The  location  of  the  hose  was  considered  a  ‘dirt  trap’  which  is  considered  likely  to  have  led  to  its  deterioration  and 
+
+subsequent failure;  
+
+♦  The critical nature of this hose was not understood, and it was not recognised that failure could cause the trailer to list;  
+
+♦  As a consequence of the above, no hose inspection or change out frequency had been specified; 
+
+♦  The potential for failure of the suspension to cause the load to list was not considered at the risk assessment. 
+
+The incident highlights the need for suppliers and operators of specialist equipment to determine fully the potential critical 
+failures  of  equipment  and  take  preventative  measures  accordingly.  Such  failures  should  also  be  considered  as  part  of  risk 
+assessments and, where appropriate, additional controls and required recovery measures agreed prior to the operation. 
+
+ 
+Members may wish to consider the following points when planning similar operations: 
+
+♦  Check planned inspection and maintenance systems of equipment – are critical items considered; 
+
+♦  Risk assessments – are potential failures and effects considered and assessed; 
+
+♦  Consider pre-use checks of similar trailers – can a test to working pressure be conducted prior to loading. 
+
+After  much  searching  using  various  key  words,  it  can  be  established  that  whilst  there  are  a  number  of  incidents  involving 
+hydraulic hose failure, and any number of incidents in which the amongst the causes identified were failure to identify risks, this 
+incident combining the two is without precedent in the IMCA safety flash system. 
+
+6 
+
+Inadequate Snap Hooks on Life Jackets 
+
+The United States Coast Guard (USCG) has published the following safety flash regarding potentially inadequate snap hooks 
+on certain brands of lifejacket. The USCG recommends that owners/operators that have Revere model 198 RT or 160 RT 
+lifejackets or vests on board their vessels inspect them closely for this potential defect. 
+
+For further information please refer to http://wow.uscgaux.info/Uploads_wowII/P-DEPT/0414_snaphook.pdf. 
+
+

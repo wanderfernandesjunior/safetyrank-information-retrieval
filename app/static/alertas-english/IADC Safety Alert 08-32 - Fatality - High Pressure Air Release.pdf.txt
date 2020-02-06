@@ -1,0 +1,78 @@
+Safety Alert 
+
+        From the International Association of Drilling Contractors 
+
+ 
+ALERT 08 – 32 
+ 
+
+FATALITY – HIGH PRESSURE AIR RELEASE 
+
+ 
+
+WHAT HAPPENED: 
+ 
+A fatality occurred when two employees working on a floating MODU, were in the process of disconnecting 
+the  “U”  tube  of  the  number  three  tensioner  from  the  isolation  valve.    This  was  being  done  in  an  effort  to 
+initiate  repairs  to  the  damaged  marine  riser  tensioner  (MRT).    While  removing  the  last  bolt  of  the  isolation 
+valve flange, the internal parts of the valve blew out and struck the injured employee in the head and face.  It 
+was later discovered that they were actually dismantling the valve body because they had misidentified the 
+flange as a separation point for the line.  The employees had inadvertently released the 400 psi of air on the 
+3 inch line and the internal parts of the valve. 
+ 
+
+WHAT CAUSED IT: 
+ 
+•  The subsequent investigation revealed that the crew assigned with the task of preparing the tensioner for 
+removal  did  not  have  full  knowledge  of  the  valve  assembly  and  the  necessity  for  completely  venting 
+pressure on pressurized lines. 
+
+•  A  false  sense  of  security  was  created  by  the  lack  of  pressure  on  the  downstream  vent  valve  on  the 
+
+number three tensioner. 
+
+•  Pressure  was  left  on  the  line  in  the  event  that  a  quick  charge  was  needed  to  put  the  number  seven 
+
+tensioner which was paired with the number three, tensioner into service. 
+
+•  This job was planned to be broken down into three phases.  At the completion of each phase the job was 
+to be stopped and the next phase was to be planned before going forward.  This three phase process did 
+not occur. 
+
+•  The crews were into phase two when the incident occurred and there was no stoppage of work or phase 
+
+planning between phase one and two. 
+
+CORRECTIVE ACTIONS:  To address this incident, this company did the following: 
+  
+• 
+
+Instructed  rig  personnel  that  when  they  are  working  on  pressurized  lines  and/or  pressure  vessels, 
+regardless  of  the  product  contained  the  pressure  is  to  be  vented  before  the  work  begins  and  isolating 
+valves are to be tagged-out . 
+Instructed  supervisory  personnel  to  discuss  this  alert  with  all  employees  offshore  and  in  the  various 
+yards.  
+
+• 
+
+•  Thee company plans to issue further recommendations in the forms of Tech Alerts, addendums to this 
+
+alert and changes to systems affected. 
+
+ 
+
+ 
+
+The Corrective Actions stated in this alert are one company’s attempts to address the incident,  
+
+and do not necessarily reflect the position of IADC or the IADC HSE Committee. 
+
+This material is presented for information purposes only.  Managers & Supervisors should 
+
+evaluate this information to determine if it can be applied to their own situations and practices 
+
+Copyright © 2008 International Association of Drilling Contractors All rights reserved. 
+
+Issued September 2008 
+
+

@@ -1,0 +1,105 @@
+Safety Alert 
+
+From the International Association of Drilling Contractors 
+
+ 
+
+ 
+ALERT 03 – 19 
+ 
+
+LIFTING EYE FAILURE RESULTS IN DROPPED PUMP 
+
+ 
+WHAT HAPPENED: 
+ 
+While a centrifugal pump pedestal was being transferred with the crane from the starboard side main deck to 
+the mechanic shop, the integral-lifting eye forged  into the pump housing failed.   The pump fell on top  of the 
+gravel pack screens that were on the port pipe rack, ready to be run into the well bore.  The lift was well within 
+the SWL for the sling / shackles.  Tag lines were being used to assist with controlling the load movement. All 
+personnel were well away (20 feet) from where the pump fell and struck the tubulars.  There were no injuries 
+to any personnel.  Five gravel pack screens were damaged. 
+ 
+WHAT CAUSED IT: 
+ 
+•  Potential failure of the lifting eye was not identified. 
+•  The housing of the centrifugal pump had a fresh coat of paint, which covered any possible crack indicators 
+
+•  Presently in the Company’s lifting equipment inspection procedures, this type of integral lifting eye is not 
+
+that may have been present. 
+
+specified for Non-Destructive inspection. 
+
+•  The normal operation and life of this type pump housing does not require frequent moving or replacement, 
+
+• 
+
+and it is not unusual for a well-maintained pump to be in service for extended years. 
+JSA and the PTW were properly utilized, but in this case neither of these identified a potential for failure of 
+the integral lifting point. 
+
+•  Closer inspection of the lifting point prior to handling of the pump housing may have identified the failure 
+visually,  but  without  MPI  or  dye  penetrant  inspection  this  would  probably  have  not  been  visible  to  the 
+naked eye. 
+
+ 
+CORRECTIVE ACTIONS:  To address this incident, this company did the following:   
+Instructed Rig Personnel:   
+ 
+•  Do not  use  individual eyebolts for lifting coupled equipment.  Eye bolts and the  threaded  holes for them 
+are normally meant to lift that individual component only, not an assembled unit or coupled components.  
+Lifting eyes that are built into or integral to cast iron housings are always susceptible to crack failure from 
+impact.  The  cast  components  should  be  checked  by  dye  penetrant  prior  to  lifting  the  equipment.    Care 
+should be taken with all lifts and avoidance of personnel and equipment considered when a lift is made. 
+
+•  Revised all JSAs of specific jobs to identify possible integral lifting eyes for potential risk and failures. 
+•  Review  safe  lifting  practices  when  handling  ancillary  equipment  that  is  not  normally  moved  on  a  routine 
+
+basis to include close inspection of the lifting attachment point. 
+
+•  Perform  onboard  dye  penetrant  inspection  of  all  equipment  that  has  dedicated  lift  points  prior  to 
+
+commencing operations, which includes moving equipment with integral lifting points. 
+
+•  Determine different slinging methods/lifting points if applicable and make sure that the sling and shackles 
+
+are in excellent shape. 
+
+•  All JSAs need to reflect this Alert.  This should apply to all lifts.  
+
+The Corrective Actions stated in this alert are one company’s attempts to address the incident, and do not 
+
+necessarily reflect the position of IADC or the IADC HSE Committee. 
+
+This material is presented for information purposes only.  Managers & Supervisors should  
+
+evaluate this information to determine if it can be applied to their own situations and practices. 
+
+Copyright © 2003 International Association of Drilling Contractors.  All Rights Reserved 
+
+Issued May 2003 
+
+Safety Alert 
+
+From the International Association of Drilling Contractors 
+
+ 
+
+ 
+
+The Corrective Actions stated in this alert are one company’s attempts to address the incident, and do not 
+
+necessarily reflect the position of IADC or the IADC HSE Committee. 
+
+ 
+
+This material is presented for information purposes only.  Managers & Supervisors should  
+
+evaluate this information to determine if it can be applied to their own situations and practices. 
+
+Copyright © 2003 International Association of Drilling Contractors.  All Rights Reserved 
+
+Issued May 2003 
+
+

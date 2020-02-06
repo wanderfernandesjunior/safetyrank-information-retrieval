@@ -1,0 +1,109 @@
+Safety Alert 
+
+        From the International Association of Drilling Contractors 
+
+ 
+ 
+ALERT 05 – 32 
+ 
+
+NEAR MISS – DROPPED OBJECTS – UNSECURED 
+
+MARINE RISER INSERTS 
+
+ 
+WHAT HAPPENED: 
+ 
+The driller was using the top drive system to pick up a 50-foot slick pup joint of marine riser from the raised 
+catwalk.  When the riser reached an angle of about 30 degrees, two riser inserts fell about 15 to 20 feet to 
+the drill floor.  The pup joint was lowered back to the deck.  No one was injured when the riser inserts fell. 
+ 
+
+The 23-pound inserts should be held in place by circlips.  When the riser joints are made up, the riser bolts 
+screw  into  the  inserts,  connecting  the  joints  together.    The  riser  joints  had  recently  had  an  annual  MPI 
+inspection by a third party inspector.  The inserts and circlips were removed for the inspection.  The inserts 
+were reinstalled: the riser protector was then put in place.  The riser was not inspected prior to picking it up 
+from the deck to the catwalk as the riser is taken directly from the riser rack to the catwalk using the gantry 
+crane.  Upon inspection, it was found that the other four inserts had no circlips installed to hold the inserts in 
+place.   
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+WHAT CAUSED IT: 
+ 
+1.  During the inspection of the riser the supervisor was involved in and supervising several jobs at the same 
+
+ 
+
+ 
+
+time. 
+
+2.  There was a breakdown in communication or lack of information between the men cleaning and 
+
+inspecting the riser and the individual or individuals reinstalling the inserts at the time of the inspection. 
+3.  The JSA for picking up and running the riser did not state that the inserts should be checked to be sure 
+
+they are secure before picking up each joint from the catwalk.  
+
+4.  The drill crew thought the inserts were secure and therefore didn’t inspect them before picking the riser 
+
+up from the catwalk. 
+
+The Corrective Actions stated in this alert are one company’s attempts to address the incident,  
+
+and do not necessarily reflect the position of IADC or the IADC HSE Committee. 
+
+This material is presented for information purposes only.  Managers & Supervisors should 
+
+evaluate this information to determine if it can be applied to their own situations and practices 
+
+Copyright © 2005 International Association of Drilling Contractors All rights reserved. 
+
+Issued September 2005 
+
+Safety Alert 
+
+        From the International Association of Drilling Contractors 
+
+ 
+ 
+ 
+CORRECTIVE ACTIONS: To address this incident, this company issued the following: 
+ 
+1.  Revise the JSA for running of riser to include inspection on the catwalk of all riser inserts to verify that 
+
+the circlips are installed and the inserts are secure.  
+
+2.  Revise  the  maintenance  plan  for  annual  the  MPI  inspection  of  riser  inserts  to  include  a  checklist  and 
+sign-off  by  a  responsible  person,  such  as  the  OIM  or  Subsea  Engineer,  to  show  that  the  circlips  have 
+been installed for each riser joint. 
+
+3.  Ensure  that  supervisors  are  not  over-tasked,  and  if  they  are,  add  additional  supervisory  support  to 
+
+ensure that the proper level of task supervision is provided. 
+
+ 
+
+The Corrective Actions stated in this alert are one company’s attempts to address the incident,  
+
+and do not necessarily reflect the position of IADC or the IADC HSE Committee. 
+
+This material is presented for information purposes only.  Managers & Supervisors should 
+
+evaluate this information to determine if it can be applied to their own situations and practices 
+
+Copyright © 2005 International Association of Drilling Contractors All rights reserved. 
+
+Issued September 2005 
+
+

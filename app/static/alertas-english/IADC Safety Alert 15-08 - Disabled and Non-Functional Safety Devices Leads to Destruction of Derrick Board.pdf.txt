@@ -1,0 +1,57 @@
+Safety Alert 
+
+        From the International Association of Drilling Contractors 
+
+ 
+ALERT 15 – 08  
+ 
+
+DISABLED AND NON-FUNCTIONAL SAFETY DEVICES LEADS TO DESTRUCTION 
+
+OF DERRICK BOARD 
+
+ 
+
+ 
+WHAT HAPPENED: 
+Recently a directional driller was having trouble keeping a tool face and told the driller to work the pipe all the 
+way  up  and  back  down  again.  The  stand  had  been  drilled  almost  all  the  way  down  and  the  elevators  had 
+been  kicked  out  over  the  mousehole.  The  driller  picked  up  off  bottom  and  hit  the  link  tilt  joy  stick  with  his 
+hand  in  an  attempt  to  float  the  elevators  in,  but  did  not  notice  that  the  elevators  did  not  float.  The  light 
+attached to the top drive console that flashes when the link tilt is not in float was not working at this time. The 
+driller worked the drill string up to the maximum height and then started slacking off. On the way down the 
+elevators sat down on the diving board bending it down. The Tac II or Anti-collision system mounted in the 
+top house that functions as an electronic crown-o-matic would have shut down the rig when the link tilt was 
+extended above a certain height, but it had been manually turned off. 
+ 
+WHAT CAUSED IT:  
+The driller did not make an attempt to latch the elevators around the drill pipe as per company policy when 
+working pipe above the A-legs.  The anti-collision system had been manually turned off.  There was blatant 
+disregard for alarms and defenses designed to prevent such an incident. 
+ 
+CORRECTIVE ACTIONS:  To address this incident, this company did the following: 
+  
+1. Culture: The company will not tolerate this level of blatant disregard for the defenses we have installed. 
+Drillers and Rig Managers will be held accountable if these defenses are not utilized. Drillers must report if 
+any of these items are not working to the Rig Manager. Rig Managers should have intensified oversight each 
+time they are on the rig floor ensuring that everything is properly working and our policies are being followed. 
+  
+2. Process: We are adding a new process defense on our Promptt system which will be under Tasking will 
+consist  of  7  questions  that  the  Driller  will  answer  each  tour  about  our  vital  defenses.  After  he  answers  the 
+questions the Driller will sign off on it and will be held accountable for any discrepancies. 
+ 
+ 
+
+The Corrective Actions stated in this alert are one company’s attempts to address the incident, and do not 
+
+necessarily reflect the position of IADC or the IADC HSE Committee. 
+
+This material is presented for information purposes only.  Managers & Supervisors should evaluate this information to determine if it can 
+
+Copyright  2015 International Association of Drilling Contractors All rights reserved. 
+
+be applied to their own situations and practices 
+
+Issued October 2015 
+
+

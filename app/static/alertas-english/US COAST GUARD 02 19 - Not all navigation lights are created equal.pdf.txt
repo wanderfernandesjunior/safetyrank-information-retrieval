@@ -1,0 +1,93 @@
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+March 14, 2019  
+Washington, DC 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Safety Alert 02-19 
+
+ 
+
+Not all navigation lights are created equal. 
+
+Navigation  lights  intended  for  use  on  power  driven  vessels  may  be  different  from  navigation  lights 
+intended for use on sailing vessels. Although the horizontal arc of visibility is the same for all lights, the 
+vertical divergence (i.e. vertical arc of visibility) requirements for lights on vessels under sail are larger 
+to  accommodate  greater  heeling.   Manufacturer  labeling may not  discriminate  between  the  different 
+requirements.  Navigation lights that claim compliance with the navigation rules1 may meet the vertical 
+visibility requirements for a power driven vessel, however, they may not comply with the vertical visibility 
+standards for sailing vessels.  Manufacturer labeling may not indicate that the lights are designed for 
+use on power-driven vessels only. 
+ 
+Annex  I  (COLREGs  section  10  and  Inland  33  C.F.R.  part  84.16  “Vertical  sectors”)  prescribes  the 
+degrees and intensities that navigation lights must meet on the vertical plane.  Many boat owners may 
+not be aware of the +/- 25° vertical light divergence requirement for sailing vessels, a 17.5° increase 
+from the power-driven vessel standard.  Installing a navigation light, designed for use on a power driven 
+vessel,  on  a  sailing  vessel  may  result  in  the  light  losing  visibility  when  the  vessel  heels beyond  the 
+narrower  +/-  7.5°  vertical  divergence  angle  established  for  power-driven  vessels.  A  sailing  vessel 
+operator in this situation would likely not realize that the sailing vessel’s lights were not visible when 
+heeling beyond 7.5°. 
+ 
+
+What does this mean?  
+If  your  sailboat  does  not  have  the  correct  lights  (sidelights,  masthead  lights,  all-round  lights,  and/or 
+combined  lantern)  and  it  heels  past  a  certain  degree,  it  may  not  be  observable  by  other  vessel 
+operators. 
+                                                           
+1 The International Maritime Organization Convention on the International Regulations for Preventing Collisions at Sea, 1972 
+(COLREG 72) and 33 Code of Federal Regulations part 83 through 88. 
+
+ 
+
+ 
+
+ 
+Why is that important? 
+You may not know that other vessels cannot see you due to the heel of your vessel.  Failure to operate 
+with the correct navigation lights may create a situation where you mistakenly believe another mariner 
+is able to ascertain your vessel’s aspect or operational condition, which increases risk of collision. 
+ 
+
+ 
+
+ 
+
+ 
+Although a navigation light designed for a sailing vessel will not meet the vertical visibility requirements 
+for  a  power  driven  vessel,  it  does  not  pose  a  commensurate  safety  concern  (see  diagram  above).  
+Manufacturers should be aware of the larger vertical visibility requirement for lights installed on sailing 
+vessels.  Likewise, sailing vessel operators and vessel repair facilities should ensure the installed lights 
+meet  the  applicable  requirements  in Annex  I.    Since  not  all  navigation  lights  are  designed  similarly, 
+ensure that when you install a navigation light it is USCG certified for the length and type of boat.  Such 
+information should be readily available from reputable sources such as the light or vessel manufacturer. 
+ 
+
+This  Safety  Alert  is  provided  for  informational  purposes  only  and  does  not  relieve  any  domestic  or 
+international safety, operational, or material requirement. Developed and distributed by the Office of 
+Navigation Systems. Questions may be sent to cgnav@uscg.mil. 
+
+ 
+
+

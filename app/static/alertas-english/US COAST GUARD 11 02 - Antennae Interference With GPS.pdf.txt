@@ -1,0 +1,58 @@
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+November 15, 2002 (reformatted 2014) 
+Washington, DC 
+
+         Inspections and Compliance Directorate 
+
+      Safety Alert 11-02 
+ 
+
+TELEVISON ANTENNAE INTERFERENCE WITH GPS 
+
+UPDATE 12/16/02 Please note corrected Shakespeare Corporation model numbers below. 
+
+It has come to the attention of the U.S. Coast Guard and Federal Communications Commission 
+that certain consumer electronics-grade active VHF/UHF marine television antennas are causing 
+operational degradation in the performance of Global Positioning System (GPS) receivers. This 
+interference may be realized as a display of inaccurate position information or a complete loss of 
+GPS receiver acquisition and tracking ability. The interference is not limited to the GPS equipment 
+onboard the vessel with the installed active marine television antennae. There have been reports 
+of interference occurring on other vessels and installations operating up to 2000 feet away from 
+vessels using such antennas. 
+
+In one particular case, the interference caused the position of the vessel as displayed on the 
+electronic chart to move erratically and dramatically often across large expanses of land. As can be 
+expected, various data displays indicated erroneous information such as excessive speeds. In 
+these instances the problem would occasionally correct itself while at other times required resetting 
+the system. To the vessel's crew these annoyances were frustrating and caused concerns that 
+perhaps less obvious inaccuracies were occurring. Ultimately this affected their confidence in the 
+performance of the GPS and Electronic Chart Display and Information System.If you are 
+experiencing recurring outages or degradation of your GPS receiver operation you should perform 
+an on-off test of your TV antenna. If turning off the power to the antenna results in improvement in 
+the GPS receiver performance, the antenna may be the source of interference in the GPS band. In 
+that case, you should contact the manufacturer of the antenna and identify the symptoms.  
+
+If the test is not positive and the GPS interference persists, contact the watchstander at the Coast 
+Guard Navigation Information Service at nisws@navcen.uscg.mil / 703.313.5900.Antennae models 
+identified during investigations of GPS interference: 
+
+TDP (Tandy Distribution Products) Electronics - MINI STATE Electronic Amplified UHF/VHF TV 
+Antenna - Models 5MS740, 5MS750, 5MS921  
+Radio Shack Corporation - Long Range Amplified Omni Directional TV Antenna - Model 15-1624 
+Shakespeare Corporation - SeaWatch - Models 2040/Code Date 02A00, 2050/Code Date 03A00 
+(Code Dates are found on the antenna power supply.) 
+
+This  safety  alert  is  provided  for  informational  purpose  only  and  does  not  relieve  any  domestic  or 
+international safety, operational or material requirement. Developed by the Office of Investigations 
+and Casualty Analysis. For questions or concerns please email hqs-pf-fldr-cg-inv@uscg.mil.  
+
+1 
+
+

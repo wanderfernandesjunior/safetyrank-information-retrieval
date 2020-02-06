@@ -1,0 +1,245 @@
+AB 
+
+ 
+
+IMCA Safety Flash 11/11 
+
+October 2011 
+
+These  flashes  summarise  key  safety  matters  and  incidents,  allowing  wider  dissemination  of  lessons  learnt  from  them.    The  information  below  has  been 
+provided in good faith by members and should be reviewed individually by recipients, who will determine its relevance to their own operations. 
+
+The effectiveness of the IMCA safety flash system depends on receiving reports from members in order to pass on information and avoid repeat incidents.  
+Please consider adding the IMCA secretariat (imca@imca-int.com) to your internal distribution list for safety alerts and/or manually submitting information 
+on specific incidents you consider may be relevant.  All information will be anonymised or sanitised, as appropriate. 
+
+A  number  of  other  organisations  issue  safety  flashes  and  similar  documents  which may  be  of  interest  to  IMCA  members.   Where  these  are  particularly 
+relevant, these may be summarised or highlighted here.  Links to known relevant websites are provided at www.imca-int.com/links   Additional links should 
+be submitted to webmaster@imca-int.com 
+
+ 
+
+1  Failure of Pressure Washer  
+
+A member has reported an incident in which a Karcher HDS1195 pressure washer failed when a technician was conducting a 
+test run after maintenance.  The model involved was a portable unit designed for domestic and industrial use, and was three 
+years old.  A technician had completed the replacement of an electrical switch, and was checking that the switch was working 
+correctly.  On successful completion of the tests, the unit was powered up to ensure it was fully operational.  The technician 
+saw water emerging from the nozzle of the cleaning gun, and proceeded to shut down power to the washer.  As this was 
+done, there was a loud bang and the hatch for the boiler was blown off into the air.  The technician received two small cuts 
+to the face and minor droplet burns to the right arm. 
+
+Following investigation, the following was revealed: 
+
+  A pressure relief valve, designed to prevent system overpressure, was found to be corroded and unserviceable; 
+
+  A switch, designed to regulate the boiler, was also found to be defective.  As a result, overpressure within the system 
+
+caused the heating coil to rupture, and the escaping water and steam blew the hatch off the boiler unit and into the air. 
+
+The following recommendations were: 
+
+  A thorough inspection of similar portable pressure washing devices, particularly those using a heating system, would be 
+
+  Portable pressure washing devices should be part of the planned maintenance schedule. 
+
+beneficial; 
+
+ 
+
+Pressure washer with boiler hatch missing 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+2  Equipment Damage – Dropped ROV/Tether Management System (TMS) 
+
+A  member  has  reported  an  incident  in  which  an  ROV  was  dropped  to  the  deck  from  between  1.5m  (metres)  and  2.0m, 
+resulting in significant damage. The work-class ROV was being launched via the launch and recovery system (LARS) A-frame 
+when the LARS operator failed to recognise that both latches were not engaged. Visual inspection had only been conducted 
+on the aft latch. The umbilical was not managed effectively resulting in unnecessary slack which allowed the system to fall the 
+1.5-2m to deck. 
+
+The following corrective actions were taken and a number of recommendations were made: 
+
+  As an interim measure, an audible alarm indicator was installed to confirm and notify that the latch mechanism has been 
+
+ 
+
+engaged. This alarm sounds for 7 seconds; 
+
+  Markers were painted on each latch to clearly identify the latch position; 
+
+  Cameras were installed to view the latch position;  
+
+  Additional communication checks were implemented and recorded;  
+
+  Task job safety analysis (JSA) was updated to reflect additional control requirements.  
+
+The following further preventative actions were undertaken: 
+
+  An engineering review of this particular system to include development of an interlock system that would prevent over 
+
+boarding or recovery of ROV unless the latch mechanism was engaged; 
+
+  An  engineering  review  of  all  ROV  LARS  operations  within  the  company  to  identify  opportunity  for  improvement  and 
+
+potential hazard impacts.  
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+3  Grinding Disc with Defects 
+
+A member has reported an incident in which a welder discovered a defect in a new grinding disc. When grinding, the defect 
+could have resulted in the disc cracking  leading to possible serious injury or damage. The defect seemed to be a disc steel 
+inner ring that had melted into the disc during fabrication. 
+
+It  was  noted  that  safe  grinding  starts  and  ends  with  a  visual  inspection  of  the  grinding  equipment.  The  welder  followed 
+recommended process and identified a defective disc before it was used.  
+
+ 
+
+Iron ring melted into the disc 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Top side of grinding disc with no marks of defect 
+
+4  Gas Detector Safety Alert 
+
+The UK Health and Safety Executive (HSE)  has issued an alert relating to gas detectors, following investigations by the UK 
+HSE  into  the  Status  Scientific  Controls  portable  gas  detector  type  Mentor  PGD2.    It  has  been  discovered  that  in  certain 
+circumstances these instruments could continue to remain active when there is insufficient battery power for them to work 
+accurately. 
+
+Further information can be found from www.hse.gov.uk/safetybulletins/gasdetectors.htm  
+
+ 
+
+ 
+5  Collision Between OSV and Barge  
+
+The Australian Transport Safety Board (ASTB) has published a report into a collision in port between an OSV and a barge. 
+Both vessels suffered minor damage as a result of the collision but there were no injuries or pollution. 
+
+Further information can be found from www.atsb.gov.au/media/3442445/mo2010006.pdf 
+
+6  Oil Spill in Port whilst Discharging Waste Oil    
+
+The Marine Safety Forum has published  Safety Flash 11-26 (attached) regarding an oil spill in port which occurred whilst a 
+vessel  was  discharging  waste  oil.  The  root  causes  of  the  incident  were  considered  to  be  a  failure  to  follow  established 
+procedures.  
+
+Further information can be found from www.marinesafetyforum.org/upload-files//safetyalerts/msf-safety-flash-11.26.pdf  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+7  Fire Extinguisher Recall – Faulty Equipment 
+
+The Marine Safety Forum has published Safety Flash 11-27 (attached) regarding faulty fire extinguisher equipment.   
+
+Further information can be found from www.marinesafetyforum.org/upload-files//safetyalerts/msf-safety-flash-11.27.pdf. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+8  Pilot Ladder Failure 
+
+The  Marine  Safety  Forum  has  published  Safety  Flash  11-29  (attached)  regarding  a  recent  incident  in  which  a  pilot  ladder 
+parted whilst the pilot was attempting to board the vessel by means of this ladder. The pilot fell backwards onto the deck of 
+the pilot boat and suffered injuries as a result.   
+
+Further information can be found from: www.marinesafetyforum.org/upload-files//safetyalerts/msf-safety-flash-11.29.pdf. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Safety Flash 
+
+ 
+
+

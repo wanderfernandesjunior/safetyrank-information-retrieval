@@ -1,0 +1,128 @@
+Safety Alert 
+
+        From the International Association of Drilling Contractors 
+
+ 
+ALERT 09 – 15 
+
+NEAR MISS – DROPPED CASING WHEN 
+
+ELEVATORS NOT LATCHED CORRECTLY 
+
+WHAT HAPPENED: 
+ 
+A joint of 13 3/8 inch casing fell down the v-door and continued off the catwalk when the Single Joint Casing 
+Elevators  (SJE)  were  not  latched  and  pinned  correctly.    The  incident  occurred  on  the  60th  joint  of  casing 
+being run.  A check of the SJE after the incident verified that the elevators DID NOT FAIL and that the cause 
+of  the  incident  was  induced  by  human  error.    The  investigation  team  established  that  the  SJE  were  only 
+partially latched.  This left enough room to insert the pin behind the latching device instead of in its proper 
+position in front of the latching device and acting as a retaining safety pin. The safety retainer pin was still 
+inserted after the incident.  The latcher on the rig floor did not know the elevators were not fully latched. 
+ 
+With the winch line and sling removed from the joint of casing the driller was signaled to pick up the casing.  
+When the weight was taken up on the SJE under the collar of the casing the SJE opened and the casing fell 
+out and eventually came to rest against the wire line unit off the catwalk. 
+ 
+The consequence of this incident was slight damage to the wire line unit with the potential for a fatality.  
+
+Elevators after the incident.  Note the safety 
+pin still in the elevators.   
+
+Recreation:  Note the latch partially closed 
+
+with pin incorrectly inserted. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Location of the casing after the incident. 
+
+Correct latching and pinning of elevators.  
+
+Note pin outside elevator latch. 
+
+ 
+
+The Corrective Actions stated in this alert are one company’s attempts to address the incident,  
+
+and do not necessarily reflect the position of IADC or the IADC HSE Committee. 
+
+This material is presented for information purposes only.  Managers & Supervisors should 
+
+evaluate this information to determine if it can be applied to their own situations and practices 
+
+Copyright  2005 International Association of Drilling Contractors All rights reserved. 
+
+Issued May 2009 
+
+Safety Alert 
+
+        From the International Association of Drilling Contractors 
+
+ 
+WHAT CAUSED IT: 
+ 
+-  The  driller  was  not  able  to  see  the  casing  on  the  v-door  or  the elevators  from  the  drillers  console.    His 
+vision was obstructed by four stands of 8 inch Bottom Hole Assembly (BHA) and four rows of drill pipe, 
+which was stacked in the drillers side of the fingers because the off driller side was full of drill pipe.  The 
+driller relied on “thumbs up” to pick up on the blocks. 
+It is not possible for the latch to open on the SJE if latched and pinned correctly.  It is possible to not fully 
+latch the SJE allowing sufficient room to insert the retainer pin behind the latch. 
+
+- 
+
+-  There was no second person assigned to check if the SJE were latched and pinned correctly. 
+-  The  JSA,  which  was  reviewed  prior  to  commencement  of  the  job,  was  a  generic  JSA  and  made  no 
+
+reference to the hazard of the elevators not latching or the requirement for a second checker.  
+
+-  The rig was not equipped with any form of secondary safety device (i.e. stopper bar at the base of the v-
+
+door) to prevent casing etc. from sliding down the v-door through the catwalk as it did in this case.  
+
+CORRECTIVE ACTIONS:  To address this incident, this company did the following: 
+ 
+-  Single Joint Elevators were changed out for a type considered to have a better latching device (i.e. pin 
+
+inserted through latch). 
+
+-  Procedures to be reviewed and amended so that 
+
+o  A second person is assigned to double check the elevator is latched correctly and the pin is inserted 
+
+o  Driller  must  have  a  clear  view  to  the  v-door  at  all  times.    Where  racking  pipe  in  the  fingers  will 
+prevent  this  the  pipe  should  be  racked  differently  to  allow  a  clear  view  or  they  should  be  laid  out 
+sideways when this is not achievable. 
+
+-  A rig specific JSA is to be developed which outlines all the potential hazards identified in the investigation 
+
+correctly. 
+
+report. 
+
+-  A stopper device design is to be agreed by Management which, when fabricated and fitted, will prevent 
+pipe or casing travelling down the catwalk uncontrollably if there was any future elevator failure or human 
+error. 
+
+ 
+
+ 
+
+The Corrective Actions stated in this alert are one company’s attempts to address the incident,  
+
+and do not necessarily reflect the position of IADC or the IADC HSE Committee. 
+
+This material is presented for information purposes only.  Managers & Supervisors should 
+
+evaluate this information to determine if it can be applied to their own situations and practices 
+
+Copyright  2005 International Association of Drilling Contractors All rights reserved. 
+
+Issued May 2009 
+
+

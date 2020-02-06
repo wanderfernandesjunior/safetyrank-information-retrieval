@@ -1,0 +1,90 @@
+Safety Alert 
+
+        From the International Association of Drilling Contractors 
+
+ 
+ALERT 08 – 14 
+ 
+
+MUD PUMP MAINTENANCE RESULTS IN SERIOUS INJURY 
+
+ 
+WHAT HAPPENED: 
+ 
+The swab in the #1 mud pump needed changing so Pump #1 was shut down and the #2 pump was placed in 
+service.  A lock was placed on the #1 pump circuit breaker.  No other Lockout/Tagout (LOTO) requirements 
+were performed.  The crew changed the swab on the pump and the derrickman was tightening nuts on the 
+rod clamp and hooking up the liner washer.  The motorman called the driller telling him all they had left to do 
+was rig up the liner washer and then went into the SCR house and removed the LOTO lock from the breaker 
+panel. He went back to the mud house and called the driller telling him to “go ahead".  The driller turned the 
+potentiometer on his control panel to prime the pump while the derrickman was still working on the pump.  As 
+a result the derrickman’s lower leg was caught between the rod clamp and mud pump when the pump was 
+powered up and his lower leg was seriously injured 
+ 
+WHAT CAUSED IT: 
+ 
+1.  The crew did not follow the company’s Lockout/Tagout Procedure: 
+
+a.  The required Lockout/Tagout form was not completed or followed for the job. 
+b.  All sources of energy were not locked out. 
+c.  Work area was not inspected prior to removal of LOTO. 
+d.  All employees were not notified prior to removal of LOTO. 
+e.  Communications between the driller and the motorman were unspecific.  The motorman 
+
+informed the driller to “go ahead” instead of “shut down pump #2”. 
+
+f.  The crew working on pump #1 was not aware the driller had already shut down the #2 pump and 
+
+was preparing to start up pump #1.  
+
+g.  The lock on the #1 pump circuit breaker was removed while the pump was still being worked on.  
+
+The company’s Lockout/Tagout Procedure, including the LOTO Verification Form, MUST be 
+followed and used as a step-by-step guide for isolating equipment prior to initiating work.   
+
+2.  A pre-job meeting was not held to plan the work.  
+3.  A JSA was not written or reviewed prior to initiating the job. 
+4.  The crew left the control switch for the blower on the pump traction motor in the Manual position.  This 
+
+results in the blower continuing to run after the pump is shut down.  Putting this switch in the Automatic 
+position will shut down the blower along with the pump.  The noise created by starting the blower is a 
+good clue that a pump has power or is running. 
+
+ 
+CORRECTIVE ACTIONS:  To address this incident, this company did the following: 
+ 
+1.  Rig  managers,  drillers,  superintendents,  and  safety  managers  should  increase  the  monitoring, 
+
+supervision, and training for LOTO on a daily basis for all rigs. 
+
+2.  Utilize a pre-job meeting to ensure that all personnel are aware of the hazards of the task at hand.  All 
+communication  on  the  rig  needs  to  be  specific  for  what  is  to  be  done.    Examples  include:  “shut  down 
+pump 2”; “pump is unlocked and ready” or “don’t put your fingers on top of the tong handles” as opposed 
+to “go ahead”. 
+
+3.  Write and utilize a JSA prior to starting the job.   
+4.  Make certain all appropriate mud pump equipment is shut down when repairing or doing maintenance on 
+pumps.    This  includes  the  centrifugal  pump(s),  liner  washer,  traction  motor  blower.  Many  of  these  are 
+currently hooked up to be on when the pump is turned on and some can be overridden with a manual 
+control. These other pieces of equipment might also require LOTO. Install lockout devices on gate valves 
+and  butterfly  valves  as  a  secondary  lock  out  measure  to  control  any  unforeseen  release  of  energized 
+fluid. Examples include the 4” mud line valve, tank suction valve would be locked in closed position and 
+the 2” bleed off valve would be locked in the open position. 
+
+ 
+IADC  Note:    Refer  to  Section  3.1  of  the  IADC  HSE  Reference  Guide  for  additional  information  on 
+LOTO and/or IADC Safety Meeting Topic Book topic on Lockout/Tagout 
+
+The Corrective Actions stated in this alert are one company’s attempts to address the incident,  
+
+and do not necessarily reflect the position of IADC or the IADC HSE Committee. 
+
+This material is presented for information purposes only.  Managers & Supervisors should 
+
+evaluate this information to determine if it can be applied to their own situations and practices 
+
+Copyright © 2005 International Association of Drilling Contractors All rights reserved. 
+
+Issued April 2008 
+
+

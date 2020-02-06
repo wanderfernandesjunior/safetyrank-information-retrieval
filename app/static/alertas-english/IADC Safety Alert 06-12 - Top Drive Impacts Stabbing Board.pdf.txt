@@ -1,0 +1,68 @@
+Safety Alert 
+
+        From the International Association of Drilling Contractors 
+
+ 
+ALERT 06 – 12 
+ 
+
+TOP DRIVE IMPACTS STABBING BOARD 
+
+ 
+WHAT HAPPENED: 
+ 
+A  rig  crew  was  running  9-5/8”  casing  when  it  became  necessary  to  lay  down  a  joint  that  had  damaged 
+threads.  The joint was lowered into the V-door using the top drive and single joint elevators.  As the top drive 
+passed the stabbing board it caught the stabbing board extension bending the work platform down.  There 
+were  no  injuries  and  following  a  visual  inspection  of  the  stabbing  board,  work  resumed.    Note  that  this  is 
+similar to an incident that occurred previously. 
+
+ 
+WHAT CAUSED IT: 
+ 
+A  Safety  Bulletin  issued  previously  recommended  engineering  out  the  risk  of  the  top  drive  contacting  the 
+stabbing board is the preferred method for controlling the hazard.   
+
+ 
+
+Top drives have been added to many of the company’s rigs, yet the pipe stabber must still reach out to the 
+center of the rotary to properly align the casing for makeup.  The stabbing boards then, if they haven’t been 
+modified, must be retracted to prevent impact each time the top drive passes by.   
+
+ 
+CORRECTIVE ACTIONS:  To address this incident, this company did the following: 
+ 
+Issued some engineering options to manage this risk might be: 
+ 
+•  Shorten the working platform as much as possible (involves measuring the distance)  
+•  Modify the board in such a manner that it automatically retracts or folds up. i.e., install a counterbalance 
+
+that results in the board extension flipping up when the stabber steps to the back of the board.   
+
+•  Hinge the extension if it telescopes to allow for easier retraction.  
+ 
+
+These  are  just  a  few  ideas  that  might  work  to  minimize  the  potential  for  top  drive/stabbing  board  contact.   
+Please review your stabbing boards and, how are they operated to ensure the top drive does not hit the end 
+of the board?  What changes would you suggest to your equipment to “engineer out” the potential for striking 
+the board with the top drive?  
+
+ 
+ 
+ 
+IADC Note: Please review safety alerts 00-32, 02-45, 04-40, 04-50,    
+ 
+
+The Corrective Actions stated in this alert are one company’s attempts to address the incident,  
+
+and do not necessarily reflect the position of IADC or the IADC HSE Committee. 
+
+This material is presented for information purposes only.  Managers & Supervisors should 
+
+evaluate this information to determine if it can be applied to their own situations and practices 
+
+Copyright © 2005 International Association of Drilling Contractors All rights reserved. 
+
+Issued March 2006 
+
+

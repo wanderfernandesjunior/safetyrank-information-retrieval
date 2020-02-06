@@ -1,0 +1,164 @@
+  
+
+SAFETY ALERT 19 
+
+Dropped Blocks 
+
+NATIONAL OFFSHORE PETROLEUM SAFETY AUTHORITY 
+
+ 
+
+What happened? 
+
+The  semisubmersible  Mobile  Offshore 
+Drilling  Unit  (MODU)  was  in  the  final 
+stages  of  pulling  the  Blowout  Preventer 
+(BOP).  The BOP was being lifted the last 
+metre  to  gain  clearance  for  access  to  the 
+BOP  transporter  in  the  moonpool.    With 
+the  travelling  block  at the  uppermost  limit, 
+the  Kinetic  Energy  Management  System 
+(KEMS)  was  ‘tripped’,  and  the  resulting 
+action  was  not  as  expected.    A  failure  in 
+the  drawworks  disc  braking  system 
+allowed the traveling blocks, complete with 
+riser  and  suspended  BOP,  to  descend 
+approximately 
+an 
+uncontrolled  manner,  until  the  Top  Drive 
+impacted against the riser gimbal at the rig 
+floor  level.    The  subsequent  investigation 
+concluded that there was no operator error 
+and  the  incident  was  a  result  of  a  disc 
+brake system failure.  
+
+50  metres 
+
+in 
+
+ 
+
+ 
+
+ 
+
+• 
+
+• 
+
+• 
+
+• 
+
+• 
+
+ 
+
+Top Drive impacted riser gimbal at rig floor level 
+
+The  MODU  had  recently  undergone  a  drawworks  brake  upgrade  (band  brakes  to  disc 
+brakes).  The installation and tie-in consisted of: 
+
+Installation of disc brake kit with anti-bird nest feature 
+
+KEMS software upgrade with interface 
+
+Elmagco brake interface 
+
+Crown’o’matic interface 
+
+Commissioning of system 
+
+What went wrong? 
+
+The anti-bird nesting components were incorrectly installed thus limiting the 1200 psi 
+used to function the service brake to 200psi. 
+When the drawworks were hoisted into the KEMS upper limit the anti-bird nesting 
+system reduced the pressure to the service brakes from 1200psi to 200psi and the 
+emergency brake pressure was dumped allowing the calipers to set.  Due to the limited 
+supply pressure of 200psi, the service calipers had minimal, if any, effect.  The 
+emergency calipers and Elmagco brake were not designed to stop the load under 
+dynamic conditions on their own. 
+
+Page 1 of 2 
+
+ 
+
+NATIONAL OFFSHORE PETROLEUM SAFETY AUTHORITY 
+
+  
+
+SAFETY ALERT 19 
+
+Dropped Blocks 
+
+Causal  factors  included  incorrect  installation  of the  anti-bird  nest  /  disc brake  hydraulic 
+interface;  inadequate  commissioning  of  the  upgraded  (6  months  prior)  disc  brake 
+system;  the  disc  brake  system  handover  from  the  supplier  to  rig  personnel  was 
+inadequate;  Management  of  Change  process  during  system  upgrade  was  not 
+implemented  effectively;  and  follow  up  and  understanding  of  previous  disc  brake 
+incidents was inadequate. 
+
+Key Lessons: 
+
+Rigs equipped with disc brakes equipped with anti-bird nesting functions should be 
+alerted  to  the  potential  problems  arising  from  incorrect  installation  of  hydraulic 
+control valves.  
+
+Commissioning  procedures  for  modifications  to  existing  facilities  should  be 
+reviewed to ensure: 
+
+(cid:190)  Commissioning is carried out on a complete system basis, as well as on 
+
+the system interfaces.  
+
+(cid:190)  User training is adequate to obtain sound knowledge of the upgrade and 
+
+its impact and interactions with other facility systems. 
+
+(cid:190)  As built drawings and operating manuals are available to facility 
+
+personnel for newly installed/upgraded systems 
+
+Rig  owners  should  review  the  implementation  of  their  Management  of  Change 
+process to ensure that it is properly implemented for upgrade work on their facilities 
+with clear work scopes and accountabilities identified. 
+
+Rig  owners  should  ascertain  that  management  places  appropriate  emphasis  on 
+procedural  compliance  and  adherence.  Reliable  document  control  systems  must 
+ensure  critical  information  is  captured  in  procedures,  and  that  the  most  current 
+procedures are in use. 
+
+The  importance  of  carrying  out  thorough  and  systematic  accident/incident 
+investigations is highlighted.  Capturing lessons learned and correcting root causes 
+is key in prevention of further associated incidents. 
+
+Contact 
+
+For further information email alerts@nopsa.gov.au and quote Alert 19. 
+
+ 
+
+ 
+
+• 
+
+• 
+
+• 
+
+• 
+
+• 
+
+ 
+
+ 
+
+ 
+
+Page 2 of 2 
+
+ 
+
+

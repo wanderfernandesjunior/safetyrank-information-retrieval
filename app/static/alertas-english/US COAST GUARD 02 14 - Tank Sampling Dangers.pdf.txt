@@ -1,0 +1,104 @@
+ 
+
+         
+
+ 
+ 
+January 9, 2014 
+Washington, DC 
+
+         Inspections and Compliance Directorate 
+
+ 
+
+ 
+
+ 
+
+   Alert 02-14 
+
+ 
+
+TANK SAMPLING DANGERS / H2S Threshold Limit Change 
+
+ 
+This Safety Alert serves as a reminder to Coast Guard (CG) personnel and the maritime community 
+of  potential  dangers  during  sampling  of  cargo  tanks.  During  a  recent  Port  State  Control  (PSC)  tank 
+vessel examination, a CG member was exposed to a dangerous concentration of Hydrogen Sulfide 
+(H2S) gas and suffered a serious injury.  
+ 
+The  exposure  occurred  during  a  tank  vessel  exam  onboard  a 
+tank  vessel  carrying  Grade  E  Sour  Crude.  A    PSC  team 
+requested a ship's crew member check cargo tank oxygen levels 
+using the ship’s portable gas meter. The crew member accessed 
+the cargo tank via a deck sounding valve similar to the adjacent 
+photo.  When  the  valve  was  opened  the  pressurized  cargo  tank 
+atmosphere escaped releasing inert gas and H2S vapors. 
+ 
+During  the  evolution  the  personal  gas  meters  of  two  individuals 
+involved (one CG and one crew) alarmed for H2S. The CG officer 
+whose alarm sounded was standing 1–2 feet downwind from the 
+sounding  valve.  Within  days  the  CG  officer  developed  severe 
+exposure  symptoms  consistent  with  H2S  exposure.  The  other 
+two  CG  officers  involved  were  standing  upwind.  Afterward,  one 
+reported experiencing a minor headache. 
+ 
+OSHA notes that H2S is a colorless, flammable gas with a “rotten egg” smell that occurs naturally in 
+crude  petroleum.    Even  at  low  concentrations  this  heavier-than-air  gas  can  irritate  the  eyes,  nose, 
+throat  and  respiratory  system  with  effects  delayed  for  hours  or  days.  At  higher  concentrations, 
+nausea,  vomiting,  headaches,  dizziness,  unconsciousness  or  death  may  occur.    While  the  initial 
+“rotten  egg”  odor  is  present,  an  individual  may  lose  the  ability  to  smell  that  gas  after  becoming 
+exposed. Personal monitoring equipment is, therefore, vital to protect against exposure. An alarm on 
+H2S  constitutes  an  acute  exposure  and  should  trigger  immediate  evacuation  and  initiation  of  acute 
+exposure procedures including medical attention. 
+ 
+Prior  to  using  portable  gas  monitoring  equipment,  personnel  should  familiarize  themselves  with 
+ISGOTT  Section  11.8  and  safe  work  practices  for  conducting  or  witnessing  these  tests.  ISGOTT 
+recommends when sampling tanks personnel should stand perpendicular to the wind to avoid being 
+downwind  or  upwind  and  creating  eddies.  When  monitoring  cargo  tank  atmospheres,  all  personnel 
+should exercise diligence and great care. In all cases, personnel should completely assess the risks, 
+to include the cargo type, tank pressure, venting arrangements, wind direction/speed and condition of 
+the testing equipment. When H2S is suspected to be present, ISGOTT Section 2.3.6.5 recommends 
+that a self contained breathing apparatus (SCBA) be worn if it is necessary to breach the integrity of 
+the cargo system and if a vapor free atmosphere cannot be guaranteed.   
+ 
+ 
+
+1
+
+ 
+The American Conference of Governmental Industrial Hygienists recently reduced the H2S dangerous 
+Threshold Limit Value from 2 parts per million (ppm) to 1 ppm.    
+ 
+As  a  result  the  Coast  Guard  strongly  recommends  that  those  involved  in  cargo  tank  sampling  or 
+atmosphere testing: 
+ 
+
+•  Be familiar with and adhere to ISGOTT safe work practices. 
+•  Assess personnel risks. 
+•  Don appropriate personal protection equipment including gas monitoring detectors, respirator 
+
+or SCBA. 
+If gas monitoring detectors are used ensure: 
+
+• 
+
+o  detectors are maintained and properly calibrated 
+o  alarm settings values are properly set  
+
+•  Be aware and familiar with the hazards of the cargos involved as well as exposure indicators 
+
+and emergency response procedures. 
+
+ 
+This  safety  alert  is  provided  for  informational  purpose  only  and  does  not  relieve  any  domestic  or 
+international  safety,  operational  or  material  requirement.  Developed  by  the  Office  of  Traveling 
+Inspectors,  Washington,  D.C.  For  additional  information  contact    Commander  Thomas  Griffitts: 
+Thomas.A.Griffitts@uscg.mil. 
+ 
+
+ 
+
+2
+
+

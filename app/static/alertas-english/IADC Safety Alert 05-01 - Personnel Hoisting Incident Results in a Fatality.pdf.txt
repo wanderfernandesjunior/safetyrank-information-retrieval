@@ -1,0 +1,79 @@
+Safety Alert 
+
+        From the International Association of Drilling Contractors 
+
+ 
+ALERT 05 – 01 
+ 
+
+PERSONNEL HOISTING INCIDENT RESULTS IN A FATALITY 
+
+ 
+WHAT HAPPENED: 
+ 
+The crew was pressure testing the BOP’s and various members were attending to different tasks in preparation to 
+drilling  out  the  surface  casing  shoe.    The upper  Kelly  cock  did  not  hold  its  pressure  for  the  required  time  so  the 
+decision  was  made  to  adjust  the  valve  and  retest.    The  floorhand  put  on  his  fall  arrest  harness  and  the  driller 
+hoisted  him  up  12  metres  (40  ft.)  above  the  rig  floor  using  the  winch  line.    From  that  position  he  could  turn  the 
+valve slightly and then they could retest.  When this was accomplished, the driller started to lower him back down 
+on  the  winch  line.    For  reasons  that  cannot  be  explained,  the  floorhand  swung  himself  over  to  the  derrick  leg 
+supported his own weight and the line went slack.  It appears that he disconnected from the winch line, lost his grip 
+on the derrick and fell about 10 metres (33 ft) to the floor. 
+ 
+WHAT CAUSED IT: 
+ 
+Improper procedure and lack of fall protection.  Using a non-man rated winchline to hoist personnel is prohibited.  
+Company PPE Policy and Safe Work Practices state: ”All work 3 metres (10 ft) or more above the rig floor must be 
+performed using a safety harness attached to a lanyard.”  Other Industry Safety Alerts and Memo’s over the past 
+year  or  so  have  addressed  this  procedure  and  the  need  to  use  self-retracting  lifelines  when  ascending  or 
+descending the derrick.  The sign at the bottom of the rig mast (affixed to the Drillers’ console) states “Attention – 
+Climbing device must be worn when working on derrick”.  The climbing device mentioned incorporates a full body 
+safety  harness  with  chest  D-ring  for  attaching  to  the  self-retracting  lifeline  (SRL)  and  a  back  D-ring  with  an 
+attached shock absorber.  The chest D-ring is attached to the SRL when ascending and descending the derrick.  
+The  rear  D-ring  with  shock  absorber  is  attached  to  a  safety  lanyard  of  suitable  length.    This  is  to  be  used  when 
+working at the monkeyboard or at other locations in the derrick.  Company Fall Protection Policies and Safe Work 
+procedures were not followed in this case. 
+ 
+Contributing Factors and Root Causes:  Recent industry safety alerts (PSC #38-2004) indicate that there has 
+been a practice of using the winchline (connected to the fall protection harness) to hoist personnel into a position 
+where  they  can  perform  elevated  work.    Although  this  practice  appears  to  be  more  prominent  and  perhaps 
+tolerated  in  the  other  sectors  of  the  local  oil  and  gas  industry,  it  was  against  the  drilling  contractor’s  company 
+policies and safe work practices.   
+ 
+In addition to the above factors, obstructed visibility, poor communication, and lack of proper signaling may have 
+complicated  an  unacceptable  and  unsafe  work  practice.    Although  a  Safety  Meeting  was  conducted  with  the 
+Pressure  Tester  it  appears  that  fall  protection  issues  were  not  a  component  of  the  documented  pre-job  safety 
+discussion or later when the job tasks were modified due to adjust the leaking valve.  
+ 
+CORRECTIVE ACTIONS:  To address this incident, this company did the following: 
+ 
+The  company  reinforced  existing  standards  associated  with  raising  personnel,  fall  protection  requirements,  and 
+safe work procedures.   
+ 
+Crews  were  directed  to  discuss  Occupational  Health  &  Safety  Code  Part  37  –  Section  770,  and  related  Safety 
+Alerts/Bulletins  (CAODC  General  Bulletin  02-12,  PSC  Safety  Alert:  #38-2004)  and  record  their  responses  in  the 
+Rig Site Health and Safety Committee Minutes.   
+The company directed that while pressure testing, all upper Kelly-cocks be adjusted at the rig floor.  If the valve 
+does  not  hold  pressure,  the  pressure  is  to  be  bled  off,  the  annular  preventer  opened  and  the  Kelly  lowered  to 
+where the valve can be operated safely from the floor.  It can then be raised back into position and retested. 
+Additional crewmembers will be trained in the industry Fall Protection for Rig Workers Course. 
+Rig Managers must enforce health and safety rules, which are a condition of employment.  Failure to wear proper 
+fall protection and adhere to safe work practices is grounds for dismissal. 
+The company is also assessing the need for man-rated lifting equipment and reviewing fall protection JSA’s. 
+ 
+IADC Note:  See Alerts – 01-02, 01-16, 02-32, 02-54, 03-18, 03-37, and Section 19 of the IADC HSE Reference 
+Guide. 
+
+The Corrective Actions stated in this alert are one company’s attempts to address the incident,  
+
+and do not necessarily reflect the position of IADC or the IADC HSE Committee. 
+
+This material is presented for information purposes only.  Managers & Supervisors should 
+
+evaluate this information to determine if it can be applied to their own situations and practices 
+
+Copyright © 2005 International Association of Drilling Contractors All rights reserved. 
+
+Issued January 2005 
+
+

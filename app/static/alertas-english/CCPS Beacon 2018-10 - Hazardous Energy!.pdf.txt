@@ -1,0 +1,101 @@
+This issue sponsored by
+
+http://www.dekra-process-safety.com/
+
+October 2018
+
+www.aiche.org/ccps
+
+http://www.aiche.org/CCPS/Publications/Beacon/index.aspx
+
+Messages for Manufacturing Personnel
+
+Hazardous Energy!
+
+On April 17, 2018 a commercial airliner flying from New York to Dallas had a major failure of the left engine over 
+
+eastern Pennsylvania. Fragments of the engine inlet and cowling (1) struck the wing (2) and fuselage, causing significant 
+damage. One passenger window was blown out (3) causing rapid depressurization of the passenger cabin. The flight 
+crew was able to conduct an emergency descent, and landed at Philadelphia airport. One passenger was fatally injured 
+and eight others received minor injuries. The preliminary US National Transportation Safety Board (NTSB) report on 
+the incident indicated that one of the engine fan blades had failed, with failure characteristics consistent with metal 
+fatigue.
+
+The fan in a jet engine is a piece of high speed rotating equipment, and contains a lot of kinetic energy (energy of 
+motion). If there is a failure, pieces of metal shrapnel can cause major damage, and can travel a long distance. Many 
+process plants also contain high speed rotating equipment – for example, compressors, centrifuges, and centrifugal 
+extractors. This equipment could be subject to a failure similar to this jet engine failure. Process safety management 
+systems must include systems to identify these hazards, and ensure proper design, fabrication, inspection, and 
+maintenance of high energy equipment.
+Photos taken from reference:  US National Transportation Safety Board Investigative Update, Southwest Airlines Flight 1380 Engine Failure, DCA18MA142 SWA1380 
+INVESTIGATIVE UPDATE (https://www.ntsb.gov/investigations/AccidentReports/Reports/SWA1380-DCA18MA142-Investigative-Update.pdf).  
+
+1
+
+Did You Know?
+
+2
+What Can You Do?
+
+3
+
+We often think of process safety as being about containment 
+
+ With your co-workers, make a list of all of the 
+
+and control of hazardous material. This is an important part of 
+process safety, but control of hazardous energy is also important. 
+Some examples of hazardous energy that you might have in your 
+plant include:
+ Kinetic energy from high speed rotating equipment such as 
+
+pumps, compressors, fans, centrifuges, or centrifugal 
+extractors.
+
+ Electrical energy
+ High pressure, such as compressed air and other gases, or 
+
+high pressure steam
+
+ High temperature
+ Potential energy from gravity – for example, the failure of a 
+large tank full of liquid can cause major damage even if the 
+liquid is not hazardous. In 1919, the failure of a molasses tank 
+in Boston sent a wave of molasses 15 feet (5 m) high through 
+part of the city resulting in 21 fatalities and over 150 injuries 
+(May 2007 Beacon). 
+
+hazardous energy sources in your plant. Be sure 
+that you all understand the operating, inspection, 
+and preventive maintenance systems in place to 
+manage the risk associated with those hazards.
+
+ Understand your role in ensuring that the 
+
+hazardous energy safeguards in your plant are 
+robust and functioning properly.
+
+ Many high speed machines have vibration sensors 
+
+with alarms or shutdown interlocks. Make sure 
+these are not bypassed without following your 
+plant Temporary Management of Change (MOC) 
+procedures.
+
+ If you are responsible for inspecting or 
+
+maintaining hazardous energy equipment, follow 
+all of the specified procedures diligently, and 
+report any concerns that you have to your 
+management and technical staff.
+
+Process safety – control hazardous material AND energy!
+
+©AIChE 2018. All rights reserved. Reproduction for non-commercial, educational purposes is encouraged. However, reproduction for any 
+commercial purpose without express written consent of AIChE is strictly prohibited. Contact us at ccps_beacon@aiche.org or 646-495-1371.
+
+The Beacon is usually available in Afrikaans, Arabic, Catalan, Chinese, Czech, Danish, Dutch, English, Filipino, French, German, Greek, Gujarati, Hebrew, Hindi, Hungarian, Indonesian,  
+
+Italian, Japanese, Korean, Malay, Marathi, Mongolian, Persian (Farsi), Polish, Portuguese, Romanian, Russian, Spanish, Swedish, Telugu, Thai, Turkish, Urdu, and Vietnamese.
+
+

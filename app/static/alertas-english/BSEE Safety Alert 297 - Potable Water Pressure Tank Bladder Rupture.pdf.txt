@@ -1,0 +1,125 @@
+ 
+ 
+U.S. Department of the Interior 
+Bureau of Ocean Energy Management, 
+Regulation and Enforcement 
+ 
+Gulf of Mexico OCS Region 
+
+Safety 
+Alert 
+
+Contact:  Glynn T. Breaux 
+(504) 736-2560 
+
+BOEMRE 
+
+Safety Alert No. 297 
+29 September 2011 
+ 
+
+Potable Water Pressure Tank Bladder Rupture 
+
+ 
+
+ 
+Recently a platform’s fresh water system experienced low pressure due to the pressurized potable water 
+pressure tank (WPT) being empty.  In an effort to find the problem, the fresh water pump switches were 
+turned off, the system isolated and the water lines depressurized.  When the employee unthreaded a fitting 
+located at the bottom of the WPT, the fitting was ejected out, causing severe facial injuries to the 
+employee.    
+ 
+ 
+A BOEMRE investigation revealed the following: 
+ 
+
+ 
+	 
+	  When the water system experienced low pressure, the WPT’s internal bladder maintained its 60 
+
+ 
+
+psi manufacturer pre-charged pressure.      
+
+ 
+	 
+	  A Job Safety Analysis (JSA) was completed, but the JSA only included the task for changing the 
+filters on the fresh water system.  The JSA should have included de-pressurizing the bladder prior 
+to removal of the fitting. 
+
+ 
+
+ 
+	 
+	  There were no WPT manufacturer manual(s) located on the facility to access information needed 
+
+to service the WPT in a safe manner. 
+
+ 
+	 
+	  The WPT manufacturer instructions state, “This tank is pre-pressurized and under no 
+
+circumstances should the tank, fittings or connected system be disassembled prior to complete 
+discharging of air and fluid pressure.” 
+
+ 
+Therefore, the BOEMRE recommends Lessees and its contractors: 
+  
+ 
+
+ 
+	 
+	  Continue to utilize the JSA process to review site-specific detailed job steps to uncover hazards, 
+
+but the JSA should be performed for the specific job tasks being undertaken.  
+
+ 
+	 
+	  Do not install, operate or service a WPT if the manufacturer data manual(s) are not available.  
+
+Failure to install, operate or service the WPT according to manufacturer’s recommendations may 
+ 
+cause the tank to fail resulting in fatal injury or property damage.   
+
+--BOEMRE--GOMR-- 
+www.gomr.boemre.gov 
+ 
+
+ 
+
+ 
+
+ 
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+A Safety Alert is a tool used by BOEMRE to inform the offshore oil and 
+gas industry of the circumstances surrounding an accident or a near miss.  It 
+also contains recommendations that should help prevent the recurrence of 
+ 
+such an incident on the Outer Continental Shelf. 
+
+

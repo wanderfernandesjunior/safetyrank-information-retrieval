@@ -1,0 +1,105 @@
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+• 
+
+• 
+
+ 
+
+• 
+
+• 
+• 
+
+• 
+
+Safety Alert 
+
+        From the International Association of Drilling Contractors 
+
+ 
+ALERT 13 – 29  
+
+WHAT HAPPENED: 
+
+COMPLACENCY WITH A COMMON JOB TASK RESULTS IN INJURY TO THE DERRICKMAN 
+
+The morning tour crew had just arrived to work on the last day of their hitch and would begin their shift by continuing trip out operations 
+that were commenced by the daylight crew. 
+
+The Driller was watching the Derrickman via a CCTV monitor.  After verifying that the rope around the stand was secure and that the 
+elevators were unlatched, he floated the top drive link tilt cylinders back towards well center and began slacking off the top drive to get 
+another stand of pipe.  The Driller then looked up towards the fingerboard to verify that the stand had cleared the top drive and, after 
+noticing it had not cleared, he quickly released the brake control joystick to apply full air pressure to the draw works brake to stop the 
+load.  The box (top) end of the stand had hung up somewhere on the top drive between the pipe handler stabbing guide and the link tilt 
+actuator.  The downward travel of the load had stacked weight on top of the stand and had put a “bow” in the pipe. 
+
+It was discovered that the Derrickman’s rope had become lodged between the spring-loaded latch handle and the body of the elevators, 
+which was the reason why the stand had not cleared the top drive.  Rather than letting go of the rope and moving to a safe position, the 
+Derrickman attempted to free the rope by “jerking” on it.  Instantaneously, the stand came free from its lodged position underneath the 
+top drive and the stored energy in the “bow” of the pipe immediately shot the stand out towards the fingerboard and directly into the off-
+driller’s side (ODS) alleyway, where it forcefully struck the Derrickman in the mid-section and drove him into the back handrails of the 
+fingerboard.  Due to the extent of his injury, the injured employee was transported to a medical facility. 
+
+ 
+
+ 
+
+WHAT CAUSED IT: 
+• 
+
+The Driller failed to completely stop the traveling equipment after disengaging the clutch, which is common practice during tripping 
+operations.    He  also  failed  to  visually  verify  that  the  stand  was  clear  from  the  elevators  and  top  drive  and  secured  by  the 
+Derrickman before slacking off to come down and latch the next stand. 
+The Derrickman had positioned his pullback rope too high (too close to the elevators), which allowed the rope to get caught in the 
+elevator latch mechanism which prevented the Derrickman from being able to clear the stand from the elevators. 
+The  Derrickman  attempted  to  free  the  pullback  rope  hung  up  in  the  elevators  rather  than  letting  it  go.    Additionally,  he  was 
+positioned in the direct path of the stand of drill pipe as it freed itself from the logged position and was thus struck by it. 
+
+ 
+
+CORRECTIVE ACTIONS:  To address this incident, this company did the following: 
+• 
+
+The Driller was reminded that he should come to a complete stop once the pulled stand is properly positioned at the fingerboard 
+level.  He should also visually verify and ensure that the stand is secured and the path of travel is clear of any other obstructions 
+prior to lowering the traveling equipment.   
+The  company  implemented  a  company-wide  policy  requiring  Drillers  to  follow  these  steps.    The  policy  will  be  communicated 
+electronically via distribution of this report as well as a formal email to all Toolpushers.  Follow-up, on-site verbal communication of 
+the newly-established policy will be provided by our Drilling Superintendents.   
+“Stop” stickers will be made, distributed and posted at the Driller location on all company rigs to provide a visual reminder. 
+The company suggested a recommended practice for Derrickmen is to keep their pullback rope below the waist.  This practice will 
+be  emphasized  via  distribution  and  review  of  this  report  and  follow-up,  on-site  instruction  will  be  provided  by  rig  leadership  and 
+Drilling Superintendents. 
+If a stand cannot be secured and cleared by the Derrickman for any reason, he should immediately release the pullback rope and 
+move  out  of  harm’s  way  by  positioning  both  feet  on  the  monkeyboard.    This  recommended  practice  will  be  emphasized  via 
+distribution  and  review  of  this  report  and  follow-up,  on-site  instruction  will  be  provided  by  our  rig  leadership  and  Drilling 
+Superintendents. 
+
+“Reminder” stickers will be made, distributed and posted at the Fingerboard on all company rigs to provide a visual reminder. 
+
+The Corrective Actions stated in this alert are one company’s attempts to address the incident,  
+
+and do not necessarily reflect the position of IADC or the IADC HSE Committee. 
+
+This material is presented for information purposes only.  Managers & Supervisors should 
+
+evaluate this information to determine if it can be applied to their own situations and practices 
+
+Copyright  2013 International Association of Drilling Contractors All rights reserved. 
+
+Issued December 2013 
+
+

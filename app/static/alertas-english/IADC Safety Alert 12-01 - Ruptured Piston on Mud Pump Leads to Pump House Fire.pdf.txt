@@ -1,0 +1,78 @@
+Safety Alert 
+
+        From the International Association of Drilling Contractors 
+
+ 
+ALERT 12 – 01  
+ 
+
+RUPTURED PISTON ON MUD PUMP  
+
+LEADS TO PUMP HOUSE FIRE 
+
+ 
+ 
+WHAT HAPPENED: 
+ 
+The rig was drilling at approximately 2,030m (6,660 feet) with invert (oil and water mixture) drilling fluid in the 
+tanks,  pumping  with  approximately  21,500  kPa  (3,118  psi)  pump  pressure.    The  rig  crew  noticed  smoke 
+coming  out  of  pump  house  #1.    The  rig  crew  gathered  all  the  fire  extinguishers  on  site  (five  –  30lb  (13kg) 
+extinguishers and two – 150lbs (68kg) extinguishers, from the tank farm) and attempted to extinguish the fire.  
+The crew was unsuccessful; therefore, the Driller and Rig Manager shut-in the well.  The fire spread to pump 
+house  #2,  then  over  to  the  mixing  area  of  the  mud  tanks  causing  fire  damage  to  the  mud  tank  platform 
+behind the buildings and to the contents on the platform.  
+ 
+
+WHAT CAUSED IT: 
+ 
+
+  The piston/pump rod covers on the on the F-1000 mud pump were left in the open position and made 
+from  expanded  metal  screen  material  which  allowed  the  drilling  fluid  to  spray  out  from  the  mud  pump 
+piston rod cavity and back to the engine area. 
+
+  Fire originated in pump house #1 when the drilling fluid contacted the turbo charger of the engine located 
+
+  The probable cause of the fire was a ruptured piston in the mud pump that allowed invert drilling fluid to 
+
+in the pump house building and ignited.  
+
+spray throughout the pump house. 
+
+  Because of the pressure in the mud pump system, aided by the turbulence in the pump house from the 
+cooling fan on the opposite side of the engine, the oil in the invert was atomized (reduced to a fine spray) 
+which  then  ignited  when  it  came  into  direct  contact  with  the  nearer  of  the  two  turbochargers  on  the 
+engine. 
+
+  Electrical and other mechanical causes for this fire were considered and eliminated. 
+ 
+
+CORRECTIVE ACTIONS:  To address this incident, this company did the following: 
+ 
+ 
+
+Instructed rig personnel to install hinged plated covers or covers with Lexan® Glass inserts on all mud 
+pumps to ensure any drilling fluid from ruptured pistons will be contained within the piston rod cavity of 
+the mud pump.  Some plate covers may require a slot to accommodate the piston lubricator hose. 
+Instructed rig personnel that all pump rod covers are to be kept closed during pumping operations. 
+Issued a directive that all engines located in the mud pump house will have exhaust blankets or wraps to 
+protect the turbochargers and exhausts on the engines from being sprayed with drilling fluid. 
+
+ 
+ 
+
+ 
+ 
+
+The Corrective Actions stated in this alert are one company’s attempts to address the incident,  
+
+and do not necessarily reflect the position of IADC or the IADC HSE Committee. 
+
+This material is presented for information purposes only.  Managers & Supervisors should 
+
+evaluate this information to determine if it can be applied to their own situations and practices 
+
+Copyright  2008 International Association of Drilling Contractors All rights reserved. 
+
+Issued January 2012 
+
+

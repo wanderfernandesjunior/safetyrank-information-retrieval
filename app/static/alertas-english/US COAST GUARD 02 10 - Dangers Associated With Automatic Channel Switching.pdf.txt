@@ -1,0 +1,70 @@
+ 
+ 
+ 
+ 
+April 13, 2010                                                                                                                Alert 02-10 
+Washington, DC                                 
+
+ 
+
+DANGERS ASSOCIATED WITH AUTOMATIC CHANNEL SWITCHING  
+
+ON DIGITAL SELECTIVE CALLING (DSC) EQUIPPED VHF MARINE RADIOS 
+
+feature  when  maintaining  a 
+
+the  automatic  channel  switching 
+
+ 
+It  has  come  to  the  Coast  Guard’s  attention  that  an  automatic  channel  switching  feature  found  on 
+certain  models  of  Digital  Selective  Calling  (DSC)  equipped  VHF  marine  radios  may  create  an 
+unintended hazard by automatically switching from a working channel that might be in use at the time 
+to  Channel  16  when  the  VHF  marine  radio  receives  a  DSC  distress  alert,  distress  alert 
+acknowledgment or other DSC call where a VHF channel number has been designated.  This could 
+happen without a vessel/radio operator’s immediate knowledge and could initiate an unsafe condition 
+by  which  the  vessel/radio  operators  would  believe  they  were  communicating  on  a  working  channel 
+such as Channel 13 when, in fact, they were actually on Channel 16.  Imagine a towboat operator on 
+the  lower  Mississippi  River  making  passing  agreements  on  VHF  channel  67  and  then  suddenly, 
+without  warning,  not  being  able  to  quickly  reestablish  communications  with  those  vessels  because 
+his/her radio automatically switched to Channel 16 instead. 
+ 
+Since  this  unsafe  condition  can  happen  at  any  time,  the  Coast  Guard  strongly  recommends 
+disabling 
+listening  watch  or 
+communicating  on  the  designated  bridge-to-bridge  radiotelephone,  or  while  monitoring  the  vessel 
+traffic services (VTS) channel.  Radios that lack the disabling feature should not be used for bridge-
+to-bridge or VTS communications.   
+ 
+The  International  Telecommunications  Union  Sector  for  Radiocommunications,  Recommendation 
+M.493-11 published in 2004 and later versions require DSC-equipped radios to provide for disabling 
+of this channel auto-switch feature.  In the United States, the Federal Communications Commission 
+(FCC) requires all DSC-equipped radios certified after March 25, 2009 to meet this requirement.   
+Manufacturers  that  do  not  provide  a  disable  function  are  encouraged  to  do  so  and  to  inform  their 
+customers if means for correction exist.  Updated information including a listing of manufacturers of 
+radios  believed 
+this  Safety  Alert  will  be  posted  as  available  at 
+http://www.navcen.uscg.gov/marcomms/gmdss/dsc.htm . 
+ 
+The  Coast  Guard  strongly  reminds  radio  operators  and  other  users  to  always  ensure  they  are  on 
+the  proper  operating  channel  when  communicating  or  maintaining  watch,  particularly  with  DSC-
+equipped radios capable of channel auto-switching.   
+ 
+This  safety  alert  is  provided  for  informational  purposes  only  and  does  not  relieve  any  domestic  or 
+international  safety,  operational  or  material  requirement.    Developed  by  the  Spectrum  Management 
+and  Telecommunications  Policy  Division  (CG-652),  United  States  Coast  Guard  Headquarters, 
+Washington,  DC.    Questions  should  be  directed  to  Mr.  Russell  Levin  at  (202)  475  3555  or 
+Russell.S.Levin@uscg.mil. 
+
+to  be  affected  by 
+
+ 
+Office of Investigations and Analysis:  http://marineinvestigations.us 
+To subscribe: kenneth.w.olsen@uscg.mil 
+
+******* 
+
+ 
+
+ 
+
+

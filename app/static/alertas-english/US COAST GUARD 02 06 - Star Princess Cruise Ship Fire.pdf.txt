@@ -1,0 +1,347 @@
+ 
+
+ 
+ 
+April 27, 2006                                                                                                                            Alert 2-06 
+Washington, DC 
+ 
+STAR PRINCESS Cruise Ship Fire 
+ 
+The United Kingdom Marine Accident Investigation Branch (MAIB) and International Council of Cruise 
+Lines (ICCL) have issued the attached safety notices to highlight specific fire safety issues as a result 
+of the recent fire on the cruise ship STAR PRINCESS. 
+ 
+MAIB recommends that all cruise lines take immediate action to comply with the ICCL safety notice, 
+and  advises  the  United  Kingdom  Maritime  and  Coastguard  Agency  (MCA)    to  request  the 
+International  Maritime  Organization  (IMO)  to  urgently  consider  appropriate  changes  to  the  SOLAS 
+Convention  to  ensure  that  external  areas  of  cruise  vessels  meet  appropriate  standards  of  fire 
+prevention  such  as  those  currently  applicable  to  internal  areas,  and  to  issue  appropriate  urgent 
+guidance on fire protection measures for external areas. 
+ 
+The U.S. Coast Guard agrees with the MAIB that the existing SOLAS regulations do not adequately 
+address fire protection of external areas, including balcony areas, and will actively work with the UK 
+and others to address this issue at the International Maritime Organization.   
+ 
+ICCL  recommends  that  priority  be  given  to  replacing  any  combustible  balcony  partitions  with 
+noncombustible  materials  as  soon  as  possible.    ICCL  also  urges  the  immediate  implementation  of 
+operational safety measures to safeguard against possible fire risks on external balcony areas, and 
+recommends fire risk assessments of external areas.   
+ 
+The  U.S.  Coast  Guard  strongly  supports  the  actions  proposed  by  the  ICCL  and  MAIB  and 
+recommends 
+ICCL 
+recommendations.   
+ 
+Risk assessment tools and technical resources for risk-based decision making may be accessed on 
+the Coast Guard's website at http://www.uscg.mil/hq/g-m/risk/e-guidelines/rbdm.htm .  
+ 
+The U.S. Coast Guard believes that the fire risk assessments should: 
+
+line  passenger  vessels  comply  with 
+
+the  MAIB  and 
+
+that  all  cruise 
+
+identify apparent fire hazards;  
+
+• 
+•  assess the severity of potential fires that could occur involving the hazards;  
+• 
+• 
+
+identify safeguards for reducing the risks associated with the hazards; and 
+identify actions to reduce the risk such that should a fire occur, it will not spread and will 
+be readily extinguished. 
+
+ 
+
+Questions  or  comments  regarding  this  safety  alert  may  be  addressed  to  Mr. Randall  Eberly  of  the 
+U.S.  Coast  Guard  Headquarters  Lifesaving  and  Fire  Safety  Standards  Division  at  202.267.1861 
+or reberly@comdt.uscg.mil . This safety alert is provided for informational purposes only and does not 
+relieve any domestic or international, safety, operational or material requirement. 
+ 
+
+ 
+
+MAIB SAFETY BULLETIN 1/2006
+
+Fire on board the Bermuda registered cruise ship
+
+Star Princess
+
+on 23 March 2006
+
+MAIB SAFETY BULLETIN 1/2006
+
+This document, containing safety lessons, has been produced for marine safety purposes 
+only, on the basis of information available to date.
+
+The Merchant Shipping (Accident Reporting and Investigation) Regulations 2005 provide 
+for the Chief Inspector of Marine Accidents to make recommendations at any time during 
+the course of an investigation if, in his opinion, it is necessary or desirable to do so.
+
+The Marine Accident Investigation Branch (MAIB) is carrying out an investigation into the 
+ﬁre on board the Bermuda registered cruise ship Star Princess on 23 March 2006.  The 
+MAIB will publish a full report on completion of the investigation.
+
+Stephen Meyer 
+Chief Inspector of Marine Accidents
+
+ 
+
+This bulletin is also available on our website:  http://www.maib.gov.uk
+
+Press Enquiries: 020 7944 3232/3387; out of hours: 020 7944 4292
+
+Public Enquiries: 020 7944 3000
+
+INTERNET ADDRESS FOR DFT PRESS NOTICES:
+
+http://www.dft.gov.uk
+
+BACKGROUND
+
+At 0309 (UTC+5) on 23 March 2006, a ﬁre was detected on board the cruise ship Star 
+Princess. The ship was on passage from Grand Cayman to Montego Bay, Jamaica, with 
+2690 passengers and 1123 crew on board. The ﬁre is being investigated by the Marine 
+Accident Investigation Branch (MAIB) on behalf of the Bermuda Maritime Administration, in 
+cooperation with the United States Coast Guard (USCG), and the United States’ National 
+Transportation Safety Board (NTSB). 
+
+The cause of the ﬁre has yet to be determined. However, the seat of the ﬁre was on an 
+external stateroom balcony sited on deck 10 on the vessel’s port side. The ﬁre spread 
+rapidly along adjacent balconies, and within 10 minutes had spread up to decks 11 & 12 
+and onto stateroom balconies in two adjacent ﬁre zones. It also spread internally as the 
+heat of the ﬁre shattered the glass in stateroom balcony doors, but was contained by 
+the ﬁxed ﬁre-smothering system ﬁtted in each of the staterooms. As the ﬁre progressed, 
+large amounts of dense black smoke were generated from the combustible materials 
+on the balconies, and the polycarbonate balcony partitions. This smoke entered the 
+adjacent staterooms and alleyways, and hampered the evacuation of the passengers. One 
+passenger died as a result of smoke inhalation, and 13 others were treated for the effects 
+of the smoke.
+
+The ﬁre was extinguished about 1.5 hours after it had started. The crew fought the ﬁre 
+with water hoses from adjacent external areas, and from internal alleyways. Difﬁculty was 
+experienced in reaching the ﬁre due to the construction and partitioning of the balcony 
+areas. A total of 79 cabins were condemned after the ﬁre, and a further 204 were either 
+water or smoke damaged. The damaged area covered 3 vertical ﬁre zones on 5 decks 
+(Figures 1, 2 and 3).
+
+Figure 1
+
+Figure 2
+
+Figure 3
+
+ANALYSIS
+
+Following  the  accident,  it  has  been  determined  by  practical  tests  that  the  materials  at  the 
+seat of the ﬁre were readily ignitable, and that the polycarbonate balcony divisions generated 
+intense heat and copious amounts of dense black smoke as they burned (Figure 4).
+
+The International Convention for the Safety of Life at Sea (SOLAS) is an internationally agreed 
+convention  governing  the  construction  and  safety  of  vessels  at  sea.  SOLAS  regulations, 
+as  included  in  Chapter  II-2  Construction-Fire  protection,  ﬁre  detection  and  ﬁre  extinction, 
+do not, currently, prescribe the combustibility of materials used on external balcony areas, 
+as these are not included within the vessel’s ﬁre zones. Similarly, balcony areas on cruise 
+ships are not required to have ﬁxed ﬁre detection or suppression systems, as would be the 
+case in internal areas. Additionally, balcony areas are frequently difﬁcult to monitor due to 
+their inaccessibility. This accident clearly demonstrates the risk of a serious ﬁre starting and 
+quickly spreading in areas not covered by regulation.
+
+The installation of balconies, similar to those on board Star Princess, has become increasingly 
+common in modern passenger vessels. It is vital to ensure that the ﬁre protection arrangements 
+within a ship, such as zoning, are not undermined by lack of appropriate measures externally. 
+Immediate action is therefore required internationally, to address the risk of ﬁre in external 
+areas such as balconies, and to stop the potentially catastrophic spread of any such ﬁre. 
+
+Figure 4
+
+ACTIONS TAKEN
+
+The International Council of Cruise Lines (ICCL) has issued a safety notice (Annex A) to its 
+members and other associations, identifying: 
+
+a.  Immediate actions to mitigate the risk until the medium term measures have been 
+     completed; and
+b.  Additional actions to be undertaken within 3 months and 6 months, to provide longer 
+     term solutions in existing ships.
+
+RECOMMENDATIONS
+
+The Maritime Administration of the United Kingdom is recommended to:
+
+2006/162  Submit a formal request to the forthcoming eighty-ﬁrst session of the Maritime 
+
+Safety Committee (MSC 81) of the International Maritime Organization (IMO) to:
+
+• 
+
+• 
+
+consider the issue comprehensively, with a view to urgently developing 
+appropriate amendments to the 1974 SOLAS Convention, to address 
+hazardous external areas of passenger ships, such as balconies, and 
+ensure that they meet appropriate standards of ﬁre protection, such as 
+those currently applicable to internal areas of passenger ships; 
+
+in the interim, issue appropriate urgent guidance on ﬁre protection of 
+external areas of passenger ships, such as balconies.
+
+Cruise lines and operators/managers of passenger vessels are recommended to:
+
+2006/163  Take urgent action to comply with the measures identiﬁed in the ICCL Safety 
+
+Notice attached at Annex A.
+
+Flag States are recommended to:
+
+2006/164  Urgently review the ﬁre safety integrity of external areas of passenger ships on 
+their Register, to ensure that the immediate and medium-term actions taken in 
+the light of this Safety Bulletin are effective. 
+
+ 
+
+ 
+ 
+
+   
+
+ 
+
+ 
+ 
+April 13, 2006 
+
+ 
+
+ 
+
+SAFETY NOTICE 
+
+ 
+ 
+The purpose of this safety notice is to inform ICCL members and, to the extent 
+feasible, other passenger vessel operators, of some of the preliminary indications 
+from  the  recent  balcony  fire  on  the  cruise  ship  STAR  PRINCESS.  Additionally, 
+this safety notice also urges immediate action.  
+ 
+The investigation, being conducted by the UK’s Marine Accident Investigation 
+Branch (MAIB) (at the request of the government of Bermuda, the flag state of 
+STAR PRINCESS) also includes representatives of the United States Coast 
+Guard (USCG), the United States National Transportation Safety Board (US 
+NTSB).  The purpose of the investigation is to determine the cause of the fire. A 
+full report from the MAIB will be available at a later date.  
+ 
+Early indications are that the fire originated on an exterior balcony and quickly 
+spread to other balconies in three main vertical fire zones.  The cause of the fire 
+spread is unknown at this time, but the presence of combustible material in the 
+balcony areas is considered to have been a major factor.   
+ 
+This notice is to alert ship owners and ship managers of the potential fire risk on 
+external areas, particularly balcony areas, arising from the use of combustible 
+materials. Such areas typically lack smoke/heat detectors, and difficulty of 
+access potentially makes fire fighting in these areas problematic.  These issues 
+combine to raise the risk of high intensity fire spreading rapidly. 
+ 
+In the interim, having met with the investigative authorities concerned, ICCL 
+offers the following safety guidance to the cruise line industry: 
+ 
+ 
+ 
+ 
+ 
+
+2111 Wilson Boulevard  ●  8th Floor ●  Arlington, Virginia 22201 (USA) 
+
+TEL  (703) 522-8463 ● FAX  (703) 533-3811 ● WEB  www.iccl.org 
+
+Annex A 
+ 
+Immediate Action 
+ 
+1.  Immediately implement measures to counter the risk of this type of marine 
+
+casualty such as:  
+
+a.  Increase vigilance on all vessels with balconies where there may be a 
+
+presence of combustible materials and the lack of detectors or 
+sprinkler systems. In this respect, the provision of dedicated lookouts 
+and additional fire patrols should be considered. 
+
+b.  Review the crew’s onboard training and response procedures to 
+
+ensure that the ship’s firefighting teams are prepared to respond to a 
+fire occurring in the balcony area. 
+
+c.  Advise passengers and crew not to leave towels and personal 
+
+belongings on balconies when they are not in their rooms. 
+
+d.  Instruct housekeeping staff to place personal articles left on balconies 
+by room occupants back in the room during their last visit of the day to 
+the guest room, and to observe balconies during other visits to the 
+room. 
+
+e.  Re-emphasize fire safety in communications to passengers, including 
+
+the distribution of appropriate informational pamphlets. 
+
+f.  Re-emphasize to passengers the need not to throw any items over a 
+
+ship’s side from balconies or other external areas... 
+
+g.  Re-emphasize to passengers the hazards of not properly extinguishing 
+
+smoking materials where smoking is authorized, and never to leave 
+smoking materials unattended. 
+
+h.  Re-emphasize to crew and passengers the hazards of using 
+
+unauthorized heating elements such as electrical heating coils used in 
+cups or mugs and open flames such as candles. 
+
+ 
+
+Additional Actions 
+ 
+2.  Within three months, determine the areas at risk by carrying out a fire risk 
+
+assessment of external areas, particularly balcony areas. During this 
+assessment the following shall be taken into account:  
+
+•  Accessibility for fire fighting 
+•  Availability of fixed detection and fire fighting systems 
+•  Structural materials (particularly balcony partitions) 
+•  Chairs, tables and other furniture including any cushions or coverings 
+•  Paints 
+•  Deck or floor mats 
+•  Deck coverings 
+•  Handrails 
+•  Other combustible materials typically present, if any. 
+ 
+
+3.  In accordance with the results of the fire risk assessment, and in consultation 
+
+with regulatory authorities replace all inappropriate materials on balcony 
+areas with materials that are determined to be acceptable.  Replace all 
+
+combustible balcony dividers on a priority basis and as soon as possible with 
+dividers that are of non-combustible material. 
+
+ 
+4.   A plan to make any replacements of materials should be developed as a final 
+step of the fire risk assessment, with the aim of completing this action within 
+six months from the issue of this safety notice.  
+
+ 
+ICCL will follow-up with member lines regarding their progress. 
+ 
+ICCL and member lines will continue to work closely with the investigating 
+authorities to review lessons learned from this incident and to take additional 
+actions as appropriate.  
+ 
+
+

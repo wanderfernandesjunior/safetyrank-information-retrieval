@@ -1,0 +1,119 @@
+Safety alert 66
+
+October 2017
+
+Potential for fatalities from electrical incidents
+
+What happened?
+
+Recently, over a period of less than 90 days, NOPSEMA received three notifications of dangerous occurrences 
+involving personnel performing electrical work which could have resulted in electric shock or electrocution:
+
+1. Two electricians mistakenly cut through the incorrect 690 volt cable which was a supply for a temporary 
+
+seawater lift pump. Fortunately, the pump was isolated at the time.
+
+2. During an accommodation renovation an electrician cut through a live 240 volt cable while attempting to 
+
+install a new light fitting which resulted in the circuit breaker tripping.
+
+3. A well services field technician shorted out two of the 440 volt power supply phases of a cable from a 
+
+control cabin which resulted in the main power supply breaker tripping.
+
+What could go wrong?
+
+Although no injuries or cardiac irregularities occurred during these three dangerous occurrences, each incident 
+could have resulted in serious injury or fatality as a result of electric shock or electrocution.
+
+Why did these incidents happen?
+
+There was a failure to positively identify the cables to be worked on in two of the incidents.
+There was a failure to positively confirm that electrical isolation had been undertaken prior to 
+commencing work in two of the incidents.
+There was a failure to test that the cables were ‘de-energised’ and safe prior to commencing work in all 
+three incidents.
+There was no Job Safety Analysis/Job Hazard Analysis for the task to be performed in one incident. 
+The precautions identified in the Job Safety Analysis/Job Hazard Analysis were not complied with in one of 
+the incidents i.e. hazards and their control measures were identified but not adhered to.
+There was no Permit To Work for the task to be performed in one incident.
+There were ineffective Permit To Work controls in two of the incidents i.e. inadequate review of permit 
+prior to approval and issue.
+A work procedure didn’t have sufficient detail for the task being performed in one incident.
+A work procedure for the task wasn’t complied with in one incident.
+A non-competent person was working on electrical equipment in one incident. 
+
+Key lessons
+
+The following are all necessary requirements for performing electrical work safely: 
+
+Positive identification of cables and equipment prior to commencing work.
+Adherence to Permit To Work procedures and requirements.
+Adherence to Job Safety Analysis/Job Hazard Analysis procedures and requirements.
+Adherence to electrical isolation procedures and requirements.
+Adherence to work procedures and work instructions.
+Testing that cables and equipment are ‘de-energised’ and safe prior to commencing work.
+Ensure that only competent personnel work on electrical equipment.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+National Offshore Petroleum Safety and Environmental Management Authority
+
+A572494    
+
+October 2017
+
+1 of 2
+
+Safety alert 66
+
+The legislation
+
+Clause 9 of Schedule 3 of the Offshore Petroleum and Greenhouse Gas Storage Act 2006 places specific duties 
+on the operator of a facility to take all reasonably practicable steps to ensure that the facility is safe and 
+without risk to health of any person at or the near the facility. This includes an obligation to take all reasonably
+practicable steps to:
+
+
+
+
+Implement and maintain systems of work that are safe and without risk to health [Clause 9(2)(d)];
+Provide all members of the workforce with the information, instruction, training and supervision necessary 
+for them to carry out their activities in a manner that does not adversely affect the health and safety of 
+persons at the facility [Clause 9(2)(f)].
+
+Contact
+
+For further information email alerts@nopsema.gov.au and quote Alert 66. NOPSEMA safety alerts are 
+published at www.nopsema.gov.au/safety/safety-alerts.
+
+National Offshore Petroleum Safety and Environmental Management Authority
+
+A572494    
+
+October 2017
+
+2 of 2
+
+

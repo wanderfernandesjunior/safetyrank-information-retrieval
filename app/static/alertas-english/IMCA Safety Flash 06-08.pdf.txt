@@ -1,0 +1,562 @@
+AB
+
+ 
+
+IMCA Safety Flash 06/08 
+
+Safety Flash 
+
+April 2008 
+
+These  flashes  summarise  key  safety  matters  and  incidents,  allowing  wider  dissemination  of  lessons  learned  from  them.    The  information  below  has  been 
+provided in good faith by members and should be reviewed individually by recipients, who will determine its relevance to their own operations. 
+
+The effectiveness of the IMCA safety flash system depends on receiving reports from members in order to pass on information and avoid repeat incidents.  
+Please consider adding the IMCA secretariat (imca@imca-int.com) to your internal distribution list for safety alerts and/or manually submitting information 
+on specific incidents you consider may be relevant.  All information will be anonymised or sanitised, as appropriate. 
+
+A  number  of  other  organisations  issue  safety  flashes  and  similar  documents  which  may  be  of  interest  to  IMCA  members.    Where  these  are  particularly 
+relevant, these may be summarised or highlighted here.  Links to known relevant websites are provided at www.imca-int.com/links   Additional links should 
+be submitted to webmaster@imca-int.com 
+
+ 
+
+1  Sikorsky S76A+ and S76A++ Helicopters 
+
+Members  using  Sikorsky  S76A+  and  S76A++  helicopters  are  referred  to  the  attached  safety  alert,  originally  issued  via  the 
+OGP safety zone website (http://info.ogp.org.uk/safety) concerning engine failures resulting from faults in tachometer boxes 
+on these aircraft and the recommended remedy. 
+
+ 
+
+ 
+
+ 
+Safety Alert 
+ 
+Sikorsky S76A+ and S76A++ Helicopters 
+ 
+ 
+Applies to BHP Billiton contracted Sikorsky S76A+ and S76A++ 
+helicopters fitted with Turbomeca Ariel 1S or 1S1 engines. 
+ 
+Sikorsky S76 twin engine helicopters equipped with Turbomeca Ariel 1S or 1S1 
+engines are fitted with engine overspeed sensors designed to shutdown an engine to 
+prevent catastrophic damage in the event of an engine overspeed.  Once an engine 
+has been shutdown by this protection system it cannot be restarted in flight as the 
+overspeed protection system is inaccessible to the flight crew and can only be reset 
+on the ground.  The overspeed protection is incorporated into a component known as 
+the Tachometer Box with two installed on each helicopter, one for each engine. 
+ 
+BHP Billiton has experienced two separate over water in flight engine shutdowns 
+resulting from false overspeed indications.  In both events the helicopter was flown 
+back to an onshore location and landed safely with the one remaining operative 
+engine.  Investigation by the engine manufacturer, Turbomeca, revealed that failures 
+of the overspeed protection system resulted from ingress of moisture and internal 
+corrosion.   
+ 
+In response to the failures on BHP Billiton contracted aircraft and other known 
+events, Turbomeca has developed a replacement Tachometer Box with improved 
+sealing to address the issue of moisture ingress and internal corrosion.   The 
+replacement of existing Tachometer Boxes with the improved part is recommended 
+by Turbomeca in Service Bulletin 292 77 0330 for helicopters operating in humidity 
+saturated environments which is typical of BHP Billiton offshore petroleum 
+operations. 
+ 
+Sikorsky S76A+ and S76A++ helicopters that are not compliant with Service 
+Bulletin 292 77 0330 (Incorporation of Modification TU 330) by 10 July 2008 
+shall not be used by BHP Billiton. 
+ 
+BHP Billiton assets using or are likely to use Sikorsky S76A+ or S76A++ helicopters 
+are to verify helicopter operators have incorporated Modification TU 330 before using  
+these helicopters beyond 10 July 2008. 
+ 
+For further information please contact: 
+ 
+Stan Medved   
+Aviation Safety Manager 
+BHP Billiton 
+ 
+stan.medved@bhpbilliton.com 
++61 3 9609 3018 
+ 
+ 
+Attachment: 
+ 
+Turbomeca Service Bulletin 292 77 0330 (Incorporation of Modification TU 330)
+ 
+ 
+ 
+ 
+ Safety Alert 20080312
+ 
+
+Joe Gross 
+Aviation Adviser 
+BHP Billiton Petroleum 
+
+joe.gross@bhpbilliton.com 
++1 713 499 5452 
+
+ 
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+40220 Tarnos - France
+Tel. (33) 05 59 74 40 00 - Telex 570 042 - Fax (33) 05 59 74 45 15
+
+SERVICE BULLETIN
+
+ARRIEL 1
+
+No.
+
+292 77 0330
+
+Subject:
+
+Installation of a sealed Power Turbine (PT) overspeed
+tachometer box.
+
+Incorporation of modification TU 330.
+
+The technical information contained in this document has been
+
+approved under the Design Organization Approval
+
+No. EASA.21J.070, on 05.02.2007.
+
+1.  Compliance
+
+Modification effectivity date *
+
+MAY 2007
+
+*  Date by which the conditions of application (defined in § A) for the modification described in
+
+this SB, must systematically be complied with.
+This date corresponds to when sufficient resources required to incorporate the modification
+(parts, tools, documentation, etc...) will be available.
+If these resources are available any earlier, the modification may, as an exception, be
+incorporated before the effectivity date.
+
+A.  Application
+
+The manufacturer recommends this modification be incorporated as defined in this Service
+Bulletin.
+
+ARRIEL 1 S - 1 S1 engines
+
+Validity
+
+Code
+
+2-C-2
+
+Conditions of application for engines in service
+(1)  Application at the operator's site or at a TURBOMECA-approved Service Station
+
+Upon customer request.
+
+(2)  Application at a TURBOMECA-approved Repair Center
+
+If the tachometer box is replaced (discarded).
+
+B.  Purpose
+
+To improve the sealing of tachometer boxes.
+
+C.  Description (Appendices 1 and 2)
+
+This modification consists of introducing the post TU 330 tachometer box as an option in
+order to allow the replacement of pre TU 330 boxes that show traces of corrosion or that are
+used in humidity-saturated atmospheres.
+
+Edition originale/Original issue: 05.02.2007
+Mise à jour n°/Update No. … du/of …
+
+292 77 0330
+Page 1/7
+
+SERVICE BULLETIN
+
+Post TU 330 tachometer boxes have no calendar TBO and are no longer followed up with a
+log card.
+This replacement requires a new adaptor plate that is compatible with all boxes
+manufactured by TURBOMECA.
+
+The technical information contained in this document has been approved under the Design
+Organization Approval No. EASA.21J.070.
+
+D.  Approval
+
+E.  Manpower
+
+(1)  At the operator's site or at a TURBOMECA-approved Service Station
+
+(a)  Personnel: 1 mechanic.
+(b)  Time required: 1 man-hour.
+
+(2)  At a TURBOMECA-approved Repair Center
+
+(a)  Personnel of approved Repair Center.
+(b)  Time determined by the Repair Center as being appropriate for this level of
+
+intervention.
+
+F.  Material
+
+Refer to paragraph 3.
+
+G.  Tooling
+
+H.  Weight and balance
+
+Not applicable.
+
+I.  References
+
+(1)  At the operator's site or at a TURBOMECA-approved Service Station
+
+Mechanic's standard tooling.
+
+(2)  At a TURBOMECA-approved Repair Center
+
+Refer to the ARRIEL 1 Repair Manual.
+
+(1)  ARRIEL 1 S Maintenance Manual.............................................  Ref. X 292 F9 452 2.
+(2)  ARRIEL 1 S1 Maintenance Manual...........................................  Ref. X 292 H4 452 2.
+(3)  ARRIEL 1 Repair Manual ..........................................................  Ref. X 292 87 500 2.
+(4)  Helicopter Maintenance Manual.
+
+J.  Other publications concerned
+
+(1)  ARRIEL 1 S Spare Parts Catalogue..........................................  Ref. X 292 F9 702 2.
+(2)  ARRIEL 1 S1 Spare Parts Catalogue........................................  Ref. X 292 H4 702 2.
+(3)  ARRIEL 1 S Illustrated Parts Catalogue....................................  Ref. X 292 F9 602 2.
+(4)  ARRIEL 1 S1 Illustrated Parts Catalogue .................................  Ref. X 292 H4 602 2.
+
+Edition originale/Original issue: 05.02.2007
+Mise à jour n°/Update No. … du/of …
+
+292 77 0330
+Page 2/7
+
+SERVICE BULLETIN
+
+2.  Instructions to be incorporated
+
+A.  Implementation
+
+This modification can be incorporated without removing the engine from the helicopter.
+(1)  At the operator's site or at a TURBOMECA-approved Service Station
+
+Replace PT overspeed tachometer box.
+
+(2)  At a TURBOMECA-approved Repair Center
+
+Replace PT overspeed tachometer box.
+
+B.  Operating instructions
+
+(1)  At the operator's site or at a TURBOMECA-approved Service Station
+
+(a)  Remove pre TU 330 PT overspeed tachometer box: refer to the Helicopter
+
+Maintenance Manual.
+
+(b)  Replace adaptor plate (supply under Aircraft manufacturer’s responsibility): refer to
+
+the Helicopter Maintenance Manual.
+Note:  Replacement of adaptor plate requires removal of second tachometer box.
+
+(c)  Install post TU 330 PT overspeed tachometer box: refer to the Helicopter
+
+Maintenance Manual.
+
+(2)  At a TURBOMECA-approved Repair Center
+
+Refer to the ARRIEL 1 Repair Manual.
+
+C.  Reconditioning and checks
+
+(1)  At the operator's site or at a TURBOMECA-approved Service Station
+
+(a)  Perform a ground run check, task 71-02-13-280-801.
+(b)  Perform a functional check of the overspeed function: refer to relevant ARRIEL 1
+
+Maintenance Manual, chapter 77-31-40.
+
+(2)  At a TURBOMECA-approved Repair Center
+
+Checks and tests: refer to ARRIEL 1 Repair Manual, chapter 72-03-02 for overhaul, and
+chapter 72-03-03 for repair.
+
+D.  Identification
+
+(1)  At the operator's site or at a TURBOMECA-approved Service Station
+
+(a)  Complete the following sections in the engine log book:
+
+- Section "C": Cross out the line referencing the pre TU 330 tachometer box.
+
+Do not complete a new line on the "Replacements" page.
+
+- Section "E": Record the replacement of the tachometer box.
+
+(b)  Notify TURBOMECA that the tachometer box has been replaced by returning the
+
+fully completed compliance certificate (page 7/7 of this Service Bulletin).
+
+(2)  At a TURBOMECA-approved Repair Center
+
+(a)  Complete the following sections in the engine log book:
+
+- Section "A": Update the modification standard.
+- Section "C": Update the equipment record. Only record equipment that is
+
+followed up with a log card. Do not record the post TU 330 tachometer box.
+
+- Section "E": Record the replacement of the tachometer box.
+
+(b)  Notify TURBOMECA that the tachometer box has been replaced by returning the
+
+fully completed compliance certificate (page 7/7 of this Service Bulletin).
+
+E.  Routine maintenance
+
+Not applicable.
+
+Edition originale/Original issue: 05.02.2007
+Mise à jour n°/Update No. … du/of …
+
+292 77 0330
+Page 3/7
+
+SERVICE BULLETIN
+
+3.  Material information
+
+A.  Basic information
+
+The parts list (provided below) required for the incorporation of this Service Bulletin is for one
+engine.
+
+B.  List of parts
+
+New
+
+Part Number
+
+Key Qty
+
+Description
+
+Price
+
+Old
+
+Part Number
+
+Key Qty
+
+9 580 11 644 0
+
+A
+
+1
+
+Tachometer box
+
+*
+
+0 177 55 535 0
+
+C
+
+1
+
+* Prices available upon request.
+
+Key
+A - Part incorporated by this modification.
+C - Part deleted by this modification.
+
+C.  Supply conditions
+
+Order supplies as needed from:
+your local TURBOMECA Support Center
+or
+TURBOMECA
+Direction Support Opérateurs
+Département Commercial
+40220 TARNOS
+France
+Fax No. +33 (0) 5 59 74 45 11.
+
+Edition originale/Original issue: 05.02.2007
+Mise à jour n°/Update No. … du/of …
+
+292 77 0330
+Page 4/7
+
+SERVICE BULLETIN
+
+Boîtier tachymétrique
+Tachometer box
+
+Platine d’adaptation
+Adaptor plate
+
+m
+m
+2
+2
+1
+
+ 
+
+222 mm
+
+Boîtiers tachymétriques pre TU 330
+
+Pre TU 330 tachometer boxes
+
+ANNEXE 1 / APPENDIX 1
+
+Edition originale/Original issue: 05.02.2007
+Mise à jour n°/Update No. … du/of …
+
+292 77 0330
+Page 5/7
+
+SERVICE BULLETIN
+
+Boîtier tachymétrique
+Tachometer box
+
+Platine d’adaptation
+Adaptor plate
+
+ 
+
+m
+m
+2
+3
+4
+1
+
+,
+
+267 mm
+
+Boîtiers tachymétriques post TU 330
+
+Post TU 330 tachometer boxes
+
+ANNEXE 2 / APPENDIX 2
+
+Edition originale/Original issue: 05.02.2007
+Mise à jour n°/Update No. … du/of …
+
+292 77 0330
+Page 6/7
+
+SERVICE BULLETIN
+
+Objet : Attestation de remplacement du boîtier tachymétrique.
+
+Subject: Compliance certificate for replacement of tachometer box.
+
+Important / Important notice:
+Après application de ce Service Bulletin, veuillez compléter la présente attestation et la retourner par
+courrier ou fax à :
+After incorporating the instructions in this Service Bulletin, please complete this certificate and mail or fax it to:
+
+TURBOMECA
+
+Direction Support Opérateurs
+
+Département Technique - Marque ARRIEL
+
+40220 TARNOS - France
+
+Fax n° / No. +33 (0) 5 59 74 45 15
+
+ou / or
+
+notre établissement TURBOMECA le plus proche / the nearest TURBOMECA site
+
+Information concernant le matériel / Equipment information
+
+N/S - S/N
+
+Réf. - P/N
+
+TSN*
+
+TSO*
+
+CSN*
+
+CSO*
+
+N° Appareil
+Aircraft S/N
+
+Utilisateur
+Customer
+
+Moteur
+Engine
+
+Boîtier tachymétrique
+déposé
+Removed tachometer
+box
+
+Boîtier tachymétrique
+posé
+Installed tachometer box
+
+* TSN = Time Since New (Heures depuis neuf)
+  CSN = Cycles Since New (Cycles depuis neuf)
+
+TSO = Time Since Overhaul (Heures depuis RG)
+CSO = Cycles Since Overhaul (Cycles depuis RG)
+
+Opération effectuée par :
+Work performed by:
+.................................................................................................................................................................................................
+
+Je certifie que le boîtier tachymétrique identifié ci-dessus a été installé selon les directives du Service
+Bulletin en objet.
+I certify that the above-mentioned tachometer box has been installed according to the directives given in this
+Service Bulletin.
+
+Date
+
+Nom / Print name
+
+Fonction / Job title
+
+.................................................................................................................................................................................................
+
+Signature :
+
+Edition originale/Original issue: 05.02.2007
+Mise à jour n°/Update No. … du/of …
+
+292 77 0330
+Page 7/7
+
+

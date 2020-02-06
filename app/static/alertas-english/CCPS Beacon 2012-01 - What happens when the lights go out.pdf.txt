@@ -1,0 +1,88 @@
+www.aiche.org/ccps
+
+http://www.aiche.org/CCPS/Publications/Beacon/index.aspx
+
+Messages for Manufacturing Personnel
+
+What happens when the lights go out?
+
+www.iomosaic.com
+
+January 2012
+
+This issue sponsored by
+
+A maintenance worker went into the 
+electrical room to shut off a non-process 
+circuit. By mistake, he turned off the circuit 
+breaker for the plant programmable logic 
+controller (PLC ) power. He realized his error, 
+reset the PLC circuit breaker and turned off 
+the intended circuit breaker. The short power 
+interruption to the PLC caused some process 
+equipment to stop while other equipment 
+continued to operate. The result was a process 
+trying to run with partial controls. The process 
+operation was upset, isolation valves closed, 
+and toxic material was vented  at a rate that 
+overloaded a vent scrubber. Fortunately, no 
+one was injured and the release did not leave 
+the plant site.
+
+Why did this happen?
+
+ We do not know how well the individual 
+breakers were labeled, or how well the 
+electrician was trained. In a process hazard 
+analysis (PHA), this type of failure should be 
+considered when discussing human factors. 
+Unfortunately, the potential consequences of a 
+small event such as this may be missed in the 
+scope of a PHA. 
+ When doing a PHA, be sure that you know 
+what happens to instruments, valves, and other 
+equipment in case of failure of electric power or 
+other utilities such as instrument air. Do they 
+move to a “fail-safe” position or remain in their 
+last position?  If you are not sure, follow the 
+rule: “when in doubt, check it out”.
+ Knowing the failure state of a single device 
+may not be enough to understand what happens 
+to a process if a large number of devices move 
+to the failure position at the same time. Think 
+about what happens if a lot of equipment loses 
+power at the same time.
+
+What can you do?
+
+ Know what happens if the power fails for a single piece 
+of equipment, or to a part of the plant, but the rest of the 
+equipment continues to operate. What happens if power is 
+lost to computer displays or the control panel, but not to the 
+process?
+ Ensure that all electrical controls, including electrical 
+panels and circuit breakers, are properly and clearly labeled. 
+At home you may be able to flip a few circuit breakers until 
+you get the right one, but not at work!
+ If you are asked by a PHA team to verify the proper 
+operation of a device or procedure, take that task seriously. 
+Follow the test procedure and document what you observe.
+ When power failures occur, follow emergency 
+procedures. These should tell you what actions are needed 
+to keep the plant safe, and how to safely resume operation 
+following a power failure.
+ Review and practice utility failure procedures 
+periodically and correct any problems or omissions. 
+Confirm that you  will be able to find the emergency 
+procedures in the event of a power failure.
+
+Be prepared for utility failures!
+
+AIChE © 2012. All rights reserved. Reproduction for non-commercial, educational purposes is encouraged.  However, reproduction 
+for the purpose of resale by anyone other than CCPS is strictly prohibited.   Contact us at ccps_beacon@aiche.org or 646-495-1371.
+
+The Beacon is usually available in Arabic, Afrikaans, Chinese, Danish, Dutch, English, French, German, Greek, Gujarati, Hebrew, Hindi, Italian, Japanese, Korean, Malay, 
+
+Marathi, Norwegian, Persian, Polish, Portuguese, Romanian, Russian, Spanish, Swedish, Tamil, Telugu, Thai, Turkish, and Vietnamese.
+
+

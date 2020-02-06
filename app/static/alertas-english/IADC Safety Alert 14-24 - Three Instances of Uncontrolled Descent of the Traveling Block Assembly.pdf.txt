@@ -1,0 +1,145 @@
+Safety Alert 
+
+        From the International Association of Drilling Contractors 
+
+ 
+ALERT 14 – 24  
+ 
+
+ 
+WHAT HAPPENED: 
+ 
+
+THREE INSTANCES OF UNCONTROLLED DESCENT OF THE TRAVELING BLOCK ASSEMBLY 
+
+First Event:   
+During  troubleshooting  of a Drawworks  brake  alarm  there was an uncontrolled descent  of the travelling block  assembly  to the rig 
+floor resulting  in equipment  damage: 
+• 
+
+The maintenance  team  was troubleshooting  the Drawworks  system  for a brake status alarm  that was preventing  the top 
+drive from breaking  the upper  connection.    The initial understanding  within  the maintenance  team  was that the 
+Drawworks  brakes  were set. 
+Throughout  the troubleshooting  the maintenance  team did not seek a clear understanding  as to the condition  of the brakes.   
+This was further  compounded  by a Public  Address  announcement, which occurred  during  a critical  phone  call that resulted  in 
+the ongoing still believing that the brakes  were set.  As a direct  consequence  o f   t h o s e   e v e n t s ,   both drives  were reset 
+under  the faulty assumption  that the parking  brakes  were set. 
+
+• 
+
+•  With no drives holding  the load, and none of the brake  calipers  set, the travelling assembly  descended  to the floor. 
+ 
+
+Second  Event: 
+During  troubleshooting  of a Drawworks  brake  alarm  a few days after recovering from the first event,  there  was an uncontrolled 
+descent  resulting  in the travelling  b l o c k   assembly lowering  7 feet (2.1 meters) until it was freely  supported  by the drill string.   
+Th i s   r es ul t ed   in   no damage  to equipment: 
+•  After receiving  a brake  status  alarm  the emergency  hydraulic  dump  was triggered  on the Drawworks  in order  to ensure  that 
+
+• 
+
+the brakes  were set.  The Drawworks  was then switched  ‘OFF’ as part of troubleshooting. 
+The hydraulic  dump  was reset and the Drawworks  was switched  ‘ON’ as part of ongoing  troubleshooting.   At this time the 
+auxiliaries  came online  and almost  immediately all brake calipers  opened. 
+
+•  Since  the drives  had not been commanded  by the system  to take the load from the brakes,  and all brake calipers  were 
+
+open, the travelling  b l o c k   assembly  descended.    The emergency  dump  was triggered  by the Driller  from the doghouse.    
+H o w e v e r ,   but by that time the travelling  b l o c k   assembly  had already descended  7 feet (2.1 meters) and was freely 
+supported  by the drill string. 
+
+[Following  the second  event  it was discovered  that all brake  calipers  were held open due to sticking of all hydraulic  solenoid 
+valves  that provide  pilot pressure  to the brake  calipers;  this same situation is what triggered  the brake  alarm  during  the first 
+event.    It was also learned  that the solenoids  only stick in the open position  after an extended  period  of being energized  in the 
+open position;  hence  the reason  this condition  was not replicated  during  extensive  commissioning  following  the first event] 
+
+Third  Event:   
+During  troubleshooting  of excessive  heat buildup  in the Drawworks  braking  system there  was an uncontrolled  descent  resulting 
+in the travelling  b l o c k   assembly  lowering  20 feet (6 meters).  This resulted in no damage  to equipment: 
+•  After identifying  excessive  heat buildup  in the Drawworks  braking  system  a Permit  to Work was made  out to place the brake 
+
+hydraulic  pumps  into manual  mode  in order  to perform some non-intrusive  troubleshooting.  Operations  on the Drawworks 
+were not suspended at this time.  However  the brakes  were set thru the Drillers  chair and the load was fully supported  on the 
+brakes. 
+
+•  Non-intrusive  troubleshooting  was allowed  to escalate  into intrusive troubleshooting  without  the knowledge  of the Drill 
+
+Crew. 
+
+•  As part of intrusive  troubleshooting  plugs  were installed  on a section  of vent pipework.  This vent was connected  through  a 
+manifold  to all brake control solenoids.    Due to natural internal  fluid bypass  of the spool  within  each of the solenoid  valves, 
+pressure  was allowed  to build up behind  the plugs  and all brake calipers  opened. 
+
+•  Since  the drives  had not been commanded  by the system  to take the load from the brakes  when  the brakes  opened,  the 
+
+travelling  assembly  descended.    The emergency hydraulic  dump  was triggered  but by that time the travelling  assembly  had 
+already descended  20 feet (6 meters) with a hanging  load of 470 kips. 
+
+[Following  the third event  it was discovered  that the overheating  was primarily  due to a hydraulic pump  that was initially 
+installed,  and then run for a short time, with the supply/discharge  ports reversed.    The pump  was changed  out following  the 
+second  event.    This plumbing  error was identified  and corrected  after approximately  5 minutes  of run time.  However  the pump 
+had already sustained  damage  that directly  led to it heating  up the fluid in the brake system  hydraulic circuit] 
+ 
+WHAT CAUSED IT: 
+•  Drawworks brakes were not set when troubleshooting of Drawworks drives was initiated 
+•  Miscommunication of the Drawworks brakes status between the Drawworks operator and maintenance team prior to the reset of 
+
+ 
+
+ 
+
+ 
+
+•  All solenoid operated hydraulic valves that control the position of the Drawworks brake calipers were stuck in the ‘brake release’ 
+
+both Master Drawworks drives 
+
+position 
+
+•  Variations in levels of understanding around Drawworks operation / troubleshooting 
+
+Failure to follow the conditions of the Permit to Work in place 
+Less than adequate leadership and supervision 
+Lessons learned not effectively shared 
+
+• 
+• 
+• 
+•  Critical Safety Process value not understood by crew 
+ 
+CORRECTIVE ACTIONS:  To address this incident, this company did the following: 
+•  Use of control of work practices and procedures to ensure suspended loads are secured during troubleshooting of drives and PLCs 
+
+will prevent similar reoccurrence. 
+Instructed personnel that software systems should not be reset without verification that the equipment is mechanically secured. 
+
+• 
+•  Replaced all OEM supplied solenoid valves and other components with new valves (of a different design), and flushed the system 
+
+• 
+• 
+
+with a lighter viscosity oil. 
+Trained crews and verified competency for operation, maintenance, alarm management and response for rig-specific equipment. 
+Instructed rig and maintenance supervisors to ensure Critical Alarm Management Process is fully implemented, thereby ensuring 
+that adequate controls are in place when responding to alarms. 
+
+•  Established a Barrier Management approach during troubleshooting of critical systems. 
+• 
+
+Trained  crews  on  importance  and  use  of  the  Critical  Safety  Processes  such  as:  Permit  to  Work,  Energy  Isolations,  Stop  Work 
+Authority, Management of Change and Behavior based safety tools. 
+
+The Corrective Actions stated in this alert are one company’s attempts to address the incident, and do not necessarily reflect 
+
+the position of IADC or the IADC HSE Committee. 
+
+This material is presented for information purposes only.  Managers & Supervisors should evaluate this information to determine if it can be applied to 
+
+Copyright  2014 International Association of Drilling Contractors All rights reserved. 
+
+their own situations and practices 
+
+Issued August 2014 
+
+

@@ -1,0 +1,57 @@
+Safety Alert  No. 319                                                                                            Contact: Jason Mathews 
+ 
+February 29, 2016                                                                                               Phone: (504)  731-1496
+  
+
+Chemical Injection Point  Corrosion Causes Production Header Failure  
+
+ 
+
+Recently, an  18-in low pressure production  
+header on a  producing platform in the Gulf of  
+Mexico failed under normal working pressure.  
+The failure ruptured the header, opening a 10-ft 
+long  split and releasing production fluids at a  
+pressure of 250-psi.  Three workers were 
+sprayed with  production fluid and approximately  
+25 bbls were  released.  The event resulted in the  
+evacuation of the platform.  
+ 
+An investigation by BSEE concluded  the failure  
+was caused by a corrosive  loss of pipe integrity  
+immediately  beneath a  chemical drip injection  
+point  used  to introduce an acidic  demulsifier into  
+the flow stream.   Over  time the demulsifier  
+corroded away approximately 50-percent of  the  
+metal  thickness of the  pipe below  the injection  
+point.  
+ 
+
+BSEE  concluded that  the proper procedure would have been to inject the acidic demulsifier into the pipe  
+using an injection quill.  The injection quill would have introduced  the demulsifier into  the middle of  the  
+flow stream keeping it from continually impacting  the pipe wall in proximity  to  the injection point.      
+ 
+BSEE recommends  that Operators develop procedures ensuring the proper use, installation, and  
+ 
+verification of chemical injection 
+equipment.   We also recommend  
+that  Operators conduct both visual  
+and non-destructive testing of all 
+corrosive chemical injection points  
+to verify that  the recommended  
+injections quills are installed and  
+that  the existing piping has not  
+been compromised  by the injection process.  
+ 
+ 
+
+A Safety Alert is a tool used by BSEE to  inform the  offshore  oil  and gas industry of  the circumstances  
+surrounding  an  accident  or  a near miss.  It  also contains recommendations  that should help   
+prevent  the recurrence of  such an incident on  the Outer Continental Shelf.  
+ 
+
+ 
+
+ 
+
+

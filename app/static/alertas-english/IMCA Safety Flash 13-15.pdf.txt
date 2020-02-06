@@ -1,0 +1,224 @@
+AB 
+
+ 
+
+IMCA Safety Flash 13/15 
+
+Safety Flash 
+
+  September 2015 
+
+These flashes summarise key safety matters and incidents, allowing wider dissemination of lessons learnt from them.  The information below has been provided 
+in good faith by members and should be reviewed individually by recipients, who will determine its relevance to their own operations. 
+
+The effectiveness of the IMCA safety flash system depends on receiving reports from members in order to pass on information and avoid repeat incidents.  
+Please consider adding the IMCA secretariat (imca@imca-int.com) to your internal distribution list for safety alerts and/or manually submitting information on 
+specific incidents you consider may be relevant.  All information will be anonymised or sanitised, as appropriate. 
+
+A number of other organisations issue safety flashes and similar documents which may be of interest to IMCA members.  Where these are particularly relevant, 
+these may be summarised or highlighted here.  Links to known relevant websites are provided at www.imca-int.com/links   Additional links should be submitted 
+to webmaster@imca-int.com 
+
+ 
+
+1  Grounding and Flooding of Ferry – Complacency      
+
+The UK Marine Accident Investigation Branch (MAIB) has published a report into the grounding and flooding of the ro-ro (“roll 
+on roll off”) ferry Commodore Clipper in the Channel Islands in July 2014.  The vessel raked over two granite pinnacles at full 
+sea speed of  about 18 knots; its hull was breached  and seawater flooded into double-bottom void spaces.  The grounding 
+caused a noisy and shuddering vibration, but the crew did not immediately check for damage. 
+
+The report identifies the following safety issues: 
+
+ 
+
+Insufficient passage planning meant that the bridge team were unaware of the limits of safe water where the  vessel was 
+heading, and so headed into danger without appreciation of the navigational risk.  A number of issues were not properly 
+considered: 
+
+ 
+
+  The very low tide; 
+
+  The effect of vessel ‘squat’ in shallow water at high speed; 
+
+  The accuracy of the chart data. 
+
+  The possibility that the vessel had grounded was denied.  In the circumstances of a shuddering vibration, it is important 
+
+that the crew establish the state of their vessel by searching for damage; 
+
+  The repetitive nature of ferry operations can induce a degree of complacency when planning; 
+
+  The electronic navigation system was not being utilised effectively because safety settings were not appropriate to the local 
+
+conditions, warnings were ignored and the audible alarm was disabled; 
+
+  The local responsible port authority did not have an effective risk assessment or safety management plan for the conduct 
+
+of navigation in its statutory pilotage area. 
+
+ 
+The full report can be downloaded here: https://www.gov.uk/maib-reports/grounding-and-flooding-of-ro-ro-ferry-commodore-
+clipper. 
+
+2  LTI – Rigger Struck by Rigging under Tension 
+
+A member has reported an incident in which a rigger was struck by a winch wire and sustained a fractured arm.  The incident 
+occurred during attachment and deployment of a clump weight to a riser through the moonpool.  The vessel was in the process 
+of installing a riser as part of a large field development in 400m water depth.  In order to prevent damage to the riser during 
+deployment of the clump weight, a hold-back winch was connected to it via a two part bridle and ROV hooks.   The winch 
+would then pull the clump weight forward to allow it to be lowered without clashing with the riser.  
+
+Once deployment of the clump weight had come to a stop, tension was released from the hold-back winch, and a rigger was 
+instructed to enter the work area and disconnect the two slack ROV hooks by pulling on release ropes.  The deck supervisor 
+then signalled for the winch operator to commence hoisting up on the winch.  It was during the winch hoisting movement that 
+the “extension beak” on one of the ROV hooks got snagged.  The beak parted which resulted in the two part bridle complete 
+with ROV hooks and winch wire flying up and striking the rigger knocking him off his feet to deck.  
+
+The job was immediately stopped and the medic was called to the scene.  The medic quickly diagnosed that the injured person 
+had suffered a broken arm as a result of the incident.  He was escorted to the on-board hospital and subsequently medivaced 
+ashore to hospital where it was confirmed that he had closed fractures to the radius and ulna bones of his left arm.  
+
+Our members’ investigation is still underway, but the following preliminary findings were noted: 
+
+  Lack of hazard awareness and consequence for a routine task; 
+
+  Low risk perception to the task because of other associated higher risk tasks in the same area; 
+
+  The need to identify and mitigate all risks associated with a Management of Change (MoC) process; 
+
+  The Management of Change process should recognise where appropriate the introduction of required additional personnel 
+
+into the task.  
+
+Although this task had been conducted without incident in previous riser installations, this incident acts  as a reminder of the 
+need to remain vigilant at all times, particularly with routine tasks which can be seen as being “low risk”.  If there are any doubts 
+about the safety of any operation, personnel should stop the job and ensure the situation is reassessed.  All personnel should 
+have good “situational awareness” of what is going on at all times, and are encouraged to actively and positively contribute to 
+worksite safety.  If in doubt STOP THE JOB. 
+
+Showing ROV hook beak (left) and rigging arrangement (right) 
+
+Further actions: 
+
+  Deck review to identify potential snap back zones and all lines of fire zones for all winch operations; 
+
+  Review of where crew are standing whilst doing this particular job; 
+
+ 
+
+ 
+  Further crew briefings covering:  
+
+  Toolbox talk training and workshops 
+
+ 
+
+Line of fire awareness briefing (IMCA); 
+
+  A review of the Management of Change process and Job Risk Analysis for this operation; 
+
+  Assessment of suitability of ROV hooks for deck rigging activities; 
+
+  Assessment of task procedures and risk assessments – are they available, understood and do they reflect the way the job 
+
+  Consideration of possible negative or unforeseen effects of changes made to improve how a task is done; 
+
+  Consideration of the required sequence of activities (e.g. who, what, when?) and agreement and confirmation of readiness 
+
+is actually being carried out; 
+
+before starting work; 
+
+ 
+
+Identification of any operations/tasks which could expose personnel to a “line of fire” risk.   
+
+Members may wish to refer to the following similar incidents (search words: tension): 
+
+IMCA SF 17/08 Incident. 3 – Stored energy – injury sustained whilst removing metal straps; 
+
+IMCA SF 11/15 Incident. 4 – Mooring line failure resulting in serious injury; 
+
+IMCA SEL 035 – In the line of fire DVD. 
+
+ 
+
+ 
+
+ 
+
+Members should be aware that IMCA publishes a safety promotional DVD called “In the line of fire” which can be downloaded 
+or streamed online, or DVD copies can be purchased for a small charge. See IMCA SEL 036 In the line of fire. 
+
+3  Fire Hydrants Fitted with Incorrect Coupling Sizes 
+
+A member has reported an incident in which replacement fire hydrants were found to be fitted with incorrect coupling sizes, 
+leading to them being incompatible with fire hose couplings.  This would have severely impacted the firefighting capabilities of 
+the vessel.  The incident occurred following a number of earlier occasions in the previous five years in which fire hydrant valves 
+in the accommodation had been found leaking.  Replacement hydrants were ordered and fitted, but the couplings were found 
+to be incompatible.  It was found that the coupling on the hydrant valve in the port side forward thruster room did not fit the 
+adjacent fire hose coupling.  The hose coupling measured 65mm and the hydrant coupling measured 80mm. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+  
+
+ 
+
+Our members’ investigation revealed the following:  
+
+  The hydrant/hose coupling incompatibility was not followed up in a timely manner.  Six days elapsed between the discovery 
+
+of the incompatibility and a Hazard Observation being made; 
+
+  A total of thirty hydrant couplings were found with 80mm couplings fitted instead of 65mm couplings.  Had there been a 
+
+fire these thirty couplings (incompatible) on the fire hydrants would not have been serviceable; 
+
+  Firefighting capabilities were not entirely restricted as the outside accommodation fire hydrants on each deck  were still 
+pressurised  and  compatible  with  the  fire  hoses  onboard  and  the  shipboard  accommodation  sprinkler  fire  suppression 
+system was available. 
+
+ The lessons learnt: 
+
+  The  need  for  vigilance  and  the  importance  of  thorough  inspections  and  correctly  completing  all  checklists,  including 
+
+examination for missing or improperly installed components: 
+
+Lack of attention/due care/poor work practice 
+
+ 
+
+ 
+
+Failure to identify incorrect fire hydrant valve couplings during installation of valves 
+
+  The thirty incompatible fire hydrant valve couplings were fitted in May 2014 and this had not been spotted for many 
+
+months, despite maintenance, safety inspections and drills; 
+
+  When incidents, near misses, issues or concerns are reported, they should be followed up in a timely manner. 
+
+Members may wish to check their own fire-fighting equipment, to carefully and thoroughly inspect all equipment when first 
+received,  and  to  ensure  that  during  fire  drills,  hoses  are  properly  run  and  connected  to  hydrants,  including  in  the 
+accommodation areas.   
+
+Members may wish to refer to the following similar incidents relating to incorrect fittings (search words: fitting, incorrect): 
+
+IMCA SF 07/13 –  Near miss: Failure of gas quad fitting; 
+
+IMCA SF 19/14 – Injuries due to failure of diver’s emergency gas cylinder. 
+
+

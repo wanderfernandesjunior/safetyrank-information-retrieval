@@ -1,0 +1,138 @@
+ 
+Safety 
+Alert 
+
+Contact: Jack Williams 
+(504) 736-1757 
+
+U.S. Department of the Interior 
+Bureau of Safety and 
+Environmental Enforcement 
+ 
+
+BSEE 
+
+ 
+
+ Safety Alert No. 314 
+23 September 2014 
+ 
+
+Operator Electrocuted Trying to Charge a Battery 
+
+ 
+
+On a drilling rig offshore in the Gulf of Mexico, an operator for a cementing contractor was 
+trouble shooting an electronic instrument failure.  He suspected a discharged battery in a battery 
+box was the problem.  He plugged a wheeled battery charger (like those in all service stations) 
+into a three-prong extension cord carrying household 115V current, and was killed by 
+electrocution.     
+ 
+A BSEE Panel investigated the incident and determined that the extension cord was shorted in its 
+female end with the ground wire burned off.  This allowed a hot wire from the extension cord to 
+connect with the ground wire of the battery charger.  The ground wire of the battery charger then 
+energized the metal case and when the operator knelt on a wet deck and touched the battery 
+charger case, current passed through his hand to his knee, stopping his heart.    
+ 
+The root causes of this fatality lie with:   (1) faulty repair and maintenance; (2) little or no 
+training in dealing with the dangers of electricity; (3) failure to adhere to best practices for wiring 
+and electricity distribution as identified in identified in the NEC NFPA 70, OSHA requirements 
+29 CFR 1926, and API recommended practice 14F, etc.; (4) poor communication between the 
+field and the repair and maintenance departments.   
+ 
+The investigation identified the following major specific issues:   
+ 
+
+•  Neither the extension cord nor the electrical circuit had a ground fault circuit interrupter 
+
+(GFCI), a type of circuit breaker.  
+
+•  The short was probably caused by moisture seeping into the plug and plug receptacle.  
+
+NEMA-4 standard water-tight plug and plug end were not used, yet the connection was in 
+a location subjected to heavy fluid exposure and weathering.    
+
+•  Wiring and maintenance on the cement skid was sub-standard;  
+
+•  The use of an extension cord to supply power over extended distance and time is against 
+
+best practice of API  RP 14F, UL, OSHA, etc., (see full report for details); 
+ 
+
+•  The extension cord was not of industrial quality, was many years old with dangerously 
+
+frayed armor, and with other obvious damage, yet was allowed to remain in service; 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+•  Printed warnings on the battery charger and user guide repeatedly warned against using 
+
+an un-grounded circuit for power and also warned against using an extension cord except 
+under the most carefully controlled circumstances.  These warnings were not followed; 
+
+•  No supervision, training, JSA, addressed the dangers of connecting or using a common 
+
+commercial battery charger. 
+
+ 
+The BSEE recommends the Operators review the incident report and familiarize their employees 
+and contractors with the circumstances of electrocution by household current.  The BSEE also 
+recommends the following: 
+ 
+
+•  Do not use extension cords for power transmittal unless absolutely necessary.  For power 
+transmittal over distance and time, properly hard wire the connections and insure NEMA 
+standards are met for water and dust-proofing; 
+
+• 
+
+Insure any extension cords meet UL, OSHA, API, etc., industrial standards for grade and 
+that all three wires are intact.  Limit the length of extension cords in use, and regularly 
+inspect and replace any extension cord used to transmit power per best practice.   Use 
+only extension cords equipped with an integral ground fault circuit interrupter (GFCI); 
+
+ 
+
+ 
+
+ 
+
+•  Use proper protective equipment, read user’s manuals, conduct JSA meetings even for 
+
+relatively common tasks; 
+
+ 
+The full Panel report can be reviewed at the following link: 
+ 
+http://www.bsee.gov/Inspection-and-Enforcement/Accidents-and-Incidents/Panel-Investigation-
+Reports/Panel-Investigation-Reports/ 
+
+—BSEE— 
+
+ www.bsee.gov 
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+
+A Safety Alert is a tool used by BSEE to inform the offshore oil and 
+gas industry of the circumstances surrounding an accident or a near miss. It also 
+contains recommendations that should help prevent the recurrence of such an 
+incident on the Outer Continental Shelf. 
+
+

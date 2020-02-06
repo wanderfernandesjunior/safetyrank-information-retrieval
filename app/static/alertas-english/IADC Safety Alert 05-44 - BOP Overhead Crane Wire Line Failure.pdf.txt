@@ -1,0 +1,128 @@
+Safety Alert 
+
+        From the International Association of Drilling Contractors 
+
+ 
+ALERT 05 – 44 
+ 
+
+BOP OVERHEAD CRANE WIRE LINE FAILURE 
+
+ 
+WHAT HAPPENED: 
+ 
+During a recent Nippling Down and repositioning of the 21 ¼ BOP from the wellhead to the stump the BOP 
+Winch Line (the overhead crane) parted allowing the top of the BOP to fall towards the broken line direction.  
+Fortunately the BOP had not been lifted high and the bottom of the BOP lodged in the ground preventing it 
+from flipping over. The other overhead crane cable was unaffected and a safety sling was fitted to this unit as 
+an extra precaution while it was taking all the weight. There was no injury to personnel.  There was however 
+damage to flexible control hose from the HCR to the choke manifold requiring the hose to be replaced.   
+ 
+WHAT CAUSED IT: Investigation Findings 
+ 
+(cid:131)  Wire line was used was as per the original specifications. 
+(cid:131)  A lifting equipment inspection was conducted by a third party lifting equipment inspection company.  The 
+inspector  claims  that  after  the  inspection  he  told  the  Rig  Manager  that  this  line  was  damaged  and 
+needed to be changed out.  The Rig Manager claims he was not made aware of a damage line. 
+o  The  two  copies  of  the  report  for  the  above  inspection  were  provided  however  critical  information 
+
+within the reports were different: 
+(cid:131)  The paper version said “The inspection of the above equipment was found to be in satisfactory 
+
+(cid:131)  The  electronic  version  said  “The  Wire  Rope  was  found  damaged  (need  to  be  replaced  before 
+
+condition”. 
+
+commencing any lifting operation”. 
+
+(cid:131)  There was no evidence of any Pre Job Meeting held prior to commencing the Nippling Down operation. 
+(cid:131)  There was no recorded evidence that periodic or pre job inspection including Monthly PMS routines had 
+
+(cid:131)  The failed line was in poor condition and should have been identified as a hazard between the inspection 
+
+been completed on the failed line  
+
+date and the incident date. 
+
+ 
+CORRECTIVE ACTIONS:  To address this incident, this company issued the following: 
+ 
+(cid:131)  The third party inspection company is to check all inspection reports for all other rigs for accuracy and 
+
+relevance. 
+
+(cid:131)  The third party inspection company is to develop a paper trail which will be signed immediately after the 
+inspection  is  complete  by  the  Rig  Manager  acknowledging  the  inspection  carried  out  and  any 
+discrepancies and/or recommend actions to be taken as a result of the inspection. 
+
+(cid:131)  Rig  Superintendent,  Rig  Managers  to  reinforce  the  importance  of  Pre  Tour/Pre  Job  meeting  and  the 
+
+need to maintain a record of these meeting conducted. 
+
+(cid:131)  Add inspection criteria to Rig Manager Weekly Inspection for wire lines on Overhead BOP Cranes. 
+(cid:131)  Enforce Monthly Planned Maintenance routines for Overhead BOP cranes. 
+(cid:131)  Adopt  a  12  month  “Out  of  Service”  date  when  wire  lines  for  BOP  Overhead  Cranes  are  change  out 
+
+regardless of its condition at the time. 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+The Corrective Actions stated in this alert are one company’s attempts to address the incident,  
+
+and do not necessarily reflect the position of IADC or the IADC HSE Committee. 
+
+This material is presented for information purposes only.  Managers & Supervisors should 
+
+evaluate this information to determine if it can be applied to their own situations and practices 
+
+Copyright © 2005 International Association of Drilling Contractors All rights reserved. 
+
+Issued December 2005 
+
+Safety Alert 
+
+        From the International Association of Drilling Contractors 
+
+ 
+Figure 1 – Overhead Crane 
+
+Set-up 
+
+Figure 1 – Anchor end 
+
+approx 10 foot. 
+
+ 
+
+Figure 3 – Parted line 
+
+ 
+
+ 
+ 
+
+ 
+ 
+
+The Corrective Actions stated in this alert are one company’s attempts to address the incident,  
+
+and do not necessarily reflect the position of IADC or the IADC HSE Committee. 
+
+This material is presented for information purposes only.  Managers & Supervisors should 
+
+evaluate this information to determine if it can be applied to their own situations and practices 
+
+Copyright © 2005 International Association of Drilling Contractors All rights reserved. 
+
+Issued December 2005 
+
+

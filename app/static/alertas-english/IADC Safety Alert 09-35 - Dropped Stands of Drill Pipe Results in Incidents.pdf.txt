@@ -1,0 +1,211 @@
+Safety Alert 
+
+        From the International Association of Drilling Contractors 
+
+ 
+ALERT 09 – 35 
+ 
+ 
+
+  DROPPED STANDS OF DRILL PIPE RESULT IN INCIDENTS 
+
+ 
+
+WHAT HAPPENED: 
+ 
+While the rig crew was tripping drill pipe into the hole the derrickman missed latching a stand of 3½” drill pipe 
+and it was dropped across the derrick.  In an effort to return the stand to the derrick man, the floor crew used 
+the driller’s side rig floor winch.  They wrapped the winch’s cable around the stand, anchored it to the rig floor 
+near the V-door opening and began to pull it back to the derrickman.  As the stand was being pulled back 
+toward the derrickman, it slid or lifted up and went out the v-door, falling to the yard below.  
+
+Previously on another rig while the rig floor winch line was being used to pull back a stand, the rig floor crew 
+gathered around the stand to push it toward the derrickman.  As the winch operator operated the winch to 
+pull on the stand, the pin end of the missed stand was lifted off the rig floor by the winch cable.  The winch 
+operator slacked off the line quickly to avoid lifting it further.  The stand of pipe came down on the foot of a 
+rig floor crewman just behind his steel toe, cutting off three toes.  
+
+On another rig as the winch line was pulling the dropped stand back, the line tension caused the stand to 
+whip back striking the tip of the derrickman’s board.  The derrick board flipped up and struck the 
+derrickman’s leg breaking it.   
+
+WHAT CAUSED IT: 
+ 
+  The procedure for pulling back a dropped stand was inadequate.   
+  No JSA had been performed to define the hazards of the task or explain how to address them.  
+  When a stand is dropped, the rig floor winch is generally used to pull it back to the derrickman.  
+  No consideration was given to the movement of the pin end of the stand of drill pipe.   
+ 
+
+CORRECTIVE ACTIONS:  To address this incident, this company did the following: 
+ 
+  A safety meeting was held immediately after each incident and the procedures were reviewed. 
+  The  Operations  Managers  on  the  projects  met  with  the  crews  emphasizing  the  company  policy  that 
+anyone can stop the job if a hazard is perceived.  The same was done for all other rig crews within the 
+division.  
+Instructed  rig  personnel  that  before  attempting  to  pull  back  a  dropped  (lost)  stand  hazards  must  be 
+discussed.   
+Instructed rig personnel on three things to consider when performing this task:  
+1.  To prevent the bottom of the stand from moving, tie off the bottom of the stand to other stands in the 
+
+ 
+
+ 
+
+derrick with a length of chain.   
+
+2.  Whip the winch line wraps around the stand to make the wraps travel up the stand before pulling with 
+the winch.  This will place the center of pull on the stand nearer the top, reducing the tendency to lift 
+the  stand.    In  other  words,  if  the  winch  line  is  placed  properly,  the  top  of  the  stand  will  be  moved 
+toward the board rather than the entire stand being lifted up.  
+
+3.  Rig  floor  personnel  should  not  be  anywhere  near  the  pin  end  of  the  stand  when  the  winch  is 
+
+operated to pull the stand back to the board.  
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+The Corrective Actions stated in this alert are one company’s attempts to address the incident,  
+
+and do not necessarily reflect the position of IADC or the IADC HSE Committee. 
+
+This material is presented for information purposes only.  Managers & Supervisors should 
+
+evaluate this information to determine if it can be applied to their own situations and practices 
+
+Copyright  2005 International Association of Drilling Contractors All rights reserved. 
+
+Issued December 2009 
+
+Safety Alert 
+
+        From the International Association of Drilling Contractors 
+
+ 
+  Message  to  all  rig  supervisors:    This  is  a  non-standard  operation  yet  pulling  back  a  dropped  stand 
+seems to happen often.  Develop a JSA for pulling back a dropped stand and discuss this JSA before 
+performing this task.  To help recognize the hazards of a job, everyone should be asking themselves and 
+each other, “what can potentially go wrong with this job.”  Communicate the hazards with one another in 
+a pre-job safety meeting and address how the hazards can be avoided or eliminated.   
+
+ 
+IADC Note:  At a Safety Engineering by Design Sub-Committee meeting one member discussed their use of 
+a  “Dropped  Pipe”  pull  back  line.    See  the  following  pages  describing  this  company’s  procedure  and  cable 
+design.    Note  this  is  not  an  IADC  Recommended  practice,  but  one  company’s  effort  to  make  pulling  back 
+dropped (lost) stands of drill pipe safer.   
+
+The Corrective Actions stated in this alert are one company’s attempts to address the incident,  
+
+and do not necessarily reflect the position of IADC or the IADC HSE Committee. 
+
+This material is presented for information purposes only.  Managers & Supervisors should 
+
+evaluate this information to determine if it can be applied to their own situations and practices 
+
+Copyright  2005 International Association of Drilling Contractors All rights reserved. 
+
+Issued December 2009 
+
+ 
+
+ 
+1.3 
+
+ 
+1.4 
+
+ 
+1.5 
+
+ 
+1.6 
+
+Safety Alert 
+
+        From the International Association of Drilling Contractors 
+
+LOST PIPE RECOVERY SYSTEM 
+
+ 
+
+ 
+
+ 
+IADC Note:  The following information was previously shared with the IADC HSE Committee’s Safety 
+Engineering by Design Sub-Committee.  This is not an IADC recommended practice, but a sharing of 
+how one company addressed the issue of recovering dropped drill pipe.   
+ 
+1.1 
+ 
+1.2 
+
+Use  a  shackle  to  secure  the  end  of  the  70’  length  of  wire  rope  to  a  stationary  location  on  the 
+derrickman’s side of the rig floor.  (See detail “A”) 
+
+Refer to the attached drawing of the Lost Pipe Recovery System.   
+
+Secure the live end of the rig floor winch line to the D-ring attached to the end of the 70’ length of 
+wire rope by the use of a shackle. (See detail “A”) 
+
+Next loop the five foot length of chain which is on the D-ring assembly around the lost stand of pipe 
+and secure it to the D-ring (the chain will now encircle the pipe and both ends of the chain will be 
+attached to the D-ring)  
+
+Raise the air hoist line while making sure the chain slides up the stand (just past the second tool joint 
+connection) until the cable is in tension. (See “Position #1”) 
+
+Slowly  increase  the  tension  on  the  winch  line  and  gently  pull  the  stand  of  pipe  back  to  the 
+Derrickman.  (See “Position #2 and Detail “B”)  
+
+ 
+ 
+ 
+ 
+Note1:  The seventy (70) feet length of wire rope is required when pulling back a lost stand containing three 
+average length joints of Range Two (2) drill pipe (27 – 30 feet).  Rigs operating with stands of fewer joints or 
+Range 1 or Range 3 drill pipe will need to adjust the length of the wire rope they order.   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+The Corrective Actions stated in this alert are one company’s attempts to address the incident,  
+
+and do not necessarily reflect the position of IADC or the IADC HSE Committee. 
+
+This material is presented for information purposes only.  Managers & Supervisors should 
+
+evaluate this information to determine if it can be applied to their own situations and practices 
+
+Copyright  2005 International Association of Drilling Contractors All rights reserved. 
+
+Issued December 2009 
+
+ 
+
+ 
+
+ 
+
+

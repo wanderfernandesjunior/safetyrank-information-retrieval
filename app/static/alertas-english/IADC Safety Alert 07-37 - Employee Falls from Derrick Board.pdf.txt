@@ -1,0 +1,125 @@
+Safety Alert 
+
+        From the International Association of Drilling Contractors 
+
+ 
+ALERT 07 – 37   
+ 
+
+EMPLOYEE FALLS FROM DERRICK BOARD 
+
+ 
+WHAT HAPPENED: 
+ 
+The crew stopped tripping in the hole to fill the pipe.  The rig is a cold weather rig equipped with a "warming 
+hut"  on  the  derrick  board.    Filling  the  pipe  was  going  to  take  about  fifteen  minutes  so  the  derrickman 
+unhooked  his  positioning  rope  and  entered  the  warming  hut.    The  derrickman  stated  he  disconnected  his 
+positioning rope so he could close the hut door.  After the pipe was filled he heard the blocks running up and 
+exited the hut to get a stand of drill pipe.  When he left the hut, the derrickman forgot to reattach the derrick 
+board positioning rope to his harness.  As he reached to latch the drill pipe in the elevators, he fell from the 
+derrick board.  His fall was arrested by the board's self retracting lifeline (i.e., SRL) which left him hanging 
+below  the  derrick  board.    The  crew  swung  the  air  hoist  line  to  him  and  he  was  able  to  get  his  feet  on  the 
+weighted ball and get back on the board.  The SRL and harness were replaced and taken out of service due 
+to the impact. 
+ 
+WHAT CAUSED IT: 
+ 
+•  Following the incident the derrickman stated he was preoccupied with a personal issue and did not have 
+
+•  The derrickman worked derricks for 2.5 years; however even this experience did not ensure he 
+
+his mind on the job at hand.   
+
+performed his job properly.   
+
+•  The trip was not a "typical job" for these crewmembers.  Two crewmembers did not show up for work 
+
+therefore, the crew "switched" positions.  The man who fell from the board was actually the driller (DR).  
+The rig manager (RM) was running the rig. 
+
+•  The driller (RM) did not ensure either visually or verbally that the derrickman (DR) was properly tied off 
+
+before the blocks left the rig floor. 
+
+•  The  heater  in  the  hut  was  not  working  and  a  previous  derrickman  had  unplugged  the  communication 
+system to use his own 110 volt heater.  When his hitch was over he removed his heater and did not plug-
+in the communication system.   
+
+•  The  derrickman  (DR)  that  fell  was  complacent  and  did  not  investigate  why  the  communication  system 
+
+was not working. 
+
+•  The derrickman (DR) removed his positioning rope so he could close the door to the warming hut.  It was 
+
+stated this is common practice as the design of the door does not allow it to close "around" the rope.  
+The derrickman (DR) DID NOT remove his SRL as the cable is thin enough to allow the door to close 
+with it attached.   
+
+ 
+CORRECTIVE ACTIONS:  To address this incident, this company did the following: 
+ 
+• 
+•  At a minimum the Safe Work Procedures Handbook requires the driller to review a JSA for ALL trips with 
+crewmembers  emphasizing  hazard  recognition  for  the  different  procedures  involved  in  tripping  the  drill 
+string.  
+
+It is absolutely critical to concentrate on the job at hand.   
+
+•  Special precautions must be taken for jobs performed by individuals working outside their normal roles. 
+•  The  company’s  Safe  Work  Procedures  Handbook  requires  the  driller  to  ensure  at  any  time  during 
+tripping operations that when the derrickman leaves then reenters the board area he must ensure that 
+the he is properly tied off and ready for tripping operations to resume. 
+
+•  The company’s “Driller's Ten Commandments” first commandment mandates: 
+
+o  Thou  shall  never  raise  the  blocks  above  the  rig  floor  until  you  confirm  the  derrickman  is  properly 
+attached  to  fall  restraint.    Check  both  visually  and  verbally,  use  your  eyes  and  the 
+
+The Corrective Actions stated in this alert are one company’s attempts to address the incident,  
+
+and do not necessarily reflect the position of IADC or the IADC HSE Committee. 
+
+This material is presented for information purposes only.  Managers & Supervisors should 
+
+evaluate this information to determine if it can be applied to their own situations and practices 
+
+Copyright © 2005 International Association of Drilling Contractors All rights reserved. 
+
+Issued December 2007 
+
+Safety Alert 
+
+        From the International Association of Drilling Contractors 
+
+ 
+
+communication  box.    This  procedure  shall  be  followed  every  time  there  is  break  in  the  tripping 
+process such as breaking circulation or any time the derrickman leaves the board area. 
+
+•  Additionally, employees working on the rig floor during trips or any time personnel are in the derrick, they 
+
+should assist the driller in monitoring the derrickman's activities. 
+
+•  Rig  equipment  such  as  the  communication  system  should  NEVER  be  disabled.    Provisions  must  be 
+made  to  ensure  nonfunctioning  equipment  such  as  the  heater  and  the  communication  system  are 
+working  or  scheduled  for  repair.    Formal  Action  Items  must  be  written  and  entered  in  the  Action  Item 
+Tracking Database to ensure repairs are completed.  Alternative management controls/precautions must 
+be implemented in the event equipment cannot be repaired prior to initiating work. 
+
+•  Warming huts should be designed to allow the door to close with the positioning rope attached. 
+ 
+ 
+
+The Corrective Actions stated in this alert are one company’s attempts to address the incident,  
+
+and do not necessarily reflect the position of IADC or the IADC HSE Committee. 
+
+This material is presented for information purposes only.  Managers & Supervisors should 
+
+evaluate this information to determine if it can be applied to their own situations and practices 
+
+Copyright © 2005 International Association of Drilling Contractors All rights reserved. 
+
+Issued December 2007 
+
+

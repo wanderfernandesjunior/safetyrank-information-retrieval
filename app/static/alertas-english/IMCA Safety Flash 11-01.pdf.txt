@@ -1,0 +1,232 @@
+AB
+
+ 
+
+IMCA Safety Flash 11/01 
+
+October 2001 
+
+These  flashes  summarise  key  safety  matters  and  incidents,  allowing  wider  dissemination  of  lessons  learned  from  them.    The  information  below  has  been 
+provided in good faith by members and should be reviewed individually by recipients, who will determine its relevance to their own operations. 
+
+The effectiveness of the IMCA safety flash system depends on receiving reports from members in order to pass on information and avoid repeat incidents.  
+Please consider adding the IMCA secretariat (imca@imca-int.com) to your internal distribution list for safety alerts and/or manually submitting information 
+on specific incidents you consider may be relevant.  All information will be anonymised or sanitised, as appropriate. 
+
+A  number  of  other  organisations  issue  safety  flashes  and  similar  documents  which  may  be  of  interest  to  IMCA  members.    Where  these  are  particularly 
+relevant, these may be summarised or highlighted here.  Links to known relevant websites are provided at www.imca-int.com/links   Additional links should 
+be submitted to webmaster@imca-int.com 
+
+ 
+
+1  Failure of ROV Lift Umbilical Winch Brake - Update 
+
+In  the  Safety  Flash  09/01  we  gave  an  update  on  the  design  problem  found  in  a  Macartney  Cormax  unit  manufactured  by 
+Norlau (see Safety Flash 08/01).  A member advises that they have determined with the manufacturer of the winches that the 
+hydraulic motors were inadvertently supplied without two check valves being fitted (although the circuit showed them being 
+in  place).    The  manufacturer  will  be  refitting  all  of  the  members’  winches  with  replacement  motors.    The  member 
+understands  (but  cannot  sure)  that  the  manufacturer  will  be  advising  all  other  users  of  these  winches  about  the  problem.  
+The member is continuing to operate the winches in slow speed until each motor has been replaced. 
+
+2  Dead Man Anchor Supplied Unfit for Purpose 
+
+A  clump  weight  was  sent  to  a  member’s  dive  ship  with  the  intention  of  it  being  used  as  a  dead  man  anchor  (DMA).  
+The offshore manager correctly rejected the weight as not being fit for purpose for diving works on the grounds that it was 
+unstable because of the limited steel base of the weight, in relation to its height. 
+
+This type of weight or ‘pill’ is part of a much bigger 50 tonne DMA, which is used for wire initiation.  Its main frame holds 
+four pills and is lowered to the seabed empty; thereafter each 11 tonne pill is inserted into the main frame.  The steel frame 
+on the bottom of each single pill is used for transportation purpose only and is not intended to act as sub-sea stability for the 
+weight itself, which is lifted from the transport frame before being deployed on the sea bed. 
+
+The member advises that under no circumstances should this type of weight or other types which have an inadequate base 
+size to height ratio, be used as a DMA; and that inspection of equipment to ensure its fitness for purpose is essential during 
+the planning phase of a project. 
+
+3  Vessel and Port Security 
+
+A member has sent a safety notice that was passed to him from a major oil company which is of interest to all members. 
+
+Two stowaways were found on board a construction vessel that had sailed from the Shetland Islands to the Hoton Field.  It is 
+understood that the two persons initially arrived in Lerwick by stowing away in a container  on another ship coming from 
+Denmark.    They  realised  that  they  were  not  on  the  British  mainland  and  hoped  to  get  there  by  stowing  away  on  the 
+construction ship, not realising that it was destined for an offshore field.  They were discovered in a rigging container and 
+were subsequently disembarked and handed over to the authorities in Peterhead. 
+
+The potentially  more  serious  aspect  raised  is  that  the two  persons  could  have been  terrorists  with a  mission involving  an 
+offshore installation. This could have resulted in a what is described as a very high incident profile, particularly following the 
+recent events in the USA. 
+
+The  company  concerned  may  be  producing  guidelines  to  issue  to  diving/construction  contractors  concerning  container 
+security/search, ship search/security and security controls when mobilising/demobilising personnel to a ship during port call. 
+
+Whilst  this  was  understood  to  be  an  isolated  incident,  the  company  advises  taking  reasonable  steps  to  prevent  any 
+unauthorised people embarking on ships.  Bearing in mind that sub-contractors and suppliers may send containers to their 
+ships, they also thought advisable to contact marine agents in all the ports in which they operate to make them aware of the 
+potential threat.  They request making in-house logistics and stores personnel aware of the need to secure containers whilst 
+awaiting transfer to ships and confirmation from their regional managers that this has been done. 
+
+ 
+
+Similarly, their ships’ captains are told to make their crews aware of the need for extra vigilance whilst in port and when they 
+are conducting their usual search routines. 
+
+Safety Flash 
+
+4  Near Miss Incident Lowering Concrete Mattress 
+
+A member reports a diving near miss incident when a concrete protection mattress was being moved into position. 
+
+A concrete flexible protection mattress was being deployed by ship’s crane whilst divers were ready to receive it on the sea 
+bed.  The procedure demanded that the mattress should be lowered some 60 m offset horizontally from the divers’ position, 
+stopped 10 m from the seabed awaiting instructions before moving the load towards the divers.  Visibility was about three to 
+four metres. 
+
+During the lowering operation, crane operators changed over and after it was lowered to the prescribed depth, the diving 
+supervisor gave instructions for the mattress to be shifted horizontally toward the divers’ position. 
+
+The divers noticed the mattress when it was about two metres away from them but already in partial contact with the sea 
+bed instead of about 10 m off bottom.  Nobody was injured. 
+
+On investigation, it was established that during the crane operator shift change, the first operator had failed to zero his meter 
+when the load was at the water surface and the replacement operator had not questioned the validity of the meter reading 
+showing the length of wire deployed, having assumed that it had been zeroed.  As a result the load contacted the sea bed 
+when the operator expected it to be more than 10 m up. 
+
+The  member  posted  the  following  reminder  in  the  ship’s  cranes  and  recommended  that  similar  ones  be  posted  beside 
+control panels on all cranes capable of subsea operations in the fleet. 
+
+Please remember the following rules when deploying loads to the sea bed: 
+
+  Before lifting the load off deck, check with dive/shift supervisor regarding the lateral position and initial depth at which 
+
+  Always zero the load or hook at the surface of the water and report when completed to dive/operations control; 
+
+  During  lowering,  inform  control  of  the  depth  of  the  load  every  10 m  until  it  reaches  10 m  above  the  seabed  when 
+
+the load is to be deployed; 
+
+lowering is stopped; 
+
+  Act only on dive/operations control instructions for further crane movements; 
+
+  Change over of crane operators shall not take place during the lowering or lifting of a load. 
+
+5 
+
+Insecure Crane Lighting 
+
+A  sodium  floodlight is  reported  to have  fallen from  a  crane boom.    On  investigation, the floodlight mounting  bracket  was 
+found to be cracked and the pad eye weakened and this gave way.  The floodlight swivel arrangement was also found to be 
+worn.  No serious injury was sustained on this occasion. 
+
+The member instigated inspection of all boom lighting fixtures.  Ancillary fittings such as these can be overlooked in crane 
+maintenance. 
+
+6  Reaction Brackets on the Divex SLS System Backpack 
+
+Attached please find a caution notice recently received from Divex concerning the above. 
+
+DIVEX CAUTION NOTICE 
+
+  
+
+ 
+
+Divex Ltd. 
+Enterprise Drive 
+Westhill, Aberdeen 
+AB32 6TQ, United Kingdom 
+
+ 
+
+ 
+
+ 
+
+ 
+
+info@divex.co.uk 
+
+Telephone  +44 (0)1224 740145 
+Facsimile   +44 (0)1224 740172 
+e-mail  
+
+ 
+Caution Notice No. DVX003/2001
+ 
+Divex S.L.S. Mk IV  
+ 
+Part Numbers D323 & D325 
+ 
+Reaction Brackets  
+ 
+ 
+ 
+ 
+FOLLOWING  INVESTIGATION  OF  A  REPORTED  FAULT  ON  AN  SLS  SET  WE  HAVE  IDENTIFIED  A 
+POTENTIAL  PROBLEM  RELATED  TO  A  REACTION  BRACKET  THAT  MAY  CAUSE  A  FAILURE  IN  THE 
+ACTIVATION OF THE S.L.S. Mk IV.   
+ 
+Divex  wish  to  advise  all  users  to  check  the  gauge/thickness  of  the  reaction  brackets  on  the  S.L.S.  System 
+Backpack.   There is a concern that a bracket(s) with a gauge/thickness of less than 1.4mm may be in Service. 
+ 
+ANY REACTION BRACKET THAT HAS A THICKNESS OF LESS THEN 1.4mm SHOULD BE REPLACED.  
+ 
+Reaction Brackets are available as spares from Divex. 
+ 
+FAULT IDENTIFICATION METHOD: 
+ 
+
+a)  Visual Inspection: 
+ 
+
+-  Ensure the metal has not become twisted, bowed or damaged. 
+- 
+
+The  reaction  bracket  should  be  at  a  75-degree  angle  to  ensure  proper  activation,  any  angle  less 
+then 75 degrees may be an indicator that the activation bracket has begun to bend and that the 
+gauge/thickness may be less than manufacturers current specifications. 
+
+ 
+      b)  In the event that the bracket is damaged or of the wrong gauge/ thickness: 
+ 
+
+The brackets must be changed. 
+
+NOTE:  Only  a  trained  S.L.S.  Technician  should  carry  out  repairs  and  maintenance  on 
+
+the S.LS. Mk IV  
+
+ 
+-  Do  Not  Re-Crimp  or  re-use  the  reaction  bracket  if  it  has  been  removed  from  actuation  cable 
+assembly, Part No. C2937, or deformed.  The bracket must be a Divex manufactured Bracket, Part 
+No. D323 Right hand bracket, Part No. D325 Left hand Bracket. 
+
+After  re-assembly  the  backpack  should  be  donned  and  activated  to  confirm  smooth  actuation  of  the 
+counterlung cables.  This does not require the system to be dived. 
+
+- 
+ 
+
+ 
+ 
+
+For further information contact Kathleen Scanlan on the above telephone or fax number. 
+Alternatively e-mail to safety@divex.co.uk 
+ 
+
+ 
+
+SIGNED _____________________________________________________  DATED: 11th September 2001 
+ 
+
+G.Gilbert,  For and on behalf of Divex Ltd. 
+
+ 
+
+ 
+
+ 
+
+

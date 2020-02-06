@@ -1,0 +1,265 @@
+AB 
+
+ 
+
+IMCA Safety Flash 13/11 
+
+Safety Flash 
+
+ November 2011 
+
+These  flashes  summarise  key  safety  matters  and  incidents,  allowing  wider  dissemination  of  lessons  learnt  from  them.    The  information  below  has  been 
+provided in good faith by members and should be reviewed individually by recipients, who will determine its relevance to their own operations. 
+
+The effectiveness of the IMCA safety flash system depends on receiving reports from members in order to pass on information and avoid repeat incidents.  
+Please consider adding the IMCA secretariat (imca@imca-int.com) to your internal distribution list for safety alerts and/or manually submitting information 
+on specific incidents you consider may be relevant.  All information will be anonymised or sanitised, as appropriate. 
+
+A  number  of  other  organisations  issue  safety  flashes  and  similar  documents  which may  be  of  interest  to  IMCA  members.   Where  these  are  particularly 
+relevant, these may be summarised or highlighted here.  Links to known relevant websites are provided at www.imca-int.com/links   Additional links should 
+be submitted to webmaster@imca-int.com 
+
+ 
+
+1  Near Miss: Dropped Taut Wire Clump Weight 
+
+A member has reported an incident in which a winch wire parted and a taut wire clump weight was dropped onto the seabed 
+during diving operations.  The incident occurred when a vessel was engaged in flow line flushing.  Owing to a change in wind 
+direction and a forecast of poor weather, it had been agreed to alter the heading of the vessel. 
+
+At  the  time  of  the  incident  two  divers  were  in  the  water  and  positioned  aft  and  to  starboard  of  the  diving  bell,  and  the 
+starboard taut wire was deployed and active as a dynamic positioning (DP) reference.  Just before the heading alteration the 
+starboard  clump  weight  was  lifted  20m  clear  of  the  seabed  and  closely  monitored  by  remotely  operated  vehicles  (ROVs).  
+The heading alteration was carried out and the ROV inspected the seabed where the starboard clump weight would land, to 
+check  it  was  clear  to  land  back  on  the  seabed.    The  seabed  at  this  location  was  not  clear  and  therefore  the  decision  was 
+made  to  deploy  the  port  taut  wire  instead,  because  the  seabed  on  the  port  side  appeared  to  be  clear  of  obstruction.  
+The port clump weight was lowered to 100m above the seabed, in preparation for landing. 
+
+The  ROV  continued  to  monitor  the  starboard  clump  weight  and  identified  an  area  under  it  suitable  for  landing.  
+The starboard  taut  wire  was  then  deployed  and  taken  back  into  the  DP  system,  and  the  port  taut  wire  and  clump weight 
+recovered to the surface.  During recovery, as the port taut wire was being slewed inboard, the wire parted and the clump 
+weight  (315kg)  fell  straight  downward,  well  away  from  the  divers  working  on  the  seabed,  and  landed  clear  of  any  subsea 
+assets. 
+
+ 
+
+ 
+
+Clump weights landed on seabed 
+
+An investigation revealed the following: 
+
+  A worn wire guide with sharp edges caused unnoticed damage to the taut wire, resulting in the wire parting; 
+
+  Procedures for protecting divers and subsea assets from dropped objects were properly followed and this prevented a 
+
+potentially much more serious incident. 
+
+The following preventative actions were taken: 
+
+  The existing starboard taut wire was replaced in its entirety in case further damage had been sustained; 
+
+  The damaged wire guide was assessed and temporary repairs were undertaken.  A complete new unit would be fitted at 
+
+the next opportunity (dry dock); 
+
+  There would be a review of relevant inspection and maintenance routines. 
+
+ 
+The following lessons were learnt: 
+
+  The 30° dropped object cone employed during the deployment and recovery of loads to and from the surface ensured 
+
+that the divers were not in a location where they may have been struck by the falling clump weight; 
+
+  Loads falling out of control through the water column have a tendency to deviate from a vertical fall.  Depending on the 
+shape of the falling load, the water depth, and currents and tides, they can land within a dropped object cone of between 
+6° and 30° from the vertical; 
+
+  Tubular loads have a tendency to deviate even further from the vertical, up to 45°; 
+
+  The oversight and checking (by ROV) of the clump weight landing locations prevented any potential damage to subsea 
+
+infrastructure; 
+
+  Taut  wires  are  normally  lowered  from  the  surface  at  the  start  of  DP  operations  before  diving  operations  start,  and 
+recovered to surface after diving and DP operations come to an end.   When recovering them to surface during diving 
+operations they should be treated as potential dropped objects which can affect divers, and divers should be clear of the 
+area at these times. 
+
+2  LTI: Thumb Injury 
+
+A  member  has  reported  an  incident  in  which  a  member of  the  crew  sustained  a  lost time  injury  (LTI)  to  his  thumb.    The 
+incident occurred when a vessel’s marine engineering team was conducting a water leak repair on part of one of the main 
+engines during a vessel transit.  The repair involved the removal of the piston and connecting rod arrangement, as well as the 
+removal  of  the  cylinder  liner,  to  allow  for  cleaning  and  re-sealing.    Whilst  removing  the  piston  and  connecting  rod,  the 
+injured person had his hands inside the engine crank case to stabilise the bottom of the connecting rod and prevent it causing 
+damage as it passed the bottom of the cylinder liner. 
+
+The  removal  of  the  piston  was  accomplished  using  a  1Te  chain  block  attached  to  the  piston  crown.    At  this  stage  of  the 
+operation, the injured person was on the starboard side of the engine and all the other team members were on the port side 
+with various other duties.  Communication was by means of hand signals: owing to the high noise levels in the engine room, 
+clear verbal communication was not possible. 
+
+As  another  crew  member  started  hauling  up  on  the  chain  block,  lifting  the  piston  and  connecting  rod,  the  injured  person 
+found his left thumb trapped between the bottom of the cylinder liner and the bottom of the connecting rod.   He motioned 
+with his free hand to lower the load which allowed his injured thumb to be released.  He then reported to the medic where, 
+following a medical examination, he was subsequently medevaced ashore. 
+
+Although this task was not viewed as routine maintenance, it had taken place many times before.  The team consisted of four 
+experienced members including the 2nd  engineer, a rating and two fitters.   The injured person was the supervisor for the 
+shift during the maintenance task.   A permit to work (PTW) and risk assessment had been completed for this task and all 
+crew members involved had been present for the toolbox talk before it was started. 
+
+ 
+
+ 
+
+Position of the injured person at the time of the incident (re-enactment) 
+
+ 
+Following investigation, the company identified the following causes: 
+
+  Lack of organisation 
+
+–  This meant that the injured person was the supervisor but also ended up taking a hands-on role in the operation.  
+As  the  injured  party  was  the  team  leader,  and  also  taking  a  key  part  in  the  operation,  this  reduced  the  level  of 
+co-ordination of the task and its associated hazards; 
+
+  Lack of hazard awareness and risk perception 
+
+–  Though  existing  controls  and  safety  management  systems  were  followed,  they  failed  to  identify  and  allow  clear 
+
+communication of the potential hazards involved in this operation 
+
+–  The risk assessment did not readily recognise the potential for pinch points or dropped loads during this task; 
+
+  Poor communication in noisy engine room environment 
+
+–  Control and co-ordination of the task was reduced due to the difficulty in clear communication 
+–  This lack of control and co-ordination during the operation allowed the load to be moved while the injured person 
+
+–  The crew member controlling the load by means of the chain block had no clear line of sight to the injured person 
+
+had his hands on the connecting rod 
+
+whose  hands were inside the engine; 
+
+ 
+
+Incorrect positioning of hands 
+–  The injured person’s thumb was in the pinch point during movement of the load. 
+
+The following actions were taken: 
+
+  Review  relevant  task  related  risk  assessments  to  ensure  all  associated  and  potential  hazards  are  clearly  identified  and 
+
+  Ensure all lifting equipment is correctly rated and inspected for the intended task prior to use; 
+
+  Communicate the importance of toolbox talks and safe working practices to ensure key hazards are identified, discussed 
+
+recorded; 
+
+and addressed. 
+
+3  Near Miss: Winch Wire Parted and Crane Block Dropped into Small Boat 
+
+A member  has reported an incident in which a crane winch wire parted and caused a  crane block to fall 13m into a small 
+boat.    The  incident  occurred  during  the  recovery  of  a  small  boat  used  by  divers.    When  the  small  boat  had  been  lifted 
+approximately 0.5m above the water, the winch wire parted approximately 13m from its working end (the end made fast to 
+the head of the jib).  As a result, the block fell down into the boat and missed a crewman by a metre or so.  There were no 
+injuries or damage.  However, this near miss incident can be regarded as potentially catastrophic. 
+
+Crane block landed in small boat 
+
+Parted winch wire 
+
+ 
+
+ 
+
+An investigation revealed the following: 
+
+absence of a thorough inspection regime. 
+
+  The winch or fall wire parted approximately 13m from its (working) end due to lack of appropriate maintenance and the 
+
+ 
+The following lessons were drawn from the incident: 
+
+  Personnel should not be in small boats during launch and recovery; 
+
+  There is no substitute for thorough and exhaustive maintenance and inspection regimes, especially those pertaining  to 
+
+lifting equipment; 
+
+ 
+
+Insufficient attention and importance had been given to the condition of a wire which  was regularly (partially) lowered 
+into the sea during routine operations. 
+
+The following recommendations were made: 
+
+ 
+
+If wires are required to be lowered into the water, then those lengths of wire which have been submerged should be 
+thoroughly washed with fresh water (‘freshed-off’) on a daily basis after completion of work; 
+
+  A  review  of  the  type  of  grease/protective  coating  applied  to  the  wires  should  be  undertaken  in  order  to  confirm  its 
+suitability  for  protection  of  wires  which  become  submerged  on  routine  basis  (reference  to  the  crane  manufacturer’s 
+manual might be of value in this regard); 
+
+  Additional  inspection  regimes  should  be  considered  to  allow  for  the  fact  that  parts  of  the  fall  wire  are  exposed  to 
+
+complete submersion from time to time; 
+
+  Personnel should not be in the small boat at the time of lowering or recovery, unless it is absolutely essential and then 
+
+only providing suitable and stringent control measures have been put in place. 
+
+4  Fall Protection Product Recall 
+
+The  Marine  Safety  Forum  has  published  Safety  Flash  11-35  regarding  the  recall  of  certain  fall  protection  products  by  3M.  
+The products recalled are the G-Series retractable lanyards. 
+
+The report can be downloaded from www.marinesafetyforum.org/upload-files//notices/msf-safety-flash-11.35.pdf 
+
+The  manufacturer’s  original  product  recall  upon  which 
+www.3m.com/FallProtection 
+
+the  MSF  safety 
+
+flash 
+
+is  based  can  be 
+
+found  at 
+
+5  Failure of Rescue Boat Release Mechanism 
+
+The Marine Safety Forum has published Safety Flash 11-36 regarding the failure of a rescue boat release mechanism.  During a 
+routine launch of the rescue boat whilst at sea, the painter released early causing the towing forces normally absorbed by the 
+painter to shift onto the fall wire once the boat was waterborne.   This resulted in the rescue boat capsizing.  It is possible 
+that the early release of the painter was due to a failure in the painter release mechanism. 
+
+Further investigation is ongoing. 
+
+Further information can be found from www.marinesafetyforum.org/upload-files//safetyalerts/msf-safety-flash-11.36.pdf 
+
+6  Person Injured by Parts Ejected Under Pressure 
+
+The  US  Department  of  the  Interior  Bureau  of  Ocean  Energy  Management,  Regulation  and  Enforcement  (BOEMRE)  has 
+published  the  following  safety  flash  regarding  the  rupture  of  a  water  pressure  tank  bladder.    An  employee  suffered  facial 
+injuries when a fitting he was removing was ejected under pressure. 
+
+Further information can be found from www.gomr.boemre.gov/homepg/offshore/safety/safealt/SA_297.pdf 
+
+7  Fatal Diving Incident 
+
+The Danish Maritime Authority Investigation Board has produced a report regarding a recent fatality which occurred during 
+diving  operations.    The  fatality  occurred  when  a  diver  was  working  underwater  at  approximately  41  metres,  and  his  air 
+supply was cut off due to an unintended squeezing of his umbilical. 
+
+Further information is available at www.dmaib.com/Ulykkesrapporter/MAERSK_TENDER_24072010.pdf  
+
+

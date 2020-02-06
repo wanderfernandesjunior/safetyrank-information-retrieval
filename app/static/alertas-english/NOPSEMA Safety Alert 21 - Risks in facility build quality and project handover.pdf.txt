@@ -1,0 +1,206 @@
+  
+
+SAFETY ALERT 21 
+
+NATIONAL OFFSHORE PETROLEUM SAFETY AUTHORITY 
+
+Risks in facility build quality and project handover  
+
+ 
+
+What happened? 
+Numerous hydrocarbon release incidents occurred during the start up and early phase of 
+operations for a new facility. These incidents caused production losses and increased 
+risk to people on board.  
+
+The incidents clearly demonstrate the need for a robust project management system 
+(PMS) during a project. The PMS for this project did not adequately cover the project 
+specifications, material selection, quality assurance, punch listing1 and formal 
+acceptance at project handover. The following is a summary of some of the failures that 
+occurred: 
+
+1.  Deficiencies in the make-up of pipe flanges and components. These deficiencies 
+
+included: 
+
+• 
+
+• 
+
+• 
+
+• 
+
+•  unevenly torqued stud bolts in high pressure gas lift and gas compression piping; 
+
+incorrect sized studs found in a gas sampling spool; 
+
+loose body plugs found in gas compression system Shut Down Valve (SDV); 
+
+incompatible piping system materials; 
+
+leakage found in a pilot valve for a Pressure Safety Valve (PSV); 
+
+•  no traceable records for repairs conducted during the project. 
+
+2.  Instrument tubing failures included: 
+
+•  cracked stainless steel tubing in a high pressure gas system transmitter due to 
+
+poor construction quality and practices; 
+
+•  other failures due to a combination of over tightening, vibration fatigue and the 
+
+tubing material not conforming to the specification. 
+
+3.  Piping system punch list deficiencies included: 
+
+•  shipping line stops left in the small bore fuel gas piping connected to the high 
+
+pressure flare header. This caused excessive stress loading in the piping which 
+eventually caused the pipe to fail; 
+
+•  numerous spring supports left un-commissioned in the turret piping downstream 
+
+of the swivel stacks. These were discovered after a period of production. 
+
+What went wrong? 
+All of these incidents resulted in gas releases. The most significant incident resulted in 
+the loss of the high pressure flare header which is a safety critical system. This was 
+caused by the failure of the fuel gas piping. 
+
+The following project management failures contributed to or failed to prevent the 
+occurrence of these incidents. These failures included: 
+
+ 
+                                                
+
+1 System punch listing is a compilation of system deficiencies and / or incomplete work to be addressed by a 
+project team or an operation team. Punch lists are generated based on site verification at project handover. 
+
+ 
+
+Page 1 of 3 
+
+ 
+
+  
+
+SAFETY ALERT 21 
+
+NATIONAL OFFSHORE PETROLEUM SAFETY AUTHORITY 
+
+Risks in facility build quality and project handover  
+
+the required specifications and engineering standards were not established for 
+equipment packages and equipment items; 
+
+the quality control and commissioning checks were not effective. This process 
+should have identified any defects before the handover. Examples of this 
+included: 
+
+- 
+
+- 
+
+- 
+
+‘as-built’ piping system line walks were not checked against the piping design 
+intent using both piping isometric and stress isometric drawings; 
+
+the commissioning checks did not reveal some system defects. These 
+included defects in the mechanical completions, the presence of faulty parts, 
+incorrectly made up flange joints and the presence of shipping restraints; 
+
+the handover process between the project management and operations was 
+inadequate  regarding the keeping of records, the documentation of the 
+management of change and the documentation of repairs carried out during 
+the project. 
+
+Key Lessons 
+While there are lessons specific to each of the incidents that occurred, the following key 
+lessons were common to all of the incidents: 
+
+• 
+
+the project specifications must be established and approved at the start of the 
+project in order to define the system requirements in sufficient detail; 
+
+•  quality control inspections must be thorough during the installation and 
+
+commissioning phases of the project. These inspections should include a 
+comprehensive system of punch listing and rigorous system of verification and 
+close-outs. These inspections will verify that the piping and equipment meet the 
+approved specifications and the design intent; 
+
+•  every field change or repair made during the construction, installation and 
+
+commissioning phases of the project must be traceable and executed as an 
+approved change or as an authorised work pack; 
+
+•  commissioning and start-up procedures must be thorough. The procedures 
+
+should enable verification that all pre-operational supports or restraints such as 
+shipping locks are released from their spring supports or have been removed -  
+piping system responses should be regularly monitored both during and after 
+start up; 
+
+•  commissioning and start-up activities should include, but not limited to, a 
+
+thorough process of control-loop tuning and optimization of operational 
+parameters that, if not addressed, may lead to loss of containment from flanges, 
+mechanical seals and small-bore fittings; 
+
+the operations workforce should be engaged as early as possible in the project to 
+enhance their familiarisation with the facility and its systems. They should also be 
+involved in the development of operational procedures; 
+
+the operations workforce should be involved in the commissioning activities. In 
+particular, they should be involved in the quality checks carried out after each 
+system has been completed. 
+
+ 
+
+• 
+
+• 
+
+• 
+
+• 
+
+ 
+
+ 
+
+Page 2 of 3 
+
+ 
+
+  
+
+SAFETY ALERT 21 
+
+NATIONAL OFFSHORE PETROLEUM SAFETY AUTHORITY 
+
+Risks in facility build quality and project handover  
+
+Facility operators, and persons in charge of work activities for the relevant stage of the 
+life of the facility, should review their work practices and the handover arrangements to 
+ensure that the facility is safe (will be safe) and without risk to health.  
+
+ 
+
+ 
+
+Contact 
+
+For further information email alerts@nopsa.gov.au and quote Alert 21. 
+
+ 
+
+Page 3 of 3 
+
+ 
+
+

@@ -1,0 +1,133 @@
+ 
+
+ 
+ 
+ 
+ 
+
+December 19, 2017                                                                                                         Safety Alert 13-17 
+Washington, DC 
+
+Inspections and Compliance Directorate 
+
+ 
+
+Fixed CO2 Fire Extinguishing Systems 
+
+ 
+
+When your hoses aren’t right you might lose the firefight. 
+
+find 
+
+ 
+Recently,  Coast  Guard  marine  inspectors  discovered 
+critical  deficiencies  onboard  a  containership  with  its 
+fixed  CO2  fire  extinguishing  system.  The  conditions 
+associated  with  the  CO2  system  may  have  prevented 
+the system from operating correctly or, if not discovered, 
+the  system  may  not  have  operated  at  all  in  an 
+emergency situation.  
+ 
+During  the  inspection,  it  was  noted  that  some  of  the 
+hoses  which  connected  the  large  CO2  cylinders  to  the 
+manifolds  were  wrapped  around 
+the  bottle  valve 
+handles as shown in photographs A and B.   The bottles 
+could  have  been  in  place  for  a  long  period  of  time,  in 
+their  original  positions  without  regard  to  the  stresses 
+placed  on  the  connecting  hoses.    However,  experts  in 
+Fixed CO2 System Servicing have indicated that service 
+personnel  routinely 
+loose  bottles  which  have 
+rotated  over  a  period  of  time.    The  experts  expressed 
+that photographs A and B represented extreme cases of 
+rotation.    The  service  personnel  also  stated  that  “four 
+bottle  deep”  manifold  systems  were  atypical  and  may 
+have contributed to an inability to maintain tightness. 
+ 
+These bottles should have been clamped tightly in place 
+by  the  use  of  wooden  brackets  as  displayed  in 
+photograph C.  Wooden spacers in between the rows of 
+bottles can also be used to ensure proper securing of all 
+the bottles.  
+ 
+Inspectors  also  found  significant  cracking  of  the  CO2 
+discharge hoses which were under tension as shown in 
+photograph  D.  This  condition  is  known  as  ozone 
+cracking and occurs when very small amounts of ozone 
+in  the  atmosphere  interact  with  the  polymers  that 
+compose  rubber  products  and  certain  other  elastomers 
+when those products are under tension.  
+ 
+
+  A 
+
+B 
+
+C 
+
+Page | 1 
+
+ 
+
+ 
+
+Safety Alert 13-17 
+
+ 
+As  a  result  of  the  inspection  the  vessel  was  detained  until  these  and  other  identified  deficiencies 
+identified  were  corrected.    During  a  reinspection  of  the  vessel  to  clear  the  deficiencies,  it  was 
+discovered that the servicing organization that replaced  the hoses, installed several new hoses in a 
+similar  orientation  that  maintained  excessive  stress  on  the  hoses.    That  issue  was  subsequently 
+rectified by rotating the bottles.                                                            
+ 
+In  June  of  2009  the  IMO  released  MSC.1/Cir.1318, 
+titled  “GUIDELINES  FOR  THE  MAINTENANCE  AND 
+INSPECTIONS  OF  FIXED  CARBON  DIOXIDE  FIRE-
+EXTINGUISHING SYSTEMS.”  It provides the minimum 
+recommended level of maintenance and inspections for 
+fixed  carbon  dioxide  fire-extinguishing  systems  on  all 
+ships in order to demonstrate that the system is kept in 
+good working order as specified in SOLAS regulation II-
+2/14.2.1.2.  In addition to other important information, it 
+provides useful maintenance and inspection guidance.   
+ 
+One related monthly inspection item suggests checking 
+that  all  “high  pressure  cylinders  are  in  place  and 
+properly secured.” 
+
+D 
+
+ 
+The Coast Guard strongly recommends that vessel owners and operators obtain MSC.1/Cir.1318 
+for  distribution  to  their  fleets.    In  addition,  each  vessel’s  Safety  Management  System  should 
+incorporate  the  Circular’s  pertinent  data.    Public  users  can  establish  a  free  account  to  access  the 
+Circular  and  other  important  information  at  https://docs.imo.org/.    The  Coast  Guard  also  urges 
+owners and operators to ensure the following steps are taken for each fixed CO2 system: 
+ 
+
+•  Bottle installation must be accomplished carefully considering hose and actuator positioning in 
+addition to  ensuring stress is minimized for  each hose.  Securing  devices must be inspected 
+for effectiveness.  
+
+•  Vessel crewmembers should check for bottle rotation, loose bottles, and excessive stress on 
+discharge  hoses  during  periodic  inspections  of  fixed  CO2  systems.    All  appropriate  safety 
+precautions  should  be  completed  prior  to  taking  any  actions  to  re-secure  or  reposition  CO2 
+cylinders.   
+
+ 
+This  information  has  been  provided  by  the  Marine  Inspectors  at  USCG  Marine  Safety  Detachment, 
+Lake Worth.   This Safety Alert is provided for informational purposes only and does not relieve any 
+domestic  or  international  safety,  operational  or  material  requirement.    Developed  with  assistance  of 
+the  Marine  Safety  Detachment,  Lake  Worth  and  distributed  by  the  Office  of  Investigations  and 
+Casualty  Analysis,  Washington  DC.    Questions  may  be  sent  to  HQS-PF-fldr-CG-INV@uscg.mil.  
+                                                                           
+                                                                          ******* 
+
+ 
+ 
+
+Page | 2 
+
+

@@ -1,0 +1,112 @@
+ 
+ 
+ 
+ 
+ 
+ 
+October 30, 2008                                                                                                                  Alert 10-08 
+Washington, DC  
+
+NEW AUTOMATIC IDENTIFICATION SYSTEM (AIS) DEVICES 
+MAY NOT BE DISCERNIBLE WITH OLDER AIS SOFTWARE 
+
+ 
+
+The  U.S.  Coast  Guard  is  pleased  to  announce  the  availability  of  type-approved  Automatic 
+Identification System (AIS) Class B devices. These lower cost AIS devices are interoperable with AIS 
+Class  A  devices  and  make  use  of  expanded  AIS  messaging  capabilities.  Unfortunately,  not  all 
+existing  Class  A  devices  are  able  to  take  full  advantage  of  these  new  messaging  capabilities.  All 
+existing AIS stations will be able to receive and process these new messages from a Class B device. 
+However,  they  may  not  be  able  to  display  all  Class  B  information  on  their  Minimum  Keyboard  & 
+Display (MKD) or other onboard navigation systems. In most cases, a software update or patch will 
+be  required  to  do  so.  Therefore,  the  U.S.  Coast  Guard  cautions  new  AIS  Class  B  users  to  not 
+assume that they are being ‘seen’ by all other AIS users or that all their information is available to 
+all  AIS  users.  Further,  the  U.S.  Coast  Guard  strongly  recommends  that  all  users  of  out-dated 
+AIS software update their systems as soon as practicable.   
+
+The  new  Class  B  devices  have  the  same  ability  to  acquire  and  display  targets  not  visible  to  radar 
+(around  the  bend,  in  sea  clutter,  or  during  foul  weather).  They  differ  slightly  in  their  features  and 
+nature of design, which reduces their cost and affects their performance. They report at a fixed rate 
+(30  seconds)  vice  the  Class  A’s  variable  rate  (between  2-10  seconds  dependent  on  speed  and 
+course  change).  They  consume  less  power,  thus  broadcast  at  lower  strength  (2  watts  versus  12 
+watts), which impacts their broadcast range; but, they broadcast and receive virtually the same vessel 
+identification and other information as Class A devices, however, do so via different AIS messages.   
+
+Class  A  devices  by  design  will  receive  the  newer  Class  B  AIS  messages  and  their  MKDs  should 
+display a Class B vessel’s dynamic data (i.e. MMSI, position, course and speed), unfortunately, there 
+are  a  few  older  models  that  do  not.  Although  these  older  devices  might  not  display  the  new  AIS 
+messages, they are designed—and tested—to receive and process these messages and make them 
+available to external devices (e.g. electronic chart systems, chart plotters, radar) via a Class A output 
+port. These external devices may also require updating in order to discern Class B equipped vessels. 
+
+AIS automatically broadcasts dynamic, static, and voyage-related vessel information that is received 
+by  other  AIS-equipped  stations.  In  ship-to-ship  mode,  AIS  provides  essential  information  that  is  not 
+otherwise readily available to other vessels, such as name, position, course, and speed. In the ship-
+to-shore mode, AIS allows for the efficient exchange of information that previously was only available 
+via  voice  communications  with  Vessel  Traffic  Services.  In  either  mode,  AIS  enhances  a  user’s 
+situational  awareness,  makes  possible  the  accurate  exchange  of  navigational  information,  mitigates 
+the risk of collision through reliable passing arrangements, facilitates vessel traffic management while 
+simultaneously  reducing  voice  radiotelephone  transmissions,  and  enhances  maritime  domain 
+awareness. The U.S. Coast Guard encourages its widest use. 
+
+ 
+
+The U.S. Coast Guard advises mandated AIS users that Class B devices do not meet current 
+AIS  carriage  requirements—either  the  International  Convention  for  the  Safety  of  Life  at  Sea 
+(SOLAS  V/19.2.4)  or  U.S.  regulations  (33  CFR  164.46).  The  Coast  Guard  is  in  the  process  of 
+expanding the current carriage requirements to include most self-propelled commercial vessels which 
+navigate  U.S.  waters,  and  the  use  of  Class  B  devices  will  be  permissible  on  some  of  these 
+commercial  vessels.  Prospective  buyers,  particularly  those  operating    commercial  vessels  that  are 
+highly  maneuverable,  travel  at  high  speed,  or  routinely  transit  congested  waters  or  in  close-quarter 
+situations  with  other  AIS  equipped  vessels  should  consider,  albeit  more  expensive,  AIS  Class  A 
+devices in order to meet forthcoming requirements. 
+
+All  users  are  reminded  to  maintain  their  AIS  in  effective  operating  condition  at  all  times, 
+including  the  information  the  AIS  device  broadcasts.  Improper  operation  of  AIS  or  inaccurate 
+information  could  subject  a  person  to  civil  penalties  not  to  exceed  $25,000  (46  USC  §70119).  For 
+general  information  on  AIS,  carriage  requirements,  future  AIS  rulemakings  and  a  listing  of  Coast 
+Guard  type-approved  AIS  Class  A  devices  which  require  a  software  update  in  order  to  display  AIS 
+Class B information, visit http://www.navcen.uscg.gov/enav/ais .  
+
+This  safety  alert  is  provided  for  informational  purposes  only  and  does  not  relieve  any  domestic  or 
+international  safety,  operational  or  material  requirement.  Developed  by  the  Office  of  Waterways 
+Management, United States Coast Guard Headquarters, Washington, DC, cgnav@uscg.mil.  
+
+******* 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Distributed by: Office of Investigations and Analysis: http://marineinvestigations.us 
+To subscribe: kenneth.w.olsen@uscg.mil 
+
+

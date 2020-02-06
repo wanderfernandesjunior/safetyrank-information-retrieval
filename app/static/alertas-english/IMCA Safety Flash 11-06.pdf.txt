@@ -1,0 +1,75 @@
+AB
+
+ 
+
+IMCA Safety Flash 11/06 
+
+September 2006 
+
+These  flashes  summarise  key  safety  matters  and  incidents,  allowing  wider  dissemination  of  lessons  learned  from  them.    The  information  below  has  been 
+provided in good faith by members and should be reviewed individually by recipients, who will determine its relevance to their own operations. 
+
+The effectiveness of the IMCA safety flash system depends on receiving reports from members in order to pass on information and avoid repeat incidents.  
+Please consider adding the IMCA secretariat (imca@imca-int.com) to your internal distribution list for safety alerts and/or manually submitting information 
+on specific incidents you consider may be relevant.  All information will be anonymised or sanitised, as appropriate. 
+
+A  number  of  other  organisations  issue  safety  flashes  and  similar  documents  which  may  be  of  interest  to  IMCA  members.    Where  these  are  particularly 
+relevant, these may be summarised or highlighted here.  Links to known relevant websites are provided at www.imca-int.com/links   Additional links should 
+be submitted to webmaster@imca-int.com 
+
+ 
+
+1  Parting of Slings Causing Fall of Heavy Object onto Seabed 
+
+A diving support vessel was installing a 24 tonne metallic cover onto a subsea valve.  When this large object was deployed 
+over the side of the vessel into the water, the four 15 tonne round slings used in the rigging arrangement parted and the 
+object fell into the seabed.  There were no injuries or damage to equipment or seabed infrastructure as, in accordance with 
+the company’s procedures, the lift was made over a seabed area free of any field infrastructure. 
+
+ 
+
+Investigation revealed that the four round slings obtained from a local supplier had been modified incorrectly and without 
+due authorisation from the original manufacturer. 
+
+  Close examination of the slings revealed that the fibre had been cut and re-spliced using numerous knots, hidden under 
+
+the protective fabric (this could not have be spotted without dismantling the sling) 
+
+  Whereas 6 metre (working length) slings had been procured from the local supplier, the manufacturer advised that the 
+serial number on the round slings actually corresponded to 12 metre (working length) round slings.  The manufacturer 
+also advised that it did not fabricate 6 m (working length) round slings of 15 tonne SWL 
+
+  There was no manufacturer certificate for the slings available from the supplier 
+
+  The blue label showing SWL was stitched to the sling, when it normally should slide around it. 
+
+ 
+
+Safety Flash 
+
+ 
+
+ 
+
+ 
+
+ 
+
+The company noted the following actions: 
+
+  Rigging equipment shall in future only be procured from approved and recognised suppliers 
+
+  Rigging materials are to be always subject to testing and inspection as required by the applicable international standards 
+
+and company rules 
+
+  Exceptions  to  the  above  should  be  subject  to  a  rigorous  and  thoroughly  documented  management  of  change  process 
+
+covering all aspects of the rigging operation. 
+
+2  Warning Regarding Imenco Minilatch – ROV Fell Onto Deck 
+
+IMCA has received the attached safety alert regarding the Imenco Minilatch following an incident whereby an ROV fell from 
+its launch and retrieval latch onto the deck of the support vessel. 
+
+

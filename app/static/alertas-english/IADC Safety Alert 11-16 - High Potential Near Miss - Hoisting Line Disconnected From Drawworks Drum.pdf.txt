@@ -1,0 +1,80 @@
+Safety Alert 
+
+        From the International Association of Drilling Contractors 
+
+ 
+ALERT 11 – 16 
+
+HIGH POTENTIAL NEAR MISS – HOISTING LINE 
+
+DISCONNECTED FROM DRAWWORKS DRUM 
+
+ 
+
+ 
+WHAT HAPPENED: 
+ 
+During  well  service  operations  the  hoisting  line  (tubing  line)  disconnected  from  the  drawworks  on  a  well 
+service  rig.    There  were  no  injuries  or  equipment  damage  but  severity  potential  was  high.    Loss  of  the 
+hoisting line clamp could have resulted in dropping the traveling block.  Fortunately the traveling blocks were 
+in an elevated position in the mast with twenty plus wraps of hoisting line on the drum.   
+
+WHAT CAUSED IT: 
+ 
+
+recommendations. 
+
+were worn significantly. 
+
+guidelines. 
+
+•  The hoisting line (tubing line) clamp was not torqued to 150 foot pounds as per the manufacturer’s 
+
+•  The  clamp  was  reused  an  undetermined  number  of  times  and  the  clamp’s  interior  friction  surfaces 
+
+•  The clamp’s securing bolts were slightly deformed.   
+•  The  clamp  was  not  visually  inspected  on  a  frequent  basis  in  accordance  with  the  manufacturer’s 
+
+CORRECTIVE ACTIONS:  To address this incident, this company instructed rig personnel in the 
+following: 
+ 
+
+•  The  hoisting  line  (tubing  line)  clamp  should  be  installed  using  a  torque  wrench  to  confirm  that  the 
+
+Original Equipment Manufacturers (OEM’s) recommended torque is applied to the clamp bolts. 
+
+•  The clamp should not be installed on a flame cut hoisting line end.  The clamp should be installed on 
+
+a properly seized, mechanically cut wire rope end.   
+
+•  The clamp should be inspected each time the clamp is removed from the line.   
+•  The clamp should be replaced if any significant wear or deformation is observed.   
+•  Replace the hoisting line (tubing line) clamp each time that the hoisting line (tubing line) is replaced. 
+•  The clamp pocket cover should be removed and the clamp and hoisting line end should be visually 
+
+•  Marking the hoisting line adjacent to the clamp is advisable to more easily recognize if the clamp has 
+
+inspected on a weekly basis.   
+
+slipped during operations.   
+
+ 
+
+ 
+
+ 
+ 
+
+The Corrective Actions stated in this alert are one company’s attempts to address the incident,  
+
+and do not necessarily reflect the position of IADC or the IADC HSE Committee. 
+
+This material is presented for information purposes only.  Managers & Supervisors should 
+
+evaluate this information to determine if it can be applied to their own situations and practices 
+
+Copyright  2005 International Association of Drilling Contractors All rights reserved. 
+
+Issued July 2011 
+
+

@@ -1,0 +1,92 @@
+Safety Alert 
+
+        From the International Association of Drilling Contractors 
+
+ 
+ALERT 09 – 09 
+ 
+
+ELECTRICAL ARC FLASH INJURY INVOLVING EXTENSION CORD 
+
+ 
+
+WHAT HAPPENED: 
+ 
+An  employee  (Welder/Fabricator)  was  attempting  to  plug  in  an  extension  cord  from  a  240  volt,  3  phase 
+disconnect to a welding unit.  As the employee plugged the two cords together, a short occurred and an arc 
+flash occurred resulting in second degree burns to the employee’s abdomen.   
+ 
+
+WHAT CAUSED IT: 
+
+Twist-lock 240-Volt plug & socket after incident. 
+
+ 
+
+ 
+
+PPE  worn  incorrectly  and  resulting  burn  in 
+undershirt 
+
+ 
+1)  The extension cord and welding unit had twist-lock plugs and socket ends.   
+2)  The plug and wire were both large and the employee held the plug and socket end at his waist to 
+
+3)  When the connection was made, two of the conductors inside the connector shorted out causing an 
+
+4)  The employee was not wearing his personal protective equipment properly – The external button-up 
+
+shirt (FRC material) was completely unbuttoned and shirt-tail out. 
+
+make the connection.   
+
+arc flash. 
+
+ 
+
+CORRECTIVE ACTIONS: To address this incident, this company did the following: 
+ 
+Instructed supervisors and HSE personnel to:   
+ 
+1)  Evaluate each facility and related equipment to assess the requirement for hard wiring equipment where 
+
+temporary wiring is unacceptable to meet manufacturer’s specifications. 
+
+2)  Establish a list of qualified and authorized users for each piece of equipment. 
+3)  Replace  all  Twist-To-Lock  plug  and  socket  connectors  with  properly  sized  and  non-conductive 
+
+4) 
+
+connectors. Replacement shall be performed by a qualified and authorized electrician. 
+Inspect all equipment that requires plug and socket connectors greater than 120 VAC to ensure that all 
+connectors are adequately sized and in good condition, and that the cord is of adequate length and size 
+to meet all manufacturer’s specifications (Extension cords should not be used). 
+
+5)  Provide instruction to all authorized users of equipment that all electrical connections must be made with 
+
+the power “OFF” or power source otherwise locked out. 
+
+6)  Once  all  electrical  connections  have  been  made  the  equipment  may  be  energized  by  placing  the 
+electrical disconnect or breaker in the “ON” position. Stand to the side when moving the breaker or the 
+equipment power switch to the “ON” position. 
+Inspect all equipment cords, plugs, sockets and electrical components at least monthly and daily before 
+each use. 
+
+7) 
+
+8)  All personal protective equipment must be worn correctly at all times while in the work area. 
+ 
+
+The Corrective Actions stated in this alert are one company’s attempts to address the incident,  
+
+and do not necessarily reflect the position of IADC or the IADC HSE Committee. 
+
+This material is presented for information purposes only.  Managers & Supervisors should 
+
+evaluate this information to determine if it can be applied to their own situations and practices 
+
+Copyright  2005 International Association of Drilling Contractors All rights reserved. 
+
+Issued March 2009 
+
+

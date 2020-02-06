@@ -1,0 +1,87 @@
+Safety Alert 
+
+        From the International Association of Drilling Contractors 
+
+ 
+ALERT 13 – 11  
+ 
+
+FAILURE TO PROPERLY MAKE UP THE TOP DRIVE/SAVER SUB 
+
+CONNECTION RESULTS IN EMPLOYEE INJURY 
+
+ 
+WHAT HAPPENED: 
+ 
+After making up the Bottom Hole Assembly to spud in the well, the crew made up the first stand of drill pipe 
+in  the  mouse-hole.    The  stand  was  then  picked  up,  made  up  to  the  drill  string  and  then  the  top  drive  was 
+connected.  As the drill string was picked up off the slips, the pumps were engaged to test the MWD tool.  At 
+this point the drill string pulled loose from the top drive saver sub and dropped approximately 3 feet (91cm) 
+into the elevators.  As the drill string dropped, the drill pipe screen came out of the top of the drill pipe and fell 
+approximately  90  feet  (27m)  to  the  rig  floor  striking  an  employee  in  the  left  forearm,  which  resulted  in  a 
+fracture. 
+ 
+
+WHAT CAUSED IT: 
+ 
+1.  The drill pipe  was not fully screwed into the saver sub because the top drive pipe grabber did not fully 
+
+open allowing the drill pipe to stab into the saver sub. 
+
+2.  While rotating the top drive, two grabber dies broke off and became wedged between the saver sub and 
+drill pipe, thereby tightening it up and giving a false indication that the saver sub and drill pipe were made 
+up. 
+
+3.  The connection appeared to torque up.  
+4.  The Driller did not engage the pumps and pressure up prior to picking up off the slips. 
+5.  The grabber control switch failed when placed back to the “open position”.  
+6.  The employees did not recognize the hazard prior to the top drive leaving the floor level.  
+ 
+
+CORRECTIVE ACTIONS:  To address this incident, this company did the following: 
+ 
+1.  The Rig Manager had the counter balance valve for the pipe grabber replaced. 
+2.  Rig crews operating top drives were instructed to revise the rig specific JSA / Work Plan to address the 
+
+following when preparing to make a connection: 
+
+a.  When applying pipe dope to the box and saver sub, the grabber is to be inspected to make 
+
+sure that it is in the full open position, prior to raising the top drive leaving the floor level. 
+
+b.  Deficiencies are to be immediately relayed to the Driller and Rig Manager; with appropriate 
+
+maintenance / repairs scheduled and performed. 
+
+3.  The  Driller  was  reminded  that  once  a  connection  is  made  and  torqued,  the  mud  pumps  are  to  be 
+engaged  and  pressured  up  prior  to  picking  up  off  the  slips.    The  Driller  was  also  given  the  following 
+instructions: 
+
+a.  The top drive shall not be moved if leaks are noted; the Rig Manager shall be immediately 
+
+notified. 
+
+b.  The Rig Manager must agree to a variance if down hole conditions require that the pipe be 
+
+picked up before the mud pumps pressure up.  
+
+4.  Rig crews were reminded to review their rig specific JSA / Work Plan to make sure the minimum steps of 
+making  up  joints  of  pipe  and/or  connecting  the  top  drive  are  taken  into  consideration.    Note:  The 
+company  also  reminded  all  rig  crews  that  this  procedure  can  be  attached  to  the  JSA  /  Work  Plan  for 
+review prior to making up a connection with the top drive. 
+
+ 
+
+The Corrective Actions stated in this alert are one company’s attempts to address the incident,  
+
+and do not necessarily reflect the position of IADC or the IADC HSE Committee. 
+
+This material is presented for information purposes only.  Managers & Supervisors should 
+
+evaluate this information to determine if it can be applied to their own situations and practices 
+
+Copyright  2013 International Association of Drilling Contractors All rights reserved. 
+
+Issued April 2013 
+
+

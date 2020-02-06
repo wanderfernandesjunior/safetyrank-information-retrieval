@@ -1,0 +1,77 @@
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+August 6, 2001 (estimate / reformatted 2014) 
+Washington, DC 
+ 
+
+         Inspections and Compliance Directorate 
+
+      Safety Alert 02-01 
+ 
+
+PASSENGER VESSEL SAFETY ALERT 
+
+From: G-MOC and ICCL 
+
+To: Industry, ICCL members, MSO’s, Area and District M staff 
+
+CRUISE SHIP SUFFERS STEERING PROBLEM WITH RESULTING INJURIES 
+
+Background: The cruise ship NORWEGIAN SKY while approaching the Strait of Juan de Fuca en 
+route  to  Victoria,  B.C.  with  2,975  persons,  made  a  sudden  unexpected  hard  turn  to  port.  The 
+vessel  was  operating  on  trackpilot  when  it  suddenly  received  a  signal  to  go  to  a  new  heading  of 
+270  instead  of  the  intended  track  of  090.  The  NACOS  45-3  Trackpilot  navigation  system  had 
+received  an  erroneous  signal  either  due  to  equipment  malfunction,  or  human  error,  or  both.  This 
+caused the vessel to take an unexpected and violent turn. The vessel healed to starboard at least 
+8  degrees  while  rudder  movements  fluctuated  between  amidships  and  port  45  until  the  swing  of 
+the  vessel  was  controlled  using  the  non-follow  up  control  at  the  main  steering  console  on  the 
+bridge. 78 persons were injured, most of them resulting from the falling of unsecured objects such 
+as arcade games, display cases, and tables. The technician called in to troubleshoot the Trackpilot 
+system was unable to replicate the occurrence.  
+
+Lessons  Learned:  While  the  casualty  investigation  for  the  NORWEGIAN  SKY  is  ongoing,  there 
+are several initial “Lessons Learned” that can be shared as follows:  
+
+1. Securing for Sea  
+
+Owners  and  operators  of  passenger  vessels  should  review  procedures  and  processes  to  ensure 
+that  t  large  items  of  equipment  and  other  heavy  objects  are  adequately  secured  to  prevent 
+movement or toppling in the event of sudden or violent ship movements. Of particular concern are 
+video  games  and  other  large  items  found  in  children's  recreation  spaces,  casino  equipment, 
+display  cases  and  individual  shelving  (especially  glass)  within  retail  stores,  or  any  other  heavy 
+objects that could shift or topple during a sudden or violent movement of the ship.  
+
+2. Trackpilot Systems 
+
+Trackpilot  systems  are  complex  navigation  systems  designed  to  be  used  in  confined  waters. 
+Training  and  familiarity  with  the  system  are  an  important  component  of  their  safe  use.  Trackpilot 
+malfunctions,  in  certain  close  quarter  scenarios  or  heavily  trafficked  waterways,  could  result  in  a 
+serious marine casualty such as a grounding or collision. Trackpilots have operational limits such 
+as  rudder  limits  that  must  be  established  and  activated  once  the  trackpilot  is  engaged.  For 
+example,  proper  rudder  angle  settings  would  limit  the  rudder  to  small  course  change  increments 
+
+1 
+
+even if a large variance in input data is perceived by the sensors. Trackpilot’s should be capable of 
+being  disengaged  instantly  in  the  event  of  a  malfunction  or  improper  operation.  Owners  and 
+operators  of  passenger  vessels  should  develop  operational  guidance  and  training  programs  to 
+assure  proper  and  correct  trackpilot  programming,  crew  familiarity  and  should  develop  and  test 
+contingency  plans  to  assure  proper  crew  response  in  the  event  of  a  trackpilot  malfunction  or 
+failure.  
+
+This  safety  alert  is  provided  for  informational  purpose  only  and  does  not  relieve  any  domestic  or 
+international safety, operational or material requirement. Developed by the Office of Investigations 
+and Casualty Analysis. For questions or concerns please email hqs-pf-fldr-cg-inv@uscg.mil. 
+
+ 
+
+2 
+
+

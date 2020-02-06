@@ -1,0 +1,67 @@
+Safety Alert 
+
+        From the International Association of Drilling Contractors 
+
+ 
+ALERT 12 – 05  
+ 
+
+NEAR MISS – TRACK HOE CONTACTS 5 KV POWER CABLE 
+
+ 
+WHAT HAPPENED: 
+ 
+During the mechanical excavation of two 6” pipelines and a power cable, a 5 KV power cable tightened when 
+contact  was  made  with  the  track  hoe  bucket.    The  power  cable  was  discovered  through  hydro  excavation 
+and inspection of the survey drawings indicated that the power cable followed a path adjacent to the pipeline.  
+The contact location was determined to be outside of two foot (2’) of the path of the pipeline underneath the 
+backfill.  After being contacted with the bucket of the track hoe, the cable shorted when manually moved by 
+the ground disturbance supervisor. 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+WHAT CAUSED IT: 
+ 
+
+Analysis (JSA). 
+
+  The power cable was not identified as a significant hazard on the Critical Work Permit or Job Safety 
+
+CORRECTIVE ACTIONS:  To address this incident, this company did the following: 
+ 
+
+ 
+
+Identify Work Management Scope Changes:  Finding an unexpected power cable while excavating 
+may  warrant  a  work  scope  change.    Once  found,  work  should  be  stopped  and  the  power  cable 
+indicated  on  the  critical  work  permit  or  JSA  to  prompt  additional  mitigation  measures  (e.g.  De-
+energize, hydro-excavation); 
+
+  Standard for Excavating Power Cables:  Develop an explicit procedure for exposing an underground 
+
+power cable to be included in the procedures for ground disturbance; 
+
+  Never  approach  or  touch a  power cable  after  it  has  been  contacted.    Contact  an  electrician  to  de-
+
+energize before inspecting damage. 
+
+The Corrective Actions stated in this alert are one company’s attempts to address the incident,  
+
+and do not necessarily reflect the position of IADC or the IADC HSE Committee. 
+
+This material is presented for information purposes only.  Managers & Supervisors should 
+
+evaluate this information to determine if it can be applied to their own situations and practices 
+
+Copyright  2008 International Association of Drilling Contractors All rights reserved. 
+
+Issued February 2012 
+
+

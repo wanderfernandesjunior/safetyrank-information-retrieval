@@ -1,0 +1,184 @@
+AB 
+
+ 
+
+IMCA Safety Flash 17/09 
+
+Safety Flash 
+
+December 2009 
+
+These  flashes  summarise  key  safety  matters  and  incidents,  allowing  wider  dissemination  of  lessons  learnt  from  them.    The  information  below  has  been 
+provided in good faith by members and should be reviewed individually by recipients, who will determine its relevance to their own operations. 
+
+The effectiveness of the IMCA safety flash system depends on receiving reports from members in order to pass on information and avoid repeat incidents.  
+Please consider adding the IMCA secretariat (imca@imca-int.com) to your internal distribution list for safety alerts and/or manually submitting information 
+on specific incidents you consider may be relevant.  All information will be anonymised or sanitised, as appropriate. 
+
+A  number  of  other  organisations  issue  safety  flashes  and  similar  documents  which may  be  of  interest  to  IMCA  members.   Where  these  are  particularly 
+relevant, these may be summarised or highlighted here.  Links to known relevant websites are provided at www.imca-int.com/links   Additional links should 
+be submitted to webmaster@imca-int.com 
+
+ 
+
+1 
+
+Injury During Personnel Transfer Capsule Operation 
+
+A  member  has  reported  an  incident  in  which  a  person  was  injured  during  a  personnel  transfer  capsule  operation.    Three 
+persons  involved  in  pipeline commissioning  activities  on  a  recently  installed  jacket  were  preparing  for  a  personnel  transfer 
+back to the vessel from which they had initially been transferred.  The method of transfer was to be by the transfer capsule. 
+
+Prior to the actual lift, a swing developed on the crane’s headache ball.  The swing gathered momentum, despite the efforts of 
+the  crane  operator  to  stop  it,  until  it  eventually  hit  one  of  the  platform’s  legs  and  ricocheted  into  the  capsule  frame.  
+A section of the crane rigging and headache ball hit the frame of the  transfer capsule before sliding into the interior of the 
+frame and impacting one of the three occupants. 
+
+The injured person was medevaced to hospital for attention.  After a thorough medical examination and precautionary tests, 
+the worker was released that same evening and deemed fit to return to work for light duties. 
+
+Jacket showing personnel transfer capsule and crane wire 
+
+ 
+
+Following investigation, the following findings were made: 
+
+  Alternative arrangements for accessing the platform had been identified but not considered; 
+
+  For  this  work,  the  personnel  transfer  capsule  should  have  been  identified  as  the  primary  means  in  the  event  of  an 
+
+  The  crane  operator  had  received  no  training  for  transfer  capsule  operations  even  though  this  omission  had  been 
+
+  The transfer capsule operation had taken place safely on two previous occasions and thorough risk management controls 
+
+  On this occasion the risk assessment for the operation had not taken into account a number of important factors and 
+
+necessary risk control measures were not implemented; 
+
+emergency only; 
+
+identified during risk assessment; 
+
+had been followed and implemented; 
+
+ 
+
+  Procedures specific for vessel to platform (jacket) transfer were not followed; 
+
+  The personnel transfer capsule was not lowered on to the jacket in the area originally specified during risk assessment; 
+
+  The size of the area to which the capsule was lowered was not in compliance with the manufacturer’s recommendations; 
+
+  On this occasion the crane operator did not lay the headache ball down on the jacket during the boarding of the  capsule 
+
+because of worsening swell conditions and restrictions on landing area (see picture); 
+
+  The personnel being transferred took longer than normally required to secure themselves within the capsule; 
+
+  The sea state in this region is known to produce a ‘larger swell’ at irregular intervals.  This was the case in this event as a 
+
+‘rogue swell’ was also involved in causing the initial swing on the headache ball; 
+
+  A  shift  change  had  taken  place  between  the  initial  lift  on  to  the  jacket  and  the  recovery  from  the  jacket  back  to  the 
+vessel.  The crane operator was the same throughout but the deck foreman and his crew were all new to the operation 
+and not been involved in the task risk assessment (TRA) or toolbox talks. 
+
+The following actions were recommended: 
+
+  Risk management processes should be followed thoroughly for all high potential operations and repeated every time an 
+
+operation is carried out.  This is even more important when operations are carried out by different personnel; 
+
+  Actions  identified  during  risk  assessments  should  be  fully  closed  out  before  operations  begin.    In  this  instance  crane 
+
+operator training had not been carried out; 
+
+  Management  of  change  processes  should  always  be  followed  whenever  circumstances  change  during  an  operation.  
+
+If necessary the operation should be stopped whilst this is carried out; 
+
+  All personnel involved in an operation should be fully briefed beforehand during the toolbox talk; 
+
+  Manufacturers’ instructions and recommendations on the use of equipment should be followed; 
+
+  All personnel have a responsibility to intervene and stop an operation which is clearly unsafe. 
+
+2  Loading and Securing of Containers 
+
+A member has reported several occurrences over recent months of containers being inappropriately loaded and transported 
+with contents in an unsecured and consequently unsafe manner and seeks to highlight this as a safety issue.  It had come to 
+the attention of the  company that unsafe packing of containers is something that is still evident, in spite of this issue being 
+addressed in recent years.  The potential exists for injury, environmental impact or equipment damage caused by unsecured 
+cargo moving in the container or spilling out when the doors are opened. The company highlighted some recent examples of 
+poor practice: 
+
+The grab handle of this blue steel case has not been secured 
+
+The contents of a freight container are left unsecured. 
+
+ and the case is resting on top of other equipment 
+
+Some are labelled as fragile 
+
+ 
+
+ 
+
+ 
+
+This item is secured in an inadequate manner 
+
+(nylon strapping) for its weight and value 
+
+This heavy item was loaded in closed container 
+
+making it very difficult to unload offshore 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Orange clump weights (500kg) unsecured 
+
+and stored on top of lighter materials 
+
+Heavy and valuable motor left unsecured for transit 
+
+Consideration should be given to the safety of the people at the receiving end and also their material handling capabilities.  
+The loading of containers should be planned to facilitate the ease of unloading on arrival at the destination. 
+
+  Place  contents  in  suitable  containers,  giving  consideration  to  material  handling  capabilities  of  those  receiving  the  load 
+
+The following actions were suggested: 
+
+(i.e. forklift availability, access, container type); 
+
+  Distribute the contents evenly over the floor to maintain balance; 
+
+  Place heavier items at the bottom with lighter goods on top – do not place heavy cargo on top of fragile cargo; 
+
+  Use packing materials to prevent damage between items of cargo; 
+
+  Always lash down (and wedge if necessary) cargo to prevent movement in transit; 
+
+  Do not pack sharp items next to soft skinned drums; 
+
+  Certain chemicals and materials, when combined (possibly through transit damage), can become toxic, highly flammable 
+
+or explosive – such materials should be kept separate; 
+
+  Ensure the doors and locking mechanisms are secure with locking device attached (including secondary securing device) 
+
+and where applicable, use door safety nets; 
+
+  Ensure no loose items have been left on the roof of containers. 
+
+There is sufficient industry guidance available regarding the safe packing and handling of cargo to and from offshore locations 
+and the International Maritime Dangerous Goods (IMDG) Code should also be followed.  Additionally, following the guidance 
+in IMCA SEL 019 – Guidelines for lifting operations – should help prevent such occurrences. 
+
+

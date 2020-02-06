@@ -1,0 +1,371 @@
+AB
+
+ 
+
+IMCA Safety Flash 06/07 
+
+Safety Flash 
+
+July 2007 
+
+These  flashes  summarise  key  safety  matters  and  incidents,  allowing  wider  dissemination  of  lessons  learned  from  them.    The  information  below  has  been 
+provided in good faith by members and should be reviewed individually by recipients, who will determine its relevance to their own operations. 
+
+The effectiveness of the IMCA safety flash system depends on receiving reports from members in order to pass on information and avoid repeat incidents.  
+Please consider adding the IMCA secretariat (imca@imca-int.com) to your internal distribution list for safety alerts and/or manually submitting information 
+on specific incidents you consider may be relevant.  All information will be anonymised or sanitised, as appropriate. 
+
+A  number  of  other  organisations  issue  safety  flashes  and  similar  documents  which  may  be  of  interest  to  IMCA  members.    Where  these  are  particularly 
+relevant, these may be summarised or highlighted here.  Links to known relevant websites are provided at www.imca-int.com/links   Additional links should 
+be submitted to webmaster@imca-int.com 
+
+ 
+
+1 
+
+ Diver Injury Using Cavitation Blaster 
+
+A  member  has  reported  that  a  diver  sustained  a  high  pressure  water  injection  injury  whilst  using  a  recently  developed 
+4500 psi cavitation water blaster. 
+
+Cavitation gun 
+
+ 
+
+ 
+Retro jet showing proximity of nozzle 
+
+to end of baffle (approx 3 cm) 
+
+During marine growth removal operations the diver released the trigger on the cavitation gun to reposition his body.  When 
+the diver reapplied pressure to the trigger, the cavitation gun kicked back towards the diver, causing the retro end of the gun 
+to come into close proximity of his wrist and forearm.  The retro jet subsequently caused a high pressure (approximately 
+1000 psi) seawater injection injury to the diver’s forearm. 
+
+The injured diver was successfully treated with antibiotics at an onshore hospital facility and did not require surgery. 
+
+The risk assessment had not highlighted the fact that the retro jet posed a high pressure injection risk to the diver. 
+
+The  incident  investigation  discovered  that  the  diver  had  not  been  wearing  the  11  inch  long  butyl  rubber  gloves  as 
+recommended by the system manufacturer but it was unclear if wearing these would have prevented the injury. 
+
+The  manufacturer  has  now modified  the  retro jet by moving  the nozzle  further back  inside  the  rear  baffle.   The  company 
+involved will be carrying out a full examination of the modification before allowing the cavitation blaster back into use. 
+
+Members are reminded of the IMCA guidance document AODC 049 – Code of practice for the use of high pressure water jetting 
+equipment by divers. 
+
+2  Weld Failure on Kirby Morgan KM17B 505-055 Neck Clamp 
+
+A member has reported that a weld on an eight-year-old Kirby Morgan neck clamp arrangement has failed. 
+
+Kirby Morgan Dive Systems has indicated to the company that this may have been caused by either inadequate bead build-up 
+on the weld or crevice corrosion. 
+
+In either case Kirby Morgan Dive Systems stated that underwater, this failure would not cause a catastrophic failure resulting 
+in injury or death. 
+
+ 
+
+It  also  stated  that  this  deficiency  would  be  detected  during  the  daily  pre-  or  post-dive  checks  providing  proper  pre-  and 
+post-dive checks were being done and that there was no sure way to prevent failures of any component.  However, proper 
+maintenance and inspection would in most cases identify problems before they become dangerous. 
+
+Two relevant bulletins issued by Kirby Morgan Dive Systems in 2000 and 2003 are attached. 
+
+These notices with other safety-related information are also available on the company’s website at www.kirbymorgan.com 
+
+KIRBY  MORGAN
+
+TM
+
+DIVING SYSTEMS INTERNATIONAL, Inc.
+
+425 Garden Street
+
+Santa Barbara, California  93101
+
+Telephone (805) 965-8538 Fax (805) 966-5761
+
+Email: DivSysIntl@aol.com
+
+Maintenance & Repair  Bulletin 1 of 2000:
+
+SL 17 A/B & MK 21 Neck clamp
+
+ Feb. 2000
+
+Inscribed
+"S" on top
+or bottom
+of pin in
+this area.
+
+Subject:
+SL 17 A/B & MK 21 Neck clamp
+Predive Inspection
+Products Affected:
+All SL 17 A/B & MK 21
+Yoke/Neck Clamp Assemblies
+
+The  neck  clamp  assembly,  like  all  other  mechanical
+parts,  will  wear  over  time,  thus  requiring  routine
+maintenance and eventual replacement. DSI strongly
+recommends that all Kirby Morgan SuperLite-17 A/B
+/ MK 21 Neck Clamp Assemblies be carefully inspected
+for signs of damage and wear at least semi-annually and
+checked  daily  for  proper  adjustment  prior  to
+commencement of dive operations. Worn or damaged
+neck  clamps  and  especially  those  damaged  from
+improper adjustment pose a potentially serious safety
+hazard  to  the  user.  All  neck  clamp  assemblies  will
+eventually become worn to a point where they must be
+replaced. Proper routine inspection should reveal wear
+and damage before it becomes a danger to the user.
+
+In April of 1999 DSI started embossing all new neck
+clamp  assemblies  with  the  date  of  manufacture  and
+identification number. All newly manufactured neck
+clamps undergo inspection and testing in accordance
+with  AWS  Standard  D1.1.  Prior  to  this  date,  neck
+clamps were built to an engineering drawing and were
+not subjected to the ANSI/AWS standard. DSI continues
+to  use  the  same  engineering  drawings  but  has
+additionally adopted the ANSI/AWS standard to help
+ensure highest quality control.
+
+© Diving Systems International, All Rights Reserved                                                                    Document # 000201001
+
+Page 1 of 3
+
+KIRBY  MORGAN
+
+TM
+
+DSI recommends a maximum service life of five years for neck clamps that are used in harsh environments (i.e.
+welding, cutting, and burning, contaminated waters) or other practices that can degrade the metal components of
+the neck clamp. These clamps should be visually inspected prior to each dive as part of the pre-dive check of the
+helmet. This pre-dive inspection is done with the neck dam fabric/rubber in place. All neck clamps should be
+visually inspected at least on a semi-annual basis in detail with the neck dam fabric removed so all welds can be
+visually inspected for signs of cracking or damage. Neck clamps kept in service after 5 years should be inspected
+more  frequently.  Additionally,  the  three  pins  and  clevis  welds  should  be  carefully  inspected,  as  well  as  the
+adjustment stud. All metal parts should be carefully inspected for signs of wear or damage. The stainless nylon
+lock nut will wear out over time and will require replacement. If any other metal components appear worn or
+damaged the neck clamp must be replaced. This inspection is considered the minimum. The use of other non-
+destructive test methods such as dye penetrant testing can be used to validate suspected damage.
+
+Neck clamp assemblies which are bent or deformed due to misadjustment or accidental damage may be returned
+to DSI, via your local dealer, for possible repair. Users must keep in mind that there are limits to restoring used
+or abused parts. DSI uses a fixture that resembles the bottom of a SL 17A/B to adjust all new neck clamps and this
+same fixture can often be used to reshape bent or deformed neck clamps. If there is any question regarding the
+condition of the neck clamp, don't use it. Suspected worn or damaged neck clamp assemblies should be taken to
+a DSI dealer to be sent on to DSI for a factory inspection.
+
+The  following  procedure  is  designed  to  help  identify  degradation  of  neck  clamp  components  before  the
+degradation poses a threat to the user. It should be preformed daily before the start of dive operations or any time
+that the diver is changed. This is especially true if each diver does not have his or her own neck dam/yoke assembly.
+Diving Systems highly recommends that a neck dam/yoke assembly for each diver or at least of each neck dam
+size be available during dive operations with multiple divers using the same helmet. An ill fitting, wrong size neck
+dam can pose a serious hazzard to the diver. Also, a backup neck dam yoke assembly is insurance against down
+time due to a damaged neck clamp.
+
+Neck  Clamp  and  Yoke  Assembly
+Pre-Dive  Inspection: (Refer  to  the
+illustrations for reference).
+
+Visually inspect the moving parts of the
+clamp assembly including the three pins (A)
+in  the  over-center  lever  assembly,  and  the
+three clevis blocks. Visually inspect for bent or
+broken pins or a bent or broken handle and locking
+bail (B).
+
+Check to ensure the adjustment stud (C) is not bent or
+damaged. Visually inspect the welded area (D) around the
+base of the stud for signs of stress or weld cracking.
+
+© Diving Systems International, All Rights Reserved                                                                    Document # 000201001
+
+Page 2 of 3
+
+KIRBY  MORGAN
+
+TM
+
+On the Yoke, check that the screws (1) holding the
+Latch Catch Assembly are tight. Check to ensure the
+latch catch mechanism functions smoothly. Ensure
+the safety pin is present and attached by a lanyard.
+
+Check  to  make  sure  the  rear  hinge  tab  is  secured
+tightly to the clamp foundation. This can be checked
+by wiggling the yoke back and forth sideways (M) to
+ensure it and the hinge are securely tightened to the
+hinge tab and the hinge tab is secured to the clamp.
+If there is a slop in this movement, first check to
+ensure the brass hinge is firmly attached to the yoke
+assembly  (2)  and  the  two  bolts  (3)  are  installed
+securely  to  the  brass  hinge.  If  these  are  tight,  the
+hinge tab to clamp screws may be loose. To tighten
+these  screws  you  must  remove  the  two  bolts  (3)
+holding the brass hinge to the clamp and remove the
+yoke & hinge from the clamp. The screws may be
+accessed by pushing the neck dam neoprene (4) to
+the side. After tightening the screws, remount the
+yoke  &  hinge  using  the  two  bolts.  You  must  use
+Locktite® on the bolts (3) when reinstalling them.
+
+Check the condition of the neoprene or rubber neck
+dam for wear and deterioration, replace if necessary.
+
+Check  fit  and  adjustment  of  the  neck  clamp  by
+installing the clamp on the helmet, ensuring that the
+clamp is seated properly over the o-ring area of the
+helmet. When closing the lever, the lever should get
+tight at the mid-point of travel, and once the lever is
+past the mid-point of travel, the clamp should close
+easily. DO NOT FORCE THE CLAMP SHUT! If it
+does not close as described, you MUST adjust the
+clamp by loosening the adjustment locking nut (E).
+From the closed position if you pull out on the lever
+approximately  1-2  inches,  the  lever  should  snap
+closed when released.
+
+As the neck dam ages it compresses and the clamp
+must be adjusted by tightening the adjustment locking
+nut  (E)  so  that  the  clamp  operates  as  described
+above.
+
+The  stainless  steel  nylon  lock  nut  (E)  will  require
+periodic replacement as the nylon insert wears out due
+to the periodic adjustments to the clamp that MUST be
+made as the neck dam ages or you change to a dry suit
+mount. YOU SHOULD NEVER HAVE TO FORCE
+THE CLAMP SHUT!
+Proper adjustment of the neck clamp should place the
+bail squarely in the groove of the latch catch body
+when the clamp is closed.
+
+© Diving Systems International, All Rights Reserved                                                                    Document # 000201001
+
+Page 3 of 3
+
+I R B Y MORGA
+
+N
+
+K
+
+D
+
+I
+
+V
+
+ESYST E M S ,
+
+I nc.
+
+Kirby Morgan Dive Systems, Inc.®
+
+425 Garden Street, Santa Barbara, California  93101
+
+ Phone:  805/965-8538     Fax:  805/966-5761
+www.KMDSI.com   e-mail: info@KMDSI.com
+
+Safety Notice 1 of 2003:
+
+SL 17 A/B & MK 21 Neck clamp
+
+ 28 Aug. 2003
+
+Subject: Neck Clamp Assembly
+KMDSI Part # 505-055 (and pre '89 505-003)
+
+Products Affected:  Kirby Morgan SuperLite-17A/B & U.S. Navy MK-21 Mod. O
+& Mod. I Helmets
+
+Kirby Morgan Dive Systems, Inc. (KMDSI) was
+alerted by its Authorized Dealer in Southern Africa
+about the following incident: A Kirby Morgan Su-
+perLite 17A/B (Serial #82929, purchased in April
+1997) neck clamp assembly was found jammed in
+a container door. The neck clamp was hanging on
+the umbilical rack on the door and the person clos-
+ing  the  container  door  did  not  notice  that  it  was
+jammed. When the jammed neck clamp was dis-
+covered,  it  was  removed  and  closely  inspected.
+During the clamping process (onto the helmet) one of the welded pins on the neck clamp assembly
+broke off. On closer inspection it was noted that there was no way of identifying this potential break as
+both sides of the pin are welded.
+
+It is important that a visual inspection of the neck clamp assembly be done before every dive. Normal
+inspection of the neck clamp assembly is covered in the Kirby Morgan Daily Pre-Dive inspection Ap-
+pendixes A2.3, Monthly Inspection A2.2 and the Annual / 400 Hour Overhaul A2.1. These Appendixes
+can  be  found  at  <http://www.kirbymorgan.com/>www.kirbymorgan.com  under  notices/maintenance
+checklists.
+
+The Annual/400 hour Overhaul has the technician remove the clamp from the yoke and neck dam so that
+all the component surfaces are revealed for inspection.  The monthly Inspection check has the techni-
+cian checking all welds and checking the entire clamp adjustment stud by loosening the lock nut and
+exposing the entire stud.  This check is not as complete as the annual but is considered adequate if done
+monthly.  Neck clamps older than five years should be inspected weekly in accordance with Appendix
+A2.2 steps 1-6 and daily in accordance with Appendix A2.3 Daily Pre-Dive Set up and Inspection steps
+1.1-1.2. Anytime neck clamps are used on different helmets the neck clamp must be checked for proper
+function, fit and adjustment prior to diving.
+
+  © 2003  Kirby Morgan Dive Systems, Inc All Rights Reserved.    Doc #030828010
+
+Kirby Morgan Dive Systems, Inc.®
+
+425 Garden Street, Santa Barbara, California  93101
+
+Phone:  805/965-8538     Fax:  805/966-5761
+
+www.KMDSI.com   e-mail: info@KMDSI.com
+
+I R B Y MORGA
+
+N
+
+K
+
+D
+
+I
+
+V
+
+ESYST E M S ,
+
+I nc.
+
+Over the years, KMDSI has upgraded and enhanced the SuperLite® 17 A/B,
+MK 21 neck clamp assembly. Enhancements include not only more stringent
+inspections, but reinforcements in critical areas as well as changing materials
+to aid in the reduction of oxidizing. Since April, 1999 KMDSI has inscribed
+every SuperLite® 17 A/B, MK21 neck clamp with date of manufacture and
+an identification number.
+
+April 2004 will be five years since the inception of inscribed neck clamps. If
+your neck clamp is not inscribed, it is older than five years and KMDSI strongly
+recommends that the neck clamp be inspected on a weekly basis in accor-
+dance with SuperLite 17 A/B monthly helmet inspection Appendix A2.2 pro-
+cedures 1 – 6.
+
+Any Neck Clamp Assembly that does not pass inspection and is not repairable
+should be destroyed so that there is no chance of it being used by accident or
+negligence.
+
+This inspection sheet as well as all Kirby Morgan helmet and masks inspec-
+tion and maintenance check lists can be found on our web site
+http://www.kirbymorgan.com/   under notices/maintenance checklists.
+
+All metal parts should be inspected for cracks or corrosion and replaced immediately if this type of damage is found.
+While some surface rust or corrosion is to be expected, severe corrosion can lead to the eventual failure of the part.
+
+If any part doesn't look right, don't use it.
+
+  © 2003  Kirby Morgan Dive Systems, Inc All Rights Reserved.    Doc #030828010
+
+

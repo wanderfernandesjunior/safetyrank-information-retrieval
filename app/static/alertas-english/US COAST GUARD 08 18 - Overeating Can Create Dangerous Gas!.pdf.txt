@@ -1,0 +1,151 @@
+ 
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+June 8, 2018  
+Washington, DC 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+  
+
+Safety Alert 08-18 
+
+Overeating Can Create Dangerous Gas! 
+
+(Especially with Anaerobic Bacteria) 
+
+This safety alert shares important information related to a unique, not very well known and potentially 
+deadly  hazard  that  recently  developed  on  a  vessel  involving  the  formation  of  dangerous  levels  of 
+Hydrogen Sulfide (H2S)1 gas within a waste oil tank.  This was determined to be due to the use of 
+biodegradable cleaners and the chemical reactions and resultant H2S byproduct involved in breaking 
+down oils in an anaerobic (low oxygen) environment like that found in a full slop tank. In this case, 
+vessel officers had detected significant H2S concentrations (>200 PPM) in the vessel’s engine room 
+bilge holding tank.  This circumstance had existed for quite some time as crewmembers had previously 
+reported smelling the distinctive odor of rotten eggs in the vicinity of the slop tank, which is an indicator 
+of the gas.   
+ 
+Two  hundred  (200)  PPM  of  H2S  is  considered  Immediately  Dangerous  to  Life  and  Health  (IDLH).  
+Furthermore, the Lower Explosive Limit (LEL) was found to be in the dangerous flammable range, at 
+100%  LEL,  in  the  same  tank.    Vessel  crew  responded  to  the  immediate  hazardous  condition  by 
+continually monitoring the tank atmosphere, inerting the tank and ultimately discharging its contents 
+onto a slop barge for processing.  During the company’s subsequent investigation and research they 
+discovered  other  instances  involving  the  same  type  of  problem  which  had  pointed  to  the  use  of 
+biodegradable cleaners as the primary cause for high levels of H2S gas.  
+ 
+Another similar case involved dangerous levels of H2S gas concentrations found on several tug boats.  
+Initially, H2S gas was discovered when personnel began to transfer waste ashore from a pressed up 
+and nearly full slop tank containing typical oily bilge slops.  A marine chemist investigated the issue 
+and examined a total of three similar towing vessels for comparison.  Two of the three tugs examined 
+had dangerously high levels of H2S gas attributable to the use of a biodegradable soy based cleaner.  
+The third tug did not use a biodegradable product.  In these instances the cleaner provided micro-
+nutrients  to  the  waste  water  thus  causing  the  bacteria  to  thrive  resulting  in  increased  rates  of  H2S 
+production. 
+ 
+As  a  result  of  a  tragic  accident  where  three  sailors  were  asphyxiated  when  a  bilge  waste  tank 
+containing  about  82  tons  of  waste  spilled  into  an  inhabited  space  releasing  H2S  gas,  the  Royal  
+Australian  Navy  sponsored  scientific  research  and  issued  a  series  of  four  reports  related  to  H2S 
+development in oily waste and ballast tanks.  The final report of the research into the H2S issue was 
+titled “Hydrogen Sulfide Generation in Shipboard Oily-Water Waste, Part 4, Minimization of the 
+Problem”2 and it states the following: 
+ 
+
+                                                           
+1 https://www.osha.gov/SLTC/hydrogensulfide/hazards.html 
+2 http://www.dtic.mil/get-tr-doc/pdf?AD=ADA301431 
+ 
+
+ 
+ 
+ 
+
+Page | 1 
+
+ 
+ 
+
+ 
+
+Safety Alert 08-18 
+
+ 
+ 
+“The  hydrogen  sulfide  problem  has  resulted  from  efforts  to  protect  the  marine  environment  from 
+pollution.  Unfortunately,  there  is  no  single  straightforward  solution  to  the  problem  as  the  primary 
+ingredients - sea-water and biodegradable detergents - are an essential part of a ship's operation. The 
+solution would appear to lie in attention to oily-water waste management procedures and machinery 
+space housekeeping practices. Elimination or minimization of the hydrogen sulfide problem will come 
+from ensuring that the contents of the oily-water waste holding tank do not provide an optimal growth 
+medium for sulfate reducing bacteria. The following recommendations can be made:  
+ 
+
+1.  Review machinery space cleaning practices; clean machinery spaces with detergents when the 
+ship is in port, preferably using fresh water; do not add the washings to the oily-water holding 
+tank but, instead, pump them directly to a shore-based disposal facility; if possible, avoid the 
+use  of  biodegradable  detergents  at  sea  to  prevent  their  addition  to  the  holding  tank.  
+ 
+
+2.  Review drainage pathways of all nutrient-bearing "non-oily" wastes (washdown water from 
+
+galleys, heads, etc.) and ensure they do not enter the oily-water waste system.  
+ 
+
+3.  Keep the sea-water content of the oily-water waste as low as possible; always use fresh water 
+for  cleaning  operations  when  it  is  available;  handle  "emulsified"  oily-water  waste  apart  from 
+"non-emulsified"  oily-water  waste  so  that  separation  equipment  can  be  used  effectively.  
+ 
+
+4.  Be aware of the chemical composition of cleaning agents and other substances entering bilge; 
+use  biodegradable  detergents  sparingly;  avoid  the  addition  of  phosphates  to  the  oily-water 
+waste; DSTO (Commonwealth of Australia, Dept. of Defense, Defense Science and Technology 
+Organization)  advice  should  be  sought  before  introduction  of  new  cleaning  agents.  
+ 
+
+5.  Prevent the oily-water waste from becoming anaerobic; remove bilge from machinery spaces 
+
+frequently; keep the contents of the holding tank well aerated.  
+ 
+
+6.  Finally, do not store oily-water waste on a ship unnecessarily, dispose of it at every available 
+
+opportunity.” 
+
+ 
+
+The Coast Guard strongly recommends that Owners and Operators, vessel crewmembers, Port and 
+Flag State examination personnel and other persons associated with the operation of vessels of any 
+size  evaluate  the  information  presented  in  this  alert  and  where  appropriate  incorporate  it  into 
+onboard operations, training, awareness and H2S exposure prevention efforts. 
+ 
+Special thanks to the U.S. Operator for sharing their experience with this issue. 
+ 
+This  Safety  Alert  is  provided  for  informational  purposes  only  and  does  not  relieve  any  domestic  or 
+international safety, operational or material requirement.  Developed and distributed by the Office of 
+Investigations and Analysis.  Questions may be sent to HQS-PF-fldr-CG-INV@uscg.mil. 
+
+Page | 2 
+
+

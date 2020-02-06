@@ -1,0 +1,81 @@
+Safety Alert 
+
+From the International Association of Drilling Contractors 
+
+ 
+
+ 
+ALERT 03 – 22 
+ 
+
+USE OF ROPE & BUCKET TO CATCH SAMPLES 
+
+RESULTS IN A HAND INJURY 
+
+ 
+
+ 
+WHAT HAPPENED: 
+ 
+During a cementing job, the slurry was batch mixed in a 100 bbl 
+Batch  Mixer  with  two  agitators.    The  assistant  cementer  used  a 
+rope  with  a  can  to  take  a  sample  of  the  slurry  inside  the  tank.  
+The  can  /  rope  became  wrapped  around  one  of  the  agitator’s 
+shafts.  The employee managed to release the rope from his left 
+hand, however the rope was pulled across his right hand, tearing 
+through the glove and causing damage to 3 fingers and his palm.  
+Due to the severity of the injury, his little and ring finger and part 
+of his right hand were amputated.   
+ 
+WHAT CAUSED IT: 
+ 
+The pre job inspection did not reveal the absence of a proper sampling outlet.  This resulted in the use of a rope 
+and can instead of obtaining the sample from a sampling outlet.  In addition, the rotating agitator was close to 
+the access hatch that was used as a sample point.  The inside of the batch mixer was dark and the employee 
+could not see the fluid level or the position of the rope and bucket to the rotating agitator.  The employee did not 
+receive adequate orientation on the operation of the batch mixer and did not understand the risks involved in this 
+task.  Adequate supervision and appropriate risk assessment of the overall job was lacking.  Hazard 
+identification process was absent on the rig site, at the base and when manufacturing this batch mixer.  There 
+was also non-conformance with the company’s Lock Out / Tag Out procedures.   
+ 
+CORRECTIVE ACTIONS:  To address this incident, this company did the following:   
+ 
+•  STOPPED the practice of using a rope to take samples in any vessel with paddles or agitator. 
+• 
+• 
+
+Instructed units to install proper sampling point on all Batch Mixers or vessels. 
+If it is not possible to install a sampling point, the agitators must be shut off and the sample caught using a 
+pole with can attached. 
+Implement mandatory use of a hazard assessment and a JSA in all cementing operations (including 
+routine jobs). 
+Incorporate lessons learned from incident into company hand/finger awareness training package. 
+
+• 
+•  Requested that a stand down day be held company wide to reinforce the use of risk identification tools and 
+
+• 
+
+techniques. 
+
+•  Share lessons learned with all companies that use mixing tanks with agitators i.e. STOP taking samples 
+
+using the practice of dipping a can into an agitated pit. 
+
+ 
+ 
+Note:  See IADC Alert 02 – 09 Rope Caught in Mud Pit Agitator Causes RWC 
+
+The Corrective Actions stated in this alert are one company’s attempts to address the incident, and do not 
+
+necessarily reflect the position of IADC or the IADC HSE Committee. 
+
+This material is presented for information purposes only.  Managers & Supervisors should  
+
+evaluate this information to determine if it can be applied to their own situations and practices. 
+
+Copyright © 2003 International Association of Drilling Contractors.  All Rights Reserved 
+
+Issued May 2003 
+
+

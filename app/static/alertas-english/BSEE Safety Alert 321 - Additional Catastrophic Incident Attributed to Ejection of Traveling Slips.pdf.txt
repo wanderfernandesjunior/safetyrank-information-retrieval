@@ -1,0 +1,155 @@
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+SAFETY ALERT  
+
+Safety Alert No. 321  
+25 July 2016   
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+Contact:  Jack Williams  
+Phone: (504) 736-1757 
+
+Additional Catastrophic Incident Attributed  
+
+to Ejection of Traveling Slips 
+
+BSEE completed its investigation of a December 2015 incident involving a hydraulic pulling unit. In 
+considering the findings of this investigation and a 2007 investigation of a similar incident, BSEE 
+determined that the incidents’ severity warranted the development of safety measure 
+recommendations. 
+
+ 
+ 
+
+ 
+
+ 
+
+In two separate incidents, a catastrophic offshore accident was caused in part by the ejection of 
+hydraulic pulling unit (casing jack) traveling slips when a bind on the pipe being pulled was suddenly 
+released. 
+ 
+Incident No. 1 – Shock loading and collapse of 110-ft platform crane boom: Recently, a hydraulic 
+jack system was being used to pull drill collars out of the hole during platform abandonment well 
+operations when the work string became stuck. The hydraulic pulling force was increased which 
+allowed the hydraulic jack to slowly pull the work string with extreme drag.  The crane was attached to 
+the work string by elevators so it could be used to lay down the next joint after it was broken out. 
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+The next joint of the work string was slowly pulled approximately 30 ft out of the hole with extensive 
+drag, but the work string again became stuck before the lower slips could be set.  The crew then 
+applied a pulling force of 275,000 lbs which suddenly released the bind on the work string causing 
+it to rebound out of the hole, dislodging the traveling slips of the casing jack.  
+ 
+When the work string fell back into the hole, the weight and force of the work string shock loaded 
+the crane because no slips were in place to sustain the weight of the drill collars.  This shock 
+loading collapsed the boom causing it to impact the work basket of the hydraulic casing jack.  The 
+crane boom then folded in half sending the point of the boom toward the crane operator’s cab.  The 
+boom point came to rest suspended within 15 ft above the crane operator’s cab resting on a single 
+boom stop. 
+ 
+Incident No. 2 − Death of one worker, temporary loss of control of a live well: Some time ago, 
+a hydraulic casing jack was being used to pull tubing during a platform/ well abandonment 
+operation.  The tubing was stuck downhole, but the supervisor continued to increase the hydraulic 
+pulling force.  This incident took place in February 2006.  See corresponding safety alert, MMS 
+Safety Alert, SA-250, "Plug and Abandonment Operations Lead to Fatality and Brief Loss of Well 
+Control" at https://www.bsee.gov/sites/bsee_prod.opengov.ibmcloud.com/files/safety-
+alerts/incident-and-investigations/sa-250-pdf.pdf)  
+ 
+When the tubing parted, the portion of pipe held by the traveling slips of the casing jack ejected out 
+of the hole several feet. The movement of the pipe out of the hole dislodged the traveling slips and 
+hurled them into the air.  The slips fell and struck the supervisor causing his death.  The well then 
+flowed out of control for a time. 
+ 
+
+BSEE Recommendations:  
+ 
+In both events, the traveling slips on the hydraulic pulling unit (casing jack) were dislodged 
+when  a bind was suddenly released and the pipe was projected out of the hole.  The BSEE 
+recommends  the following: 
+
+•  Before using a hydraulic pulling unit (casing jack), operators should review the 
+
+equipment to see if the traveling slips can be dislodged during certain operations.  If 
+so, BSEE recommends all operators work with hydraulic pulling unit contractors to 
+find a way to prevent ejection of the traveling slips, or mitigate the threat of slip-
+ejection; 
+
+•  When using a casing jack to attempt to free stuck pipe, Operators should consider 
+
+using alternative procedures other than straight over-pull if there is a danger of 
+parting the pipe.    
+
+•  Operator should always determine if the load is free prior to initiating crane 
+
+operations to lift a work string during a well abandonment. UNDER NO 
+CIRCUMSTANCES  SHOULD OPERATORS ATTEMPT TO USE A CRANE TO 
+PULL/LIFT A WORK STRING OR LOAD NOT FREE TO BE LIFTED. 
+
+•  Both Safety Alert No. 250, and Panel Investigation MMS 2007-037 should be 
+
+reviewed.  Panel Report can be viewed at 
+https://www.bsee.gov/sites/bsee_prod.opengov.ibmcloud.com/files/panel-
+investigation/incident-and-investigations/panel-report-2007-037.pdf  
+
+  A Safety Alert  is a tool  used by BSEE to inform the offshore oil  and gas industry  of 
+
+the circumstances surrounding  an accident or a near  miss. It also contains 
+recommendations that  should help prevent  the recurrence of such an incident  on the 
+Outer Continental  Shelf. 
+
+

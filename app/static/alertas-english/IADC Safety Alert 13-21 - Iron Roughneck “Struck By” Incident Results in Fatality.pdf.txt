@@ -1,0 +1,129 @@
+Safety Alert 
+
+        From the International Association of Drilling Contractors 
+
+ 
+ALERT 13 – 21 
+ 
+
+IRON ROUGHNECK “STRUCK BY” INCIDENT RESULTS IN FATALITY 
+
+ 
+WHAT HAPPENED: 
+ 
+While  the  rig  crew  was  tripping  drill  pipe  out  of  the  well,  a  floorhand  was  struck  by  an  iron  roughneck  and 
+suffered fatal injuries.  At the time of the incident the floorhand was fitting a collar clamp around a drill collar. 
+Witnesses state that a remotely operated iron roughneck was engaged to extend while the worker was in its 
+path.  Attempts to warn the person and stop the iron roughneck failed.  Even though this incident is subject to 
+an  ongoing  investigation,  this  alert  provides  guidance  for  the  industry  on  the  risk  factors  and  hazards 
+identified during the preliminary investigation. 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Photo of an Iron Roughneck 
+
+ 
+
+WHAT CAUSED IT: 
+
+Key issues: 
+
+Initial design HAZOP (Hazardous Operation) may be inadequate and must be reviewed. 
+
+• 
+•  Ensure  safety  controls  exist  that  enable  workers  and  drillers  to  confirm  that  the  path  of  the  iron 
+
+•  The  sound  of  equipment  moving  such  as  an  iron  roughneck  may  be  muffled  by  other  noises  on  the 
+
+•  Layout or design of the drill rig and doghouse may impede a clear visual line of sight of workers in  the 
+
+roughneck is clear of personnel. 
+
+equipment or the work site. 
+
+danger zones. 
+
+•  Emergency stop controls must be nearby, identifiable, and readily accessible. 
+•  Safety  controls  on  remotely  operated  devices  must  be  reviewed  regularly  to  ensure  that  they  are 
+
+adequate in controlling any risk of injury or harm. 
+
+ 
+
+CORRECTIVE ACTIONS:  To address this incident, this company did the following: 
+Recommendations: 
+
+•  Rig Managers are to assess all operational risks relating to the use and maintenance of iron roughnecks. 
+•  Supervisors are to take all necessary and reasonable actions to ensure that no person or property is 
+
+exposed to more than an acceptable level of risk relating to the use and maintenance of iron roughnecks. 
+
+The Corrective Actions stated in this alert are one company’s attempts to address the incident,  
+
+and do not necessarily reflect the position of IADC or the IADC HSE Committee. 
+
+This material is presented for information purposes only.  Managers & Supervisors should 
+
+evaluate this information to determine if it can be applied to their own situations and practices 
+
+Copyright  2013 International Association of Drilling Contractors All rights reserved. 
+
+Issued September 2013 
+
+Safety Alert 
+
+        From the International Association of Drilling Contractors 
+
+ 
+•  Engineering personnel should re-examine iron roughneck design and interaction with control systems to 
+eliminate risk or implement controls to ensure any risk associated with the use and maintenance of iron 
+roughnecks is within acceptable safety limits, having regard to each relevant safety requirement, and is 
+as low as reasonably practicable.  
+
+•  Engineering controls should consider mechanical barriers, audio-visual warnings and rig platform 
+
+authorization controls that ensures people are in a safe area before iron roughnecks can be operated. 
+
+•  Engineering personnel should ensure that engineering inspections have validated that the safety critical 
+
+elements of iron roughneck operation, including all safety-related software and hardware functions to 
+verify the suitability of the safety measures, are implemented. 
+
+•  Maintenance and engineering personnel are to ensure test reports detailing all validations are recorded 
+
+and managed as part of the SMP (Safety Management Plan) and can be presented for inspection if 
+requested. 
+
+•  Ensure that the provisions of Section 696 and Section 697 of the Petroleum and Gas (Production and 
+
+Safety) Act 2004 are met. 
+
+ 
+Credit to: 
+ 
+ 
+ 
+
+State of Queensland, Department of Natural Resources and Mines, 2013 
+Petroleum and Gas Safety Alert 58 
+
+The Corrective Actions stated in this alert are one company’s attempts to address the incident,  
+
+and do not necessarily reflect the position of IADC or the IADC HSE Committee. 
+
+This material is presented for information purposes only.  Managers & Supervisors should 
+
+evaluate this information to determine if it can be applied to their own situations and practices 
+
+Copyright  2013 International Association of Drilling Contractors All rights reserved. 
+
+Issued September 2013 
+
+

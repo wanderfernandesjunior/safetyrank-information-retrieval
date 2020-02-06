@@ -1,0 +1,83 @@
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+June 8, 2018  
+Washington, DC 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Safety Alert 10-18 
+
+We’ve all experienced bad gas, but how about IFO 380? 
+
+U.S. Gulf Coast Bunker Contamination 
+
+This safety alert raises awareness of a significant emerging problem in the U.S. Gulf Coast region 
+regarding contaminated vessel fuel oil bunkers.  This involves blended fuels oil such as Intermediate 
+Fuel  Oil  (IFO  380)  and  has  caused  fouled  fuel  pump  plungers,  fuel  pump  seizures  and  other  fuel 
+system related failures.  Furthermore, the fuel may increase sediment levels at separators and fuel 
+filters and, in some cases, may completely clog filters.  The standard fuel oil test methods found in 
+the ISO 8217 specification will not detect these underlying problems.   
+ 
+One fuel testing organization that performed marine fuel analysis on affected vessels that experienced 
+fuel oil system problem found that phenolic compounds and long chain fatty acids were present in the 
+fuel.  Another  fuel  testing  organization  identified  similar  contaminants  in  fuels  they  sampled.  The 
+contaminant was identified as phenolic compound 4-Cumyl-Phenol (CAS No. 599-64-4) and all fuel 
+oil  samples  were  found  to  be  in  the  concentration  range  of  300ppm  to  1,000ppm.  This  4-Cumyl-
+Phenol  has many  industrial  applications due to  its adhesive  qualities  including  the manufacture of 
+epoxy resins as well as is used as an emulsifier in pesticides.  Sampling and analysis has determined 
+this contamination is not limited to one fuel supplier but exists across many.  No definitive source has 
+been identified but it’s presumed to be associated with the use of fuel oil cutter stocks.  Cutter stocks 
+are generally lighter petroleum products that are added to heavy fuel to reduce its viscosity. 
+ 
+This fuel oil contamination could lead to engine failures and associated losses of propulsion potentially 
+having catastrophic and wide ranging consequences. The presence of these substances within the 
+fuel is in violation of MARPOL Annex VI regulation 18.3 and Clause 5 of ISO 8217 which indicates 
+the fuel  shall not  include any  added  substance  or  chemical  waste which  jeopardizes  the safety  or 
+adversely affects the performance of the machinery; or is harmful to personnel; or contributes overall 
+to additional air pollution. 
+ 
+One fuel testing organization makes the following recommendations to vessel owners and operators:  
+
+•  Pay attention to the terms of the bunker requisition. 
+•  Specify that the fuel must be absent of abnormal components. 
+•  Determine the acid number of the fuel. 
+•  Carefully pay attention to the fuel supply and fuel injection equipment onboard the vessel. 
+
+ 
+The Coast Guard recommends that vessel owners and managers ensure vessel operators are made 
+aware of this potential hazardous condition, closely monitor fuel oil system components and consult   
+their bunker suppliers and other technical service providers regarding this issue. 
+ 
+Additional information may be found: 
+
+https://www.fobas.com/bulletin/109 
+http://www.v-p-s.com/latest-news/ 
+
+ 
+This Safety Alert is provided for informational purposes only and does not relieve any domestic or international safety, operational or material requirement. 
+Developed and distributed by the Office of Investigations and Analysis. Questions may be sent to HQS-PF-fldr-CG-INV@uscg.mil. 
+ 
+
+Page | 1 
+
+

@@ -1,0 +1,82 @@
+http://www.aiche.org/CCPS/Publications/Beacon/index.aspx
+
+Messages for Manufacturing Personnel
+
+Has anybody seen our process safety information (PSI)??
+
+September 2010
+
+Sponsored by 
+Sponsored by 
+
+CCPS 
+CCPS 
+
+Supporters
+Supporters
+
+1
+
+2
+
+What is Process Safety Information (PSI)? It is the information 
+
+about the process chemistry, equipment and technology of your 
+plant. It is collected from many places inside and outside your 
+company: research and development, engineering, operations, and 
+also suppliers of raw materials, process technology, and equipment. 
+As an operator or maintenance person, your  first exposure to the 
+PSI may have been at a Process Hazard Analysis (PHA). The PSI 
+was that stack of drawings, manuals, documents, and books that 
+provided information to the PHA team. PSI is also frequently used 
+in Management of Change (MOC) reviews. It is important to 
+understand the existing system so you can evaluate the 
+consequences of proposed changes. For example, a new valve must 
+meet the specifications for the pipe where it is installed. That
+means the valve, gaskets, bolts, and other components all need to 
+be correct. How do you know? Verify them according to the piping
+specifications in the PSI from the plant engineering design. 
+
+Some other important examples of PSI include piping and 
+
+instrumentation drawings (1), hazardous area classification 
+drawings (2), and the reports from process hazard analyses (3), 
+management of change reviews, incident investigations, personal 
+protective equipment requirements, operating and maintenance 
+procedures, and others.
+
+3
+
+1.
+2.
+3.
+
+A piping and instrumentation drawing (P&ID)
+A hazardous area classification drawing
+Part of the documentation of a Process 
+Hazard Analysis (PHA) study
+
+What can you do?
+
+PSI is essential to safe plant operation and maintenance, but it is valuable only if it is correct, up to date,  and 
+used. And you must know where to find it! Here are some examples of things you can do to ensure that the PSI 
+for your plant is correct, and we are sure you can think of many other examples:
+• If asked to go into the plant and update piping drawings, take that job seriously. A valve not shown on the 
+drawing may be the difference in preventing a spill – you can’t close it if you don’t know it is there!
+• If you find that an operation is normally done differently from the written operating procedure, tell your 
+supervisor, so that either the procedure is modified, or the operation is done as required by existing procedures.
+• If you find an error on a drawing, tell your supervisor or plant engineer so it can be corrected.
+• If you are trying to use a drawing and there are too many corrections, tell your supervisor or an engineer that 
+the corrections make the drawing confusing, and a new drawing is needed.
+• Remember that control system documentation is part of the PSI and must be updated when changes are made.
+
+Where is your Process Safety Information?
+
+AIChE © 2010. All rights reserved. Reproduction for non-commercial, educational purposes is encouraged.  However, reproduction 
+for the purpose of resale by anyone other than CCPS is strictly prohibited.   Contact us at ccps_beacon@aiche.org or 646-495-1371.
+
+The Beacon is usually available in Afrikaans, Arabic, Chinese, Danish, Dutch, English, French, German, Greek, Gujarati, Hebrew, Hindi, Hungarian, Indonesian, Italian, 
+
+Japanese, Korean, Malay, Marathi, Norwegian, Persian, Polish, Portuguese, Russian, Spanish, Swedish, Tamil, Thai, Telugu, Turkish, Urdu, and Vietnamese.
+
+

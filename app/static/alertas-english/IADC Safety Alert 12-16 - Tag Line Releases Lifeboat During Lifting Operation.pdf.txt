@@ -1,0 +1,110 @@
+Safety Alert 
+
+        From the International Association of Drilling Contractors 
+
+ 
+ALERT 12 – 16  
+ 
+
+TAG LINE RELEASES LIFEBOAT DURING LIFTING OPERATION 
+
+ 
+WHAT HAPPENED: 
+During a lifting operation to move a steel plate during high winds, one of the tag lines being used caught on 
+the port lifeboat release wire, releasing the gravity brake and allowing the boat to be lowered to the sea.  The 
+lifeboat did not disconnect from the falls and was winched back up to the davits without damage. 
+ 
+
+WHAT CAUSED IT: 
+  The hazard created by the high wind was not fully recognized, and the opportunity to call a time out was 
+not  taken.    The  potential  to  snag  the  lifeboat  release  wire  had  not  been  recognized  during  the  risk 
+assessment.  
+
+  Although the tag lines in use were of the tangle free type, the textile covering on the upper body of the 
+line had become loose and retracted causing a snagging point to occur.  This caught the release line and 
+activated the lifeboat brake. 
+
+  When the brake drum was opened for inspection, a large amount of oil residue was found on the brake 
+lining.  The oil sump had been overfilled above the manufacturer’s recommendations allowing oil to seep 
+through the seals into the brake area.  The oil on the brake linings reduced the ability and efficiency of 
+the brake to reset when the counterweight was reapplied. 
+
+ 
+
+event. 
+
+CORRECTIVE ACTIONS:  To address this incident, this company did the following: 
+  Crews  were  reminded  to  discuss  at  their  earliest  opportunity,  the  hazards  that  led  to  this  operational 
+
+  All employees were reminded to consider the following: 
+
+o  Take  into  account  all  conditions  during  the  risk  assessment.  (i.e.,  How  did  the  controls  to 
+
+manage the steel plate introduce other hazards in this event?) 
+
+o  Were the tag lines really inspected and fit for purpose?  
+o  Was the condition of the lifeboat brake with oil contamination an incident waiting to happen? 
+
+  Supervisors should ask themselves:  “What are your expectations of your people to properly risk assess 
+the  conditions  of  the  environment  they  work  in  and  the  tools  they  use?”  and  “Is  maintenance  being 
+monitored for quality according to the manufacturer’s procedures?” 
+
+  All  crews  were  instructed  to  ensure  all  tag  lines  are  fit  for  purpose  and  sufficient  replacement  stock  is 
+
+held onboard. 
+
+  The crews were reminded to review lifeboat maintenance procedures to ensure that the gravity brake is 
+
+tested by use of the wire release and not by lifting the counter weight. 
+
+  Maintenance  personnel  were  instructed  to  check  that  the  lifeboat  oil  sump  levels  are  correct  and  that 
+
+personnel understand the use of level plugs. 
+ 
+
+ 
+
+The Corrective Actions stated in this alert are one company’s attempts to address the incident,  
+
+and do not necessarily reflect the position of IADC or the IADC HSE Committee. 
+
+This material is presented for information purposes only.  Managers & Supervisors should 
+
+evaluate this information to determine if it can be applied to their own situations and practices 
+
+Copyright  2008 International Association of Drilling Contractors All rights reserved. 
+
+Issued June 2012 
+
+Safety Alert 
+
+        From the International Association of Drilling Contractors 
+
+Cable release wire that was fouled by the tag line, 
+pressure applied and deactivated the gravity brake. 
+
+ 
+
+ 
+
+The outer sleeve of this tag line created a snagging hazard. 
+
+ 
+
+ 
+
+ 
+
+The Corrective Actions stated in this alert are one company’s attempts to address the incident,  
+
+and do not necessarily reflect the position of IADC or the IADC HSE Committee. 
+
+This material is presented for information purposes only.  Managers & Supervisors should 
+
+evaluate this information to determine if it can be applied to their own situations and practices 
+
+Copyright  2008 International Association of Drilling Contractors All rights reserved. 
+
+Issued June 2012 
+
+

@@ -1,0 +1,127 @@
+Safety Alert 
+
+        From the International Association of Drilling Contractors 
+
+ 
+ALERT 10 – 15 
+
+LIFEBOAT PROPERTY DAMAGE INCIDENT 
+
+ 
+
+WHAT HAPPENED: 
+ 
+An  offshore  rig  recently  experienced  a  property  damage  incident  when  a  lifeboat  davit  component  failed 
+while performing a scheduled weight test of a lifeboat.  Water bags were used to apply necessary weight to 
+achieve maximum lifeboat capacity for the function test of release gear and davit components.  As required 
+by procedure, all personnel involved with the job remained onboard the rig and in a position of safety, limiting 
+the actual severity of this incident to property damage.  The lifeboat and davit arrangement consisted of two 
+release hooks on the lifeboat supported by two davit fall/wires.  When test weight was achieved, the brake 
+was  released  at  the  davit  to  initiate  a  controlled  descent  of  the  lifeboat.    The  brake  was  set  to  stop  the 
+descent  of  the  lifeboat  approximately  6  feet  above  the  water  to  check  distance.    The  brake  was  again 
+released  to  continue  lowering  the  lifeboat  and  after  descending  another  6  inches,  the  threads  of  a  sheave 
+tensioning bolt used to adjust the sheave and secure it to the davit structure stripped.  The bolt thread failure 
+allowed the sheave to detach/separate from the davit structure creating 20 foot of slack in the bow fall wire.  
+The slack wire allowed the bow of the lifeboat to drop into the water and the weight/force was transferred to 
+the supporting fall/wire at the stern.  This incident caused severe damage to the stern lifeboat deck area. 
+ 
+
+WHAT CAUSED IT: 
+ 
+Equipment Failure:    Lifeboat  arrangements with  two  davit  falls/wires  and  two  hooks all  have  an  adjusting 
+sheave  located  at  the  top  of  the  davit  to  allow  adjustment  so  the  lifeboat  will  fit  securely  against  the  davit 
+bumper.  Photos attached to this bulletin page 2 of 2.  The first photo shows an open type adjusting sheave 
+and the second photo shows an adjusting sheave enclosed in a capture or preventer box. 
+ 
+CORRECTIVE ACTIONS:  To address this incident, this company did the following: 
+ 
+Immediate Action:   
+  Lifeboat  davit  arrangements  that  consist  of  two  fall/wires  used  to  support  lifeboats  equipped  with  two 
+hooks/release  gear  mechanisms  (bow  &  stern)  shall  not  be  lowered  or  hoisted  during  training 
+exercises/drills  with  people  in  the  lifeboats  and  this  precautionary  measure  is  effective 
+immediately 
+If maintenance or servicing of the lifeboat is required, maintenance wires must be attached and removed 
+when work is completed. 
+
+ 
+
+  Weight tests of lifeboats and davits should be postponed until this issue is resolved. 
+  This action does not apply to single fall/single release hook capsule type lifeboat arrangements. 
+  This is a temporary precaution until we are able to implement corrective action for lifeboat davits of this 
+
+type. 
+
+  This  action  only  applies  to  training/exercises/drills  and  shall  not  prohibit  them  from  being  used  if 
+
+emergency abandonment of the rig and abandonment by lifeboat is required. 
+
+ 
+Engineering Actions: 
+ 
+  Open type adjusting sheaves will be fitted with capture/preventer housing. 
+  Tensioning bolts and nuts shall be compatible and made of carbon steel, not stainless steel. 
+  Preventative Maintenance will be implemented to require inspection for corrosion or other damage. 
+  A standard sheave tensioning bolt/nut arrangement. 
+ 
+Note:  Review IADC ALERT 09 – 23 LIFEBOAT INCIDENT RESULTS IN A FATALITY at:  
+http://www.iadc.org/alerts.htm Also review the IADC letter regarding lifeboat safety that can be found at:  
+http://www.iadc.org/committees/offshore/index.html  
+
+The Corrective Actions stated in this alert are one company’s attempts to address the incident,  
+
+and do not necessarily reflect the position of IADC or the IADC HSE Committee. 
+
+This material is presented for information purposes only.  Managers & Supervisors should 
+
+evaluate this information to determine if it can be applied to their own situations and practices 
+
+Copyright  2005 International Association of Drilling Contractors All rights reserved. 
+
+Issued May 2010 
+
+Safety Alert 
+
+        From the International Association of Drilling Contractors 
+
+View of open type adjusting sheave without housing that 
+will not catch/hold sheave in the event of failure. 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+View of adjusting sheave with housing designed to 
+catch/hold sheave in the event failure.  Engineering will 
+assist Operations with upgrading open sheaves to this 
+enclosed type. 
+
+The Corrective Actions stated in this alert are one company’s attempts to address the incident,  
+
+and do not necessarily reflect the position of IADC or the IADC HSE Committee. 
+
+This material is presented for information purposes only.  Managers & Supervisors should 
+
+evaluate this information to determine if it can be applied to their own situations and practices 
+
+Copyright  2005 International Association of Drilling Contractors All rights reserved. 
+
+Issued May 2010 
+
+

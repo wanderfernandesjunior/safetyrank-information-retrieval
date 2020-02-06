@@ -1,0 +1,182 @@
+AB
+
+ 
+
+ 
+
+1  Tagline Incident 
+
+IMCA Safety Flash 06/03 
+
+July 2003 
+
+These  flashes  summarise  key  safety  matters  and  incidents,  allowing  wider  dissemination  of  lessons  learned  from  them.    The  information  below  has  been 
+provided in good faith by members and should be reviewed individually by recipients, who will determine its relevance to their own operations. 
+
+The effectiveness of the IMCA safety flash system depends on receiving reports from members in order to pass on information and avoid repeat incidents.  
+Please consider adding the IMCA secretariat (imca@imca-int.com) to your internal distribution list for safety alerts and/or manually submitting information 
+on specific incidents you consider may be relevant.  All information will be anonymised or sanitised, as appropriate. 
+
+A  number  of  other  organisations  issue  safety  flashes  and  similar  documents  which  may  be  of  interest  to  IMCA  members.    Where  these  are  particularly 
+relevant, these may be summarised or highlighted here.  Links to known relevant websites are provided at www.imca-int.com/links   Additional links should 
+be submitted to webmaster@imca-int.com 
+
+A member has reported an incident whereby an injury was sustained by a person during lifting operations on a construction 
+ship. 
+
+A person was acting as banksman, but also assisted with the handling the load, weighing approximately 1256kg, which was 
+being moved from the starboard aft side of the ship to its moon-pool area.  The load had taglines attached to control the 
+load as it was being lifted over ROV system containers. 
+
+To help steady the load, the acting banksman wrapped a tagline around a handrail, but his fingers became trapped when the 
+load  swung  and  the  tagline  became  taut.    As  a  result,  a  part  of  the  person’s  left  finger  was  amputated  and  he  sustained 
+superficial rope burns to two other fingers. 
+
+The company involved has noted the following as ‘lessons learnt’: 
+
+  The  banksman  was  also  controlling  the  tag  line.    This  combination  of  roles  is  thought  to  have  resulted  in  loss  of 
+
+attention; 
+
+  The practice of using tag lines needs to take into account of dynamic forces when controlling movement of the load; 
+
+  The practice of taking a wrap around the tag line makes it difficult to release in a critical situation. 
+
+The company’s instructions for lifting equipment and lifting operations were revised shortly after the event.  The two key 
+additions were: 
+
+  An statement instruction that the banksman is to be solely dedicated to instructing the lifting operation and should not 
+
+take part in any additional duties; 
+
+  A new section ‘Use of Taglines’ describing the consideration of safe positioning, dynamic forces of loads, securing taglines 
+
+and a warning to never wrap a tagline around any body part for controlling the load. 
+
+2 
+
+Inflatable Lifejackets Fail to Inflate 
+
+Keywords:  Gas 
+
+This safety alert was received from the UK Maritime & Coastguard Agency (MCA) 
+
+“Recently a fisherman and a workboat crewman died when the inflatable lifejackets they were wearing failed to inflate.  We suspect 
+that the gas cylinders may have worked loose since the lifejackets were last inspected. 
+
+Manufacturers  provide instructions and maintenance procedures for inflatable lifejackets which include  details of regular and routine 
+inspections. 
+
+The following key learning points have been noted: 
+
+  Owners of inflatable lifejackets should have them serviced and inspected in accordance with the manufactures’ instruction; 
+
+  Owners should include the service and maintenance of inflatable lifejackets within their safety management system; 
+
+  Users of inflatable lifejackets should be instructed in their use; 
+
+  Owners should maintain a record of serving, inspection and the training of users of inflatable lifejackets; 
+
+ 
+
+  Users of inflatable lifejackets should inspect them before putting them on.  Inspection should include: 
+
+– 
+– 
+– 
+– 
+– 
+– 
+
+Inspection of straps, buckles and outer covers; 
+Inspection of Safety harness, its stitching an buckles;  
+ Inspection of the inflatable lung for abrasion damage; 
+ Inspection of gas inflation cylinder for signs of corrosion; 
+ Inspection of the gas inflation for tightness of connection to the inflation mechanism; and 
+ Inspection of the automatic inflation system, if fitted.” 
+
+3  SARS  
+
+Keywords:  Infection 
+
+In  respect  of  Severe  Acute  Respiratory  Syndrome  (SARS)  members  are  able  to  obtain  advice  from  several  international/ 
+governmental agencies around the world.  For example: 
+
+World Health Organisation:  http://www.who.int/csr/sars/en/ 
+
+US Centers for Disease Control and Prevention (CDC):  http://www.cdc.gov/ncidod/sars/  
+
+4  Positioning of Emergency Positioning Indicating Radio Beacon 
+
+Keywords:  Dropped 
+
+IMCA recently received details of an incident involving a dropped object. 
+
+A vessel was undergoing a port state inspection in conjunction with a radio surveyor.  During the inspection of the EPRIB 
+(Electronic  Positioning  Indicator  Radio  Beacon),  it  was  noted  that  it  was  a  type  that  had  to  be  removed  from  the  holding 
+bracket.  The bracket was a spring clip type with a designated amount of tension that was mounted on the outside handrail 
+on the monkey island.  When the surveyor unclipped the EPRIB, the spring tension of the bracket forced it out of his grip 
+resulting  in  the  unit  falling  to  the  main  deck  below  (approximately  50  feet).    This  could  have  resulted  in  major  injury  to 
+personnel. 
+
+The recommendation made by the party concerned to members was to carry out a swift review of the position of EPRIBs on 
+board their vessels and to move the holding brackets to a safer location if necessary. 
+
+5  Mugging and Robbery  
+
+Keywords:  Robbery 
+
+Further to a Safety Flash 05/03 a further robbery report has been received from a member. 
+
+While  getting  a  ride  back  to  the  vessel  from  Trinidad,  Port  of  Spain,  an  employee  was  mugged  and  robbed  at  gunpoint.  
+He was offered a ride back to the boat by a seemingly friendly man and his three friends.  Approximately ten minutes after 
+being in the vehicle the man in the seat next to him produced a gun and began to empty the employee’s pockets.  His visa 
+card and the money he had on him were taken.  He was then severely beaten when the PIN number to his Visa card would 
+not work.  The men decided to keep him prisoner to try to get more money out of the next day.  When he mentioned that 
+he would be missed at the vessel and the card would be blocked, they drove to a remote location outside of town to kill him.  
+The  gunman’s  mobile  phone  rang  and  during  this  distraction  the  employee  dived  down  a  slope  while  being  fired  upon.  
+The men than decided to leave him there.  About two hours later he decided it was safe to come out and make his way to 
+the vessel. 
+
+The company involved has issued the following advice to its employees: 
+
+  Do no accept rides from anyone other than official taxi drivers; 
+
+  Always use the buddy system when going ashore, never go alone; 
+
+  Take extreme caution when ashore; be aware of your surroundings and the people in your surroundings. 
+
+Safety Flash 
+
+6  Fatality – Injury from an Air Hose 
+
+Keywords:  Hoses 
+
+A  member  has  reported  that  it  is  aware  of  the  following  incident,  whereby  a  worker  was  struck  on  the  head  by  a 
+compressed air hose which had blown off of its fitting on a piece of equipment.  He received serious head injuries, which 
+proved fatal. 
+
+The air hose had been held by a hose clamp on the fitting, with no keeper, restraining chain or sling to prevent the hose from 
+thrashing  around  and  this  failure  to  properly  secure  the  hose  and  hose  clamp  was  identified  as  the  primary  cause  of  the 
+incident. 
+
+This had been a ‘routine’ task and didn’t require a formal written job safety analysis to be carried out. 
+
+However,  the  company  has  highlighted  the  destructive  potential  of  unrestrained  compressed  air  hoses  to  all  personnel 
+through toolbox talks and safety training. 
+
+It  has  expressed  the  need  for  keepers,  chains,  slings,  special  proprietary  couplings  and  whip-checks  to  be  installed  on  all 
+diameter or high-pressure compressed air hoses, in order to prevent them thrashing about in the event of a hose or coupling 
+failure (see figure).  The company has undertaken to perform regular inspections of all compressed-air-powered equipment, 
+including hoses, in order to assess the integrity of couplings, clamps, keepers and hoses and to allow corrective action to be 
+taken. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+

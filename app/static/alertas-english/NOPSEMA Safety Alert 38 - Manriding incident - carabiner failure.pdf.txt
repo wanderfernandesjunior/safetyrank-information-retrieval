@@ -1,0 +1,130 @@
+ 
+SAFETY ALERT 38 
+
+ 
+
+ 
+ 
+NATIONAL OFFSHORE PETROLEUM SAFETY AUTHORITY 
+
+Manriding Incident – Carabiner Failure 
+
+ 
+What happened? 
+
+On a semi-submersible drilling rig, the drill crew had completed rigging up for a 
+cement job.  After pressure testing the cement line, a crew member was required 
+to open the low-torque valve.  The valve was located at a height of seven metres 
+above the rig floor and could only be accessed by using a tugger and man-riding 
+harness. 
+
+With the assistance of a roustabout, the person in the man-riding harness 
+connected to the wire rope from the man-riding tugger using a carabiner.  
+Another crew member then operated the tugger to raise the man-rider up to the 
+height of the low-torque valve. 
+
+Operation of the valve involved some physical movement of the man in the riding 
+harness.  The man-rider then pushed away from the valve, grasped a cement 
+hose with his right arm and signalled to the tugger operator to commence 
+lowering.  As lowering began, the carabiner locking gate broke free from the 
+carabiner body.  The man-rider became disengaged from the tugger wire rope 
+and fell to the rig floor.  Because he was holding the cement hose, this action 
+slowed his descent.  He landed feet first and rolled to absorb the fall. 
+
+Examination of the carabiner was carried out by a Materials and Corrosion 
+Engineer.  A considerable amount of dirt was found lodged around the latch pin 
+and between the latch yokes.  This contamination may have prevented full gate 
+closure of the carabiner by stopping the gate sleeve from rotating to lock the 
+latch.  This would have left the tensioner spring as the only mechanism holding 
+the gate closed. 
+
+ 
+
+Page 1 of 2 
+
+ 
+
+ 
+
+ 
+SAFETY ALERT 38 
+
+ 
+
+ 
+ 
+NATIONAL OFFSHORE PETROLEUM SAFETY AUTHORITY 
+
+Manriding Incident – Carabiner Failure 
+
+ 
+What went wrong? 
+
+the unlocked position. 
+
+1.  The carabiner was thought to have failed because it was used with the gate in 
+
+2.  The most likely cause of the carabiner being unlocked was dirt inside the gate 
+
+mechanism preventing it from closing fully. 
+
+3.  The carabiner was not rigorously checked for security when it was operated. 
+
+4.  The planned maintenance system did not identify the carabiner on the man-
+
+riding harness as an inspection item. 
+
+ 
+Key Lessons 
+
+Potential hazards associated with the use of the carabiner had not been 
+identified.  The routine planned maintenance instructions did not therefore 
+identify the carabiner on the man-riding harness as an item for inspection.  This 
+lack of detail allowed the carabiner to be overlooked when inspections were 
+carried out. 
+
+The height and position of the side entry sub on the cement stand that included 
+the low torque valve was not designed or planned to minimise or eliminate the 
+need for man-riding. 
+
+The man-riding procedures were not detailed enough to include rigorous 
+inspection and checking of the carabiner for security when it was being operated 
+by the user.  This may have allowed the carabiner to be put into use with an 
+unlocked gate.  The operator has now replaced the carabiner on the man-riding 
+harness with a 4-part shackle.  This shackle is included in the lifting register as 
+required in the man-riding procedure and is included in the loose lifting 
+equipment inspection colour coding system. 
+
+ 
+
+ 
+
+Who is responsible? 
+
+(i)  The operator of an offshore facility has a general duty of care under the 
+
+Offshore Petroleum and Greenhouse Gas Storage Act 2006 to ensure that 
+all work and other activities are safe, and that the risk to the health of people 
+is as low as reasonably practicable.  Specifically, the operator must 
+implement and maintain a safe system of work for any plant and equipment. 
+
+(ii)  Any person who is in control of any part of a facility or particular work 
+
+carried out at a facility has similar duties to the operator for that part of the 
+facility or that particular activity. 
+
+(iii)  Every person at a facility must at all times, take all reasonably practicable 
+
+steps to ensure that by any act or omission, they do not create or increase a 
+risk to the health or safety of either themselves or anyone else. 
+
+ 
+Contact 
+
+For further information, email alerts@nopsa.gov.au and quote Alert 38. 
+
+Page 2 of 2 
+
+ 
+
+

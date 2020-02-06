@@ -1,0 +1,59 @@
+Safety Alert 
+
+From the International Association of Drilling Contractors 
+
+ 
+
+ 
+ 
+ALERT 04 – 22 
+ 
+
+RIG CARRIER DRIVES OFF ACCIDENTALLY 
+
+ 
+WHAT HAPPENED: 
+ 
+In the process of jacking up the parked Carrier rig 
+on ground, the injured, a rig mechanic, was  
+installing the 6th jack on the Carrier.  As the 
+Maintenance Supervisor shifted the Cotta  
+Transmission lever from‘ Road’ to ‘Hoist’, the 
+engine RPM suddenly increased and Carrier 
+started to drive forward by itself.  When the Rig  
+Supervisor immediately shifted the lever back 
+to ‘Road’, the Carrier drove further and finally 
+halted after striking the gate hut. 
+ 
+WHAT CAUSED IT: 
+ 
+•Failure  to  Follow  Procedure  /  the  Compound  Gear  Box  was  not  kept  in  the  “Disengage”  position  before 
+shifting the Cotta Transmission.   
+ 
+• Equipment Malfunctioning / Cotta shifter movement to ‘Hoist’ position activated ‘Road’ mode of the Carrier 
+mechanism. 
+ 
+CORRECTIVE ACTIONS:  To address this incident, this company issued the following directives to 
+field personnel: 
+ 
+• Compound Transmission must be disengaged before shifting the Cotta Transmission. 
+• Bypassing procedures can have serious consequence. 
+ 
+
+Compound Transmission must be 
+disengaged before shifting the Cotta 
+transmission.  
+
+The Corrective Actions stated in this alert are one company’s attempts to address the incident, and do not 
+
+necessarily reflect the position of IADC or the IADC HSE Committee. 
+
+This material is presented for information purposes only.  Managers & Supervisors should  
+
+evaluate this information to determine if it can be applied to their own situations and practices. 
+
+Copyright © 2004 International Association of Drilling Contractors.  All Rights Reserved 
+
+Issued May 2004 
+
+

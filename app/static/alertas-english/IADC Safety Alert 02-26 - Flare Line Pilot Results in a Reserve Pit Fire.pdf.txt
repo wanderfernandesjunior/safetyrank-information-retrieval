@@ -1,0 +1,68 @@
+Safety Alert 
+
+From the International Association of Drilling Contractors
+
+ 
+
+ 
+ALERT 02 – 26 
+ 
+
+FLARE LINE PILOT RESULTS IN RESERVE PIT FIRE 
+
+ 
+WHAT HAPPENED: 
+ 
+While circulating out a well through the gas buster the driller instructed one of the crew to check the diesel pilot 
+light at the degasser flare line and make sure it was burning.  The crewman increased the diesel flow into the 
+barrel.  While circulating the kick out of the well, the pilot light barrel overflowed spilling burning diesel into the 
+reserve pit.  The pit caught fire from residue diesel from oil based mud.  Luckily, the wind was blowing away 
+from the rig and the fire burned itself out in 30 minutes, not damaging any equipment.  Even though the crew 
+responded well to the emergency, this could have been very costly, in lives.  This incident was a wake up call 
+for the rig crews and managers. 
+ 
+WHAT CAUSED IT: 
+ 
+It  is  evident  that  the  crewman  did  not  understand  either  the  communication  or  the  task.    Due  to  this  the 
+increased fuel flow to the flare line pilot barrel caused the barrel to over flow and carry the pilot flame to the 
+reserve pit.  It was noted that there is no  mention of gas buster or lighting flare line in the Rig Management 
+System.   
+ 
+CORRECTIVE ACTIONS:  To address this incident, this company did the following:   
+ 
+??
+
+Instructed Drillers  to  take the time to ensure crew members understand the tasks to be performed (JSA 
+would help) but even more importantly the driller must ensure that the crew understands instructions given 
+to them.  One way is to ask them to repeat back t the instructions  just given to them.   
+
+ 
+?? One corrective action taken by the rig was to move the gas buster flare line to the other side of the flare 
+line runway opposite of the reserve pit.  They also built a dike around the pilot light diesel barrel to prevent 
+burning diesel from escaping the area if the barrel overflows. 
+
+ 
+?? The rig crews held a meeting and discussed the incident, how to correctly do this task, who was assigned 
+
+to do the task from this point on, and what changes in the layout had taken place.  
+
+ 
+?? Operations Support Group was instructed  to update the Rig Management System to include operation of 
+
+the gas buster and lighting procedures for the flare line pilot flame.    
+
+ 
+
+The Corrective Actions stated in this alert are one company’s attempts to address the incident, and do not 
+
+necessarily reflect the position of IADC or the IADC HSE Committee. 
+
+This material is presented for information purposes only.  Managers & Supervisors should  
+
+evaluate this information to determine if it can be applied to their own situations and practices. 
+
+Copyright © 2002 International Association of Drilling Contractors.  All Rights Reserved 
+
+Issued June 2002 
+
+

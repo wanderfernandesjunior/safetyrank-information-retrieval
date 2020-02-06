@@ -1,0 +1,77 @@
+Safety Alert 
+
+        From the International Association of Drilling Contractors 
+
+POOR COMMUNICATIONS RESULTS IN PIPE BEING 
+
+PULLED IN TWO 
+
+ 
+ALERT 06 – 27  
+ 
+
+ 
+WHAT HAPPENED: 
+ 
+
+A drilling crew had finished bull heading 3-1/2 barrels of mud down the annulus of the well and the pressure 
+was  bled  through  the  choke  and  was  reading  zero.    The  normal  procedure  would  have  been  to  close  the 
+annular during bull heading operation, but this time the top rams were closed.  A tour change occurred and 
+the driller, who just came on tour, opened the annular preventer and attempted to hoist the 2-7/8” drill pipe to 
+pull out of the hole.  A tool joint came up against the closed top pipe rams and the pipe parted at the rig floor.  
+There were no injuries and a fishing job was not necessary given that the severed tool joint was still above 
+the rig floor. 
+
+ 
+WHAT CAUSED IT: 
+ 
+There was an obvious lack of communication at the tour change.  Hand-over notes are designed as a barrier 
+to  prevent  errors  in  operations.    The  company  hand-over  form  was  in  use  at  the  time  of  this  incident; 
+however, the notes were either incomplete or ignored.  It’s essential to the safety of the whole operation for 
+the hand-over notes to be used correctly. 
+
+Another standard operating procedure (and also a barrier to prevent errors) is the use of a sign placed on the 
+driller’s  weight  indicator  stating  which  BOP  is  closed.    The  sign  had  been  placed  on  the  clutch  handle 
+instead.  This placement put the sign below the line of sight and made it difficult to read as a result of the 
+angle of the sign.   
+
+A third barrier designed to alert the driller as to which BOP is in use, are the indicator lights on the remote 
+control console.  No indicator lights existed at the remote panel.     
+
+Were  people  in  too  much  of  a  hurry  to  confirm  which  BOP  equipment  was  in  use?    Did  they  assume  that 
+things were done as normal and that the possibility of change didn’t exist?   
+
+ 
+CORRECTIVE ACTIONS:  To address this incident, this company instructed the personnel in the 
+following: 
+ 
+•  Fabricate the necessary signs indicating which BOP equipment is closed and place them on the weight 
+
+indicator for best results!  
+
+ 
+•  BOP Ram indicator lights are to be added to decrease the likelihood of this kind of incident in the future. 
+ 
+•  Regardless of what information is passed from one driller to the next in the hand-over notes, it is 
+the on-tour driller’s responsibility to verify what the status is of all equipment/operations.  When 
+a different driller takes control of the operation, he owns the operation.  Don’t rely on someone 
+giving you all the right information; verify it for yourself.   
+
+ 
+ 
+Good communication is essential to a safe operation.  When you take over responsibility, check and verify—
+the operation and all that goes with it now belongs to you! 
+
+The Corrective Actions stated in this alert are one company’s attempts to address the incident,  
+
+and do not necessarily reflect the position of IADC or the IADC HSE Committee. 
+
+This material is presented for information purposes only.  Managers & Supervisors should 
+
+evaluate this information to determine if it can be applied to their own situations and practices 
+
+Copyright © 2005 International Association of Drilling Contractors All rights reserved. 
+
+Issued August 2006 
+
+

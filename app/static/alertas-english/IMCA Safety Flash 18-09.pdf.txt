@@ -1,0 +1,290 @@
+AB 
+
+ 
+
+IMCA Safety Flash 18/09 
+
+Safety Flash 
+
+December 2009 
+
+These  flashes  summarise  key  safety matters  and incidents,  allowing  wider  dissemination  of  lessons learned  from  them.    The information  below has been 
+provided in good faith by members and should be reviewed individually by recipients, who will determine its relevance to their own operations. 
+
+The effectiveness of the IMCA safety flash system depends on receiving reports from members in order to pass on information and avoid repeat incidents.  
+Please consider adding the IMCA secretariat (imca@imca-int.com) to your internal distribution list for safety alerts and/or manually submitting information 
+on specific incidents you consider may be relevant.  All information will be anonymised or sanitised, as appropriate. 
+
+A  number  of  other  organisations  issue  safety  flashes  and  similar  documents  which may  be  of  interest  to  IMCA  members.   Where  these  are  particularly 
+relevant, these may be summarised or highlighted here.  Links to known relevant websites are provided at www.imca-int.com/links   Additional links should 
+be submitted to webmaster@imca-int.com 
+
+ 
+
+1  Fatality During Pressure Test 
+
+A fatal incident has been reported which, while it took place on a drilling rig, is also relevant to many vessel operations. 
+
+During a pressure test with nitrogen, a pressure relief valve in the treating line vented.  The valve was rigged up in a vertical 
+position approximately 60cm above the height of the line.  As the valve vented, the assembly rotated through 90 degrees and 
+hit the deck of the rig.  During this rotation the assembly struck a crew member on the temple causing a fatal injury. 
+
+Valve equipment that moved following release of high pressure 
+
+ 
+
+Following investigation, the following points were noted: 
+
+♦  As the valve vented, the force caused the vertical stack to rotate through 90 degrees until it came into contact with the 
+
+♦  The crew member was in the high pressure area while pressure was being applied in order to check the pressure on an 
+
+deck; 
+
+instrument in the vicinity. 
+
+The following lessons were drawn from the incident: 
+
+♦  There should be an exclusion zone around all high pressure equipment under test.  No personnel should be in this zone 
+while  pressure  is  being  applied.    Where  authorised  personnel  do  need  access,  this  should  be  subject  to  further  risk 
+assessment and additional controls or barriers put in place.  No further increases in pressure should take place whilst 
+personnel are in the high pressure area; 
+
+♦  As  far  as  possible,  instrumentation  in  a  high  pressure  exclusion  zone  should  have  remote  viewing  or  monitoring 
+
+capability in a low-risk area; 
+
+♦  When working near pressurised equipment personnel should keep clear from likely pressure release points and always 
+
+out of the line of fire from vents and relief outlets; 
+
+♦  Equipment that could move in reaction to the sudden escape of gas under high pressure should, as far  as possible,  be 
+properly secured, anchored or immobilised.  All fittings and connections on pressure test equipment should be rated for 
+the test pressure and adequately secured. 
+
+ 
+
+2  Fatal Incident Onboard a Dive Support Vessel 
+
+A member has reported  an incident in which a rigger was fatally injured when  a large  steel frame, known as  a  cursor, fell 
+from a height of two metres trapping the rigger and resulting in fatal crush injuries to his chest.  He was declared dead on 
+arrival at hospital. 
+
+Work was being conducted onboard a dive support vessel (DSV) to 
+modify  the  mode  of  operation  of  the  cursor  to  ‘active  mode’.  An 
+‘active cursor’ is a frame that can independently be lowered, attach 
+itself  to  the  diving  bell  and  be  used  to  independently  lift  or  lower 
+the bell. 
+
+The work involved installation of a new hydraulic winch, structural 
+modification and associated pipe-fitting.  The workers involved with 
+the modifications were experienced.  
+
+The  cursor  was  suspended  above  the  diving  bell  by  the  newly 
+installed  winch  and  it  fell  as  a  result  of  a  failure  of  the  hydraulic 
+braking system for that winch.  A rigger was working on top of the 
+diving  bell  modifying  some  buoyancy  units  at  the  time  of  the 
+accident.    Although  there  were  a  number  of  other  people  in  the 
+vicinity and close to the worksite there were no other injuries. 
+
+The  immediate  cause  of  the  winch  failure  was  determined  to  be  a 
+faulty pilot valve in the cursor’s winch control system.  A technical 
+failure in the pilot valve prevented the automatic brake application 
+on the winch. 
+
+Following investigation the company noted the following: 
+
+♦  A  faulty  pilot  valve  in  the  winch  system  failed,  causing  the 
+brakes not to be applied in the stop position.  This resulted in 
+the  hydraulic  winch  being  unable  to  hold  the  weight  of  the 
+cursor, which caused the winch to unwind and drop the cursor; 
+
+Diving bell with cursor above 
+
+ 
+
+♦  There was no visual indication at the winch control panel that the brakes had been correctly applied, i.e. there was no 
+
+warning system built into the hydraulic system by the manufacturer; 
+
+♦  Single point failure of this pilot valve had not been identified as a failure mode for the hydraulic system; 
+♦  The importance of the commissioning phases and interfaces for the hydraulic system and its control mechanisms were 
+
+not sufficiently identified and were not appropriately managed; 
+
+♦  The control system was not fully commissioned prior to its use; 
+♦  The company’s own internal project management systems were not fully utilised; 
+♦  Communications and reporting lines within the project team and with offshore and onshore management were neither 
+
+♦  Design intentions and pre-commissioning requirements for safe operation of the new equipment had not been properly 
+
+fully utilised nor understood; 
+
+communicated to the work team; 
+
+♦  There was no secondary means of securing the active cursor; 
+♦  A decision was taken to work under the cursor.  The hazard of working under a suspended load was not recognised as it 
+
+was not a ‘typical’ load suspended from a crane. 
+
+The company drew the following lessons from the incident: 
+
+♦  There  should  be  a  clear  and  fully  understood  definition  of  the  statement  of  requirements  when  dealing  with  external 
+
+providers; 
+
+commissioning; 
+
+♦  External  providers  should  provide  clear  pre-commissioning  and  commissioning  guidelines  and  follow  them  during 
+
+♦  Project management for ‘internal’ company projects should be to the same rigorous standard as applied when managing 
+client  projects.    In  particular,  personnel  competency  requirements  should  be  rigorously  applied  for  all  project 
+management; 
+
+♦  There should be a clear definition and understanding of the responsibilities and reporting lines of those managing such 
+work both on and offshore.  Lines of responsibility between vessel-based personnel and shore-based staff should be fully 
+agreed and understood prior to commencing the work onboard; 
+
+ 
+
+♦  All safety management tools, such as behavioural observations, toolbox talks, risk assessments, time out for safety etc., 
+
+should all be working as planned; 
+
+♦  There should be adequate ownership, supervision and intervention of all ‘projects’ onboard the vessel through onboard 
+review meetings and safety intervention tools.  This is particularly important when operating conditions are subject to 
+change, as during installation, commissioning, trials and harbour activities; 
+
+♦  Structured review such as failure modes and effects analysis (FMEA)  and both internal company  approval and external 
+
+approval should be obtained before commissioning hydraulic and other complex safety-critical systems; 
+
+♦  The  change  from  commissioning  phase  to  operational  phase  must  be  clearly  defined,  particularly  for  safety  critical 
+equipment.    Personnel  should  not  make  assumptions  about  the  integrity  of  equipment  before  it  has  been  formally 
+accepted as operational; 
+
+♦  Measures should be in place to identify and mechanically secure suspended loads before passing beneath. 
+
+There  are  clear  lessons  to  be  learnt  relating  to  personnel  competence,  project  management,  communications  and  lines  of 
+responsibility,  supervision,  utilisation  of  procedures  and  risk  awareness.    This  incident  highlights  the  importance  of  making 
+sure that all the systems and controls in place to act as barriers and prevent an accident should be properly maintained and 
+proven to be working at all times. 
+
+The specific barriers that failed to prevent this incident were: 
+
+♦  Project controls – these should be robust and always utilised for internal as well as external projects; 
+♦  People selection and development – competence schemes should fully operational and effective; 
+♦  Technical integrity – there should be robust design and effective equipment quality control; 
+♦  At a practical and basic level the final barrier which should always be in place, and which was not in this case, is: Always 
+
+be aware of the surroundings, look out for ‘non-obvious’ suspended loads; and 
+
+♦  Never work under a suspended load – and challenge others who do! 
+
+3  Lost Time Injury to Leg 
+
+A member has reported an incident in which a sub-contractor’s employee suffered a leg injury which was categorised as a 
+lost time injury (LTI).  Whilst working on offloading a vessel, the sub-contract employee’s left leg above the ankle was pinned 
+between a shifting spreader bar frame and a freight container located adjacent to the spreader bar frame.  While one of the 
+seven  spreader  bars  was  being  lifted  and  in  the  air  the  remaining  bars  shifted,  causing  the  frame  to  slide  approximately 
+one metre (40 inches) towards the freight container where the employee was standing.  Hydraulic power packs were used to 
+help free the trapped employee, who was taken to the local hospital.  The employee suffered a hairline fracture of the left 
+ankle and the incident was categorised as an LTI. 
+
+Injured person’s ankle was trapped between yellow spreader bars and blue freight container 
+
+ 
+
+ 
+
+Following investigation, the company noted the following: 
+
+♦  The supervisor in charge did not follow in-house job safety analysis procedures; 
+♦  The sub-contractor personnel were not required to follow in-house job safety analysis procedures; 
+♦  The sub-contractor did not provide the specified fully trained personnel but, rather, a general labourer. 
+
+ 
+
+♦ 
+
+The company implemented the following actions to prevent recurrence: 
+
+Installation of clips to secure the load frames to the deck and installed additional safety stops on the load frames to hold 
+the spreader bars from moving 
+
+♦  Audit of training records of all sub-contractor personnel in order to ensure that personnel without proven competence 
+
+or proper training were not accepted for work; 
+
+♦  The sub-contractor was asked to provide full training for all contract personnel, which should be: 
+
+♦  Senior leadership would provide clear guidance to supervisory personnel that safety processes and procedures could not 
+
+– 
+– 
+– 
+
+appropriate to the work being performed 
+compliant with local regulatory safety standards 
+fully verifiable through testing; 
+
+be cut short. 
+
+4  Loss of ROV:  Dropped Object 
+
+A member has reported an incident in which a remotely controlled vehicle (ROV) and its tether management system (TMS) 
+were dropped to the seabed following failure of the umbilical termination.  During recovery of the system, just as the bullet 
+was about to enter the docking head in the A-frame, the umbilical separated from the TMS and both the ROV and its TMS 
+were dropped to the seabed.  Immediately after the incident occurred, all electrical power to the ROV was switched off and 
+high voltage equipment was earthed according to procedure.  The incident occurred three months after the latest umbilical 
+re-termination.  
+
+Picture of cast taken after re-termination 
+
+ 
+
+ 
+Two months after the cast was made.   
+
+The strands show signs of being pulled into the 
+cone. (Random picture available from system) 
+
+Umbilical termination (cast) 
+
+The surface of the inner cone was corroded and rough, 
+
+although loose rust was removed 
+
+ 
+
+An investigation found the following: 
+
+♦  The friction on the inner wall of the bullet was found to be greater than the combined friction of the strands, with the 
+
+result that the cast was not able to be drawn down and wedged properly; 
+
+♦  During  the  investigation  it  also  became  clear  that  the  relevant  checkpoint  in  the  maintenance  programme  was  not 
+
+detailed enough. 
+
+The root causes of the incident were determined to be: 
+
+♦  Friction on the inner wall of the bullet was greater than the combined friction of the strands; 
+♦  An important quality control checkpoint lacked clear, and easy to follow, instructions. 
+
+The following corrective actions were made: 
+
+the potting; 
+
+further review and technical analysis; 
+
+♦  A new maintenance checkpoint task was added for inspecting the armour strands for any signs of being pulled through 
+
+♦  Pictures of the cast structure of the company’s entire ROV fleet were initiated immediately following this incident, for 
+
+♦  Further pictures of the cast structure of every ROV system would be taken on a frequent basis; 
+♦  All bullets made of carbon steel would be changed out and replaced with a new type of bullet made of stainless steel.  
+
+This would eliminate corrosion and friction to the inner walls of bullet. 
+
+

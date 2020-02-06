@@ -1,0 +1,77 @@
+Safety Alert 
+
+        From the International Association of Drilling Contractors 
+
+ 
+ALERT 12 – 03  
+ 
+
+MALFUNCTIONING PUMP RESULTS IN  
+
+3RD DEGREE BURN INJURY 
+
+ 
+WHAT HAPPENED: 
+ 
+While  disconnecting  the  suction  line  from  a  drilling  fluid  transfer  pump,  an  employee  sustained  3rd  degree 
+burns when his lower abdomen and right arm were splashed with hot drilling fluid.  The employee was in the 
+process  of  transferring  the  hot  drilling  fluid  from  the  haul-off  pit  to  the  reserve  pit.    The  transfer  pump  had 
+been running for an unknown amount of time before the employee discovered the suction line was clogged.  
+The crew had experienced similar problems with the pump system in the past and was unsuccessful in their 
+attempts  to  keep  the  suction  line  from  clogging  up.    The  employee  turned  the  pump  off  and,  with  the 
+assistance of the derrickman who was lifting the suction line from the haul-off pit with a forklift, the employee 
+attempted  to  disconnect  the  suction  line  from  the  pump.    Once  the  cam-lock  connector  on  the  pump  was 
+released, the built up pressure in the suction line blew the hose off the pump, splashing the employee with 
+the hot drilling fluid.   
+ 
+
+WHAT CAUSED IT: 
+ 
+  Once the suction line became clogged, the pump continued to run causing the system to operate at 
+
+an unsafe temperature, building pressure between the end of the suction line and the pump. 
+
+  The crew had experienced problem with the system from the time it was delivered on location and 
+was not able to keep the suction line from clogging up.  The pump was not operating at its expected 
+potential. 
+
+  The  injured  employee  did  not  release  the  pressure  utilizing  the  pressure  bleed-off  valve  prior  to 
+
+disconnecting the suction from the pump. 
+
+ 
+
+CORRECTIVE ACTIONS:  To address this incident, this company did the following: 
+ 
+ 
+
+Instructed rig personnel to immediately report all malfunctioning third party equipment to the appropriate 
+personnel so proper maintenance can be performed. 
+Instructed  rig  personnel  to  utilize  the  bleed-off  valve  to  release  potential  stored  pressure  prior  to 
+disconnecting all hose lines. 
+Instructed  rig  personnel  that  a  pressure  gauge  should  be  installed  on  the  pump  to  indicate  when  the 
+system is under pressure. 
+Informed  rig  personnel  that  they  should  ask  for  instructions  on  the  safe  operating  procedure  of  any 
+company owned or 3rd party equipment. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+The Corrective Actions stated in this alert are one company’s attempts to address the incident,  
+
+and do not necessarily reflect the position of IADC or the IADC HSE Committee. 
+
+This material is presented for information purposes only.  Managers & Supervisors should 
+
+evaluate this information to determine if it can be applied to their own situations and practices 
+
+Copyright  2008 International Association of Drilling Contractors All rights reserved. 
+
+Issued January 2012 
+
+

@@ -1,0 +1,91 @@
+Safety Alert 
+
+From the International Association of Drilling Contractors 
+
+ 
+
+ 
+ALERT 03 – 25 
+ 
+
+UNPROTECTED FLYWHEEL RESULTS IN A FATALITY 
+
+ 
+WHAT HAPPENED: 
+ 
+Note:    Although  this  incident  did  not  occur  on  a  drilling  rig  or  at  a  service  yard,  it  is  included  in  the  alerts 
+program because there is a potential for it to occur anywhere.  A container containing a generator system was 
+placed  on  the  platform  to  provide  power  for  testing  some  winches.    The  engine  was  fluctuating  so  a 
+Mechanical  Assistant  and  the  two  Motormen  went  into  the  container  to  investigate.    It  was  decided  that  the 
+engine  needed  to  be  shut  down  to  change  the  filters.    The  Motorman  stayed  by  the  filters,  while  the 
+Mechanical  Assistant  returned  to  the  panel  to  ask  the  other  Motorman  to  fetch  new  filters.    While  the 
+Mechanical assistant left the control panel and went outside to tell the winch crew to stabilize the winches, the 
+Motorman  who  stayed  in  the  generator  container  decided  to  remove  his  jacket.    As  soon  as  the  Deck 
+Electrician heard a noise in the container he went to investigate and found the injured setting against the fan 
+guard. His jacket wound into the unguarded balance wheel pulley assembly.  The Motorman had his left hand 
+amputated and suffered a skull fracture.  He passed away after 15 days in the hospital.   
+ 
+WHAT CAUSED IT: 
+ 
+The investigation reveled that in preparation for the 
+filter  change,  the  injured  person  had  partially 
+removed  his  jacket,  releasing  his  right  arm  first.  
+The suction created by the fan pulled the free part 
+of  the  jacket  into  the  unguarded  balance  wheel 
+pulley  assembly.    One  of  the  main  causes  of  the 
+accident  could  be  considered  to  be  the  improper 
+guarding of the pulleys and belt.  
+ 
+ 
+CORRECTIVE ACTIONS:  To address this incident, this company did the following or instructed personnel to:   
+ 
+•  Performed a verification of all on board equipment and machinery in regards to Machinery Guarding or 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Machinery Protection of rotating and moving parts.   
+Installed protective devices to the rotating parts on the generator and engine as necessary. 
+
+• 
+•  All inspection operations beyond the control panel must have a stand-by person in attendance within the 
+
+immediate area of the emergency stop and in a position to easily see the inspection operators. 
+
+•  Ensure the emergency stop is immediately accessible to a stand-by person. 
+• 
+
+Instructed workers that working alone is not allowed inside the auxiliary generator container when working 
+beyond the control panel or activities require working/inspection while the engine is in operation.  
+Installed protective devices for the hot surfaces (i.e. exhaust manifold) of the engine that may come into 
+contact with operators.  
+Installed safety signs at the entrance of the containers, such as “Authorized Person only”, “Hearing 
+Protection required”, and the normal PPE requirements. 
+
+• 
+
+• 
+
+•  The company also instructed their Safety dept. to ensure that also all the normal operations are assessed 
+
+and JSAs are available. 
+The Corrective Actions stated in this alert are one company’s attempts to address the incident, and do not 
+
+necessarily reflect the position of IADC or the IADC HSE Committee. 
+
+This material is presented for information purposes only.  Managers & Supervisors should  
+
+evaluate this information to determine if it can be applied to their own situations and practices. 
+
+Copyright © 2003 International Association of Drilling Contractors.  All Rights Reserved 
+
+Issued June 2003 
+
+

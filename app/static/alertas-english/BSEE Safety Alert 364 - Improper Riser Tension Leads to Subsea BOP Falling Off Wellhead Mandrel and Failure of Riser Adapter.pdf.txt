@@ -1,0 +1,115 @@
+SAFETY ALERT 
+ 
+
+ 
+
+Safety Alert No. 364 
+August 13, 2019   
+
+ 
+ 
+
+ 
+       
+
+                       
+            
+ 
+
+Contact: Jason Mathews 
+Phone:    (504) 731-1496 
+
+Improper Riser Tension Leads to Subsea BOP Falling Off 
+
+Wellhead Mandrel and Failure of Riser Adapter 
+
+ 
+
+ 
+ 
+
+ 
+
+  
+
+            Failed Riser Adapter 
+
+ 
+
+                               
+On January 14, 2019, a subsea blowout preventer was being disconnected from a wellhead 
+mandrel  when  the  BOP  rolled  over  due  to  excessive  weight  applied  at  (i.e.,  not  enough 
+tension on) the riser adapter and BOP stack prior to disconnecting the BOP. The weight of 
+the riser overloaded the riser adapter, causing bending, which led to the adapter parting 
+from the riser.  The failure resulted in the disconnected BOP falling to the seafloor. Prior to 
+the incident, the well was secured with multiple plugs; thus, no pollution occurred. 
+ 
+The planned operation was as follows: (1) pressure test against the lower blind shear ram 
+and a full function test of the BOP (these steps were both completed); (2) apply a 
+predetermined weight to the stack by reducing drilling riser tension; and (3) proceed to 
+disconnect the BOP stack and hop the BOP stack to the next well without returning it to 
+surface, as approved by BSEE.  
+  
+The procedure did not prescribe a specific weight to apply to the BOP prior to release.  
+The Company Representative and Drilling Contractor reviewed the data and agreed on a 
+set amount of weight, or tension, to be applied to the BOP stack prior to opening the 
+primary connector latch.  The Drilling Contractor, who was responsible for performing the 
+adjustment to the riser tension system, adjusted the riser tension to a different weight for 
+
+reasons unknown. Even with the tensioner weight information displayed on the drill floor, 
+he released more weight than previously agreed.   
+ 
+After the riser tension was adjusted, the underwater Remotely Operated Vehicle inserted 
+the flying lead into the hydraulic stab on the BOP ROV panel and unlocked the primary 
+connector from the wellhead.  The BOP shifted to a 45-degree tilt.  The resulting tilt put 
+undue bending stresses on the tapered joint above the BOP, and it completely failed 
+some hours later.  The BOP came to rest on the seafloor after the joint failure.  An 
+independent third-party review concluded the riser adapter failed due to reduced top 
+tension while unlatching the wellhead connector. 
+ 
+Therefore, BSEE recommends that operators consider the following: 
+ 
+
+•  Develop a comprehensive procedure for unlatching a subsea BOP.  The procedure 
+
+should incorporate all the necessary calculations to determine the appropriate 
+tension settings for all unlatching scenarios.  Base the procedure specifics on actual 
+conditions including, but not limited to, weight of the BOP, water depth, weight of the 
+drilling riser in seawater, weight of riser fluid, and all other pertinent factors. 
+
+•  Unlatching procedures for BOPs should make reference to riser analysis in the body 
+
+of the program and provide a hold point for review and verification of riser tension 
+being set to the recommended setting point prior to landing the BOP and unlatching 
+the BOP.  
+
+•  Establish an Emergency Disconnect Sequence (EDS) weight down for simulation 
+
+and an EDS over pull for actual EDS function, if required. 
+
+•  Establish safe operating parameters for all drilling operations.  Drilling contractors 
+
+and operators should be equipped with proper information and calculations to know 
+when any operation is outside normal expectations and needs to be reevaluated.   
+
+•  Re-evaluate all risk assessments associated with moving a BOP at depth from well 
+
+to well.     
+
+•  Ensure that all rig personnel understand the risks associated with disconnecting 
+
+blowout preventers from wellhead mandrels and all additional risks associated with 
+hopping a BOP stack to the next well. Ensure that personnel fully understand the 
+jobs they are performing, and perform the necessary risk assessments and 
+calculations that will make each job safe. 
+
+ 
+
+--BSEE-- 
+
+A Safety Alert is a tool used by BSEE to inform the offshore oil and gas industry of the 
+circumstances surrounding a potential safety issue. It also contains recommendations 
+that could assist avoiding potential incidents on the Outer Continental Shelf. 
+ 
+
+

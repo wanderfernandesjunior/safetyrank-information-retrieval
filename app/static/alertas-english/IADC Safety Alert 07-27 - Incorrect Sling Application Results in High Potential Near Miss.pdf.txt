@@ -1,0 +1,69 @@
+Safety Alert 
+
+        From the International Association of Drilling Contractors 
+
+ 
+ALERT 07 – 27 
+ 
+
+INCORRECT SLING APPLICATION RESULTS IN  
+
+HIGH POTENTIAL NEAR MISS 
+
+ 
+WHAT HAPPENED: 
+ 
+A 13 3/8” casing string had been run to the setting depth.  The last few joints were washed down using a 
+third  party  circulating  head.    The  final  joint  to  be  run  was  a  15  foot  pup  joint,  however,  the  Company  Man 
+instructed the crew to lay down the pup joint and pick up a full joint.  The circulating head was re-installed 
+onto the full joint by the crew on the catwalk.  The joint was then made up and the hose connected.  As soon 
+as the pumps were brought on line to 30 SPM, the circulating head blew off.  The web sling that was being 
+used to secure the circulating head came unfastened and allowed the head to fall approximately 15m to the 
+rig floor.  No one was injured. 
+ 
+WHAT CAUSED IT: 
+ 
+The selection and application of the safety sling was incorrect.  A JSA was conducted, but the specific type 
+of  safety  sling  to  be  used  had  not  been  identified.    The  third  party  supervisor  did  not  properly  install  or 
+operate the equipment.  The incident occurred directly after crew change.  The oncoming crew did not take 
+the  required  time  to  verify  the  equipment  was  properly  installed  and  secured.    The  circulating  head  had 
+previously been used and was known to be in good working order.  It is therefore possible that because third 
+party did not supervise the installation of the circulating head, the crew may have cross threaded it and as a 
+result it blew off at a low pressure.  The weight of the circulating hose was not taken by an air winch which 
+allowed the casing head to be unreasonably side loaded.  
+ 
+CORRECTIVE ACTIONS:  To address this incident, this company did the following: 
+ 
+• 
+•  Training schedule made for on site rigging and slinging practice to include the proper use of wire rope 
+slings,  shackles  and  winch  lines  to  secure  equipment  used  at  height  (Dropped  Objects  Management 
+System). 
+
+JSA revised to include proper use of securing sling and proper application. 
+
+•  Rig  Managers  to  ensure  third  party  equipment  is  properly  installed,  secured  and  operated.  Third  party 
+
+companies to comply with the above by having qualified personnel.  
+
+•  Discussion with all Rig & Line Managers at the Monthly Rig Manager’s meeting shortly following incident.  
+•  Line  management  to  ensure  distribution  of  incident  to  area  rigs;  understanding  and  compliance  of  the 
+
+company’s RMS policies and procedures. 
+
+ 
+
+The Corrective Actions stated in this alert are one company’s attempts to address the incident,  
+
+and do not necessarily reflect the position of IADC or the IADC HSE Committee. 
+
+ 
+
+This material is presented for information purposes only.  Managers & Supervisors should 
+
+evaluate this information to determine if it can be applied to their own situations and practices 
+
+Copyright © 2005 International Association of Drilling Contractors All rights reserved. 
+
+Issued September 2007 
+
+

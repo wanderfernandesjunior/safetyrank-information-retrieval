@@ -1,0 +1,161 @@
+ 
+
+ 
+
+ 
+
+Safety Alert 57 
+
+August 2013 
+
+ 
+
+Fast Rescue Craft unplanned descent  
+
+What happened? 
+
+NOPSEMA conducted an investigation into a dangerous occurrence on an offshore facility in which a Fast 
+Rescue Craft (FRC) carrying four workers was being recovered to its davit following a routine marine operation. 
+The FRC was raised 23 metres from sea level and was stopped at deck level to allow tag lines to be secured to 
+the craft before final hoisting into the FRC davit cradle. 
+
+When hoisting resumed, the FRC started to descend to the sea. The FRC winch operator initially released the 
+hoist control to the neutral position at which point the davit brakes should have been applied, but the FRC 
+continued to descend to sea at a rate governed only by the inertia brake in the system. It was reported that 
+the winch operator then actuated the hoist-up control to the full speed position but the FRC descent rate 
+increased. The emergency stop was activated but the FRC continued to descend until contact was made with 
+the sea. No injuries were sustained by the occupants and no equipment was damaged as a result of this 
+dangerous occurrence. The sea condition was reported as ‘smooth’ (force 2) at the time. 
+
+The FRC has a maximum capacity of 10 persons and is used for both routine marine operations as well as 
+providing an emergency response function, including recovery of man overboard, rescue of persons from 
+ditched helicopters and marshalling life rafts. The FRC davit contains three braking systems, a mechanical 
+brake, a hydraulic brake and a centrifugal/inertia brake. During the unplanned descent, both the mechanical 
+and hydraulic braking systems failed to operate and the speed of descent was limited by the centrifugal/inertia 
+brake only. 
+
+Investigation by the operator identified that three incorrect valves had been fitted to the davit hydraulic 
+system. One of these valves, supplied incorrectly by a third party service provider (it contained one additional 
+character in the part number), compromised the integrity of the hydraulic braking system. Prior to the 
+dangerous occurrence, the FRC davit winch had undergone a significant overhaul by third party service 
+providers, which included an original equipment manufacturer (OEM) service engineer. It was reported that 
+following the overhaul, the FRC winch system was not load tested with either the FRC or water bags. The 
+procedures used for the testing lacked detail and did not identify how testing was to be conducted, although 
+the annual fitness for purpose certificate was issued by the OEM’s representative for the FRC system. The 
+operator’s FRC testing procedures were not used during the FRC davit winch testing. It was later confirmed 
+that had these procedures been followed, the failure mode would have been identified. 
+
+The OEM had not completed a failure mode effects and analysis (FMEA) or similar type study, to identify the 
+effect of any single mode failures in the system. The operator had completed a generic type FMEA on the 
+system but, after detailed review, this was found to be ineffective. The operator’s FRC launching procedures 
+did not address the operation of the FRC winch. The operator’s FRC training conducted at the facility did not 
+address routine or emergency winch operations. The facility winch operators were unable to explain all the 
+control functions of the winch control panel, including for example, when to engage and disengage the ‘wave 
+compensation’ function which was a feature of the system. Two previous FRC winch failures had occurred at 
+the facility directly related to the failure mode identified as a consequence of this dangerous occurrence. 
+
+What could go wrong? 
+
+If the inertia brake failed to operate and slow the rate of descent, the manned FRC could have dropped 23 
+metres to sea, potentially resulting in multiple fatalities or serious injuries. 
+
+National Offshore Petroleum Safety and Environmental Management Authority 
+
+ Rev 0 A296787 
+
+01/08/2013 
+
+1 of 2 
+
+ 
+
+Safety Alert 57 
+
+FRC unplanned descent 
+
+ 
+
+Key lessons  
+
+• 
+
+Investigations conducted by the operator into two previous FRC winch failures did not detect the 
+failure modes of these events. 
+
+•  The risks associated with any single mode failures should either be removed or the risks reduced to as 
+
+low as reasonably practicable. 
+
+•  Consideration should be given to conducting a failure mode and effects analysis (FMEA) or similar type 
+
+of study on FRC davit winch systems to identify the system failure modes. 
+
+•  Planned maintenance and testing of FRC davit winches should effectively contribute to the prevention 
+
+or mitigation of identified system failure modes and be linked to a facility’s performance standards. 
+
+• 
+
+In the absence of the application of an appropriate management of change process, spare parts should 
+only be replaced with ‘like for like’ spare parts as per the original equipment manufacturers design. 
+
+•  FRC launching, recovery and testing procedures should effectively address both routine and 
+
+emergency FRC davit winch operations. 
+
+•  Effective competency and training systems should be in place for FRC winch operators which address 
+
+both routine and emergency davit winch operations. 
+
+•  Operators should always comply with FRC davit winch testing and maintenance procedures. 
+
+•  Processes should be in place to ensure that the maintenance, inspection and testing conducted by the 
+third party service providers is effective and supported by appropriate procedures and documentation. 
+
+•  Appropriate measures should be in place for monitoring compliance with and effectiveness of the 
+
+testing arrangements being implemented. 
+
+ 
+
+The legislation 
+As per Clause 9 of Schedule 3 to the Offshore Petroleum and Greenhouse Gas Storage Act 2006: “The operator 
+of a facility must take all reasonably practicable steps to ensure that the facility is safe and without risk to the 
+health of any person at or near the facility.” This includes an obligation to take all reasonable practicable steps 
+to:  
+
+• 
+
+Implement and maintain systems of work that are safe and without risk to health [Clause 9(2)(d)]; 
+
+•  Provide all members of the workforce with the information, training and supervision necessary for 
+them to carry out their activities in a manner that does not adversely affect the safety of persons at 
+the facility [Clause 9(2)(f)]. 
+
+Contact 
+
+ 
+
+ 
+
+ 
+
+For further information email alerts@nopsema.gov.au and quote Alert 57. 
+
+NOPSEMA safety alerts are on the ‘Safety Alerts’ page, under the ‘Safety’ tab at nopsema.gov.au 
+
+The Australian Transport Safety Bureau issued a report on a separate FRC incident which occurred on the 
+vessel British Sapphire off the Northern Territory coast on 16 May 2010 and resulted in injuries to crew 
+members.  The ATSB report raised several similar findings to the key lessons arising from the dangerous 
+occurrence detailed in this Safety Alert. For more information, go to investigation number 275-MO-2010-004 
+at atsb.gov.au 
+
+National Offshore Petroleum Safety and Environmental Management Authority 
+
+Rev 0 A296787 
+
+01/08/2013 
+
+2 of 2 
+
+

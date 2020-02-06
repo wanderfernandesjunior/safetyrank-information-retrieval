@@ -1,0 +1,102 @@
+Safety Alert 
+
+        From the International Association of Drilling Contractors 
+
+ 
+ALERT 10 – 20  
+
+DAMAGE TO STARBOARD FLARE BOOM 
+
+ 
+
+WHAT HAPPENED: 
+ 
+Well testing operations were being conducted which required the installation of flare booms.  Eighty-five foot 
+flare  booms  were  fitted  to  the  pre-existing  boom  turntables  of  the  port  and  starboard  wing  decks.    The 
+starboard flare boom was fitted first, followed by the port flare boom.  Once the flare booms were installed 
+additional heat suppression equipment was installed on both starboard and port flare booms.  
+ 
+The starboard flare boom began rotating slightly on its longitudinal axis and was re-tensioned, which rectified 
+the problem.  The starboard flare boom was left extended for approximately 64 hours before hydrocarbons 
+were flared utilizing the starboard burner head for approximately 15 minutes.  
+ 
+After approximately three hours crew members heard a bang from the starboard side of the rig and went to 
+investigate.    As  a  crew  member  made  his  way  along  the  starboard  side  of  the  rig  he  noticed  that  the 
+starboard flare boom burner head was submerged in the water, while the base was still attached to the wing 
+deck with the king post lying almost horizontal above the boom.  
+ 
+
+WHAT CAUSED IT: 
+ 
+The original rig flaring installation was altered and relocated from the aft of the rig to the mid-ship wing decks. 
+The relocation of the flare booms required structural engineering of the wing decks and engineering of the 
+king posts.  
+ 
+A detailed incident investigation revealed that the failure of the starboard king post rear stay base plate was 
+a result of two primary failure modes:  
+ 
+
+ 
+ 
+
+Incorrect engineering.  
+Incorrect welding specification.  
+
+ 
+
+ 
+
+CORRECTIVE ACTIONS:  To address this incident, this company did the following: 
+ 
+Review the design criteria for attaching base plates to the deck structure with particular focus on the design 
+principles  (including  welding)  with  regard  to  uniform  deck  loading  and  the  potential  for  hard  points  to  be 
+created by under deck stiffening and the effect these can have on the deck loading. 
+
+Review the calculations and loading on connecting pins associated with king post structures.  
+ 
+Review  the  design criteria  for  attaching  base plates to  the  deck structure with particular  focus on  the weld 
+design in regards to the possible effects of Lamellar Cracking relative to the thickness of the deck plate and 
+base plate.  
+ 
+
+The Corrective Actions stated in this alert are one company’s attempts to address the incident,  
+
+and do not necessarily reflect the position of IADC or the IADC HSE Committee. 
+
+This material is presented for information purposes only.  Managers & Supervisors should 
+
+evaluate this information to determine if it can be applied to their own situations and practices 
+
+Copyright  2005 International Association of Drilling Contractors All rights reserved. 
+
+Issued July 2010 
+
+Safety Alert 
+
+        From the International Association of Drilling Contractors 
+
+ 
+Starboard Boom Prior to Failure 
+
+Starboard Boom After Failure 
+
+ 
+
+ 
+
+ 
+ 
+
+The Corrective Actions stated in this alert are one company’s attempts to address the incident,  
+
+and do not necessarily reflect the position of IADC or the IADC HSE Committee. 
+
+This material is presented for information purposes only.  Managers & Supervisors should 
+
+evaluate this information to determine if it can be applied to their own situations and practices 
+
+Copyright  2005 International Association of Drilling Contractors All rights reserved. 
+
+Issued July 2010 
+
+

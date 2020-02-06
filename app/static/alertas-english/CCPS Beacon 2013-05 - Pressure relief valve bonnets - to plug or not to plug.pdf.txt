@@ -1,0 +1,112 @@
+www.aiche.org/ccps
+
+http://www.aiche.org/CCPS/Publications/Beacon/index.aspx
+
+Messages for Manufacturing Personnel
+
+www.iomosaic.com
+
+Pressure relief valve bonnets - to plug or not to plug?
+
+This issue sponsored by
+
+The left photograph and diagram 
+show a conventional spring loaded 
+pressure relief valve. There may be a 
+vent in the bonnet of the relief valve as 
+shown in the diagram at bottom left. If 
+the vent is present, it is normally 
+supposed to be plugged when the valve is 
+in service.
+
+The photograph and diagram on the 
+right show a different kind of pressure 
+relief valve – a balanced bellows 
+pressure relief valve. This valve has a 
+bellows between the process and the 
+valve bonnet. The bellows (when the 
+bonnet is vented to atmosphere) prevents 
+back pressure from assisting the spring in 
+keeping the relief valve closed, and also 
+protects the spring from corrosion.  Note 
+that it may be difficult to tell what kind 
+of relief valve is installed from the 
+external appearance of the relief valve.
+
+A balanced bellows relief valve may 
+be used when the relief valve discharges 
+to a collection header instead of directly 
+to the atmosphere. In a conventional 
+relief valve, the bonnet pressure is equal 
+to the downstream pressure, while in a 
+properly vented balanced bellows relief 
+valve the bonnet pressure is atmospheric 
+pressure.  For the valve to function as 
+designed, the bonnet of a balanced 
+bellows relief valve must be vented to 
+atmospheric pressure - the vent  must not 
+be plugged. It must also vent to a safe 
+place. Note that, in spite of a warning 
+sign, there is a plug in the vent of the 
+balanced bellows relief valve in the 
+picture at top right (red arrow).
+
+May 2013
+
+BONNET
+VENT PLUGGED 
+DESPITE 
+WARNING SIGN
+
+BONNET
+VENT - NOT 
+PLUGGED
+
+SET PRESSURE
+
+ADJUSTING SCREW
+
+SPRING
+
+BONNET
+
+BONNET
+VENT –
+PLUGGED IF 
+PRESENT
+
+BODY
+
+SEAT DISC
+
+BELLOWS
+
+NOZZLE
+
+CONVENTIONAL
+
+BALANCED BELLOWS
+
+What can you do?
+
+ Understand what kind of pressure relief valves you have in your 
+plant, and know what you must do to ensure that they work properly.
+ Ask if you have balanced bellows pressure relief valves in your 
+plant. If so, make sure they are clearly identified, and post signs near the 
+valves to remind people that the vent on the valve bonnet must not be 
+plugged. Signs may be the only clear indication of the type of valve to 
+plant operators and maintenance workers, so the signs must be kept in 
+place and visible.
+ If you see a balanced bellows relief valve with the vent plugged, 
+report it so that it can be corrected.
+
+Understand your plant relief valves!
+
+AIChE © 2013. All rights reserved. Reproduction for non-commercial, educational purposes is encouraged.  However, reproduction 
+for the purpose of resale by anyone other than CCPS is strictly prohibited.   Contact us at ccps_beacon@aiche.org or 646-495-1371.
+
+The Beacon is usually available in Arabic, Afrikaans, Chinese, Czech, Danish, Dutch, English, French, German, Greek, Gujarati, Hebrew, Hindi, Hungarian, Italian, Japanese, 
+
+Korean, Malay, Marathi, Norwegian, Persian, Polish, Portuguese, Romanian, Russian, Spanish, Swedish, Telugu, Thai, Turkish, and Vietnamese.
+
+

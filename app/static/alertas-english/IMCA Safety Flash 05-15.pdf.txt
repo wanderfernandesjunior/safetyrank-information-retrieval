@@ -1,0 +1,366 @@
+AB 
+
+ 
+
+IMCA Safety Flash 05/15 
+
+Safety Flash 
+
+ April 2015 
+
+These flashes summarise key safety matters and incidents, allowing wider dissemination of lessons learnt from them.  The information below has been provided 
+in good faith by members and should be reviewed individually by recipients, who will determine its relevance to their own operations. 
+
+The effectiveness of the IMCA safety flash system depends on receiving reports from members in order to pass on information and avoid repeat incidents.  
+Please consider adding the IMCA secretariat (imca@imca-int.com) to your internal distribution list for safety alerts and/or manually submitting information on 
+specific incidents you consider may be relevant.  All information will be anonymised or sanitised, as appropriate. 
+
+A number of other organisations issue safety flashes and similar documents which may be of interest to IMCA members.  Where these are particularly relevant, 
+these may be summarised or highlighted here.  Links to known relevant websites are provided at www.imca-int.com/links   Additional links should be submitted 
+to webmaster@imca-int.com 
+
+ 
+
+1  Fatal  Incident  during  Change-Out  of  Chain  Wheel  (Gypsy)  on  Anchor  Handling  Tug  Supply 
+
+(AHTS) Vessel  
+
+A member has reported an incident in which one crewman died and another received minor injuries when a gypsy wheel fell 
+over whilst being moved, resulting in two crew members being trapped between it and a cargo rail bulwark.   The incident 
+occurred when a vessel was mobilising for a project which required the use of an 84mm wide gypsy wheel.  At the time the 
+starboard side forward winch was fitted with a 105mm unit.  This was removed and stored on the main deck.  Installation of 
+the 84mm unit then started.  
+
+The crew disconnected the gypsy wheel from the crane without checking its final landing position.  Therefore, they did not see 
+that the rims of the gypsy wheel were on each side of the skid rail for the chain lifter.  Immediately after disconnecting from 
+the crane, the crew started to roll the gypsy wheel.  This resulted in the starboard rim dropping into the gap in the rail causing 
+the gypsy wheel to tip beyond balancing point.  It fell over and pinned two crew members against the bulkhead.  This resulted 
+in one fatality and one first aid case. 
+
+Figure:  Plan view drawing of the intended route for the installation of the gypsy  
+
+ 
+
+Our members’ investigation noted the following: 
+
+  The immediate causes were: 
+
+  Gypsy wheel rolled into skid rail causing it to tip over 
+
+ 
+
+Lack of risk management: 
+- 
+- 
+
+Failure to identify hazards and risk 
+Failure to comply with safe working practices; 
+
+  Contributing factors: 
+
+ 
+
+Inadequate design review for this particular mode of operation conducted by vessel 
+
+  Gypsy wheel was not handled in the intended method as established when vessel was designed 
+
+ 
+
+  Root Causes: 
+
+ 
+
+Insufficient lifting or handling appliances for handling and changing the gyps wheel; 
+
+ 
+
+Inadequate monitoring and verification of organisational performance 
+
+  Weaknesses identified in the design review processes 
+
+ 
+
+Lack of effective implementation of risk management. 
+
+Figure: Showing the cause of the gypsy wheel tipping over (in this photo the term “cabelar” is used as well as “gypsy”) 
+
+ 
+
+The lessons drawn were as follows: 
+
+  Gypsy wheel should not be manually handled or rolled;  
+
+  Monitoring and verification of worksite performance was found to be inadequate. 
+
+The actions taken were as follows: 
+
+  Company-wide instruction forbidding free-rolling of these heavy items; 
+
+  Technical task force to evaluate a safe method for the installation of gypsy wheels in the short and long term and review 
+
+change out methods across the fleet; 
+
+  All vessels to review and re-risk assess current methods for handling gypsy wheels and submit risk assessment for approval.  
+
+Members may wish to refer to the following similar incidents (key words: crush, fatality): 
+
+IMCA SF 14/11 – Incident 3. Crewman injured when steel plates fell against him; 
+
+IMCA SF 16/13 – Incident 2. Fatality – man overboard (the crewman in this example fell overboard as a result of the sudden 
+and unplanned movement of heavy objects); 
+
+ 
+
+IMCA SF 18/13 – Incident 1. Fatality during lifting operations. 
+
+ 
+
+ 
+
+ 
+
+ Fresh scratches to paint on Cabelar Fresh scratches to paint on skid rail indicating location of where gypsy fell into skid rail Direction of roll Intended lay down location  
+2  Lifting Equipment Failure: Objects Dropped into Moonpool  
+
+A member has reported an incident in which a chain hoist failed causing a 700kg load to fall into the moonpool.  The incident 
+occurred when crew were moving moonpool carriages and frames into position during mobilisation of multibeam echosounder 
+equipment through the moonpool.  The moonpool carriage was successfully positioned.   As the crew lowered the second 
+moonpool frame into position, the chain on the hoist crane suddenly parted and the frame and carriage fell into the moonpool 
+damaging one of the stopper bars on the wall of the moonpool before being stopped by the other stopper bars. 
+
+There were no injuries.  There was some damage to the stopper bars and brackets. 
+
+ 
+
+Figure: Multibeam carriage before deployment to moonpool 
+
+Figure: Frame before deployment to moonpool, attached to 
+
+multibeam carriage underneath 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Figure: Damage to engine room wall (other side of moonpool) 
+
+Figure: Damage to side of moonpool after stopper bar was 
+
+following stopper bar broken 
+
+broken 
+
+ 
+
+Figure: Details of moonpool frames and stopper bars 
+
+ 
+
+  Before starting the job, all personnel involved took part in a toolbox meeting and job safety analysis (JSA).  A permit to 
+
+Our members’ investigation noted the following: 
+
+work had been granted; 
+
+  The first lift, using the crane in remote control mode, was successful; 
+
+  The hoist crane had a safe working load (SWL) of 5 tons; 
+
+  The immediate cause of the incident was found to be that during the lifting of the frame, it was obstructed by one of 
+
+  The underlying cause was stress and subsequent failure of the chain of the hoisting crane; 
+
+Lack of specific procedure regarding lifting a moonpool frame 
+
+Lack of awareness from crew who handled lifting moonpool frames to ensure smooth process during lifting. 
+
+the bracket stoppers; 
+
+  The root causes were:  
+
+ 
+
+ 
+
+ 
+ The following corrective actions were taken: 
+
+  Update annual load test to include dye penetration test to check for unseen cracks on hoist chain; 
+
+  Update procedures and JSA for moonpool activity; 
+
+  Replace hoist and chain and repair stopper bar inside moonpool; 
+
+  Defective chain sent to certified third party testing for examination of strains caused by overstressing.  
+
+Members may wish to refer to the following similar incidents (key words: chain, failed): 
+
+ 
+
+ 
+
+IMCA SF 12/11 – Incident 1. Offshore tank container rigging failure;  
+
+IMCA SF 01/15 – Incident 2.  Near miss: safe use of chains in rigging. 
+
+3  Winch Brake Failure 
+
+A member has reported an incident in which an ROV winch brake failed, leading to the uncontrolled movement of an ROV as 
+approximately 800m of umbilical ran off the winch drum in less than 90 seconds.  The incident occurred whilst the ROV was 
+being lowered to 1843msw depth.  It was then raised to a final stopping point of 1813msw (30m off bottom), and the winch 
+was shut down.  Within moments the winch started to slip and pay out small amounts of umbilical.  This quickly developed 
+into an out of control run-away on the winch drum, resulting in all, approximately 800m of umbilical running off the winch 
+drum in less than 90 seconds.  When the winch finally stopped there was 225m (approximately 3/4 of the last layer) of umbilical 
+left on the winch. 
+
+During those 90 seconds, the ROV control room (on the same deck as the winch) was evacuated, the bridge was notified by 
+phone and clear communications, and the vessel was ordered to move away from any subsea assets with utmost haste.  The 
+vessel moved 18m to the north. 
+
+All electrical power to the ROV system was isolated.  Due to friction, or some other unknown element, the winch drive motor 
+caught on fire.  The ROV crew extinguished the fire with portable extinguishers.  The area was barricaded, a fire watch posted 
+and all non-essential personnel except for the fire watch and his runner were cleared from the area. 
+
+There were no injuries.  
+
+Figure: Showing winch motor after fire 
+
+ 
+
+Our members’ investigation noted the following: 
+
+  A  preliminary  on-site  investigation  of  the  failure  by  the  manufacturer  was  conducted  with  no  conclusive  root  causes 
+
+identified.  The failed winch brake was shipped to the manufacturer for a detailed analysis to determine root cause(s); 
+
+  Following extensive testing and analysis, the manufacturer identified the most likely root cause of the run-off was probably 
+
+a blockage in the winch secondary brake release line;  
+
+  Given the damage to the winch the incident investigation could not determine a definitive root cause but were able to 
+establish through elimination a probable cause for the occurrence.  A series of actions to prevent occurrence had been 
+established these were included in the manufacturer’s technical bulletin.   
+
+ 
+The following actions were taken: 
+
+  The manufacturer released a service bulletin to  all operators of winches with this type of brake  advising them of two 
+
+checks to perform to prevent recurrence: 
+
+  One check, the Brake Release Line Check, verifies that the release pressure was dropping in the specified time and 
+
+should be performed every time the brake release line or hydraulic power unit (HPU) controls were serviced; 
+
+  The  second  check,  the  Motor-to-Brake  Load  Transfer  Check,  verifies  that  the  load  has  fully  transferred  from  the 
+hydraulic motor to the failsafe brake and should be performed before the HPU was purposely shut down while the 
+winch is under load. 
+
+Members may wish to refer to the following similar incidents (key words: winch, brake, failure): 
+
+IMCA SF 08/01 – Incident 1. Failure of ROV lift umbilical winch brake; 
+
+IMCA SF 18/09 – Incident 2. Fatal incident onboard a dive support vessel. 
+
+The rest of the incidents in this safety flash are hand injuries reported to the Marine Safety Forum. 
+
+4  Routine Task: Badly Cut Finger Changing Mop Head     
+
+The Marine Safety Forum has published the following safety flash regarding an incident in which someone suffered a painful cut 
+to the finger whilst engaged in a routine cleaning task.  He was in the process of changing a sponge mop head. Whilst attempting 
+to fit a new mop head he saw that one of the retaining channels had glue in it which was preventing it from fitting the holder. 
+He tried to clear out the glue with his pocket knife and in doing so he slipped and sustained a cut to the left index finger.  The 
+cut was quite deep, partially severing the flexor tendon and damaging the associated nerve.  A surgery was required to repair 
+the damage. 
+
+The incident highlights failure to manage change properly.  The injured person deviated from the original intent to carry out 
+routine cleaning duties, and instead attempted to fix a new problem with the mop head with the tools and facilities to hand, 
+without recognizing the inherent risks of the new task. 
+
+The safety flash can be downloaded from www.marinesafetyforum.org/upload-files//safetyalerts/msf-safety-flash-15.05.pdf. 
+
+Members may wish to refer to the following similar incidents (key words: knife slipped): 
+
+ 
+
+ 
+
+IMCA SF 06/10 – Incident 2. LTI – severed tendon;  
+
+IMCA SF 05/13 Incident 4. Finger and hand injuries.   
+
+5  Hand Injury during Stowing of Anchor Chains 
+
+The Marine Safety Forum has published the following safety flash regarding an incident in which someone  suffered a first aid 
+injury to his hand.  The crew were re-stowing the anchor chain after calibration in dry dock.  They were trying to get the chain 
+into the compression bar but it was slightly misaligned preventing the bar from closing.   They tried lowering and raising the 
+anchor a few times but to no avail.  A crewman then successfully used a large pinch bar to turn the link slightly as the chain 
+was raised the last short distance to allow the chain to fit snugly in the compression bar.  Unfortunately he failed to notice the 
+pinch bar was now aligned with the handrail on the adjacent bulkhead and as he lowered it his hand was caught between the 
+pinch bar and handrail. 
+
+The safety flash can be downloaded from www.marinesafetyforum.org/upload-files//safetyalerts/msf-safety-flash-15.06.pdf. 
+
+Members may wish to refer to the following similar incidents (key words: crushed, finger): 
+
+IMCA SF 03/05 – Incident 1. Finger injury during loading operations;   
+
+IMCA SF 02/06 – Incident 4. Hand injury sustained by diver. 
+
+Hand and finger crush/amputation injuries of this sort tend to occur where the immediate cause is not properly taking into 
+account the risk of sudden and unplanned movement of very heavy or massive objects. 
+
+Please see also the following similar incidents: 
+
+IMCA SF 02/08 – Incident 2. Serious hand injury;   
+
+IMCA SF 01/12 – Incident 2. Lost time incident (LTI) – laceration to finger; 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+IMCA SF 05/12 – Incident 3. LTI: crewman’s finger pinched when moving the gangway; 
+
+IMCA SF 12/14 – Incident 7. LTI trapped finger. 
+
+Members should be aware that IMCA has  a  pocket safety card on this topic,  Watch  your hands – you’ve only  got  one set! 
+http://www.imca-int.com/media/102527/imcaspc08.pdf. 
+
+   
+
+ 
+
+6  Finger Injury – Pinchpoint – during Hose Handling   
+
+The Marine Safety Forum has published the following safety flash regarding an incident in which someone injured his finger 
+during hose handling.  The incident occurred when a vessel was performing operations at the leeside of the platform.  The fuel 
+hose was lowered by a bridle which was connected to the saddle fitted on the hose.  The hose coupling was hanging loose.  An 
+Able Bodied Seaman (AB) handled the hose coupling and moved it away.  The other AB positioned the saddle on the ship’s 
+side, between two yellow pins, and started to secure the saddle to one of the pins using a rope.  When the vessel moved due 
+to the wind and swell, the saddle moved on the railing between the pins and the AB’s finger was pinched between the saddle 
+and the pin. 
+
+The  safety  flash  can  be  downloaded  from  http://www.marinesafetyforum.org/upload-files//safetyalerts/msf-safety-flash-
+15.11.pdf.  
+
+

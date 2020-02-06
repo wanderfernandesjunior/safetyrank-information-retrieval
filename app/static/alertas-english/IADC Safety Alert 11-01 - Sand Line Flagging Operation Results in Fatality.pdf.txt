@@ -1,0 +1,128 @@
+Safety Alert 
+
+        From the International Association of Drilling Contractors 
+
+ 
+ALERT 11 – 01 
+ 
+
+SAND LINE FLAGGING OPERATION RESULTS IN FATALITY 
+
+ 
+
+WHAT HAPPENED: 
+ 
+A completions rig crew was attempting to attach flags to the rig sand line.  After they had installed the third 
+set of flags, the rig operator reached into the drum area to help one of the rig floor crewmen remove his pipe 
+wrench  from  the  sand-line.    While  reaching  in,  his  stomach  area  came  in  contact  with  the  sand-line  drum 
+clutch lever and engaged the drum resulting in the drum turning several revolutions.  One of the rig crewmen 
+become entangled, resulting in his death.  
+ 
+
+WHAT CAUSED IT: 
+ 
+Direct Causes:   
+ 
+Inadequate guards or barriers:  There were no barriers to prevent personnel from entering or falling into 
+the sand-line drum area. 
+Making safety devices inoperative:  The person in control of the job did not isolate the sand line drum (air 
+shut  off  valve),  which  would  have  prevented  it  from  being  engaged  while  workers  were  working  on  live 
+equipment. 
+Failure to identify hazard 
+Personnel  on  location  did  not  recognize  the  dangers  associated  with  entering  the  drum  area  and  the 
+possibility of failing to close the air shut-off. 
+Improper position for task 
+As a result of the factors set out above the two crewmen were in a very awkward and high risk position.  
+ 
+
+Potential Basic/Underlying Causes 
+ 
+
+Inadequate  instructions/procedures:    Personnel  should  not  have  been  instructed  to  enter  the  drum  area 
+before it was verified that it was locked out and there were barriers installed to prevent workers from falling 
+into the draw works. 
+Lack of knowledge/situational awareness:  The person in control of the activity should have recognized this 
+as a high risk task and implemented controls to eliminate/reduce the risk to an acceptable level. 
+Inadequate  leadership  and/or  supervision:    Work  procedures  should  have  been  implemented  to  ensure 
+that the work could have been done safely. 
+Inadequate  work  standards:    The  procedures  for  conducting  this  work  were  insufficient  to  prevent  the 
+accident. 
+Inadequate  engineering:    A  method  for  preventing  entry  to  the  drum  area  should  have  been  in  place;  i.e. 
+barriers to prevent personnel from entering the area, mechanical devices to prevent accidental engagement of 
+the clutch lever. 
+ 
+
+CORRECTIVE ACTIONS:  To address this incident, this company did the following: 
+ 
+  Created a rig activity database and developed procedures/JSA for critical activities. 
+  Developed and  began  implementing  rig  procedures/rules  and  ensure  there  is a  mechanism  for  measuring 
+
+compliance. 
+Instructed rig supervisors to ensure equipment isolation mechanisms are installed and used. 
+
+ 
+  Developed service/completion rigs training matrix and ensure competency. 
+ 
+  Began a process to improve the safety culture and promote the use of a ‘Stop Unsafe Work Process’.   
+
+Installed barriers over the sand-line/draw works area to prevent entry. 
+
+The Corrective Actions stated in this alert are one company’s attempts to address the incident,  
+
+and do not necessarily reflect the position of IADC or the IADC HSE Committee. 
+
+This material is presented for information purposes only.  Managers & Supervisors should 
+
+evaluate this information to determine if it can be applied to their own situations and practices 
+
+Copyright  2008 International Association of Drilling Contractors All rights reserved. 
+
+Issued January 2011 
+
+ 
+ 
+
+ 
+
+ 
+ 
+
+Safety Alert 
+
+        From the International Association of Drilling Contractors 
+
+Location of shut down lever and clutch 
+ 
+ 
+
+ 
+
+View of drawworks drum and sand-line drum 
+
+ 
+
+Location of the fatally injured person at the time 
+of incident (one foot on top of drum housing and 
+the other foot on the sand-line drum). 
+
+ 
+
+Location  of  the  second  individual  (one  foot  on 
+the sand-line drum and one foot on a lower bar of 
+the draw works housing 
+
+ 
+
+The Corrective Actions stated in this alert are one company’s attempts to address the incident,  
+
+and do not necessarily reflect the position of IADC or the IADC HSE Committee. 
+
+This material is presented for information purposes only.  Managers & Supervisors should 
+
+evaluate this information to determine if it can be applied to their own situations and practices 
+
+Copyright  2008 International Association of Drilling Contractors All rights reserved. 
+
+Issued January 2011 
+
+

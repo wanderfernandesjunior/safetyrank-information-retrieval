@@ -1,0 +1,77 @@
+Safety Alert 
+
+        From the International Association of Drilling Contractors 
+
+ 
+ALERT 14 – 02  
+ 
+
+DROP OBJECT RESULTS IN LOST TIME INCIDENT 
+
+ 
+WHAT HAPPENED: 
+ 
+A  drilling  jar  mandrel  clamp  weighing  26  Kg  (57  lbs)  dropped  from  a  height  of  approximately  30  feet  (9.14 
+meters) above the rotary table.  On the way down, and at about 15 feet (4.5 meters) above the rig floor, it 
+struck  and  bounced  off  of  a  derrick  beam.    As  it  continued  falling,  the  mandrel  struck  a  floorhand  on  his 
+hardhat and left shoulder thus causing a laceration. 
+ 
+
+WHAT CAUSED IT: 
+ 
+• 
+•  Absence of an interlock or secondary safety protection on the jar clamp. 
+• 
+
+Inadequate verification and inspection of equipment before use – the jar clamp was left unfastened. 
+
+Ineffective  supervisory  control  over  a  critical  job  –  no  supervision  to  identify  inadequate  fastening  of 
+clamp. 
+Inadequate Risk Management – the task risk assessment did not include this risk. 
+Inadequate Training & Competency Assurance for people handling critical operations/ equipment. 
+
+• 
+• 
+•  Lack of Communication – this is an industry known hazard. 
+• 
+•  Poor operation & maintenance check – the bolts on the clamp had not been serviced. 
+ 
+
+Inadequate Equipment Specification. (lighter, safer jar clamps are available). 
+
+CORRECTIVE ACTIONS:  To address this incident, this company did the following: 
+ 
+•  The company mandated that all rigs ensure all existing clamps be replaced with a safer design and 
+
+specified in the contract with that the mandrel clamp shall include a safety interlock mechanism. 
+•  The company reminded all rigs personnel to secure loose objects while operating on the derrick.  
+•  The company revised their Task Risk Assessment (TRA) and Standard Operating Procedure (SOP) to 
+
+include specific details on the handling of mandrel clamp assemblies.  
+
+•  Rig Managers were tasked with ensuring that all the crew members are appropriately trained and 
+
+competent to identify hazards and risk mitigation. 
+
+•  The HSE Department was tasked with verifying competency assessments and assurance of all 
+
+•  The company initiated an HSE Audit with terms of reference on risk management practices. 
+•  The company distributed a safety alert within the business units to promote learning from the incident 
+
+employees. 
+
+and design improvements. 
+
+The Corrective Actions stated in this alert are one company’s attempts to address the incident,  
+
+and do not necessarily reflect the position of IADC or the IADC HSE Committee. 
+
+This material is presented for information purposes only.  Managers & Supervisors should 
+
+evaluate this information to determine if it can be applied to their own situations and practices 
+
+Copyright  2014 International Association of Drilling Contractors All rights reserved. 
+
+Issued January 2014 
+
+

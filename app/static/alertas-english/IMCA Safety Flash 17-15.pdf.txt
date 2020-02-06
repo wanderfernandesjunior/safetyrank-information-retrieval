@@ -1,0 +1,154 @@
+AB 
+
+ 
+
+IMCA Safety Flash 17/15 
+
+Safety Flash 
+
+ October 2015 
+
+These flashes summarise key safety matters and incidents, allowing wider dissemination of lessons learnt from them.  The information below has been provided 
+in good faith by members and should be reviewed individually by recipients, who will determine its relevance to their own operations. 
+
+The effectiveness of the IMCA safety flash system depends on receiving reports from members in order to pass on information and avoid repeat incidents.  
+Please consider adding the IMCA secretariat (imca@imca-int.com) to your internal distribution list for safety alerts and/or manually submitting information on 
+specific incidents you consider may be relevant.  All information will be anonymised or sanitised, as appropriate. 
+
+A number of other organisations issue safety flashes and similar documents which may be of interest to IMCA members.  Where these are particularly relevant, 
+these may be summarised or highlighted here.  Links to known relevant websites are provided at www.imca-int.com/links   Additional links should be submitted 
+to webmaster@imca-int.com 
+
+ 
+
+Focus: lifeboats 
+
+1  High Potential Near Miss: Failure of Lifeboat Release Hook Mechanism   
+
+A member has reported a high potential near miss incident involving the failure of a lifeboat release hook mechanism.  The 
+incident occurred during post maintenance testing of the davit brake.  The forward release hook opened resulting in the lifeboat 
+being suspended partially on its fall preventer device. 
+
+The release hook system in place on board the vessel was of the Nishi-F Company on/off load release type.  The basic overview 
+of the system is shown in Figure 1 below, with the components noted. 
+
+ 
+
+Item 
+
+Component 
+
+1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+6 
+
+7 
+
+Hook 
+
+Side Plate 
+
+Round Handle 
+
+Lever 
+
+Latch 
+
+Operation Cable 
+
+Suspension Ring 
+
+ 
+
+Figure 1:  Basic overview of lifeboat release hook 
+
+Components  
+
+To release the lifeboat, a crew member in the lifeboat pulls a locking handle bar upwards and whilst holding the handle bar in 
+the lifted position, operates the release.  In consequence the hook units on the forward and aft are simultaneously released 
+from the suspension rings as the operation cable manipulates the lever.  See figure 2 below. 
+
+Figure 2:  Showing operation unit 
+
+Figure 3:  Showing end of failed cable 
+
+ 
+
+ 
+
+ 
+In this instance the boat was successfully released from the stowed position as per normal operating procedure, and lowered 
+to the embarkation deck.  The boat was sitting at the embarkation deck for approximately five seconds when the forward hook 
+released, resulting in the boat dropping approximately 30 cm before coming to rest on the safety shackle (fall preventer device). 
+
+Our member’s preliminary investigation noted the following: 
+
+  The operation cable was found to have failed at the forward end of the lifeboat.  This was likely due to its age, in service 
+use, and the inability to adequately monitor its condition.  The cable terminates into a M6 thread; and the failure occurred 
+directly at the locking nut – see Figure 3; 
+
+  With the condition of the operation cable it was unclear if the hook was not properly reset, or failed under load at this 
+
+time; 
+
+  The  vessel  had  not  yet  undergone  the  manufacturer’s  modification  to  the  on-load  release  system  in  accordance  with 
+International Maritime Organization (IMO) MSC 1/Circ 1392 – Guidelines for evaluation and replacement of lifeboat release 
+and retrieval systems. 
+
+Our member recommended the following actions: 
+
+  Check the arrangements on the remaining hooks; 
+
+  Examination of lifeboat hook release mechanisms, irrespective of design to check for integrity and potential damage; 
+
+  Ensure that procedures, toolbox talks, risk assessments relating to the launch, recovery, and routine inspection of lifeboats 
+
+adequately ensured that routine checks were made of the hook release mechanism. 
+
+It  should  be  noted  that  in  this  instance  the  fall  preventer  device  reduced  the  consequence  of  the  failure;  this  was  a  good 
+reminder, not only of the importance of their use, but that they should also be inspected and maintained.   
+
+Members may wish to refer to the following incidents (search words: release, hook): 
+
+ 
+
+IMCA SF 13/14 Incident. 3 – Failure of lifeboat release hook mechanism. 
+
+2  Free-Fall Lifeboat Safety  
+
+The  Australian  Maritime  Safety  Authority  (AMSA)  has  published  Marine  Notice  15/2015  regarding  two  recent  incidents 
+involving the inadvertent or accidental release of free-fall lifeboats.  The investigations conducted by the Australian Transport 
+Safety Bureau (ATSB) and the New Zealand Transport Accident Investigation Commission (TIAC) have highlighted ongoing 
+safety issues related to free-fall lifeboats and identified maintenance issues that may be of interest to members. 
+
+Click here to download the notice.  
+
+The following AMSA presentation on – Operation of lifeboats and safety would also be of interest. 
+
+Members may wish to review the following similar incidents (search words: lifeboat): 
+
+IMCA SF 10-11 Incident. 2 – Lifeboat drill – Near casualty; 
+
+IMCA SF 09-12 Incident. 1 – Inadvertent lowering of lifeboat; 
+
+IMCA SF 13-14 Incident. 3 – Failure of lifeboat release hook mechanism. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+  
+
+

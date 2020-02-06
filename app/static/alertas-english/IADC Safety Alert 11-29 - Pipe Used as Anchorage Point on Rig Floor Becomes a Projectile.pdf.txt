@@ -1,0 +1,103 @@
+Safety Alert 
+
+        From the International Association of Drilling Contractors 
+
+ 
+ALERT 11 – 29  
+
+ 
+
+PIPE USED AS ANCHORAGE POINT ON RIG FLOOR  
+
+BECOMES A PROJECTILE 
+
+ 
+WHAT HAPPENED: 
+ 
+The  drill  crew  was  in  the  process  of  placing  the  Tubing  Hanger  Running  Tool  (THRT)  back  into  its 
+transporting/handling  skid.    The  tool  was  being  held by  air  winches  to  control  swing  due  to  rig  motion  and 
+high winds.  The port bow winch line was strung behind an approximately 12 inch (0.31 meters) hold-back 
+pipe on the Port side V-door King post.  This 18 pound (8.2 kilogram) hold back pipe is normally used during 
+this type of operation.  Due to the tool weight and motion, the hold-back pipe broke off, flying approximately 
+30  feet  (9.1  meters)  and  striking  the  Chiksan®  rack  on  the  starboard  wind  wall.    This  action  caused  the 
+THRT to swing and strike the transporting/handling skid, knocking it over.  No one was injured but the pipe, 
+which became a projectile as it broke off, passed within 4 feet (1.2 meters) of 3 different employees. 
+ 
+
+WHAT CAUSED IT: 
+ 
+1.  The  hold-back  pipes  were  installed  before  the  industry  practice  of  regular  inspection  of  lifting  devices, 
+Non-Destructive  Testing  (NDT)  or  Non-Destructive  Evaluation  (NDE)  inspections.    Because  it  is  not  a 
+pad eye or other similar device on the inspection list, it did not occur to anyone to add it to the inspection 
+list.  Although  it  had  been  treated  as  if  it  were  a  part  of  the  V-Door  King  post,  it  was  not.    It  had  been 
+added to the V-Door King post at least fifteen years ago. 
+
+2.  The crew did not recognize that their use of an uncertified anchor point was a hazard, which meant that 
+
+the crew did not add the pipe to the rig inspection list for annual certification. 
+
+3.  The crew reviewed a JSA for laying down drill pipe riser prior to beginning the job.  The JSA for the Drill 
+Pipe Riser did not include handling the THRT. When the THRT appeared at the rotary table, the drill crew 
+had  a  Tool  Box  Talk  prior  to  picking  up  the  THRT  and  placing  it  in  its  transport  skid.  However,  the 
+existing JSA was not revised nor was a new JSA written for picking up and handling the THRT.  Revising 
+the JSA to include this change might have made the crew aware of the way the THRT was handled and 
+avoided the incident. 
+
+4.  There was a job change and the JSA was not revised. 
+ 
+
+Port V-door King Post after the pipe broke. 
+
+ 
+
+ 
+
+Starboard V-Door King Post with identical pipe.  
+(This was removed after the incident.) 
+
+The Corrective Actions stated in this alert are one company’s attempts to address the incident,  
+
+and do not necessarily reflect the position of IADC or the IADC HSE Committee. 
+
+This material is presented for information purposes only.  Managers & Supervisors should 
+
+evaluate this information to determine if it can be applied to their own situations and practices 
+
+Copyright  2005 International Association of Drilling Contractors All rights reserved. 
+
+Issued December 2011 
+
+Safety Alert 
+
+        From the International Association of Drilling Contractors 
+
+ 
+CORRECTIVE ACTIONS:  To address this incident, this company instructed rig supervisors and 
+personnel in the following: 
+ 
+1. 
+
+Immediately conduct a Hazard Hunt on your rig for non-typical devices which are used as anchor points, 
+lifting points or used to change direction of forces, such an air hoist cable.  If it can be qualified, add the 
+device to the rig lifting-point inspection list, otherwise remove it immediately. 
+ 
+
+2.  Review this incident with all crew members.  Emphasize the importance of being alert to changes in the 
+job.  Remind them that a change in the job signals that it is time to stop the job, take a step back, and 
+either revise the existing JSA or create a new JSA for the changes that are occurring. 
+
+ 
+
+The Corrective Actions stated in this alert are one company’s attempts to address the incident,  
+
+and do not necessarily reflect the position of IADC or the IADC HSE Committee. 
+
+This material is presented for information purposes only.  Managers & Supervisors should 
+
+evaluate this information to determine if it can be applied to their own situations and practices 
+
+Copyright  2005 International Association of Drilling Contractors All rights reserved. 
+
+Issued December 2011 
+
+

@@ -1,0 +1,50 @@
+AB
+
+ 
+
+IMCA Safety Flash 05/99 
+
+Safety Flash 
+
+August 1999 
+
+These  flashes  summarise  key  safety  matters  and  incidents,  allowing  wider  dissemination  of  lessons  learned  from  them.    The  information  below  has  been 
+provided in good faith by members and should be reviewed individually by recipients, who will determine its relevance to their own operations. 
+
+The effectiveness of the IMCA safety flash system depends on receiving reports from members in order to pass on information and avoid repeat incidents.  
+Please consider adding the IMCA secretariat (imca@imca-int.com) to your internal distribution list for safety alerts and/or manually submitting information 
+on specific incidents you consider may be relevant.  All information will be anonymised or sanitised, as appropriate. 
+
+A  number  of  other  organisations  issue  safety  flashes  and  similar  documents  which  may  be  of  interest  to  IMCA  members.    Where  these  are  particularly 
+relevant, these may be summarised or highlighted here.  Links to known relevant websites are provided at www.imca-int.com/links  Additional links should 
+be submitted to webmaster@imca-int.com 
+
+ 
+
+1  Transponder Explosion 
+
+We have received a report of an incident on one of our members’ vessels where a Simrad SHT SPT 319 transponder was 
+retrieved from the seabed.  Once on deck and during the opening procedure of the housing, to enable the batteries to be 
+checked, there was a build-up of internal pressure.  This caused an explosion of the internal casing resulting in flying debris 
+and the subsequent formation and release of possibly toxic gases.  Fortunately no-one was injured in this incident. 
+
+The contractor involved has advised its personnel to treat all transponders with care and if there is any doubt about any unit 
+it  should  be  put  in  safe  quarantine  until  expert  help  is  arranged.    They  advise  that  Simrad’s  operations  manual  should  be 
+referenced for safety guidelines. 
+
+2  Lifeboat Drop Test 
+
+One of our members has recently experienced an incident during a lifeboat drop test carried out on three lifeboats.  One of 
+the three lifeboats failed its drop test due to the rear door opening after entering the water. 
+
+The  lifeboat  was  loaded  to  110%  load  (achieved  with  water  bags)  and  included  three  personnel.    The  boat  was  fully 
+submerged underwater during its dive and projection away from the platform.  After surfacing it was clear that there had 
+been  water  ingress  to  the  boat.    Fortunately  there  was  no  injury  to  the  personnel  in  the  boat.    The  on-site  supplier 
+representative performed adjustments to the door latches in order to increase latch tightness and the boat eventually passed 
+the test after two more drops. 
+
+The member has informed us that the supplier was Norsafe AS, Faervik, Norway, who have confirmed to them that they 
+have  no  previous  experience  of  doors  opening  during  this  type  of  operation.    The  supplier  is  currently  carrying  out  an 
+investigation to determine the cause of the incident. 
+
+

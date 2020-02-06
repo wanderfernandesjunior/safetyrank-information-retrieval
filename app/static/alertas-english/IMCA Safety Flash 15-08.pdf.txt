@@ -1,0 +1,283 @@
+AB(cid:31)
+
+ 
+
+IMCA Safety Flash 15/08 
+
+Safety Flash
+
+October 2008 
+
+These  flashes  summarise  key  safety  matters  and  incidents,  allowing  wider  dissemination  of  lessons  learnt  from  them.    The  information  below  has  been 
+provided in good faith by members and should be reviewed individually by recipients, who will determine its relevance to their own operations. 
+
+The effectiveness of the IMCA safety flash system depends on receiving reports from members in order to pass on information and avoid repeat incidents.  
+Please consider adding the IMCA secretariat (imca@imca-int.com) to your internal distribution list for safety alerts and/or manually submitting information 
+on specific incidents you consider may be relevant.  All information will be anonymised or sanitised, as appropriate. 
+
+A  number  of  other  organisations  issue  safety  flashes  and  similar  documents  which  may  be  of  interest  to  IMCA  members.    Where  these  are  particularly 
+relevant, these may be summarised or highlighted here.  Links to known relevant websites are provided at www.imca-int.com/links   Additional links should 
+be submitted to webmaster@imca-int.com 
+
+ 
+
+1  Crew Member Injured During ROV Maintenance 
+
+A  member  has  reported  an  injury  incident  which  occurred  during  a  major  refit  of  a  vessel-based  work-class  remotely 
+operated vehicle (ROV) spread.  An ROV pilot technician received an injury to the chin which subsequently required a total 
+of six stitches. 
+
+The ROV crew was servicing the manipulator and had restrained the compensator spring and removed the bladder assembly.  
+The  perspex  spring  housing  showed  clear  signs  of  contamination  and  it  was  decided  to  dismantle  it  further  for  cleaning 
+purposes.    The  compensator  spring  housing  was  not  user  serviceable  according  to  the  Schilling  maintenance  manual.    In 
+attempting to remove the spring, the stored energy in the spring was instantly released in an uncontrolled manner and in the 
+process the ROV technician sustained an impact injury to the chin. 
+
+Following investigation the following conclusions were drawn: 
+
+  This was a high potential incident as the consequences of the uncontrolled energy release could have been much worse; 
+
+  The instructions and warnings clearly stated in the manual were not followed; 
+
+  Components with stored energy (mechanical and/or electrical) should always be treated with respect. 
+
+  The  removal  of  the  compensator  spring  on  these  compensators  is  not  a  user  serviceable  task  and  units  should  be 
+
+The company has recommended the following actions: 
+
+returned to the manufacturer’s approved agents for servicing; 
+
+  Ensure sufficient spares are available on each ROV spread. 
+
+Schilling Titan 3 Manipulator: Compensator 101-4470 
+
+ 
+
+ 
+
+2  Risk of Electrocution During Routine Work 
+
+A member has reported a recent near-miss incident in which a crew member was very nearly electrocuted.  The incident 
+occurred onboard a dive support vessel (DSV) following mobilisation, when a sub-contractor’s winch was moved between 
+decks.  A sub-contractor technician had been tasked with rerouting the winch power cable (440v 3 phase) which had a plug 
+at the winch end and was hard-wired into the vessel supply at the other end. 
+
+It  proved  impractical  to  reroute  this  cable  as  it  had  been  passed  through  a  small  ‘mousehole’  in  a  sea  fastening  during 
+mobilisation and the plug was too large to pass through this mousehole.  The sub-contractor technicians then attempted to 
+remove  the  plug  in  order  for  the  cable  to  pass  through  the  mousehole.    During  this  process  one  of  the  sub-contractor 
+technicians felt a slight shock and realised that the cable was still live.  The job was immediately stopped and their supervisor 
+was called.  The supervisor immediately asked the project electrician to isolate the supply and make it safe.  The individual 
+who received the shock was checked by the medic and had suffered no injuries. 
+
+An investigation revealed the following: 
+
+  No toolbox talk had been held before the start of the job; 
+
+  No permit to work or electrical isolation was in place; 
+
+  No risk assessment had been conducted or put in place; 
+
+  Established procedures were not followed; 
+
+  The sub-contractor personnel did not receive adequate induction when they started the job; 
+
+  The sub-contractor personnel involved were in unfamiliar surroundings and were not fully aware of the potential hazards 
+
+of 440v mains power; 
+
+  There was inadequate active supervision. 
+
+Plug after disassembly 
+
+ 
+
+3  Uncontrolled Ascent of Spool and Diver During a Lifting Bag Operation 
+
+A member has reported the uncontrolled ascent of a spool piece and diver during a lifting bag operation. 
+
+In low visibility conditions, whilst preparing a pipe spool for re-positioning on the seabed using air lift bags, the spool became 
+positively buoyant and started ascending to surface in an uncontrolled manner. 
+
+The diver working at one end of the spool became entangled with the air lift bag inverter line, resulting in him ascending with 
+the spool from 55msw (seabed) to 36msw. 
+
+During  this  ascent,  the  diver’s  umbilical  was  damaged,  causing  restricted  gas  flow  and  severing  of  his  communication  and 
+video cables.  He reverted to his emergency gas supply and managed to cut the line that had fouled on his bail out bottle, 
+enabling him to immediately return to the seabed. 
+
+A  second  diver,  also  working  on  the  spool  (but  still  on  the  seabed),  followed  the  umbilical  of  the  ascending  diver  and 
+subsequently accompanied him back to the bell (at 47msw).  The bell was recovered for the immediate examination of the 
+diver and it was confirmed that no injuries were sustained.  The spool was later re-positioned without incident. 
+
+The member identified that the lift bags had been inflated without appropriate ‘hold back rigging’ in place and that there had 
+been a failure to follow company procedures and guidance detailed in IMCA D 016 Rev. 3 – Underwater air lift bags. 
+
+ 
+
+The member also noted that the dive plan steps had not been as clear as they should have been and that ‘installing lift bags 
+complete with hold backs’ had been detailed as a single step without a check to confirm that the hold back rigging installation 
+was done prior to inflating the air lift bags. 
+
+Members are reminded of guidance document IMCA D 016 Rev. 3 – Underwater air lift bags – which addresses the initial and 
+periodic examination, testing, certification and maintenance of underwater type bags (cylindrical totally enclosed, closed and 
+open parachute bags) used to lift submerged objects and also addresses the operational use of open parachute type lift bags 
+and the safety precautions that should be taken during their use. 
+
+4  Near Miss Incident Involving a Diver’s Umbilical 
+
+The  UK  Association  of  Diving  Contractors  (ADC)  has  issued  ADC  Safety  Alert  3/08  –  Very  Near  Miss  Incident  Involving  a 
+Divers Umbilical – a copy of which is attached.  Although the incident occurred during a diving operation being carried out in 
+UK territorial waters, the lessons learnt are relevant world-wide to both inshore and offshore diving operations.  Members 
+are  reminded  of  guidance  note  IMCA  D  035  –  The  selection  of  vessels  of  opportunity  for  diving  operations  –  which  discusses 
+isolations and vessel permit systems. 
+
+ 
+
+ 
+
+ 
+
+SAFETY ALERT                                  
+
+   
+
+ADC Safety Alert 3/08:  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+27th September 2008 
+
+Very Near Miss Incident Involving a Divers Umbilical  
+
+ 
+The Introduction: 
+
+The Near Miss Incident: 
+
+The diving contractor was involved in a salvage operation that was being carried out in UK 
+territorial waters.  The diving operation formed part of a larger recovery activity requiring 
+the  use  of  a  specialist,  Voith  propelled   salvage  vessel  fitted  with  heavy  lift  marine  crane.  
+The  surface  support  team,  comprising  specialist  salvage  crew  and  vessel  operators, 
+predominantly  of  European  origin,    were  working  alongside    the  diving  contractor  on  the 
+salvage vessel. 
+ 
+ 
+
+At  the  start  of  the  salvage  operation  a  heavy  down  line  /  working  line  was  required  to  be 
+positioned to replace the thin temporary line used to mark the wreck, this would then enable 
+a  secure  line  to  be  secured  to  a  fixed  point  on  the  wreck  which  would  be  used  for  the 
+duration of the works. The dive was planned to be carried out during a slack water period 
+and to facilitate this final preparations were completed on deck. 
+ 
+ The    diving  supervisor  approached  the  Master  of  the  Vessel    on  the  bridge  to  seek 
+permission to commence diving when the tide turned.  A Permit to Dive form used by the 
+contractor was presented to the Master  for confirmation that all machinery was isolated and 
+that diving was cleared to commence.  The Master checked and isolated the controls on the 
+bridge and signed the permit returning it to the  diving supervisor. 
+ 
+As soon as the tidal conditions were considered to be suitable the diver entered the water.  
+Soon  after  commencing  his  descent    along  a  temporary  down  line  the  diver  informed  the 
+supervisor  that  he  needed  slack  on  his  umbilical.    Slack  was  provided,  but  the  diver  
+continued to struggle to overcome the pulling on the umbilical and requested further slack.  
+Over the communications the supervisor proposed  terminating the dive to await a change in 
+the tidal condition,  believing the tidal flow to be the primary cause of the problem, whilst 
+attempting to respond the diver reported he was in difficulty and soon after  communications 
+were lost.  
+
+ 
+The Outcome: 
+
+Unbeknown  to  the  Supervisor  or  the  diver  immediately  prior  to  the  event,    the  Voith 
+propulsion unit adjacent to the diver, despite being isolated on the bridge – as confirmed by 
+the  signed  Dive  Permit  -    was  in  fact  still  operating,    and  the  divers  umbilical  had  been 
+progressively  drawn  into  the  thrusters  and  become  entangled.    Once  the  supervisor  was 
+aware  what  was  occurring  he  contacted  the  bridge  and  the  emergency  shut  down  of  the 
+engines  was completed. 
+ 
+In  this  instance  the  very  alert  diver  managed  to    grab  hold  of  the  umbilical  leading  to 
+surface, switched to bail out supply and cut his own umbilical before making an ascent to 
+
+The Association represents diving contractors who are involved with inland or inshore diving operations in the UK and Ireland. 
+
+The Association of Diving Contractors 
+
+ 
+
+Safety Alert  03/08  (27/9/08) 
+
+              
+
+ 
+
+ 
+
+ 
+
+Page 2 
+
+Observation: 
+
+the surface where he was rendered assistance by the support team and recovered safely to 
+the deck.   
+ 
+
+This was a very near miss incident that could have had a very different  outcome had it not 
+been for the experience of the diver or the actions taken by the supervisor. 
+ 
+The diving contractor had correctly  attempted to implement suitable controls to  ensure that 
+diving  was  safe  to  proceed  by  using  a  well  developed  Permit  to  Dive  system.          Despite 
+these efforts,  there appeared to be a significant breakdown  in the  level of control applied to 
+the operating machinery on the salvage vessel. 
+ 
+During the post incident investigation it was confirmed that whilst the action on the bridge  
+isolated  the  steering,  a  separate  verbal  communication  between  the  bridge  and  the  engine 
+room was required to actually shut down the propulsion system. 
+ 
+
+Lessons:  
+
+The  vessel  operator  has  a  clear  responsibility  to  ensure  that,    prior  to  signing  a  Permit 
+confirming that the shutdown of machinery has  occurred,   has actually been achieved. 
+ 
+Diving supervisors whilst able to ask the appropriate questions,  may not be technically able 
+to  make  physical  checks,  and  as  a  result  are  reliant  on  the  competence  and  vigilance  of  the 
+more  experienced  vessel  crew  and  most  importantly  the    Master    of  Chief  Engineer  of  the 
+Vessel. 
+ 
+Whenever possible,  the isolations of key operating machinery should  result in a physical 
+lock and tag out procedure the master control for which should be held by the supervisor 
+whilst diving is underway. 
+ 
+This  is  not  the  first  time  an  incident  of  this  type  has  occurred.    Until  such  times  as  the 
+Association, in consultation with other specialist groups,  is able to develop and circulate clear 
+recommendations and if appropriate,  guidance for Diving Contractors and Ship Operators to 
+adopted in an effort to mitigate  or eliminate  the potential  machinery isolations , a high level 
+of checking should be put in place when Permit to Dive Systems are being used on vessels.  In 
+addition  a high level of vigilance should be adopted by those tending the divers umbilical.     
+ 
+ 
+Roger O’Kane 
+Secretary. 
+
+If you have an incident or accident and have learnt lessons as a result, please advise the ADC Secretary so 
+
+that the information can be compiled to remove specific reference to persons or organisation and 
+distributed to all other members to mitigate the potential for similar incidents to occur elsewhere.  
+
+The Association of Diving Contractors 
+
+ 
+
+ 
+
+The Association represents diving contractors who are involved with inland or inshore diving operations in the UK and Ireland. 
+
+

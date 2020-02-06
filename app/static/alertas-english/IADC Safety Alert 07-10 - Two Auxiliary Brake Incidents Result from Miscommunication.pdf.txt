@@ -1,0 +1,87 @@
+Safety Alert 
+
+        From the International Association of Drilling Contractors 
+
+ 
+ALERT 07 – 10 
+
+TWO AUXILIARY BRAKE INCIDENTS RESULT FROM 
+
+MISCOMMUNICATION 
+
+ 
+
+ 
+WHAT HAPPENED: 
+ 
+In  the  past  month  our  company  has  experienced  several  serious  incidents  that  could  be  described  as  a 
+“Driller’s worst nightmare.”  
+
+1.  Driller miscommunicated with his floorhand who, instead of lining up the proper valves to fill the trip tank, 
+disengaged  the  dynamatic  brake handle.    This caused  the  brakes  to  get  hot,  and  the driller,  unable  to 
+stop the downward travel of the blocks, ran the top drive into the rail stops. 
+
+2.  Driller  turns  hydromatic  water  control  valve  in  the  wrong  direction,  choking  off  the  water  supply  to  the 
+hydromatic causing the brakes to overheat.  He was unable to stop the descent of the blocks so the drill 
+string and the elevators struck the rotary table, bending the joint of pipe in the elevators. 
+
+ 
+No injuries resulted from these incidents and each could have been far worse. 
+
+ 
+WHAT CAUSED IT: 
+ 
+This is largely a communication problem.   
+ 
+
+•  The crew and supervisors spoke different languages.   
+•  The driller did not recognize which direction increased the flow of water to the hydraulic brake. 
+•  The floorman came from a crew where the hand signals were different.   
+
+ 
+CORRECTIVE ACTIONS:  To address this incident, this company did the following: 
+ 
+1.  To  address  the  communication  gap  and  prevent  this  kind  of  problem  from  occurring  on  rigs  where 
+supervision and crews speak different languages, the company is developing rig-wide standardized hand 
+signals.    
+
+2.  The bolt and nut securing the Dynamatic brake handle were replaced with a padlock with the key kept in 
+
+the driller’s control.   
+
+3.  The brake handle was painted safety yellow to make it more visible.   
+4.  The remedial action plan for the second brake incident included labeling the water control valve to the 
+
+hydromatic thereby showing the direction of open and close.   
+
+5.  Rig supervisors were instructed to review with all rig personnel the danger signs signifying overheating of 
+mechanical  brakes.    When  mechanical  brakes  display  signs  of  overheating,  they  are  likely  being 
+misused.   
+
+These incidents have stimulated discussions among operations personnel.  A memo was sent to the field to 
+solicit comments about these and other issues concering the drawworks brake systems.  It is anticipated that 
+this safety bulletin will further promote that discussion. 
+
+Both incidents and remedial action plans should prompt each of us to ask, “How are we managing the brake 
+systems on our rig(s)?”  These incidents are likened to a “Driller’s Worst Nightmare” and STOP statistics tell 
+us that the worst is yet to come unless we change our behavior.  Changing safety behavior will nullify this 
+slippery slide down the slope to serious injury or a fatality.  Rig supervisors are to audit their brake system 
+procedures, reviewing how brakes are used in their operation before their worst nightmare becomes reality! 
+
+ 
+
+ 
+
+The Corrective Actions stated in this alert are one company’s attempts to address the incident,  
+
+and do not necessarily reflect the position of IADC or the IADC HSE Committee. 
+
+This material is presented for information purposes only.  Managers & Supervisors should 
+
+evaluate this information to determine if it can be applied to their own situations and practices 
+
+Copyright © 2005 International Association of Drilling Contractors All rights reserved. 
+
+Issued March 2007 
+
+

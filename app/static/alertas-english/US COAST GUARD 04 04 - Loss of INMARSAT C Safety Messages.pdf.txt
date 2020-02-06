@@ -1,0 +1,132 @@
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+April 1, 2004   
+Washington, DC   
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Alert 4-04 
+
+Loss of INMARSAT C Safety Messages 
+
+ 
+This advisory notifies users of Inmarsat C ship earth stations that urgent marine information, weather 
+warning and navigational warning broadcast messages, distress-related messages, as well as routine 
+messages may be lost if a printer is not connected to and maintained with the Inmarsat C terminal, or 
+if  floppy  drive  maintenance  is  not  regularly  performed  on  the  terminal.  Additionally,  certain  non-
+GMDSS-approved software (e.g. windows-based software) may freeze up if this maintenance is not 
+performed. 
+ 
+All GMDSS versions of Inmarsat C have approved data terminal equipment (DTE) that interfaces with 
+the user. DTE generally refers to the computer and screen, keyboard and printer (or user interface). 
+These terminals are required to use only Inmarsat approved hardware and software. However, users 
+need to understand that proper usage and housekeeping maintenance of the equipment is essential 
+to ensure optimum user availability.  
+ 
+To  avoid  problems,  and  to  ensure  that  unnecessary  and  irrelevant  messages  are  not  received,  the 
+recommended  operating  procedures  in  the  manufacturer’s  equipment  operating  handbook  and  the 
+below procedures should be followed:  
+ 
+Message/Archive  Log:  All  ingoing  and  outgoing  messages  are  recorded  on  a  disk  in  special  log 
+files.  Each  log  file  may  hold  a  limited  number  of  messages  (limited  by  disk  size  or  PC  storage 
+capacity).  When  the  free  disk  space  falls  below  a  certain  size,  the  terminal  will  display  an  error 
+message asking to insert an empty disk. A new message/archive log file will then be generated on the 
+new disk.  
+ 
+Disk Directory: If so configured, ingoing and outgoing messages (OUT.xxx, IN.xxx, EGC.xxx) can be 
+stored on a disk (this is different than the message/archive log), where they can be viewed, erased, 
+printed and copied to different directories. On some models the directory shows the number of files 
+(messages) stored on the disk/directory and this number is limited to 112 files (messages) regardless 
+the  free  space  left.  If  the  disk  already  holds  112  messages,  you  will  not  be  able  to  store  any  more 
+messages. When the disk is full, use the “erase/delete” command to delete unwanted files and create 
+free space for new messages.  
+ 
+Message  Routing:  Check  the  message  routing  option  on  the  terminal.  Incoming  mail  should  be 
+routed to at least one of the output media – disk or printer. Enhanced Group Call (EGC) SafetyNET 
+messages with Urgency and Distress priority will be printed out automatically, if a printer is fitted.  
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+EGC SafetyNET messages with Safety priority can be printed out (user option), otherwise they will be 
+stored on the disk. EGC FleetNET messages can be printed out (user option), otherwise they will be 
+stored on the disk. If the Inmarsat C is connected to a separate PC, a path for saving incoming and 
+outgoing mail and EGC messages should be inserted/specified per the manufacturer’s handbook.  
+ 
+EGC  SafetyNET  setting-up:  Ensure  that  you  are  logged  into  the  appropriate  satellite  for  the 
+scheduled maritime safety information (MSI) that you wish to receive. Otherwise log in to the satellite 
+that broadcasts the MSI for your required area of operation. Timetables of broadcast and nominated 
+satellites  can  be  found  in  various  national/international  publications,  such  as  the  International 
+Maritime Organization GMDSS/Circ.8  
+(see  http://www.navcen.uscg.gov/marcomms/gmdss/reference_gmdss.htm)  or  the  Admiralty  List  of 
+Radio Signals, Vol.5. Ensure that your position (Lat/Long) on the Mobile Earth Station (MES) position 
+screen is valid. Otherwise you will receive and print ALL EGC SafetyNET messages broadcast via the 
+satellite. If automatic position updating is not available, it is essential to manually update the position 
+on a regular basis e.g. every 4 hours. Instructions for doing this are in the manufacturer’s handbook.  
+ 
+If  properly  set-up,  your  MES  will  receive  automatically  all  relevant  NAVAREA/METAREA  and  other 
+maritime  safety  information  addressed  to  the  area  where  you  are  in.  If  you  require  additional 
+information  for  neighboring  area(s),  you  must  program  your  terminal  to  receive  this  information.  Be 
+careful if using the “EGC only” option. If this option is selected, the terminal will, effectively, be logged 
+out and you will not be able to receive normal messages (mail) on your terminal. Also, if you choose 
+“EGC only”, previous EGC settings may be ignored and the terminal may receive all EGC messages 
+within the ocean region.  
+ 
+If Inmarsat C is used for communication (not as a supervisory control and data acquisition (SCADA) 
+or “black box” terminal), it MUST have a DTE terminal which includes a keyboard, Video Display Unit 
+and printer. Every Inmarsat C terminal, if properly configured, set up and maintained, will receive all 
+relevant messages addressed to it. These messages will be displayed or printed out, stored, or both. 
+Improper  settings,  including  printer  settings,  not  in  accordance  with  the  manufacturer’s  instructions, 
+will degrade the performance.  
+ 
+This advisory was developed in cooperation with Inmarsat Ltd.  
+ 
+Technical questions relating to this alert may be addressed to Mr. Russell Levin at 202.267.1389 or 
+CGComms@comdt.uscg.mil.  
+ 
+This material is provided for informational purpose only and does not relieve any existing domestic or 
+international safety, operational or material requirement.  
+ 
+
+ 
+
+ 
+
+

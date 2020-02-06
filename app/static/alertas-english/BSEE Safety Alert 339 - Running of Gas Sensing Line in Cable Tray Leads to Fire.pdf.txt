@@ -1,0 +1,71 @@
+SAFETY ALERT 
+
+Safety Alert No. 339   
+3 AUGUST 2018  
+ 
+
+             
+ 
+
+ 
+
+               Contact: Jason Mathews 
+ 
+         Phone: (504) 731-1496 
+
+Running of Gas Sensing Line in Cable Tray Leads to Fire 
+
+On April 14, 2018, personnel on a Gulf of Mexico production platform witnessed a small 
+flame, approximately one foot in length, commencing from a section of an electrical cable 
+tray. The facility was shut-in, personnel mustered, and the fire was extinguished with a 
+portable hand-held extinguisher. The wiring tray was located above the Lease Automatic 
+Custody Transfer (LACT) unit on the platform. 
+
+                        
+
+                   Damaged Area from Fire.    
+
+ 
+
+ 
+
+Bottom-view of Cable Damage. 
+
+During the incident investigation, a defect was discovered in the electrical wiring within 
+the cable tray. Deterioration appears to have occurred over time to the outer PVC jacket 
+and inner aluminum armor. This condition may have caused internal conductors to be 
+exposed. The defect in the wiring subsequently introduced a hazardous electrical arc. The 
+electrical arc extended across the cable tray, which damaged the ¼ inch gas pressure 
+sensing line that ran within the tray. As a result, the gas pressure sensing line began to 
+leak fluid. The fluid leak in this line, combined with the source of ignition (the electrical 
+arc), produced a small flame that scorched an area approximately one square foot. No 
+injuries resulted from this incident. 
+
+Therefore, BSEE recommends that operators consider the following options: 
+
+·  Review company and/or contractor operating procedures for electrical installations 
+
+to confirm that the documentation includes verifying that raceways or cable trays 
+containing electrical conductors do not also contain any pipe, tube, or equivalent for 
+steam, water, air , gas, drainage, or any service other than electrical as per API RP 
+14F that reference NEC 300.8. 
+
+· 
+
+Inspect all raceways or cable trays with electrical conductors to ensure they do not 
+also contain any pipe, tube, or equal for steam, water, air, gas, drainage, or any 
+service other than electrical as per API RP 14F that reference NEC 300.8. Install or 
+reroute non-electrical piping in areas away from trays containing electrical 
+conductors. 
+
+·  To avoid potential defects in wiring, ensure that personnel (direct and/or contractor 
+
+employees) have adequate knowledge and skills for the proper installation of 
+electrical conductors within raceways and cable trays. 
+
+A Safety Alert is a tool used by BSEE to inform the offshore oil and gas industry of the 
+circumstances surrounding an accident or near miss. It also contains recommendations 
+that should help prevent the recurrence of such an incident on the Outer Continental 
+Shelf.
+
+

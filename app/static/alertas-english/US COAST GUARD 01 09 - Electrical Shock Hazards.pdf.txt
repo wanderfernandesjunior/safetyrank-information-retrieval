@@ -1,0 +1,64 @@
+ 
+ 
+ 
+ 
+ 
+April 16, 2009                                                                                                                      Alert 01-09 
+Washington, DC 
+
+ 
+
+Electrical Shock Hazards 
+
+Earlier  this  year  an  engineer  working  onboard  a  chemical  tank  ship  was  electrocuted.  The  incident 
+occurred while several engineers were preparing to test a circuit breaker.  The engineer apparently 
+made  contact  with  the  unprotected  stripped  ends  of  a  conductor  plugged  into  a  live  480  volt  power 
+supply on an electrical test bench. The investigation is currently ongoing and is examining the other 
+circumstances surrounding the casualty. However, important safety concerns have been noted.  This 
+alert  serves  as  a  reminder  to  the  maritime  industry  about  the  dangers  of  working  with  electrical 
+equipment.  
+ 
+With respect to this casualty, the corded three-conductor power supply line being used to connect to 
+the  breaker,  also  called  a  pig  tail,  should  not  have  been  energized  until  it  was  connected.    Further, 
+depending on the type of equipment  it was being used with, its ends should have had high voltage 
+insulated  alligator  clips  or  it  should  have  been  wired  securely  into  the  electrical  component  prior  to 
+testing.  Under no circumstances should the ends have been handled with the power turned on. 
+ 
+The  Coast  Guard  strongly  recommends  that  all  vessel  owners  and  operators  ensure  that: 
+ 
+
+1.  Circuits are de-energized prior to performing any work whenever possible. 
+2.  Employees having electrical maintenance and repair responsibilities are fully trained regarding 
+
+all safety precautions needed when working with potential electrical hazards. 
+
+3.  Individuals  wear  appropriate  safety  gear  -  insulated  shoes,  dry  clothing,  hard  hat,  rubber 
+
+gloves, and other required protective equipment. 
+
+4.  Appropriate supervision is provided. 
+5.  Procedures for the use of test panels and connectors and are found in the Safety Management 
+
+System or other operating manuals and readily available. 
+
+6.  Safe  electrical  equipment  inspection,  maintenance  and  repair  procedures  are  available  and 
+
+followed closely. 
+
+7.  Test equipment is properly maintained according to original plans. 
+8.  Tools used in the repair of live equipment are properly insulated. 
+9.  Test benches are both properly insulated and grounded in the appropriate areas. 
+10. Flooring and other surrounding areas of test benches are properly insulated and dry. 
+
+ 
+This  safety  alert  is  provided  for  informational  purpose  only  and  does  not  relieve  any  domestic  or 
+international  safety,  operational  or  material  requirement.  Developed  by  the  Investigating  Officers  at 
+MSU  Galveston  and  the  Office  of  Investigations  and  Analysis,  United  States  Coast  Guard 
+Headquarters, Washington, DC. 
+                                                                        ******* 
+
+ 
+Office of Investigations and Analysis:  http://marineinvestigations.us 
+To subscribe: kenneth.w.olsen@uscg.mil 
+
+

@@ -1,0 +1,79 @@
+Safety Alert 
+
+From the International Association of Drilling Contractors 
+
+ 
+
+ 
+ 
+ALERT 03 – 49  
+ 
+
+CHEMICAL BURN 
+
+ 
+WHAT HAPPENED: 
+ 
+The  crew  was  running  pipe  into  the  hole  and  drilling  fluid  came  out  of  the  pipe  as  they  ran  a  stand  in.    An 
+employee reported to the Driller that he had drilling fluid splash onto his legs.  The Driller advised him to wash 
+the area with water and to change clothes.  Prior to leaving location, at the end of tour, the employee reported 
+to the Rig Manager who looked at the contacted area and noted some redness on the employee's legs, but it 
+did not appear to him that chemical burns existed.  The employee left location after tour to go home and on his 
+way, he felt increasing pain on his legs and went to an emergency room for treatment.  He was treated for first 
+and  second  degree  burns,  received  pain  medication,  and  he  was  admitted  to  the  hospital  for  continued 
+treatment of the chemical burns.  The drilling fluid contained calcium chloride. 
+ 
+WHAT CAUSED IT: 
+ 
+A Root Cause Analysis (RCA) was conducted and the Key Factors, which resulted in the incident along with 
+Action Items to prevent recurrence, were addressed.   
+ 
+1. 
+
+Ineffective communication of operation/hazard.  Supervisors did not follow through with specific instruction 
+to crew regarding PPE.  No MOC for change in operations JSA procedure was not followed; i.e. no 
+specific JSA written 
+
+2.  Employee  did  not  have  a  change  in  clothing.    Employee  orientation  did  not  include  having  a  change  of 
+
+clothing handy 
+
+3.  Because the hazard was not recognized, the employee was not wearing a slicker or chemical suit when 
+
+the fluid came out of the pipe.  The well was not slugged adequately due to lack of material to do so.   
+
+4.  Employee did not wash off the chemical properly.  Employee was told to change, but since he had never 
+been burned with this chemical did not follow instructions fully.  In addition the crew was not experienced 
+with this chemical and there was no JSA specific to the use of Calcium Chloride.   
+
+ 
+CORRECTIVE ACTIONS:  To address this incident, this company did the following: 
+ 
+All  Districts,  Drilling  Superintendents,  should  review  the  Action  Items  and  conduct  surveys  on  their  rigs  to 
+determine if similar conditions exist.  Based upon the survey results, they should develop an Action Plan for 
+submission to their District Manager and / or District Superintendent to prevent recurrence. 
+ 
+1.  Acton Item:  Develop a MOC for using calcium chloride solutions.  Reinforce to supervisors to follow up 
+
+and ensure compliance with procedure developed from the MOC 
+
+2.  Acton Item: Include a discussion in orientations with new hires about having a change of clothing handy. 
+3.  Action Item:  Order enough fluid for slugging, prior to commencing the trip.  Remind driller and crew to be 
+
+prepared for the unexpected.   
+
+4.  Action Item: Write specific JSA to include MSDS review.   
+
+The Corrective Actions stated in this alert are one company’s attempts to address the incident, and do not 
+
+necessarily reflect the position of IADC or the IADC HSE Committee. 
+
+This material is presented for information purposes only.  Managers & Supervisors should  
+
+evaluate this information to determine if it can be applied to their own situations and practices. 
+
+Copyright © 2003 International Association of Drilling Contractors.  All Rights Reserved 
+
+Issued December 2003 
+
+

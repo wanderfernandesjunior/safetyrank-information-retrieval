@@ -1,0 +1,96 @@
+Safety Alert 
+
+        From the International Association of Drilling Contractors 
+
+CONFLICTING PROCEDURES RESULTS IN RESTRICTED WORK CASE 
+
+ 
+ALERT 13 – 19  
+ 
+
+ 
+WHAT HAPPENED: 
+
+ 
+
+A third party surveyor, who was not assigned to the rig, attended the rig during a five (5) year survey.  The surveyor wanted to test the 
+lifeboat with an “on-load” release to the water.  The Assistant Barge-Master (ABM) was assisting the surveyor to conduct the test and 
+was sitting on a crew seat near the coxswain's seat with his hand flat on the seat to brace for impact.  When the life boat was released 
+"on-load,"  it  fell  and  impacted  the  water.    Upon  impact,  a  small  1kg  (2.2lbs)  fire  extinguisher,  which  manufacturer  fitted  near  the 
+coxswain’s seat, released from its bracket and fell hitting the ABM’s right hand and injuring his finger.  The ABM was treated at a local 
+hospital, placed on work restriction, and returned to work. 
+ 
+
+ 
+
+ 
+
+ 
+
+• 
+
+• 
+
+• 
+
+• 
+ 
+
+ 
+
+ 
+
+WHAT CAUSED IT: 
+
+Several failures contributed to this event. 
+
+•  Rig personnel allowed themselves to be guided by a "classification society" procedure for on-load testing of the lifeboats that did 
+
+not conform to the requirements of the IMO MSC. 1/Circ.1206 issued 26 May 2006. 
+The fire extinguisher fitted by life boat manufacturer was located in a position adjacent to the lifeboat coxswain’s seat from where it 
+released under dynamic loading and fell hitting an employee. 
+
+•  Although  a JSA  was  conducted  the JSA  was  for  normal  lowering  of  the  boat.    There  was  a  failure  to  conduct  a specific  JSA  to 
+
+identify the dynamic hazards of an "on-load drop test". 
+The  retaining  clip  on  the  fire  extinguisher  securing  strap  either  failed  during  the  test  or  prior  to  the  test  (unknown)  allowing  fire 
+extinguisher to release. 
+The  lifeboat  was  not  partially  immersed  in  the  water  to  reduce  the  dynamic  effects  as  per  the  IMO  operational  work  instruction.  
+The classification society instruction stated "just clear of the water.” 
+The lifeboat was released from 1/2m to 1m (1.6 feet to 3.3 feet) out of the water; thus, increasing the effects of the impact. 
+
+CORRECTIVE ACTIONS:  To address this incident, this company did the following: 
+
+The company notified the manufacturer of the event in relation to the location of fire extinguisher.  
+The company is taking steps to ensure that any items that may be effected to dynamic loading are properly secured prior to testing. 
+The company initiated improved scrutiny of periodic checks on lifesaving and emergency appliances. 
+
+• 
+• 
+• 
+•  All rigs are to ensure that any and all third party vendors provide a work instruction, risk assessment and JSA for any proposed 
+
+activity; and must utilize permit to work and risk assessment to review and control the proposed activity. 
+
+•  All rig managers are to ensure that proposed activity is conducted as per the work instruction and are required to stop the operation 
+
+if the work scope deviates from the designated work instruction. 
+
+•  All rig managers were reminded not to allow third-party personnel, even class surveyors, to perform operations without strict 
+
+adherence to the company’s safety management system or IMO instruction, and that they must maintain a firm system of control 
+over all activities onboard. 
+
+The Corrective Actions stated in this alert are one company’s attempts to address the incident,  
+
+and do not necessarily reflect the position of IADC or the IADC HSE Committee. 
+
+This material is presented for information purposes only.  Managers & Supervisors should 
+
+evaluate this information to determine if it can be applied to their own situations and practices 
+
+Copyright  2013 International Association of Drilling Contractors All rights reserved. 
+
+Issued August 2013 
+
+

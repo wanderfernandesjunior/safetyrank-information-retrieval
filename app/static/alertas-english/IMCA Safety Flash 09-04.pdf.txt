@@ -1,0 +1,182 @@
+AB
+
+ 
+
+IMCA Safety Flash 09/04 
+
+October 2004 
+
+These  flashes  summarise  key  safety  matters  and  incidents,  allowing  wider  dissemination  of  lessons  learned  from  them.    The  information  below  has  been 
+provided in good faith by members and should be reviewed individually by recipients, who will determine its relevance to their own operations. 
+
+The effectiveness of the IMCA safety flash system depends on receiving reports from members in order to pass on information and avoid repeat incidents.  
+Please consider adding the IMCA secretariat (imca@imca-int.com) to your internal distribution list for safety alerts and/or manually submitting information 
+on specific incidents you consider may be relevant.  All information will be anonymised or sanitised, as appropriate. 
+
+A  number  of  other  organisations  issue  safety  flashes  and  similar  documents  which  may  be  of  interest  to  IMCA  members.    Where  these  are  particularly 
+relevant, these may be summarised or highlighted here.  Links to known relevant websites are provided at www.imca-int.com/links   Additional links should 
+be submitted to webmaster@imca-int.com 
+
+ 
+
+1  Possible Choking Incident – Diver’s Helmet 
+
+Keywords: Helmet 
+
+While performing a task during a saturation dive, a man inhaled a 45mm diameter neoprene component from a diving helmet.  
+The component has been identified by the supplier as a ‘comfort pad’, which had been installed to protect the diver’s face 
+from abrasion and cold. 
+
+Oral-nasal 
+for review 
+
+lifted 
+
+Comfort pad 
+
+ 
+
+As can be seen in the photograph the part is located on top of the retaining nut at the bottom of the oral nasal piece, in close 
+proximity to the diver’s mouth.  In this incident a choking incident was avoided as the part was caught in the diver’s teeth 
+during inhalation.  The cause of the detachment appears to have been a loss of bonding from the adhesive which attaches the 
+two components. 
+
+The supplier of the helmet was notified and they have advised that a ‘Correct Memo’ is to be issued to the manufacturer 
+ASAP.  The manufacturer advised the application of an approved wet suit cement to reattach the pad. 
+
+The  company  concerned  advised  the  supplier  that  the  component  was  not  listed  on  the  parts  list,  nor  mentioned  in  the 
+checklist in the product manual.  The relevant section however, although not specific to the component in question, gives 
+clear instruction as to the preparation prior to the donning of the hat.  The first statement is as follows: 
+
+“The helmet should be checked thoroughly before each mission.  This should be done well in advance of the dive in order to be able to 
+carry out any repairs or adjustments that may be necessary”. 
+
+In close proximity to the relevant part in the manual, the instructions state:  
+
+“Check that the oral-nasal mask (44), the nose block device (43), and the oral-nasal retainer (121) are properly attached.” 
+
+The company concerned is in contact with the supplier and manufacturers of the equipment, and there may be a following 
+note  to  advise  of  progress.    The  company  has  recommended  that  close  scrutiny  is  given  to  checking  this  part  and  other 
+
+ 
+
+Keywords: Lifting  
+
+similar components prior to every dive.  It has advised its crews that a spare nut with the pad attached will be made available 
+for quick turn-a-rounds should this be required. 
+
+2  Pipe Handling Frame Incident During Diving Operation  
+
+A member has reported an incident while a pipe handling frame (PHF) was being lowered to a depth of 100 metres from a 
+barge using its starboard crane when a shift change was in process onboard.  At the same time, a diving bell was at the depth 
+of 155 metres, 25 metres away from the descending PHF area. 
+
+A diver left the bell and went to the seabed (depth 169 metres) and proceeded to the location of a flange to perform his 
+task.  This put him approximately 40 metres away in the direction of the descending PHF. 
+
+As the diver was moving towards the flange, he noticed cloud of ‘muck’ 2 metres away from him. 
+
+He  immediately  stopped  and  informed  his  supervisor.    In  the  process,  he  made  physical  contact  with  the  PHF,  which  had 
+settled half on the pipeline and the seabed. 
+
+No injuries was sustained to the diver or damage done to the 30” pipeline. 
+
+ 
+
+The member has noted the following related points: 
+
+  at the time of the incident, a shift change was in process; 
+
+ 
+
+ 
+
+ 
+
+the PHF dimension was 5.60m 5.20m 2.50m, its weight in air 18 tons and its weight in water 16.5 tons; 
+
+the PHF was being lowered at a speed which was disabling the transponder needed to update the survey system; 
+
+the transponder used to monitor the lowering and rising of loads and crane wires malfunctioned (sending intermittent 
+signals). 
+
+The following investigation reached the following conclusions: 
+
+  The  diving  supervisor  taking  over  shift  and  managing  the  subsequent  lock-out  of  the  diver  could  not  reasonably  be 
+expected to know the situation of the PHF, other than that it was as planned, without another person informing him of 
+any subsequent change, i.e. the deck foreman or the survey operator; 
+
+  The  action  to  over-board  the  PHF  and  ‘park  it’  at  100m  until  the  supervisor  could  take  control  was  a  sensible  and 
+
+  The  fact  that  the  PHF  was  not  parked  at  100m  should  have  been  noted  and  passed  to  the  supervisor  by  the  crane 
+
+prudent administration strategy; 
+
+operator and the survey team. 
+
+  The diving supervisor should have verified the position of the PHF prior to locking out the diver.  Instead, he relied on 
+
+the crane operator and the survey systems to manage the position of the PHF. 
+
+  The diving supervisor was negligent in locking out the diver and progressing the diver to the work location with the PHF 
+
+suspended at the proposed 100m level. 
+
+Safety Flash 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+3  Uncontrolled Decompression During Gangway Move 
+
+Keywords:  Pressure 
+
+A member has reported that a man-way trunk and its adjacent entry lock on a hyperbaric chamber were depressurised to 
+surface when a fitting on the man-way was struck by a gangway.  The system was pressurised to 270fsw and vented to the 
+surface in ten minutes through a ¼” penetrator.  The system held four divers in saturation. 
+
+The were no injuries and, other than the fitting, no further damage was caused. 
+
+Initial findings of the investigation are that: 
+
+the trunk fitting was unprotected from direct contact with the gangway; 
+
+the crew had lost control of the gangway while raising it to allow a materials barge alongside; 
+
+there had been a valve on the internal aspect of the trunk, but this had not been secured after the valve was hit; 
+
+the loss of pressure in the adjacent entry lock was attributable to a misalignment of the chamber inner door, which was 
+immediately and easily realigned following the incident. 
+
+Temporary barricade 
+
+Gangway 
+
+Valve location 
+
+ 
+
+The potential for a less benign outcome for this incident was significant.  Investigations are ongoing and the company will be 
+issuing an internal memorandum on the issues surrounding this incident. 
+
+In  the  meantime,  it  has  passed  this  alert  to  IMCA  as  a  ‘heads  up’  and  a  reminder  that  to  expect  and  prepare  for  the 
+unexpected is good advice.  The company has asked all of its dive team members to scrutinise the arrangement of similar 
+fittings  on  other  diving  spreads  and  to  report  any  results  which  could  predict  the  occurrence  of  a  similar  incident.  
+Any proposed system modifications will then go through the company’s management-of-change process. 
+
+  hyperbaric evacuation systems and other dive equipment on deck should be adequately protected from being struck by 
+
+Particular points to be noted are: 
+
+other objects; 
+
+  all internal doors within a hyperbaric system should be aligned properly. 
+
+

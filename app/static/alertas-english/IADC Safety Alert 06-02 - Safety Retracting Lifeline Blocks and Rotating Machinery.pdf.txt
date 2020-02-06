@@ -1,0 +1,67 @@
+Safety Alert 
+
+        From the International Association of Drilling Contractors 
+
+ 
+ALERT 06 – 02 
+  
+
+SAFETY RETRACTING LIFELINE BLOCKS AND ROTATING MACHINERY 
+
+ 
+WHAT HAPPENED: 
+ 
+Recently, an employee was fatally injured due to interference between his fall protection equipment and the 
+rotating  head  atop  the  annular  Blowout  Preventer  (BOP).    Specifically,  the  employee  hooked  the  Safety 
+Retracting Lifeline (SRL) to his harness and walked laterally across an elevated catwalk to a location where 
+the rotating control device (rotating head) was between the employee and the anchor point of the SRL block.  
+This apparently allowed the line to become entangled in the rotating control device (see photograph). 
+ 
+WHAT CAUSED IT: 
+ 
+
+On this model of rotating 
+control device, the entire 
+clamp assembly rotates along 
+with the kelly.  SRL line 
+apparently became entangled 
+in some portion of the clamp 
+assembly. 
+
+ 
+
+ 
+ 
+CORRECTIVE ACTIONS:  To address this incident, this company issued the following to rig 
+personnel: 
+ 
+1.  Personnel shall maintain a 6 ft (2 meter) radius from the BOPs at all times while the rotary is engaged 
+(rotating).    If  maintenance  activities  require  access  to  the  BOPs,  the  rotary  shall  be  disengaged  and 
+locked out. 
+
+ 
+2.  All Rig Managers shall review with crews general precautions regarding the use of SRL blocks.  Special 
+emphasis should be placed on directing personnel to not move laterally away from the overhead anchor 
+point. 
+
+ 
+3.  Some models of rotating control devices are designed such that there are no external rotating parts.  Use 
+of these devices is encouraged when possible.  If a rotating control device with external rotating parts is 
+employed, barricading shall be installed to ensure personnel maintain a safe distance during operation. 
+
+ 
+ 
+
+The Corrective Actions stated in this alert are one company’s attempts to address the incident,  
+
+and do not necessarily reflect the position of IADC or the IADC HSE Committee. 
+
+This material is presented for information purposes only.  Managers & Supervisors should 
+
+evaluate this information to determine if it can be applied to their own situations and practices 
+
+Copyright © 2005 International Association of Drilling Contractors All rights reserved. 
+
+Issued January 2006 
+
+

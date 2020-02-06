@@ -1,0 +1,84 @@
+Safety Alert 
+
+        From the International Association of Drilling Contractors 
+
+ 
+ALERT 07 – 04 
+ 
+
+SELF RETRACTING LIFELINE CABLE FAILURE 
+
+ 
+WHAT HAPPENED: 
+ 
+The Safety Drilling Representative was conducting the monthly Self Retracting Lifeline (SRL) inspection and 
+was  in  the  process  of  removing  from  service  a  SRL  to  be  returned  to  the  Manufacture  for  re-certification.  
+The  inspection  revealed  that  the  SRL  cable  had  parted  at  the  first  cable  crimp,  which  is  located 
+approximately 5” from the safety latch. 
+
+ 
+WHAT CAUSED IT: 
+ 
+1.  The 85’ SRL assembly had been in service approximately two years. 
+2.  The  SRL  assembly  was  located  in  the  cellar  deck.    The  cellar  deck  is  enclosed,  reducing  weather 
+
+3.  The  SRL  cable  was  not  retracted  into  the  block  housing,  but  was  pulled  out  and  secured  to  a  beam 
+
+4.  The rubber boot protector for the cable crimps may have allowed water and moisture to become trapped, 
+
+exposure. 
+
+located below the SRL assembly. 
+
+resulting in excessive rusting. 
+
+ 
+CORRECTIVE ACTIONS:  To address this incident, this company did the following: 
+ 
+• 
+ 
+
+Issued the following directive to all rigs: 
+
+Ensure that Self Retracting Lifeline cables are retracted into the SRL housing when not in use.  A light 
+auxiliary cable for retrieval may be attached if this is a positioning issue. 
+
+ 
+•  Action Item: 
+ 
+
+Slide the Self Retracting Lifeline rubber boot down the cable to expose the cable and crimp.  Then 
+inspect where the cable and crimp meets.  Look for excess rusting and deterioration.  Return the rubber 
+boot to original position.  This process must be performed during each monthly inspection. 
+
+ 
+•  Update all JSAs relating to the use of Self Retracting Lifelines to include the Directive and Action Item.   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+IADC Note:  See HSE Reference Guide Section 20  
+ 
+
+The Corrective Actions stated in this alert are one company’s attempts to address the incident,  
+
+and do not necessarily reflect the position of IADC or the IADC HSE Committee. 
+
+This material is presented for information purposes only.  Managers & Supervisors should 
+
+evaluate this information to determine if it can be applied to their own situations and practices 
+
+Copyright © 2005 International Association of Drilling Contractors All rights reserved. 
+
+Issued January 2007 
+
+

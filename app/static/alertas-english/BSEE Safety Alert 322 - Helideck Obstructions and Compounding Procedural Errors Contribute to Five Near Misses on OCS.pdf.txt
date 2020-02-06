@@ -1,0 +1,179 @@
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+
+SAFETY ALERT  
+
+Safety Alert No. 322 
+30 August 2016 
+ 
+Helideck Obstructions and Compounding Procedural Errors Contribute 
+
+Contact:  Steve Rauch  
+Phone: (571) 594-8383 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+to Five Near Misses on OCS 
+
+In the past 4 months there have been at least 5 near misses involving helideck hazards on OCS oil 
+and gas facilities. 
+
+Helicopter Safety Advisory Conference (HSAC) statistics for 2015 state that there have been 26 
+helicopter accidents associated with Gulf of Mexico oil and gas operations since 1999.  Five of those 
+accidents involved fatalities (19%), which resulted in 13 deaths and 16 injuries.  The leading causes of 
+the accidents since 1999 are listed below (some accidents fit in more than one category).  
+Significantly, the helideck size or design related issues are considered contributory in 11 of 
+these accidents. 
+
+•  21 engine related, 
+•  25 loss of control or improper procedures, 
+•  17 helideck obstacle strikes, 
+•  11 controlled flight into terrain or water, and 
+•  11 other technical failures. 
+
+The following near misses involved BSEE personnel or have been reported to BSEE: 
+
+• May 26, 2016.  A helicopter landed to a helideck that the Operator had closed by Notice to 
+
+Airmen (NOTAM) but had not marked as closed in accordance with 30 CFR 250.107(b) 
+and further clarified by Notice to Lessees (NTL) No. 2011 N-08.  The pilot had failed to 
+check NOTAMs before the flight.  The Operator received an Incident of Noncompliance for 
+failing to mark the helideck. 
+
+• July 6, 2016.  After landing to the edge of a helideck (rather than to the aiming circle), the 
+
+pilot saw a vent pipe sticking up two feet above and three feet beyond the edge of the 
+helideck.  The pipe was four feet from the tail rotor.  The Operator had not issued a 
+NOTAM or marked the obstruction.  After the landing, the Operator removed the pipe. 
+
+• July 19, 2016.  During an unannounced inspection, a pilot landed on the helideck before 
+
+noticing the flashing red light indicating that the helideck was closed.  The light was 
+positioned so that it was only visible from a 90° arc around the facility.  The facility did not 
+have radio communications, and the operator had not issued a NOTAM to advise pilots 
+that the helideck was closed.   
+
+• August 6, 2016.  After landing on an unmanned facility, the pilot noticed a section of 
+
+helideck skirting was missing and the three metal retaining bars that had held the skirting 
+were bent upward creating a hazard.  The closest metal bar was eight inches from the tail 
+rotor.  There was no indication that the helideck was closed (no NOTAM, marking, or 
+status light). 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+• August 15, 2016.  A similar incident occurred on another facility when the pilot noticed 
+
+several retaining bars for the helideck skirting that were raised and not properly 
+attached to the skirting.  The helicopter operator issued a NOTAM warning pilots while 
+the facility operator was repairing the helideck.  
+
+Recommendations 
+
+Operators should: 
+
+• 
+
+Immediately report aviation hazards on their facilities to their aviation service 
+provider for dissemination as a NOTAM. 
+
+•  Provide updated warnings of hazards to inbound and outbound aircraft during radio 
+
+calls. 
+
+•  Use recognized industry standards to indicate unsafe landing areas.  
+•  Properly mark temporarily closed helidecks as provided in NTL No. 2011 N-08. 
+•  Develop standardized documents that provide helideck information (aka Helideck 
+
+Information Plates) for all OCS helidecks.  Aviation Service Providers should assist 
+Operators as needed. 
+
+•  Ensure all markings and lighting are in good repair and clearly visible to pilots. 
+ 
+
+Pilots should: 
+
+•  Check NOTAMs before each flight. 
+•  Contact the facility by radio for clearance to land and to update any hazards. 
+•  Visually check for hazards during the high and low recons. 
+•  Use Crew Resource Management (CRM) to get everyone looking for hazards. 
+•  Plan their approach to the “H” at the center of the Touchdown/Positioning Circle 
+
+Marking (aka TDPM or aiming circle).  Obstacle clearance is predicated on the pilot 
+landing with their seat over the TDPM/aiming circle. 
+
+•  Report any undocumented hazards to the helideck operator and to your company.   
+
+Safe aviation operations on the OCS is a team effort that demands the attention of oil and gas 
+operators, aviation service providers, regulators, and pilots.  
+
+A Safety Alert is a tool used by BSEE to inform the offshore oil and gas industry of the 
+circumstances surrounding an accident or a near miss. It also contains recommendations 
+that should help prevent the recurrence of such an incident on the Outer Continental 
+Shelf. 
+
+

@@ -1,0 +1,76 @@
+Safety Alert 
+
+        From the International Association of Drilling Contractors 
+
+ 
+ALERT 11 – 24  
+
+THREE DROPPED-OBJECT INCIDENTS OCCUR  
+
+WHILE TRIPPING OUT OF THE HOLE 
+
+ 
+WHAT HAPPENED: 
+ 
+Three incidents resulted in separate dropped-object incidents.  They are: 
+ 
+1.  While the driller was picking up the pipe in the slips, the hydraulic hose on the elevators came loose and 
+
+the elevators opened.   
+
+2.  During a trip out of the hole the driller was in the process of setting back a stand of pipe and he opened 
+the hydraulic elevators before the stand was fully set back. This resulted in dropping the stand on the rig 
+floor. 
+
+3.  Following jarring operations, when pulling out of the hole, the cover on the elevator hydraulic fittings 
+
+came loose and fell toward the floor.  The derrickman noticed the cover had moved and caught it! 
+
+WHAT CAUSED IT: 
+ 
+
+1.  Quick connect fittings were substituted for the original equipment swivel connections on the hoses. 
+2. 
+
+Inadequate procedure: A new procedure required the Driller to not touch the open switch until the stand 
+touches the pipe rack. 
+
+3.  The cover did not have a safety strap in place as did the Off-Driller’s Side cover.  Jarring took place for 
+
+several days before a comprehensive inspection of the top drive took place.   
+
+CORRECTIVE ACTIONS:  To address this incident, this company did the following: 
+ 
+  Remember to use the original equipment recommended by the manufacturer.  
+  Substituting equipment may cause serious consequences (as in the case of the quick connect vs. the 
+swivel connect).  In this case, the elevators came open while “picking up” the pipe that was still in the 
+slips.  The elevators could easily have opened up, thereby dropping a stand on someone’s foot or 
+dropping a string down the hole. 
+
+  Hydraulic elevators are nice technology with built-in conveniences; yet there are some problems that are 
+being highlighted, such as inadvertently opening them while they are suspending pipe.  In this case, the 
+elevator’s “open” function was activated and the pipe could have fallen on someone’s foot.  
+
+  Top drives and auxiliary equipment vastly increase the number of potential “derrick apples” (things that 
+
+can fall on floor-hands); so be sure to examine top drives daily for potential falling objects.   
+
+ 
+
+ 
+
+ 
+
+The Corrective Actions stated in this alert are one company’s attempts to address the incident,  
+
+and do not necessarily reflect the position of IADC or the IADC HSE Committee. 
+
+This material is presented for information purposes only.  Managers & Supervisors should 
+
+evaluate this information to determine if it can be applied to their own situations and practices 
+
+Copyright  2005 International Association of Drilling Contractors All rights reserved. 
+
+Issued October 2011 
+
+

@@ -1,0 +1,345 @@
+AB 
+
+ 
+
+IMCA Safety Flash 06/10 
+
+Safety Flash 
+
+ September 2010 
+
+These  flashes  summarise  key  safety  matters  and  incidents,  allowing  wider  dissemination  of  lessons  learnt  from  them.    The  information  below  has  been 
+provided in good faith by members and should be reviewed individually by recipients, who will determine its relevance to their own operations. 
+
+The effectiveness of the IMCA safety flash system depends on receiving reports from members in order to pass on information and avoid repeat incidents.  
+Please consider adding the IMCA secretariat (imca@imca-int.com) to your internal distribution list for safety alerts and/or manually submitting information 
+on specific incidents you consider may be relevant.  All information will be anonymised or sanitised, as appropriate. 
+
+A  number  of  other  organisations  issue  safety  flashes  and  similar  documents  which may  be  of  interest  to  IMCA  members.   Where  these  are  particularly 
+relevant, these may be summarised or highlighted here.  Links to known relevant websites are provided at www.imca-int.com/links   Additional links should 
+be submitted to webmaster@imca-int.com 
+
+ 
+
+1  Third Degree Burn Sustained During Rope Access Hot Work 
+
+A member has reported an incident in which a rope access technician (RAT) suffered third-degree burns whilst engaged in 
+hot work.  The injured person was engaged in rope accessed structural cutting activity using an oxy-acetylene torch on a 20 
+inch pump caisson.  During the operation sparks and molten material were blown in the direction of the injured party, and a 
+small piece of molten material was caught in the tongue and ankle protector of his left safety shoe, causing serious burns to 
+the left foot.  The injured person was able to stop work, swiftly remove his safety shoe and safely descend to deck level using 
+the rope access gear.  Following initial first aid, it was noted that the burn was more serious than could be treated onboard 
+and arrangements were made for the injured person to receive further treatment in hospital ashore. 
+
+ 
+
+  
+ 
+
+ 
+
+ 
+
+Figure 1 - Area in which rope access  
+
+hot work was taking place  
+
+ 
+
+Figure 2 – Injured person’s safety   
+
+ shoe showing burn damage 
+
+The investigation revealed the following: 
+
+The direct cause of the incident was failure to use the correct personal protective equipment (PPE).  Spat protectors were 
+not readily available, partly due to inadequate organisation.  These offer flame retardant protection to part of the under leg, 
+ankle and shoe.   
+
+The root cause of the incident was inadequate procedures and standards of work.  
+
+♦  Procedures - specific details of hazards and precautions were not implemented in procedures for rope access hot work 
+
+activities; 
+
+♦  Risk  assessment  -  a  full  risk  assessment  for  rope  access-based  hot  work  was  not  available  and  the  job  specific  risk 
+
+assessment used did not reflect any job specific issues; 
+
+♦  Permit to work (PTW) - the permit to work showed partially generic pre-setting on hazards and precautions with 
+
+references to standard rather than specific job safety analysis (JSA); 
+
+♦ 
+
+Job safety analysis - a specific job safety analysis was not available at the time of the incident; 
+
+♦  Toolbox talks (TBT) - the quality of toolbox talks was not sufficient and needed to be improved. 
+
+ 
+
+♦ 
+
+♦ 
+
+Following the incident, the following actions were taken: 
+
+♦  Arrangements were made to make spat protectors available as soon as possible; 
+
+Investigated the use of more substantial protective equipment for persons doing hot work;  
+
+♦  Arranged  for  all  appropriate  worksite  safety  documentation  (e.g.  PTW,  JSA  and  TBT  records)  to  be  available  with 
+
+specific detailed job-related entries; 
+
+Investigated further training for personnel engaged in hot work, particularly flame-cutting. 
+
+2  LTI – Severed Tendon 
+
+A  member  reports  an  incident  in  which  a  person  suffered  a  severed  tendon,  resulting  in  several  months  off  work.  An 
+electrical cable with a thick rubber sheath was being prepared for termination during a mobilisation.  A pair of electrical side 
+cutters was being used to cut back the rubber insulating material from the end of the cable being terminated.  When cutting, 
+the side cutters were also being pushed into the cable to aid the cut.  After three successful cuts the side cutters slipped, 
+stabbing the left hand that was holding the cable.  The stab caused a puncture wound to the injured person’s middle finger 
+just above the first knuckle.   
+
+It was clear immediately following the incident that on clenching the left hand the injured person’s finger did not move.  On 
+further investigation at the hospital, it was confirmed that the injured person had a severed tendon.  Surgery was carried out 
+to reconnect the tendon.  It was anticipated that the injured person would be off work for 2 – 3 months.  
+
+Following investigation of the incident and its causes, our member noted the following: 
+
+♦  The injury was caused by the incorrect use of sharp hand tools.  Although side cutters are often used when stripping 
+back cable, their correct use is for cutting electrical cable or long thin items such as cable ties, at 90°.  Side cutters are 
+not specifically designed to cut in the way that scissors do, which is the way they were being used in this incident;   
+
+♦  The  task  was  considered  to  be  part  of  the  basic  skill  set  of  an  experienced  engineer  and  was  not  subject  to  risk 
+
+assessment or toolbox talks. 
+
+dexterity; 
+
+♦  The  injured  person  was  not  wearing  gloves  when  carrying  out  this  task  since  gloves  would  have  restricted  manual 
+
+♦  Cutting towards the body (left hand) meant that when the cutters slipped the hand was vulnerable to injury; 
+
+♦  A safe cable stripping tool had not been considered and such a tool was not available onboard the vessel;  
+
+♦  The use of side cutters had replaced the previous practice of using a Stanley knife for this task as a result of restrictions 
+
+placed on the use of knives. 
+
+Our member drew the following lessons from this incident: 
+
+♦  Even tasks which are classed as part of the basic skill set of an individual should be reviewed occasionally to ensure good 
+
+and safe practice and the use of the most appropriate tools; 
+
+♦  Tools should only be used for the purpose for which they are designed; 
+
+♦ 
+
+If it is necessary to remove personal protective equipment (PPE) to carry out a task then that PPE is not appropriate to 
+the task.  
+
+Our member made the following recommendations and corrective actions: 
+
+♦  Worksites were reviewed to ensure that the appropriate tools were being used; 
+
+♦  There was a review of the use of protective gloves at the worksite to ensure they were appropriate for the tasks being 
+
+carried out; 
+
+♦  Personnel  were  reminded  and  encouraged  to  engage  in  personal  last  minute  risk  assessments  and  to  pause  before 
+carrying out a task to ensure that they have all the correct tools and PPE and that it is safe to carry on and that nothing 
+has changed.   
+
+ 
+
+ 
+
+ 
+
+3  Minor Chest Burns Suffered by Rope Access Technician 
+
+A member has reported an incident in which a rope access technician suffered minor spot burns on the chest during cutting 
+operations.  A 24 inch pipe approximately 4 metres above the deck was being cut by the rope access technician (RAT), who 
+was suspended by rope access gear and also standing on a ladder.  The first cut and the access hole for a shackle, using a 
+standard  cutting  torch,  went  smoothly.    The  internal  pipe  was  covered  with  a  4  centimetre  thick  rust  layer.    When  the 
+second cut was nearly completed, some melted particles of rust fell onto the tip of the cutting torch.  One of the particles 
+from  the  tip  of  the  cutting  torch  was  blown  away  and  somehow  entered  into/below  the  RAT’s  protective  clothing.    The 
+technician felt some very light pain on his chest and continued to work.  After shift the technician felt some minor irritation 
+on his chest and sought first aid.  Three small burns on the middle of his chest were treated/covered by one plaster.  
+
+Investigation revealed the following: 
+
+♦  The direct cause of the incident was molten particles entering through an opening between the buttons of a fully closed 
+
+leather protective jacket.  This personal protective equipment (PPE) was not giving full body protection. 
+
+It was suggested the following long-term corrective actions: 
+
+♦  Protective jackets used for hot work should close using “velcro” closing straps rather than buttons; 
+
+♦  Consideration  should  be  given  to  different  kinds  of  protective  clothing,  including  flexible  fireproof  hoods  designed  to 
+
+cover shoulder, chest and neck area;  
+
+♦ 
+
+It should be emphasised at toolbox talks and in preparation for hot work that molten particles can enter PPE through 
+the smallest openings. 
+
+ 
+
+Figure 1- Protective clothing for rope access technicians showing small 
+
+opening through which hot particle passed 
+
+ 
+
+4  Near Miss: Safety Device (Hard Link) Damaged During Hot Work 
+
+A member has reported an incident in which a rope access technician (RAT) damaged his safety equipment during hot work.  
+The technician was gouging out the weld connection around 8 metres above deck. He was working next to his two climbing 
+ropes and was also secured with a hard link.  This hard link was connected to the D-link of the technician’s harness and to a 
+secure point above the technician.  
+
+At the moment the RAT opened the air flow to start gouging, water streamed out of the nozzle instead of air.  This resulted 
+in  the  technician  instinctively  pulling  back  the  gouging  torch.    During  this  uncontrolled  movement,  the  gouging  torch 
+connected with the stop descender - a steel part of the technician’s climbing gear.  Since the technician was connected using 
+a hard metal link to a beam on the platform, the technician’s metal climbing equipment made an electrical circuit to earth and 
+current flowed from the gouging torch.  As a result, three of the six strands of the hard link were burnt through. 
+
+ 
+
+ 
+
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+The RAT descended safely to the walkway 8 meters below to check and replace the damaged equipment and subsequently 
+was able to safely resume work.  There were no injuries.  
+
+Following investigation, the following was suggested: 
+
+♦  Replace metal hard-link with a non-conductive nylon climber’s sling; 
+
+♦  Ensure water is drained out of air supply before use with gouging torch. 
+
+ 
+Figure 1 - Typical metal ‘hard-link’ for rope access technicians 
+
+5  Tug Capsized During Operations  
+
+A member reports an incident in which a tug girted and capsized during towing operations.  A third-party contractor’s tug 
+was acting as a stern tug for a heavily laden barge arriving in port.  The master of the stern tug chose to deploy the towline 
+over the stern of his vessel, and intended to maintain position and heading relative to the barge by using the tug’s engines.  A 
+bridle (Gob) wire was not rigged.  As the lead tug increased speed, the master of the stern tug found that he was unable to 
+effectively  control  the  yawing  of  his  tug,  and  five  minutes  after  connecting  to  the  barge,  the  vessel  took  a  large  sheer  to 
+starboard, girted and capsized.  The crew escaped without injury.  
+ 
+
+ 
+
+ 
+
+Towing tug 
+
+Tug 
+
+Barge with rocks 
+
+Figure 1- Diagram of the Towing arrangement 
+
+ 
+
+Our member conducted an investigation and noted the following: 
+
+♦  For  a  conventional  tug,  towing  over  the  stern,  particularly  while  running  astern,  is  an  inherently  unstable  mode  of 
+
+operation; 
+
+♦  The towing speed was too high in this instance; 
+
+♦  The lack of a bridle wire or “gob rope” meant there was no physical safety device to prevent the tug from girting when 
+
+directional control was lost; 
+
+♦  The  tug’s  master  had  not  been  trained  in  the  use  of  the  emergency  brake  release,  had  not  tested  it  or  witnessed  its 
+
+effect, and could not operate it from the bridge when the tug got into difficulties; 
+
+♦  There had been no prior toolbox talk or discussion between the pilot and the tug masters regarding the entry of the 
+barge into the port, and the pilot was unaware of the intended towing method or operational limitations of the stern tug; 
+
+♦  Crew were working an 18 hour “changeover” period in breach of the relevant working time regulations; 
+
+♦  The  tug  masters’  knowledge  and  experience  were  never  assessed  by  the  third-party  owner,  and  there  was  no  formal 
+
+staff training program. 
+
+ 
+
+Our member drew the following lessons: 
+
+♦  There should be prior discussion of scope of work between project manager and vessel owners, and between masters 
+
+and pilots, to ensure suitability of vessels and crews, and full understanding of the task at hand; 
+
+♦  Clear instructions on operational procedures should be provided to all personnel involved in operations;  
+
+♦  Risk assessments and toolbox talks involving all relevant parties should be carried out prior to all towing operations;  
+
+♦  Personnel should be familiar with emergency brake release systems on tugs and test it or witness its effect; 
+
+♦  There should be appropriate implementation and understanding of working time regulations; 
+
+♦  Towing over the stern: 
+
+– 
+
+Speed should be kept at an appropriate minimum, not more than 3 knots, when a tug with conventional propulsion 
+(single or double) is acting as a stern (steering) boat;  
+
+–  Captains of towed vessels should remain aware of using the propulsion, and the combination of forces acting on the 
+
+hull; 
+
+–  The use of a shot string (standard on single propulsion, advisable on double propulsion vessels) helps to keep the 
+towing wire on the aft ship centrally positioned and avoids girting, the towing point being brought to the aft of the 
+ship instead of on the pivot point of the tug. See example in Fig. 2. 
+ 
+
+Figure 2 - illustration of ideal towing arrangement 
+
+ 
+
+6  Load Dropped Owing to Incorrect Manufacture of “Flemish Eye” Crane Pennant 
+
+The UK Health & Safety Executive (UK HSE) has published the attached safety flash regarding the dropping of a 9.5 tonne 
+load  on  an  offshore  installation  as  a  result  of  the  incorrect  manufacture  of  a  15  tonne  Flemish  eye  crane  pennant.  The 
+information can also be found at www.hse.gov.uk/safetybulletins/flemish-eye-crane-pennant.htm  
+
+ 
+
+ 
+
+ 
+
+Safety Flash 
+
+ 
+
+

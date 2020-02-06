@@ -1,0 +1,33 @@
+this  domain  change, 
+
+ 
+November 10, 2005                                                                                                                 Alert 6-05 
+Washington, DC 
+ 
+U.S. Coast Guard Rescue Coordination Center, Alameda - Domain Name Change 
+ 
+The  U.S.  Coast  Guard  Rescue  Coordination  Center  in  Alameda,  California  (RCC  Alameda)  will 
+undergo a computer domain change on Saturday, November 12 th and Sunday, November 13th.  As a 
+result  of 
+from 
+rccalameda@d11.uscg.mil to rccalameda@uscg.mil.  
+ 
+In  order  to  ensure  that  all  critical  e-mail  is  received,  all  e-mail  sent  to  the  old  address  will  be 
+automatically forwarded to the new address for approximately one year following the domain change. 
+As the United States’ only designated authority to receive Ship Security Alert System (SSAS) reports, 
+all SSAS units utilizing email notification functions must update their equipment. 
+ 
+Questions or comments regarding this information may be addressed to CPO David Hollowood of the 
+office of Maritime Port Security at dhollowood@comdt.uscg.mil or 202.267.1538. 
+ 
+ 
+
+for  RCC  Alameda  will  change 
+
+the  email  address 
+
+ 
+
+ 
+
+

@@ -1,0 +1,153 @@
+Safety alert 67 
+
+ 
+
+24 November 2017  
+
+ 
+
+ 
+
+Key message: 
+
+What happened? 
+
+Understanding of light well intervention safety systems is critical 
+for safe operation 
+
+It is critical that facility operators and relevant members of the workforce fully understand the Light Well 
+Intervention safety systems installed on their vessels, have an in-depth knowledge and understanding of the 
+system’s safety features and functionality, and know how the equipment will behave in abnormal conditions. 
+
+Recently, the failure to fully understand a light well intervention safety system’s functionality caused an 
+incident which resulted in two 1.6kg dropped objects. 
+
+At the time of the incident, the vessel was in the process of recovering equipment from a well at a water depth 
+of 200 metres. A winch guide wire was attached subsea and a 2-inch service hose was attached to the wire 
+using clamps. The winch was set in the active heave compensation mode when a fault occurred on the winch 
+which activated the winch brakes and deactivated the heave compensation system. An alarm sounded briefly 
+and displayed on the control console however the fault remained undetected for approximately 30 minutes. 
+
+During this time, the wire detached subsea due to the load applied by the heave and movement of the vessel. 
+Once the fault was finally detected, and believing the wire was still attached subsea, the console operator 
+reset the winch system and slowly increased the winch tension. No visual check, using the ROV, was 
+completed to ensure the guide wire was still attached. 
+
+The 2-inch service hose, which remained connected to the subsea stack, is believed to have stretched under 
+load, reducing friction with the clamp and leading to a rapid retraction of the wire by approximately 20 metres 
+before the winch shut down on over-speed and the wire came to a halt. During the retraction of the wire, the 
+upper two clamps collided with the sheave at the top of the tower on the vessel and parted; one of which 
+dropped 27 metres to the deck below. 
+
+What could go wrong? 
+
+Failure to appropriately verify and fully understand how safety critical systems operate can lead to unexpected 
+consequences; in this case resulting in two dropped objects, one of which could have caused a fatality if it had 
+struck a person. 
+
+Why did this happen? 
+
+NOPSEMA’s investigation into this incident identified that: 
+
+  The winch system’s commissioning procedure did not verify the system’s automatic response to a winch 
+
+  Multiple revisions of the winch manual were on-board which detailed differing automated safety system 
+
+  Tower personnel believed the winch brakes would not engage immediately on detection of a winch fault 
+
+fault. 
+
+responses to a winch fault. 
+
+during active heave compensation. 
+
+  The display panel on the control console detailed that the winch brakes would not engage on detection of 
+a winch fault during active heave compensation, however, the system was actually configured to apply the 
+brakes immediately.  
+
+  The console operator was not adequately alerted to the winch fault by the control console, which delayed 
+the initial response to the fault. The audible alarm was not ideally positioned for hearing and only beeped 
+twice before becoming silent. The main display of the control console only showed the latest alarm, while 
+all previous alarms could only be accessed by opening another display window. 
+
+National Offshore Petroleum Safety and Environmental Management Authority 
+
+A569587 
+
+24 November 2017 
+
+1 of 2 
+
+ 
+
+Safety alert 67 
+
+Understanding of light well intervention 
+safety systems is critical for safe operation 
+
+ 
+  There was no formal requirement to check that the winch wire had not parted subsea prior to the re-
+
+tensioning of the wire. 
+
+  The facility operator did not identify secondary retention of the hose clamps as a control in the hazard 
+
+identification (HAZID) or Toolbox talk for the activity. Both the HAZID and Toolbox talk did not identify the 
+risk of rapid winch retraction in active heave compensation mode. 
+
+Key lessons 
+
+Commissioning of safety-critical equipment systems should include verification of all safety features including 
+actual configuration. 
+
+Facility operators need to ensure safety-critical system manuals are controlled and up-to-date. 
+
+Manufacturers need to ensure manuals related to safety-critical equipment have a robust quality control 
+process to ensure the information they contain is accurate. 
+
+Facility operators need to have a clear process for alarm management to ensure suitable responses. 
+
+Alarm systems should be designed to effectively alert the console operator of any faults and provide the 
+necessary information to allow the operator to respond in a timely and appropriate way. 
+
+Toolbox talks should provide a clear breakdown of the individual tasks for the activity, and identify the risks 
+and controls specific to each task. 
+
+Secondary retention should be considered for all equipment (including temporary project related equipment) 
+to be used at height and having the potential to cause harm. 
+
+ 
+
+ 
+
+Image 1:  Damaged dropped clamp 
+
+Image 2:  Secondary retention subsequently 
+
+fitted to the guide wire clamps 
+
+ 
+
+ 
+
+Schedule 3 of the Offshore Petroleum and Greenhouse Gas Storage Act 2006 places a general duty on the 
+operator of a facility to take all reasonably practicable steps to ensure that all work and other activities carried 
+out on the facility are carried out in a manner that is safe and without risk to the health of any person at or 
+near the facility. 
+
+The legislation 
+
+Contact 
+
+For further information email alerts@nopsema.gov.au and quote Alert 67. NOPSEMA safety alerts are 
+published at www.nopsema.gov.au/safety/safety-alerts. 
+
+National Offshore Petroleum Safety and Environmental Management Authority 
+
+A569587 
+
+XX November 2017 
+
+2 of 2 
+
+

@@ -1,0 +1,72 @@
+Safety Alert 
+
+From the International Association of Drilling Contractors 
+
+ 
+
+ 
+ 
+ALERT 03 – 51 
+ 
+
+TRAPPED PRESSURE IN ANNULAR RESULTS 
+
+IN A NEAR MISS 
+
+ 
+WHAT HAPPENED: 
+ 
+While undertaking maintenance on a 13 5/8” 10K Annular Blowout Preventer, one of four pull down bolts had 
+been removed and removal of the second was underway when the annular cap was suddenly ejected from the 
+annular body a distance of 4 to 5 ft up from the assembly.  The cap landed slightly off centre back on top of the 
+annular.  The three remaining pull down bolts were sheared when the cap was ejected.  There were no injuries 
+to personnel. 
+ 
+WHAT CAUSED IT: 
+ 
+Subsequent  examination  of  the  stripping  accumulator  bottle  bladder  showed  that  it  had  ruptured  and  as  a 
+consequence,  the  nitrogen  pre-charge  was  not  confined  to  the  accumulator  system,  instead,  pressure  was 
+introduced  under  the  annular  operating  piston  and  “locked  in”  due  to  the  design  of  the  control  system  pipe-
+work which incorporated quick disconnect couplings.  These quick disconnect couplings only allow fluid to flow 
+when the male and female elements are made up.  If disconnected as in this case, they act as block valves 
+preventing  fluid  return  from  the  top  of  the  operating  piston.    When  the  cap  locking  jaws  were  released,  the 
+force on the piston was transferred to the four pull down bolts via the annular cap.  The bolts are not designed 
+as load bearing devices and after the first one was removed, the force on the piston was sufficient to shear the 
+remaining bolts and eject the cap. 
+ 
+CORRECTIVE ACTIONS:  To address this incident, this company issued the following instructions to 
+rig and maintenance personnel: 
+ 
+1.  Review Safety Alert. 
+2.  Raise awareness of isolation policy within Permit to Work System. 
+3.  All systems to be isolated from all actual and potential energy sources and bled off prior to maintenance 
+
+and controlled through the permit to work system. 
+
+4.  Specific risk assessment for removing annular cap to involve pressure hazards and to be reviewed by a 
+
+mechanic, a hydraulics engineer, or a person who has a through understanding of the system.  
+
+5.  Bleed manifold with gauge equipment to be considered for visually checking pressure/bleeding pressure 
+
+6.  Consider  undoing  locating  pull  down  bolts  first,  then  undoing  locating  jaws  to  reduce  likelihood  of 
+
+and checking integrity of the bladder.  
+
+personnel standing over annular cap.   
+
+ 
+
+The Corrective Actions stated in this alert are one company’s attempts to address the incident, and do not 
+
+necessarily reflect the position of IADC or the IADC HSE Committee. 
+
+This material is presented for information purposes only.  Managers & Supervisors should  
+
+evaluate this information to determine if it can be applied to their own situations and practices. 
+
+Copyright © 2003 International Association of Drilling Contractors.  All Rights Reserved 
+
+Issued December 2003 
+
+

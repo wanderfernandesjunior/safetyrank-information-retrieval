@@ -1,0 +1,110 @@
+ 
+
+SAFETY ALERT 
+ 
+
+Safety Alert No. 342 
+25 October 2018 
+
+ 
+ 
+
+ 
+ 
+
+Failure of Crane Hydraulic Boom Cylinders 
+
+             
+ 
+
+ 
+
+     Contact: Jason Mathews  
+     Phone: (504) 731-1496 
+
+ 
+
+ 
+
+ 
+
+       
+                  26 March cylinder failure              
+        
+
+                              
+
+                            25 April cylinder failure 
+
+       
+
+During 2018, two identical crane-failure incidents, both occurring while in operation, were 
+reported on a platform in the Gulf of Mexico: 
+ 
+
+•  26 March 2018: A hydraulic boom cylinder (HBC) installed on 3/24/18 on a 
+platform crane was compromised when the cylinder rod separated from the 
+cylinder rod eye. As a result, the cylinder dropped to the decking below. Because 
+there are two cylinders on the crane, as shown above left, the failure did not cause 
+the boom to collapse.  
+
+ 
+
+•  25 April 2018: A replacement for the failed cylinder described above was installed 
+on 4/1/18. On 4/25/18 the replacement cylinder suffered the same exact failure. In 
+this instance, the replacement cylinder fell and hit a handrail, as shown above 
+right.  
+
+ 
+Both failed cylinders, and the remaining attached cylinder, were sent for inspection to a 
+hydraulics/cylinder specialist. The inspection resulted in the following findings:  
+
+• 
+
+ 
+In the instances where the failures occurred, the pin-to-pin lengths of the cylinders 
+involved were different. This was due to different rod lengths. 
+ 
+
+•  This difference between cylinders working in tandem resulted in the shorter length 
+
+cylinders experiencing stress at the rod pin coupling.  
+ 
+
+•  This stress, in combination with an inferior weld, resulted in a failure of the rod pin 
+
+coupling and rod connection. This failure resulted in the rod separating from the 
+rod pin coupling, causing the cylinder to fall.  
+
+Therefore, BSEE recommends that operators consider the following:  
+ 
+
+•  Ensure equivalent eye-to-eye rod length of HBCs when repair of one HBC is 
+
+necessary.  
+
+•  Review current crane cylinder configurations. 
+
+•  Regardless of the manufacturer of the HBCs, BSEE recommends making the OEM 
+
+of your crane boom aware of these failures, and further recommends that the 
+operators obtain any needed replacement HBCs from the OEM, or a certified 
+manufacturer.  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+A Safety Alert is a tool used by BSEE to inform the offshore oil and gas industry of the 
+circumstances surrounding an accident or near miss. It also contains recommendations 
+that should help prevent the recurrence of such an incident on the Outer Continental 
+Shelf.  
+ 
+
+

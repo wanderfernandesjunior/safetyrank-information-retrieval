@@ -1,0 +1,93 @@
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Safety Alert 
+
+        From the International Association of Drilling Contractors 
+
+ 
+ALERT 13 – 23  
+
+FAILURE TO TORQUE DRILL PIPE RESULTS IN SERIOUS NEAR MISS EVENT 
+
+ 
+
+WHAT HAPPENED: 
+The crew had made up a stand of drill pipe in the mousehole.  After hoisting the stand out of the mousehole, and while it 
+was  still  hanging  in  the  elevators,  the  crew  began  to  make  up  a  float  sub  to  the  bottom  of  the  stand  using  the  iron 
+roughneck.    Unknown  to  them,  when  the  stand  was  originally  made  up  in  the  mousehole,  the  connection  (tool  joint) 
+between  the  top  and  middle  joints  did  not  get  fully  torqued  thereby  creating  a  “loose”  connection.    When  the  iron 
+roughneck  was  engaged  to  spin  the  bottom  joint  of  the  stand  to  make  it  up  into  the  float  sub,  it  also  backed  out  the 
+“loose” connection between the middle joint and top joint of drill pipe, separating the bottom two joints of the stand from 
+the top joint.  The bottom two joints fell damaging the hand rails on the rig floor before continuing off the floor and coming 
+to rest against the substructure.  No injuries occurred. 
+
+Damage to Handrail 
+
+Typical Iron Roughneck 
+
+ 
+
+ 
+
+WHAT CAUSED IT: 
+• 
+
+Incorrect Torque Procedure – The iron roughneck operator applied the correct torque to the tool joint, but he did not 
+notice  that  the  jaws  had  bottomed  out;  i.e.,  the  torque  was  not  applied  to  the  tool  joint,  just  the jaws.    He  did  not 
+verify that the tool joint was tight before removing the machine from the pipe. 
+Low  Quality  JSA  /  Work  Plan  -  The  JSA  /  Work  Plan  and  review  did  not  address  the  correct  procedure  for  the 
+specific operation (in this case, installing a float sub), nor the specific hazards associated with the task. 
+
+• 
+
+ 
+
+CORRECTIVE ACTIONS:  To address this incident, this company did the following: 
+• 
+
+The company reminded and instructed all employees on the iron roughneck torque procedure.  The machine 
+operator must be aware of the operating procedure of the iron roughneck, especially in verifying that correct torque 
+is applied to the tool joint and in paying attention to the position of the jaws when reaching the designated torque.  
+When in doubt, reposition the jaws and reapply the torque to make sure that the tool joint is tight. 
+The company also reminded all employees that the iron roughnecks should not be engaged to spin a stand to the 
+right with weight hanging in the elevators. I.e., the Driller needs to slack weight off the stand when the pipe is being 
+spun onto any tool or tool joint. 
+
+• 
+
+•  All employees were reminded of the company’s JSA / Work Plan.  The rig specific JSA / Work Plan must be written 
+
+• 
+
+to address the safest procedure for making up downhole tools and must clearly list all associated hazards and 
+barriers to prevent an incident from occurring.  Contact the appropriate up-line supervisor if additional assistance 
+and / or resources are needed.  
+The company informed all rig crews that due to various tools associated with drilling operations, it is difficult to 
+establish one set procedure to address all possible installations.  For example, a bit sub is typically attached to the 
+bottom of the stand with chain tongs; a float sub can be stabbed onto the stump in the rotary to be made up 
+conventionally; reamers and other longer equipment may need to be made up in the mousehole (using slips); etc.  
+Therefore, the rig specific JSA / Work Plan for the installation of any particular downhole tool must clearly state the 
+job steps, potential hazards, and steps to mitigate the hazards.  The crews were instructed to review their JSA / 
+Work Plan prior to picking up the tools. 
+
+The Corrective Actions stated in this alert are one company’s attempts to address the incident,  
+
+and do not necessarily reflect the position of IADC or the IADC HSE Committee. 
+
+This material is presented for information purposes only.  Managers & Supervisors should 
+
+evaluate this information to determine if it can be applied to their own situations and practices 
+
+Copyright  2013 International Association of Drilling Contractors All rights reserved. 
+
+Issued October 2013 
+
+

@@ -1,0 +1,231 @@
+AB
+
+ 
+
+IMCA Safety Flash 07/00 
+
+Safety Flash 
+
+December 2000 
+
+These  flashes  summarise  key  safety  matters  and  incidents,  allowing  wider  dissemination  of  lessons  learned  from  them.    The  information  below  has  been 
+provided in good faith by members and should be reviewed individually by recipients, who will determine its relevance to their own operations. 
+
+The effectiveness of the IMCA safety flash system depends on receiving reports from members in order to pass on information and avoid repeat incidents.  
+Please consider adding the IMCA secretariat (imca@imca-int.com) to your internal distribution list for safety alerts and/or manually submitting information 
+on specific incidents you consider may be relevant.  All information will be anonymised or sanitised, as appropriate. 
+
+A  number  of  other  organisations  issue  safety  flashes  and  similar  documents  which  may  be  of  interest  to  IMCA  members.    Where  these  are  particularly 
+relevant, these may be summarised or highlighted here.  Links to known relevant websites are provided at www.imca-int.com/links  Additional links should 
+be submitted to webmaster@imca-int.com 
+
+ 
+
+1  Anchor Handling on Deck 
+
+A member has reported a recent incident on board an anchor handling vessel which resulted in a serious injury to one of the 
+deck crew. 
+
+The  cause  of  the  injury  was  whipping  of  a  tugger  wire  that  parted  under  load  whilst  manoeuvring  a  disconnected  anchor 
+across the deck.  The anchor was disconnected from the lay barge for wet storage and was being moved to the stern of the 
+vessel for over-boarding.  It tipped over the stern roller and broke one of the attached tugger wires (24mm) due to slack in 
+the pennant wire allowing excess movement of the anchor. 
+
+The company involved has identified the following as good practice: 
+
+1. 
+
+Include toolbox talks with the crew before the start of a new job.  Implement toolbox talks for any non-routine work.  
+Keep minutes of these talks and action list; 
+
+2.  Perform regular checks on all load-bearing apparatus/rigging; 
+
+3.  Always maintain tension on the pennant wire when over boarding anchors over the stern roller; 
+
+4.  Always follow approved procedures when performing operations; 
+
+5.  Be aware of action/position of all crew members and ensure that all personnel are in safe areas and aware of the work  
+
+2  Flat Woven Webbing Slings made from Man-Made Fibre 
+
+We have recently received the attached safety alert from Grampian Test & Certification Ltd. regarding potential problems in 
+the manufacture of their slings. 
+
+3  New Concern related to Divex LP Hoses 
+
+We have received the attached Divex Safety Notice regarding further failures of their LP hoses. 
+
+GRAMPIAN TEST & CERTIFICATION LTD
+
+WOODSIDE ROAD, BRIDGE OF DON, ABERDEEN AB23 8EF
+
+CRAWPEEL ROAD, ALTENS, ABERDEEN, AB12 3LG
+
+SAFETY ALERT
+
+Subject
+
+Lifting Equipment Manufacture
+
+Scope
+
+Flat woven webbing slings made from man-made fibre
+
+Purpose
+
+Identification  of  the  potential  problems  in  the  manufacture
+of  flat  webbing  slings  produced  by  Grampian  Test  &
+Certification Ltd prior to February 2000
+
+Please  inspect  all  flat  webbing  slings,  especially  those  produced  prior  to  February
+2000.
+
+A  one  tonne  flat  webbing  sling  made  of  coloured fabric  meant  for  two  tonne  slings,
+and  a  twelve  tonne  sling  made  of  fabric  meant  for  eight  tonne  slings  have  been
+produced  and  may  still  be  in  circulation.    Both  these  slings  were  manufactured  in
+1999, and the colour coding issue has been addressed as of February 2000.
+
+Ensure that all slings are inspected prior to use, and the safe working load identified
+via the label on the sling or by the certification.
+
+All  textile  lifting  slings  (round)  and  flat  lifting  slings  (webbing)  that  comply  with  the
+parameters  of  the  British  Standards  BS  6668  Part  2:1987  &  BS  3481  Part  2:1983
+respectively must comply with the colour code below.
+
+Colour Code of Working Load Limit
+
+Safe Working Load
+
+(tonnes)
+
+1.0
+2.0
+3.0
+4.0
+5.0
+6.0
+8.0
+
+10.0+
+
+Colour
+
+Violet
+Green
+Yellow
+Grey
+Red
+Brown
+Blue
+
+Orange
+
+Working load limits differing from those above can be assigned nominal colours but
+they may not use the same colours as already assigned in the British Standards.
+
+Actions
+
+• 
+
+Inspect all slings to ensure that if the British Standards are quoted, they comply
+with the colour code above, in particular but not exclusively one and twelve tonne
+slings.
+
+•  Return  through  recognised  channels  all  slings  that  fail  to  comply  with  the
+
+standards to Grampian Test & Certification Ltd for replacement as new.
+
+Supporting Documentation
+
+•  BS  3481  Part  2:1983  amendment  number  2  15th  November  1998  (Flat  Lifting
+
+•  BS 6668 Part 2:1987 amendment number 1 15th November 1998 (Textile Lifting
+
+Slings)
+
+Slings)
+
+Please refer all queries with regard to this Safety Alert to: -
+
+Alexander Gowing
+
+Technical Support Manager
+
+Grampian Test & Certification Ltd
+
+DIVEX SAFETY NOTICE
+
+Safety Notice No. DVX003/2000
+New Concern related to Divex
+L.P.Hoses
+
+  
+
+Divex Ltd.
+Enterprise Drive
+Westhill, Aberdeen
+AB32 6TQ, United Kingdom
+
+Telephone +44 (0)1224 740145
++44 (0)1224 740172
+Facsimile 
+e-mail 
+info@divex.co.uk
+
+Further to our Safety Notice No DVX001/2000 dated 13 June 2000 Divex implemented improved
+manufacturing and test procedures to alleviate potential failure of L.P. Hoses in service.
+
+Unfortunately,  we  have  been  made  aware  of  two  failures  of  hoses  that  were  manufactured  in
+accordance  with  the  improved  procedure.    Two  hoses,  being  used  at  different  locations,    have
+been reported to part from the ferrule at the mask/helmet end of the hose.   The failed hoses had
+been fully pressure tested, load tested and certified by Divex.   Despite the above these failures
+have occurred and to date we have not established the cause of failure.
+
+In  accordance  with  the  company's  commitment  to  safety  we  are  issuing  this  Safety  Notice
+containing  the  following  information  until  such  time  as  an  up-date  can  be  issued  confirming  the
+cause of the reported failures.
+
+Please ensure all L.P.Hoses supplied by Divex to your organisation are checked as detailed below
+prior to continued use:
+
+1.  With an indelible pen mark the rear of the crimp where it meets the hose at both ends (this
+
+may require the hose protector to be pulled back).
+
+2.  With the hose fully screwed into the first stage regulator and the other end mated to a suitable
+fitting apply a load of 20 KGs to the hose assembly for one minute minimum  -  see  attached
+sketch.
+
+3.  Remove  the  load  from  the  hose  assembly  and  check  to  ensure  that  the  indelible  pen  marks
+
+have not moved from their original position.
+
+4.  Hoses that show no signs of movement can continue in service and the indelible mark may be
+
+used as an ongoing check/ confirmation of no movement of hose.
+
+5.  Any hose that shows signs of movement must be withdrawn from use and returned to Divex
+
+immediately.
+
+6.  Mark the returned hoses for the attention of Kathleen Scanlan
+
+Divex apologise for the inconvenience caused to our valued customers by this problem but believe
+this is the only course of action until we have established the cause of failure.   Once established
+we will immediately issue a further statement.
+
+SIGNED ______________________________________________   DATED:  8 December 2000
+
+G.Gilbert, Senior Manager, Safety and Personnel
+
+Attached: 
+
+ 
+
+Sketch 
+
+No 
+
+DVX003/2000
+
+

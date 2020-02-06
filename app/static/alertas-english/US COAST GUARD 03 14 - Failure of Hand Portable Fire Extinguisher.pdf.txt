@@ -1,0 +1,92 @@
+         
+
+ 
+ 
+April 8, 2014 
+Washington, DC 
+
+         Inspections and Compliance Directorate 
+
+ 
+
+ 
+
+ 
+
+   Alert 03-14 
+
+ 
+
+FAILURE OF HAND PORTABLE FIRE EXTINGUISHER 
+
+ 
+This Safety Alert serves as a reminder to vessel owners/operators and fire safety equipment servicing 
+companies  to  use  caution  when  replacing  components  on  hand  portable  fire  extinguishers.    While 
+examining the activities surrounding a fire onboard a vessel, Coast Guard investigators from Sector 
+Hampton  Roads  learned  of  the  failure  of  a  hand  portable  15  pound  (lb)  Carbon  Dioxide  (CO2) 
+extinguisher.  During a fire-fighting event, a crewmember attempted to use a 15 lb CO2 extinguisher, 
+but the extinguisher failed to properly discharge and only seeped from the neck of the extinguisher.  
+The fire was extinguished by another crewmember using a dry-chemical fire extinguisher. 
+ 
+The  investigators  had  the  extinguisher  examined  at  a  fire-fighting  equipment  service  center.    They 
+determined  that  the  hose  and  discharge  horn  had  been  replaced  at  an  earlier  time.  The  end  of  the 
+hose screws on to a diffuser on the side of the discharge valve/handle assembly of the extinguisher.  
+The  diffuser  is  a  ported  protrusion  on  the  male  end  of  a  ninety  degree  fitting.    On  the  side  of  the 
+protrusion are orifices through which the CO2 flows.  The examination revealed that the spherical end 
+of the protrusion, which contains no orifices, bottomed out against the orifice in the connection fitting 
+that leads to the hose and horn assembly.  The flow of CO2 was thus completely blocked.   
+ 
+It was further noted that the male threads of the diffuser were tapered US national pipe threads, while 
+the  female  threads  of  the  hose  connection  were  straight.    This  difference  likely  allowed  the  hose 
+connection to be tightened further than intended on the diffuser threads, permitting the spherical end 
+of  the  diffuser  to  bottom  out  against  the  orifice  in  the  tube.    This  may  have  also  resulted  in  the 
+reported leakage from the neck of the extinguisher due to back pressure. 
+ 
+
+ 
+
+ 
+Newer types of diffusers exist in which the orifice follows the length of the protrusion and the end is 
+not  spherical.    However,  the  issues  regarding  the  tightening  of  the  two  components  and  the 
+importance  of  ensuring  proper  lengths  and  compatibility  of  the  threaded  and  machined  surfaces 
+remain.    Binding  or  bottoming  out  should  not  occur  except  at  the  threaded  surfaces.    Replacement 
+parts should be as specified by the original manufacturer of the extinguisher. 
+ 
+
+ 
+
+1
+
+The Coast Guard does not know the extent of this problem or if this particular instance of failure is an 
+outlier.  It involved an older CO2 extinguisher with a hose and horn assembly that had been replaced.  
+We  do  not  advise  owners/operators  or  vessel  personnel  to  take  apart  or  disassemble  their 
+extinguishers.    Only  technicians  from  fire  equipment  service  companies  should  work  on  this 
+equipment.    
+ 
+The  Coast  Guard  only  advises  that  if  owners/operators,  based  on  visual  examination  of  their 
+equipment, believe there is a possibility of potential blockage of flow due to conditions as described 
+above,  they  should  contact  a  qualified  fire  equipment  service  company  for  more  thorough 
+examination, testing, and repair, if needed. 
+ 
+The  Coast  Guard  recommends  that  fire  equipment  service  companies  be  aware  of  the  potential 
+problems described above, and ensure that all replacement components for servicing hand portable 
+fire extinguishers are as specified by the original extinguisher manufacturer.  Service companies that 
+market  replacement  parts  should  also  note  the  importance  of  these  concerns  and  advise  their 
+customers  accordingly.    If  the  appropriate  replacement  parts  are  not  available,  the  extinguisher 
+should be replaced. 
+ 
+Owners/operators and fire equipment service companies are requested to contact the Coast Guard at 
+typeapproval@uscg.mil if this issue is discovered to be a widespread problem.  Special appreciation 
+to Sector Hampton Roads investigation shop for identifying this important issue. 
+ 
+This  safety  alert  is  provided  for  informational  purpose  only  and  does  not  relieve  any  domestic  or 
+international  safety,  operational  or  material  requirement.    Developed  by  Sector  Hampton  Roads 
+Investigations  and  the  Office  of  Investigations  and  Analysis,  Washington,  DC.    For  questions  or 
+concerns please email hqs-pf-fldr-cg-inv@uscg.mil. 
+ 
+
+ 
+
+2
+
+

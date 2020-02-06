@@ -1,0 +1,101 @@
+www.aiche.org/ccps
+
+http://www.aiche.org/CCPS/Publications/Beacon/index.aspx
+
+Messages for Manufacturing Personnel
+
+www.iomosaic.com
+
+Incident Investigation of a Steam Pipe Failure
+
+June 2017
+
+Figure 1:  Damage
+
+This issue sponsored by
+
+In November 1998 a 12 in. (30.5 cm), 600 psig (~ 41 bar[g]) 
+
+steam pipe in a large chemical plant failed catastrophically. A 36 in. 
+(~ 1 m) long section of pipe just upstream of a decommissioned 
+venturi flow meter suddenly ruptured causing major damage in the 
+area (Fig. 1). Steam supply throughout the plant was lost, the steam 
+generation equipment shut down, and there was no production in 
+most of the plant for more than 5 days. Fortunately there were no 
+injuries or fatalities.
+
+An investigation team was immediately formed to understand the 
+
+cause of the failure of the 30 year old pipe (Fig. 2). There was 
+concern about other steam piping which might be in danger of a 
+similar failure. The team consisted of utility operating and 
+management personnel, materials and mechanical engineers (piping, 
+reliability, and failure analysis experts), and chemical engineers. 
+The initial suspected cause was erosion of the pipe wall immediately 
+upstream of the venturi caused by poor quality (wet) steam, 
+resulting in thinning of the pipe wall. Observed lines on the pipe 
+(Fig. 3) were believed to be created by erosion.
+
+Figure 2:  Failed pipe
+
+Figure 3:  Lines on pipe
+
+In the course of the investigation it was determined that the pipe 
+which failed had been designed to have a slight taper (about 10º) to 
+smooth flow to the venturi. This taper was produced by boring a
+thicker piece of pipe to the designed profile. The investigation team asked an experienced machinist to inspect the failed 
+pipe. The machinist immediately recognized that the lines were not signs of erosion, but actually tool marks from a boring 
+tool. When the pipe was bored, the tool had not been inserted properly, but off-center. This resulted in the pipe being only 
+about 25% of the intended thickness at the top, and consequently weakened.
+
+Lines
+
+Did you know?
+
+What can you do?
+
+There is a reason for including a team of people 
+with different expertise in an incident investigation, 
+or any other process safety management activity 
+(process hazard analysis, management of change, 
+pre-startup safety review, etc.). Everybody involved 
+has a unique expertise to bring to the discussion, 
+based on their education, training, and most 
+importantly, their work experience. In this incident, 
+the engineers and other experts did not recognize the 
+machine tool marks on the failed pipe, and yet it was 
+immediately obvious to the expert, experienced 
+machinist. His knowledge completely changed the 
+conclusions of the investigation, and was essential 
+for understanding the cause of the incident.
+
+Reference:  Lodal, P. N., Process Safety Progress 19 (3), pp. 154-159 (2000). 
+
+ If you are asked to participate in an incident investigation, 
+
+be a full participant and share your knowledge and 
+expertise with the rest of the team. Your experience in 
+operating or maintaining the plant is important for 
+understanding the incident. Share that knowledge and ask 
+questions. If something in the discussion doesn’t sound 
+consistent with your experience, make sure that it is 
+resolved to your satisfaction.
+
+ You may be involved in other process safety management 
+activities as an operations or maintenance representative –
+for example, management of change, process hazard 
+analysis, writing procedures, developing training material, 
+pre-startup safety reviews, and others. Be an active 
+participant in these activities, and share your knowledge 
+with other participants.
+
+Everybody has something to contribute when investigating an incident!
+
+©AIChE 2017. All rights reserved. Reproduction for non-commercial, educational purposes is encouraged. However, reproduction for any 
+commercial purpose without express written consent of AIChE is strictly prohibited. Contact us at ccps_beacon@aiche.org or 646-495-1371.
+
+The Beacon is usually available in Afrikaans, Arabic, Catalan, Chinese, Czech, Danish, Dutch, English, Filipino, French, German, Greek, Gujarati, Hebrew, Hindi, Hungarian, Indonesian,  
+
+Italian, Japanese, Korean, Malay, Marathi, Mongolian, Persian (Farsi), Polish, Portuguese, Romanian, Russian, Spanish, Swedish, Telugu, Thai, Turkish, and Vietnamese.
+
+

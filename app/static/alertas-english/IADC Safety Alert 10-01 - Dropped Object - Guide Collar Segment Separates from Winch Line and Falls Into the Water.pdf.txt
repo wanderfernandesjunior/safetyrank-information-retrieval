@@ -1,0 +1,83 @@
+Safety Alert 
+
+        From the International Association of Drilling Contractors 
+
+ 
+ALERT 10 – 01  
+ 
+
+ 
+WHAT HAPPENED: 
+ 
+
+DROPPED OBJECT – GUIDE COLLAR SEGMENT SEPARATES FROM WINCH LINE 
+
+AND FALLS INTO THE WATER 
+
+On a floating rig the guide collar for a down-hole pump assembly was separated into its 2 segments for lifting 
+to  the  rig  floor  from  the  moon  pool  platform.  The  master  bushings  were  removed  and  a  winch  line  was 
+lowered  and  attached  to  a  rig  made  handle  on  the  first  segment.    There  was  no  lifting  eye.  (See  photos 
+below).  
+
+Although there was a spotter with UHF radio in the moon pool area and a spotter at the rotary table to signal 
+the winch operator, as the guide collar segment entered the rotary table, it caught on the diverter housing. 
+The handle broke off and the 25 kilogram guide collar fell and struck the moon pool equipment support 
+beams then fell into the water.  Since personnel had been evacuated from the drop zone, there were no 
+injuries.  
+
+ 
+
+ 
+
+Lifting handle that the cable was attached to.   
+
+ 
+
+ 
+
+Area  where  the  busing  fell  to  in 
+moon pool 
+
+ 
+
+ 
+WHAT CAUSED IT: 
+ 
+
+  There was no proper lifting eye (or manufactured lifting hole) on the collar guide segment.   
+
+  The handle was too weak to sustain a snag and easily broke off.  
+
+ 
+
+ Rig motion was also a likely contributing factor. (Since master bushings were removed, it would not be 
+safe for anyone to attempt to center the tool as it passed through the table.   
+
+ 
+CORRECTIVE ACTIONS:  To address this incident, this company did the following: 
+ 
+
+  Client and Third-Party Contractor changed procedures for transporting the collar guide segments to the 
+
+rig floor.  The segments would no longer be lifted through the rotary table.  
+
+  The  OIM  must  approve  anything  lifted  through  the  rotary  table  with  his  senior-level  supervisor 
+
+supervising the lift.  
+
+  Procurement policies should be revised to require that third party companies should provide equipment 
+with built-in suitable lifting points that will not break off while being lifted even if it snags on something.        
+
+The Corrective Actions stated in this alert are one company’s attempts to address the incident,  
+
+and do not necessarily reflect the position of IADC or the IADC HSE Committee. 
+
+This material is presented for information purposes only.  Managers & Supervisors should 
+
+evaluate this information to determine if it can be applied to their own situations and practices 
+
+Copyright  2008 International Association of Drilling Contractors All rights reserved. 
+
+Issued January 2010 
+
+

@@ -1,0 +1,79 @@
+Safety Alert 
+
+        From the International Association of Drilling Contractors 
+
+ 
+ALERT 08 – 13 
+ 
+
+IMPROPER ATTACHMENT OF SAFETY LINE RESULTS  
+
+IN A DROPPED OBJECT  
+
+ 
+WHAT HAPPENED: 
+ 
+While finishing the pressure testing of the well head valve, the rig crew members were instructed to break out 
+the saver sub, lower Internal Blowout Preventer (IBOP) and upper IBOP for Non-Destructive Testing (NDT) 
+inspection.    The  Top-Drive  System  (TDS)  saver  sub  was  broken  out  using  the  TDS  Pipe  Handler.    While 
+attempting to break out the lower IBOP, it started to spin and after three attempts to break it out, the Driller 
+and the Night Pusher decided to use the rig tong to break out the lower IBOP.  The lower IBOP was gripped 
+by the make-up tong and TDS applied reverse torque to the upper IBOP.  The tong applied torque directly to 
+the  TDS  track’s  lower  attachments  causing  the  TDS  guide  beam  to  come  out  from  the  lower  tie  back  link 
+causing it to turn and twist some guide beam components.  The intermediate tieback's bolts were sheared 
+and the intermediate tie back (Approx.  12kg) fell 10 meters to the rig floor. No one was injured.   
+ 
+
+ 
+WHAT CAUSED IT: 
+ 
+•  Night  Pusher  and  Driller  did  not  comply  with  the  procedure  for  breaking  out  the  IBOPs  from  the  Top-
+
+ 
+
+ 
+
+Drive System.   
+
+upper IBOPs. 
+
+•  This  was  the  first  time  to  do  the  job  with  one  tong  which  is  a  short  cut  for  breaking  out  the  lower  and 
+
+•  This shortcut was taken without authorization or advice from the Senior Toolpusher. 
+• 
+
+Incorrect  securing  for  the  intermediate  tieback  was  made  on  the  mast  beam  with  the  securing  wire 
+wrapped around the intermediate tieback itself instead of being wrapped around the mast beam as was 
+required to prevent a dropped object.    
+Improper tieback allowed the tieback beam to fall from 10 meter 
+
+• 
+ 
+CORRECTIVE ACTIONS:  To address this incident, this company did the following: 
+ 
+1.  The pipe handler is to be used for breaking /making up the IBOP connection.   
+2.  Make sure that the pipe handler clamp cylinder pressure is 2000 psi and the dies are in good condition. 
+3. 
+
+In case of using rig tongs for breaking the IBOP or saver sub from the main shaft, it’s important to use a 
+pup joint in order to maintain it in the center and prevent the twisting motion. 
+
+4.  Any  non-routine  job  related  to  the  TDS  should  be  performed  under  the  supervision  of  the  Rig  Senior 
+
+Mechanic and Senior Toolpusher. 
+
+ 
+
+The Corrective Actions stated in this alert are one company’s attempts to address the incident,  
+
+and do not necessarily reflect the position of IADC or the IADC HSE Committee. 
+
+This material is presented for information purposes only.  Managers & Supervisors should 
+
+evaluate this information to determine if it can be applied to their own situations and practices 
+
+Copyright © 2005 International Association of Drilling Contractors All rights reserved. 
+
+Issued April 2008 
+
+

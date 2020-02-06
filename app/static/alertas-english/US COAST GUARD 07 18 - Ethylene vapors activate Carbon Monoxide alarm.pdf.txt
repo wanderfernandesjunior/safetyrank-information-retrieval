@@ -1,0 +1,111 @@
+ 
+ 
+
+ 
+
+ 
+
+Inspections and Compliance Directorate 
+
+May 30, 2018 
+Washington, DC 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Safety Alert 07-18 
+
+Ethylene vapors activate Carbon Monoxide alarm. 
+
+Take action, retreat, and avoid harm! 
+
+ 
+During  an  examination  of  a  Liquefied  Gas  Carrier 
+whose cargo tanks contained ethylene vapors, Port 
+State Control Officers (PSCOs) received alarms on 
+their portable 4 Gas meters giving a reading of 60 to 
+100 parts per-million (PPM) Carbon Monoxide (CO).  
+A  certified  marine  chemist  traced  the  source  of  the 
+vapors to an eight inch crack on a cargo vapor line. 
+PSCOs  initially  thought  the  alarm  was  related  to  a 
+combustion event and did not suspect the ethylene 
+vapors were the source because they did not get a 
+Lower  Explosive  Limit  (LEL)  reading  on 
+their 
+monitors.  The chemist indicated that the LEL most 
+likely never alarmed because of high winds on deck.  
+He  further  explained  that  the  molecular  weight  of 
+Ethylene  (28  g/mol)  was  identical  to  the  molecular 
+weight  of  CO  which  accounted  for  the  CO  PPM 
+readings.    Coast  Guard  personnel  contacted  the 
+manufacturer  who  confirmed  that  gases  such  as 
+methane,  propane,  ethylene  and  mercaptan,  could 
+actuate the CO sensor without ever coming into the 
+range of the LEL limits. 
+ 
+A  similar  event  occurred  during  an  examination  of 
+another  Liquefied  Gas  Carrier  which  was  loading  a 
+cargo of ethylene.  While conducting training on the 
+cargo tank top, the portable gas monitors of three PSCO team member’s began to alarm and read 60 
+PPM  for  CO.    The  team  retreated  from  the  tank  top  and  discussed  their  suspicions  of  a  possible 
+ethylene vapor release with the crew since no source of CO was evident in the area.  The vessel’s crew 
+investigated with their portable gas detection equipment and confirmed hydrocarbon readings in the 
+vicinity  of  where  the  PSCOs  received  their  CO  alarms.    Once  the  crew  confirmed  the  hydrocarbon 
+readings, the PSC team departed the vessel and issued a COTP order restricting cargo operations until 
+a marine chemist could identify the hydrocarbon source.  The attending marine chemist was unable to 
+duplicate the readings.  However, the vessel’s crew informed the marine chemist and Sector personnel 
+that they tightened a maintenance line flange on a cargo vapor line that they suspected was the source 
+of the vapors.  Similar to the previous incident, the LEL alarm on the portable gas monitors carried by 
+PSCOs never alarmed likely due to the high winds on deck at the time.   
+ 
+
+Location of Leak 
+
+ 
+
+Page | 1 
+
+ 
+ 
+ 
+ 
+
+ 
+
+Safety Alert 07-18 
+
+ 
+ 
+As a result of these events the Coast Guard strongly reminds all surveyors, marine inspectors, port 
+state  control  examiners,  and  any  other  persons  utilizing  portable  gas  monitors  and  detectors  while 
+working onboard on Liquefied Gas Carriers to remain acutely aware that the ethylene gas vapors can 
+exhibit cross-sensitivity.  This issue is not limited to the monitors that the Coast Guard uses but also 
+those made by other manufacturers.  Everyone using a monitor must be aware that if the CO alarm 
+goes off it may be an indication of dangerous gases or chemical vapors and not the presence of CO. 
+When the alarm sounds users must take corrective action to minimize exposure risks. 
+ 
+This  Safety  Alert  is  provided  for  informational  purposes  only  and  does  not  relieve  any  domestic  or 
+international safety, operational or material requirement. Developed by Sector Houston-Galveston and 
+the Liquefied Gas Carrier National Center of Expertise (LGC NCOE), Port Arthur, Texas and distributed 
+by the Office of Investigations and Analysis. Questions may be sent to HQS-PF-fldr-CG-INV@uscg.mil 
+or lgcncoe@uscg.mil. 
+ 
+
+Page | 2 
+
+

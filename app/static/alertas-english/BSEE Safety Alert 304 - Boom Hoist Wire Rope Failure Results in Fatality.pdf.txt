@@ -1,0 +1,195 @@
+ 
+
+BSEE 
+ 
+
+ 
+ 
+Safety Alert No. 304 
+ 
+1 February 2013 
+ 
+
+ 
+
+ 
+
+ 
+
+Safety 
+ 
+Alert 
+ 
+
+U.S. Department of the Interior 
+ 
+Bureau of Safety and Environmental 
+ 
+Enforcement 
+ 
+ 
+
+                                                     
+
+Contact: Glynn Breaux 
+ 
+(504) 736-2560 
+ 
+
+Boom Hoist Wire Rope Failure Results in Fatality 
+
+   
+
+ 
+
+ 
+
+Personnel were using the platform crane to load a rental generator onto a vessel.  Positioned close to the lift 
+ 
+were two tanks and a 14-ft high lubricator.  Two riggers were using tag lines to stabilize the load. 
+ 
+
+ 
+  
+
+ 
+ 
+
+  
+
+ 
+
+ 
+
+ 
+
+When the load was lifted, the crane’s boom hoist wire rope parted.  The boom fell, struck the generator, and 
+broke into three sections with the nose section falling overboard.  The falling nose section dragged the attached 
+ 
+bridle behind it until its fall was arrested by the main hoist line and bridle pendant lines. 
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+The 850-lb bridle/sheaves struck the fallen boom and ricocheted off the end coming to rest against the 
+platform toe-board.  The rigger handling the left tag line was struck by the bridle and fatally injured. 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+  A BSEE accident investigation Panel  concluded that  the causes  of the  fatality were as follows:  
+ 
+
+(1) 	  The Crane’s boom hoist wire rope parted due to being weakened by  advanced  corrosion.  
+
+(2) 	  The vicinity of  the  lift was  constrained by other equipment which caused the  riggers  to use tag lines to 
+control the load, and to be  positioned in the path of the falling boom.  The positioning of  riggers in  the  
+case of  a boom hoist wire rope failure was not considered during the  JSA.    
+
+(3)	   The crane’s corroded boom hoist wire  rope  lacked  internal lubrication; probably because of improper  
+
+lubrication method, frequency, and an improper lubricant type.  
+
+(4)	   The annual  inspection of  the crane conducted six months previous  probably did not include a
+  
+
+comprehensive examination of the boom hoist  wire rope. 
+ 
+
+(5)	   The Operator had no company m  anual for crane operations.  It is possible that an internal company  
+
+policy for crane operations  may have led to actions that prevented the  incident.  
+
+(6)	   The detachment of the main block hook from the  load may have allowed the bridle to be pulled all the  
+
+way to the  railing, striking the rigger, rather  than remaining atop the  fallen boom.   
+
+(7) 	  The crane’s operator and those supervising the  lift  possibly did not give “special attention”  to all of the  
+
+crane’s wire rope lines during the pre-use inspection per recommendations of API RP-2D.  
+
+ 
+BSEE recommends the following to Operators:  
+ 
+
+• 	  Operators should  review their methods of inspection of crane wire ropes  to insure full and 
+
+
+comprehensive examination as  per API RP-2D.   
+ 
+
+o 	  Third  party crane inspections should be checked and verified by Operator personnel.   
+o 	  Coats of heavy  grease on the crane lines should be  removed during inspections  so that  the  
+
+external and internal integrity of the lines  can  be examined.  
+
+o 	  Special attention  should  be given  to  indications of changing wire rope  diameters (both 
+
+increasing and decreasing).  
+
+o 	  Wire ropes  should be  regularly lubricated with the proper  lubricants, using recommended 
+
+methodology to ensure full  penetration by the  lubricant. 
+
+• 	  Operators  should review equipment location prior  to making a lift.  Removing or relocating 
+ 
+
+obstructing equipment in the interest of  safety should be strongly considered.   
+
+
+• 	  Operators should review the positioning of riggers using tag lines  for all possible  emergency 
+ 
+
+contingencies.  
+   
+
+• 	  Operators should consider implementing a method of recording wire rope lubrication data for cranes, 
+
+including date, personnel, type and brand of lubricant, method of application, etc.  
+
+ 
+A full account of the accident and investigation can be found on the following web site.  
+ 
+
+www.BSEE.gov 
+ 
+
+ 
+
+. 
+ 
+
+ 
+
+A Safety Alert  is a tool used by BSEE to inform the offshore oil and gas industry of the circumstances  
+surrounding an accident or a near miss.  It also contains recommendations that should help prevent the  
+
+recurrence of such an incident on the Outer Continental Shelf.  
+
+

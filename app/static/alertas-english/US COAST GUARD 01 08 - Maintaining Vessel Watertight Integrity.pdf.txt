@@ -1,0 +1,113 @@
+ 
+
+ 
+ 
+ 
+ 
+ 
+May 9, 2008                                                                                                                              Alert 1-08 
+Washington, DC   
+ 
+
+Maintaining Vessel Watertight Integrity 
+
+ 
+This Safety Alert addresses two issues: watertight integrity and high level bilge alarms.  
+ 
+Recently a marine casualty involving a fishing vessel in the Bering Sea resulted in multiple fatalities 
+and complete loss of the vessel.  A Marine Board of Investigation is currently examining the various 
+circumstances  surrounding  the  casualty.    Although  the  investigation  is  not  complete,  testimony 
+indicates  the  flooding  of  the  vessel  may  have  been  exacerbated  due  to  open  or  leaking  watertight 
+doors and other compartmental deficiencies which impacted the vessel’s overall watertight integrity.    
+ 
+As a result of this and other similar casualties, the U. S. Coast Guard strongly recommends vessel 
+owners and operators: 
+ 
+WATERTIGHT INTEGRITY 
+ 
+Ensure  all  watertight  decks  and  bulkheads  are  inspected  periodically  to  verify  that  there  are  no 
+unprotected  openings  or  improper  penetrations  that  will  allow  progressive  flooding  and  that  closure 
+devices (e.g. watertight doors, duct closures, etc.) are in place and in working order.  
+ 
+Ensure all crewmembers are familiar with the locations of the watertight doors (WTDs) and weather 
+tight  closures  throughout  their  vessels.  Knowing  the  locations  of  such  WTDs  and  weather  tight 
+closures should be part of the crewmember vessel familiarization process.    
+ 
+Ensure  WTDs  and  hatches  are  closed  while  at  sea  and  as  otherwise  specified  in  the  stability 
+guidance  provided  to  the  master  or  individual  in  charge.    The  importance  of  keeping  WTDs  and 
+hatches  closed  should  be  emphasized  on  a  regular  basis  (e.g.  at  safety  meetings).    WTDs  and 
+hatches  should  be  opened  only  briefly  to  allow  passage  and  labeled  appropriately  to  remind 
+crewmembers to close them.  If they must remain open to permit work, WTDs and hatches should be 
+attended at all times so that they can immediately be closed.  Any WTDs permitted to be open while 
+the vessel is underway should be secured during drills to ensure they work properly. 
+ 
+Implement  a  WTD  inspection  program  to  ensure  each  WTD  is  regularly  inspected  and  properly 
+maintained.  As part of the inspection of each WTD, the following should be examined: straightness of 
+the  knife  edge;  the  door  assembly  for  twisting  or  warp-age;  evidence  of  loose,  missing  seized  or 
+damaged components; permanent set in gasket material, cracks in the gasket; gaps at gasket joints; 
+paint, rust, or other foreign material on gaskets, knife-edges and working parts; binding and difficult 
+operations;  and  loose  or  excessively  tight  dogs.  Rotating  spindles  of  the  dog,  handles  and  hinges, 
+and other points of friction should be lubricated to prevent seizing and allow proper closure. If fitted, 
+the spindle packing should also be examined.  
+ 
+
+Page 1 of 2 
+
+ 
+
+Ensure watertight hatches, dogged manholes, bolted manhole covers, and access plates are given 
+similar examinations, focusing on the sealing surfaces and the method by which the hatch is secured.  
+Gasket materials should be replaced whenever they are found insufficient.  Regardless of the type of 
+hatch or access, every component that secures the device, such as dogs, wing nuts, or bolts should 
+be  inspected,  lubricated  and  free,  and  repaired  or  replaced  as  necessary  to  ensure  they  operate 
+properly.  As with watertight doors, hatches and accesses should be labeled to indicate they remain 
+closed  while  underway.    Most  importantly,  all  securing  devices  must  be  used  when  the  hatch  or 
+access is closed.  Improper closure of a hatch will not prevent flooding. 
+ 
+Ensure compartments and external hull structures fitted with ventilation ducts that have hinged covers 
+with gaskets, hinges, sealing surfaces and securing mechanisms are regularly inspected and properly 
+maintained (see above for guidance).   
+ 
+Ensure  electrical  cables  and  conduits,  piping  runs,  remote  valve  actuators,  and  other  components 
+that penetrate watertight bulkheads, decks, and compartments are inspected frequently and properly 
+maintained.    Each  may  have  a  unique  sealing  method  involving  glands  with  packing  assemblies, 
+penetration seals, or other methods.  Frequent inspection and proper maintenance of these various 
+fittings and assemblies will assist in minimizing the possibility of progressive flooding. 
+ 
+BILGE AND HIGH WATER ALARMS 
+ 
+Ensure water accumulation is minimized and all spaces are kept dry unless permitted by the stability 
+instructions provided to the master or individual in charge.   
+ 
+Ensure  bilge  high  level  alarms  are  arranged  to  provide  the  earliest  warnings  of  abnormal 
+accumulation.  The high level bilge alarms should be set as low as possible to the deck or bilge well 
+and positioned along the centermost area of the compartment or in a location at which the fluids will 
+gravitate to first.  In areas where bilge water routinely accumulates, the bilge high level alarms should 
+be  placed  just  above  the  point  where  under  normal  working  conditions  the  accumulation  would  be 
+pumped to a holding tank, overboard, or through an oily water separation system if required.  Alarms 
+may be fitted with short time delays to prevent nuisance alarms caused by the rolling and pitching of 
+the vessel.   
+ 
+Ensure all crewmembers understand the importance of minimizing water in the bilges. 
+ 
+Provide  the  funding,  labor,  spare  parts,  and  vessel  availability  necessary  to  ensure  leakages 
+stemming  from  machinery,  equipment  and  other  components  are  kept  to  a  minimum  at  all  times  in 
+accordance with good marine practice.   
+ 
+This  safety  alert  is  provided  for  informational  purposes  only  and  does  not  relieve  any  domestic  or 
+international safety, operational or material requirement.  Developed and distributed by the Office of 
+Investigations and Analysis, United States Coast Guard Headquarters, Washington, DC.  
+
+ 
+
+******* 
+
+ 
+ 
+ 
+Office of Investigations and Analysis – http://marineinvestigations.us 
+To subscribe – Kenneth.W.Olsen@uscg.mil 
+
+Page 2 of 2 
+
+

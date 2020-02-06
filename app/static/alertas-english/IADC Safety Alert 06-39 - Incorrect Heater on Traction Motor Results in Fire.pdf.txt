@@ -1,0 +1,58 @@
+Safety Alert 
+
+        From the International Association of Drilling Contractors 
+
+ 
+ALERT 06 – 39  
+ 
+
+INCORRECT HEATER ON TRACTION MOTOR RESULTS IN FIRE 
+
+ 
+WHAT HAPPENED: 
+ 
+Gas from the well bore collected under the rig floor and ignited. 
+ 
+WHAT CAUSED IT: 
+ 
+Investigation  determined  that  the  gas  also  filled  the  rotary  drive  traction  motor  which  was  equipped  with  a 
+general purpose space heater.  General purpose space heaters are not designed to maintain temperatures 
+below flash points.  The space heater provided the source of ignition. 
+ 
+CORRECTIVE ACTIONS:  To address this incident, this company did the following: 
+ 
+Ensure that all rotary drive and drawworks traction motors are equipped with EXP heaters.  If they are not, 
+immediately  remove  power  from  the  heaters  and  order  replacement  heaters.    Each  rig  will  be  required  to 
+verify completion of inspection.  All inspections and material requisitions should be completed and faxed to 
+the Corporate Maintenance Department.  
+ 
+
+Correct Type 
+
+Incorrect Type 
+
+EXP Type Heater 
+
+General Purpose Heater 
+
+ 
+
+ 
+
+ 
+ 
+ 
+
+The Corrective Actions stated in this alert are one company’s attempts to address the incident,  
+
+and do not necessarily reflect the position of IADC or the IADC HSE Committee. 
+
+This material is presented for information purposes only.  Managers & Supervisors should 
+
+evaluate this information to determine if it can be applied to their own situations and practices 
+
+Copyright © 2005 International Association of Drilling Contractors All rights reserved. 
+
+Issued November 2006 
+
+

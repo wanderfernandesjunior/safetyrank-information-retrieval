@@ -1,0 +1,95 @@
+ 
+ 
+SAFETY ALERT 40 
+
+   NATIONAL OFFSHORE PETROLEUM SAFETY AUTHORITY 
+
+ 
+Risk of Fires from Inverter Drives 
+
+What happened? 
+ 
+The transformer in the thruster circuit for an accommodation support vessel 
+caught fire after the internal insulation was damaged by overheating due to the 
+effects of harmonic currents introduced by variable frequency drives. 
+ 
+
+ 
+
+ 
+ 
+In this incident, the transformers had not been correctly rated. Transformers 
+intended for use with inverter drives should be rated for the additional heating 
+effects imposed by harmonic currents resulting from the non-linear nature of 
+switched and unbalanced loads.  
+ 
+Other precautions include: minimising harmonic current generation by using 
+twelve-pulse systems; using a balanced pulse-width modulation 3-phase bridge 
+design; monitoring of winding temperatures and phase voltage imbalance, and 
+designing the inverter-fed load to be as balanced as possible. 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+Page 1 of 2 
+
+ 
+
+ 
+ 
+SAFETY ALERT 40 
+
+   NATIONAL OFFSHORE PETROLEUM SAFETY AUTHORITY 
+
+ 
+Risk of Fires from Inverter Drives 
+
+What could go wrong? 
+ 
+In addition to the obvious risks of fire, in this case there could have also been 
+risks associated with the loss of the dynamic positioning of the facility if the 
+failures occurred during a safety critical operation. 
+ 
+Key Lessons 
+ 
+The correct design of all equipment for use in circuits where harmonic currents 
+are likely is essential to prevent fires. 
+ 
+All transformers fed by inverter drives should be checked to see if they are rated 
+for inverter duty, and inspected periodically for the effects of overheating. For 
+three-phase transformers, all phases should be loaded uniformly and any 
+imbalance leading to phase overheating attended to urgently. 
+ 
+Who is responsible? 
+ 
+Clause 13 of Schedule 3 of the Offshore Petroleum and Greenhouse Gas 
+Storage Act 2006 places duties on suppliers of facilities, plant or substances 
+(suppliers) to take all reasonably practicable steps to ensure that at the time of 
+supply the condition of the facility, plant or substance is, when properly used, 
+safe and without risk to health.  
+ 
+Suppliers must also take reasonably practicable steps to carry out the research, 
+testing and examination necessary to discover, and to eliminate or minimise any 
+risk to health and safety that may arise from the use of the equipment they have 
+supplied. 
+ 
+Operators of facilities have a duty of care to ensure that plant and equipment at 
+the facility are safe, and without risk to health. Maintaining equipment and 
+operating it within its design envelope is an important means of meeting this duty.  
+ 
+Contact 
+ 
+For further information email alerts@nopsa.gov.au and quote Alert 40. 
+
+ 
+
+Page 2 of 2 
+
+ 
+
+
