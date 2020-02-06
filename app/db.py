@@ -96,6 +96,12 @@ def insert_file_into_db(dbcon, diretorio, nome_arquivo, tabela, idioma):
     """, (nome_arquivo, conteudo, palavras, palavras_lematizado, datadoc))
 
     dbcon.commit()
+
+    # Salva em TXT
+    arquivo_txt = open(f"{diretorio}{nome_arquivo}.txt","w")
+    arquivo_txt.write(conteudo)
+    arquivo_txt.close() 
+
     print(nome_arquivo, "foi inserido.")
 
 def init_db(diretorio, tabela, idioma):
