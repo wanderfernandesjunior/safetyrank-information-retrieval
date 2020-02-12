@@ -1,0 +1,122 @@
+SAFETYALERT
+
+Safety Alert No. 338   
+3 AUGUST 2018  
+ 
+
+ 
+ 
+
+                       Contact: Jason Mathews 
+ 
+         Phone: (504) 731-1496 
+
+ 
+
+Pressure Safety Element (Rupture Disk) Failures 
+
+Ruptured burst disk from a BSEE 2012 
+Panel Investigation Report.
+
+Burst disk held against bright sky shows 
+holes (small white dots). The holes were 
+found during a recent BSEE inspection.  
+
+Recent BSEE inspections in the Gulf of Mexico (GOM) have found Pressure Safety Elements 
+(PSEs), also called “burst disks” or “rupture disks,” that were ruptured or severely corroded. 
+
+A 2012 BSEE Panel Investigation Report from the Pacific Region called attention to PSEs not 
+being properly inspected and maintained.  The Panel Investigation Team concluded that the 
+failure of a PSE on a surge tank initiated the release of hydrocarbons into the flare header, 
+resulting in oil being inadvertently released into the ocean via the disposal tube and the flare 
+stack.  Employees who had worked on the platform for several years could not recall ever 
+inspecting the PSE. 
+
+Ruptured burst disk from a BSEE 2012 Panel 
+Investigation Report 
+
+BSEE inspections continue to reveal instances where PSEs are found to be hazardous.  In 
+the past year, BSEE inspections in the GOM have found additional instances where PSEs 
+were ruptured or severely corroded and often without equipment tags.  During one inspection, 
+four PSE tags were missing or illegible, and three PSEs had incorrect burst pressures 
+recorded in the facility records. 
+
+In rare instances, PSEs are permitted by regulations.  It should be noted that PSEs installed 
+as operator-use-only devices should also be maintained so that no harm to safety or the 
+environment occurs. 
+
+Therefore, BSEE recommends that operators consider the following: 
+
+·  Review this Safety Alert with all personnel responsible for inspecting PSEs to call 
+
+attention to the importance of properly maintaining critical equipment and the 
+importance of frequent mechanical integrity program assessments to ensure 
+effectiveness. 
+
+·  Operators are encouraged to check the integrity of the PSEs currently installed on 
+
+their facilities to determine if immediate repair/replacement is needed. 
+
+·  Check the equipment tags on all PSEs: 
+
+o  Tags should be securely attached, legible and up-to-date.  These tags are a 
+
+regulatory requirement under 30 CFR 250.841(a), 250.851(a)(3) and the 
+ASME Boiler code (as incorporated by reference). 
+
+o  Tags should list the equipment ID, burst pressure and disk manufacture date. 
+o  Verify tags against facility records. 
+o  Take a photo or rubbing of new tags before installation to keep on file, along 
+
+with manufacturer’s documentation. 
+
+·  Visually inspect rupture disks at intervals recommended by the manufacturer, at a 
+
+minimum. 
+
+o 
+
+Inspection intervals may depend on service conditions, pressure and 
+temperature cycling, vibration, and likelihood of corrosion. 
+
+o  During inspection, keep the disk in the holder, if possible.  Some disks (e.g. 
+
+pre-torqued rupture disk holders) must be replaced if the disk is removed. 
+
+o  Create or revise policies and schedules for burst disk inspections and 
+
+maintenance, including Safety and Environmental Management System 
+(SEMS) mechanical integrity documents. 
+
+·  Monitor process conditions, including meter volumes, for evidence of ruptured or 
+
+leaking PSEs.  In some applications, rupture disks may burst without obvious 
+indication to operators. 
+
+o  Monitor vent and flaring flow rates for unusual increases. 
+
+·  Consider replacing rupture disk after a specific length of service, even if they appear 
+
+to be serviceable.  Follow the manufacturer’s recommendations. 
+
+·  Pay close attention to the manufacturer’s instructions when installing rupture disks. 
+
+Before installation: 
+
+o  Check new rupture disks for damage, corrosion and paint overspray. 
+o  Verify correct disk orientation per manufacturer’s guidance. 
+o  Ensure that the rupture disk material is compatible with the service. 
+o 
+Isolate, shutdown, blowdown and/or lock-out/tag-out as necessary. 
+
+·  Store spare rupture disks carefully to prevent damage. 
+
+o  Do not stack heavy objects on top of rupture disks. 
+o  Avoid paint overspray as it can increase the burst pressure. 
+
+A Safety Alert is a tool used by BSEE to inform the offshore oil and gas industry of the 
+circumstances surrounding an accident or near miss. It also contains recommendations 
+that should help prevent the recurrence of such an incident on the Outer Continental 
+Shelf.
+
+

@@ -1,0 +1,226 @@
+AB 
+
+ 
+
+IMCA Safety Flash 05/12 
+
+Safety Flash 
+
+  June 2012 
+
+These  flashes  summarise  key  safety  matters  and  incidents,  allowing  wider  dissemination  of  lessons  learnt  from  them.    The  information  below  has  been 
+provided in good faith by members and should be reviewed individually by recipients, who will determine its relevance to their own operations. 
+
+The effectiveness of the IMCA safety flash system depends on receiving reports from members in order to pass on information and avoid repeat incidents.  
+Please consider adding the IMCA secretariat (imca@imca-int.com) to your internal distribution list for safety alerts and/or manually submitting information 
+on specific incidents you consider may be relevant.  All information will be anonymised or sanitised, as appropriate. 
+
+A  number  of  other  organisations  issue  safety  flashes  and  similar  documents  which may  be  of  interest  to  IMCA  members.   Where  these  are  particularly 
+relevant, these may be summarised or highlighted here.  Links to known relevant websites are provided at www.imca-int.com/links   Additional links should 
+be submitted to webmaster@imca-int.com 
+
+ 
+
+1  Uncontrolled Ascent of Lift Bag 
+
+A member has reported an incident in which an inflated underwater lift bag was let go, causing it to rise to the surface in an 
+uncontrolled way.  The incident occurred when a diver was working on the seabed and engaged in rigging a 100kg lift bag, 
+which was to be used to assist in handling and positioning a load.  The lift bag was rigged with a small shackle through its 
+strops.  The load was rigged with a large shackle attached to the lift strops and a holdback.  
+
+When connecting the two however the diver, instead of joining the two shackles together, simply passed the lift bag strops 
+through the larger shackle (see illustration below).  When the rigging was complete, the diver untied the inverter line and 
+asked the dive supervisor for pneumo gas to be supplied, so he could put a small amount of gas into the lift bag, to cause it to 
+stand up, and check the overall arrangement.  
+
+Showing arrangement of shackles that allowed lift bag to come free and ascend to surface 
+
+ 
+
+As  the  diver  proceeded  to  tie  the  inverter  line  to  a  standoff,  the  gas  in  the  lift  bag  caused  it  to  ascend  with  just  enough 
+buoyancy to lift the lift bag rigging and small shackle through the larger shackle.  Although by no means fully inflated the lift 
+bag then ascended to surface. 
+
+There were no injuries or damage to equipment.  The location of the lift bag, strops, associated rigging, and positioning of the 
+divers did not pose a risk to either from snagging of umbilicals or hands being trapped or entangled around any part of the 
+strops or rigging.  There was insufficient buoyancy in the bag to lift either diver from working depth. 
+
+An investigation revealed the following: 
+
+the lift bag; 
+
+♦  The immediate cause was that the diver, though competent for the task in hand, made a mistake during the rigging up of 
+
+♦  Underlying causes associated with the incident were considered to be: 
+
+risk assessment for the various parts of this task was not adequate nor fully applied 
+
+– 
+–  written  instructions  for  internal  use  were not  entirely  clear  or  in  sufficient  detail  (although  an  admittedly  obvious 
+precaution, neither IMCA D 016 – Underwater air lift bags, nor the company procedure for the use of lift bags based 
+
+ 
+
+on this guidance, included a step specifically stating that holdback and inverter lines should be attached BEFORE any 
+gas is introduced) 
+
+–  monitoring – checks and inspections of workplace precautions and risk control methods were not adequate.  
+
+The following corrective and preventative actions were made: 
+
+♦  Vessel ‘safety focus’ on checking/rechecking progress with activities/tasks; 
+
+♦  Revision of in-house procedures for use of lift bags, to include specifics on checking lines/rigging before inflation; 
+
+♦ 
+
+IMCA was advised of the incident and a proposal was put forward for revision of IMCA D 016; 
+
+♦  Appropriate  pre-job  briefings  were  enhanced  (where  there  is  a  use  of  lift  bags)  to  ensure  safety  requirements  and 
+
+lessons learnt from the incident are communicated and applied as part of ongoing raising of awareness; 
+
+♦  Details and video footage of the incident circulated to others in industry for assistance with future training courses; 
+
+♦  Encouraging younger divers and supervisors to attend training courses on subsea lifting and rigging (including lift bags); 
+
+♦  Post saturation debriefs held with dive teams including details of the incident, review of video footage and sharing key 
+
+lessons learnt. 
+
+The following lessons were drawn from the incident: 
+
+♦  The importance of ensuring adherence to task risk assessments so control measures identified are applied stringently; 
+
+♦  Checks  and  re-checks  as  per  safe  working  procedure  and  standard  practice  should  be  enforced  by  workers  and 
+
+supervisors to ensure that risk control measures are implemented and maintained. 
+
+2  Near Miss: Person Fell from Boarding Ladder 
+
+A member has reported an incident in which a person slipped from the barge boarding ladder and almost fell into the water.  
+During  a  short  boat  transfer  from  the  accommodation  vessel  to  the  barge,  the  anchor handling  tug  moored  alongside  the 
+barge and the crew transfer commenced.  The transfers were performed in an orderly fashion with the personnel patiently 
+waiting  for  the  best  moment  to  step  from  the  anchor  handling  tug  (AHT)  on  to  the  ladder  of  the  barge.  However,  one 
+person missed his step, lost his grip and fell between the AHT and the barge.  He landed on one of the tyre fenders and was 
+immediately helped inboard by other passengers still on the AHT.  The transfer operation was aborted immediately and the 
+AHT moved to the other (lee) side of the barge.  The man that fell suffered only a superficial scratch on the right arm.  
+
+An investigation revealed the following:  
+
+♦  Existing project-specific personnel transfer protocols/procedures were not followed; 
+
+♦  There was inadequate allocation of resources.  The dedicated crew tender was being  used for other purposes at that 
+
+time, resulting in the use of an AHT to perform a crew tender job; 
+
+♦  Precautionary  measures  already  identified  in  the  hazard  identification  (HAZID)  (i.e.  suitable  embark/disembark 
+
+arrangements) were not installed; 
+
+♦  The job should have been stopped under ‘STOP WORK’ authority, but nobody did so.  
+
+The following measures were put in place to prevent recurrence:  
+
+♦  Re-write of the project specific protocol/procedures for personnel transfer; 
+
+♦  Nomination of a ‘marine traffic controller’ to perform the following tasks 
+
+–  observe all vessel movements to and from the barge 
+– 
+
+provide advice on which side of the barge to moor up;  
+
+♦  Reinforce the ‘STOP WORK’ authority in project documentation and project induction; 
+
+♦  Determine if additional training is required for personnel engaged in vessel-to-barge transfer.  
+
+For further information on this subject, members may wish to refer to IMCA SEL 025 – Guidance on the transfer of personnel 
+to and from offshore vessels. 
+
+ 
+3  LTI: Crewman’s Finger Pinched When Moving the Gangway  
+
+A member has reported an incident in which a crewman suffered a serious pinch injury to his finger whilst moving a gangway.  
+The  incident  occurred  during  preparation  for  departure  from  port  when  two  crewmen  and  the  second  officer  were 
+removing and stowing the ship’s gangway.  The gangway was lifted onboard and whilst it was being slid along the deck for 
+stowage, one crewman had his finger pinched between the gangway frame and an isolation valve on deck resulting in a deep 
+cut to his finger.  
+
+The chief officer started to carry out first aid to stop the bleeding.  The crewman was subsequently transferred to hospital 
+where he received further treatment before returning to the ship.  On his return, the decision was taken that the crewman 
+would not be fit for duty and that he should return home to recover fully.  An extended period of healing was necessary and 
+the crewman was off work for five weeks. 
+
+Showing pinch-point between gangway frame and valve, and injured finger 
+
+ 
+
+An investigation revealed the following: 
+
+♦  The crane normally used for moving the gangway was out of order and awaiting repairs.  Therefore a smaller gangway 
+
+was used that allowed for crew members to manually handle it into position; 
+
+♦  This smaller gangway was normally stored on the cargo deck but was in the way during cargo operations and had been 
+
+removed; 
+
+♦  The risk assessment was not adequate:  
+
+it did not adequately cover the gangway being manually handled 
+it did not identify the possibility of pinch points 
+
+– 
+– 
+–  other structures such as the isolation valve had not been highlighted as a potential danger; 
+
+♦  A toolbox meeting was held, but did not identify the additional risks involved with the manual handling of the gangway; 
+
+♦  No management of change was carried out for the change of gangway. 
+
+The following corrective actions were taken: 
+
+♦  Reviewed the risk assessment for this operation; 
+
+♦  Made engineering changes to the isolation valve so that it cannot become a pinch point; 
+
+Investigated alternative gangway storage facility; 
+
+♦  Alter positioning of gangway to establish easy handling and positioning of the gangway by the crane; 
+
+Introduce and require use of a management of change procedure. 
+
+♦ 
+
+♦ 
+
+ 
+4  Snagging Damage during Lifting Operations 
+
+The  Marine  Safety  Forum  (MSF)  has  published  the  following  Safety  Flash  regarding  an  incident  in  which  part  of  a  platform 
+supply vessel was  damaged when a large piece of equipment was lifted off it onto an offshore installation.   The  load being 
+lifted snagged on a walkway and caused the damage.  The root cause of the incident was that the lift plan and risk assessment 
+failed to identify all the hazards involved.  
+
+The report can be downloaded from www.marinesafetyforum.org/upload-files//safetyalerts/msf-safety-flash-12.13.pdf 
+
+5  Near Miss: Dropped Objects 
+
+The MSF has published the following two Safety Flashes regarding a number of recent near miss incidents involving dropped 
+objects: 
+
+♦ 
+
+♦ 
+
+In one incident on an offshore vessel, a piece of stainless steel flat bar fell from the davit from a height of 2 metres and 
+narrowly  missed  a  crew  member.    The  report  can  be  downloaded  from  www.marinesafetyforum.org/upload-
+files//safetyalerts/msf-safety-flash-12.14.pdf 
+
+In  another  incident  on  a  vessel  lying  alongside  an  installation,  a  steel  bar  about  1  metre  long  and  3  centimetres  in 
+diameter  was  seen  to  fall  on  to  the  deck  from  either  the  roof  of  a  container  or  from  overhanging  scaffolding  on  the 
+installation.    The  report  can  be  downloaded  fromwww.marinesafetyforum.org/upload-files//safetyalerts/msf-safety-flash-
+12.15.pdf.  
+
+

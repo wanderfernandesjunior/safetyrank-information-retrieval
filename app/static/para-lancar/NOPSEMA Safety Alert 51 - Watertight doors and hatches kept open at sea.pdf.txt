@@ -1,0 +1,107 @@
+Safety alert 51
+
+March 2012
+
+Watertight doors and hatches kept open at sea
+
+What happened? 
+
+During  a  number  of  recent  inspections  of  vessels  which  are  offshore  facilities,  NOPSEMA  occupational 
+health  and  safety inspectors have  observed several instances  where designated  watertight doors - which 
+are to be closed at sea - have been routinely left open.
+
+Photo 1 – Water tight door to High Precision 
+Acoustic Positioning System space, marked “To 
+be kept closed at sea” left open and blocked 
+with ventilation trunking.  The facility was in 
+Dynamic Position mode close to a petroleum 
+production platform.
+
+What could go wrong?
+
+Photo 2 – A large hatch on an FPSO was left open while the 
+FPSO was connected to a buoy.  The hatch leads to lower 
+machinery spaces. The hatch is clearly marked “When at 
+sea keep shut”.
+
+Common safety-critical elements aboard vessels that are facilities, such as floating production storage and 
+offloading  Units  (FPSOs)  and offshore  construction  vessels, include  watertight integrity and  measures for 
+maintaining stability (for both the intact and damage cases). These safety-critical elements are commonly 
+designed and constructed in accordance with codes and standards such as the:
+
+Classification society rules
+
+
+ DNV-OS-C301 Stability and Watertight Integrity
+
+Intact Stability Code (IMO Resolution A749)
+ Mobile Offshore Drilling Unit (MODU) Code
+
+
+
+Safety of Life at Sea (SOLAS) Convention
+Load Line Convention
+
+National Offshore Petroleum Safety and Environmental Management Authority
+
+1
+
+Safety alert 51
+
+These  codes  and  standards  detail  the  location,  strength  and  use  of all  forms  of  weather  and  watertight 
+enclosures  for  various  stability  cases.    The  use  of  such  enclosures  provides  a  level  of  assurance  that  the 
+facility  could  reasonably  survive  an  incident  involving  loss  of  watertight  integrity  or  defined  worst case 
+damage scenario.
+
+The  design  of  vessels that  are facilities presumes  that  watertight doors  are closed  whilst  the facility  is  at 
+sea, hence the doors are permanently marked as such at the new build stage.  This does not stop the crew 
+passing through these doors but it is assumed the doors are then closed immediately afterwards.
+
+Leaving  these  doors  unattended  and  permanently  open  at  sea,  especially during  Dynamic  Position
+operations  and  when  the vessel is  close  to  another  facility, increases the risk to  the health  and  safety of 
+personnel.  SOLAS II-I Regulation 22, regarding the prevention and control of water ingress, describes how 
+watertight  doors  should  be  used, including how  and  when  these  doors  can  be  left  open  and  when  they 
+need to be closed.
+
+In the context of internal and external watertight integrity, NOPSEMA considers a vessel that is being used, 
+or  being  prepared  for  use,  at  a  site  in  Commonwealth  waters  (i.e.  as  a  facility) to be  ‘at  sea’.    This  is 
+consistent  with the  UK  HSE  Research  Report  387  (2005) on  Stability which  applies  water-tight  door  and 
+enclosure requirements when the vessel is on station or afloat.
+
+As a reminder, loss of watertight integrity recently resulted in multiple fatalities from the Costa Concordia 
+incident off the Italian coast.
+
+Key lessons
+
+The law
+
+Contact
+
+ Operators of vessels that are facilities should ensure compliance to load line, stability (intact and 
+
+damage) and watertight integrity requirements.
+
+ Operators should ensure they are fully compliant with commitments made in their safety case.
+
+ Operators should ensure their personnel are aware of the risks and their responsibilities associated 
+
+with leaving watertight doors unattended and in the open position when at sea.
+
+ Operators have a duty of care to take all reasonably practicable steps to ensure equipment at the 
+
+facility is safe and without risk to health (Clause 9, Schedule 3 to the Offshore Petroleum 
+Greenhouse Gas Storage Act 2006).
+
+
+
+All  persons,  including  employees,  have  a  duty  of  care  to  take  all  reasonably  practicable  steps  to 
+ensure that they do not take any action, or make any omission, that creates a risk to persons on the 
+facility (Clause 15, Schedule 3 to the Offshore Petroleum Greenhouse Gas Storage Act 2006).
+
+For further information email alerts@nopsema.gov.au and quote:  Safety Alert 51.
+
+National Offshore Petroleum Safety and Environmental Management Authority
+
+2
+
+

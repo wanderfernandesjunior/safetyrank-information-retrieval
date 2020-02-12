@@ -1,0 +1,61 @@
+ 
+ 
+ 
+ 
+ 
+December 31, 2012                                                                                                               Alert 05-12 
+Washington, DC 
+
+                           Inspections and Compliance Directorate 
+
+Pressure Switch Location for Fixed Fire Suppression Systems 
+
+Where’s yours located? 
+
+ 
+
+This safety alert addresses the location of fire suppression system pressure switches aboard vessels. 
+These critical components sense the activation of the system and then electrically secures the venti-
+lation systems operating in the protected space.  Securing the ventilation is essential in extinguishing 
+a fire onboard a vessel. It assists in isolating the fire within the space, minimizes the introduction of 
+additional oxygen to fuel the fire and prevents the loss of fire suppression agents from the space.  
+ 
+Recently, a vessel with an installed fixed CO2 fire suppression system, suf-
+fered extensive damage due to a fire that started in the engine room. During 
+the  firefighting  efforts  the  crew  reported  that  the  engine  room  ventilation 
+could  not  be  secured.    A  post  casualty  damage  survey  of  the  vessel  re-
+vealed that the pressure switch used to secure the ventilation was located 
+within  the  engine  room.  See  the  photograph  of  the  damaged  pressure 
+switch at the right and new switch below. 
+ 
+Fixed  CO2  systems  on  inspected/regulated  vessels  need  to  be  type  ap-
+proved  and  installed  in  accordance  with  applicable  regulations;  46  CFR 
+25.30-15, 46 CFR Subpart 76.15, 46 CFR Subpart 95.15, 46 CFR 118.410, 
+etc.    These  regulations  require  all  controls  and  valves  for  the  operation  of 
+the  system  to  be  outside  the  space  protected,  and  notes  they  cannot  be 
+located in any space that might be cut off or made inaccessible in the event 
+of fire in the protected spaces.  The Coast Guard considers pressure switches that are used in such 
+systems a “control.” 
+
+ 
+For Uninspected Towing Vessels, 46 CFR 25.30-15 (b) requires installation 
+in  accordance  with  46  CFR  Subpart  76.15  and  reiterates  the  location  re-
+quirements. 
+ 
+The Coast Guard strongly reminds Owners and Operators of vessels with 
+installed  fixed  fire  suppression  systems  to  ensure  that  these  switches  are 
+properly  located  aboard  their  vessels.    If  the  pressure  switch  or  switches 
+are located within the space being protected, they should be relocated by a 
+properly trained fire suppression service technician.  Doing so will assist in 
+ensuring system functionality and accessibility in the event of an emergen-
+cy.    Failing  to  do  so  could  have  serious  consequences  to  the  vessel,  its 
+crew and the environment. 
+ 
+ 
+
+This safety alert is for informational purposes only and does not relieve any domestic or international 
+safety,  operational  or  material  requirement.  Developed  by  the  Office  of  Commercial  Vessel  Com-
+pliance, Washington, DC.  Questions may be addressed to CG-CVC-1@uscg.mil.   
+                                                                        ******* 
+
+

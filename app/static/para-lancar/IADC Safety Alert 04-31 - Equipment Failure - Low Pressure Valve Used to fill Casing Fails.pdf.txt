@@ -1,0 +1,56 @@
+Safety Alert 
+
+From the International Association of Drilling Contractors 
+
+ 
+
+ 
+ 
+ALERT 04 – 31 
+ 
+
+EQUIPMENT FAILURE – LOW PRESSURE VALVE 
+
+USED TO FILL CASING FAILS 
+
+ 
+WHAT HAPPENED: 
+ 
+The rig crew was in the process of running casing in the hole.  A mud line with a low-pressure valve was being 
+used  to  fill  the  casing.    At  one  point  while  filling  the  casing  with  mud,  the  floorman  closed  the  fill  line  valve 
+when  the  casing  was  full.    When  the  valve  was  closed,  pressure  built  up  and  the  pressure  surpassed  the 
+working pressure of the valve.  The floorman was struck with debris and required medical attention resulting in 
+a lost time incident.   
+ 
+WHAT CAUSED IT: 
+ 
+The rig’s high-pressure mud pump was being use to fill the casing.  The fill line components did not meet the 
+pressure rating of the mud pump.   
+ 
+CORRECTIVE ACTIONS:  To address this incident, this company did the following:   
+ 
+•  The casing fill up piping system was changed so that it could only be used with a centrifugal pump in the 
+
+•  A proper ball type valve with a 90-degree filling extension was installed to fill casing. 
+• 
+
+Instructed  operations  personnel  that  the  main  mud  pumps  are  not  to  be  used  to  fill  casing  unless  in  an 
+emergency situation.  Usage of the top drive system eliminates this problem.   
+
+mud system. 
+
+ 
+
+The Corrective Actions stated in this alert are one company’s attempts to address the incident, and do not 
+
+necessarily reflect the position of IADC or the IADC HSE Committee. 
+
+This material is presented for information purposes only.  Managers & Supervisors should  
+
+evaluate this information to determine if it can be applied to their own situations and practices. 
+
+Copyright © 2004 International Association of Drilling Contractors.  All Rights Reserved 
+
+Issued July 2004 
+
+

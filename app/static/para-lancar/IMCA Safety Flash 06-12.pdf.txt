@@ -1,0 +1,256 @@
+AB 
+
+ 
+
+IMCA Safety Flash 06/12 
+
+Safety Flash 
+
+  June 2012 
+
+These  flashes  summarise  key  safety  matters  and  incidents,  allowing  wider  dissemination  of  lessons  learnt  from  them.    The  information  below  has  been 
+provided in good faith by members and should be reviewed individually by recipients, who will determine its relevance to their own operations. 
+
+The effectiveness of the IMCA safety flash system depends on receiving reports from members in order to pass on information and avoid repeat incidents.  
+Please consider adding the IMCA secretariat (imca@imca-int.com) to your internal distribution list for safety alerts and/or manually submitting information 
+on specific incidents you consider may be relevant.  All information will be anonymised or sanitised, as appropriate. 
+
+A  number  of  other  organisations  issue  safety  flashes  and  similar  documents  which may  be  of  interest  to  IMCA  members.   Where  these  are  particularly 
+relevant, these may be summarised or highlighted here.  Links to known relevant websites are provided at www.imca-int.com/links   Additional links should 
+be submitted to webmaster@imca-int.com 
+
+ 
+
+1  Near Miss: Live Electrical Cable  
+
+A  member  has  reported  a  recent  near  miss  incident  involving  live  electrical  cables  on  board  a  vessel.  The  incident  has 
+highlighted  the  importance  of  close  interface  between  contractors  working  onboard  and  the  vessel  crews.  During  the 
+demobilization of contractor equipment, the equipment had to be locked out and tagged out to ensure that it was no longer 
+live and hence safe before work started.  
+
+The contractor, assisted by vessel crew, locked and tagged out electrical system in the engine control room. Once the power 
+was verified as locked out at the equipment and isolated at the breaker in the deck distribution box, work started. During 
+the work, the lock out key  was passed to another member of the contractor team  who proceeded to the engine control 
+room  to  remove  the  lock  out/tag  out  and  re-energised  the  system.  The  de-energised  cable  from  the  equipment  had  been 
+disconnected  and  placed  on  the  chassis  but  when  the  lock  out/tag  out  was  removed  from  the  engine  control  room 
+switchboard, the cable became live at 440 volts. 
+
+Assuming that the cable remained de-energized,  another contractor employee  moved  the cable to access the work and in 
+that movement and action, his hand was very close to the live cable ends. The live cable ends touched the chassis and arced 
+causing a loud bang. An immediate safety stand down was enforced by the contractor. There were no injuries. 
+
+A number of issues were identified which contributed to the incident: 
+
+♦  The job was planned by the contractor without reference to or liaison with the vessel operator or client; 
+
+♦  There was insufficient communication between the contractors’ personnel and the vessel crew; 
+
+♦  There was no job safety analysis (JSA) conducted; 
+
+♦  A permit to work (PTW) should have been required for this kind of electrical isolation work, but was not raised; 
+
+♦  The lock out/tag Out mechanism should have allowed the use of multiple keys; 
+
+♦  A voltage discrepancy for breaker isolation resulted in the contractors’ personnel being unable to confirm zero voltage; 
+
+♦  The deck cabinet was exposed to the elements and not easily accessible, and hence not fit for purpose; 
+
+♦  The electrical drawings were not properly ‘controlled’ documents: There was no drawn by, checked by, approved by and 
+
+no class or type approval; 
+
+♦  The labelling on the breakers was not sufficient to purpose.   
+
+As a result of this incident, which could have resulted in a fatality, eighteen corrective actions were identified and are in the 
+process of being implemented. 
+
+For further reference, members may wish to consult the following: 
+
+IMCA M 205 –  Guidance on operational communications; 
+
+IMCA M 206 – A guide to DP electrical power and control systems. 
+
+♦ 
+
+♦ 
+
+ 
+
+ 
+
+2  Failure to Follow Gas Quad Procedures   
+
+A member has reported an incident in which a quad of  diving quality air was mistakenly connected to a saturation  system 
+instead of diving quality oxygen and was injected into the chamber during metabolic make-up. The incident occurred during 
+mobilisation operations; two 48 bottle gas quads were delivered to the vessel and were signed for by the on shift life support 
+supervisor (LSS). Gas quads of diving quality oxygen had been expected, but a mistake had been made during the ordering 
+process and the incorrect gas had been ordered. Diving quality air had been selected instead. 
+
+The  quads  were  delivered  to  the  vessel  and  signed  for  but  no  thorough  checks,  as  per  the  existing  procedure,  were 
+completed to identify that it was not the correct type of gas. The quads were removed from the lorry on the quayside and 
+then  lifted  aboard  into  the  correct  gas  storage  area.  Later  that  day,  the  on-shift  LSS  went  up  to  the  gas  storage  area  and 
+connected the first of the gas quads into the system. However, this task was stopped mid-way through without the full range 
+of operational checks being completed, as the LSS left to attend a project briefing. 
+
+Following the completion of the project briefing the LSS did not return to the gas storage area to complete the remaining 
+checks for the task. The divers entered the dive chamber system, where saturation control proceeded to blow them down 
+to a holding depth of 20 metres of seawater (msw). This blow down was completed using the correct gas from the onboard 
+storage.  After  several  hours  in  the  chamber  at  the  holding  depth  the  oxygen  content  (ppO2)  in  the  system  dropped  and 
+automatic injection of further oxygen was activated. After approximately 15 minutes the on-shift LSS noticed that following 
+the O2 injection the oxygen content (ppO2) had not risen to the expected levels and decided to investigate by inspecting the 
+quads on deck. 
+
+On  finding  that  the  attached  quad  was  diving  quality  air  and  not  diving  quality  oxygen,  the  LSS  immediately  isolated  the 
+attached  quad  and  vented  any  remaining  air  from  the  system  to  prevent  further  ingress  of  nitrogen  to  the  chamber.  The 
+divers in the chamber were checked for any signs of ill effects, but none were found. The incident was reported to the vessel 
+management and an investigation began. 
+
+An investigation revealed a number of factors and procedural failures which led to this incident occurring. 
+
+♦  The incorrect type of gas was selected during the ordering process which led to the incorrect type of gas being delivered 
+
+to the vessel;  
+
+♦  There were established company procedures which were not followed: ‘Safe Working Practices – Gas Management. Section 
+3.4 All diving breathing mixtures should be checked on receipt and rechecked immediately prior to connecting them to a diving gas 
+supply or breathing apparatus charging system. Analysis should additionally be continued whilst on line and in use’ 
+– 
+
+the on-shift LSS did not complete all the required company procedural checks to ensure that the gas being received 
+and signed for was what the vessel actually required  
+the on-shift LSS did not correctly inspect the quad or gas type prior to connecting the quad to the system as per the 
+above-mentioned procedural requirements 
+saturation control did not fully analyse the gas prior to the automatic injection being activated and the gas entering 
+the system, as per the procedural requirements. 
+
+– 
+
+– 
+
+The following actions were taken:  
+
+♦  Robust review and application of existing procedural requirements for gas management;  
+
+♦  Onboard  management  to  create  specific  standing  orders  to  support  the  requirements  and  implementation  of  the  gas 
+
+management procedures; 
+
+♦ 
+
+Identify and clearly communicate who onboard is authorised and competent to receive and verify gas deliveries; 
+
+♦  Vessels to utilise Analox portable ATA analyser to ensure gas analysis is complete before connection to a supply system. 
+
+3  Near Miss: Saturation Diver Lost Gas Supply 
+
+A  member  has  reported  a  near-miss  incident  in  which  a  saturation  diver  on  the  seabed  lost  reclaim  and  immediately 
+thereafter, lost his main gas supply. The incident occurred during pipeline free span correction measurements at a depth of 
+100m. The diver made his way back to the bell on emergency gas, and while doing so, requested ‘up on my hose’. However 
+no such action followed. Slightly over  a minute and  a half later the diver had  made his way unassisted back to the bell on 
+emergency gas. As he passed by the bell stand-off ring he became aware that his hose was trapped between the stand-off ring 
+and the guide weight. Once the diver was inside, the bell was raised and the umbilical retrieved and inspected for damage. 
+The diver was unharmed.  
+
+ 
+An investigation revealed the following causal factors: 
+
+♦  There was no written procedure for setting the bell directly on the guide weight during dives; 
+
+♦  Egress from the bell was between the guide weight and the stand-off ring rather than between the stand-off ring and the 
+
+lower bell ring; 
+
+♦ 
+
+In-boarding of the bell launch and recovery system (LARS) resulted in a decrease in the gap between the guide weight 
+and the stand-off ring which subsequently trapped the excursion umbilical to the extent that gas flow through all lines 
+was interrupted. A video image of the gap area was available at the control panel of the LARS but not in dive control. 
+
+It was noted that the following things went right: 
+
+♦  The diver, upon informing his supervisor of the loss of gas, immediately went on emergency gas and started to return to 
+
+♦  The  supervisor  immediately  provided  secondary  gas  from  dive  control  and  advised  the  diver  accordingly.  Gas  to  the 
+
+pneumo-fathometer was also established within seconds; 
+
+♦  The stand-by diver checked and announced full pressure from the bell immediately upon learning that the diver was on 
+
+the bell; 
+
+emergency gas; 
+
+♦  The incident was recorded and retained on the DVD for review and use as historical evidence and training; 
+
+♦  Timely initial advice, incident notifications and follow up documentation to required parties were in place; 
+
+♦  Everyone reacted to the event in a quiet and professional manner without panic. 
+
+ 
+
+ 
+
+A view of dive bell showing pinch point location  
+
+The following actions were taken and recommendations made: 
+
+♦  A stand down and investigation was initiated prior to continuing diving operations; 
+
+♦  An  enquiry  was  made  to  the  system  manufacturer  as  to  the  intended  method  of  entry  and  exit  from  the  bell.1  It was 
+confirmed  that  the  normal  route  was  between  the  stand-off  ring  and  the  lower  bell  ring.  The  use  of  twin  12  litre 
+cylinders with flotation attached impeded access through the designed route (540 mm).  The bottom hatch opening is 
+itself 700 mm. It was further agreed that the space limitation would compound matters in the performance of a rescue 
+dive.  For this reason the route chosen was not altered for the remainder of the project; 
+
+♦ 
+
+Investigation as to the feasibility of modifications to increase the gap to 800 mm are on-going with the manufacturer and 
+the owner; 
+
+♦  For subsequent dives a sign was posted at the LARS control console advising landing of the bell upon the guide weight 
+while  divers  are  locked  out,  with  reminder  to  confirm  with  the  Supervisor  prior  to  any  movement  of  the  launch 
+equipment while diving. A statement to this effect was included in written procedures and communicated throughout the 
+company;  
+
+♦  Letters  of  recognition  were  presented  to  key  individuals  involved  on  the  matter  of  a  successful  and  well  performed 
+
+recovery. 
+
+                                                      
+1Our member’s policy on guide weight/bell interface position while diving is to set the bell on the guide weight in order to eliminate the pinch point. This 
+may be  adhered  to  as  a  general approach however  there  may be  cases where  this  is  less  than  desirable  such as with  ‘light’ bells  or excessive heave. An 
+assessment  should  be  done  on  a  case  by  case  basis  accordingly.  Such  an  assessment  should  consider  the  optimum  position  required  for  an  emergency 
+rescue. 
+
+ 
+4  Two Recent Incidents involving Injuries  
+
+The Marine Safety Forum (MSF) has published the following two safety flashes regarding incidents in which workers onboard 
+vessels have injured themselves. 
+
+♦  The  first  incident  occurred  when  a  crewman  was  using  an  electric  angle  grinder  at  the  top  of  a  ladder  and  lost  his 
+balance,  dropping  the  grinder,  which  caused  a  cut  above  his  right  knee.  The  report  can  be  downloaded  from 
+www.marinesafetyforum.org/upload-files//safetyalerts/msf-safety-flash-12.17.pdf; 
+
+♦  The  second  incident  occurred  when  an  engineer  was  working  on  an  electric  air  compressor  which  had  not  been 
+switched  off,  isolated  or  tagged  out.  The  machine  started  up  whilst  his  fingers  were  in  the  path  of  the  fan,  causing 
+lacerations of his fingers which resulted in the vessel being re-routed back to port. Isolation of the compressor was not 
+conducted  as  the  engineer  deemed  the  task  to  be  a  ‘two  minute  job’.  The  report  can  be  downloaded  from 
+www.marinesafetyforum.org/upload-files//safetyalerts/msf-safety-flash-12.18..pdf. 
+
+5  Near Miss: Cable Reel Deck Cargo Broke Loose 
+
+The  Nautical  Institute  (NI)  has  published  the  following  safety  flash  regarding  an  incident  in  which  a  wooden  cable  reel, 
+weighing about 11 tons, broke loose in heavy seas when a chain link parted. Through swift action on the part of the master 
+and the crew, the reel was secured and was not lost.  
+
+The report can be downloaded from  
+http://www.nautinst.org/en/forums/mars/mars-2012.cfm/Cable%20reel%20deck%20cargo%20broke%20loose 
+
+ 
+
+ 
+
+ 
+
+

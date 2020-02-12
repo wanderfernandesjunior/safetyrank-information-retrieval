@@ -1,0 +1,75 @@
+Safety Alert 
+
+        From the International Association of Drilling Contractors 
+
+ 
+ALERT 14 – 17 
+ 
+
+LINE-OF-FIRE INCIDENT RESULTS IN FACIAL INJURIES 
+
+ 
+WHAT HAPPENED: 
+ 
+The rig crew was attempting to manually latch a running tool onto the top of a tubing liner pump down hole.  
+The crew installed a rod wheel onto the rod string.  Employees, on the rig floor, held 10 to 15 turns of torque 
+into  the  rod  string  with  the  wheel  as  the  rod  string  was  lifted.    The  running  tool  detached  from  the  lock 
+assembly thus causing the workers to lose their grip on the rod wheel.  The release of torque caused the rod 
+wheel to backspin in an uncontrolled manner.  While spinning, the gate piece of the rod wheel broke away 
+from the main body of the wheel and, struck a worker in the face, which resulted in major facial injuries. 
+ 
+
+The gate piece of the rod wheel broke away, striking a 
+
+worker. 
+
+A new rod wheel 
+
+ 
+
+ 
+
+ 
+
+ 
+
+WHAT CAUSED IT: 
+ 
+•  Defective tools: The rod wheel is made of plastic.   
+• 
+• 
+
+If the rod wheel backspins from torque, the gate in the wheel is subject to failure. 
+Improper procedures: There was no safe method of placing torque into a rod string using a rod wheel.  If 
+control of the wheel is lost, the resulting backspin places workers at risk from disintegration of the gate. 
+
+•  There  are  no  manufacturer  operating  specifications  for  the  rod  wheel  that  helps  to  identify  the  torque 
+
+limitations or maximum number of turns on a rod string before it becomes a hazard. 
+
+•  Use of a rod wheel relies on the workers manually holding a device with torque applied and, if they lose 
+
+control of the wheel and it fails, there is no way to protect the workers. 
+
+CORRECTIVE ACTIONS:  To address this incident, this company did the following: 
+ 
+•  Recommended  engineering  control:  The  use  of  jaw-type  rod  tong  dies  coupled  with  a  backup  arm  to 
+
+rotate the rod string removes the hazard to workers. 
+
+ 
+Credit to: Enform Safety Alert SA-2014-08 
+
+The Corrective Actions stated in this alert are one company’s attempts to address the incident,  
+
+and do not necessarily reflect the position of IADC or the IADC HSE Committee. 
+
+This material is presented for information purposes only.  Managers & Supervisors should 
+
+evaluate this information to determine if it can be applied to their own situations and practices 
+
+Copyright  2014 International Association of Drilling Contractors All rights reserved. 
+
+Issued June 2014 
+
+

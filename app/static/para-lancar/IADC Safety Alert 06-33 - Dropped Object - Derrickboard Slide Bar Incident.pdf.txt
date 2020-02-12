@@ -1,0 +1,71 @@
+Safety Alert 
+
+        From the International Association of Drilling Contractors 
+
+DROPPED OBJECT - DERRICKBOARD SLIDE BAR INCIDENT 
+
+ 
+ALERT 06 – 33 
+ 
+
+ 
+WHAT HAPPENED: 
+
+After  laying  down  drill  collars,  the  Derrickman  positioned  the  Slide  Bar  across  the  derrickboard  “alleyway” 
+and came down to the rig floor.  The rig crew and casing crew were rigging up to run casing.  While using the 
+rig floor hoist to pull the casing slips up the V-door, the Slide Bar fell from the derrickboard and hit the lay 
+down stanchion (pole) in the mouse-hole.  The Slide Bar ricocheted off the stanchion and struck a member of 
+the casing crew in the back of the head, then struck the Assistant Driller in the left calf. 
+
+WHAT CAUSED IT: 
+ 
+Several  days  earlier,  the  Slide  Bar  could  not  be  retracted  into  its  storage  position  and  upon  inspection,  it 
+was found to be bent.  Due to safety concerns of attempting full repairs while the derrick was up, a decision 
+was  made  to  repair  it  temporarily  and  follow  up  with  a  permanent  fix  at  the  next  rig  move.    Temporary 
+repairs  consisted  of  cutting  approximately  8”  off  the  length  of  the  Bar  to  allow  it  to  retract  fully  and  then 
+affixing a bolt with double nuts to prevent the shortened bar from working all the way out when extended.  
+
+Afterward, the Rig Manager attempted to inform the Superintendent about the change but due to different 
+vocabularies, the message was misunderstood (the Rig Manager stated the “toe board” needed to be fixed 
+when it was really the Slide Bar that had been modified).   Subsequently, crew change occurred and neither 
+the oncoming Rig Manager nor Derrickman was made aware of the change.   
+
+After  working  the  derrick  that  day,  the  Derrickman  slid  the  Bar  out  of  its  retracted  position  but  didn’t 
+recognize the new double-nutted bolt and didn’t understand why it was there so he removed the bolt and 
+slid the Bar on across the alleyway prior to coming down from the derrick. 
+
+ 
+CORRECTIVE ACTIONS:  To address this incident, this company did the following: 
+ 
+1)  Conduct Engineering design review and rebuild the Slide Bar assembly at next rig move. 
+2)  Revise the JSA for working derricks to specify the proper configuration and positioning of the Slide Bar. 
+3) 
+4)  Distribute Safety Alert. 
+ 
+
+Improve Rig Manager Communication through the use of handover notes. 
+
+Photo 1 – Slide Bar after falling to rig floor 
+
+ 
+
+Photo 2 – Area of derrickboard from where Slide Bar 
+fell 
+
+ 
+
+ 
+
+The Corrective Actions stated in this alert are one company’s attempts to address the incident,  
+
+and do not necessarily reflect the position of IADC or the IADC HSE Committee. 
+
+This material is presented for information purposes only.  Managers & Supervisors should 
+
+evaluate this information to determine if it can be applied to their own situations and practices 
+
+Copyright © 2005 International Association of Drilling Contractors All rights reserved. 
+
+Issued October 2006 
+
+

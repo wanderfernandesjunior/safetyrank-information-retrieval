@@ -1,0 +1,236 @@
+AB 
+
+ 
+
+IMCA Safety Flash 15/15 
+
+Safety Flash 
+
+  October 2015 
+
+These flashes summarise key safety matters and incidents, allowing wider dissemination of lessons learnt from them.  The information below has been provided 
+in good faith by members and should be reviewed individually by recipients, who will determine its relevance to their own operations. 
+
+The effectiveness of the IMCA safety flash system depends on receiving reports from members in order to pass on information and avoid repeat incidents.  
+Please consider adding the IMCA secretariat (imca@imca-int.com) to your internal distribution list for safety alerts and/or manually submitting information on 
+specific incidents you consider may be relevant.  All information will be anonymised or sanitised, as appropriate. 
+
+A number of other organisations issue safety flashes and similar documents which may be of interest to IMCA members.  Where these are particularly relevant, 
+these may be summarised or highlighted here.  Links to known relevant websites are provided at www.imca-int.com/links   Additional links should be submitted 
+to webmaster@imca-int.com 
+
+ 
+
+Focus: incidents occurring lifting operations 
+
+1  Dropped Object Fatalities: Workers Struck by Fallen Loads During Lifting Operations 
+
+The Workplace Safety & Health Council of Singapore (WSH) has published two recent safety alerts regarding dropped object 
+fatal incidents where workers have been struck and killed by falling loads during lifting operations. 
+
+Incident 1 
+
+Four  workers  were  on  a  barge,  coiling  the  hoses  (about  30m  long)  of  a 
+hydraulic power pack as the hydraulic power pack was being lifted by a crane.  
+During the lifting operation, the drip tray at the bottom of the power pack 
+suddenly became dislodged and struck the workers as it fell onto the barge.  
+All four workers were sent to the hospital.  One of the workers succumbed 
+to his injuries and died later the same day.  
+
+ 
+
+Click here for further details. 
+
+ 
+
+Incident 2 
+
+Click here for further details. 
+
+A crawler crane was lifting bundles of reinforcement bar links (rebar links) 
+from a trailer bed to a six-storey high work area. During lifting, one bundle detached from the entire load and hit a worker 
+working on the trailer bed.  He was subsequently pronounced dead on scene by paramedics. 
+
+Though only one of these incidents occurred offshore, they form a timely and tragic reminder to crews that no one should 
+be directly under the load during lifting operations.  Members may wish to review IMCA SEL 019 – Guidelines for lifting 
+operations. 
+
+IMCA also has a video or DVD, IMCA SEL 030 Rev. 1 – Safe lifting. It can be viewed online or downloaded, and DVD copies of 
+this safety video, in ten languages, are available from the secretariat for a small fee. 
+
+2 
+
+Incidents Involving Poor Crane Operations 
+
+A  member  has  reported  a  number  of  recent  incidents  resulting  from  poor  crane  operations  on  the  part  of  the  crews  of 
+platforms, barges and other installations operated by third parties, clients or operators.  
+
+A few recent examples are: 
+
+  Vessel bulwark damaged by a crane hook – installation signalman not paying attention; 
+
+  Vessel attempting to abort crane operations and withdraw from installation due to weather deterioration  – installation 
+crane driver lowered cargo container despite instructions to cease, resulting in asset damage and spill of methanol cargo 
+(this incident is covered in detail in incident 3 below); 
+
+ 
+  Unexplained delays from an installation crane in releasing mooring ropes when vessel attempting to leave due to weather 
+
+deterioration – deck team exposed to hazard as mooring rope parted; 
+
+  Backload cargo found to be incorrectly slung when landed on deck – near miss from dropped objects (3t cargo unit); 
+
+  Crash rail damaged due to poor crane driving and ignoring deck crew instructions; 
+
+  Crane driver ignored directions, resulting in cargo catching vessel’s dry cargo line and rupturing pipe; 
+
+  During backload with the cargo container above deck, the container door opened – door had not been secured on-board 
+
+  Crane driver ignored direct instructions on where to place a cargo unit, and subsequently lowered the unit onto a rack of 
+
+installation; 
+
+gas cylinders which fell over; 
+
+  During bulk cargo operations close to a fixed platform, the crane driver simply left his cabin with no notification or warning 
+
+to deck crew. The response from the support vessel was to withdraw from the safety zone; 
+
+  Tubular cargo package was loaded from shore – when landed on deck, it was noticed that the cargo slings were twisted 
+
+around each other; 
+
+  Crane driver ignored directions and swung a load into the remote control stand for the vessel’s crane – expensive cost of 
+
+repairs and vessel crane inoperable for several days. 
+
+Example near miss: crew member almost struck by a crane hook 
+
+A  crew  member  was  almost  struck  by  a  swinging  crane  hook.    The  incident  occurred  during  cargo  operations  with  an 
+accommodation barge.  The barge’s crane operator was attempting to lower the hook of the crane to pick up some cargo 
+from the deck of a support vessel.  Whilst lowering the crane hook, the crane operator lost control of the operation and the 
+crane hook began to swing in an uncontrolled manner.  During this uncontrolled movement the crane hook almost struck a 
+crew member who was on deck holding a tag line attached to the crane hook, in an effort to try and minimise its movement. 
+
+What went wrong? 
+
+  The crane operator on the accommodation barge was being complacent and rushing the operation; this contributed to 
+
+the uncontrolled manner in which the crane hook was swinging; 
+
+  Although he acted with good intentions, the crew member holding the tag  line put himself in harm’s way by trying to 
+
+control the movement of the crane hook by using the tag line; 
+
+  There  were  failures  to  enforce  both  the  STOP  WORK  POLICY  and  the  CLEAR  DECK  POLICY  during  the 
+
+operation. 
+
+Our member took the following actions:  
+
+hook was stabilized; 
+
+during cargo operations. 
+
+Key Lessons Learnt: 
+
+  On noticing the swinging of the crane hook the Master instructed the deck crew to move to a safe area until the crane 
+
+  The Master contacted the accommodation barge crane operator and instructed him to take his time and be more diligent 
+
+  A CLEAR DECK POLICY should be effectively complied before all lifting operations; 
+
+  All employees are empowered to exercise the STOP WORK POLICY if unsafe conditions arise; 
+
+  Where taglines are to be used, they should allow crew members to stand clear of hazards.  If taglines are not effective, 
+crew members should wait until hooks/cargo are grounded or completely heaved away from the work site, to bring them 
+under control; 
+
+  Assets and equipment can always be replaced but someone's life cannot; eliminate risk by not putting yourself in harm’s 
+
+way. 
+
+ 
+
+ 
+
+Members are referred to IMCA SEL 019 – Guidelines on lifting operations; 
+
+Members may wish to refer to the following incidents (search words: crane operator); 
+
+IMCA SF 07/11 – Incident 1 Reliance on crane limits caused crane damage and dropped objects;   
+
+IMCA SF 01/12 – Incident 1 Near miss: Crane hook block dropped to deck.   
+
+ 
+3  Spillage of Methanol during Cargo Operations 
+
+A member has reported an incident in which the valve on a cargo tank was damaged, causing a leak of approximately 1000 
+litres of methanol.  The incident occurred during cargo operations; an FPSO crane operator was lowering an empty methanol 
+tank onto the deck of a support vessel.  On lowering, the empty tank struck another full tank of methanol already on deck, 
+causing damage to a valve, which caused the spill.  
+
+The Master of the support vessel immediately instructed the FPSO to remove the leaking tank and it was rigged for hoisting 
+by the FPSO crane.  Despite this request, the crane operator failed to lift off the leaking container and simply lowered it back 
+to the deck.  The crew of the support vessel responded immediately by deploying fire hoses and continuously dousing the deck 
+area and leaking container, to disperse the spilt cargo. 
+
+ 
+
+Damaged leaking valve of the methanol tank after the incident 
+
+  The crane operator on the FPSO failed to follow instructions given by the deck crew and Master at a critical moment; 
+
+Our member noted the following:  
+
+  Existing procedures were not properly followed: 
+
+  The support vessel’s DGC (Dangerous Goods Certificate) did not allow for methanol cargo to be carried; this was 
+
+not reviewed by vessel staff prior to cargo operations 
+
+  There had not been a full review of the cargo’s MSDS (Material Safety Data Sheet) before operations started; 
+
+  Had the officers on the support vessel correctly reviewed the necessary documents, they would have been able to pro-
+
+actively exercise the STOP WORK POLICY and prevent this incident from occurring. 
+
+Our member’s crew took the following actions: 
+
+ 
+
+Immediate request for assistance from Master to FPSO to remove the leaking container; 
+
+  Following aborted cargo lift, Master immediately departed the Safety Zone to safe distance; 
+
+ 
+
+Immediate and effective action from deck crew to flush the deck with water, douse the tank and subsequently also flush 
+the tank out until all traces of methanol had dispersed. 
+
+Key Lessons Learnt: 
+
+  Dangerous  Goods  Certificates  and  Material  Safety  Data  Sheets  should  be  reviewed  on-board  before  starting  cargo 
+operations, to ensure that full compliance is assured at all times.  In case of doubt, Masters should check with appropriate 
+company authority ashore;  
+
+In this case despite the identified failings and high potential to become a serious incident, the entire crew responded swiftly 
+and  effectively  to  prevent  the  incident  escalating,  highlighting  the  importance  of  good  drills,  exercises  and  emergency 
+response awareness.  
+
+Members may wish to refer to the following incidents (search words: cargo, spill, leak, container) 
+
+IMCA SF 11/08 – Incident. 2 Incorrect lifting equipment used [leading to spillage of 45l of ethylene glycol] 
+
+IMCA SF 09/15 – Incident. 1 “Routine” task, non-routine result: batteries stored sideways leak battery acid. 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+

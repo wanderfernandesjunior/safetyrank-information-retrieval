@@ -1,0 +1,95 @@
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+March 28, 2002 (estimate / reformatted 2014) 
+Washington, DC 
+ 
+
+         Inspections and Compliance Directorate 
+
+      Safety Alert 03-02 
+ 
+
+HANDHELD STEERING SWITCHES 
+
+Recently, while transiting inbound to the Tampa Bay Ship Channel, a tug and barge combination 
+carrying  approximately  227,000  barrels  of  mixed  petroleum  products  lost  steerage  and  ran  hard 
+aground.  The  incident  resulted  in  approximately  $225,000  dollars  of  property  damage  primarily 
+associated with the barge's double bottom tanks.  
+
+The  loss  of  steerage  was  caused  by  the  failure  of  a  hand-held  non-follow  up  remote  steering 
+switch.  These  devices  are  routinely  used  throughout  the  towing  industry  and  consist  of  a  two-
+button  switch  mounted  at  the  end  of  a  small  handle  attached  to  an  extendable  wire.  The  wire  is 
+connected  to  the  vessel's  rudder  control  circuitry.  By  depressing  either  of  the  two  buttons,  the 
+towing vessel operator is able to position the rudders and maintain desired steerage. This control 
+is not the only steerage device available to the operator. However when used, it permits movement 
+of  the  operator  within  the  pilothouse  area  enabling  him  or  her  to  ascertain  side  clearances  while 
+transiting narrow channels or during other periods of close maneuvering. 
+
+the micro switches thereby allowing the circuitry to return to normal. 
+
+The  steering  switch  is  a  Robertson  Model  F  ½.  The 
+assembly  contains  four  micro  switches  and  consists  of  two 
+pushbuttons  which  when  depressed  come  in  contact  with  a 
+two  sectioned  plate.  The  depressed  button  causes  one 
+section of the plate to shift against the actuating tabs of two 
+side-by-side micro switches. When this occurs, the steerage 
+circuitry  is  activated  and  the  rudders  shift  in  the  selected 
+direction. As the button is released, the inherent resilience of 
+the contact plate causes it to move off the actuating tabs of 
+
+During  the  casualty,  the  vessel  operator  was  unable  to 
+change  to  another  means  of  steering  prior  to  the  tug  and 
+tow  running  aground.  Afterwards,  an  inspection  of  the 
+steering  switch  revealed  that  one  section  of  the  plate 
+fractured  and  lodged  itself  between  the  other  section  and 
+the  actuating  tabs  of  the  micro  switches.  Although  the 
+buttons  were  released,  the  broken  section  of  the  plate 
+depressed  the  actuating  tabs  resulting  in  the  continued 
+hard right rudder positioning. The failure of the plate is most 
+probably related to metal fatigue caused by long-term cyclic 
+operation. 
+
+Following the incident, the tug's owners inspected six other 
+
+1 
+
+vessels of its fleet. Four vessels were discovered to have similar fractures in various stages on the 
+plate.  The  manufacturer's  equipment  manuals  were  void  of  any  preventative  maintenance 
+requirements and the vessel's operators did not have any routine scheduled maintenance plan to 
+inspect or replace worn components of the switch. 
+
+Persons  owning  and  operating  vessels  with  Robertson  hand-held  steering  switches  and  other 
+similarly operating equipment are strongly encouraged to: 
+
+Inspect the internal components of existing controls for signs of fatigue or fracturing.  
+
+• 
+•  Establish  a  preventative  maintenance  procedure  that  complies  with  the  manufacturer's 
+
+recommendations.  
+
+•  Ensure that equipment operators are knowledgeable in its usage, capable of inspecting its 
+components  and  completely  understand  what  immediate  actions  may  be  required  when 
+failure occurs.  
+
+•  Consider the use of an electrical disconnect switch located at or near the cable's connection 
+to the vessel's primary steerage circuitry. The use of a disconnect switch will permit isolation 
+of  the  cable  and  hand  held  unit  in  the  event  either  item  fails.  Disconnecting  would  enable 
+operation of another steering method.  
+
+This  safety  alert  is  provided  for  informational  purpose  only  and  does  not  relieve  any  domestic  or 
+international  safety,  operational  or  material  requirement.  Developed  by  the  Office  of  Investigations  and 
+Casualty Analysis. For questions or concerns please email hqs-pf-fldr-cg-inv@uscg.mil. 
+
+ 
+
+2 
+
+

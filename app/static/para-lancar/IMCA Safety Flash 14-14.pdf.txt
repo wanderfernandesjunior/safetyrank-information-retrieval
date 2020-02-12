@@ -1,0 +1,397 @@
+AB 
+
+ 
+
+IMCA Safety Flash 14/14 
+
+Safety Flash 
+
+  August 2014 
+
+These  flashes  summarise  key  safety  matters  and  incidents,  allowing  wider  dissemination  of  lessons  learnt  from  them.    The  information  below  has  been 
+provided in good faith by members and should be reviewed individually by recipients, who will determine its relevance to their own operations. 
+
+The effectiveness of the IMCA safety flash system depends on receiving reports from members in order to pass on information and avoid repeat incidents.  
+Please consider adding the IMCA secretariat (imca@imca-int.com) to your internal distribution list for safety alerts and/or manually submitting information 
+on specific incidents you consider may be relevant.  All information will be anonymised or sanitised, as appropriate. 
+
+A  number  of  other  organisations  issue  safety  flashes  and  similar  documents  which may  be  of  interest  to  IMCA  members.   Where  these  are  particularly 
+relevant, these may be summarised or highlighted here.  Links to known relevant websites are provided at www.imca-int.com/links   Additional links should 
+be submitted to webmaster@imca-int.com 
+
+ 
+
+1  High Potential Stored Energy Incident: Inner Buoyancy Module Clamp Failure During Removal   
+
+A member has reported an incident in which a clamp failed, allowing four objects to be ejected in various directions within 
+the worksite. One of the objects struck a rigger on the back. The incident occurred during riser recovery using a Vertical Lay 
+System (VLS).  As part of the riser recovery process various ancillary  items  were removed from the riser prior to it being 
+spooled through a tensioner system to a storage reel. Among the items to be removed were riser buoyancy modules which 
+consist of two outer shells and an inner clamp.  
+
+During this recovery process, the incident occurred  during removal of the final inner clamp. As a clamp securing strap was 
+being cut, it failed unexpectedly causing the four inner parts of the clamp to fly off in various directions. 
+
+Fortunately there were no significant injuries; however there was clearly potential for  two or more persons to  have been 
+seriously injured.   
+
+Figure 1: typical set up immediately prior to cutting band securing inner clamp 
+
+ 
+
+ 
+
+Figure 2: one of four blocks that make up 
+inner clamp, each approx. 20cm x 25cm x 
+
+35cm and weight circa 6 kg. 
+
+ 
+
+ 
+
+ 
+
+Figure 3: screen capture from a camera shows the blocks being ejected from the clamp arrangement on the riser. (yellow circles 
+
+indicate the moving blocks) 
+
+Our members’ on-going investigation has thus far revealed the following: 
+
+  Recent changes to the methodology for removing the clamp were not subject to a Management of Change process; 
+
+  These changes were not seen as significant enough to warrant the Management of Change process; however the changes 
+
+introduced hazards which had not been risk assessed; 
+
+  The sling fitted below the clamp was over tensioned causing an upward force to be applied and ultimately the clamp to 
+
+fail unexpectedly; 
+
+  The  change  to  use  the  sling  to  stop  the  clamp  falling  to  deck  once  cut  was  perceived  as  an  improvement  but  the 
+
+potential risks introduced by this change were not considered. 
+
+Our member noted that although this task (removing buoyancy modules) had been undertaken without incident hundreds of 
+times during this year alone, the incident acted as a reminder of the need to guard against complacency, remain vigilant at all 
+times and remain aware of our surroundings.  
+
+If  there  are  any  doubts  about  the  operation  take  the  time  to  stop  work  and  reassess  the  situation.  Any  changes  to 
+procedures should be subject to the Management of Change process regardless of how minor they may initially appear. 
+
+Our member took the following actions: 
+
+  Reassessed the availability of task procedures and risk assessments; 
+
+  Checked on how well crews understood the above and how they reflect the way the job is actually being carried out; 
+
+  Ensured  that  when  changes  are  made  to  improve  how  a  task  is  carried,  that  all  possible  negative  effects  are  fully 
+
+considered; 
+
+  Ensured that during development of new procedures, adequate consideration is given to getting input from end users. 
+
+Members may wish to refer to the following similar incidents involving the sudden and unplanned release of stored energy 
+(key words: released, stored, energy): 
+
+ 
+
+ 
+
+ 
+
+IMCA SF 15/08 – Incident 1: Crew member injured during ROV maintenance; 
+
+IMCA SF 17/08 – Incident 3: Stored energy – injury sustained whilst removing metal straps; 
+
+IMCA SF 07/14 – Incident 2: Injury caused by movement of wire rope under tension.  
+
+ 
+2  Near Miss: Incorrect Length Retaining Screws Fitted on Divers Helmet 
+
+A member has reported a case of incorrect length retaining screws being found fitted to an Ultrajewel 601  diver’s helmet, 
+exhaust  valve  cover  assembly.  This  was  discovered  by  vessel  crew  carrying  out  maintenance  on  a  newly  received  17C 
+Ultrajewel 601 helmet. The jewel cover (Item 17, Part Number: DM022), retaining  screws (Item 18, Part Number: FB240) 
+had been cut down in length and as a result did not give the required thread engagement. The correct length of the screw 
+was 35mm as indicated within the part description column.  
+
+Following the incident an inspection of the screws revealed that three of the four screws fitted had been cut back to varying 
+lengths. The loss of thread certainly severely reduced the amount of thread available to satisfactorily clamp the exhaust valve 
+cover assembly together. Loosening of the screws during use and the eventual separation of the  jewel cover assembly could 
+have caused a serious incident. 
+
+It is yet unknown how modified screws found their way into this location. All technicians maintaining diving equipment should 
+be  trained  and  competent  personnel.  Any  technician  who  regularly  maintains  during  equipment  will  understand  fully  the 
+importance of the jewel exhaust valve integrity during operation and will also be very familiar with the required grip range of 
+the screws involved. 
+
+ 
+
+ 
+
+Figure 1: showing screws highlighted in red 
+
+Figure 2: screws of varying lengths 
+
+Our member noted the following lessons: 
+
+  Only use correct screws when maintaining life support equipment and as supplied by the equipment manufacturer;  
+
+  Ensure that any held stock of the screw is adequately controlled to prevent migration into other stocked item locations 
+
+and that storage bins or bags are clearly marked with the manufacturer’s part number; 
+
+  Only trained and competent personnel should be maintaining life support equipment; 
+
+  Never modify manufacturer supplied parts. 
+
+ Members may wish to refer to the following similar incidents (key words: helmet, fitting, incorrect, threads, modified): 
+
+IMCA SF 11/05 – Incident 2: Near-miss during diving operations; 
+
+ 
+
+ 
+
+IMCA SF 02/07 – Incident 3: Kirby Morgan safety bulletin – helmet shell repair caution and incident 4 divex hse alert – valve 
+seat retainer – (both pertaining to inappropriate modification of divers helmets). 
+
+ 
+3  LTI: Trip Incident 
+
+A member has reported an incident in which  a  crew member fell over a trip hazard  on deck and broke both elbows as a 
+result. The incident occurred on a vessel in dock. The injured person was walking towards the stern area to assist the other 
+team  members  with  the  next  task.  En  route,  he  attempted  to  step  over  a  cargo  strap.  His  foot  caught  on  the  strap;  he 
+tripped, lost balance and fell forwards, hitting the deck. He instinctively raised his arms in an attempt to lessen the impact of 
+the fall, which resulted in him sustaining two broken elbows. 
+
+  There were no barriers in place or marker tape to highlight the hazard. Additionally, there was a safe route around the 
+
+Our members’ investigation revealed the following: 
+
+hazard which could have been taken; 
+
+highlighted individually;  
+
+  Although trip hazards, generally, were highlighted in the Risk Assessment and in the Toolbox Talk, this hazard was not 
+
+  Notwithstanding the lack of barriers and with a safe alternative route available, this incident included behavioural based 
+safety characteristics, with two crew members choosing to step over the cargo strap, rather than take the safe route. A 
+second  crew  member  stepped  over  the  strap,  just  before  the  injured  person  did,  and  was  uninjured.  Lack  of  an 
+accident/incident does not demonstrate adequate control.  
+
+Our member noted the following lessons: 
+
+  There were numerous failures, omissions and deliberate actions that led to the incident: 
+
+Inadequate  planning/risk  assessment  –  without  a  cordon  or  other  appropriate  barriers/markers,  this  hazard 
+presented an obvious risk, which was not specifically identified. Failure to adequately identify all hazards can result in 
+accidents 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Inadequate safety controls/warning signs 
+
+Lack of awareness/perception of risk 
+
+Lack of attention/due care/poor work practice 
+
+Poor decision-making/judgement 
+
+Lack of adequate Toolbox Talk, Risk Assessment and Hazard Identification.  
+
+Crews  should  remember  that  even  hazards  that  seem  to  present  a  trivial  risk  can  result  in  serious  injury,  unless  they  are 
+adequately controlled. 
+
+Figure: showing deck and cargo strap 
+
+ 
+
+Members may wish to refer to the following similar incident (key words: tripped, deck): 
+
+ 
+
+IMCA SF 04/09 – Incident 2: Hand injury caused when worker tripped over hazard. 
+
+ 
+
+ 
+4  LTI: Trip Incident during Routine Task   
+
+A member reported an incident which someone tripped over, fell and was injured whilst working on the deck of a vessel. 
+The incident occurred during work on the rear skid of the backfill plough on the starboard side of the vessel. The injured 
+person required something to kneel on. He proceeded to walk forward on the deck from the aft of the vessel towards the 
+deck skip. He then tripped over a 20Te pad eye, lost his balance and fell over, landing on his right shoulder and arm. The 
+injured person was taken to the vessel hospital; the vessel returned to port to allow the injured person to be transferred to 
+a shore-side hospital for further treatment. 
+
+Our  member  noted  that  this  was  the  second  serious  (LTI  level)  trip  incident  that  had  occurred  on  its  vessels  in  recent 
+weeks, and that there had been an alarming rise in incidents causing injury to personnel engaged in normal routine tasks. 
+
+Figure: showing deck where injured person tripped 
+
+ 
+
+Our member’s investigation revealed the following: 
+
+ 
+
+ 
+
+It  has  been  identified  that  the  pad  eye  was  not  actually  required  until  the  next  interim  mobilisation,  and  hence  the 
+incident could have been prevented; 
+
+Inadequate planning/risk assessment – without a cordon or other appropriate barriers/markers, this hazard presented an 
+obvious risk, which was not specifically identified. Failure to adequately identify all hazards can result in accidents; 
+
+ 
+
+Inadequate safety controls/warning signs; 
+
+  Lack of awareness/perception of risk; 
+
+  Lack of attention/due care/poor work practice. 
+
+Our member drew the following conclusions: 
+
+ 
+
+In  this  instance  there  was  a  lapse  of  attention  while  doing  something  completely  routine  which  had  been  done  many 
+times before, except that this time, the lapse had consequences; 
+
+  The key lesson is that we can never be complacent; otherwise, the ever present hazards on our worksites will catch 
+
+us out; 
+
+ 
+
+It is important that we all take personal responsibility for our own safety and ensure that we  do not put ourselves or 
+others ‘in the line of fire’; 
+
+  Active supervision and intervention must be at the forefront of our daily activities; 
+
+ 
+
+It is essential that everyone: 
+
+  Remains pro-active and maintains a clear focus on hazard identification and accident prevention 
+
+  Uses their own ability to be aware of the situation round about them and look where we place  our feet and where 
+
+we put our hands; 
+
+  The importance of focus on ‘routine work’ – where many incidents are occurring. 
+
+ 
+Members may wish to refer to the following similar incident (key words: tripped, deck) 
+
+ 
+
+IMCA SF 04/09 – Incident: 2 Hand injury caused when worker tripped over hazard. 
+
+5  High Potential Dropped Object Incident 
+
+A member reported an incident in which tools were dropped from height. The incident occurred during pick up of engineers 
+from a wind turbine tower. A wind farm workboat was ‘pushed up’ against a turbine to collect two technicians, who were 
+descending  the  tower.  As  they  did  so,  a  ratchet  and  two  sockets  fell  from the  work pouch  of  one  of  the technicians,  and 
+landed on the on the bow/deck of the vessel. The ratchet – weighing 0.5kg – and sockets fell approximately 15m and landed 
+centimetres from the crewman on board the vessel. There were no injuries and the technician then continued his descent 
+down the ladder to board the vessel.  All persons were wearing appropriate personal protective equipment (PPE). 
+
+Our member notes the following:  
+
+to make his descent; 
+
+  The technician was carrying tools unsecured in his pocket and subsequently the tools fell out of his pocket as he began 
+
+  The technician should not have been carrying tools on his person whilst descending the ladder but instead should have 
+
+put all tools in the bags provided to be winched up or down by the crane; 
+
+  There  had  been  no  checks  made  by  the  technicians  to  establish  whether  or  not  tools  were  being  carried  about  their 
+
+person before descending the ladder on the wind turbine tower. 
+
+Use of the DROPS calculator (see www.dropsonline.org) suggested that had these falling objects hit the crewman, it would 
+have resulted in a major injury and hospitalisation.  
+
+Our  member  recommended  that  ‘buddy  checks’  are  made  to  check  for  loose  objects  and  correct  use  of  PPE  before 
+technicians disembark onto vessels. 
+
+Members may wish to refer to the following incident where someone lost his life because he carried tools and equipment 
+whilst using a vertical ladder: 
+
+ 
+
+IMCA SF 02/14 – Incident 2: Fatality in ballast water tank – working at height in a confined space. 
+
+Members may wish to encourage circulation of the following safety promotional material: 
+
+ 
+
+ 
+
+IMCA SPP 04 – Avoiding dropped objects; 
+
+IMCA SPC 12 – Avoiding dropped objects. 
+
+6  Disposal of Pyrotechnics 
+
+The  Marine  Safety  Forum  has  published  the  following  safety  flash  regarding  an  incident  in  which  a  discarded  marine  flare 
+ignited at a depot where ship’s garbage is sorted out. Fortunately on this occasion there was no injury to personnel involved 
+but some damage was done to the conveyor belt. 
+
+Members  are  reminded  that  flares  and  other  special  wastes  should  not  be  disposed  of  within  the  ship’s  waste  receptacles 
+provided  by  the  port.  Disposal  of  Ship’s  flares  or  any  Marine  pyrotechnic  should  only  be  arranged  through  an  approved 
+provider for such services.  
+
+The safety flash can be downloaded from www.marinesafetyforum.org/upload-files//safetyalerts/msf-safety-flash-14.32.pdf. 
+
+Members may wish to refer to the following similar incident (key words: pyrotechnics) 
+
+ 
+
+IMCA SF 13/12 Incident 4: LTI caused by inadvertent activation of expired line throwing device. 
+
+7  Lifting and Rigging Plans 
+
+The  Australian  National  Offshore  Petroleum  Safety  and  Environmental  Management  Authority  (NOPSEMA)  published  the 
+following safety flash regarding  the importance of lifting and rigging plans in safe lifting.  Recent NOPSEMA investigations of 
+dangerous occurrences  during non-routine lifting and rigging activities, which resulted  in dropped objects and failed  rigging 
+equipment, have identified a trend in the absence of effective lifting and/or rigging plans for an operation or partial completion 
+of a plan which was considered ineffective. 
+
+ 
+Members may wish to refer to the following similar incidents in which inadequate lift planning was a contributory factor: (key 
+words lift, plan, planning): 
+
+IMCA SF 17/08 – Incident 4: Failure of webbing strop during lifting operations; 
+
+IMCA SF 12/11 – Incident 4: Near miss: diver working under suspended load; 
+
+IMCA SF 10/13 – Incident 1: High potential near miss – lifting equipment failure. 
+
+Members are encouraged to reiterate the importance of lifting planning to their personnel. Further information on lifting and 
+lift plans can be found from IMCA SEL 019 – Guidelines for lifting operations.  
+
+The safety flash can be downloaded from www.nopsema.gov.au/assets/alert/Safety-Alert-59-Lifting-and-Rigging-Plans.pdf. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+

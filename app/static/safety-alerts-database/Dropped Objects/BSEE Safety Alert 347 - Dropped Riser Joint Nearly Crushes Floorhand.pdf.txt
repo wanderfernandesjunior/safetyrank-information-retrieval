@@ -1,0 +1,103 @@
+ 
+
+ 
+ 
+
+   
+
+   
+
+SAFETY ALERT 
+ 
+
+ 
+
+Safety Alert No. 347 
+8 March 2019 
+
+ 
+
+ 
+       
+
+ 
+            
+
+                      
+ 
+
+ 
+
+Contact: Jason Mathews 
+Phone:  (504) 731-1496 
+
+Dropped Riser Joint Nearly Crushes Floorhand 
+
+          
+            Drilling riser being lifted with hydraulic running tool                                 Riser after falling from hydraulic running tool 
+
+                        
+
+ 
+
+                                 
+
+On 9 January 2019, a drilling contractor working on a rig in the Gulf of Mexico was lifting a 
+riser joint with a Hydraulic Running Tool (HRT) and travel block.  The riser joint 
+disengaged from the HRT and fell to the drillfloor.  Another floorhand noticed the riser 
+falling and was able to evacuate the area prior to impact.  There were no injuries to 
+personnel reported.  Damage assessment to equipment is currently ongoing. 
+ 
+The HRT initially appeared to lock in place above the riser joints locking profile. The HRT 
+lock dogs were undamaged, and no shearing appears to have occurred.  However, the 
+lock dogs appear to have disengaged from the riser locking profile, or were never 
+engaged into the locking profile, at the time of the incident. After further investigation, the 
+lockout ring was found in the “unlocked” position, indicating the lock dogs were not fully 
+engaged, and it was determined that the indicator rods prevented the lockout ring from 
+moving into the locked position. 
+ 
+The HRT likely was not inserted into the riser joint at the required depth and the lock dogs 
+did not engage the riser joint’s locking profile. The preliminary inquiry shows the indicator 
+rods likely were not checked for full travel to the locked state and no confirmed attempt was 
+made to move the lockout ring to the locked position to verify proper connection. 
+ 
+BSEE has records of similar incidents of dropped risers from riser lifting tools in 2017 and 
+2018.  In each incident, no personnel were injured, but there was reportable damage to 
+equipment impacted by the riser. 
+ 
+ 
+
+ 
+ 
+Therefore, BSEE recommends that operators consider the following: 
+ 
+
+•  Ensure all personnel involved in riser installations review all manufacturer’s 
+
+recommended attaching and running procedures for HRTs and risers.   
+ 
+
+•  Ensure designated personnel confirm that the hydraulic locking function has fully 
+
+actuated with visual verification of indicator rods and manual lockout. 
+
+•  Ensure the JSA, or procedure for the task of lifting the riser joint, effectively captures 
+
+all applicable hazards and mitigation measures, including the confirmation that the 
+locking function has successfully activated before continuing with the job. 
+
+•  Prior to any lifts made by an HRT, all personnel on the rig floor, including the 
+
+auxiliary floor, should clear the floor area. 
+
+ 
+
+                                                        -- BSEE-- 
+
+A Safety Alert is a tool used by BSEE to inform the offshore oil and gas industry of the 
+circumstances surrounding an accident or near miss. It also contains recommendations 
+that should help prevent the recurrence of such an incident on the Outer Continental 
+Shelf.  
+ 
+
+

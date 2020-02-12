@@ -1,0 +1,123 @@
+www.aiche.org/ccps
+
+http://www.aiche.org/CCPS/Publications/Beacon/index.aspx
+
+Messages for Manufacturing Personnel
+
+www.iomosaic.com
+
+Reporting and Investigating Near Misses
+
+March 2018
+
+On January 28, 1986 the US Space Shuttle Challenger exploded 
+
+1
+
+2
+
+This issue sponsored by
+
+73 seconds after launch from Cape Canaveral, Florida (1, 2). The 
+Challenger was destroyed and all seven crew members were lost. 
+The immediate cause was a leak of hot gas from a joint in the solid 
+fuel rocket boosters. The hot gas impinged on the hydrogen fuel 
+tank causing it to rupture and explode. Adjoining segments of the 
+solid fuel rocket boosters were sealed with primary and secondary 
+"O-rings" in the joints. Both seals on a joint failed because of low 
+temperature on the launch day. There had been several prior 
+launches in which the primary seal had failed, but the secondary 
+seal successfully preserved the solid fuel rocket integrity. These 
+prior failures were near misses that were not deemed serious 
+enough for investigation.
+
+Failure to report and investigate near misses has been a factor in 
+process industry incidents as well. For example, on April 8, 1998 a 
+runaway reaction overpressurized a 2000 gallon batch reactor (3) 
+at a plant in New Jersey. The explosion and fire (4) injured 9 
+workers, 2 seriously. Operators were unable to control the batch 
+temperature using existing procedures and available cooling. In at 
+least 6 previous batches, operators had been unable to control the 
+temperature below the specified maximum, but the temperature did 
+not get high enough for a runaway reaction. These prior near-miss 
+incidents were not investigated.
+
+Solid fuel rockets
+
+Leaking solid fuel 
+
+rocket joint
+
+Shuttle Challenger
+
+3
+
+4
+
+Do you know?
+
+ Following a major process safety incident, investigators 
+
+often find that there were previous warnings and near 
+misses. If these had been reported, investigated, and 
+investigation findings implemented, the major incident 
+could have been prevented.
+
+ We would all prefer to learn from near misses, where there 
+
+were no injuries and damage was not significant, rather 
+than from serious incidents.
+
+ Near misses cannot be investigated if nobody reports them! 
+Near misses will not be reported if people fail to recognize 
+the incidents as near misses, or if they do not understand 
+their significance.
+
+ Safe process operation requires control of your process. If 
+
+you are unable to control your process within specified 
+safe operating limits for any critical process safety 
+parameter you must recognize this as a near miss.
+
+ Successful activation of any safety device or backup 
+
+device should be considered a near miss. What if the safety 
+or backup device had failed?
+
+What can you do?
+
+ Understand your plant’s incident and near miss 
+reporting and investigation system. If your plant 
+doesn’t have such a system, suggest to your 
+management that they implement a system.
+ Report all near misses, including failure to 
+
+control your process within safe operating limits 
+and operation of safety or backup systems.
+
+ Don’t assume that supervisors, managers, and 
+
+technical staff will observe near miss events by 
+reading shift logs, instrument records, or other 
+process data. A plant generates a lot of data, and 
+these events might be missed. If you recognize a 
+near miss, it is your responsibility to make sure 
+management is aware of it.
+
+ If you are not sure if something is a near miss, 
+report it anyway. Also, think about “how bad 
+could it have been” to help identify a near miss.
+ Volunteer to participate in investigations of near 
+
+misses and incidents in your plant.
+
+Your plant is talking to you through near misses – is anybody listening?
+
+©AIChE 2018. All rights reserved. Reproduction for non-commercial, educational purposes is encouraged. However, reproduction for any 
+commercial purpose without express written consent of AIChE is strictly prohibited. Contact us at ccps_beacon@aiche.org or 646-495-1371.
+
+The Beacon is usually available in Afrikaans, Arabic, Catalan, Chinese, Czech, Danish, Dutch, English, Filipino, French, German, Greek, Gujarati, Hebrew, Hindi, Hungarian, Indonesian,  
+
+Italian, Japanese, Korean, Malay, Marathi, Mongolian, Persian (Farsi), Polish, Portuguese, Romanian, Russian, Spanish, Swedish, Telugu, Thai, Turkish, Urdu, and Vietnamese.
+
+

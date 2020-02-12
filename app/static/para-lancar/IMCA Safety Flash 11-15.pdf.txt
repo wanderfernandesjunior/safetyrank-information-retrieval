@@ -1,0 +1,308 @@
+AB 
+
+ 
+
+IMCA Safety Flash 11/15 
+
+Safety Flash 
+
+August 2015 
+
+These flashes summarise key safety matters and incidents, allowing wider dissemination of lessons learnt from them.  The information below has been provided 
+in good faith by members and should be reviewed individually by recipients, who will determine its relevance to their own operations. 
+
+The effectiveness of the IMCA safety flash system depends on receiving reports from members in order to pass on information and avoid repeat incidents.  
+Please consider adding the IMCA secretariat (imca@imca-int.com) to your internal distribution list for safety alerts and/or manually submitting information on 
+specific incidents you consider may be relevant.  All information will be anonymised or sanitised, as appropriate. 
+
+A number of other organisations issue safety flashes and similar documents which may be of interest to IMCA members.  Where these are particularly relevant, 
+these may be summarised or highlighted here.  Links to known relevant websites are provided at www.imca-int.com/links   Additional links should be submitted 
+to webmaster@imca-int.com 
+
+ 
+
+1  Lost  Time  Injury  (LTI)  and  Restricted Workday  Case  (RWC)  following  Failure  of  Diving  Bell 
+
+Door System 
+
+A member has reported an incident in which two divers were injured following the failure of a diving bell door.  The incident 
+occurred following some bell internal maintenance and surface bell checks, when the bell was being pressurised back onto the 
+saturation chamber system at a depth of 130 feet to allow the two divers to transfer under pressure back to the saturation 
+chamber.   
+
+During final checks, dive control were informed by the Life Support Technician (LST) that the seal between the transfer under 
+pressure (TUP) module and the trunk was not possible as he suspected that the door was not “dogged” tight enough shut.  
+The divers were informed, in the bell, of the situation with the top door of the TUP and that the internal bell door would have 
+to come back up so that the dogs on the TUP could be  properly secured.  Minutes later, the divers were told by the dive 
+supervisor the bell door was about to be opened again.  As the bellman was opening the bell door and was about to secure it 
+with the safety chain, the second diver stepped on the rim of the opening before the safety chain was secured.  At this instant 
+the door fell onto his feet.  The dive superintendent was informed instantly that there had been a failure and the diver’s feet 
+were trapped.  
+
+The bellman tried to lift the door off the injured diver’s feet using the diver recovery lifting equipment (mazdam), but due to 
+the weight of the door he was unable to lift it.  In attempting to lift the door with the mazdam, the bellman wrapped the rope 
+around his right hand to give extra leverage.  At this point, the second diver grabbed the same rope section below the divers 
+hand and pulled sharply downwards, trapping the bellman’s hand in the rope, causing injury to the hand. 
+
+    
+
+ 
+
+ 
+
+ 
+It took around thirty minutes to finally release the diver’s feet before he could be transferred into the system for treatment. 
+An initial evaluation of both divers was undertaken and it was clear that one of the divers had suffered significant trauma to 
+both feet whilst the other suffered a serious injury to his right hand.  The emergency response team were contacted ashore 
+and medical advice was sought.  The divers were decompressed over the next two days and subsequently transferred to a 
+hospital ashore for examination and subsequent treatment.  Diver one had suffered fractures and soft tissue damage to both 
+feet and diver two had suffered severe bruising with swelling and tissue damage to his right hand. 
+
+Our members’ investigation noted the following: 
+
+  The hydraulic ram used to open and close the door had failed; 
+
+  When the ram cylinder was opened, it was identified that the shaft had broken internally at the end where the locking nut 
+holds the piston onto the shaft causing the shaft to pull freely from the cylinder body.  This resulted in the door dropping 
+down in an uncontrolled manner; 
+
+  The hand operated hydraulic Enerpac pump had a greater operating pressure than that of the ram and relied on a pressure 
+
+relief valve to prevent over-pressurisation; 
+
+  Additionally, the failure of the door component prevented free movement of the door during the bellman’s attempt to 
+
+raise it so as to release the trapped diver’s feet. 
+
+Our member noted the following causes: 
+
+Foot Injuries (lost time injury (LTI)) 
+
+  Direct Cause: 
+
+ 
+
+ 
+
+ 
+
+  Underlying Root Causes: 
+
+Failure to secure the door in an open position 
+
+Incorrect placement of divers feet 
+
+Failure of the hydraulic ram piston rod threaded end at the locking nut inside the ram, resulting in the ram piston rod 
+detaching from the unit, thus allowing the door to fall; 
+
+  No Planned or Preventive Maintenance System in place for the hydraulic ram 
+
+ 
+
+Safety Risk Assessment for hydraulic use not applied or assessed 
+
+  No secured guard around trapment area to prevent incorrect foot placement 
+
+ 
+
+Single point failure, no stage latchment of door during raising operation, preventing door closing 
+
+  Too much hydraulic pressure facilitated by hand pump to ensure opening of door; 
+
+  A factor in these root causes was that there was a design failure of the door securing ram system, having a single point 
+
+failure with no backup.  
+
+Hand Injury  
+
+  Direct causes:  
+
+  Divers hand placed in a rope bite; 
+
+ 
+
+Indirect causal factors:  
+
+  Human error and reaction to emergency situation 
+
+ 
+
+Lack of induction training regarding correct equipment usage and potential hazard.  
+
+This was a very nasty incident, and similar incidents have occurred in the industry in the past.  Ensuring that secondary systems 
+are  in  place  to  prevent  unplanned  closure  of  the  door,  and  ensuring  that  door  hydraulic  systems  are  included  in  planned 
+maintenance schedules, will go a long way to preventing recurrence.  
+
+Members may wish to refer to the following similar incidents (key words: ram, bell, door): 
+
+IMCA SF 05/04 – Near miss – internal bell door [fell shut narrowly missing bellman’s feet]; 
+
+IMCA SF 07/07 – Failure of chamber door hydraulic actuator; 
+
+IMCA SF 16/09 – Bell bottom door hydraulic operating system failure. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+2  Near Miss – Broken Chain on Sling of Personnel Lifting Basket  
+
+A member has reported a near miss incident in which a chain link snapped under load.   The incident occurred during a six 
+monthly on-board lifting and rigging inspection.   A deck foreman was required to arrange the lifting of an empty personnel 
+basket from one place to another on the vessel.  The basket was connected to the crane block, the deck foreman gave the 
+command to lift, and as soon as the crane took up the full load of the basket, one of the chain links from the main chain sling 
+of the basket snapped.  There were no injuries.  
+
+    
+
+             
+
+ 
+
+  
+
+ 
+
+Our member’s investigation revealed the following:  
+
+  The configuration of the rigging (the “bungee” was shorter than the chain) created a space or belly during storage, with 
+water trapped inside the plastic cover around the chain.  Accelerated corrosion occurred, which may have contributed to 
+chain failure.  Corrosion, shock load and/or chain manufacturing process are potential causes for rigging failure; 
+
+  The sub-contractor doing the rigging inspection was not accredited by the manufacturer of the personnel basket to conduct 
+inspections of such baskets.  The internal procedure they used was a for steel-made work basket, and hence not applicable 
+to a personnel basket; 
+
+  The last load test on this particular rigging and basket had been performed eighteen months before, whereas the load test 
+
+should have taken place every sixth month as per manufacturer recommendation; 
+
+  The inspection company did not remove the plastic protection cover to inspect the  chain, which meant that the visual 
+
+inspection was not complete.  
+
+Our member took the following actions: 
+
+ 
+  Removed protection cover from rigging and performed thorough visual inspection; 
+
+  Checked that the storage configuration of the rigging does not allow water entrapment and associated corrosion; 
+
+ 
+
+Investigated the possibility of replacing the plastic protection cover by an easy-to-remove cover type, for easier inspection; 
+
+  Checked  personnel  basket  user  manual  and  reviewed  if  rigging  inspection  sub-contractor  was  meeting  manufacturer 
+
+recommendations during last recertification campaign. 
+
+Members may wish to refer to the following similar incidents (key words: corrosion, failure): 
+
+ 
+
+ 
+
+ 
+
+IMCA SF 09/07 Incident. 3 – Lifting rigging on ‘frog’ personnel transfer capsule; 
+
+IMCA SF 01/12 – Dropped object: injury resulting from failure caused by corrosion; 
+
+IMCA SF 09/14 Incident. 1 – Serious dropped object incidents. 
+
+3  Uncontrolled Exposure to Hand-Arm Vibration (HAVS) 
+
+The UK Health and Safety Executive (HSE) has published a recent report of prosecution of a company where there had been 
+uncontrolled exposure to hand-arm transmitted  vibration.  The company had “reckless  disregard for their employees’ health”; 
+HAVS is a serious, permanent condition which frequently  has lifelong consequences.   For up to 25 staff working in  motor 
+vehicle repair workshops, there were no restrictions on the type of hand-held power tools employees used or the length of 
+time they were allowed to operate them. 
+
+In the notice, published at http://press.hse.gov.uk/2015/coach-builders-reckless-disregard-for-workers-health/ HSE also noted 
+that  the  company  had  no  system  to  replace  those  tools  that  were  old  or  worn  out,  and  there  was  a  lack  of  maintenance 
+meaning  that  tools  were  not  running  at  the  optimum  level  to  minimise  vibration.  Workers  were  not  provided  with  any 
+information or instruction on how to minimise the risk from vibration and there was no health surveillance programme to 
+check for early signs of HAVS among the workforce.  
+
+Members will be aware that the risks associated with the use of hand-held power tools and of developing HAVS and carpel 
+tunnel syndrome are well recognised in the industry. IMCA publishes a pocket safety prompt cards, including IMCA SPC 17 – 
+Hand-arm vibration. 
+
+4  Mooring Line Failure Resulting in Serious Injury 
+
+The UK Marine Accident Investigation Branch has published a safety bulletin on an incident in which the failure of a mooring 
+line resulted in a deck officer suffering serious head injuries.   He was struck by a mooring line that parted during berthing 
+operations.  The injured officer, who was in charge of the vessel’s forward mooring party, was airlifted to a specialist head 
+injuries trauma unit for emergency surgery. 
+
+The vessel had been declared all fast alongside about forty minutes prior to the incident and  the attending tugs were let go. 
+The vessel subsequently moved out of position in the gusty wind conditions during which time the mooring teams were fitting 
+chafing guards to the lines.  As the tugs had already been released, the master instructed the officer in charge of the forward 
+mooring party to tension the forward spring lines to warp the vessel back into the correct position.   The officer in charge 
+positioned himself aft of the forward springs’ port-shoulder roller fairlead, and positioned a second crewman forward of him 
+in order to relay his orders to the winch operator.  As the winch operator attempted to heave in on the springs, the winch 
+repeatedly stalled and slipped under load.  
+
+After about ten minutes, one of the spring lines began to rattle and creak, and then suddenly parted.  The section of the line 
+between the break and the port-shoulder roller fairlead struck the officer in charge on his head as it whipped back before going 
+overboard through the fairlead. 
+
+Following the accident, the Marine Accident Investigation Branch (MAIB) commissioned a series of tests and trials designed to 
+measure the elongation and snap-back characteristics of the mooring lines used on board the vessel in question.  Some short 
+video clips of these trials are available with an accompanying voice over – see here.  
+
+For the full report click here. 
+
+Members may wish to review the following similar incidents (search phrase: snap-back): 
+
+ 
+
+ 
+
+IMCA SF 04/09 Incident. 3 –  Mooring incidents (from the UK P&I Club);  
+
+IMCA SF 12/14 Incident. 4 – LTI during mooring operations. 
+
+ Near Miss Dropped Object: Protector Plate Drops from Crane 
+
+The Marine Safety Forum has published a safety flash regarding a recent near miss dropped object incident, in which parts fell 
+from a crane.  The incident occurred during lifting operations; the crane operator noticed an object falling from the crane.  The 
+object turned out to be a piece of nylon protector plate from the crane boom.  Weight 0.95 kg, drop 40 m.  There was no 
+one working in the area so no one was harmed and no damage was done.  Had such an object hit someone it would have 
+caused a fatality.  
+
+The safety flash can be downloaded from www.marinesafetyforum.org/upload-files//safetyalerts/msf-safety-flash-15-23.pdf. 
+
+Members may wish to review the following similar incidents (search words: crane, dropped): 
+
+IMCA SF 01/12 Incident. 1 – Near miss: crane hook block dropped to deck;   
+
+IMCA SF 02/15 Incident. 1 – Dropped object near miss: falling crane block; 
+
+IMCA SF 10/15 Incident. 1 – Near miss: dropped object fell from crane boom. 
+
+This incident and the previous incidents in recent years serves to highlight the need to pay further careful attention to crane 
+maintenance and to the clear risk of parts falling from the crane itself, in addition to managing the risk of objects falling from 
+the load. 
+
+ 
+5 
+
+ 
+
+ 
+
+ 
+
+  
+
+

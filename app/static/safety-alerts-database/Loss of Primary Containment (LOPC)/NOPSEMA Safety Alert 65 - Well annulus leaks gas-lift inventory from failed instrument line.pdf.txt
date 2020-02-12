@@ -1,0 +1,138 @@
+Safety alert 65
+
+July 2017
+
+Well annulus leaks gas-lift inventory from failed instrument line
+
+What happened?
+
+Failure of an instrument tubing line connected to a wellhead gas lift line resulted in the release of a significant 
+volume of hydrocarbon gas from the production annulus over a time period of 3.5 hours, elevating the risk on 
+the facility during the release. Although initiation of the surface shutdown also closed the shutdown valve 
+fitted to the gas lift line, this did not isolate the flow of hydrocarbon gas from the production annulus as the 
+failed instrument line had been located on the gas lift line between the wellhead production annulus and gas 
+lift line shutdown valve, see Figure 1.
+
+Figure 2 provides an example P&ID that shows the instrument take-off point located downstream of the UV 
+(Multivariable) shutdown valve.
+
+Figure 1 – Location of failed instrument line (dashed 
+line) fitted to gas lift line between the production 
+annulus wing valve and gas lift shutdown valve.
+
+Figure 2 – Example P&ID drawing showing the instrument 
+take-off point (arrow) incorrectly located downstream of the 
+UV shutdown valve (circled).
+
+Good design requires that the gas lift shutdown valve (SDV) 
+should be as close as practicable to the wellhead with any 
+fittings to the gas lift line on the upstream side of the gas lift 
+SDV ensuring a barrier to gas in the production annulus in the 
+event of any failure of fitting.
+
+What could go wrong?
+
+Locating the fitting for the instrument tubing line between the production annulus wing and gas lift shutdown 
+valve created the potential for an unrestricted pathway from the failed instrument tubing line to the full 
+volume of the production annulus. “This configuration is contrary to international guidelines and standards” 
+(see References).
+
+In this configuration, leaving the manually operated wing valve open to the production annulus to allow daily 
+readings of the pressure in the production annulus resulted in an unrestricted pathway from the production 
+annulus to the failed instrument tubing line as the shutdown valve was not able to safely isolate the gas 
+inventory of the production annulus.
+
+Key lessons
+
+The following should be considered:
+
+
+The risk for an uncontrolled gas release of a significant volume of hydrocarbon gas from the production 
+
+National Offshore Petroleum Safety and Environmental Management Authority
+
+A548499    
+
+July 2017
+
+1 of 2
+
+Safety alert 65
+
+
+
+
+
+annulus of gas lift production wells requires that effective barrier controls are in place.
+Valve fittings, instrumentation and small bore tubing fitted to wells that may be subject to movement due 
+to thermal change from production or wave motion have the potential to be damaged or suffer an 
+integrity failure which may lead to an unrestricted pathway for release of hydrocarbon gas.
+
+ Damage or loss of integrity to valve fittings, instrumentation and small bore tubing fitted to wells may 
+
+compromise the integrity of the secondary barrier envelope and could lead to a situation of relying on a 
+single barrier envelope to control the well reservoir.
+
+ Maintaining well integrity with a two barrier philosophy is considered good industry practice.
+ Gas lift line shutdown valves (SDV) should be fitted as close as practicable to the wellhead and the SDV 
+
+should be activated with the same  signal as the surface safety valve to effect isolation of the gas lift line 
+and any small bore take-offs.
+Keeping abreast of relevant industry literature: the risks of significant gas lift gas release had been 
+identified previously. Refer to publications referenced below.
+
+Schedule 3 of the Offshore Petroleum and Greenhouse Gas Storage Act 2006 places specific duties on the 
+operator of a facility to take all reasonably practicable steps to ensure that any plant, equipment, materials 
+and substances at the facility are safe and without risk to health.
+
+Facility operators, employers, and persons in charge of work activities should review their wellhead 
+configurations, with regard to the above information.
+
+The legislation
+
+References
+
+The following publications provide further information on the issue of gas lift well integrity:
+
+2016, Oil & Gas UK, Well Life Cycle Integrity Guidelines ‘Configuration should be such that a sidearm valve can 
+be closed to effect isolation should the instrumentation or gauge assembly be knocked off the wellhead’, ‘If 
+wells are gas lifted, the surface wellhead should be designed to reduce the risk of loss of ‘A’-annulus 
+containment to ALARP.’ Ref. Oil & Gas UK, Well Life Cycle Integrity Guidelines, Issue 3 March 2016, ISBN 1 903 
+004 71 6
+
+2014, Zakum Development Company identified for gas lift production and injection wells  ‘… the risk of venting 
+significant lift gas volumes to atmosphere in a manned area through dropped objects or other failures.’  Ref. 
+2014, Newton. D, Odom. W, Burchell, G, Kofoed. C, Surface Safety Systems Enhances Gas Lift Safety and 
+Optimizes Surface Line Architecture on Island Wells, SPE 171748
+
+2013, NORSOK standard D-010 Well integrity in drilling and well operations section 7.7.2 Gas lift wells “The 
+large volume of pressurised hydrocarbon gas in both surface lines and in the A-annuli represents a substantial 
+risk to a platform. The volume of release hydrocarbon gas due to accidental damage to the tree, wellhead or 
+surface lines shall be minimized. 2013, NORSOK standard D-010 Rev 4. June 2013
+
+2011, Offshore Magazine published an article ‘…many major operating companies are looking to eliminate the 
+well integrity compromises that have previously existed in their gas lift well designs, with particular regard to:  
+the risk of high pressure gas venting from the annulus in the event that the HP lift gas flowline or wellhead 
+fixture to the annulus is damaged.’ Ref. 2011, Brodie. A, Petroleum Technology Co. Gas-lift valve design 
+addresses long-term well integrity needs, Offshore Magazine
+
+2007, BP Clair Platform design review identified ‘…integrity of the tree/wellhead assemblies and to include 
+both annular safety valves and integral wellhead gas lift check valves.   …gas in the annulus is isolated to the 
+maximum possible extent should a failure of the gas lift line and / or connection at the wellhead occur.’  Ref. 
+Tam. T, Coleman. S, 2007, The BP Clair Platform: A Case Study of Application of Layout in the Control of 
+Explosion Hazards, IChemE Symposium Series No. 153.
+
+Contact
+
+For further information email alerts@nopsema.gov.au and quote Alert 65. NOPSEMA safety alerts are 
+published at www.nopsema.gov.au/safety/safety-alerts.
+
+National Offshore Petroleum Safety and Environmental Management Authority
+
+A548499    
+
+July 2017
+
+2 of 2
+
+

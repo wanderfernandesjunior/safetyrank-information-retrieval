@@ -1,0 +1,201 @@
+AB(cid:31)
+
+ 
+
+IMCA Safety Flash 16/08 
+
+Safety Flash
+
+October 2008 
+
+These  flashes  summarise  key  safety  matters  and  incidents,  allowing  wider  dissemination  of  lessons  learnt  from  them.    The  information  below  has  been 
+provided in good faith by members and should be reviewed individually by recipients, who will determine its relevance to their own operations. 
+
+The effectiveness of the IMCA safety flash system depends on receiving reports from members in order to pass on information and avoid repeat incidents.  
+Please consider adding the IMCA secretariat (imca@imca-int.com) to your internal distribution list for safety alerts and/or manually submitting information 
+on specific incidents you consider may be relevant.  All information will be anonymised or sanitised, as appropriate. 
+
+A  number  of  other  organisations  issue  safety  flashes  and  similar  documents  which  may  be  of  interest  to  IMCA  members.    Where  these  are  particularly 
+relevant, these may be summarised or highlighted here.  Links to known relevant websites are provided at www.imca-int.com/links   Additional links should 
+be submitted to webmaster@imca-int.com 
+
+ 
+
+1  Laptop Battery Fire and Explosion 
+
+A  member  has  reported  an  incident  which  highlights  the  potential  hazards  of  the  lithium-ion  batteries  used  in  laptop 
+computers. 
+
+The  incident  occurred  offshore  in  the  accommodation  on  a  member’s  vessel.    The  batteries  of  a  popular  brand  of  laptop 
+computer  (Dell  Inspiron  6000)  exploded  while  that  laptop  was  not  in  use  (it  was  being  charged  at  the  time  with  an 
+appropriate proprietary battery charger).  The owner of the computer was present at the time of explosion.  The person 
+lifted  up  the  computer  and  unplugged  it  immediately  after  flames  and  smoke  came  out.    The  batteries  fell  out  of  the 
+computer on to the floor of the cabin, which suffered slight fire damage as a result.  A fire extinguisher was then used on the 
+smouldering  batteries.    The  vessel  fire  alarm  was  triggered  by  the  event.    Personnel  involved  in  the  incident  responded 
+correctly; due to their actions an escalation was prevented.  No one was injured. 
+
+It  will  be  noted  that  laptop  battery  fires  have  happened  on  occasions  in  the  past  when  Dell  found  it  necessary  to  recall 
+certain of its batteries because of the risk of explosion, fire and injury.  Several other producers of laptops and the associated 
+batteries – Sony, Toshiba, Apple, HP and Fujitsu – have all encountered similar problems. 
+
+Clearly the outcome of such a battery fire can be severe.  In slightly different circumstances this incident could easily have 
+resulted in a serious fire. 
+
+The following preventive actions have been suggested by the company: 
+
+  Never leave charging laptops unattended – either at home or at work; 
+
+ 
+
+If you are not sure of your own laptop (battery) check the manufacturer’s website or contact the store where it was 
+bought for information. 
+
+2  Pallet Lifter Failure 
+
+A member has reported an incident in which a pallet lifting frame suffered a catastrophic failure.  Various stores were being 
+lifted onboard a company vessel during a recent mobilisation.  A crate, containing a crane motor, was being lifted from the 
+quayside  on  to  the  vessel  deck;  during  this  operation  the  pallet  lifter  being  used  suffered  a  catastrophic  failure  as  the  lift 
+started.  No one was injured. 
+
+The crate was observed to be tagged as weighing 1.6Te, and with a SWL of 2Te the pallet lifter was deemed suitable for the 
+proposed  lift.    The  pallet  lifter  was  brought  into  place  and  the  crate  strapped  around  it.    The  lift  was  then  started,  with 
+personnel standing clear, and when it was approximately 1m above the quayside the pallet lifter failed and the load dropped 
+back to the quayside. 
+
+The pallet lifter had failed at a point on the stem near the forks, where it had buckled through 90°.  The pallet lifter was 
+disconnected and left on the quayside and the crate re-rigged and successfully lifted onboard. 
+
+Personnel involved in the lifting operation failed to inform vessel management at the time of the incident but later a report 
+was  made,  though  this  was  not  received  by  the  relevant  vessel  personnel  until  the  following  day,  when  an  onboard 
+investigation was begun. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Investigation proved difficult as most of the evidence had been removed.  The crate had been sent off with the garbage and 
+the tag indicating the weight of the load was not kept.  The weight of the crane motor (the load which was dropped) was 
+established at 1.4Te, proving that the pallet lifter had failed below its SWL of 2Te. 
+
+Further  investigation  of  the  pallet  lifter  revealed  an  area  of  corrosion  on  the  underside  of  the  forks  where  a  hole  had 
+appeared.  In addition the small hole on the otherwise smooth plate end of the cross beam indicated that deterioration was 
+taking place inside and working outwards and would not have been evident unless the pallet lifter had been turned on its side.  
+The pallet lifter had been inspected four months previously during the six-monthly rigging inspections and the corrosion was 
+not identified.  With the extent of the corrosion, some signs would have been evident during this inspection but were not 
+spotted or highlighted. 
+
+Onboard personnel who had been using the equipment had also failed to identify that serious corrosion of the pallet lifter 
+had occurred. 
+
+The following conclusions were drawn: 
+
+  The corrosion had weakened the structure to such an extent that the pallet lifter could not operate within its working 
+limits.  This highlights the fact that reliance on rigging certification is not enough and a regime of continued close and 
+thorough monitoring of lifting equipment should be maintained at all times; 
+
+  The actual weight of the crate was not accurately known at any stage and this led to confusion.  It was never verified at 
+any stage prior to being lifted.  The manifest detailed the weight at 3.2Te, the ID plate on the motor detailed the weight 
+at 2.6Te, the tag showing 1.6Te was never in place as this was confused with an ID number and the actual weight was 
+1.4Te. 
+
+ 
+
+It is imperative that weights are accurately known prior to carrying out a lift; 
+
+  The investigation was seriously hindered by the incident not being reported when it occurred; 
+
+  The pallet lifter inspection regime failed to identify the extent of the corrosion. 
+
+ 
+
+The following actions were recommended: 
+
+  Vessel crews should thoroughly check the condition of any pallet lifting devices they have onboard, with particular focus 
+on the corrosion experienced by this unit.  Any devices found to be in an unsatisfactory condition should be removed 
+from service immediately and quarantined; 
+
+  Failure of lifting equipment should be reported immediately rather than 24 hours after occurrence, in order to enable an 
+
+effective investigation to be carried out; 
+
+  Personnel involved in lifting operations should ensure that the weight of a load is accurately known prior to starting a lift; 
+
+if there is any doubt or the information is not provided, the lift should be delayed until accurate information is found; 
+
+The pallet lifter inspection records and process were investigated separately as a result of this incident. 
+
+3  Fire Risks of Intermediate Bulk Containers (IBCs) 
+
+Members’  attention  is  drawn  to  a  recent  communication  from  the  UK  Health  &  Safety  Executive  (HSE)  regarding  the  fire 
+performance of composite or plastic IBCs.  These are widely used for storage and transportation of combustible liquids. 
+
+There have been a number of serious recent fires in the UK that started or spread as the direct result of the use of plastic 
+IBCs for combustible liquids.  Following investigations at the scenes of these fires, a research project was undertaken by the 
+HSE  to  provide  data  to  allow  more  reliable  risk  assessments  for  premises  using  IBCs  for  liquid  storage  and  to  provide  a 
+stimulus and direction for change in IBC selection and design. 
+
+A short and very informative video of an IBC fire test, which provides a graphic summary of the findings, can be viewed at 
+http://www.hse.gov.uk/research/rrhtm/rr564/  
+
+A  comprehensive  report  on  this  matter  was  prepared  by  HSE.    Some  of  the  main  findings  of  the  report  are  summarised 
+below.  
+
+Main findings: 
+
+ 
+
+ 
+
+In an IBC fire, all (combustible) liquid in a stock of unclad IBCs on level ground is likely to be released in a period of the 
+order of five to ten minutes; 
+
+IBCs containing liquids with a hydrocarbon character, e.g. fuel oils, edible oils and lubricants, fail very much more quickly 
+in fires than those containing water.  The leakage rate on failure is also very much higher; 
+
+  Plastic components of IBCs, i.e. valves, corner protection, plastic pallets etc., are easily ignited, e.g. by a match; 
+
+  Even IBCs containing high flashpoint liquids (up to at least FP 200°C) give severe pool fires involving all of the contents; 
+
+  Metal cladding, of the sort currently used for static protection of some IBCs, can reduce drainage rates.  However, very 
+
+rapid leakage of liquid may still occur following explosions in the ullage; 
+
+  Unless composite IBC design can be improved to reduce the rate of liquid drainage in fires, the potential consequences 
+
+of fires will continue to be very serious. 
+
+Main recommendations: 
+
+complete; 
+
+  Risk  assessments  for  IBC  storage  areas  or  buildings  should be  based on  the  premise  that  liquid  loss  will be  rapid  and 
+
+  The risk assessment should cover the interaction between IBCs and steel drums.  It is good practice to segregate IBCs 
+
+and drums to avoid rapid onset of catastrophic failure of drums and associated fireballs and projectiles; 
+
+  A risk assessment is required for areas or buildings that contain any combustible liquids in IBCs or plastic drums with 
+
+  Manufacturers and suppliers of IBCs should provide clear information on the potential behaviour of IBCs in fire when the 
+
+flashpoints up to at least 200°C; 
+
+containers are supplied; 
+
+  Kerbs and partitions in storage areas may be useful in checking the flow of liquid and spread of fire.  For partitions to be 
+
+effective, the drainage of storage areas should be carefully controlled; 
+
+  Manufacturers should explore the potential for improvements in design; 
+
+  Operators of sites with large stocks of IBCs should consider the pattern of drainage in the event of fire. 
+
+The full report – Fire performance of composite IBCs – can be downloaded from www.hse.gov.uk/research/rrpdf/rr564.pdf 
+
+

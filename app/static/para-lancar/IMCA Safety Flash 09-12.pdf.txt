@@ -1,0 +1,187 @@
+AB 
+
+ 
+
+IMCA Safety Flash 09/12 
+
+Safety Flash 
+
+September 2012 
+
+These  flashes  summarise  key  safety  matters  and  incidents,  allowing  wider  dissemination  of  lessons  learnt  from  them.    The  information  below  has  been 
+provided in good faith by members and should be reviewed individually by recipients, who will determine its relevance to their own operations. 
+
+The effectiveness of the IMCA safety flash system depends on receiving reports from members in order to pass on information and avoid repeat incidents.  
+Please consider adding the IMCA secretariat (imca@imca-int.com) to your internal distribution list for safety alerts and/or manually submitting information 
+on specific incidents you consider may be relevant.  All information will be anonymised or sanitised, as appropriate. 
+
+A  number  of  other  organisations  issue  safety  flashes  and  similar  documents  which may  be  of  interest  to  IMCA  members.   Where  these  are  particularly 
+relevant, these may be summarised or highlighted here.  Links to known relevant websites are provided at www.imca-int.com/links   Additional links should 
+be submitted to webmaster@imca-int.com 
+
+ 
+
+1 
+
+Inadvertent Lowering of Lifeboat  
+
+A member has reported an incident in which a lifeboat was inadvertently lowered to sea.  The incident occurred during an 
+unrelated lifting operation to move a steel plate.  This was taking place during high winds, and one of the tag lines being used 
+caught on the port lifeboat release wire, releasing the gravity brake and causing the boat to be lowered to sea.  The lifeboat 
+did  not  disconnect  from  the  falls  and  was  winched  back  up  to  the  davits  without  damage.    There  were  no  injuries  to 
+personnel. 
+
+Cable release wire that was fouled by the tag line, pressure applied and caused de-activation of gravity brake 
+
+ 
+
+ 
+
+The outer sleeve of this tagline created a snagging hazard 
+
+ 
+
+Investigation revealed the following: 
+
+♦  The hazard created by the high wind was not fully recognised, and the opportunity to call a time out was not taken.  The 
+
+potential to snag the lifeboat release wire had not been recognised during the risk assessment; 
+
+♦  Although the taglines in use were of the tangle free type, the textile covering of the upper body of the line had become 
+
+loose and retracted causing a snagging point to occur.  This caught the release line and deactivated the brake; 
+
+♦  When the brake drum was opened for inspection, a large amount of oil residue was found on the brake lining, having 
+seeped  past  the  seals  from  the  adjacent  oil  sump.    The  oil  sump  was  overfilled  beyond  the  manufacturers’ 
+recommendations.  The oil on the brake linings reduced the efficiency of the brake to reset when the counterweight was 
+reapplied. 
+
+The following actions were taken following the incident:  
+
+♦  Deeper consideration of all conditions during risk assessment.  For example, how did the controls to manage the steel 
+
+plate introduce other hazards in this event? 
+
+♦ 
+
+Inspection of tag lines to ensure they were fit for purpose, and holding of spares onboard;  
+
+♦  Review of lifeboat maintenance particularly with regard to the gravity brake; 
+
+♦  Checking oil levels were correct and that personnel understood the use of level plugs. 
+
+2  Near Miss: Cement Tank Hatch Failure 
+
+A member has reported an incident in which the hatch on a cement tank failed under pressure.  The incident occurred when 
+the cement tank was being pressurised to verify the integrity of the system prior to loading dry bulk during a forthcoming 
+port call.  Following the pressurisation of the cement tank to approximately 4 bar, a loud bang was heard and the cement 
+tank pressure was rapidly lost. 
+
+Fortunately,  no  one  was  present  within  the  cement  room  at  the  time  and  there  were  no  injuries.    This  incident  was 
+considered a high potential near miss. Had any persons been in the cement space at the time of the incident, the potential for 
+a serious injury was high. 
+
+Cement tank hatch 
+
+Nuts replacing dogs 
+
+ 
+
+ 
+
+Showing personnel access restricted by dogs 
+
+ 
+
+ 
+
+ 
+
+ 
+Our members’ investigation revealed the following: 
+
+♦  The  original  cement  tank  hatch  securing  dogs  had  been  removed  and  replaced  by  nuts.    When  this  replacement  had 
+
+taken place was not known; 
+
+♦ 
+
+It  was  discovered  that  the  most  likely  reason  for  the  change  of  the  securing  dogs  with  nuts  was  to  provide  greater 
+clearance for personnel access between the cement tank hatch and the pillar; 
+
+♦  Although the cement tank hatch thread bar was 27mm, the diameter of the nuts was 30mm and, although of a differing 
+
+size, it was still possible to secure these 30mm nuts on the 27mm thread bar; 
+
+♦  The change had not been properly documented or dealt with through a “management of change” process; 
+
+Our member reported that a thorough investigation of this high potential incident is currently being undertaken and that the 
+detailed findings from this investigation will be revealed in due course. 
+
+3  LTI Hand Cut During Cutting Operations 
+
+A member has reported an incident in which a welder badly cut his hand using a hand-held circular cutting tool.  The incident 
+occurred when a sub-contractor welder was cutting off an air vent in preparation for further welding work. Shortly after he 
+started work, there was a loud shout and the chief mate rushed to him to find out that the welder has cut his palm all the 
+way to his two fingers.  First aid treatment was administered before he was taken to hospital for surgery.  It was confirmed 
+that two of his finger bones and veins were broken and cut off respectively. 
+
+Our member’s investigation noted the following: 
+
+♦  The welder was rushing to finish the job; 
+
+protective guard. 
+
+♦  The welder had been through job hazard analysis (JHA) training on the morning of the day of the incident; 
+
+♦  The  welder  replaced  the  blade  in  his  cutting  machine  but  was  distracted  and  failed  to  fix  back  in  place  the  blade 
+
+Cutting machine (with blade guard fitted) 
+
+ 
+
+ 
+
+ 
+
+Hand/arm following treatment 
+
+ 
+4  Near Miss: Potential Fall When TMS Protection Gate Came Loose 
+
+A  member  has  reported  a  near  miss  potential  fall  and  dropped  object  incident  in  which  a  protection  gate  on  a  Tether 
+Management  System  (TMS)  was  almost  lost.    The  incident  occurred  when  crew  were  working  on  the  top  on  of  an  ROV, 
+using cut-out holds on the TMS protection gate itself.  The two dogs on top of the protection gate became dislodged from 
+their receptacles; whilst the gate was still secured by bolts and ‘R’ clips at the bottom, it fell into the inside of the TMS.  The 
+personnel  working  managed  to  hold  onto  one  of  the  main  load  bearing  posts  of  the  TMS.    Full  harness  and  fall  arrestor 
+equipment was being used and a permit to work for working at heights had been issued.  There were no injuries or damage 
+to equipment.  
+
+Further  investigation  revealed  that  when  downward  force  was  applied  to  the  gates  via  the  cut-outs,  the  gate  became 
+dislodged. 
+
+Members are encouraged to make a careful check of this kind of TMS protection gate to ensure they are secured by the top 
+pins. If they tend to come out while downward force applied, then the top pins should be changed immediately. The top pin 
+which is secured to the gate can be modified such that it won’t dislodge easily. 
+
+ 
+
+ 
+
+TMS protection gate showing “cut-outs” which are used as foot-holds. 
+
+Bottom of TMS protection gate showing fixing brackets with bolts and ‘R’ clips which remained secured 
+
+ 
+
+5  MODU Mooring Line Failure 
+
+The Marine Safety Forum (MSF) has published the following Safety Flash regarding an incident in which a MODU mooring line 
+failed.  The line was one of eight mooring lines for the MODU, which was involved in drilling at the time.  The MODU moved 
+some 12m and tilted 2-3 degrees but was restored to the correct position using thrusters and ballasting.  
+
+The report can be downloaded from www.marinesafetyforum.org/upload-files//safety-alert-notice/msf-safety-flash-12.31.pdf 
+
+ 
+
+

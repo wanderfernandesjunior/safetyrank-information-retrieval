@@ -1,0 +1,453 @@
+AB 
+
+ 
+
+IMCA Safety Flash 12/14 
+
+Safety Flash 
+
+  July 2014 
+
+These  flashes  summarise  key  safety  matters  and  incidents,  allowing  wider  dissemination  of  lessons  learnt  from  them.    The  information  below  has  been 
+provided in good faith by members and should be reviewed individually by recipients, who will determine its relevance to their own operations. 
+
+The effectiveness of the IMCA safety flash system depends on receiving reports from members in order to pass on information and avoid repeat incidents.  
+Please consider adding the IMCA secretariat (imca@imca-int.com) to your internal distribution list for safety alerts and/or manually submitting information 
+on specific incidents you consider may be relevant.  All information will be anonymised or sanitised, as appropriate. 
+
+A  number  of  other  organisations  issue  safety  flashes  and  similar  documents  which may  be  of  interest  to  IMCA  members.   Where  these  are  particularly 
+relevant, these may be summarised or highlighted here.  Links to known relevant websites are provided at www.imca-int.com/links   Additional links should 
+be submitted to webmaster@imca-int.com 
+
+ 
+
+1  Engine Room Fire 
+
+A member has reported an incident in which an engine room fire occurred onboard a tug. The incident occurred after an un-
+berthing operation of another vessel which had been alongside in port. The tug was safely moored alongside with three duty 
+personnel onboard (chief officer, second engineer and deckhand). The master and chief engineer were ashore.  
+
+The chief officer in the wheelhouse sighted smoke coming from both the engine room side vents, towards the bows of the 
+tug.  Subsequently,  the  second  engineer  called  the  wheelhouse  requesting  for  the  starboard  main  engine  to  be  shut  down 
+immediately. Both main engines were then stopped by the chief officer. At this point in time, the second engineer had made 
+his escape from the engine control room to the main deck.  
+
+The  fire  was  brought  under  control  with  assistance  from  local  shore-based  fire-fighters.  Whilst  the  incident  resulted  in 
+extensive localised damages to the tug’s engine room, there were no injuries.  
+
+  
+
+ 
+
+Figures (L):  Hydraulic power pack unit flange (R) Engine room 
+
+Our members’ investigation revealed the following: 
+
+♦  The hydraulic power pack unit for the tug’s deck winch and windlass operations was initially leaking lightly; this became a 
+
+sudden heavy leakage on the day of the incident (fuel source); 
+
+♦  The port main engine exhaust manifold insulation was leaking with the hot surfaces exposed (heat source); 
+
+♦  The darkened state of the engine room due to the exhaust gas was a hazard that the crews were not aware of; 
+
+− 
+
+− 
+
+♦  Crews did not execute the necessary actions to control the fire such as: 
+
+Stop engine room blowers from continuously feeding fire with oxygen 
+
+Stop all oil pumps in engine room from running and feeding the fire with hydraulic oil 
+
+−  Close all engine room fire flaps on deck (many were found seized) 
+
+−  Activate the fuel oil quick closing valves (generators were running throughout). 
+
+The following lessons were learnt: 
+
+♦  Engine room equipment defects rectified as soon as possible; 
+
+ 
+♦ 
+
+Insulation checks/repairs carried out; 
+
+♦  Ensure all oil lines are in satisfactory conditions; 
+
+♦  Ensure engine room is sufficiently lighted to maintain safe working conditions; 
+
+♦  Ensure all engine room fire flaps on deck are in safe working condition; 
+
+♦  Ensure all emergency shutdown trips are tested at regular intervals by the ship’s crew; 
+
+duties/equipment’s operations. 
+
+Our member reiterated that:  
+
+♦  Crew members are all responsible for their own safety; 
+
+♦  Ensure  monthly  fire  drills  are  carried  out  on  board  and  that  all  crew  are  familiarised  with  the  emergency 
+
+♦  Crew members need to be willing to approach others about working safely and ‘stopping the job’; 
+
+♦  Crew need to be properly informed about risk and control measures. 
+
+Engine room fires form a recurring theme in IMCA safety flashes. Typically the root causes of such fires are failures in house-
+keeping or planned maintenance, or failure to recognise fire hazards and address the risks. Members may wish to refer to the 
+following similar incidents (key words: engine, room, fire) 
+
+♦ 
+
+♦ 
+
+♦ 
+
+IMCA SF 08/03 – Incident: 4 Cracked fuel line results in engine room fire;  
+
+IMCA SF 10/05 – Incident: 2 Engine room fire; 
+
+IMCA SF 12/11 – Incident: 8 Engine room fire on offshore vessel. 
+
+2  Punctured Welding Hose Flash Fire 
+
+An  incident  has  come  to  IMCA’s  attention  in  which  a  punctured  welding  hose  caught  fire.  The  incident  occurred  during 
+routine use of an air operated grinder on an offshore vessel. The pipefitter/fire watch saw flames coming from the acetylene 
+hose, told his colleague to stop grinding, isolated the gas supply and used a fire extinguisher to put out the flame.  
+
+No-one was harmed, the worksite was secured, and the incident was reported to the supervisor who stopped the work. A 
+safety stand down was immediately held. There was no injury and no property damage other than to the hose. 
+
+Showing punctured and burned hose. 
+
+Showing new galvanized blinding to control sparks added. 
+
+ 
+
+ 
+
+The investigation revealed the following immediate causes of the incident: 
+
+♦  Poor practices of routing and protecting hoses had subjected them to damage; 
+
+♦  The  acetylene  hose  was  connected  and  run  out  in  the  vicinity  of  a  workshop  and  subjected  to  uncontrolled  sparks. 
+
+Escaping gas was ignited resulting in a flash fire.  
+
+The root causes identified were: 
+
+♦  The nearby workshop was not designed to prevent or control heat and spark release; 
+
+ 
+♦  The hose was of inferior quality and had been poorly treated;  
+
+♦  The hose was recently brought into service and already sustained damage resulting in the escape of acetylene gas; 
+
+♦  Pre  and  post  inspections  had  not  been  adequately  carried  out.  Had  they  been  completed,  this  would  have  raised 
+
+concerns about the structural integrity of the hose. 
+
+The following corrective actions were suggested: 
+
+♦  Provide adequate blinding/coverings in the nearby carpentry workshop to prevent sparks and heat from going outside of 
+
+the contained area; 
+
+♦  Training and toolbox talk reviewing the incident and stressing cable and hose management, pre and post task inspection 
+
+and removing damaged equipment from service; 
+
+♦  All hoses and equipment to undergo routine maintenance inspections and be colour coded to enable personnel see the 
+
+equipment is valid to use;  
+
+♦  Several other damaged hoses were removed and replaced; 
+
+♦  A pre- and post-task welding hose checklist was created and made part of the permit to work process. 
+
+ Members may wish to refer to the following similar incidents (key words: fire welding):  
+
+IMCA SF 09/09 – Incident: 1 Poor Maintenance and Subsequent Failure of Welding Equipment;  
+IMCA SF 02/14 – Incident: 1 Hose Fire Caused by Flashback in Oxygen & Acetylene Hoses; 
+
+IMCA SF 08/14 – Incident: 4 Cutting torch separates from flame arrestor.  
+
+♦ 
+
+♦ 
+
+♦ 
+
+3  Lost Time Injury (LTI) – Winch Base Plate Failure 
+
+A member has reported an incident in which a winch base plate failed catastrophically, causing serious injuries to a nearby 
+crewman. The incident occurred when the vessel was stern to shore, unreeling pipe from an onboard reel onto the shore. 
+During this process, a winch was used to disconnect the end of the pipe from the reel, and tail the head from the reel while 
+the  Vertical  Lay  System  (VLS)  tension  machine  paid  out  the  pipe.  When  the  end  of  the  pipe  reached  the  top  of  the  VLS 
+aligner a ‘controlled stop’ was called for by the winch operator. The winch operator relayed to his supervisor that he felt the 
+winch base plate flexing. After the winch came to ‘all stop’ the welds on the winch base plate securing it to the deck failed; 
+the winch was forcefully pulled forward and up and came to rest forward of the reel well. The winch operator had his right 
+foot on the base plate and was thrown up by the force suffering a serious injury to his left knee and lower leg. 
+
+The rental winch installed before the incident 
+
+Magnetic particle inspection (MPI) checks done between winch 
+
+and base plate before the incident 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Area IP came 
+to rest 
+
+ 
+
+Reported 
+original 
+position of IP 
+
+ 
+
+Rental winch and base plate after the incident 
+
+Our member’s investigation revealed the following: 
+
+♦  A repeatedly malfunctioning 32t constant-tension lay system winch had been replaced with a 10t air tugger non-constant 
+tension  winch  for  use  in  offloading  pipeline.    The  10t  winch  had  been  initially  installed  for  loading  purposes,  and  then 
+maintained for offloading, as the 32t winch had not been repaired;  
+
+♦  Approximately  two  months  before  the  incident  the  winch  base  plate  and  winch  attachments  deflected  under  load. 
+
+Additional fastenings were welded from the winch frame to the base plate;  
+
+♦  Eight days prior to the incident the rental 10t winch had been installed, and MPI (magnetic particle inspection) checks [of 
+
+the welding] were done between winch and base plate fastenings. 
+
+Our member noted the following causal factors: 
+
+♦  A 32t constant-tension winch repeatedly malfunctioned, was removed from service,  and had been replaced with a 10t 
+
+tugger winch; 
+
+♦  Management of Change (MOC) procedure raised but did not include design calculations for welded installation of base 
+
+plate, attached between main deck and 10t winch; 
+
+♦  Replacement winch was not constant tension nor fitted with a tension measurement device; 
+
+♦  Cause of base plate deflection occurring two months prior to incident was not investigated and corrected; 
+
+♦ 
+
+Inability of aligner load cells to accurately check tension at smaller tower angle (less than 80o); 
+
+♦  Calibration validation process had not been completed due to a load cell failure incident. 
+
+Our member’s recommendations and corrective actions were: 
+
+♦ 
+
+Identify and correct shortcomings in MOC requirements; 
+
+♦  Ensure that non-destructive testing be carried out on all welds between winch base plates and decks whenever a winch 
+
+is installed onto a base plate; 
+
+♦  Review and revise Pipe Loading and Offloading procedures to eliminate identified causal factors; 
+
+♦  Ensure  vessel  management  and  crew  are  fully  apprised  of’  ‘Stop  the  job’  or  ‘Stop  Work  Authority’  policies  and 
+
+procedures; 
+
+♦  Re-design the lay system so that aligner load cells can be calibrated to allow tension checks for lower tower angles; 
+
+♦  Revise  applicable  procedures  to  include  'Hold  Points'  when  load  cells  must  be  calibrated  before  undertaking  any 
+
+installation work involving the tower, including any work that requires the tower to go below 80 degrees. 
+
+ 
+Members may wish to refer to the following incidents (key words: weld, winch, base-plate, failure):   
+
+IMCA SF 09/01 – Incident: 3 ROV winch failure; 
+
+IMCA SF 08/07 – Incident: 1 Failure of Welding on Hyperbaric Rescue Chamber Medical Lock Door Assembly;  
+
+IMCA SF 09/13 – Incident: 1 High Potential Near Miss: Dropped ROV/TMS Leading to Equipment Damage [failure of welding].  
+
+♦ 
+
+♦ 
+
+♦ 
+
+4  LTI – During Mooring Operations  
+
+A member has reported an incident in which a crewman (the chief officer) suffered head injuries during mooring of a tug to a 
+Single Buoy Mooring (SBM). The tug was mooring up to the SBM in order for the dive team to be able to complete routine 
+surface maintenance. Once the tug was in position it was realised that the vessel needed to move around 15 metres in order 
+for the divers’ umbilical to reach the SBM. The configuration of the mooring equipment and arrangement being used required 
+the injured person to enter a snap back zone in order to place a stopper on the mooring line, prior to securing it to the bitts.  
+
+As he was about to start stoppering off the line, the mooring line slipped off the bitt, striking him on the chest. This pushed 
+him  backwards  and  lifted  him  up,  which  resulted  in  him  falling  backwards  and  his  head  making  contact  with  the  deck.  He 
+sustained head injuries including a fractured skull. The incident was reported immediately, the vessel returned to port and the 
+injured person was taken to hospital.   
+
+Plan view of back deck showing location of injured person 
+
+ 
+
+Showing mooring lines as in incident (reconstruction)  
+
+ 
+
+Our member’s investigation revealed that the causes of the incident were as follows: 
+
+♦  The mooring arrangement used required the Chief Officer to work in the snap back zone; 
+
+♦  The  mooring  arrangement  used  facilitated  a  vertical  movement  upwards  (The  midship  bitts  have  a  slight  inboard 
+inclination,  the  height  difference  between  the  mooring  roller  and  midship  bitts  created  an  angle  and  the  length  of  the 
+horizontal extension arm is not long enough to present a sufficient safety guard); 
+
+ 
+♦  There was a deviation from normal operating procedure – inadequate MOC.  
+
+Our member took the following lessons to prevent recurrence: 
+
+♦  Reiterated importance of being able to STOP THE JOB in case of unsafe operations; 
+
+♦  Took steps to ensure crew were fully informed of risk and control measures; 
+
+♦ 
+
+In  cases  where  deviating  from  an  agreed  plan  of  operations,  stop  the  job,  re-assess  and  communicate  the  additional 
+hazards and control measures via a toolbox meeting; 
+
+♦  Ensured all personnel involved in the activity or completing simultaneous operations take part in the toolbox meeting; 
+
+♦  Ensured personnel were trained and have sufficient experience and knowledge to carry out a task; 
+
+♦ 
+
+Implement  formal  MOC  process  for  changes/deviations  to  normal  operating  procedures  and  changes  to  design  of  the 
+ship. 
+
+♦ 
+
+♦ 
+
+♦ 
+
+Members may wish to refer to the following similar incidents (key words: mooring, tension): 
+
+IMCA SF 02/08 – Incident: 1 Finger Injury Whilst Casting Off Towing Line; 
+
+IMCA SF 04/09 – Incident: 3 Mooring incidents (a document from the UK P&I Club); 
+
+IMCA SF 07/10 – Incident: 2 Crewman Fatally Injured During Mooring Operations. 
+
+Members may wish to use IMCA’s safety promotional poster on mooring safety: 
+
+♦  Mooring safety http://www.imca-int.com/media/114592/imcaspp12.pdf. 
+
+5  Fatality – Man Overboard 
+
+A  member  has  reported  an  incident  in  which  a  crewman  was  lost  overboard.  The  incident  happened  during  the  hours  of 
+darkness. A rigger onboard a material barge was assigned to keep a watch on the workboat moored alongside the port stern 
+of the barge. The rigger observed the workboat drifting away from the material barge and panicked. He was approached by a 
+mechanic who was also working on the material barge. The mechanic advised him to wait till he informed his supervisor. As 
+both were not carrying a radio, the mechanic proceeded to the construction barge to contact his supervisor. Meanwhile the 
+rigger decided to enter the  water from the tow tug moored along the port side of material barge in order to  attempt to 
+recover the drifting boat. Before doing so, the rigger removed his personal protective equipment (PPE) and work vest on the 
+main deck of the tow tug.  
+
+He disappeared shortly  after  entering the water, and  in spite of extensive search  and rescue operations over  a wide area, 
+involving Fast Rescue Craft, tug boats and helicopters, could not be found and is presumed dead. 
+
+Showing workboat moored alongside material barge 
+
+Showing missing person’s PPE 
+
+ 
+
+ 
+
+Our member took the following actions to prevent recurrence of this tragic incident: 
+
+♦  Ensure  deployed  workboats  are  crewed  by  a  minimum  of  two  persons  or  retrieved  back  onto  deck.  If  this  is  not 
+
+practical, ensure workboat is properly secured;  
+
+♦  Ensure personnel deployed on material barges and remote sites carry a radio at all times; 
+
+♦  Deck watch and gangway watch with access to radio to be maintained at all times;  
+
+ 
+♦  Ensure life rings are available on material barges and being used in a man overboard situation; 
+
+♦  The existing ‘buddy system’ to be reinforced to prevent lone working on material barges and/or remote areas;  
+
+♦  Review MOB procedures and ensure crew are fully familiar with it; 
+
+♦  Ensure crew are aware that entering the water overboard the vessels/structure is strictly prohibited unless there is a life 
+
+threatening situation. 
+
+ Members may wish to refer to the following similar incidents (key words: overboard, MOB, fatality): 
+
+♦ 
+
+IMCA SF 16/13 – Incident: 2 Fatality – Man Overboard. 
+
+6  Near Miss: Loose Life Jackets Caused Man Overboard (MOB) Alert    
+
+A member has reported an incident in which a man overboard alert was caused on a vessel when life jackets were spotted 
+floating in the sea. The duty officer sighting life jackets floating in the water, called the master, who then called the nearby 
+floating production storage and offloading unit (FPSO) and asked if there had been any reports of man overboard or similar 
+distress. There was no such emergency. 
+
+The life jackets were recovered, whereupon it was discovered that they came from the vessel itself. Five empty life jackets 
+were recovered. An inventory of on-board life jackets was made and it was found that the five jackets came from a storage 
+box located near the muster station. Owing to gusting winds, the lid of the box had been blown open.  
+
+Members are reminded to ensure that objects on the open deck – particularly boxes or storage containers – are properly 
+secured against the effects of heavy seas causing movement of the vessel, and against all possible winds, including the effects 
+of helicopters.  At the same time, it is important to ensure that life-jackets and other emergency equipment remain available 
+and easy for crew to access in the event of a genuine emergency. 
+
+Members may wish to refer to the following similar incident:    
+
+♦ 
+
+IMCA SF 08/14 – Incident: 2 Unsecured Object Lifted by Helicopter Downwash.   
+
+7  LTI – Trapped Finger 
+
+The Marine Safety Forum has published the following safety flash regarding an incident in which a crew member lost the tip of 
+his finger when it was crushed between the ship’s rail and a bulk hose connection on which he was working.   
+
+The safety flash can be downloaded from www.marinesafetyforum.org/upload-files//safetyalerts/msf-safety-flash-14.27.pdf. 
+
+Injuries  to  fingers,  hands  and  feet  are  amongst  the  more  common  incidents  reported  to  IMCA.    We  focus  here  on  crush 
+injuries to fingers caused during cargo or mooring operations. Members may wish to refer to the following similar incidents 
+(key words: crush, injury, fingers) 
+
+IMCA SF 03/05 – Incident: 1 Finger Injury During Loading Operation; 
+
+IMCA SF 02/08 – Incident: 1 Finger Injury Whilst Casting Off Towing Line. 
+
+♦ 
+
+♦ 
+
+ 
+
+

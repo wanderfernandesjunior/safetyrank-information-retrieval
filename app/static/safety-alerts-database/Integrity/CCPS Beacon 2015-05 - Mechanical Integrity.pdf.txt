@@ -1,0 +1,73 @@
+This issue sponsored by
+
+www.iomosaic.com
+
+May 2015
+
+www.aiche.org/ccps
+
+http://www.aiche.org/CCPS/Publications/Beacon/index.aspx
+
+Messages for Manufacturing Personnel
+
+Mechanical Integrity
+
+1
+
+2
+
+In August 2012, a pipe in a Crude Distillation Unit (CDU) in a refinery 
+in California ruptured, releasing hot, flammable hydrocarbon process fluid 
+(Photo 1). The released material partially vaporized forming a large vapor 
+cloud which ignited. The pipe failed due to thinning caused by sulfidation 
+corrosion, a common damage mechanism in refineries. Sulfidation 
+corrosion failures are of great concern because of a comparatively high 
+likelihood of catastrophic failure. This can happen because corrosion 
+occurs at a relatively uniform rate over a broad area, so a pipe can get 
+progressively thinner until it bursts, rather than a failure starting as a small 
+leak at a pit, crack, or local thin area.
+
+In November 2013, a fire erupted after a leak from a pipe containing 
+vacuum residue at a CDU in a refinery in Brazil (Photo 2). The leakage 
+occurred due to the rupture of a straight section pipe in a pipe rack, near 
+the pre-flash tower of the CDU. The investigation determined that the 
+pipe section was very thin (less than 1 mm). The specified material for 
+this pipe section was an alloy steel, but the actual material was found to 
+be carbon steel. This pipe section had been replaced during a maintenance 
+shutdown in 1998, and the wrong material of construction was used.
+
+In both of these incidents, the Mechanical Integrity Management System was not successful in detecting or 
+replacing deteriorated piping components before failure. In the 2013 incident, the maintenance system did not 
+ensure that the correct material of construction was used when the pipe was replaced. More effective 
+mechanical integrity and maintenance programs could have prevented both incidents. 
+
+What can you do?
+
+ Immediately report any leak that you discover, no matter how small, and follow up to make sure action is taken.  
+ If you are responding to what appears to be a small leak in a large pipe or vessel, consider the possibility that the 
+“small” leak is actually caused by a large area of thin or weak metal which could suddenly become a large leak. Plan 
+your response to ensure that people are protected if this happens.
+ If you are replacing piping or other equipment, make sure that you use the correct material for all replacement parts. 
+Follow the Positive Material Identification (PMI) procedures at your facility and verify implementation in the field. 
+Perform a 100 percent component inspection of what has been replaced during a turnaround before re-starting.
+ Frequent use of leak repair clamps to externally stop process fluid leaks raises questions about effectiveness of a 
+mechanical integrity program. These devices are intended to provide a temporary repair while a process continues 
+operating until a permanent repair can be made, perhaps during a plant shutdown. When such temporary repairs are 
+implemented, follow you plant’s management of change procedures. Be sure that temporary repairs are managed so they 
+can be included for permanent repair when planning the next shutdown.
+ Understand and make sure that recommendations from your inspection group are implemented in a timely manner.
+ An effective management of change (MOC) process is vital to the success of any piping integrity management 
+program. Your plant inspection group can anticipate changes in corrosion or other deterioration and change inspection 
+schedules and procedures appropriately. Make sure your inspection group is involved in the approval process for changes 
+that may affect piping or other equipment integrity.
+
+“You get what you inspect, not what you expect!”
+
+©AIChE 2015. All rights reserved. Reproduction for non-commercial, educational purposes is encouraged. However, reproduction for any 
+commercial purpose without express written consent of AIChE is strictly prohibited. Contact us at ccps_beacon@aiche.org or 646-495-1371.
+
+The Beacon is usually available in Arabic, Afrikaans, Chinese, Czech, Danish, Dutch, English, French, German, Greek, Gujarati, Hebrew, Hindi, Italian, Japanese, Korean, 
+
+Malay, Marathi, Norwegian, Persian, Polish, Portuguese, Romanian, Russian, Spanish, Swedish, Telugu, Thai, Turkish, and Vietnamese.
+
+

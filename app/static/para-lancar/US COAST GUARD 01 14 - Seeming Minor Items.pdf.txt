@@ -1,0 +1,81 @@
+ 
+           
+
+         Inspections and Compliance Directorate 
+
+July 9, 2014 
+Washington, DC               IT’S THE SEEMINGLY MINOR ITEMS 
+
+ 
+
+ 
+
+ 
+
+       LL 01-14 
+
+that sometimes can create a catastrophe. 
+
+not 
+
+under 
+
+visible 
+
+throttle 
+
+the  console 
+
+  The  underside  of 
+
+ 
+This is a reminder to owner operators that sometimes it is the most seemingly minor thing such as a 
+mechanical part or electrical component that can lead to a catastrophe. For example, a nearly 20 year 
+old bulker was leaving port when its main engine throttle failed.  In this case the vessel was able to 
+drop anchor without incident. 
+ 
+The failure occurred because a small drive belt 
+that  connected 
+lever 
+components 
+to  an  electrical  potentiometer 
+failed.    Movement  of  the  throttle  causes  the 
+potentiometer  to  move  and  creates  a  variable 
+signal  to  other  controls  which  manage  engine 
+speed. When the belt failed the control from the 
+engine room console was lost.  Fortunately, the 
+vessel  had  a  spare  belt  that  the  engineers 
+replaced  quickly. 
+the 
+Bosch/Rexroth  throttle  was  encased  and  the 
+belt  was 
+normal 
+circumstances.  Routine  inspection  of  the  belt 
+did not occur.  
+ 
+Other  examples: A  contact  in  a  small  electrical 
+relay and part of the autopilot system stuck and 
+caused a vessel to go hard to port at 24 knots; 
+Three  of  four  nuts  on  a  propeller  shaft  seal 
+loosened, went unnoticed and caused flooding of the machinery space of an Offshore Supply vessel; 
+A  wire  chafed  and  grounded  out  cutting  power  to  critical  combustion  controls  while  a  vessel  was  at 
+the dock, but not long after transiting a narrow Caribbean harbor entrance. 
+ 
+The  Coast  Guard  recognizes  that  identifying  every  single  failure  mode  that  could  possibly  impact  a 
+vessel’s  propulsion,  power  generation  system  or  steering  system  and  developing  a  comprehensive 
+preventative  maintenance  system  for  such  systems,  equipment  and  components  is  a  very  complex 
+task.    Nevertheless,  the  Coast  Guard  suggests  that  owner  operators,  marine  engineers  and  others 
+particularly  onboard  or  associated  with  older  vessels,  think  about  and  identify  those  high  risk 
+components which if a failure or malfunction occurs will result in a casualty. (Specifically components 
+subject to gradual wear and tear or loosening.) Once identified responsible personnel should refer to 
+their  respective  manuals  to  determine  proper  maintenance  requirements  and  take  the  necessary 
+steps to prevent a future problem with the aim to reduce risk. 
+ 
+This Lessons Learned is provided for informational purposes only and does not relieve any domestic 
+or international safety, operational or material requirement. Developed by the Office of Investigations 
+and Casualty Analysis.  For questions or concerns please email hqs-pf-fldr-cg-inv@uscg.mil. 
+
+ 
+ 
+
+

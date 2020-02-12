@@ -1,0 +1,74 @@
+Safety Alert 
+
+        From the International Association of Drilling Contractors 
+
+ 
+ALERT 07 – 22  
+ 
+
+DROPPED OBJECT:  FAST LINE GUIDE ROLLER 
+
+ 
+WHAT HAPPENED: 
+ 
+The day crew was tripping in DP to 11,000 ft.  The trip was stopped to visually inspect the fast line stabilizer 
+guide which had been repaired the previous day.  They observed it for 4 stands and found it to be OK. Later 
+during  the  trip  a  loud  noise  was  heard  above  the  crew.    The  trip  was  stopped  and  crewmen  searched  for 
+cause of the noise.  It was discovered that the bottom outside roller of the line guide, weighing 6.5 lbs, had 
+fallen from the stabilizer assembly onto the roof.  It bounced to an unmanned deck and into a cargo basket.  
+Both sides of the roller had visible wear.  One side of the bolt thread was worn down and half of the other 
+bolt was worn down due to roller movement after the lock nut had backed off.  There were no injuries.  
+ 
+WHAT CAUSED IT: 
+ 
+The  locknut  on  the  bottom  outside  roller  had  backed  out  allowing  the  roller  to  fall  out.    The  stabilizer 
+assembly  had  recently  been  rebuilt.    Investigation  revealed  that  some  of  the  lock  nuts  had  been  loosened 
+and re-tightened.  All six rollers are seldom changed out at the same time, but it is necessary to loosen all 
+lock nuts in order to re-install the assembly on the fast line.  When a locknut is loosened and re-tightened, its 
+break-out  torque  is  reduced  (and  continues  to  be  reduced  further  each  time  the  nut  is  loosened  and  re-
+tightened.)  To prevent this reduction in breakout torque, the lock nut must be replaced with a new one from 
+the manufacturer and the old one discarded. 
+ 
+
+Fast Line Stabilizer Guide 
+with 6 rollers.  
+
+Lock nuts to be torqued only 
+once.   Replace lock nuts if 
+broken out.  
+
+ 
+
+   
+ 
+CORRECTIVE ACTIONS:  To address this incident, this company gave rig personnel the following 
+instructions: 
+ 
+Since the fast line stabilizer guide assembly is overhead and undergoes continuous rigorous vibration, it has 
+high dropped-object potential. Therefore, it is mandatory that each lock nut be used only once.    
+ 
+When removing the stabilizer guide for service or to change one or more rollers:  
+ 
+1.  All self-locking nuts on all rollers are to be replaced.  Do not re-tighten a lock nut once it has been 
+
+loosened.  Discard all used lock nuts.   
+
+2.  Do not torque up the nuts fully until the stabilizer assembly guide is squared on the fast line. 
+3.  Ensure the assembly is inspected regularly (as well as subjected to Preventive Maintenance protocols).  
+4.  Have a JSA for rebuilding, servicing or replacing one or more rollers in which the above points are 
+
+specified.  
+
+The Corrective Actions stated in this alert are one company’s attempts to address the incident,  
+
+and do not necessarily reflect the position of IADC or the IADC HSE Committee. 
+
+This material is presented for information purposes only.  Managers & Supervisors should 
+
+evaluate this information to determine if it can be applied to their own situations and practices 
+
+Copyright © 2005 International Association of Drilling Contractors All rights reserved. 
+
+Issued July 2007 
+
+

@@ -1,0 +1,95 @@
+Safety Alert 
+
+        From the International Association of Drilling Contractors 
+
+ 
+ALERT 11-19  
+
+DRILLING LINE SLIPS OUT OF RETAINER  
+
+CLAMP RESULTS IN RIG DOWNTIME 
+
+WHAT HAPPENED: 
+ 
+While tripping in the hole, the driller was hoisting the top drive and empty elevators to latch a stand when a 
+loud  “slapping”  noise  was  heard  from  the  drawworks  and  severe  vibration  was  noted  in  the  brake  handle.  
+The block’s travel was stopped, and a large “bird’s nest” was seen on the drawworks drum.  The rig floor was 
+cleared of all personnel and a risk assessment was performed.  It was decided to install a short hang-off line 
+in the mast to hang the traveling block in its then-current position.  When the drilling line was inspected, it 
+was discovered that the drilling line had pulled out of the drilling line clamp in the drawworks.  The loose end 
+of  the  drilling  line striking the  drawworks  guards  was  determined  to  have  been the  cause of the  “slapping” 
+noise heard at the time of the incident.  The damaged drilling line was removed from the drum, and a new 
+line  clamp  was  installed  including  new  bolts,  nuts  and  lock  washers.    The  line  was  spooled  back  onto  the 
+drawworks and the blocks were lowered and re-hung at the normal height for slipping and cutting drilling line.  
+A  thorough  inspection  of  the  drawworks,  top  drive,  mast  and  drilling  line  were  then  performed.    Minor 
+damage  was  repaired  on  grease  lines and  crown-saver  air  lines.   The  crown-saver  was  tested  and  the rig 
+resumed normal operations.  This event resulted in 13 hours of rig repair time; no injuries were reported. 
+ 
+
+WHAT CAUSED IT: 
+  The  rig  had  last  slipped  and  cut  drilling  line  approximately  two  weeks  prior  to  this  event  and  no 
+
+problems with the drilling line or clamp had been noted since the last cut.   
+
+  The ton miles since last cut were within acceptable limits at the time of the event.   
+  The  drilling  line  clamp  on  this  drawworks  uses  four  hex  bolts  to  retain  the  drilling  line.    Upon 
+examination of the drilling line clamp, it was noticed that the two of the four bolts on the clamp had 
+been tightened about two rounds of the nut less than the other two bolts.  
+
+  Further examination revealed excessive wear of the clamp itself, as evidenced by a widening of the 
+
+grooved throat of the clamp body by approximately 7 to 8 mm (5/16”). 
+
+  This led to a conclusion that the immediate cause of the event was that the clamp had been under-
+
+tightened at the time of the last slip and cut.   
+It is less clear to what extent the generally worn condition of clamp reduced the clamping force on 
+the drilling line, but the condition of the clamp cannot be eliminated as a possible contributing factor 
+in the result that the line slipped over time and eventually worked its way out of the clamp. 
+
+ 
+
+ 
+
+CORRECTIVE ACTIONS:  To address this incident, this company did the following: 
+ 
+  The written rig operations policy guidelines for slipping and cutting drilling line were amended to include:  
+
+  Requirement for visual inspection of drilling line clamp; 
+  An  inspection  guideline,  with  acceptance/rejection  criteria,  for  visual  inspection  of  the  drilling  line 
+
+clamp, bolts, U-bolts and nuts; 
+
+  Proper clamp tightening procedures, including recommended nut torque; 
+  Appropriate  interval  for  dimensional  and  non-destructive  testing  (NDT)  inspection  of  drilling  line 
+
+  Appropriate interval for replacement of bolts or U-bolts, nuts and lock washers. 
+
+  A pre-job meeting must be conducted prior to slipping and cutting drilling line to review the procedures as 
+
+ 
+
+a reminder of the importance of proper inspection and tightening of clamps and fasteners. 
+Inspection of wire rope retainers and retaining clamps on all lifting equipment which utilizes wire rope for 
+lifting  including  but  not  limited  to  drawworks,  floor  winches,  man-rider  winches,  utility  winches,  casing 
+stabbing boards, cranes, etc. to be performed on all rigs. 
+
+  Lessons learned and corrective actions requirements to be distributed to all operations and maintenance 
+
+clamp; 
+
+personnel. 
+
+The Corrective Actions stated in this alert are one company’s attempts to address the incident,  
+
+and do not necessarily reflect the position of IADC or the IADC HSE Committee. 
+
+This material is presented for information purposes only.  Managers & Supervisors should 
+
+evaluate this information to determine if it can be applied to their own situations and practices 
+
+Copyright  2005 International Association of Drilling Contractors All rights reserved. 
+
+Issued August 2011 
+
+

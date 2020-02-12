@@ -1,0 +1,101 @@
+AB 
+
+ 
+
+IMCA Safety Flash 11/08 
+
+June 2008 
+
+These  flashes  summarise  key  safety  matters  and  incidents,  allowing  wider  dissemination  of  lessons  learnt  from  them.    The  information  below  has  been 
+provided in good faith by members and should be reviewed individually by recipients, who will determine its relevance to their own operations. 
+
+The effectiveness of the IMCA safety flash system depends on receiving reports from members in order to pass on information and avoid repeat incidents.  
+Please consider adding the IMCA secretariat (imca@imca-int.com) to your internal distribution list for safety alerts and/or manually submitting information 
+on specific incidents you consider may be relevant.  All information will be anonymised or sanitised, as appropriate. 
+
+A  number  of  other  organisations  issue  safety  flashes  and  similar  documents  which may  be  of  interest  to  IMCA  members.   Where  these  are  particularly 
+relevant, these may be summarised or highlighted here.  Links to known relevant websites are provided at www.imca-int.com/links   Additional links should 
+be submitted to webmaster@imca-int.com 
+
+ 
+
+1  Catastrophic Failure of Vessel Main Crane Wire 
+
+A member has reported a serious incident onboard a vessel where the main hoist wire rope of the main crane parted whilst 
+deployed subsea.  The vessel crane was involved in operations in which a 20 tonne clump weight was suspended from the 
+crane main hoist wire.  The water depth at the location was approximately 1600m.  It is not known to what depth the crane 
+was deployed at the time of failure though it is believed there could have been in excess of 1400m of wire rope deployed. 
+
+The  crane  was  a  pedestal  crane  articulated  box  jib  with  active  heave  compensation  and  had  been  in  operation  for 
+approximately two years. 
+
+Immediate investigation identified the failure point of the wire rope to have been at the second sheave of the knuckle boom.  
+Subsequent  inspection  of  the  sheave  has  identified  significant  damage  that  would  be  consistent  with  the  sheave  failing  to 
+rotate during the operation of the crane, and the resultant wear on the wire rope is potentially the cause of the rope failing. 
+
+The crane was operating with the heave compensation engaged at the time of the failure. 
+
+It is recommended that members operating vessels with cranes of this type carry out regular inspection of crane sheaves to 
+identify any signs of wear that would indicate a potential failure of the sheaves to operate as designed.  Members operating 
+cranes with active heave compensation are recommended to check sheave integrity and visibly check rotation of all sheaves. 
+
+Photograph shows the 
+wear in the crane 
+sheave that has 
+potentially caused the 
+wire rope to fail 
+ 
+
+ 
+
+ 
+
+ 
+
+2 
+
+Incorrect Lifting Equipment Used 
+
+Deck crew were lifting a full 200l (40 gallon) drum of Oceanic HW 443 (ethylene glycol) with the crane using a cargo strap 
+drum  lifter.    As  the  drum  was  being  lifted  over  some  deck  equipment  it  slipped  out  of  the  span  set  type  drum  lifter  and 
+dropped approx 6m to the deck.  No one was in the area under the drum when it slipped out.  The top of the plastic drum 
+split and 40-45l of the fluid within spilled on to the deck.  Shipboard oil pollution emergency plan (SOPEP) equipment was 
+deployed and the spill contained to the immediate vicinity.  No fluid was lost overboard. 
+
+IMCA does not have details of the risk assessments, lift plans or toolbox talks, all of which could have identified the potential 
+hazards, but the member’s further investigation revealed that the following factors were contributory to the incident: 
+
+♦  Poor  choice  of  drum  lifting  device  –  a  barrel  span  set  lifting  strop  designed  for  lifting  metal  drums  was  used  to  lift  a 
+
+plastic one with sides that curved in slightly towards the lid which allowed the drum to slip out of the strop; 
+
+♦  There was a change in the lift plan without a reassessment of hazards; 
+
+♦  Lack of knowledge of the correct applications for this type of drum lifting gear. 
+
+Members  are  recommended  to  ensure  that  personnel  are  fully  capable  of  identifying  and  using  the  correct  drum  lifting 
+equipment. 
+
+ 
+Plastic drum with curved sides with 
+
+barrel span set lifting strop – 
+
+poor choice as intended for metal drums 
+
+ 
+Metal drum showing intended use of 
+
+barrel span set lifting strop 
+
+Plastic drum with curved sides held 
+
+securely in appropriate lifting equipment 
+
+ 
+
+ 
+
+ 
+
+

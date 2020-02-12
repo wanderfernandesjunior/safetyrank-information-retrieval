@@ -1,0 +1,113 @@
+ 
+
+ 
+
+ 
+
+Safety Alert 03 
+
+Compressor Overpressure Incident – Near Miss 
+
+ 
+
+What happened? 
+
+Following  routine  maintenance  at  a  processing  facility,  the  first  and  second  stages  of  a 
+compressor were severely over-pressurised during de-isolation.  In the ensuing efforts to rectify 
+the situation, operations personnel were exposed to a risk of a catastrophic failure of equipment 
+and being enveloped by a gas cloud. 
+
+What went wrong? 
+
+During maintenance work the compressor was isolated from a common gas export header via a 
+double  block  and  bleed  arrangement.    The  bleed  line  had  been  used  to  depressurise  the 
+compressor  prior  to  the  high  pressure  flare  header  being  isolated.    Following  maintenance,  the 
+de-isolation  process  was  commenced  by  opening  the  valve  to  the  gas  export  header  without 
+realising the bleed valve was still open.  As a result, the pressure increased along the pipework 
+downstream  of  the  pressure  safety  valve  up  to  the  isolating  valve  on  the  flare  header.    At  the 
+same time, gas flowed through the blow-down and recycle valves to the first, second and third 
+inlet sections of the compressor, which were open following de-energisation of the system.  This 
+was partly due to pipework modifications made in the 1990’s which allowed high pressure gas to 
+back-flow into the low pressure first stage suction side of the compressor. 
+
+The valve isolating the high pressure flare header was then opened slightly and an unexpected 
+gas  flow  was  noticed  that  started  to  ice  up  this  valve.    During  the  process  of  investigating  the 
+unexpected process conditions, a request to undertake another task was received.  Before leaving 
+the compressor area to undertake this new task, the valve flare header valve was closed, allowing 
+the  pressure  to  continue  building  up  at  the  compressor  inlet.    Before  the  de-isolation  process 
+could  be  resumed,  a  flange  and  a  seal  on  the  compressor  burst  resulting  in  a  gas  leak,  and 
+triggering a gas alarm and plant trip. 
+
+Due  to  concern  about  the  icing  up  of  the  flare  header  valve,  three  operators  proceeded  to  the 
+compressor  and  vented  the  pressure  through  scrubber  vents.    The  first  stage  scrubber  was 
+pressurised  to  almost  four  times  its  normal  operating  pressure  so  that  a  catastrophic  failure  of 
+equipment and associated rapid release of a gas cloud could have resulted. 
+
+Factors which contributed to the incident included: 
+
+• 
+
+• 
+
+• 
+
+The work was considered routine and although isolation points were listed on an isolation 
+certificate,  there  was  no  sequencing  for  valve  opening  and  closure  and  no  independently 
+verified procedures for the isolation and de-isolation process. 
+
+Isolation of the flare header from pressure safety valves was an accepted practice for this 
+type of work. 
+
+Operations  had  not  been  planned  to  take  for  account  of  all  activities  and  available 
+personnel. 
+
+• 
+
+• 
+
+• 
+
+• 
+
+ 
+
+• 
+
+• 
+
+• 
+
+• 
+
+The specific role of each valve was not well understood. 
+
+There was a modification to the compressor manifold skid piping, undertaken in the 1990’s 
+which  increased  the  risk  of  this  event  by  creating  the  capability  of  interconnecting  low 
+pressure and high pressure flare headers. 
+
+There were no pressure alarms on the interstage vessels, which may have alerted personnel 
+to the overpressure danger. 
+
+Recovery of the situation was not conducted from a position of safety. 
+
+Key lessons: 
+
+Operations  should  be  planned  to  ensure  that  adequate  resources  are  made  available  to 
+undertake the work safely. 
+
+Standard procedures for conducting isolation and de-isolation activities should be in place 
+and independently verified, and personnel should be trained and competent in their use. 
+
+•  Work which involves isolation of equipment from relief systems should be avoided where 
+possible,  except  where  pressure  in  the  system  has  been  reduced  to,  and  maintained  at, 
+sufficiently low levels to minimise the risk. 
+
+Training should be conducted to ensure that personnel can recognise the hazards from over-
+pressurisation  and  gas  releases,  and  to  ensure  that  in  the  event  of  an  incident,  the 
+coordination of recovery activities is conducted from a position of safety. 
+
+Any  changes  to  plant,  such  as  the  interconnection  between  the  high  pressure  and  low 
+pressure  flare  headers,  should  be  properly  reviewed  under  the  Management  of  Change 
+system. 
+
+

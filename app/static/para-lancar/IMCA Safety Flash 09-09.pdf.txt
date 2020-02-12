@@ -1,0 +1,403 @@
+AB 
+
+ 
+
+IMCA Safety Flash 09/09 
+
+Safety Flash 
+
+June 2009 
+
+These  flashes  summarise  key  safety  matters  and  incidents,  allowing  wider  dissemination  of  lessons  learnt  from  them.    The  information  below  has  been 
+provided in good faith by members and should be reviewed individually by recipients, who will determine its relevance to their own operations. 
+
+The effectiveness of the IMCA safety flash system depends on receiving reports from members in order to pass on information and avoid repeat incidents.  
+Please consider adding the IMCA secretariat (imca@imca-int.com) to your internal distribution list for safety alerts and/or manually submitting information 
+on specific incidents you consider may be relevant.  All information will be anonymised or sanitised, as appropriate. 
+
+A  number  of  other  organisations  issue  safety  flashes  and  similar  documents  which may  be  of  interest  to  IMCA  members.   Where  these  are  particularly 
+relevant, these may be summarised or highlighted here.  Links to known relevant websites are provided at www.imca-int.com/links   Additional links should 
+be submitted to webmaster@imca-int.com 
+
+ 
+
+1  Poor Maintenance and Subsequent Failure of Welding Equipment 
+
+During  a  recent  mobilisation  on  a  member’s  vessel,  sub-contractors  were  burning  and  welding  sea  fastenings  on  the  main 
+deck.  Following a report that flames were coming from the contractors’ acetylene tank regulator situated inside the holding 
+gas quad, a small fire was extinguished at the regulator, which was then cooled and removed for inspection (see Figure 1).  
+On examination it was found that thread tape was being used in all the connections on the contractors’ equipment. 
+
+Acetylene leak 
+and flames from 
+here 
+ 
+
+Acetylene leak and 
+flames from here 
+ 
+
+Figure 1 – Leaking regulator 
+
+Figure 2 – Leaking regulator in-situ 
+
+ 
+
+ 
+
+Further incidents with welding equipment on the same vessel were: 
+
+♦  A ship welding cable was found to be smouldering at a connection point; 
+
+♦  A midway cable connector was found arcing and smoking during deck welding operations; 
+
+♦  A nozzle head was found detached from an oxy-acetylene torch. 
+
+Existing repaired 
+cable 
+ 
+
+Exposed and charred 
+cable connector 
+ 
+
+Figure 3 – Welding cable found to be smouldering 
+
+Figure 4 – Midway cable connector found arcing and smoking 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Figure 5 – Detached nozzle head 
+
+ 
+
+The company would like to highlight the potential hazards of lack of control and maintenance of ship’s and sub-contractors’ 
+welding equipment, as there have been a number of incidents involving welding equipment in a poor state of repair and being 
+used whilst unfit for purpose onboard recently. 
+
+Members are also referred to the following incident report issued by the Marine Safety Forum regarding a further welding 
+incident. 
+
+It highlights an incident involving a welder who was adjusting the pressure on an oxygen regulator.  The welder had oil on his 
+hand and there was an oxygen leak from the hose clamp.  As a result the welder’s hand was badly burnt.   Oxygen under 
+pressure  and  hydrocarbons  (oil  and  grease)  can  react  violently,  resulting  in  explosions,  fire  and  injury  to  personnel  and 
+damage to property.  Never allow oil or grease or any organic matter to come into contact with oxygen under pressure. 
+
+Leak at 
+clamp 
+ 
+
+Regulator 
+adjusting 
+knob 
+ 
+
+Figure 6 – Location of oxygen leak from hose clamp 
+
+ 
+
+Figures 7 and 8 – Welder’s burnt hand following oxygen/hydrocarbon fire at leaky hose clamp 
+
+ 
+
+ 
+
+A member has provided the accompanying checklist for welding equipment which may be useful to members. 
+
+ 
+
+ 
+
+ 
+
+Equipment : 
+
+Pre Mobilisation / Demobilisation Welding Check List 
+
+Yes 
+
+No 
+
+Comments 
+
+Are welding cables and connections in good condition so as to 
+prevent arcing on the deck?  Are personnel aware not to run 
+cables over lifting equipment in case of arcing? 
+
+Has the burning equipment been fitted with correct flashback 
+arrestors, gauges and hose crimps?  
+
+Are all lifting accessories and equipment certified, i.e. baskets, 
+bottle racks, lifting slings? 
+
+Is there a lift basket or cage for lifting gas bottles? If not is there 
+one available on the vessel? 
+
+Is bulk oxygen and acetylene stored separately at least three 
+metres apart? 
+
+Is there a basket available for lifting Sea fastenings onboard? 
+
+Loose Sea fastenings cannot be lifted onboard by pallets.  
+
+Are approved welding procedures available?  
+
+Are personnel aware that, if pre-heating, only rose bud heaters 
+are allowed and not cutting torches?  
+
+Worksite: 
+
+Have flammable liquids/gases/solids been identified at the 
+worksite? Do they require to be removed, barriered off, 
+highlighted or covered with a fire retardant blanket? 
+
+Are all ‘no weld zones’ clearly marked and are personnel aware of 
+them? Has a deck plan been issued to vessel supervisor and 
+subcontractor showing all the zones? 
+
+Have fire zones been isolated? 
+
+Is there adequate lighting? 
+
+If required to work at height is there suitable access, work 
+platforms and safety equipment? 
+
+If required to work over the side, is the crane man riding, basket 
+and rigging certified, correct personal protective equipment (PPE) 
+and has a risk assessment been completed? 
+
+Have personnel been made aware of correct PPE when working 
+next to exposed/unguarded edges and openings? 
+
+Have fire fighting appliances been identified and readily available at 
+the work site and firewatchers positions? 
+
+Have provisions for scrap waste and used welding rods been 
+provided? 
+
+Have personnel been made aware of vessel movement when it 
+comes to setting up their cables from the shore side to the vessel?  
+
+Have personnel been made aware of the restriction on welding on 
+or cutting the vessel shear strake?  
+
+Are there provisions to protect the welders during wet weather?   
+
+Have personnel been made aware on the importance of cable 
+management and keeping walkways unrestricted? 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Pre Mobilisation / Demobilisation Welding Check List 
+
+Yes 
+
+No 
+
+Comments 
+
+ 
+
+ 
+
+ 
+
+Personnel: 
+
+Has the permit to work been completed and have all personnel 
+read and understood the risk assessment?  
+
+Have contractors had a shore side vessel safety induction? 
+
+Have the firewatchers been given a full safety briefing and 
+procedures to follow whilst on duty?  
+
+Has the subcontractor foreman/supervisor been introduced to 
+relevant vessel personnel as a point of contact? 
+
+Do the firewatchers have high visibility vests? 
+
+Do the firewatchers have a proven and tested form of 
+communication in the event of an emergency? 
+
+Do all contractors have full PPE?  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+

@@ -1,0 +1,121 @@
+Safety Alert 
+
+        From the International Association of Drilling Contractors 
+
+ 
+ALERT 09 – 04 
+ 
+
+EXPLOSION / FLASH FIRE ON RIG FLOOR  
+
+FOLLOWING GAS RELEASE 
+
+ 
+WHAT HAPPENED: 
+ 
+Following a logging run on drill pipe the drill string was pulled out of the hole (POOH).  During the trip out, the 
+well did not take the correct amount of fluid while pulling through the horizontal section.  Instead of returning 
+to bottom, the decision was made to continue POOH.  After laying down all the logging tools, the drill string 
+was run into the hole to TD in order to clean out the well.  The driller then pulled back to 4303 m to circulate, 
+during which time he observed a flow increase, so he shut in the well.  The decision was made to circulate 
+out any influx using the Driller’s Method.  During this circulation returns were lost and the BOP was opened 
+to  observe  the  well.    Mud  and  gas  came  through  the  table  so  the  BOP  was  closed  again.    Gas  alarms 
+sounded.    Pumping  was  resumed.    After  a  time  of  pumping,  pressure  gauges  read  “0.”    The  BOP  was 
+opened again to observe the well.  Again, mud and gas came through the table and gas alarms sounded.  
+An explosive flash fire then occurred.  Eight persons were injured.  All were evacuated to hospital.  
+ 
+WHAT CAUSED IT: 
+ 
+  Mud  weight  was  insufficient  to  control  the  well.    Mud  weight  was  approximately  0.5  ppg 
+
+underbalanced.   
+
+  Standard Operating Procedures were not followed during trip.  The trip tank and trip sheet were not 
+used  during  the  trip  out  of  the  hole  to  indicate  mud  volume  discrepancies  prior  to  start  of  circulation.  
+Although it was recognized that the well was not taking the correct fluid volume, corrective action was not 
+taken.  
+Incorrect  assessment  of  critical  well  control  situation  in  spite  of  known  underbalance.    It  was 
+assumed the influx was “trip gas.”  
+
+ 
+
+  Well-kill procedures not followed.  A kill sheet was not completed and pump strokes were not being 
+
+counted.   
+
+  BOP was opened twice without knowing the status of the well.   
+  Gas  alarms  did  not  produce  the  appropriate  response.    Alarms  were  deactivated  and  then  reset. 
+
+Additional personnel came to the rig floor rather than reducing the number of personnel. 
+
+  Wind direction.  Allowed the escaped gas to accumulate on and under rig floor and driller’s cabin. 
+ 
+WHAT WENT RIGHT 
+ 
+  Off-duty personnel mustered when gas alarms sounded. 
+  Well was quickly and completely shut in after the fire. 
+  SCR system to floor was shut down after the fire. 
+  Fires on the floor were quickly extinguished after the explosion. 
+  Medical treatment on rig and evacuation was well done and timely.  
+ 
+CORRECTIVE ACTIONS: To address this incident, this company did the following: 
+ 
+ 
+
+Instructed rig supervisors to always flow check through the choke first before opening the BOP.  
+If total strokes to kill the well have not been circulated, never open the BOP to check the well.  Check 
+for  flow  by  opening  choke  with  BOP  closed.    If  losses  have  occurred,  treat  losses  until  circulation  is 
+restored and continue killing the well.  
+
+  More  effective  well-control  training  to  recognize  a  critical  well-control  situation;  how  to  perform 
+
+calculations; procedures and methods for handling lost-returns while shut in and circulating.  
+
+ 
+
+The Corrective Actions stated in this alert are one company’s attempts to address the incident,  
+
+and do not necessarily reflect the position of IADC or the IADC HSE Committee. 
+
+This material is presented for information purposes only.  Managers & Supervisors should 
+
+evaluate this information to determine if it can be applied to their own situations and practices 
+
+Copyright  2005 International Association of Drilling Contractors All rights reserved. 
+
+Issued February 2009 
+
+Safety Alert 
+
+        From the International Association of Drilling Contractors 
+
+ 
+ 
+  More effective training to recognize and respond to alarms and non-standard situations.  
+  Mandatory use of trip tank (with trip sheet to determine losses or gains).  
+ 
+
+Instructed  rig  management  and  maintenance  personnel  to  ensure  all  possible  ignition  sources  on  or 
+around the rig floor are isolated and meet hazardous-area requirements and standards. 
+Improve ventilation on and under drill floor and Driller’s cabin to prevent gas accumulation.  
+
+ 
+  Safety Management System audits are to include audits of operational procedures.  These audits are to 
+
+be conducted utilizing cross-functional personnel from operations, maintenance, engineering, etc.  
+
+ 
+
+The Corrective Actions stated in this alert are one company’s attempts to address the incident,  
+
+and do not necessarily reflect the position of IADC or the IADC HSE Committee. 
+
+This material is presented for information purposes only.  Managers & Supervisors should 
+
+evaluate this information to determine if it can be applied to their own situations and practices 
+
+Copyright  2005 International Association of Drilling Contractors All rights reserved. 
+
+Issued February 2009 
+
+

@@ -1,0 +1,77 @@
+Safety Alert 
+
+From the International Association of Drilling Contractors
+
+ 
+
+ 
+ALERT 02 – 29 
+ 
+
+USE OF SLIP TYPE ELEVATORS RESULTS IN A FOOT INJURY 
+
+ 
+WHAT HAPPENED: 
+ 
+The rig was tripping in the hole with 3-1/2 inch PH-6 pipe using slip type elevators.  While tripping in the hole, the slip 
+type elevators were latched onto a stand of pipe.  The slips bit prematurely, pulling the stand off the floor.  Moments 
+later the slips released their grip allowing the stand to slide downwards landing on an employee’s foot. 
+ 
+WHAT CAUSED IT: 
+ 
+During the process of latching stands of pipe, they are naturally leaning toward the well bore and are not completely 
+vertical.  In the case of 3-1/2 inch, PH-6 pipe, the bow can be pronounced.  The pipe, not being vertical, may cause 
+the slip type elevators to tip away from level allowing segments of the slips to come in contact with the pipe prior to 
+the elevators sliding up to the upset area.  If this occurs, it is possible for the slips to take a partial “bite” resulting in a 
+pull on the stand of pipe as the block is raised.  When the stand moves toward the well bore and returns to a more 
+vertical position, contact between the pipe and the slips may be lost allowing the stand to slide downwards through 
+the slip type elevators until contacted by the upset area.  So, premature “biting” of the slips can result from various 
+combinations of the following; 
+ 
+
+•  Distance of pipe stands from well bore creating “bow” in the pipe.  
+•  Newness and sharpness of slip segments in the slip type elevators. 
+•  Upward movement of the blocks at the time the stand is latched or too fast movement thereafter. 
+•  Cleanliness and lubrications of elevator slip inserts 
+
+ 
+CORRECTIVE ACTIONS:  To address this incident, this company issued the following instructions to rig 
+personnel:   
+ 
+
+•  As  with  any  equipment,  it  is  important  to  ensure  that  slip-type  elevators  are  properly  serviced  and 
+
+functioning correctly.   
+
+•  All operating units are directed to review their JSA’s involving tripping pipe in or out of the well bore.  The 
+
+following cautionary statement is to be added. 
+
+ 
+WARNING: 
+Whenever  operations  call  for  the  use  of  slip-type  elevators,  the  Toolpusher  must  verify  with 
+Operator Personnel and company management that it is not possible to utilize any other type of elevators such as a 
+bottleneck type elevators.  If it is possible to use another type of elevator, then that equipment is to be used. 
+ 
+Whenever  use  of  slip-type  elevators  is  required,  the  blocks  shall  be  completely  stopped  prior  to  latching  the 
+elevators on the pipe.  The blocks must be raised in a slow, deliberate fashion to allow the elevators to slide up to 
+the pipe upset area.  Pipe subject to pickup by slip-type elevators must be stood back in the derrick no further than 
+necessary, eliminating as much “bowing” as possible. Personnel responsible for “tailing” pipe must keep the pipe at 
+arms length at all times and are not to let the pipe get next to their body in case of slippage.  Consideration should 
+be given to the use of a tail rope allowing employees to stand well away from the pipe at initial pick-up.  Employees 
+are to be instructed to never position themselves directly under stands or joints of the drilling string.  Extra caution 
+needs to be exercised with slip type elevators.  
+
+The Corrective Actions stated in this alert are one company’s attempts to address the incident, and do not 
+
+necessarily reflect the position of IADC or the IADC HSE Committee. 
+
+This material is presented for information purposes only.  Managers & Supervisors should  
+
+evaluate this information to determine if it can be applied to their own situations and practices. 
+
+Copyright © 2002 International Association of Drilling Contractors.  All Rights Reserved 
+
+Issued July 2002 
+
+

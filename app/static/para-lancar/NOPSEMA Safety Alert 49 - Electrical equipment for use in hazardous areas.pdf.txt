@@ -1,0 +1,139 @@
+Electrical equipment suitable for use in hazardous areas 
+
+ 
+
+Safety Alert 49
+
+  
+
+ 
+
+Marked as 
+
+Zone 1 
+
+ 
+
+What happened? 
+
+An operator recently purchased a forklift truck supplied to the facility operator as being suitable for 
+use in Class1 Zone1 hazardous areas. During a recent planned regulatory inspection, however, 
+NOPSA queried the validity of the “Certificate of Conformity”, which was a self-certification by the 
+manufacturer. 
+
+On further investigation the forklift was found to be non-compliant with the relevant Australian 
+Standards for use of electrical equipment in hazardous areas. 
+
+What was the result? 
+
+The following were found to be factors in the selection of equipment which was not fit for its function 
+and use: 
+
+  A replacement forklift for use in Zone 1 hazardous areas was ordered without proper 
+
+consideration of the manufacturer’s claim that the “Explosion-proof forklift trucks are fully certified 
+to Australian Standards Class 1, Zone 1”; 
+
+  The operator’s management of change process did not require an in-depth Quality Assurance 
+
+(QA) review for like-for-like replacement;  
+
+  QA was only undertaken for lifting and handling of the forklift. There were no QA checks 
+
+undertaken by the operator for the design and manufacture to appropriate standards, nor was 
+independent certification requested; 
+
+  The forklift was delivered with a manufacturer’s “Certificate of Compliance” indicating compliance 
+
+with Australian Standards for Class 1, Zone 1 hazardous areas; 
+
+  The forklift was marked in bold letters indicating its suitability for “Zone 1”; 
+  The forklift did not comply with relevant Australian Standards certification requirements for 
+
+electrical equipment operating in explosive gas atmospheres; and 
+
+  After investigation, the operator found that the forklift was not constructed to the requirements of 
+
+an appropriate protection concept. Deficiencies included:  
+
+  Cable entries did not use flame-proof seals 
+  Corrosion was found on the flame path and cable entries to the junction box 
+  A non-explosion protected motor was used 
+  Other electrical parts used were not suitable for use in a hazardous area. 
+
+ 
+
+ 
+
+ 
+
+August 2011 
+
+Page 1 of 2 
+
+nopsa.gov.au
+
+Safety Alert 49
+
+  
+
+ 
+
+ 
+
+ 
+
+Key Lessons: 
+
+  When purchasing safety-critical equipment operators should not rely on suppliers’ claims of 
+
+compliance and should seek suitable independent verification where appropriate.  Verification of 
+design (type approval certificate) and manufacture (Certificates for Conformity) by a suitably 
+qualified independent body is considered good industry practice; 
+
+  An operator’s management of change process should include appropriate QA requirements for 
+
+like-for-like replacement items; 
+
+  Operators should ensure adequate QA is applied during the procurement process to guarantee 
+equipment meets its required performance standards and has the appropriate certification; and 
+  The certification of safety-critical equipment should follow good industry practice. For example, 
+
+certification of electrical equipment for use in hazardous areas may be conducted as described in 
+a Type 5 Scheme complying with ISO/IEC Guide 67 by a body operating within the International 
+Electrotechnical Commission for Certification to Standards Relating to Equipment for use in 
+Explosive Atmospheres (IECEx) Scheme, or by a certification body with accreditation from the 
+Joint Accreditation System of Australia and New Zealand (JAS-ANZ) or other suitable equivalent. 
+
+  Operators have a duty of care to take all reasonably practicable steps to ensure equipment at the 
+
+facility is safe and without risk to health (Clause 9, Schedule 3 to the Offshore Petroleum 
+Greenhouse Gas Storage Act 2006). 
+
+  Suppliers have a duty of care to ensure plant or substance at the time of supply, when properly 
+
+used, is safe and without risk to health (Clause 13, Schedule 3 to the Offshore Petroleum 
+Greenhouse Gas Storage Act 2006). 
+
+The Law: 
+
+Contact: 
+
+For further information email communications@nopsa.gov.au and quote Alert 49. 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+August 2011 
+
+Page 2 of 2 
+
+nopsa.gov.au
+
+

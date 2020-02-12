@@ -1,0 +1,161 @@
+Safety Alert 
+
+        From the International Association of Drilling Contractors 
+
+ 
+ALERT 12 – 20  
+ 
+
+HELIDECK OBSTRUCTION HAZARD: MARKING AND NOTIFICATION 
+
+ 
+ISSUE:   
+ 
+A  recent  fatal  helicopter  crash  has  highlighted  the  need  for  effective  coordination  of  information  between 
+offshore  facility  operators  and  aviation  service  providers  (ASPs)  regarding  helideck  obstructions  and 
+closures. 
+ 
+As  with most incidents, there  were multiple barriers  which,  had any  one of them been  effectively managed 
+and  in  place,  could  have  prevented  the  incident.    One  such  barrier,  which  is  under  the  control  of  the 
+management  of  the  offshore  facility,  is  the  effective  identification  of  possible  obstructions  to  the  helideck, 
+declaring  the  helideck  closed,  properly  marking  its  closure,  and  notifying  aviation  service  providers  of  the 
+helideck’s  closure.    In  this  incident  the  pilot  attempted  to  land  on  the  helideck  of  a  platform  that  was  not 
+marked as closed, even though it was apparently obstructed by a jackup that was working over the platform.  
+It is not known why the pilot attempted to land on the platform’s helideck instead of that of the MODU, or that 
+the  pilot  did  not  identify  that  the  flight  path  was  obstructed,  even  without  the  helideck  being  marked  as 
+closed.  After the incident, the platform’s management did mark the helideck as closed. 
+ 
+DISCUSSION:  
+ 
+The  Limited  Obstacle  Sector  (LOS)  of  a  helideck  is  normally  marked  on  the  helideck.    However,  routine 
+MODU  or  platform  operations  can  cause  obstructions  to  helidecks  or  impinge  on  a  helideck’s  LOS  or 
+obstacle free sector with the potential to adversely impact flight safety.  These include, but are not limited to: 
+ 
+•  Locating a MODU in a position such that the  unit’s structure obstructs the flight path to the helideck of 
+
+another offshore facility; 
+ 
+
+•  Locating  the  MODU  in  a  position  that  obstructs  the  areas  below  the  helideck  of  another  facility,  which 
+should be kept clear in order to provide a clear flight path for a helicopter that may abort a landing or not 
+gain full lift on take-off; 
+ 
+
+•  Locating  a MODU  in  a position such that  its own helideck  is obstructed by a structure on  or below  the 
+
+platform; 
+ 
+
+ 
+
+•  Allowing  vessels  to  occupy  a  position  that  obstructs  the  area  below  the  helideck  of  their  own  unit  or 
+another nearby facility, which should be kept clear in order to provide a clear flight path for a helicopter 
+that may abort a landing or not gain full lift on take-off;  
+ 
+
+•  Having the booms of cranes that have the ability to enter into the limited obstacle sector of a helideck;  
+
+•  Placing unauthorized material or equipment on the helideck that causes an obstruction. 
+ 
+A  helideck  that  is  obstructed  should  be  taken  out  of  service  and  marked  in  accordance  with  applicable 
+regulatory requirements or standards.  The International Civil Aviation Organization (ICAO) has established 
+standards  for  limiting  obstacles  in  way  of  helidecks  and  for  marking  helidecks  as  closed.   While  the  ICAO 
+standards  are  only  applicable  to  “international”  aviation,  their  standards  (often  with  modifications)  are 
+commonly reflected in national regulations or industry standards, the most comprehensive of which is the UK 
+Civil Aviation Authority’s CAP 437, Standards for Offshore Helicopter Landing Areas. 
+ 
+ 
+ 
+
+The Corrective Actions stated in this alert are one company’s attempts to address the incident,  
+
+and do not necessarily reflect the position of IADC or the IADC HSE Committee. 
+
+This material is presented for information purposes only.  Managers & Supervisors should 
+
+evaluate this information to determine if it can be applied to their own situations and practices 
+
+Copyright  2008 International Association of Drilling Contractors All rights reserved. 
+
+Issued August 2012 
+
+Safety Alert 
+
+        From the International Association of Drilling Contractors 
+
+ 
+ 
+ACTION RECOMMENDED: 
+ 
+Before  moving  a  MODU  onto  a  new  operating  location,  an  assessment  should  be  made  regarding  the 
+possibility that the unit, or its structure, could impinge on the limited obstacle areas of other offshore facilities 
+in the area; or that the structure of such facilities may impinge on the limited obstacle areas of the MODU’s 
+own helideck. 
+ 
+For  MODUs  involved  in  combined  operations,  the  bridging  arrangements  between  the  MODU  and  the 
+associated facility should clearly identify if a helideck on either the MODU or the facility is to be taken out of 
+service.  The bridging arrangements should also make provisions for communication of information regarding 
+operations on one installation that may necessitate, or warrant, the temporary closure of the helideck on the 
+other  installation,  such  as  the  potential  for  temporary  obstructions  posed  by  crane  or  vessel  operations,  or 
+certain critical operations (e.g., involving explosives for perforating operations). 
+ 
+Regulatory  authorities,  aviation  search  and  rescue  services  and  ASPs  should  be  notified  of  any  helideck 
+closures in accordance with appropriate procedures for the area of operation; and all closed helidecks should 
+be marked appropriately. 
+ 
+The following references are available for further information:  
+ 
+•  National civil aviation regulations 
+ 
+•  UK Civil Aviation Authority 
+
+o  CAP 437 – Standards For Offshore Helicopter Landing Areas - [link] 
+
+ 
+•  HSAC (United States) Recommended Practices – [link] 
+
+o  92-1 - Helideck / Heliport Operational Hazard Warning(s) Procedure(s) 
+o  92-4 - Gas Venting, Helideck/heliport Operational Hazard Warning(s) Procedure(s) 
+o  92-5 - Closed Helidecks/Heliports, Helideck/Heliport Operational Hazard Warning(s) Procedure(s) 
+o  2004-1 - Offshore Helideck Inspections 
+o  2004-7 - Helideck Hazards 
+o  2008-1 - Gulf of Mexico Helideck Markings 
+
+International Civil Aviation Organization (ICAO) 
+o 
+
+ICAO Convention, Annex 14, Volume II (Heliports) 
+
+International Association of Oil and Gas Producers (OGP) 
+o  Aviation Management Guide 
+
+ 
+
+ 
+
+ 
+
+• 
+
+• 
+
+• 
+
+ 
+
+International Maritime Organization (IMO) 
+o  Code for the Construction and Equipment of Mobile Offshore Drilling Units, 2009, Chapter 13 
+
+The Corrective Actions stated in this alert are one company’s attempts to address the incident,  
+
+and do not necessarily reflect the position of IADC or the IADC HSE Committee. 
+
+This material is presented for information purposes only.  Managers & Supervisors should 
+
+evaluate this information to determine if it can be applied to their own situations and practices 
+
+Copyright  2008 International Association of Drilling Contractors All rights reserved. 
+
+Issued August 2012 
+
+

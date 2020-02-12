@@ -1,0 +1,262 @@
+AB 
+
+ 
+
+IMCA Safety Flash 09/13 
+
+Safety Flash 
+
+June 2013 
+
+These  flashes  summarise  key  safety  matters  and  incidents,  allowing  wider  dissemination  of  lessons  learnt  from  them.    The  information  below  has  been 
+provided in good faith by members and should be reviewed individually by recipients, who will determine its relevance to their own operations. 
+
+The effectiveness of the IMCA safety flash system depends on receiving reports from members in order to pass on information and avoid repeat incidents.  
+Please consider adding the IMCA secretariat (imca@imca-int.com) to your internal distribution list for safety alerts and/or manually submitting information 
+on specific incidents you consider may be relevant.  All information will be anonymised or sanitised, as appropriate. 
+
+A  number  of  other  organisations  issue  safety  flashes  and  similar  documents  which may  be  of  interest  to  IMCA  members.   Where  these  are  particularly 
+relevant, these may be summarised or highlighted here.  Links to known relevant websites are provided at www.imca-int.com/links   Additional links should 
+be submitted to webmaster@imca-int.com 
+
+ 
+
+1  High Potential Near Miss: Dropped ROV/TMS Leading to Equipment Damage 
+
+A member has reported an incident in which an ROV/TMS and an A-frame docking head fell to the deck from approximately 
+1m.  The incident occurred during the launch of the system; the ROV crew witnessed a guide bar from the A-frame docking 
+head fall more than 4m to the deck, landing at the base of the ROV some 2m from an ROV crew member.  The guide bar 
+was  heavy-walled  box  section,  approximately  2m  in  length  and  weighed  approximately  20kg.    The  launch  was  stopped 
+immediately;  after a further 20-30 seconds, the docking head  separated from the  A-frame, and the ROV/TMS  and docking 
+head fell to the deck. 
+
+There  was  significant  damage  to  the  equipment,  and  our  member  considered  that  the  incident  had  the  potential  to  have 
+caused a fatality or serious injury to personnel. 
+
+  
+
+   
+
+Figure (L) showing guide bar and (R) guide 
+
+     
+
+Figure: showing stripping out of threads 
+
+ 
+
+ 
+
+ 
+ 
+
+Our member’s initial investigation of the incident revealed the following: 
+
+♦  The two snubbing damping cylinder rams had stripped out from their clevis threads on the swing frame; 
+
+♦  The welds between the sheave guide posts and the docking head had also separated; 
+
+♦  The initial investigation suggested that the guide post welds had been compromised, allowing movement of the docking 
+head out with the design of this system.  This movement eventually transferred through to the damping cylinder clevis 
+points, causing stretching of the clevis points over time until they reached a failure point; 
+
+♦  The stresses that led to the guide post weld failures were most likely to have been induced over time by operating the 
+
+A-frame with the damping cylinders in the locked position. 
+
+The following causes were identified, subject to clarification when the fuller investigation is completed: 
+
+♦  Equipment  
+
+♦  Procedures 
+
+-  A review of the clevis design is required to assess their suitability for the loads to which they can be subjected; 
+
+-  The  site-specific  launch  and  recovery  procedure  called  for  putting  the  snubber  ring  in  the  “locked”  position  in 
+marginal sea states to prevent excessive swinging of the ROV/TMS, for both launch and recovery.  The manual for 
+the type of A-frame involved in this incident makes specific references warning against moving the A-frame with the 
+snubbing damping cylinders in the “locked” position; 
+
+-  The  preliminary  investigation  indicates  that  the  stress  on  the  guide  post  welds  is  possibly  a  result  of  the  A-frame 
+
+being operated with the system in the “locked” position over a period of time; 
+
+-  The manual for the type of A-frame involved in this incident contains storage and start up procedures which include 
+instructions  to  “inspect  structure  for  inadvertent  damage”  and  “check  condition  of  paintwork  ensuring  there  are  no  bare 
+metal surfaces”.  Had these procedures been followed, it is possible that damage to the guide post welds would have 
+been spotted before the failure. 
+
+♦ 
+
+Inspection and Maintenance 
+- 
+
+Inspection of the weld areas between the sheave guide posts and the docking box suggest that these areas had been 
+compromised and possibly separated for some time prior to this incident, and should have been identified already as 
+part of routine maintenance on the A-frame. 
+
+Members may also wish to refer to the following IMCA documents: 
+
+IMCA R 011 – The initial and periodic examination, testing and certification of ROV handling systems; 
+
+♦ 
+
+♦ 
+
+IMCA SEL 019 – Guidelines for lifting operations. 
+
+2  Failure of Lifting Equipment: Dropped ROV 
+
+A member has reported an incident during offshore lifting operations in which a sling failed, causing an ROV and TMS to drop 
+30cm onto deck.  The incident occurred during moving of the ROV and TMS.  The whole assembly, weighing approximately 
+8  tonnes,  was  directly  slung  to  the hook  of the  vessel’s  crane  using  a  10  tonne  round  fibre  sling  choked  around  the  main 
+lifting eye.  The failure of the sling happened when the load was swung towards its temporary landing spot, after it had been 
+lifted from its initial position.  The sling failed suddenly and completely, causing the ROV/TMS assembly to drop from 30 cm 
+onto the deck.  There were no injuries, but the frame of the ROV was noticeably damaged.  
+
+ 
+Figure 1: 10 tonne round fibre sling choked around the main lifting eye 
+
+Figure 2: fibre sling was choked around a sharp edge  
+
+ 
+
+ 
+
+ 
+              Figure 3: Damage to ROV frame 
+
+ 
+
+               Figure 4: Sling after failure 
+
+Our member’s investigation revealed the following: 
+
+♦  The  company’s  own  safety  management  system  was  not  followed  by  the  involved  personnel  (watch-keeping  officer,  
+
+sub-contractor’s staff and crane operator); 
+
+♦  No lift plan was conducted before the start of the operations; 
+
+♦  The on-duty deck foreman was not present on deck to supervise the operations; 
+
+♦  The  adequate  rigging  equipment  and  accessories  (9.7  tonne  four  leg  assembly  and  four  4.75  tonne  bow  shackles) 
+
+required to lift this particular load was not used, and a 10 tonne round fibre sling was used instead; 
+
+♦  The fibre sling was choked around a sharp edge, and no protection or “packing” was placed between the sling and the 
+
+sharp edge.  
+
+operations;   
+
+Our member identified the following preventative actions: 
+
+♦  Remind  all  personnel  onboard  vessels,  including  sub-contractors  and  client  personnel,  to  follow  company  safety 
+
+management system, particularly with respect to lifting operations; 
+
+♦  Ensure  lift  plans  are  undertaken  before  every  lifting  operation,  and  ensure  lift  plan  is  strictly  followed  during  lifting 
+
+♦  Ensure the on-duty deck foreman is always present on deck to supervise any rigging and lifting operations;  
+
+♦  Ensure that only certified and adequate rigging and lifting equipment and accessories are used;  
+
+♦  Ensure that improvised solutions are never used for lifting operations; 
+
+♦  Ensure the rigging and lifting equipment and accessories cannot be damaged by sharp edges, chemicals, hot items etc.; 
+
+♦  Where appropriate, place protection or “packing” between slings and any identified sharp edges;  
+
+♦  Remind personnel that sharp edges do not have to be “razor-sharp” to cause failure of rigging equipment. 
+
+Members may wish to refer to the following IMCA documents, in particular the pocket safety cards which are intended for 
+use by vessel crews:  
+
+♦ 
+
+♦ 
+
+♦ 
+
+♦ 
+
+IMCA SEL 019 – Guidelines for lifting operations 
+
+IMCA SPP 04 – Avoiding dropped objects 
+
+IMCA SPC 05 – Lifting equipment 
+
+IMCA SPC 12 – Avoiding dropped objects 
+
+3  Securing of Cargo 
+
+The  Marine  Safety  Forum  has  published  the  following  safety  flash  regarding  an  incident  in  which  incorrectly  stowed  cargo 
+toppled  over  due  to  the  vessels  motion  on  encountering  unexpected  adverse  weather  conditions.    The  equipment  was 
+incorrectly positioned during the outbound load out and not secured.  
+
+The safety flash can be downloaded from www.marinesafetyforum.org/upload-files//safetyalerts/msf-safety-flash-13.14.pdf  
+
+ 
+4  Generator Fire Incident 
+
+A member has reported an incident in which there was a small fire onboard an offshore vessel.  Excessive smoke and bright 
+light were observed coming from a rental generator and the fire alarm was raised.  The vessel fire team were called and they 
+were able to suppress the fire within twenty minutes.  
+
+Figure 1: Generator cable caught fire suspected worn wiring over 
+
+time and lay out cables over the terminal 
+
+Figure 2: Phase 2 of the generator bus bar possibly contacting 
+the generator casing; thus burning through phase 2 bus bar 
+
+ 
+
+ 
+
+♦  Our member identified the following immediate causes: 
+
+-  On board the vessel, two of three generators have a protection plate above the output plate, above the HV output 
+terminals. This generator did not have that protection plate.  There was evidence that the cable retaining bar was 
+rusted and  showing no signs  of ever supporting cables.   This would have  meant that the starter motor  cable was 
+lying on top of the HV output terminals; over time this cable may have worn through due to vibration and causing a 
+short circuit on phase 2, thus starting the fire; 
+
+-  On examination, the phase 2 bus bar appeared to be touching the generator casing (see Figure 2).  As the bus bar 
+burnt, the heat inside the generator caused the cables on the cable retaining bar to fall.  However, the expectation 
+was that the cable retaining bar would be blackened and not rusted. 
+
+♦  Our member noted that root cause investigation was on-going, and the following lessons were learnt: 
+
+Proper maintenance and routine check on generators and make sure no wiring laying across the terminal; 
+
+- 
+-  All generators should have appropriate protection cover to prevent water getting inside the terminal; 
+- 
+- 
+
+Fire extinguishers stood by near generators; 
+Internal nuts and bolts to be checked, fitted with lock washers as appropriate, and tightened properly. 
+
+5 
+
+Increase in Dropped Object Events   
+
+The Australian National Offshore Petroleum Safety and Environmental Management Authority (NOPSEMA) has identified a 
+concerning increase in dropped object events on mobile offshore drilling units (MODUs) in the first quarter of 2013.  Nine 
+dropped object notifications have been received by the authority in the first quarter of 2013.   
+
+The  weights  and  heights  of  the  dropped  objects  ranged  from  2  to  2300  kg  and  from  less  than  1  metre  to  43  metres.  
+The dropped objects were sections of drill pipe and casing, a spool of wire rope, a navigation light fitting, slip inserts, a hose 
+bundle, an equipment handle and a camera located in the derrick.  Three members of the workforce were injured in three 
+separate dropped object events.  Two workers each suffered a crush injury to the foot requiring a medical evacuation from 
+the facility, while another worker required first aid treatment for a leg injury.  In another case, a member of the workforce 
+was standing only 2 metres from where a 28 kilogram object landed having dropped from a height of 19 metres.  
+
+Analysis  using  the  industry  supported  DROPS  Calculator  indicates  that  six  of  these  dropped  object  events  could  have 
+resulted in a fatality. 
+
+Further information can be found at www.nopsema.gov.au/assets/alert/Safety-Alert-56-Dropped-objects.pdf  
+
+

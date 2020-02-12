@@ -1,0 +1,118 @@
+www.aiche.org/ccps
+
+http://www.aiche.org/CCPS/Publications/Beacon/index.aspx
+
+Messages for Manufacturing Personnel
+
+Corrosion under insulation
+
+This issue sponsored by
+
+www.iomosaic.com
+
+June 2019
+
+A plant experienced a catastrophic 
+piping failure of an 8-inch (200 mm) 
+insulated steel line containing 
+noncorrosive cracked gas (~ 40% 
+ethylene). The incident started as a 
+pinhole leak that was detected by 
+operators. The pipe failed while the line 
+was being isolated and depressurized. 
+Fortunately, the line folded as it failed, 
+which limited the size of the release. 
+There were no injuries.
+
+The line was 30 years old. It was in
+
+• Normal operation at 1 °F (–17 °C)
+• Regeneration at 428 °F (220 °C)
+• Standby at ambient temperature
+
+a regeneration service where operation alternated among three different temperature conditions:
+
+These changes in operating temperature caused condensation of moisture from the atmosphere on the outside of 
+
+the pipe, and re-evaporation. This is a well-known high-risk situation for corrosion under insulation (CUI). It can 
+easily be missed if the mechanical integrity team is not aware of the changing operating conditions.
+
+Reference:  Morey, A. “Corrosion Under Insulation Revisited: Aren’t We About to Finish that Project?” Process Safety Progress 37 (4), pp. 502-505, December 2018.
+
+Did You Know?
+
+What Can You Do?
+
+ Corrosion under insulation (CUI) is external corrosion 
+
+ Understand which equipment in your plant is most 
+
+of pipes and vessels. It can happen when a corrosive 
+fluid, including process fluids which have leaked, is 
+trapped under insulation or fireproofing and kept in 
+continued contact with the outside of pipes or vessels.
+
+ CUI can also result from trapped water from 
+
+precipitation or condensation of atmospheric moisture.
+
+ CUI often occurs in carbon steel that is cold enough for 
+
+water to condense on the external surface.
+
+ CUI occurs most often when the operating temperature 
+is between 10 and 350 °F (– 12 and 177 °C) or in cyclic 
+service where temperatures go in and out of this range.
+ Corrosive liquid may accumulate at the lowest part of 
+
+the piping or vessel, rather than where the leak, spill, or 
+condensation occurred.
+
+ Damaged insulation may allow water to enter. The 
+
+insulation jacket is an important layer of protection to 
+keep the metal pipe or other equipment dry.
+
+ A common cause of jacket failure is from people 
+
+susceptible to CUI. Some examples include steel pipe, 
+pipe in cold or cycling service, and pipe containing a 
+corrosive fluid. Your corrosion experts can provide 
+information to help you understand CUI in your plant.
+ When you walk through the plant, look for damaged 
+
+insulation, jackets, or seals where water can enter. 
+These areas should be inspected, and the insulation 
+repaired.
+
+ Immediately report signs of any leak that you observe. 
+
+Look for signs of liquid inside the insulation jacket 
+such as drips or puddles (even if “only water”), 
+discoloration, rust stains, and blistering. Follow up to 
+make sure the leak is repaired in a timely manner.
+
+ If insulation is removed during maintenance or repairs, 
+
+use this chance to check the equipment for signs of 
+corrosion. Also, remember that the job is not complete 
+until the insulation is replaced.
+
+stepping on insulated pipe to reach something.
+
+ Read the February 2005 and January 2014 Beacons for 
+
+ Insulation hides corrosion from view.
+
+other examples of corrosion under insulation. 
+
+Recognize corrosion under insulation hazards!
+
+©AIChE 2019. All rights reserved. Reproduction for non-commercial, educational purposes is encouraged. However, reproduction for any 
+commercial purpose without express written consent of AIChE is strictly prohibited. Contact us at ccps_beacon@aiche.org or 646-495-1371.
+
+The Beacon is usually available in Afrikaans, Arabic, Catalan, Chinese, Czech, Danish, Dutch, English, Filipino, French, German, Greek, Gujarati, Hebrew, Hindi, Hungarian, Italian, 
+
+Japanese, Korean, Malay, Marathi, Mongolian, Persian (Farsi), Polish, Portuguese, Romanian, Russian, Spanish, Swedish, Telugu, Thai, Turkish, Urdu, and Vietnamese.
+
+

@@ -1,0 +1,57 @@
+Safety Alert 
+
+From the International Association of Drilling Contractors 
+
+ 
+
+ 
+ 
+ALERT 03 – 45 
+ 
+
+FILLING CASING WITH HIGH PRESSURE MUD PUMP  
+
+RESULTS IN A LOST TIME INCIDENT 
+
+ 
+WHAT HAPPENED: 
+ 
+The rig was in the process of running casing.  While filling the casing with mud, a floorman closed the fill line 
+valve  when  the  casing  was  full.    When  he  closed  the  valve,  the  pressure  build  up  in  the  line  surpassed  the 
+working pressure of the valve causing line failure.  The floorman was struck with debris and required medical 
+attention.  The result was a Lost Time Incident.   
+ 
+WHAT CAUSED IT: 
+ 
+The  investigation  showed  that  the  rig  was  using  its  high-pressure  mud  pump  to  fill  casing.    The  fill  line 
+components did not meet the pressure requirements of the high-pressure mud pump. 
+ 
+CORRECTIVE ACTIONS:  To address this incident, this company did the following: 
+ 
+•  Directed  the  Rig  Managers  to  ensure  that  the  only  centrifugal  mud  pumps  are  directly  connected  to  the 
+
+• 
+• 
+• 
+
+casing fill line on all of the company rigs.    
+Instructed rig personnel to use a ball type valve with a 90-degree filling extension on the end of the fill line.  
+Instructed rig personnel that casing fill line should not allow for main mud pumps to be used to fill casing.   
+Instructed  rig  personnel  that  only  in  an  emergency  situation  should  the  main  mud  pumps  be  used  to  fill 
+casing.   
+
+•  Suggested that on rigs with Top Drives, the use of the Top Drive may eliminate this problem. 
+
+The Corrective Actions stated in this alert are one company’s attempts to address the incident, and do not 
+
+necessarily reflect the position of IADC or the IADC HSE Committee. 
+
+This material is presented for information purposes only.  Managers & Supervisors should  
+
+evaluate this information to determine if it can be applied to their own situations and practices. 
+
+Copyright © 2003 International Association of Drilling Contractors.  All Rights Reserved 
+
+Issued November 2003 
+
+

@@ -1,0 +1,64 @@
+http://www.aiche.org/CCPS/Publications/Beacon/index.aspx
+
+Messages for Manufacturing Personnel
+
+Understand the Reactivity of Your Heat Transfer Fluid!
+
+February 2011
+
+This issue sponsored by
+
+When thinking about chemical reaction 
+
+hazards in your plant, remember to 
+consider possible reaction between heat 
+transfer fluids and your process materials 
+in case of a leak in a heat exchanger, 
+condenser, reboiler, reactor jacket or coil, 
+or other heat transfer equipment.
+
+A plant had an explosion in the outlet 
+
+piping of an oxidation reactor which 
+ruptured a 36 inch pipe. The explosion was 
+caused by the reaction of nitrate salt, used 
+as a heat transfer fluid to remove heat from 
+the reactor, leaking into the piping where 
+carbonaceous deposits had been trapped in 
+a short dead-leg. Reactive chemical testing
+indicated that the reaction resembled closely the decomposition of TNT explosive. Fortunately, 
+nobody was injured. The incident showed that it was critical to avoid leaks of the nitrate salt, to detect 
+leaks if they did occur, and to have a safe shutdown procedure if there was a leak.
+
+While this incident involved a relatively reactive heat transfer fluid (nitrate salt), many process 
+
+materials can react with common heat transfer fluids such as water, steam, brine solutions, ethylene 
+glycol solutions, or heat transfer oils. The reactions may produce heat or generate gas and pressure.
+
+What can you do?
+
+• Make sure that your process hazard analysis studies consider the potential for leaks of non-process 
+fluids, including reaction hazards. For example, consider heat transfer fluids; additives such as 
+corrosion inhibitors or biocides in heat transfer fluids; lubricating oils used in pumps, agitators, 
+compressors, or other rotating equipment; material which might drain into vessels from vent 
+collection systems; and any other materials which might get into your process equipment.
+• Know how to detect utility fluid leaks into your plant equipment – including reactors or heat 
+exchangers that can have thousands of tubes and require rigorous maintenance and inspection 
+procedures to prevent leaks. You need to know:
+
+• How can you recognize that a leak into the process is occurring?
+• If there is a leak, what specific changes will you see in the way your process behaves?
+• Are there any specific process parameters which would provide useful information for 
+detecting a leak?
+• What should you do if you suspect a leak?
+
+Don’t forget that heating and cooling fluids can be reactive with your process!
+
+AIChE © 2011. All rights reserved. Reproduction for non-commercial, educational purposes is encouraged.  However, reproduction 
+for the purpose of resale by anyone other than CCPS is strictly prohibited.   Contact us at ccps_beacon@aiche.org or 646-495-1371.
+
+The Beacon is usually available in Afrikaans, Arabic, Chinese, Danish, Dutch, English, French, German, Greek, Gujarati, Hebrew, Hindi, Italian, Japanese, Korean, Malay, 
+
+Marathi, Norwegian, Persian, Polish, Portuguese, Russian, Spanish, Swedish, Thai, Telugu, Turkish, and Vietnamese.
+
+

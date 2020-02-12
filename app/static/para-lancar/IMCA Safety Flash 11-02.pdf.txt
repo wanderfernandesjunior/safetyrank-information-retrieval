@@ -1,0 +1,362 @@
+AB
+
+ 
+
+IMCA Safety Flash 11/02 
+
+December 2002 
+
+These  flashes  summarise  key  safety  matters  and  incidents,  allowing  wider  dissemination  of  lessons  learned  from  them.    The  information  below  has  been 
+provided in good faith by members and should be reviewed individually by recipients, who will determine its relevance to their own operations. 
+
+The effectiveness of the IMCA safety flash system depends on receiving reports from members in order to pass on information and avoid repeat incidents.  
+Please consider adding the IMCA secretariat (imca@imca-int.com) to your internal distribution list for safety alerts and/or manually submitting information 
+on specific incidents you consider may be relevant.  All information will be anonymised or sanitised, as appropriate. 
+
+A  number  of  other  organisations  issue  safety  flashes  and  similar  documents  which  may  be  of  interest  to  IMCA  members.    Where  these  are  particularly 
+relevant, these may be summarised or highlighted here.  Links to known relevant websites are provided at www.imca-int.com/links   Additional links should 
+be submitted to webmaster@imca-int.com 
+
+ 
+
+1  Failure During Lift Bag Operations 
+
+Keywords:  Lifting 
+
+A  member  has  reported  a  near-miss  during  a  lift  bag  operation,  which  highlights  the  dangers  of  inadequate  safe  rigging 
+practice and of lack of awareness of actual lifting capacity of bags in relation to stated capacity. 
+
+Saturation divers were operating at seabed level at 19 metres (62ft) and had to move a 600kg (1320lb) blind flange.  They had 
+attached a lift bag, nominally rated at 500kg, to the load, so that they could manhandle it more easily into position. 
+
+At some stage during the inflation process, the diver lost control and the lift bag, with attached flange, took off towards the 
+surface.  When the bag arrived at the surface, it lost some of its volume, resulting in partial deflation.  Inevitably, the load fell 
+back to the seabed, away from the dive site, and was later recovered, undamaged. 
+
+It  was  fortunate  that  there  was  no  harm  to  the  divers  and  that  the  bag  did  not  become  fouled  in  the  support  vessel’s 
+thrusters as it rose to the surface. 
+
+The company involved has noted the following key issues: 
+
+i) 
+
+ii) 
+
+All involved in this type of operation need to be aware that there is a potential variance between the stated capacity 
+and actual capacity of lift bags.  In this case, the actual capacity was over 25% higher than the stated capacity; 
+
+Rigging arrangements for lift bag operations should include an ‘inverter’ line, which must be connected between the top 
+of the bag and a fixed anchor point on the seabed.  The length of the inverter line should be such that there is sufficient 
+length to conduct the operational task, but that would it prevent the bag and load from reaching the ship or surface in 
+the event that the bag did over-lift the load and initial control was lost.  When the restraint came on, the line would 
+cause the bag to tip, spilling some air and returning the load to safety; 
+
+iii)  When moving long spools, for example with multiple lift bags, it should be ensured that there are adequate anchoring 
+points for each of the inverter lines, with the anchoring positions and lengths of ‘inverter’ lines suitably calculated to 
+ensure a safe operation. 
+
+2  Fatality During Lifting Operation 
+
+Keywords:  Lifting 
+
+We have been advised of the following fatality, which occurred on the pipe deck of an offshore platform. 
+
+Two chemical pods had been stacked to make room for arriving cargo.  To improve overall deck safety, it was decided to 
+unstack the pods during the next shift, since all cargo had arrived and space was available.  As this was a ‘blind’ lift, the crew 
+included two flagmen/hookmen. 
+
+One of the hookmen climbed up the integrated ladder on the side of the pods, in order to hook the chain sling.  During this 
+operation, the crane pendant was lowered too much and went inside the frame holding the pod.  When the hookman told 
+the crane driver to lift up approximately 20cm, the pendant snagged the frame and lifted one end of the pod.  As soon as one 
+side of the tank had cleared the stacking lugs, the tank started to slide. 
+
+ 
+
+i) 
+
+ii) 
+
+iii) 
+
+iv) 
+
+i) 
+
+ii) 
+
+iii) 
+
+i) 
+
+ii) 
+
+The hookman had his upper body above the frame and, when the tank toppled, his chest was crushed between the falling pod 
+and an adjacent container, stored approximately 2.6 metres from the pods.  The injuries to his chest were fatal and death 
+was immediate. 
+
+The company, in its investigations, noted that the deck had been surveyed by the crane driver prior to handover and that the 
+deck had very well organised and managed.  However, it noted the following points which had contributed to this incident: 
+
+Inadequate  design:    the pods  were  designed  for  stacking, but  the  lugs  did  not properly  prevent  sliding  if  subject  to 
+external forces (e.g. crane, container).  The chain slings were also too short to allow hooking from deck level, which 
+had been required in the company’s procedure for stacking to be allowed; 
+
+Inadequate planning and worksite walk-through:  the safest way to perform the task had not been identified (the chain 
+sling was hanging down the opposite side and there was no need to climb on top of the pod); 
+
+Inadequate  identification  of  job  hazards:    working  at  heights  (4.6  metres  at  the  top  of  the  upper  pod)  and  not 
+recognising the potential hazard of a trapped pendant; 
+
+Inadequate communication:  the flagman could not see the top of the tank and hence could not direct the lowering of 
+the crane pendant; the hookman was carrying out multiple tasks, including communication with the crane driver. 
+
+The investigation resulted in the following recommendations being made: 
+
+ 
+
+ 
+
+Stacking  of  these  pods  and  others  of  similar  design  to  be  banned  by  the  company;  consideration  to  be  given  to 
+banning all stacking of containers; 
+
+A pocket-sized aide-mémoire card to be introduced by the company, to prompt and aid appropriate prior assessment 
+of lifts; 
+
+Existing  company  rules  on  working  at  heights  to  be  properly  enforced  (working  on  a  ladder  above  2m  height  was 
+already a violation of company rules); 
+
+iv) 
+
+Company rules on lifting to be clarified/changed: 
+
+a) 
+
+‘hooking at deck level’ means standing on the deck itself; 
+
+b) 
+
+flagman to be the only person communicating with the crane drive; flagman not to touch load; flagman to be 
+identifiable by wearing a bright vest. 
+
+The company has also stressed the following points to its employees: 
+
+Design standards for stackable containers are to be clear; suitable design should be checked; 
+
+Stacking  loads  where  people  have  to  work  is  inherently  dangerous  –  check  if  it’s  happening  on  your  worksite  and 
+review whether or not it should continue; 
+
+Safety Flash 
+
+ 
+
+iii) 
+
+v) 
+
+vi) 
+
+i) 
+
+ii) 
+
+iii) 
+
+Lifting operations, while often routine activities, are inherently dangerous with people around – check that people are 
+adequately separated from the hazard; review how to recognise when a lift becomes non-routine; 
+
+iv)  Working at height above 2m without adequate controls/safeguards in place is against company policy (‘prohibited’) – 
+
+check it’s not happening on your worksite; 
+
+Flagmen/banksmen should never be put in a position to handle a load – check that they’re not on your worksite; 
+
+‘Safety must be 100%.  Be intolerant, small deviations will eventually combine and hurt you’. 
+
+3  Filter Failure in Diver Gas Reclaim Boosters 
+
+Keywords:  Gas 
+
+A member has reported the following near-miss incident, whereby a diver experienced narcotic effects, possibly due to the 
+effect of additional filters being placed in a gas reclaim system which obstructed free gas flow within the system. 
+
+Additional filters had been fitted in the booster gas circuit – upstream of the bypass regulator, in line with the booster bypass 
+circuit – with the intention of protecting the regulator seat from the effects of Teflon dust emanating from the piston rings. 
+
+However, the insertion of the specific type of filter may have caused an obstruction to free gas flow between the outlet and 
+the inlet of the compressors.  If the compressors were run in ‘bypass’ mode (i.e. while the divers were not on closed circuit), 
+there would be a risk of compromising the safe operation and reliability of the equipment, because the potential would exist 
+for small quantities of air to be drawn into the reclaim system via the first stage piston top set of cross-head chevron seals. 
+
+The following advice has been issued by the member to its dive ships/sites. 
+
+Carry  out  a  full  system  inspection  of  the  booster  bypass  pipework,  specifically  that  area  between  the  compressor 
+outlet  and  its  inlet,  to  determine  that  no  in-line  filter  or  other  potential  obstruction  has  been  installed  and  that 
+pipework has not been modified in any other way; 
+
+Remove any such items from service until the modification has been fully assessed and written approval given by the 
+responsible company department; 
+
+Check that inter-stage gauges are fully operational and in working order (they should give a tell-tale signal if a flow 
+restriction exists); 
+
+iv) 
+
+Check that the compressor running temperature is normal while running for extended periods in the ‘bypass’ mode. 
+
+The attached note provides details of defects identified by the US Coast Guard in antennae on EPIRBs (emergency position 
+indicating radio beacons), caused by internal corrosion. 
+
+4  EPIRB Antenna Failures 
+
+Keywords:  Corrosion 
+
+5  Saturn Engine Safety Notice 
+
+Keywords:  Explosion 
+
+We  have  been  passed  the  attached  ‘Product  Advisory’  from  Solar  Turbines,  relating  to  a  potential  personnel  safety  issue 
+resulting from an uncontained compressor section failure, which could involve risk of damage to property and serious bodily 
+injury or death. 
+
+ 
+
+Marine Safety, Security and Environmental Protection 
+SAFETY ALERT - EPIRB ANTENNAE FAILURES 
+
+September 10, 2002     Washington, DC 
+
+ 
+The USCG Marine Safety Office Honolulu has recently reported that a high 
+percentage of antennas equipped to Satellite 406 Cat I EPIRBs, product number 
+2754, manufactured by ACR Electronics Incorporated have failed during 
+dockside examinations of Commercial Fishing Vessels.  
+ 
+ 
+ 
+On several occasions the antenna's outer rubber coating was discovered ripped or 
+torn. Closer inspection often revealed extensive internal corrosion. Other 
+antennas showed no perforations on the outer rubber coating but displayed 
+bulges on the antennae near its base. Upon closer inspection when the bulging 
+area was sliced open, total wastage of the antennae interior was revealed.  
+ 
+It is reported that evidence of a corrosion failure may be discovered when the 
+antenna is unscrewed from the EPIRB body assembly. Rusty liquid dripping 
+from the antenna or moisture present inside the threaded section are tell tale 
+signs of failing equipment.  
+ 
+ACR Electronics has acknowledged receipt of the failed antennas and has 
+initiated a study to determine the cause and scope of the problem. ACR is 
+committed to support its safety products and will replace damaged antennas at 
+no cost to the owner. Should you encounter similar problems with your vessel's 
+2754 EPIRB antenna, contact ACR Electronics Customer Service 
+Representatives at (800) 432-0227, ext. 110 to receive a replacement antenna.  
+ 
+The Coast Guard strongly recommend s that vessel operators carefully inspect 
+their EPIRB antennas - particularly if it is manufactured by ACR Electronics 
+Incorporated. 
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+PRODUCT ADVISORY
+
+NOTICE:
+
+The  Type  of  Change  and  Recommended  Compliance  specified
+reflects Solar's best judgment regarding this Product  Advisory.  All
+questions  should  be  directed  to  your  local  Solar  District  Office.
+Solar, Saturn, Centaur, Taurus, Mercury, Mars, Titan, SoLoNOx, and
+Turbotronic are trademarks of Solar Turbines Incorporated. Cat and
+Caterpillar  are  trademarks  of  Caterpillar  Inc.  Specifications  subject
+to change without notice
+
+ 8.7/112
+March 2002
+
+Saturn
+All
+
+Product Safety
+
+NUMBER:
+ISSUED:
+REVISED:
+PRODUCT:
+MODEL(S):
+Specifics:
+SUBJECT:
+
+Type of Change:
+Recommended
+Compliance:
+
+Purpose:
+
+ .
+
+SATURN ENGINE SAFETY NOTICE
+
+Immediate
+To alert users to a potential personnel safety issue resulting from an uncontained
+compressor  section  failure,  which  may  involve  risk  of  damage  to  property  and
+serious bodily injury or death.
+
+GENERAL INFORMATION:
+This  Product  Advisory  is  intended  to  inform  users  of  an  incident  that  is  currently  under
+investigation  by  Solar  Turbines  Incorporated.    The  information  contained  herein  is  not
+final.    When  the  investigation  is  completed,  you  will  receive  supplemental  information  in
+the form of an updated Product Advisory or a Service Bulletin. The Type of Change and
+Recommended Compliance specified reflects Solar's best judgment regarding the Product
+Advisory. All questions should be directed to your Solar Field Service District Manager.
+
+There  are  currently  over  2100  Saturn  10  single-shaft  engines  operating  in  power  generation
+applications worldwide with approximately 174 million total operating hours.
+
+During  March  2002,  a  Solar  Saturn  10  single-shaft  gas  turbine  experienced  an  uncontained
+compressor section failure at a customer site, which resulted in metal fragments penetrating the
+compressor casing.  Initial reports were that this resulted in a fatality.  The reported equipment
+damage was limited to the Saturn package.
+
+Solar  has  initiated  a  failure  investigation  of  this  incident.    Solar  will  provide  additional
+information  to  users  by  way  of  an  updated  Product  Advisory  when  all  relevant  data  has  been
+analyzed and the root cause(s) have been determined.  Any operational recommendations will be
+communicated in a Service Bulletin.
+
+SUPPLEMENTAL INFORMATION FOR OTHER SATURN USERS:
+
+Solar Turbines is issuing this Product Advisory to all owners of Saturn single-shaft hot-end-drive
+generator packages.  While this incident occurred on this model of Saturn, the root cause(s) is not
+known, and under investigation.  Thus, this Advisory is also being sent to owners of all Saturn
+engines, including the two-shaft mechanical drive version.  Solar is unaware of any uncontained
+compressor section failures involving two-shaft engines.  Until a final Service Bulletin is issued,
+users  of  all  Saturn  engines  are  advised  to  comply  with  the  actions  required  by  this  Product
+Advisory.
+
+ACTION REQUIRED:
+
+FAILURE TO TAKE THIS ACTION COULD RESULT IN DAMAGE TO PROPERTY
+
+AND SERIOUS BODILY INJURY OR DEATH.
+
+! WARNING !
+
+Solar  recommends  that  in  order  to  avoid  possible  injury  to  personnel,  users  are  cautioned  to
+advise all personnel to avoid the area adjacent to the compressor section during an engine start
+and  while  the  engine  is  in  operation.    See  Figure  1  for  the  locations  of  the  engine  area  to  be
+avoided.
+
+Users  are  also  advised  to  ensure  that  all  maintenance  checks  are  performed  on  all  package
+systems  including  control  system  and  safety  shutdowns,  vibration  monitoring,  fuel,  and  fire
+systems and ensure that all are operating properly as set forth in your Operation and Maintenance
+Manuals.
+
+AREA TO
+BE AVOIDED
+
+Figure 1.  Typical Saturn 10 Generator Set
+
+

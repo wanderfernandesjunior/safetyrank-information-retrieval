@@ -1,0 +1,86 @@
+Safety Alert 
+
+        From the International Association of Drilling Contractors 
+
+ 
+ALERT 13 – 30  
+ 
+
+ 
+WHAT HAPPENED: 
+
+ 
+
+FAILURE TO TORQUE LIFT SUB RESULTS IN DROPPED MONEL DRILL COLLAR 
+
+During tripping operations, the crew was in the process of making up the bottom hole assembly.  The monel drill collar was brought up 
+to the rig floor by the pipe-cat.  A lifting sub was placed into the box end of the monel drill collar and screwed together with chain tongs.  
+The drill collar was then picked up with the top drive elevators and pushed out of the way so a stabilizer could be picked up and placed 
+in the mouse hole.  The monel drill collar was then placed into the stabilizer, made up and torqued with the iron roughneck.  The bottom 
+hole assembly (BHA) was picked up out of the mouse hole with the top drive and pushed out of the way so a float sub could be brought 
+to the rig floor.  The float sub was then stood up and placed in the jaws of the iron roughneck and the monel/stabilizer assembly was 
+stabbed into it.  Chain tongs were used to make up these two sections while the iron roughneck was used as back up on the float sub.  
+The iron roughneck was then used to make up the float sub to the stabilizer. 
+ 
+At  some  point  while  the  crew  was  making  up  the  float  sub  to  the  stabilizer,  the  lift  sub  unscrewed  from  the  monel.    When  the  iron 
+roughneck was removed, the BHA, which was sitting on the rig floor, fell out of the V-door and land on the pipe-cat. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Monel Drill Collar 
+
+ 
+
+WHAT CAUSED IT: 
+
+ 
+
+• 
+
+The lifting sub that was placed into the monel drill collar was made up with chain tongs without being torqued before being 
+lifted with the top drive.  No one stopped the job to insure the connections were properly torqued. 
+
+•  No one was watching the lifting sub to insure it was not coming unscrewed while the connection was being made between the 
+float sub and the stabilizer.  The iron roughneck was spinning the connection together at the bottom which allowed the lifting 
+sub to twist out in the opposite direction at the top/overhead. 
+There  was  no  direct  supervision  watching  over  the  operation  to  insure  the  task  was  completed  “per  standard  procedure”, 
+torqueing the connections. 
+
+• 
+
+CORRECTIVE ACTIONS:  To address this incident, this company did the following: 
+
+•  All equipment being lifted overhead with a lifting sub, lifting eye, etc., should be properly torqued to the manufacturer’s 
+
+recommendation before being raised to the vertical position. All personnel must utilize the stop work authority, never take short 
+cuts, and complete the task as required. 
+The idea of drawing a chalk line on the lifting sub to the collar was discussed and to designate someone to visually watch the 
+lifting sub to insure it does not back out of the connection. 
+
+• 
+
+•  Moving forward and for future operations it will now be required that the operator’s well site supervisor, directional driller or 
+
+MWD employee must be present on the rig floor in addition to the tool pusher while working the BHA.   
+
+•  Utilize the stop work authority to stop the job until all required personnel are present. 
+
+The Corrective Actions stated in this alert are one company’s attempts to address the incident,  
+
+and do not necessarily reflect the position of IADC or the IADC HSE Committee. 
+
+This material is presented for information purposes only.  Managers & Supervisors should 
+
+evaluate this information to determine if it can be applied to their own situations and practices 
+
+Copyright  2013 International Association of Drilling Contractors All rights reserved. 
+
+Issued December 2013 
+
+

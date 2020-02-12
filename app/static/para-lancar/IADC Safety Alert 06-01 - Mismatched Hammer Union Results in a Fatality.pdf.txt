@@ -1,0 +1,151 @@
+Safety Alert 
+
+        From the International Association of Drilling Contractors 
+
+MISMATCHED HAMMER UNION RESULTS IN A FATALITY 
+
+ 
+ALERT 06 – 01 
+ 
+
+ 
+ 
+WHAT HAPPENED: 
+A worker while operating a sand filter valve in a 
+temporary  well  test  setup,  sustained  severe 
+multiple  injuries  caused  by  the  impact  from  a 
+female  hammer  union,  inadvertently  dislodged 
+from  a  side  outlet,  as  well  testing  was  in 
+progress.    He  was  thrown  19  ft  from  the  sand 
+filter  equipment.    He  was  evacuated  to  a 
+regional clinic where he underwent emergency 
+surgery.  He later died in the clinic.  
+
+He  had  obtained  signed  PTW,  held  toolbox  talk  and  held 
+safety  meeting  with  Rig  Team  and  Gas  plant  Operations 
+team  leader.    He  then  went  to  open  up  well  to  well  test 
+surface  facilities.    In  order  to  obtain  a  sand  sample  while 
+producing  the  well  and  while,  testing  in  progress,  the  IP 
+climbed  the  sand  filter  equipment,  stood  on  the  wheel  of 
+the  discharged  valve  to  operate  the  middle  valves.    His 
+lower abdomen faced the side outlet (see the photo).  The 
+female  hammer  union  dislodged  from  the  side  outlet  and 
+hit him in the lower abdomen. 
+
+ 
+
+ 
+WHAT CAUSED IT: 
+ 
+Connection was a mismatch between the male and female hammer Union (602 female to 1502 male). See  
+Photo:                                              Failed union end 
+
+ 
+
+ 
+
+ 
+FIG 602 
+
+ 
+
+Note:  FIG 1502 
+ 
+ 
+ 
+ 
+ 
+ 
+
+The Corrective Actions stated in this alert are one company’s attempts to address the incident,  
+
+and do not necessarily reflect the position of IADC or the IADC HSE Committee. 
+
+This material is presented for information purposes only.  Managers & Supervisors should 
+
+evaluate this information to determine if it can be applied to their own situations and practices 
+
+Copyright © 2005 International Association of Drilling Contractors All rights reserved. 
+
+Issued January 2006 
+
+Safety Alert 
+
+        From the International Association of Drilling Contractors 
+
+ 
+ 
+ 
+1.  Configuration of equipment at well was not according to manufacturer’s design layout.  However, Well 
+
+Test contractor stated that the configuration at the two previous tests were the same as this well. 
+
+2.  Manufacturer’s configuration included a permanent access ladder and a working platform for operating 
+
+the middle valves and different orientation of the valves.   
+
+3.  The configuration and operating manual were not available to Well Test contractor at the time they took 
+
+over the equipment. 
+
+4.  Original design had a flanged outlet and not a hammer union. 
+5.  There was a change of valve orientation.  Valve orientation may have been changed for convenience of 
+
+access to the valves during servicing the equipment in the yard. 
+
+6.  HAZOP did not identify the hazard with valve orientation and configuration.   
+7. 
+
+IP stood on discharge valve wheel, about 3ft above the ground to operate the middle valve (8.6 ft high) 
+isolating the lower chamber.  He did not use the temporary access (ladder) provided and in any case it 
+was not fit for operating the valve. 
+
+ 
+CORRECTIVE ACTIONS:  To address this incident, this company did the following: 
+ 
+Initial Main recommendations, are awaiting final conclusions and reports. 
+ 
+1.  The operator and contractor companies to stop work.   
+2.  Check all temporary piping and remove non standard subs from site. 
+3.  Visit ongoing well test sites and audit the set-up and piping. 
+4.  Remove and replace sand filter. 
+5.  Send out industry alert on dangers of hammer lug unions. 
+6.  Operator/Contractors jointly develop a seminar on safety of pressure vessels. 
+7.  Extend same to other well intervention facilities and rig up. 
+8.  When handing over equipment to other parties, ensure the history, certification and operating sequence 
+
+9.  Print a laminated alert, hang on connections and rigged-up facilities and issue to all personnel to 
+
+10.  HAZOP reporting format should clearly state hazard and recommendation to enable linking of close-out 
+
+are included. 
+
+increase awareness 
+
+action. 
+
+11.  Develop an “Operations Guide for the use of Temporary Pipe work Systems”. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+IADC Note:  Refer to IADC Safety Alerts 98-01, 99-33, 00-15, 03-16 
+ 
+
+The Corrective Actions stated in this alert are one company’s attempts to address the incident,  
+
+and do not necessarily reflect the position of IADC or the IADC HSE Committee. 
+
+This material is presented for information purposes only.  Managers & Supervisors should 
+
+evaluate this information to determine if it can be applied to their own situations and practices 
+
+Copyright © 2005 International Association of Drilling Contractors All rights reserved. 
+
+Issued January 2006 
+
+

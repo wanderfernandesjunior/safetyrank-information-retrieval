@@ -1,0 +1,68 @@
+ 
+
+SAFETY 
+ALERT 
+
+ 
+ALERT 1-18:  WIRELINE TOOL MANIFOLD SHEARS – RESULTING 
+IN DROPPED OBJECT  
+ 
+WHAT HAPPENED: 
+
+While making up a wireline tool assembly, the rig heaved while the wireline string was being 
+lowered by a rig floor winch. As the rig heaved, a needle valve bleed off manifold on the Coil 
+Tubing Lift Frame (CTLF) made contact with the tool string lifting bridle. Upon contact with the 
+bridle, the needle valve bleed off manifold sheared off at the threaded coupling and fell directly 
+to the rig floor. The needle valve bleed off manifold weighed 7lb. and fell 30ft. No injury to 
+personnel resulted from this incident. 
+ 
+
+ 
+
+ 
+CONTRIBUTING FACTORS: 
+
+The needle valve manifold had been put together in a linear fashion and protruded too much 
+from the lubricator (approx. 18”). This had not been identified as a hazard by the Service 
+Provider or the rig crews.  The requirement for; and method of pulling back and securing the 
+lubricator to the CTLF was not specified in the procedure. Not securing the lubricator to the 
+CTLF allowed lateral movement of the lubricator which contributed to its close proximity to the 
+tool string. 
+ 
+LESSONS LEARNED: 
+
+  There was no secondary retention fitted to the valve manifold at the time of the incident. 
+On the initial rig-up secondary retention had been fitted.  However following various rig-
+ups the secondary retention had been omitted.  This omission had not been identified 
+through subsequent dropped object inspections.  
+
+A Safety Alert can consist of any type of health, safety & environment (HSE) notification or    
+
+Near Miss/Near Hit alert.  Proactive Alerts on jobs well done are also encouraged. 
+
+ 
+
+ 
+
+ 
+
+  The requirement to ensure that Service Providers had a daily dropped object prevention 
+
+checklist (to include secondary retention) prior to installing Service Provider temporary 
+equipment at height was not followed. 
+
+  The Service Provider did not have a dropped object inspection checklist for this rig-up. 
+  Following the incident, it was possible to fit a right-angle fitting and rig up the needle 
+
+valves in such a way that the protrusion was reduced considerably and the majority of 
+the valves could be operated from the rig floor without the need for man-riding. Valves 
+and gauges are now located at the bottom of the hose at drill floor level as per the 
+picture below.  
+
+ 
+
+A Safety Alert can consist of any type of health, safety & environment (HSE) notification or    
+
+Near Miss/Near Hit alert.  Proactive Alerts on jobs well done are also encouraged. 
+
+

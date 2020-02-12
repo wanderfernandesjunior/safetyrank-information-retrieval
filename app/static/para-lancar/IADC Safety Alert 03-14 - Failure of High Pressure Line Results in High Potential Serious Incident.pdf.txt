@@ -1,0 +1,64 @@
+Safety Alert 
+
+From the International Association of Drilling Contractors
+
+ 
+
+ 
+ALERT 03 – 14 
+ 
+
+FAILURE OF HIGH PRESSURE LINE RESULTS 
+
+IN HIGH POTENTIAL SERIOUS INCIDENT 
+
+ 
+WHAT HAPPENED: 
+ 
+A  slick  line  lubricator  was  made  up  on  top  of  a  christmas  tree  with  a  nitrogen  line  made  up  to  a  side  entry 
+pump-in  sub.    The  rig  chicksan  swivel  joints  and  straight  joints  were  rigged  up  from  the  christmas  tree  wing 
+valve  to  the  choke  manifold.    The  christmas  tree  master  valve  was  closed.    The  job  task  was  to  test  the 
+lubricator  and  lines  through  to  the  choke  with  nitrogen  to  6500  psi.    A  JSA  was  conducted  prior  to  the  job.  
+Once the pressure was applied, a straight line between the christmas tree and choke parted about 1-inch past 
+the weld on the wing-half end.  A safety chain was attached to all connections on all lines but the chain on the 
+straight joint slid off due to a clean break.  All personnel were clear and no one was injured.  However, clearly 
+this incident had a high potential for injury to personnel.   
+ 
+WHAT CAUSED IT: 
+ 
+A visual inspection of the pipe showed a decrease in metal thickness in the area where it parted.   
+ 
+CORRECTIVE ACTIONS:  To address this incident, this company instructed rig personnel:   
+ 
+•  All  chicksans  should  be  visually  inspected  prior  to  use.    Any  chicksan  that  has  an  appearance  of  being 
+
+worn and suspect in any way, is to be removed from service and sent in for inspection.   
+
+•  Rig  Supervisors  were  reminded  to  strictly  adhere  to  the  company’s  Maintenance  System  procedure  for 
+
+Non-Destructive Testing inspection of chicksans on a 24-month interval.   
+
+•  The  Engineering  Dept.  was  directed  to  review  the  inspection  procedure  and  frequency  to  determine  if 
+
+changes need to be made. 
+
+•  Ensure chicksans are secured before applying pressure and pumping through them. 
+•  Review the JSA’s dealing with the pressuring of chicksan lines, and address the need for personnel to stay 
+clear  of  the  lines  when  under  pressure  or  when  pumping  operations,  involving  high  pressure,  are  taking 
+place.  
+
+ 
+
+The Corrective Actions stated in this alert are one company’s attempts to address the incident, and do not 
+
+necessarily reflect the position of IADC or the IADC HSE Committee. 
+
+This material is presented for information purposes only.  Managers & Supervisors should  
+
+evaluate this information to determine if it can be applied to their own situations and practices. 
+
+Copyright © 2003 International Association of Drilling Contractors.  All Rights Reserved 
+
+Issued March 2003 
+
+

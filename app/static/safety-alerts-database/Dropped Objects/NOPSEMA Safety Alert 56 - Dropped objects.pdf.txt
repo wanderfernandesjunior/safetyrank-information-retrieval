@@ -1,0 +1,121 @@
+ 
+
+Dropped objects 
+
+ 
+
+Safety Alert 56 
+
+April 2013 
+
+ 
+
+What happened? 
+NOPSEMA  has  identified  a  concerning  increase  in  dropped  object  events  in  the  first  quarter  of  2013.  Nine 
+dropped  object  notifications  have  been  received  by  the  authority  in  the  first  quarter  of  2013.  All  of  these 
+dropped  object  events  have  occurred  on  mobile  offshore  drilling  units  (MODUs).  As  a  comparison,  one 
+dropped object was reported on MODUs for the same period in 2012 and a total of 13 for the entire year. 
+ 
+The weights and heights of the dropped objects ranged from 2 to 2,300 kilograms and from less than 1 metre 
+to 43 metres.  The  dropped  objects were  sections of drill pipe and  casing, a spool of wire rope, a navigation 
+light  fitting,  slip  inserts,  a  hose  bundle,  an  equipment  handle  and  a  camera  located  in  the  derrick.  Three 
+members of the workforce were injured in three separate dropped object events. Two workers each suffered a 
+crush injury to the foot requiring a medical evacuation from the facility, while another worker required first aid 
+treatment for a leg injury. In another case, a member of the workforce was standing only 2 metres from where 
+a 28 kilogram object landed having dropped from a height of 19 metres. Analysis using the industry supported 
+‘DROPS Calculator’1 indicates that six of these dropped object events could have resulted in a fatality. 
+ 
+An analysis of the data reported to NOPSEMA in relation to the dropped object events in 2012 highlighted the 
+predominant  root  causes  as  being:  poor  design  of  equipment; work  procedures  followed  incorrectly;  wrong 
+procedures used or  no  procedures  used;  dropped objects  not anticipated and factored into the planning for 
+the work; lack of training, lack of instruction, lack of understanding of the task; and preventive maintenance 
+issues. 
+ 
+Nine notified dropped object events on MODUs for the first quarter compared to thirteen over the preceding 
+twelve months is of concern and should be taken as a warning sign by operators and other duty holders that 
+action needs to be taken to arrest this trend. 
+ 
+What could go wrong? 
+The ‘DROPS Calculator’ highlights that a mass of as little as 700 grams falling from a height of 15 metres could 
+result in a fatality. While responsible operators cordon off or barricade areas where a dropped object hazard 
+has been identified, it should be kept in mind that dropped objects can bounce on impact and end up in an 
+area not anticipated in the risk assessment. 
+ 
+NOPSEMA re-emphasises the need to appropriately apply the hierarchy of controls to dropped object hazards. 
+In particular, operators are reminded that the risk management focus should be on elimination, substitution 
+and  engineering  controls  before  consideration  of  administrative  controls.  Administrative  controls  such  as 
+creating safety zones and areas of restricted access may assist in protecting members of the workforce from 
+dropped objects, however, all reasonably practicable steps to eliminate the dropped object hazard altogether, 
+substitute the dropped object hazard with a safer alternative, and effectively engineer out the dropped object 
+hazard should be considered first and action taken if practicable. 
+ 
+Key lessons 
+
+•  Thorough pre-task risk assessments should address dropped object hazards. 
+
+                                                           
+1  
+
+“DROPS is an industry-wide initiative focused on preventing dropped objects, with the ultimate goal of delivering 
+a second nature dropped objects prevention strategy across our industry.” 
+[http://www.dropsonline.org/index.asp?id=1&refID=4&contentID=4] 
+
+National Offshore Petroleum Safety and Environmental Management Authority 
+
+ 
+
+ 
+
+1 of 2 
+
+ 
+
+Safety Alert 56 
+
+Scaffolding Safety 
+
+ 
+
+•  The  hierarchy  of  controls  should  be  applied  to  ensure  an  appropriate  balance  of  preventative  and 
+
+mitigative control measures are identified and implemented. 
+
+•  Risk assessments should consider areas outside of the anticipated dropped object area. 
+•  Regular dropped object prevention inspections should be undertaken, with any resulting action items 
+
+attended to in a timely manner. 
+
+•  Consideration should be given to including competent members of the workforce who do not regularly 
+work  in  the  area  to  be  inspected  as  a  ‘fresh  pairs  of  eyes’  in  dropped  object  prevention  inspection 
+teams. 
+
+ 
+The legislation 
+In accordance with  Clause  9(1)(a) of  Schedule 3  to the Offshore Petroleum and Greenhouse Gas Storage Act 
+2006: “The operator of a  facility  must  take  all reasonably practicable  steps to ensure  that the facility is safe 
+and without risk to the health of any person at or near the facility.” 
+
+In addition, Clause 9(2)(a) of Schedule 3 requires operators to take all reasonably practicable steps to provide 
+and  maintain  a  physical  environment  at  the  facility  that  is  safe  and  without  risk  to  health.  Clause  9(2)(c) 
+requires operators to take all reasonably practicable steps to ensure that any plant, equipment, materials and 
+substances at the facility are safe and without risk to health. 
+
+Contact 
+
+ 
+
+For further information email alerts@nopsema.gov.au and quote Alert 56. 
+
+Further practical information and guidance on the DROPS scheme can be found at www.dropsonline.org 
+ 
+NOPSEMA Safety alerts are on the ‘Safety Alerts’ page, under the ‘Safety’ tab at www.nopsema.gov.au 
+
+National Offshore Petroleum Safety and Environmental Management Authority 
+
+ 
+
+ 
+
+2 of 2 
+
+

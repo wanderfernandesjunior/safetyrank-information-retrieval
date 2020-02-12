@@ -1,0 +1,82 @@
+Safety Alert 
+
+        From the International Association of Drilling Contractors 
+
+ 
+ALERT 05 – 07 
+ 
+
+WHAT HAPPENED: 
+
+UNSAFE HOISTING & RIGGING PRACTICE 
+
+ 
+
+ 
+
+ 
+
+ 
+
+The monkey board assembly was being removed from the derrick during the rig out stage of the operation; 
+the derrick was in the horizontal position. Two gin pole trucks were positioned on either side of the derrick 
+with slings secured to the bottom skid of the monkey board assembly. Three workers had positioned 
+themselves inside the monkey board assembly to remove the pins, which secured the monkey board 
+assembly to the derrick. When the last pin was removed, the monkey board assembly flipped 180 degrees 
+and contacted the ground. The three workers were thrown from their positions inside the monkey board 
+assembly, to the ground. 
+ 
+WHAT CAUSED IT: 
+
+Unsafe Hoisting & Rigging  
+Application of the lifting slings did not address the issue of identifying the center of gravity on the attempted 
+lift of the monkey board assembly.  
+Unsafe Design  
+Design allows workers to be exposed to a hazardous risk on a suspended load during the removal or 
+installation of the monkey board assembly.  
+Taking an Unsafe Position  
+Three workers positioned themselves on and inside the monkey board assembly (suspended load).  
+ 
+CORRECTIVE ACTIONS:  To address this incident, this company issued the following directives to 
+rig personnel: 
+
+Hoisting any rig load with gin pole trucks requires knowledge of the fundamentals of rigging.  
+Before any lift is attempted a "Basic Rigging Plan" must be in place. The "Plan" must address the following 
+questions:  
+
+(cid:131) Who is responsible (competent) for the rigging?  
+(cid:131) Communication established?  
+(cid:131) Is the equipment in acceptable condition? Appropriate type? Proper identification?  
+(cid:131) Are the working loads adequate? What is the weight of the load? Where is the center of gravity?  
+(cid:131) What is the sling angle? Will there be any angular or side loading?  
+(cid:131) Will the load be under control? Is the load rigged to the center of gravity? Clear of personnel?  
+(cid:131) Special requirements? 
+
+ 
+
+At all times, the specific work activity being performed must be under the immediate supervision of an 
+authorized person who has the authority to commence, modify, or cease the work methods or operations, 
+necessary, to ensure the safety of affected personnel. The authorized person must observe changing 
+conditions and improve, whenever required, the work methods to promote increased protection for the 
+personnel.  
+Under no circumstances is anyone to work on or under a suspended load. (CAODC Rig Move Reference 
+Manual).  
+Engineer a safe system for the installation and removal of the monkey board assembly, to eliminate the 
+positioning of workers exposed to the hazardous risk of completing a task on a suspended load.  
+ 
+IADC Note:  Refer to IADC HSE Reference Guide Section 8 and Alert 99-14, 04-03.  
+ 
+
+The Corrective Actions stated in this alert are one company’s attempts to address the incident,  
+
+and do not necessarily reflect the position of IADC or the IADC HSE Committee. 
+
+This material is presented for information purposes only.  Managers & Supervisors should 
+
+evaluate this information to determine if it can be applied to their own situations and practices 
+
+Copyright © 2005 International Association of Drilling Contractors All rights reserved. 
+
+Issued February 2005 
+
+

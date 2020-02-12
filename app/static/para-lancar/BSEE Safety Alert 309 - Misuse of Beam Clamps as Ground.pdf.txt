@@ -1,0 +1,142 @@
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+BSEE 
+
+U.S. Department of the Interior 
+Bureau of Safety and 
+EnvironmentalEnforcement 
+
+Safety 
+Alert 
+
+Safety Alert No. 309 
+Date: 19 March 2014 
+
+Contact Person: Jim Hail 
+Phone Number: (979) 238-8140 
+
+Misuse of Beam Clamps as Ground 
+
+The Bureau of Safety and Environmental Enforcement (BSEE) has identified a potential safety 
+issue in regard to the use of beam clamps on many Outer Continental Shelf (OCS) facilities.  It is 
+determined that the use of beam clamps as grounding conductors could potentially cause fires 
+and present electrical hazards to personnel. 
+
+Many OCS facilities are utilizing beam clamps as current carrying external ground to meet the 
+requirements in the API RP 14F.  The beam clamps are approved by Underwriters Laboratories 
+(UL) and Factory Mutual Research Corporation (FM) to mount and support conduit and cable 
+from structural beams, not as temporary or permanent external equipment grounding conductors. 
+Example below: 
+
+API RP 14F & 14FZ § 6.10.3.1 states:  “Grounding of electrical equipment on fixed and floating 
+offshore petroleum facilities in a positive manner is of particular importance because personnel 
+standing on steel decks or in contact with steel framing present a low impedance path to ground, 
+effectively grounded. In addition, the dampness and salt spray contribute to the breakdown of 
+insulation and to the possibility of leakage on the surface of insulators and similar devices. On 
+platforms with wooden or concrete decks, equipment-grounding conductors should be installed 
+between electrical equipment and a grounding network. It is recommended that all metal 
+equipment, such as buildings, skids, and vessels be grounded to the steel structure or grounding 
+network. Exposed, noncurrent-carrying metal parts of fixed equipment that may become 
+energized because of any condition shall be grounded. Equipment that is welded to the structure 
+or deck is considered to be adequately grounded. The physical contact obtained when equipment 
+is bolted to a steel structure is not necessarily an adequate effective ground because of paint and 
+possible corrosion. Exposed, noncurrent-carrying metal parts of portable electrical equipment 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+shall be grounded through a conductor in the supply cable to the grounding pole in the 
+receptacle.” 
+
+These grounding jumpers do not meet the requirements in API RP 14F/API RP 14FZ. 
+
+API RP 14F & 14FZ both make a clear requirement that any equipment that has exposed, 
+noncurrent-carrying metal parts that may become energized because of any condition shall be 
+grounded. In this requirement, it is clear that during a fault condition this grounding means must 
+be capable of reliably conducting the ground fault current back to the source of electrical power 
+to activate or trip the electrical circuit protective device. To further clarify, if the equipment is 
+not electrically powered and the metal parts associated with that equipment become energized 
+due to no association with electrically operated equipment, controls, devices, or lighting, then the 
+requirement for approved current carrying conductors, lugs, terminals, etc. should not apply. 
+
+(Exothermic weld) 
+
+(Bolted connection) 
+
+Operators, as well as contractors, are advised to review your facilities in comparison with these 
+best practices and guidelines. 
+
+—BSEE— 
+
+www.bsee.gov 
+
+A Safety Alert is a tool used by BSEE to inform the offshore oil and 
+gas industry of the circumstances surrounding an accident or a near miss. It also 
+contains recommendations that should help prevent the recurrence of such an 
+incident on the Outer Continental Shelf.
+
+ 
+
+

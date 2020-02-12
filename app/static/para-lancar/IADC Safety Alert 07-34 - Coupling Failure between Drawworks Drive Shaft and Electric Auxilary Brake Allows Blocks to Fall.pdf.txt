@@ -1,0 +1,108 @@
+Safety Alert 
+
+        From the International Association of Drilling Contractors 
+
+ 
+ALERT 07 – 34 
+ 
+
+COUPLING FAILURE BETWEEN DRAWWORKS DRIVE SHAFT AND ELECTRIC 
+
+AUXILARY BRAKE….ALLOWS BLOCKS TO FALL 
+
+ 
+WHAT HAPPENED: 
+ 
+While washing down the 7” liner assembly on 5 ½” DP which weighed 364,000 pounds (total l65 metric T) in 
+open  hole  the  Driller  heard  a  loud  bang.    This  was  immediately  followed  by  loss  of  the  electric  auxiliary 
+brake's  control  over  the  assembly’s  descent.    The  Driller  vigorously  applied  the  manual  brake  to  slow  the 
+descent  and  called  for  the  slips.    The  string  descended  approximately  52  ft  (16  m)  before  a  Floorman 
+managed to set the slips.  The blocks came to rest about 28 ft (4.6 m) above rotary table.   
+ 
+WHAT CAUSED IT: 
+ 
+Investigation  revealed  that  the  coupling  sleeve  that  mates  the  electric  brake  shaft  to  the  drawworks  drum 
+shaft had disengaged allowing the string to fall.  This occurred because the coupling sleeve’s female spline 
+had  not  fully  engaged  and  was  only  partially  covering  the  drawworks  drum  shaft  male  splines.    An 
+inspection showed signs of excessive wear at the shaft end.  This partial engagement was due to the rotating 
+sleeve  gradually  backing  off  the  drawworks  drum  shaft  thereby  allowing  it  to  contact  and  wear  down  the 
+coupling’s cast iron shifter ring (which had 80% wear) which engages the sleeve with the drum shaft.  This 
+occurred because the shifter ring’s control lever was not fully elevated although it was locked secure.  
+ 
+
+ 
+The  picture  at  left  shows  the  worn  shifter  ring  as  a  result  of  the  allowable 
+movement  of  the  sleeve  due  to  the  2cm  play  in  the  lever  locking  assembly. 
+This  picture  clearly  demonstrates  the  quantity  of  wear  on  the  shifter  ring.  
+Approximately 80 % of the ring had been worn down in about 5 months.  The 
+last  ring  was  changed  out  after  5  years  in  service.    A  2  cm  space  existed 
+between  the  lever  and  its  seating  position  allowing  play  in  the  shifter  lock 
+assembly. This space allowed the coupling sleeve to slowly back off the drum 
+shaft until it finally disengaged allowing the blocks to fall.    See Fig. 2 below. 
+
+ 
+
+ 
+CORRECTIVE ACTIONS:  To address this incident, this company did the following: 
+ 
+•  Ensure  the  entire  linkage  system  between  the  electric  auxiliary  brake  and  the  drawworks  drum  shaft 
+(including  shifter  ring,  control  lever,  coupling  sleeve,  etc.)  has  safety  critical  status  on  the  Preventive 
+Maintenance System.  
+
+•  Manufacturer was contacted for more detailed information on the installation of coupling (sleeve, control 
+ring,  lever,  etc)  and  alignment  of  shafts.    In  addition  maintenance  information  was  obtained  on  the 
+frequency and details of visual checks for correct engagement of the coupling sleeve, acceptable level of 
+wear on the ring assembly, and measurement specifications on the shaft splines.  
+
+•  Maintenance  supervisors  are  to  update  PMS  for  the  electric  auxiliary  brake/drawworks  linkage  system 
+
+with additional information obtained from the Manufacturer. 
+
+•  Ensure  that  adequate  maintenance  history  of  electric  auxiliary  brake/drawworks  linkage  system  is 
+
+•  Ensure that sleeve and shift ring assembly follows a strict, structured greasing program to minimize wear 
+
+detailed and updated in PMS.  
+
+on ring and splines.  
+
+Fig. 2. Showing linkage system between drum and electric brake shafts and how coupling sleeve 
+backed off drum shaft and wearing away ring assembly.  
+
+The Corrective Actions stated in this alert are one company’s attempts to address the incident,  
+
+and do not necessarily reflect the position of IADC or the IADC HSE Committee. 
+
+This material is presented for information purposes only.  Managers & Supervisors should 
+
+evaluate this information to determine if it can be applied to their own situations and practices 
+
+Copyright © 2005 International Association of Drilling Contractors All rights reserved. 
+
+Issued November 2007 
+
+Safety Alert 
+
+        From the International Association of Drilling Contractors 
+
+Auxiliary 
+Electric Brake 
+Spline Shaft  
+
+ 
+
+ 
+
+The Corrective Actions stated in this alert are one company’s attempts to address the incident,  
+
+and do not necessarily reflect the position of IADC or the IADC HSE Committee. 
+
+This material is presented for information purposes only.  Managers & Supervisors should 
+
+evaluate this information to determine if it can be applied to their own situations and practices 
+
+Copyright © 2005 International Association of Drilling Contractors All rights reserved. 
+
+Issued November 2007 
+
+

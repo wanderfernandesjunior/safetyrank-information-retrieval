@@ -1,0 +1,71 @@
+Safety Alert 
+
+        From the International Association of Drilling Contractors 
+
+ 
+ALERT 06 – 22 
+ 
+
+NEAR MISS—EXPLODING BATTERY 
+
+ 
+WHAT HAPPENED: 
+Mechanic’s  helper  was  moving  a  charged  battery  on  a  two  –  wheeled  dolly  with  one  battery  cable  still 
+connected  to  the  battery.    The  cable  fell  and  contacted  the  other  battery  post  producing  a  direct  short 
+causing the battery to explode. 
+
+ 
+WHAT CAUSED IT: 
+An employee was transporting battery without removing the terminal cables creating the potential for a direct 
+short.    The  proper  procedure  for  transporting  the  battery  was  not  known  or  understood  by  personnel,  and 
+supervision was inadequate.  Employee was in a hurry and failed to see the hazard of not disconnecting all 
+the cables from the battery posts. 
+
+ 
+WHAT WENT WELL:   
+Reporting the incident gives the entire company the opportunity to discuss how this kind of occurrence can 
+be  prevented  at  their  job  sites.    Employee’s  eyes  were  somewhat  protected  by  safety  glasses,  although 
+goggles and face shields are required when handling batteries. 
+
+ 
+CORRECTIVE ACTIONS:   
+ 
+To address this incident, this company instructed rig personnel in the following: 
+ 
+
+When performing any task, think about the worse thing that can go wrong.  A similar incident occurred nearly 
+two  years  ago.    The  lesson  learned  from  the  earlier  incident  was  to  protect  the  battery  from  contact  by 
+enclosing  it  in  a  covered  battery  box  to  prevent  exposure  to  ignition  sources  and  contact  with  the 
+environment.   
+
+ 
+
+NOTE:   
+
+Often  when  carrying  out  simple  tasks,  we  fail  to  recognize  the  potential  hazards.    Make  hazard 
+identification a part of every task you perform, even if the task is only walking down stairs or across 
+location, or in this case, moving a battery on a dolly from point A to point B.  Ask yourself, “What can 
+go wrong?”  Use total observation techniques safety observation training programs, remember BBI 
+(check for hazards “Below, Behind, and Inside”).  Consider the energy sources associated with each 
+task, in this case of moving a battery.  Chemical, electrical, gravity and motion are all energy sources 
+present  in  the  task.    Identify  all  the  batteries  on  your  rig’s  location  and  review  how  they  are  being 
+stored and managed.    
+
+Batteries  can  explode  under  normal  operating  conditions,  such  as  starting  an  engine.    They  can 
+explode when  jump  starting,  or  if  they  are  short  circuited  as  in  this  incident,  or  sitting  in  a  parked 
+vehicle  or  sitting  on  a  table.    Assume  that  any  battery  might  explode when  you  least  expect  it  and 
+take the appropriate steps to prevent it. 
+
+The Corrective Actions stated in this alert are one company’s attempts to address the incident,  
+
+and do not necessarily reflect the position of IADC or the IADC HSE Committee. 
+
+This material is presented for information purposes only.  Managers & Supervisors should 
+
+evaluate this information to determine if it can be applied to their own situations and practices 
+
+Copyright © 2005 International Association of Drilling Contractors All rights reserved. 
+
+Issued June 2006 
+
+

@@ -1,0 +1,323 @@
+AB
+
+ 
+
+IMCA Safety Flash 11/05 
+
+November 2005 
+
+These  flashes  summarise  key  safety  matters  and  incidents,  allowing  wider  dissemination  of  lessons  learned  from  them.    The  information  below  has  been 
+provided in good faith by members and should be reviewed individually by recipients, who will determine its relevance to their own operations. 
+
+The effectiveness of the IMCA safety flash system depends on receiving reports from members in order to pass on information and avoid repeat incidents.  
+Please consider adding the IMCA secretariat (imca@imca-int.com) to your internal distribution list for safety alerts and/or manually submitting information 
+on specific incidents you consider may be relevant.  All information will be anonymised or sanitised, as appropriate. 
+
+A  number  of  other  organisations  issue  safety  flashes  and  similar  documents  which  may  be  of  interest  to  IMCA  members.    Where  these  are  particularly 
+relevant, these may be summarised or highlighted here.  Links to known relevant websites are provided at www.imca-int.com/links   Additional links should 
+be submitted to webmaster@imca-int.com 
+
+ 
+
+1  Engine  Room  Fires  –  Appropriate  Use  of  Insulating  Material  on  Hot  Surfaces  –  Feedback 
+
+following IMCA Safety Flash 10/05 item 2 
+
+Safety flash 10/05 reported on a recent engine room fire.  It was noted in that safety flash that the probable cause of the fire 
+was  spraying  of  leaking  hydraulic  oil  onto  an  improperly  insulated  exhaust  flange.    (NB  SOLAS  regulations  require  proper 
+insulation of all surfaces with temperatures above 220°C.) 
+
+A member has provided some useful feedback on the incident report, set out below for further information: 
+
+  Covering  every  hot  surface  with  lagging  could  increase  the  risk  of  fire  if  done  so  without  using  suitable  insulation 
+
+  The use of soft or absorbent lagging can create further potential risk, since oil sprayed onto absorbent or soft lagging on 
+
+material; 
+
+a hot exhaust can eventually ignite; 
+
+  A small leak might dribble unnoticed onto soft or absorbent lagging until there is enough oil in close proximity to the hot 
+
+exhaust to cause a fire.  This can be an issue with certain widely used makes of engine; 
+
+  Oil resistant laggings are commercially available.  Whilst these are not perfect, they do afford some protection from oil 
+
+spray or leaks.  These oil-resistant lagging types have a silver facing to protect against flammable liquids. 
+
+2  Near-Miss During Diving Operations 
+
+IMCA has been advised of a near-miss during diving operations involving the cam lock on a KMB17 divers helmet.  The diver 
+entered the water and stopped at a depth of 3 metres to begin safety system checks, after which he continued his descent. 
+At  8m,  the  diving  superintendent  heard  a  water  gurgling  sound  from  the  diver  and  asked  him  if  he  was  experiencing  any 
+problems.  The diver reported that his cam lock had come undone.  The diver turned on his free flow, evacuated the helmet 
+and attempted to relatch the neck dam.  Realising that something had become stuck in the cam, the diver reopened, cleared 
+and relatched the cam lock. 
+
+Having confirmed that the safety system was secure, the diver was ready to continue to the bottom.  However, the diving 
+superintendent  thought  it  best  to  abort  the  dive  to  check  the  cam  lock  and  ensure  there  was  no  damage.    The  dive  was 
+aborted and the diver returned to the surface safely. 
+
+During debriefing, the diver stated that he had one hand on the down-line and the other held a cloth measuring tape.  The 
+diver was proceeding down the down-line head first and the cam lock apparently made incidental contact with the down-line, 
+causing the cam lock to dislodge. 
+
+Investigation noted the following positive points: 
+
+the diver was able to relatch the cam lock whilst in the water; 
+
+the dive was promptly aborted in an effort to better understand the matter; 
+
+the site leader gave immediate attention to the situation and contacted all appropriate supervisors; 
+
+the contractor and client were in agreement and supportive of the entire investigative process. 
+
+The following points were noted: 
+
+the manufacturer manual includes the notice reproduced as figure 1; 
+
+the diver had been carrying something whilst descending; 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+there was a lack of appropriate safety pins for cam locks. 
+
+The following lessons and corrective action were suggested: 
+
+the use of a safety pin or other secondary safety device on Kirby 17A/B helmets (see figures 2 and 3); 
+
+the importance of remaining up-to-date on safety alerts from manufacturers of dive equipment; 
+
+  divers should not descend to the work site carrying tools or equipment. 
+
+ 
+
+ 
+
+Figure 1 
+
+Figure 2 
+
+Figure 3 
+
+Images used with permission.  Copyright Kirby Morgan Dive Systems 
+
+ 
+
+3  Engine Room Flooding 
+
+An incident has been brought to our attention wherein flooding started in the engine room of a ship.  This occurred during 
+preparation  for  cleaning  of  a  sea  water  inlet  filter.    Cleats  on  the  filter  were  released  and  immediately  seawater  flooded 
+through  the  filter.    Forty  minutes  after  the  filter  was  opened,  the  engine  room,  steering-gear  compartment  and 
+accommodation had become flooded, resulting in a significant list to port and extensive equipment damage. 
+
+Testing  proved  the  correct  functioning  of  the  valves  on  both  sides  of  the  sea  water  inlet  filter.    Correct  valve  position 
+markings were visible and correct.  Nonetheless, the flooding seemed to be a result of insufficiently closed valves prior to 
+opening of the filter.  The underlying causes of the incident were improper planning, inadequate procedures and/or lack of 
+adherence to procedures. 
+
+The following lessons learned should be noted: 
+
+  The position of the valves on each side of the sea water inlet filter is crucial.  Always ensure valves are closed prior to 
+opening  of  the  filter.    If  an  interruption  has  occurred,  re-check  the  position  of  the  valves  prior  to  recommencing  the 
+work; 
+
+  Remotely  operated  valves  must  be  secured  against  unintentional  operation,  before  commencing  removal  of  the  filter 
+
+cover; 
+
+operation; 
+
+  The procedure for removing or re-tightening the filter cover is important.  If cleats are removed from cover hinges in an 
+unplanned sequence, the operator may lose the possibility of re-tightening the cover.  Cleats should remain in position 
+until it is safe to remove the cover.  Cross-loosen cleats while they rest in hinges.  When tightening cleats, follow the 
+same procedure in order to avoid the cover being tightened incorrectly; 
+
+  When cleaning of the filter is completed and cleats are tightened, carefully open valves on each side and check normal 
+
+  The risk of misunderstanding or error can be significantly reduced if filter cleaning is completed by the same person and 
+
+preferably without any interruptions during work. 
+
+4  Object Falling from Height 
+
+IMCA has received a report of an incident wherein a ‘banana sheave’ roller weighing 4.5kg came loose during operations.  It 
+fell some 24 metres from the derrick and hit the drill floor.  Nobody was injured. 
+
+The contractor’s planned maintenance management system in place is to be reviewed accordingly. 
+
+The immediate  cause  of the  accident  was identified 
+as being that the bolts which attached the rollers to 
+the sheave had loosened.   
+
+The underlying causes were noted as: 
+
+insufficient design; 
+
+insufficient maintenance; 
+
+lack  of  documentation  and  drawings  describing 
+that the sheaves should be function tested; 
+
+insufficient  description  of  responsibility 
+involved personnel; 
+
+for 
+
+insufficient  maintenance  management 
+follow-up relating to lifting equip
+
+ment. 
+
+and 
+
+ 
+
+The following points were noted: 
+
+Lifting equipment should be examined and valid 
+certificates  for  equipment  in  use  should  be 
+presented; 
+
+and  maintenance 
+
+Inspection 
+be 
+performed on all sheaves that are in operation, 
+with nuts and bolts inspected; 
+
+should 
+
+ 
+
+  All  bolts  on  rollers  should  be  fitted  with 
+protective pins to stop the bolt from loosening; 
+
+5 
+
+Near-Miss During Lifting Operations 
+
+We  have  received  reports  of  a  near-miss  wherein  a  worker 
+was nearly caught between a load and a fixed structure. 
+
+The immediate cause of the near-miss was crane creep, which 
+was  compensated 
+for  automatically  with  an  upward 
+movement  of  the  load,  almost  trapping  the  worker  on  the 
+deck. 
+
+Underlying causes noted were: 
+
+insufficient management engagement; 
+
+responsibility for operation and maintenance of crane not 
+being properly understood; 
+
+inadequate  knowledge  of  crane  operational  routines  and 
+condition; 
+
+  maintenance routines not being specific enough. 
+
+The recommended actions included: 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ensuring  that  responsibility  and  reporting  routines  in  connection  with  crane  operation  and  maintenance  are  clearly 
+understood by all involved; 
+
+ensuring appropriate competence and training for all personnel with crane functions; 
+
+checking and updating of maintenance routines, with daily follow-up for all cranes; 
+
+replacement of the existing ‘creep compensator’ 
+
+review of the company’s crane manuals and training material to ensure that they are appropriate and up-to-date. 
+
+6  Near-Miss - Dropped Object Narrowly Misses Worker 
+
+During some pipe work on the deckhead of a production platform, a spanner weighing 1.4kg was dropped from the work 
+place and fell 6 metres, landing only one metre from another worker. 
+
+Safety Flash 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+The immediate causes of this near-miss were that: 
+
+the workplace was not adequately secured against the risk of dropped objects; 
+
+there was an opening in the grating allowing the object to fall. 
+
+Underlying causes noted were that: 
+
+the work had been improperly managed and organised; 
+
+there had been no procedures in place for this type of work. 
+
+The resulting investigation made the following recommendations: 
+
+  use should be made of checklists for safe work at heights; 
+
+  checks should be made and, where necessary, deficient floor grating should be repaired; 
+
+  clear marking out of barriers in areas below working areas should be ensured; 
+
+  permit to work systems should be correctly adhered to. 
+
+

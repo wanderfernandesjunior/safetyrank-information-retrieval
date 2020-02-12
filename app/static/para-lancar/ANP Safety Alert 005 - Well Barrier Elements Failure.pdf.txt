@@ -1,0 +1,147 @@
+ 
+
+Safety Alert 005 - ANP/SSM 
+
+Well Barrier Elements Failure 
+
+The  Operational  Safety  and  Environment  Superintendence  is  issuing  this  safety 
+alert to notify the oil and gas industry and other stakeholders about the occurrence of 
+well integrity loss due to structural failure.  
+
+What happened? 
+
+Throughout  an  offshore  1454  m  water  depth  non-natural  flow  well  abandonment  intervention  in 
+Campos Basin, an oil leak around subsea equipment was observed while a DHSV test was attempted. The 
+through tubing operation with slick line/wireline to drift the tubing using lead impression block, down hole 
+video (DHV) and caliper multifinger proved a tubing collapsed above DHSV region, characterizing failure in 
+the well barrier envelope. 
+
+During  a  hydrate  dissociation  operation,  the  pack-off  disconnected 
+
+leading  to  pressure 
+communication  between  annuluses,  causing  chain  collapse  reaction  of  16”  surface  casing,  13  3/8” 
+production casing and tubing, resulting in loss of well integrity. The facts corroborating this hypothesis are: 
+(i) the sudden temperature drop recorded in PDG (Permanent Downhole Gauge), (ii) the pressure indicated 
+by the PT-A sensor was equivalent to the estimated external pressure.  
+
+Due to  the lack of direct well access to carry out abandonment operations, the Operator created an 
+ERT (Emergency Response Team) aiming to establish the permanent well barrier elements – WBEs - for well 
+abandonment by constructing an interception well. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Figure 1 – Lead impression block with lateral mark 
+
+Figure 2 – DHV image 
+
+Considering  the  hypothesis  of  natural-flow  well,  the  WBEs  failure  could  result  in  an  uncontrolled 
+
+inflow of formation fluids to seabed, with consequent major environmental damage. 
+
+Potential Consequences 
+
+Identified causes 
+
+The immediate cause for the failure was a collapse chain reaction in the surface casing, production 
+casing and tubing above DHSV, due to pack-off failure. The last was caused by Annulus A exposure to gas lift 
+line pressure during a diesel displacement operation to prevent hydrates formation in the production line. 
+For this displacement, it was necessary to open the W2 valve in the subsea christmas tree. 
+
+ 
+
+The figure below shows the foreseen scheme for diesel circulation, with M2 valve closed: 
+
+ 
+Due to an operational error, the W2 valve was opened without previous closing of M2 valve. Thus, 
+there was unintended pressure connection between the gas lift line and Annulus A, which was depressurized. 
+Subsequently,  the  pack-off  that  isolates  the  Annulus  B  and  Annulus  A  failed,  communicating  the  two 
+annuluses, which equalized the pressures: 
+
+This pressure equalization led to casing collapse due to a loading that generated a stress level above 
+
+ 
+
+The  Operator  incident  investigation  identified  the  following  root  causes  (linked  to  management 
+
+the design limits. 
+
+system): 
+
+Use  of  inadequate  design  requirements,  since  the  pack-off  failure  mode  induced  by  heat 
+
+ 
+loading was not analyzed during well construction (lack of additional locking); and  
+
+ 
+
+ 
+
+ 
+Failure in the management of changes process, applied to changes in design requirements 
+during the well production phase and, consequently, in the evaluation and update of the operational 
+envelope.  
+
+No root causes were identified related to operational discipline, even though the sequence of valves 
+maneuver was determinant for the accident. It was considered that the process was inadequate due to the 
+lack of knowledge about the operational envelope. If the restriction for depressurization of Annulus A was 
+known, the operational procedure would have considered specific safeguards to the impact of WBE loss in 
+case of Annulus A depressurization, as well as it would emphasize the importance of correct operational 
+sequence to WBE integrity assurance.   
+
+Additionally, the Operator did not point out the well handover as a cause, because even if they had 
+done this procedure, the inputs still would be insufficient, since changes in design requirements were not 
+extended to wells in the operational phase. 
+
+Lessons Learned 
+
+Establish systematic loading analysis prior to well annulus-depressurizing operations, in order 
+
+Use  supplementary  pack-off  locking  devices,  in  order  to  increase  design  reliability  and 
+
+ 
+to verify pack-off stress.  
+ 
+robustness. 
+
+ 
+
+Regulatory Framework 
+
+The following items of Well Integrity Management System (WIMS) Technical Regulation, attached to 
+
+ANP Resolution n. 46/2016, are related to the incident: 
+
+Item  10.1.2.3  of  Management  Practice  10  –  Stages  of  Well  Life  Cycle:  “Ensure  that  each  part  and 
+equipment  that  compose  the  well  are  sized  to  support  design  maximum  loads,  heat  effects,  chemical 
+composition of reservoir fluids, wear to which they will be submitted as well as the combined effects, during 
+all stages of the Well Life Cycle.” 
+
+Item 16.2.1.1: “Ensure that the management of changes process comprises: 
+
+i) Updating documents affected by change; and  
+
+j) Training and/or communicating to whole workforce impacted by changes”. 
+
+Additionally, the following requirements must be observed: 
+
+Item  8.4.1  of  Management Practice  8 –  Information  and Documentation  Management:  “Operator 
+
+must have, during all Stages of Well Life Cycle, updated Well Handover documentation (…)”. 
+
+Item 10.2.2.6 of Management Practice 10 – Well Life Cycle Stages: “Operator must ensure that Well 
+
+Handover documentation is updated and delivered to the responsible for the next stage of Well Life Cycle”. 
+
+For additional information regarding this safety alert, please contact ANP’s Operational Safety and 
+
+Environment Superintendency at incidentes@anp.gov.br. 
+
+Contact 
+
+

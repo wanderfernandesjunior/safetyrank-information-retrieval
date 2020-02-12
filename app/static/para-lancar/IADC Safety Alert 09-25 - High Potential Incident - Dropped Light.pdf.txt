@@ -1,0 +1,119 @@
+Safety Alert 
+
+        From the International Association of Drilling Contractors 
+
+HIGH POTENTIAL INCIDENT – DROPPED LIGHT 
+
+ 
+ALERT 09 – 25 
+ 
+
+WHAT HAPPENED: 
+ 
+A 23 lb spotlight fell 90 feet (27.5 m) from a crane boom to 
+the  rig  deck.    The  operation  at  the  time  was  slewing  the 
+bow  crane  to  over  the  chemical  hatch  from  its  stowed 
+position at the forward leg.  Having visually confirmed that 
+the hook would not catch on any equipment on the radio 
+room  roof,  the  crane  operator  started  to  slew  the  crane 
+toward the accommodation.  As he did so the light fell to 
+the deck beside the blue container pictured below.  It then 
+bounced  and  struck  the  wall  of  the  radio  room  before 
+coming to rest in the position shown.  No one was in the 
+area at the time of the incident. 
+ 
+
+Light fell from above here 
+
+ 
+
+ 
+
+ 
+
+The Corrective Actions stated in this alert are one company’s attempts to address the incident,  
+
+and do not necessarily reflect the position of IADC or the IADC HSE Committee. 
+
+This material is presented for information purposes only.  Managers & Supervisors should 
+
+evaluate this information to determine if it can be applied to their own situations and practices 
+
+Copyright  2008 International Association of Drilling Contractors All rights reserved. 
+
+Issued September 2009 
+
+ 
+
+ 
+
+6. 
+ 
+ 
+ 
+
+Safety Alert 
+
+        From the International Association of Drilling Contractors 
+
+Entrance to heli-admin office 
+
+TYCO H2S container 
+
+ 
+WHAT CAUSED IT: 
+ 
+1.  The  secondary  retention  wire  was  not 
+properly attached to the light.  Therefore it 
+did not retain the falling light.  
+
+2.  The  vibration  mounting  was  not  as  per 
+
+original OEM recommendation. 
+
+3.  The  crane  lights  are  not  included  in  any 
+inspection  or  Dropped 
+
+maintenance, 
+Object Survey. 
+
+ 
+
+ 
+
+Bolt on base of light 
+bracket  
+
+1M of cable 
+detached  
+from here 
+
+Safety sling ‘as 
+found’ 
+
+ 
+CORRECTIVE ACTIONS:  To address this incident, this company did the following: 
+ 
+1.  A Review of SAP/ Tour Inspection / Crane reports is to include crane lights and retention. 
+2.  DROPS inspection to include the rest of the Rig, i.e. cranes, not just derrick. 
+3.  All repairs must have OIM and/or Engineering Approval. 
+4.  The crane manufacturer was asked to review the lighting arrangements for cranes and provide recommendations. 
+5. 
+
+Instructed rig and maintenance personnel that all secondary retention cables on potential dropped objects are to 
+be checked for correct attachment, length and corrosion. 
+If light fittings are not required, remove them.  
+
+The Corrective Actions stated in this alert are one company’s attempts to address the incident,  
+
+and do not necessarily reflect the position of IADC or the IADC HSE Committee. 
+
+This material is presented for information purposes only.  Managers & Supervisors should 
+
+evaluate this information to determine if it can be applied to their own situations and practices 
+
+Copyright  2008 International Association of Drilling Contractors All rights reserved. 
+
+Issued September 2009 
+
+

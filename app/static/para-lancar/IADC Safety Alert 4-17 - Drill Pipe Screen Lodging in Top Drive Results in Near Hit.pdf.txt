@@ -1,0 +1,69 @@
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+SAFETY ALERTS 
+
+ALERT 4 – 17    
+
+Drill Pipe Screen lodging in Top Drive results in Near Hit 
+
+WHAT HAPPENED: 
+There have been several incidents in which the drill pipe screen has become lodged in the Top Drive following a 
+pressure release of the Mud Pump Pressure Relief System (Pop Off). In some cases the screen dislodged from the 
+Top Drive while traveling overhead, resulting in a significant near hit. 
+
+WHAT WERE CONTRIBUTING FACTORS: 
+
+An increase in downhole pressure forced the Pop Off system to release. The Pop Off releasing caused mud to 
+travel back up the drill string lodging the drill pipe screen into the Top Drive.  
+
+The screen was observed to be missing in the drill pipe while the ring around the screen remained seated in 
+the  box  end  of  the  tool  joint.   It  was  assumed  the  drill  pipe  screen  had  traveled  down  hole  and  was  not 
+identified as a potential overhead hazard/dropped object. Employees failed to recognize the potential for the 
+drill pipe screen to be lodged in the Top Drive becoming an Overhead Hazard. 
+
+This  condition  can  also  occur  from  the  negative  internal  pressure  (vacuum)  created  by  activities  such  as 
+bleeding off the 2” valve on the standpipe manifold. 
+
+LESSONS LEARNED: 
+
+1.  The Rig Manager shall ensure each employee understands the expectation involving a Pop Off 
+
+release and missing drill pipe screens during drilling operations. 
+
+2.  The Rig Manager will partner with the Operator Representative during instances involving Pop 
+
+Offs and missing drill pipe screens to locate and verify any Overhead Hazard has been mitigated 
+before resuming drilling operations. 
+ 
+Immediately following a Pop Off release, the Driller shall communicate with their crew to discuss 
+the potential hazard and ensure crews locate the drill pipe screen at the next connection. 
+
+3. 
+
+ 
+
+4.  When a missing drill pipe screen is identified during drilling operations, crews shall stop the job 
+
+and notify the Driller and Rig Manager of the potential hazard. 
+
+5.  While attempting to locate the missing drill pipe screen following a Pop Off release, crews shall 
+always assume that the drill pipe screen may have been forced into the Top Drive until verified 
+otherwise. 
+
+-A Safety Alert can consist of any type of health, safety & environment (HSE) notification or 
+
+Near Miss/Near Hit alert.  Proactive Alerts on jobs well done are also encouraged. 
+
+

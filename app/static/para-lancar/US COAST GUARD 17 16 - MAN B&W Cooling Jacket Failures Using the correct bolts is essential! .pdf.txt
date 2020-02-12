@@ -1,0 +1,144 @@
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+
+         Inspections and Compliance Directorate 
+
+December 16, 2016 
+Washington, DC 
+
+ 
+
+                                 Safety Alert 17-16 
+
+MAN B&W Cooling Jacket Failures 
+Using the correct bolts is essential! 
+
+ 
+Recently, a 738-foot bulk carrier ran aground while outbound on the Columbia River. The grounding resulted in 
+limited  damage  to  the  vessel  and  no  pollution  or  loss  of  cargo.  This  casualty  occurred  primarily  because  of 
+cracks  on  the  cooling  jacket  of  a  two-stroke  crosshead  design  Mitsui  MAN  B&W  MC-C  engine.  The  cracks 
+caused  a  loss  of  engine  cooling  water  that  eventually  resulted  in  the  overheating  of  the  cylinder  cover.  This 
+then  triggered  an  automated  slow-down  of  the  engine  and  an  unintended  loss  or  reduction  in  the  vessel’s 
+propulsion  and  maneuverability.  Although  the  investigation  is  ongoing,  identical  failures  of  the  same  engine 
+type  have  occurred  with  similar  results  although  the  engines  were  of  different  piston  diameters  and  cylinder 
+arrangements:  about  two  years  ago  a  similar  equipment  failure  contributed  to  a  grounding  on  the  Columbia 
+River, and in 2012, a vessel approaching Corpus Christi, TX lost power due to the same cause and struck a 
+jack up oil rig causing extensive damage to the rig. 
+
+On these engines, the outer surface of the lower areas of the engine’s cylinder covers, a.k.a. heads, forms the 
+internal area of the cooling water circuit when the cooling jacket is installed.  Water flow from the cylinder liner 
+is  directed  through  four  connections  into  the  cooling  jacket  and  then  flows  upward  into  other  areas  of  the 
+cylinder  cover  before  exiting.    The  cooling  jacket  slips  over  the  bottom  of  the  cylinder  cover’s  outer  surface 
+which has several o-rings that seal the coolant passages.  The cooling jacket is held in place by the use of four 
+shoulder type bolts that go through the cooling jacket and into the sides of the cylinder cover. Please watch the 
+following YouTube videos for more information: Video A and Video B. 
+
+GAP 
+
+By  design,  the  shoulders  of  these  bolts  are  longer  than  the  cooling  jacket  wall 
+thickness. New replacement bolts will often have even longer shoulders.   When 
+the bolts are properly tightened there will likely be a gap between the bottom of 
+the bolt head and the outside of the jacket cover. (Image A) The extra shoulder 
+length allows the cooling jacket to position itself concentrically on the bottom of 
+the cylinder cover and facilitate any movement or slight expansion of the o-rings.  
+It  also  allows  for  some  expansion  of  the  cast  iron  cooling  jacket.  If  the  cooling 
+jacket is slightly positioned non-concentrically on the cylinder cover, some of the 
+bolt  head’s  bottom  surface  areas  may  appear  as  if  the  bolt  is  fully  tightened 
+against the outside of the jacket cover.   
+
+In  the  past,  cooling  jackets  have  fractured  vertically  through  the  bolt  holes  that 
+secure  the  jackets  to  the  cylinder  cover.  (Photographs  -  next  page.)    These 
+fractures  have  caused  a  loss  and  reduction  in  cooling  water  that  eventually 
+resulted in the overheating of the cylinder cover. That then caused an automated 
+slow-down  of  the  engine  and  reduced  the  ship’s  maneuverability.    These 
+fractures can be caused by the following: 
+
+Inadequate coolant water treatment 
+
+  Stress corrosion cracking 
+ 
+  Excessive rust and scale development 
+  Use of wrong bolts to secure cooling jacket 
+  Blockages of coolant flow throughout jacket space and cylinder cover passages 
+  Overheating / thermal expansion of cylinder cover causing excessive stress on jacket cover 
+
+Image A: Properly secured 
+cooling jacket bolt.  
+
+ 
+
+ 
+
+1 of 2 
+
+Photographic examples of fractures: 
+
+Safety Alert 17 -16 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+MAN B&W has developed a Service Letter related to this issue and it is available here. 
+
+As  a result of  these casualties  the Coast Guard  strongly  recommends, regardless of engine  manufacturer, 
+that vessel: 
+
+  Owners,  managers  and  operators  ensure  that  their  vessel  engineering  staffs  have  access  to  all 
+available  manufacturer  service  letters  for  propulsion,  electrical  generation,  steering  and  other  critical 
+equipment; and 
+
+  Senior engineering personnel on vessels with MAN B&W MC-C and other similarly constructed engines 
+using  the  same  cooling  jacket  cover  securing  method  review  the  applicable  maintenance  procedures 
+and ensure that persons assembling these components know that the shoulder bolts may not butt up 
+against  the  cooling  jacket  cover,  as  breakage  may  occur  if  forced,  and  that  regular  bolts  with  no 
+shoulders should never be used. 
+ 
+
+This safety alert is provided for informational purpose only and does not relieve any domestic or international 
+safety, operational, or material requirements.  Developed by the Investigations Division of Marine Safety Unit 
+Portland,  Oregon  and  the  Coast  Guard  Headquarters  Office  of  Investigations  and  Casualty  Analysis.  
+Questions or comments may be sent to HQS-PF-fldr-CG-INV@uscg.mil. 
+
+******* 
+
+ 
+ 
+ 
+
+2 
+
+

@@ -1,0 +1,66 @@
+Safety Alert 
+
+From the International Association of Drilling Contractors 
+
+ 
+
+ 
+ 
+ALERT 03 – 17  
+ 
+
+WORKING ON OPERATING EQUIPMENT 
+
+RESULTS IN HAND INJURY 
+
+ 
+WHAT HAPPENED: 
+ 
+A  welder  was  experiencing  problems  with  the  governor  control  on  a  portable  welding  machine.    The  welder 
+lifted the shroud at the radiator end of the welding machine and was wiggling some electrical wiring when he 
+received a 12-volt shock.  His natural reaction was to jerk away and when he did, he hit the radiator cooling 
+fan  cutting  his  ring  finger  on  his  left  hand.    It  was  later  determined  to  have  caused  a  hairline  fracture.    He 
+returned to work following x-rays and a bandage. 
+ 
+WHAT CAUSED IT: 
+ 
+The welder exposed the rotating fan when he opened the engine shroud and there was no guard around the 
+fan, fan belt or drive pulley.   
+ 
+CORRECTIVE ACTIONS:  To address this incident, this company instructed rig personnel:   
+ 
+•  A list is to be made on each rig of fan blades, rotating shafts and related fan belts on equipment.  This list 
+should be a basis for a fan blade/rotating shaft/fan belt audit.  Inspect each fan blade, rotating shaft and 
+belt (also drive chain) for an adequate guard.   
+
+• 
+
+•  The  guards  should  be  sufficient  to  cover  all  rotating  parts  and  any  expanded  metal  mesh  should  have 
+small  enough  openings  where  a  finger  cannot  enter  (not  over  3/8”).    Guards  should  not  be  removed, 
+except for maintenance, service or adjustment and only when the equipment is properly locked out.   
+In work areas where there are fans that are not normally guarded due to their location near the ceiling or 
+other area that is not readily accessible, the control to these fans should be locked or tagged out before 
+any work is started in near proximity to the fans.  Be sure to verify the isolation of equipment by testing the 
+normal  operating  controls  and  return  the  off/on  switch  to  the  off  position  before  proceeding  with  the 
+maintenance.   
+
+•  Examples  of  equipment  with  fan  blades/rotating  shafts/belts  are:    heater  fans,  bug  fans,  engines, 
+centrifugal  pumps,  oiler  pumps,  drawworks,  mud  pumps,  mud  agitators,  shakers,  cold  starts,  welding 
+machines,  water  pumps,  cellar  pumps,  mobile  equipment  etc.    Make  a  list  of  your  rig’s  equipment  and 
+perform an audit to ensure adequate guarding around rotating parts.   
+
+ 
+
+The Corrective Actions stated in this alert are one company’s attempts to address the incident, and do not 
+
+necessarily reflect the position of IADC or the IADC HSE Committee. 
+
+This material is presented for information purposes only.  Managers & Supervisors should  
+
+evaluate this information to determine if it can be applied to their own situations and practices. 
+
+Copyright © 2003 International Association of Drilling Contractors.  All Rights Reserved 
+
+Issued April 2003 
+
+

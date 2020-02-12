@@ -1,0 +1,144 @@
+ 
+ 
+ 
+ 
+ 
+ 
+May 22, 2017 
+Washington, DC                             
+
+         Inspections and Compliance Directorate 
+
+ 
+
+                                 Safety Alert 05-17 
+
+Don’t allow corrective actions to create additional hazardous conditions! 
+
+Got Gas? In the Wrong Place? 
+
+ 
+
+Recently  Coast  Guard  Port  State  Control  Officers  performed  an  examination  on  board  a  Liquefied 
+Natural  Gas  (LNG)  carrier.    While  onboard  the  inspectors  discovered  a  significant  and  potentially 
+dangerous  modification  within  a  Gas  Valve  Unit  (GVU)  room.    This  room  is  located  within  the 
+machinery space of the dual fuel, diesel-electric propelled vessel.  These engines can burn petroleum 
+oil  or  LNG  in  gaseous  form.    The  GVU  is  a  multi-component  device  which  manages  the  liquefied 
+natural  gas  pressure  supplied  to  the  propulsion  engines.  The  GVU  room  has  an  air  intake  and 
+exhaust system designed to continuously ventilate and exchange the air within the space to reduce 
+fire, explosion, and hazardous atmosphere risks from developing if gas leaks should occur from the 
+equipment.  The atmosphere of the room is monitored by a catalytic methane sensor located near the 
+inlet to the room’s ventilation exhaust trunk. The GVU room’s ventilation creates a vacuum within the 
+room when the two access doors are shut. 
+ 
+External  to  the  GVU  room  the  gas  supply  piping  to  the  main  engines  is  double  walled  including 
+through  manifolds  and  expansion  bellows  all  the  way  to  each  cylinder.    The  purpose  of  this  double 
+walled construction is to contain any leakage of gas and return it back to the GVU room via a small 
+gas evacuation fan assembly.  The discharge outlet of the gas evacuation fan is simply an opening in 
+the bulkhead of the GVU room.  The system is designed so that any gas entering the outer wall of the 
+piping  gets  drafted  to  the  GVU  room  and  exits  via  the  exhaust  duct  after  passing  by  the  methane 
+sensor. 
+ 
+During  a  repair  on  one  cylinder  of  a  main  engine  vessel,  engineers  had  to  remove  an  expansion 
+bellows.    Upon  replacement  of  the  bellows  an  O-ring,  separating  its  inner  and  outer  sections,  was 
+damaged.  This error went unnoticed until a crew member was making a round in the enclosed GVU 
+room while the engine had been operating on gas.  After entering the GVU room he was overcome by 
+methane gas and nearly lost consciousness.  Fortunately, he was able to exit the space into a safe 
+atmosphere.  After the incident the GVU room atmosphere was  measured to be 22%  methane and 
+17%  oxygen  by  volume.    Methane  is  an  asphyxiant  which 
+displaces  oxygen  and  is  extremely  flammable.    The 
+installed methane sensor failed to detect the accumulation 
+of gas despite not having malfunctioned.  
+ 
+Engineers  traced  the  methane  leakage  to  the  recently 
+removed  bellows  and  replaced  the  damaged  O-ring.    To  
+prevent  future  accumulation  of  gases  they  rigged  a    hose 
+from the outlet of the gas evacuation fan, across the GVU 
+room  to  the  sensor  at  the  entrance  exhaust  duct.    This 
+unauthorized  arrangement,  which  was  identified  during  a 
+Coast  Guard  examination,  could  have  likely  disabled  the 
+sensor’s  ability  to  detect  methane  leakages  from  other 
+components within the GVU room.   (See image at right.) 
+ 
+
+            Exhaust Duct Opening 
+ 
+ 
+ Methane Sensor 
+ 
+ 
+ 
+ 
+ 
+Hose from discharge of gas 
+evacuation fan. 
+
+Safety Alert 05-17 
+
+ 
+
+The causal factors in this case include: 
+
+•  an inadequate fix of a component leading to the dislodging of an O-ring; 
+•  gas leakage captured and returned back to the GVU room but not removed from the room; 
+•  an  accidental  exposure  /  personnel  casualty  caused  by  a  lack  of  oxygen  and  excessive  gas 
+
+accumulation; and 
+
+•  a  second  potentially  hazardous  condition  due  to  the  unapproved  installation  of  the  exhaust 
+hose,  which  would  likely  disable  the  methane  sensor’s  effectiveness  in  monitoring  other 
+components for leaks within the GVU room.   
+
+ 
+Coast Guard examiners also noted that a second exhaust hose was similarly installed in the vessel’s 
+second GVU room.  These hoses were in place for about eight years.  It is also important to note the 
+engine manufacturer’s manual highlights the need for caution when replacing the bellows and to use 
+care when installing the O-rings.  The manufacturer also emphasizes the need to check for gas leaks 
+after repairs or maintenance are performed. 
+ 
+As a result of this discovery, the Coast Guard strongly recommends that owners and operators in 
+all  segments  of  the  maritime  industry  with  a  special  emphasis  on  conventional  LNG  fueled  vessels 
+and Liquefied Gas Carriers: 
+ 
+
+•  Emphasize to their organization’s technical shore side and vessel personnel the importance of 
+
+following: 
+ 
+
+o  Manufacture guidance; 
+o  Recommendations in terms of maintenance and repair procedures;  
+o  Methods  to  validate  successful  repairs  involving  critical  systems,  including  leakage 
+
+detection; and 
+
+o  Procedures  to  evaluate  corrective  modifications  (e.g.,  the  use  of  the  exhaust  hose), 
+even if intended to be temporary, to ensure they do not create additional safety hazards.   
+ 
+
+•  Urge their vessel personnel to request additional expertise such as classification societies and 
+manufacturer  representatives  when  technical  issues  arise  (e.g.,  the  failure  of  the  GVU  room 
+sensor to detect gas leakage or potential inadequate diffusion and circulation of air exchanges 
+within  the  GVU  room)  to  ensure  the  most  effective  corrective  actions  and  system  alterations 
+take place as needed. 
+
+ 
+
+•  Make  notifications  to  the  proper  Flag  State  authorities  and  classification  societies  regarding 
+potentially  hazardous  conditions  before  making  any  modifications  to  existing  approved 
+installations, arrangements, or proceedures. 
+
+ 
+The  Coast  Guard  strongly  recommends  to  Flag  States,  classification  societies,  underwriters  and 
+insurers  that  respective  examiners,  surveyors,  and  inspection  personnel  maintain  an  acute 
+awareness  regarding  any  system  modifications,  whether  deemed  potentially  hazardous  or  not,  to 
+ensure such modifications have received the proper engineering reviews, approvals, and supporting 
+documentation. 
+ 
+This  Safety  Alert  is  provided  for  informational  purposes  only  and  does  not  relieve  any  domestic  or 
+international  safety,  operational  or  material  requirement.    Developed  by  Sector  Boston  Prevention, 
+LNG  SME,  Liquefied  Gas  Carrier  National  Center  of  Expertise  (LGC  NCOE)  and  Coast  Guard 
+Headquarters  Office  of  Investigations  and  Casualty  Analysis,  Washington  DC.    Questions  may  be 
+sent to HQS-PF-fldr-CG-INV@uscg.mil. 
+
+

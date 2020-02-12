@@ -1,0 +1,76 @@
+AB 
+
+ 
+
+IMCA Safety Flash 09/08 
+
+Safety Flash 
+
+May 2008 
+
+These  flashes  summarise  key  safety  matters  and  incidents,  allowing  wider  dissemination  of  lessons  learnt  from  them.    The  information  below  has  been 
+provided in good faith by members and should be reviewed individually by recipients, who will determine its relevance to their own operations. 
+
+The effectiveness of the IMCA safety flash system depends on receiving reports from members in order to pass on information and avoid repeat incidents.  
+Please consider adding the IMCA secretariat (imca@imca-int.com) to your internal distribution list for safety alerts and/or manually submitting information 
+on specific incidents you consider may be relevant.  All information will be anonymised or sanitised, as appropriate. 
+
+A  number  of  other  organisations  issue  safety  flashes  and  similar  documents  which may  be  of  interest  to  IMCA  members.   Where  these  are  particularly 
+relevant, these may be summarised or highlighted here.  Links to known relevant websites are provided at www.imca-int.com/links   Additional links should 
+be submitted to webmaster@imca-int.com 
+
+ 
+
+1  Loss of DP Position Caused by Incorrect Gyro Heading 
+
+An incident has been reported to IMCA in which a DP Class 2 shuttle tanker lost its position during a DP offtake operation 
+due  to  sudden  and  simultaneous  loss  of  all  position  reference  systems.    Investigation  disclosed  that  loss  of  DP  position 
+reference systems was directly caused by incorrect gyro heading, corrupting all offset calculations in the DP model. 
+
+Root cause of incorrect gyro heading was found to be erroneous GPS signals to all gyros over a short period of time. 
+
+A  corrective  action  in  the  form  of  more  stringent  criteria  for  acceptance  of  position  reference  systems  into  the  DP  has 
+already been established. 
+
+Furthermore the gyro manufacturer is about to upgrade the software to include rejection of erroneous GPS latitude/speed 
+compensation data. 
+
+ 
+
+ 
+
+ 
+
+2  Abrasion of Metal Casing 
+
+A member has reported a case of serious abrasion on the metal casing of the flame arrester on an oxygen hose.  This was 
+discovered during routine replacement of the securing Jubilee clips on the oxygen hose flame arresters. 
+
+Where  the  hose  had  been  left  coiled  on  its  storage  brackets  and  had  been  able  to  swing  freely  back  and  forth  with  the 
+movement of the vessel, it was noticed that this had resulted in the abrasion of the underside of the metal casing of the flame 
+arrester.    The  resulting  wear  on  the  metal  was  sufficient  to  reveal  the  O-ring  inside  the  arrester,  as  can  be  seen  in  the 
+photograph. 
+
+This rendered the arrester useless, and it is evident from the photograph that oxygen would now be able to leak freely past 
+this  area  and  into  the  atmosphere,  thereby  enriching  it  and  making  it  more  readily  combustible  should  fire  or  a  cause  of 
+ignition occur. 
+
+It is not uncommon for lengths of oxy/acetylene hose to be stored in ‘out of the way’ places, ready to be uncoiled and used 
+on an occasional basis and, as a consequence of this, defects may only be noticed when the equipment is eventually needed. 
+
+Jubilee clips may be considered inappropriate for such hose connections as they can easily corrode and, due to their small 
+size, do not provide an adequate sealing effect.  Members are recommended to check all such hoses and arresters for wear 
+and damage: this equipment is sometimes needed in a hurry and should always be in a serviceable condition. 
+
+Abraded casing of arrester showing 
+the internal O-ring 
+ 
+
+Abraded casing caused by continual 
+rubbing against ship’s steelwork 
+while on hanging brackets 
+ 
+
+ 
+
+

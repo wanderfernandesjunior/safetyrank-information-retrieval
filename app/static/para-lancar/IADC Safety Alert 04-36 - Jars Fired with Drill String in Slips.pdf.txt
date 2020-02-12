@@ -1,0 +1,52 @@
+Safety Alert 
+
+From the International Association of Drilling Contractors 
+
+ 
+
+ 
+ALERT 04 – 36 
+ 
+
+JARS FIRED WITH DRILL STRING IN SLIPS 
+
+ 
+WHAT HAPPENED: 
+ 
+The drill crew was tripping 4” drill pipe in the hole with a whipstock assembly at 1,824 feet.  With the drill string 
+suspended  in  the  slips  in  the  rotary  and  the  elevators  latched  onto  the  drill  pipe,  the  jars  in  the  hole  fired 
+unexpectedly.    The  drill  string  “jumped”  in  the  slips  several  times  due  to  the  recoil  effect  of  the  drill  string.  
+Each recoil resulted in the drill string setting lower in the slips until the elevators caught the load and prevented 
+the drill pipe from possibly falling into the hole. 
+ 
+WHAT CAUSED IT: 
+ 
+Upon pulling out of the hole to inspect the whipstock assembly, it was discovered that two (2) test plug O-rings 
+snagged around the whipstock assembly and mill. It is believed the O-rings could have caused enough drag 
+while tripping in the hole to collapse and cock the jars. The jars in use were the bumper type and are much 
+easier to activate than normal drilling jars. With the jars cocked there was sufficient weight below the jars to 
+enable the jars to fire. 
+ 
+CORRECTIVE ACTIONS:  To address this incident, this company did the following: 
+ 
+1.  Discuss incident with drill crews and identify risks associated with the use of jars.  
+2.  Revise relevant JSAs to consider the use of jars and the associated risks.  
+3.  Drag while tripping must be monitored to ensure jars are not inadvertently cocked.  Any debris in the well 
+
+(O-rings, tong dies, etc.) or tight hole could result in the jars cocking and firing unexpectedly. 
+
+ 
+
+The Corrective Actions stated in this alert are one company’s attempts to address the incident, and do not 
+
+necessarily reflect the position of IADC or the IADC HSE Committee. 
+
+This material is presented for information purposes only.  Managers & Supervisors should  
+
+evaluate this information to determine if it can be applied to their own situations and practices. 
+
+Copyright © 2004 International Association of Drilling Contractors.  All Rights Reserved 
+
+Issued September 2004 
+
+

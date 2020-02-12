@@ -1,0 +1,107 @@
+ 
+
+ 
+
+ 
+
+Safety Alert 14 
+
+Fast Rescue Craft Safety 
+
+ 
+
+ 
+
+What happened? 
+A temporary arrangement observed during a recent NOPSA inspection has highlighted the 
+importance of making sure a fast rescue craft (FRC) is suitable for its intended purpose. 
+
+Following the failure of the platform’s original FRC, a replacement FRC was brought in from 
+a nearby facility as a temporary measure.  A Job Safety Analysis (JSA) was performed by 
+the platform workforce on the use of the replacement FRC and a number of hazards were 
+identified, including: 
+
+•  The location of the lifting point directly above 
+the Coxswain’s head without the provision of 
+any over-head protection; 
+
+•  The potential for snatching of the chains 
+
+once at sea level (in rough seas); and 
+
+•  No quick-release hook – potential for 
+
+hand/finger injuries whilst attempting to 
+connect to, or disconnect from, the hook. 
+
+The risk control measures identified during the JSA to address the identified hazards were 
+limited to procedural controls and awareness of the hazards.  As a result, the work party 
+had safety concerns with the temporary arrangements and it was decided that the FRC was 
+not safe to launch.  Given that the FRC had not been taken out of service at the time of the 
+inspection, and based on the JSA’s reliance on procedural controls and hazard awareness, 
+it was considered that the use of the FRC would present an imminent threat to safety.   
+
+Page 1 of 2 
+
+ 
+NOPSA SAFETY ALERT 14 cont’d 
+
+ 
+
+• 
+
+• 
+
+Consequently, a Prohibition Notice was issued to prevent use of the FRC in its current 
+configuration.  Work restrictions were also introduced by the operator to minimise the man 
+overboard risk. 
+
+ 
+What went wrong? 
+The review conducted under the Management of Change (MoC) process did not 
+adequately identify the potential for new risks to be introduced during launching and 
+retrieval of the FRC.  These new risks were only identified during a subsequent JSA after 
+the FRC was put in place on the facility. 
+
+When changes are made quickly to fulfil an immediate need, those changes are often not 
+subjected to adequate scrutiny prior to the change being made. 
+
+ 
+Key Lessons: 
+• 
+
+The use of temporary replacements for safety-critical equipment, such as an FRC, 
+should be thoroughly reviewed through a MoC process prior to the change being 
+made to ensure new hazards, resulting in unacceptable risks, are not introduced. 
+
+A single layer of risk controls is generally not sufficient to adequately address 
+identified hazards, especially when the controls are either procedural or awareness-
+based in nature.  Preferably, there should be several layers of risk controls in place so 
+that if one control measure fails, there are others in place to prevent the undesired 
+consequences being realised. 
+
+The hierarchy of controls should be considered when making changes with controls 
+selected from as high as possible on the following list, where practicable: 
+
+⇒  Eliminate 
+
+⇒  Substitute 
+
+⇒  Engineering Controls 
+
+⇒  Administrative Controls 
+
+⇒  Personal Protective Equipment 
+
+Where elimination or substitution is not practicable, good design is the barrier most 
+likely to succeed to prevent accidents.  For these systems to operate safely and with 
+the confidence of those required to use them, they must be designed consistent with 
+industry good practice. 
+
+ 
+Contact 
+For further information email alerts@nopsa.gov.au and quote Alert 14. 
+
+Page 2 of 2 
+
+

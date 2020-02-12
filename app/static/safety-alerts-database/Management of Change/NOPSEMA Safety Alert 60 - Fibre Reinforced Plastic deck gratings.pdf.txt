@@ -1,0 +1,126 @@
+ 
+
+Safety alert 60 
+
+August 2014 
+
+ 
+
+Fibre Reinforced Plastic (FRP) deck gratings 
+
+What happened? 
+
+During a recent facility inspection, a NOPSEMA inspector observed Fibre Reinforced Plastic (FRP) deck gratings 
+were being used as a part of the designated emergency exit route across a facility. Upon further investigation, 
+it  was  discovered  a  decision  to  replace  the  original  steel  grating  with  FRP  grating  had  not  considered  the 
+vulnerability of FRP  grating  to  hydrocarbon fires. This was of  concern given recent warnings  about  potential 
+failures of fire resistant composite materials used offshore (see ‘References’ section below).  Furthermore, it 
+was apparent the operator had failed to consider all implications of changing materials and was informed of 
+the  need  to  reassess  their  decision  to  ensure  that  the  risks  associated  with  FRP  were  reduced  to  as  low  as 
+reasonably practicable (ALARP). 
+
+What could go wrong? 
+
+FRP deck gratings have the potential to appear undamaged after being exposed to hydrocarbon fires and can 
+catastrophically fail while under the load of an individual. For example, a worker who runs over the grating has 
+the potential to fall and encounter serious injury. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Figure 1   FRP (left) and steel (right) gratings post dynamic testing.  
+Image courtesy of Health and Safety Executive, United Kindgom  
+
+Key lessons 
+
+•  Operators should ensure that when proposing to make a change they take all reasonably practicable 
+
+steps to source available safety information related to the change, and act on it where appropriate. 
+
+•  FRP grating has been shown to be vulnerable to hydrocarbon fires and its use on an offshore facility 
+
+needs to be assessed to ensure that risks associated with its use are ALARP. 
+
+• 
+
+If  facility  operators  use  FRP  grating  they  need  to  clearly  define  the  performance  required  of  the 
+grating.  For  example  the  temperature  and  duration  of  fire  that  the  FRP  should  resist  and  still 
+subsequently support a minimum weight under dynamic conditions. 
+
+•  The  performance  required  of  the  FRP  grating  should  then  be  compared  against  the  performance 
+
+described by suppliers to ensure that the FRP grating can meet its required performance. 
+
+National Offshore Petroleum Safety and Environmental Management Authority 
+
+A339029      Rev 0 
+
+21/08/14 
+
+1 of 2 
+
+ 
+
+Safety alert 60 
+
+FRP deck gratings 
+
+The legislation 
+Clause  9  of  Schedule  3  of  the  Offshore  Petroleum  and  Greenhouse  Gas  Storage  Act  2006  requires  that  
+“The  operator  of  a  facility  must  take  all  reasonably  practicable  steps  to  ensure  that  the  facility  is  safe  and 
+without  risk  to  the  health  of  any  person  at  or  near  the  facility.”    This  includes  an  obligation  to  take  all 
+reasonable practicable steps to: 
+
+• 
+
+implement and maintain appropriate procedures and equipment for the control of, and response to, 
+emergencies at the facility [Clause 9(2)(e)]; and 
+
+•  provide  all  members  of  the  workforce  with  the  information,  training  and  supervision  necessary  for 
+them to carry out their activities in a manner that does not adversely affect the safety of persons at 
+the facility [Clause 9(2)(f)]. 
+
+References 
+
+The  following  oil  and  gas  publications  provide  further  information  on  the  issue  of  FRP  deck  grating 
+vulnerability: 
+
+1.  Health and Safety Executive. (2012). HID 2-2012 - Warning to offshore industry on possible failure of 
+fire resistant composite deck gratings. Retrieved from http://www.hse.gov.uk/safetybulletins/deck-
+gratings.htm?eban=govdel-offshore-bulletin&cr=02-Oct-2012# 
+
+2.  Health and Safety Executive. (2012). RR950 - Preliminary fire testing of composite offshore pedestrian 
+
+gratings. Retrieved from http://www.hse.gov.uk/research/rrhtm/rr950.htm 
+
+3.  Oil and Gas UK. 2013. Technical Note - Subject: Fire Resistance of Composite Grating. Retrieved from 
+
+http://www.oilandgasuk.co.uk/templates/asset-relay.cfm?frmAssetFileID=3194 
+
+Contact 
+
+For  further  information  email  alerts@nopsema.gov.au  and  quote  Alert  60.  NOPSEMA  safety  alerts  are 
+published at nopsema.gov.au, on the ‘Safety Alerts’ page under the ‘Safety’ tab. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ National Offshore Petroleum Safety and Environmental Management Authority 
+
+A339029     Rev 0 
+
+18/08/14 
+
+2 of 2 
+
+

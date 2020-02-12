@@ -1,0 +1,331 @@
+AB 
+
+IMCA Safety Flash 10/12 
+
+Safety Flash 
+
+ October 2012 
+
+These  flashes  summarise  key  safety  matters  and  incidents,  allowing  wider  dissemination  of  lessons  learnt  from  them.    The  information  below  has  been 
+provided in good faith by members and should be reviewed individually by recipients, who will determine its relevance to their own operations. 
+
+The effectiveness of the IMCA safety flash system depends on receiving reports from members in order to pass on information and avoid repeat incidents.  
+Please consider adding the IMCA secretariat (imca@imca-int.com) to your internal distribution list for safety alerts and/or manually submitting information 
+on specific incidents you consider may be relevant.  All information will be anonymised or sanitised, as appropriate. 
+
+A  number  of  other  organisations  issue  safety  flashes  and  similar  documents  which may  be  of  interest  to  IMCA  members.   Where  these  are  particularly 
+relevant, these may be summarised or highlighted here.  Links to known relevant websites are provided at www.imca-int.com/links   Additional links should 
+be submitted to webmaster@imca-int.com 
+
+ 
+
+1  Diver Injured During Subsea Lifting Operations 
+
+A member has reported an incident in which a diver was struck and injured by a two tonne weight as it was being deployed 
+from  the  vessel  crane  during  subsea  installation  work.    The  incident  occurred  when  two  divers  were  assisting  in  the 
+installation of an external bell mouth on to its protruding J-tube mounting points at an offshore wind turbine base pile in 23 
+metres of water.  Shortly after the start of the dive it was decided to send down a two tonne dead man anchor (DMA) and a 
+lever  hoist.    These  were  required  to  pull  the  bell  mouth  into  the  correct  alignment  for  fitting.    Before  the  DMA  was 
+deployed, the diving supervisor instructed both divers to move in a specific direction to a safe location away from the bell 
+mouth.    The  divers  were  also  told  to  look  upwards  to  observe  the  DMA  deployment.    Diver  1  initially  followed  these 
+instructions but he later moved back into the danger zone without direction from the supervisor.  Diver 1 was subsequently 
+struck by the DMA as it was lowered by the vessel crane from the surface.  Diver 1may also have been pinned to the seabed 
+by the weight of the anchor for a few seconds until it was lifted off him by the crane.  The injured diver was treated on-board 
+the vessel and subsequently evacuated to hospital by helicopter.  The diver was released from the hospital later the same day 
+and sent home on temporary sick leave.  
+
+The incident demonstrates that divers keen to complete their work may be tempted to move into danger zones during the 
+course of subsea lifting operations.   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Bell Mouth and Intended Underwater Arrangement 
+
+Our member’s investigation revealed the following: 
+
+Immediate causes  
+
+  Over-rapid lowering of the load; 
+
+ 
+
+Lack of knowledge of the whereabouts and depth of the subsea load during its deployment through the water column; 
+
+  The subsea load was lowered all the way to the seabed with no appropriate mid-water stop point; 
+
+  The diver was directly below the load as it was being lowered; 
+
+ 
+
+Poor communication and co-operation between the diving supervisor and the divers; 
+
+  Owing to misunderstanding, diver 1 failed to follow the instructions of the diving supervisor; 
+
+  The diving supervisor failed to realise or notice that the diver had moved back into the danger zone. 
+
+ 
+Root causes  
+
+ 
+
+Inadequate hazard identification and risk assessment; 
+
+  No common toolbox talk held before the start of the operation; 
+
+  No lift plan or safe working procedure for deploying the load whilst divers were in the water; 
+
+  Reliance  on  the  diver  following  instructions;  failure  to  take  sufficient  account  of  human  factors  leading  to  errors 
+
+  Complacency – the operation was perceived as being a simple, familiar and repetitive task, and personnel may have been 
+
+(mistakes and violations); 
+
+operating within a “comfort zone”. 
+
+operations; 
+
+diving operations; 
+
+Our member drew the following lessons from the incident: 
+
+  All  personnel  (including  divers)  should  attend  toolbox  talks  to  review  the  plan  before  the  start  of  subsea  lifting 
+
+  Appropriate risk assessment should take place to cover the particular challenges of vessel lifting operations in support of 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Lift plans prepared by competent persons should be in place before the start of subsea lifting operations; 
+
+Ensure effective communications between all members of the lifting team; 
+
+Personnel (including divers) should never work underneath loads; 
+
+  Divers should retreat to confirmed safe locations (e.g. the dive basket or bell clump weight) during the lowering or lifting 
+of loads through the water column and remain there until they are alerted that the chosen stop point has been reached; 
+
+  Use of travel length indicators to stop loads at an agreed distance above seabed; 
+
+  Use of specific lift deployment speeds in lift plans/procedures; 
+
+Loads should be lowered in a controlled manner at specific and agreed speeds, rather than in free fall; 
+
+Equipment  and  procedures  should  be  in  place  to  enable  the  crane  driver  and  diving  supervisor  to  know  the  depth  of 
+loads as they are lowered through the water column; 
+
+  Use of suitable stop points in the water column so that loads are not deployed straight to the seabed (or lifted straight 
+
+to the surface), allowing time for divers to retreat to a safe location. 
+
+Members may wish to refer to the following IMCA documents: 
+
+IMCA SEL 019 Guidelines for lifting operations 
+
+IMCA M 205 Guidance on operational communications (also available as IMCA D 046) 
+
+IMCA D 014 IMCA International Code of Practice for Offshore Diving 
+
+2  Tombarra Fall Wire Fatality: Updated Reports 
+
+The UK Marine Accident Investigation Branch (MAIB) has published two updated reports on the investigation of the fatality 
+of a rescue boat crewman on board Tombarra in February 2011. 
+
+The first is Report 19A/2012 Part A - The failure of the fall wire. 
+
+The following key issues are highlighted in this report:  
+
+♦  A rescue boat fell 29 metres killing one of the boat's four crew; 
+
+♦  The boat's fall wire parted following the failure of a proximity switch which enabled the davit's winch to overload the 
+
+wire; 
+
+♦  A  holistic  view  of  the  design,  approval  and  compatibility  of  davit  and  winch  systems  is  essential  to  prevent  individual 
+
+components of the system being overstressed to the point of failure; 
+
+♦ 
+
+It is essential that ships’ crews always test safety devices before use and do not rely on them for their safety. 
+
+The second is Report No 19B/2012 Part B - The weight of the rescue boat. 
+
+The following key issues are highlighted in this report:  
+
+ 
+♦  The rescue boat was found to be 50% overweight.  During the investigation, other rescue boats were found to be up to 
+
+110% overweight; 
+
+♦  The  additional  weight  was  due  to  water  ingress  through  the  hull  and  subsequent  entrapment  in  the  boat's  internal 
+stiffeners and foam-filled compartments buoyancy spaces, and could only be removed by drilling holes or removing the 
+deck; 
+
+♦  The crew were unaware that the boat was significantly heavier than designed; 
+
+♦  The  number  of  other  rescue  boats,  made  by  differing  manufacturers  which  have  also  been  found  to  be  overweight, 
+indicates  that  the  problem  of  water  entrapment  within  buoyancy  spaces  is  widespread  and  potentially  extends  to 
+lifeboats and leisure craft; 
+
+♦  The investigation identified the need to weigh the boats on a regular basis. 
+
+The two reports are available from: 
+
+Report 19A/2012 Part A - The failure of the fall wire www.maib.gov.uk/cms_resources/TombarraPartA_Report.pdf 
+
+Report No 19B/2012 Part B - The weight of the rescue boat www.maib.gov.uk/cms_resources/TombarraPartB.pdf 
+
+The UK MAIB’s earlier preliminary findings and updated findings were published in IMCA Safety Flash 05/11 and IMCA Safety 
+Flash 09/11. 
+
+3  Lifejacket Recall - Mullion Compact 150N ISO 12402 
+
+The Marine Safety Forum (MSF) has published the following Safety Flash regarding a potential safety concern with the Mullion 
+COMPACT150N ISO 12402 LIFEJACKET, once it is inflated.  Mullion has recalled all COMPACTLIFEJACKETS which have 
+been sold since 1 December 2011 if they have a YELLOW valve in the oral inflation tube. See the diagrams in the link below 
+for more details.  
+
+The Safety Flash can be downloaded from www.marinesafetyforum.org/upload-files//safetyalerts/msf-safety-flash-12.38.pdf 
+
+4  Damage to Davit-mounted Small Boats 
+
+The Marine Safety Forum (MSF) has published two recent Safety Flashes regarding damage to davit-mounted daughter craft.  
+
+In the first instance, the damage was caused by the hull of the daughter craft compressing the hollow ‘D’ Rubber pads on the 
+cradle  and  the  hull  coming  into  direct  contact  with  the  steel  cradle.    The  report  can  be  downloaded  from 
+www.marinesafetyforum.org/upload-files//safetyalerts/msf-safety-flash-12.36.pdf. 
+
+In  the  second,  a  number  of  vessels  have  reported  damage  to  fall  wires.    The  report  can  be  downloaded  from 
+www.marinesafetyforum.org/upload-files//safetyalerts/msf-safety-flash-12.37.pdf.  
+
+5  Hand Injury During O2 Handling and Equipment Maintenance 
+
+A  member  has  reported  an  incident  on  a  dive  support  vessel  in  which  there  was  an  explosion  and  a  person  suffered  2nd 
+degree burns to his hands.  The incident occurred during the changing of an O2 gas quad on a diving support vessel (DSV).  
+The injured person, who was competent and qualified for this work, was wearing full personal protective equipment (PPE) 
+for  the  task  including  ear  protection.    He  successfully  disconnected  and  vented  the  used  quad  which  was  at  a  pressure  of 
+around 20bar, closed all relevant valves and removed the O2 regulator.  The regulator was subsequently removed from the 
+empty quad and transferred directly onto a fully charged quad at a pressure of 200bar.  The regulator was tightened and the 
+whip lines fitted as per requirements.  The injured person then proceeded to open all 16 of the individual pillar valves on the 
+individual bottles; then checked to ensure the regulator was wound back, prior to cracking the king valve to allow O2 to flow 
+into the regulator. 
+
+At this point an explosion occurred and the injured person was exposed to the blast resulting in serious burns to both hands.  
+Because the injured person was shocked due to the sudden blast, he stepped away from the quad.  All the pillar valves for all 
+the  bottles  were  open;  this  allowed  the  gas  to  start  venting  directly  from  the  failed  regulator  resulting  in  a  potentially 
+catastrophic  situation.    The  injured  person  tried  to  close  the  king  valve,  but  it  was  later  found  that  the  valve  seat  was 
+damaged during the blast, and thus the O2 could not be isolated by the king valve.  More personnel arrived and helped to 
+close all of the pillar valves bringing the situation under control. 
+
+ 
+It  was  later  established  that  the  injured  person  sustained  2nd  degree  burns  to  both  hands  due  to  the  high  temperatures 
+created by the blast, despite wearing appropriate hand protection (gloves) on both hands. 
+
+Our member’s investigation and conclusion noted the following: 
+
+♦  Due  to  the  nature  of  the  incident  and  the  failure  of  the  regulator,  the  specific  cause  of  the  explosion  could  not  be 
+
+determined; 
+
+♦  The practice of opening all 16 pillar valves meant that once the regulator failure had occurred, the entire contents of the 
+
+quad was able to vent in an uncontrolled manner; 
+
+♦  The regulator was later identified as being around 12 years old; this was in excess of the recommended working age for 
+
+this type of equipment; 
+
+♦  There  was  evidence  of  white  PTFE  thread  tape  having  been  used  on  the  regulator  threads.    This  could  have  been  a 
+
+contributory factor and potential fuel for the explosion/fire; 
+
+♦  The  PTFE  Thread  Tape,  used  for  sealing  the  threads  in  this  operation,  was  not  appropriate  or  suitable  for  this  O2 
+
+application; 
+
+♦  The pipe work directly after the regulator was a 90 degree elbow joint which is not recommended for gas systems; 
+
+♦  The  regulator  connection  nut  flats  were  found  to  be  damaged  (rounded)  due  to  the  previous  use  of 
+
+♦  The regulator had not been cleaned and inspected to appropriate levels for O2 operations, prior to connection to a fully 
+
+incorrect/inappropriate tools; 
+
+charged quad; 
+
+♦  The maintenance records for the regulator were not adequately documented; 
+
+♦  Pressure gauges installed within an O2 enriched pressurised system should not be used in these cases: 
+
+–  The gauge is not O2 compatible; 
+–  The gauge has been damaged (including nuts or threads); 
+–  There is suspicion of tampering; 
+–  The gauges are over 5 years old and have not been serviced; 
+–  The gauge operating range is out with the maximum pressure rating of the regulator or cylinder. 
+
+Our member took the following actions: 
+
+♦  Personnel  working  with  O2  to  be  required  to  review  the  appropriate  company  procedures  and  also  manufacturers’ 
+
+safety, installation and operations precautions; 
+
+♦  Specialised  Oxygen  Green  PTFE  Thread  Tape  (Thread  Seal  Tape  ½”  x  260  T-27730A  (rated  @10,000  psi)  should  be 
+
+used for O2 operations; 
+
+♦  Thread tape must be kept clear of the end of the fitting by 1.5-2 threads; 
+
+♦  A six monthly test and inspection routine for loose O2 regulators has been added to the planned maintenance system; 
+
+♦  All regulators to be replaced after 5 years of service and a clear maintenance log maintained; 
+
+♦  Maintenance of the regulators should be conducted by a suitably trained and qualified person; 
+
+♦  Revision of PPE for this work to ensure operators are fully protected against relevant hazards of the task; 
+
+♦  Dedicated  set  of  “Clean  and  Correct”  sized  spanners  should  be  purchased  and  kept  specifically  for  use  on  fittings. 
+
+Adjustable spanners should not be used; 
+
+♦  A designated clean environment should be established for maintenance of the regulators; 
+
+♦  Pre-use regulator checklist should be developed following manufacturers’ guidance notice; 
+
+♦  All O2 pipe work to be reviewed and 90 degree joints removed wherever possible, in particular on the inlet or outlet 
+
+from a regulator to prevent friction and potential ignition points; 
+
+♦  Only  O2  compatible  gauges  shall  be  purchased  as  spares  and,  wherever  possible,  the  same  gauge  type/model  shall  be 
+
+♦  Pressure gauges should be fitted directly to regulators without restrictive or bend connections. 
+
+ordered;  
+
+ 
+
+

@@ -1,0 +1,117 @@
+Safety Alert 003 - ANP/SSM 
+
+Flare tower failure due to resonance effect 
+
+ 
+
+ 
+
+  
+
+The Superintendence of Operational Safety and Environment (ANP/SSM) is issuing 
+this safety alert to notify the petroleum and gas industry and other stakeholders about a 
+failure mechanism of the flare tower due to excessive vibration caused by hull natural frequency excitation 
+coinciding with the flare tower natural frequency. 
+
+What happened? 
+
+The incident that motivated this alert occurred in September 2017 in a floating, production, storage 
+and offloading unit (FPSO), after around one year of operation. An excessive flare tower vibration leaded to 
+a major crack, circa 950 mm length, in the bracing connected to the forward leg at the flare foundation on 
+the hull, leading to the complete shutdown and evacuation of non-essential personnel.  
+
+This flare tower is a fixed stack supported by three main elements, which are reinforced at the base 
+by knee braces. The crack occurred at the connection weld of the knee brace to the leg, as well as at doubling 
+plate connection of the flare legs on the hull deck, as showed in the picture: 
+
+Double plate 
+
+ 
+
+Potential consequences 
+
+Excessive vibration may cause unexpected and catastrophic failure of the structure, leading asset and 
+
+environmental damage and ultimately to human impacts including fatalities and production losses. 
+
+The investigation conducted by the operator identified the following causes of the failure: 
+
+Identified causes 
+
+ 
+
+ 
+
+ 
+
+  Resonance effect due to hull girder natural frequency coinciding with the flare natural frequency at 
+
+a specific draft; 
+Inadequate engineering design (knee brace location, doubling plate); 
+
+ 
+  Excessive stress concentration; 
+  Slamming inducing whipping and excitation of the flare tower natural frequency (resonance). 
+
+Therefore, significant amplification and excessive flare movements were observed leading to cracks 
+
+occurring at the weakest part of the structure: 
+
+Resonance  
+
+Wave 
+impact load 
+
+Hull girder 
+vibration 
+
+Flare tower vibration with 
+hull girder natural freq. & 
+flare tower natural freq. 
+
+ 
+
+The  Root  Cause  Analysis  performed  by  the  operator  confirmed  that  the  severe  conditions  and 
+dynamic  amplification  due to  nonlinear  response  (whipping  effect)  would  lead  to  a  flare tower  structure 
+reduced fatigue life down to couple of months. 
+
+Regulatory Framework 
+
+According to SGSO item 10.3 (a): “… The Operator of the Installation must establish a system in a way 
+
+that: 
+
+ - all aspects that could introduce risk to Operational Safety are duly considered in the Installation project and 
+in subsequent revisions of the design, construction, installation and deactivation/abandonment phases;”.  
+
+Additionally, also in agreement with SGSO item 10.3 (c):  “… The Operator of the Installation must 
+
+establish a system in a way that:  
+
+- means of altering the project are established when aspects that could introduce risk to Operational Safety 
+are encountered during the construction and installation phases.”  
+
+Lessons learned 
+
+ANP  recommends  ensuring  during  engineering  phase  of  FPSO  units  that  all  structural  natural 
+frequencies  are  separated,  including  hull  natural  frequency  for  all  draft  condition  to  avoid  significant 
+dynamic amplification and fatigue sensitivity.  
+
+ 
+Additionally,  it  is  recommended  that  all  FPSO  units  in  operation  are  checked  to  ensure  that  flare 
+tower natural frequency is sufficiently away from the hull natural frequency for all cargo conditions. The 
+identified risks shall be managed in accordance with operational safety management practices. 
+
+ 
+
+ 
+
+ 
+
+For  additional  information  regarding  this  Safety  Alert,  please  contact  ANP’s  Superintendence  of 
+
+Operational Safety and Environment at sgso@anp.gov.br. 
+
+Contact 
+
+

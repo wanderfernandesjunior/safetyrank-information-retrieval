@@ -1,0 +1,202 @@
+AB 
+
+ 
+
+IMCA Safety Flash 08/13 
+
+Safety Flash 
+
+  May 2013 
+
+These  flashes  summarise  key  safety  matters  and  incidents,  allowing  wider  dissemination  of  lessons  learnt  from  them.      The  information  below  has  been 
+provided in good faith by members and should be reviewed individually by recipients, who will determine its relevance to their own operations. 
+
+The effectiveness of the IMCA safety flash system depends on receiving reports from members in order to pass on information and avoid repeat incidents.   
+Please consider adding the IMCA secretariat (imca@imca-int.com) to your internal distribution list for safety alerts and/or manually submitting information 
+on specific incidents you consider may be relevant.   All information will be anonymised or sanitised, as appropriate. 
+
+A number of other organisations issue safety flashes and similar documents which may be of interest to IMCA members.   Where these are particularly 
+relevant, these may be summarised or highlighted here.   Links to known relevant websites are provided at www.imca-int.com/links   Additional links should 
+be submitted to webmaster@imca-int.com 
+
+ 
+
+1  Substandard Nitrogen Quads Delivered to Shipyard 
+
+A  member  has  reported  an  incident  in  which  two  nitrogen  quads  were  delivered  in  very  poor  condition  to  a  vessel  in  a 
+shipyard.    Following  delivery  the  quads  were  inspected,  and  observations  were  made  regarding  the  amount  of  corrosion 
+around the necks and valve areas of the bottles.  The nitrogen quads were immediately quarantined and removed to a safe 
+area of the yard to await collection by the supplier.    
+
+Our member noted the following: 
+
+  The quads were delivered by a company approved supplier; 
+
+  The quads were delivered with a full certification pack.   
+
+Our member drew the following conclusions: 
+
+  The incident highlights the importance of checking ALL equipment upon arrival and before use to ensure that it is fit for 
+
+purpose; 
+
+  Certification documents ought not be used as proof that equipment is fit for purpose.  Always check equipment; 
+
+ 
+
+If equipment is found to be in unsafe condition on delivery, this should be reported and the necessary precautions taken 
+to ensure that the equipment is not used until the defect has been rectified or other equipment supplied; 
+
+  Suppliers should also be audited (as required) to ensure that they have suitable management systems in place to provide 
+
+fit for purpose equipment and services. 
+
+Figure: Showing corrosion and poor condition of gas quads as delivered 
+
+ 
+
+2  Small Boat Cradle Collapsed During Poor Weather Conditions  
+
+A member has reported an incident in which a zodiac inflatable boat was dropped onto deck.  The incident occurred when a 
+dive support vessel (DSV) was at anchor outside the offshore oilfield waiting on weather.  The wind picked up suddenly to 35 
+knots and as a result the vessel began to roll violently.  This caused severe shock-load on the four securing ropes for the 
+
+ 
+cradle  supporting  the  boat.    Two  of  the  ropes  (on  the  seaward  side)  snapped,  whereas  the  deck  side  ropes  were  still 
+secured.  The vessel continued to roll violently and the small boat cradle slid from the stand and fell on the deck.  The two 
+deck side ropes which were still securing the small boat caused it to flip/turn over during the fall.   
+
+There were no injuries and no environmental damage.  The small boat sustained some damage.   
+
+Figure: Showing zodiac inflatable boat after collapse of stand 
+
+ 
+
+Our member took the following steps to prevent recurrence: 
+
+  The securing mechanism was reviewed and modified;  
+
+  Cargo lashing belt was introduced as additional securing means;  
+
+  Additional skirting was fabricated and installed on the platform towards the deck-side as well; 
+
+  Our  member  noted  that  appropriate  securing  of  equipment  and  cargo  against  vessel  movements  should  not  be 
+
+neglected.   
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Figure: Showing inflatable boat on stand after reconstruction 
+
+3  Crane Wire Parting 
+
+The Marine Safety Forum has published the following safety flash regarding the parting of a crane wire on an offshore vessel.  
+This  was  partially  due  to  the  malfunction  of  the  crane  limiter  switch,  but  also  due  to  a  failure  to  check  that  all  the  safety 
+devices were functional.   
+
+The safety flash can be downloaded from www.marinesafetyforum.org/upload-files//safetyalerts/msf-safety-flash-13.11.pdf    
+
+ 
+4  Crewman Injured – No Control of Work   
+
+The Marine Safety Forum has published the following safety flash regarding an incident in which someone was struck on face 
+and arm by debris under pressure, resulting in hospitalisation to remove particles from under their skin.  It was discovered 
+that  there  had  been  no  control  of  work  whatsoever  in  place  –  no  Permit  to  Work,  no  isolations  or  barriers,  no  risk 
+assessment or tool box talk.   
+
+The safety flash can be downloaded from www.marinesafetyforum.org/upload-files//safetyalerts/msf-safety-flash-13.15.pdf. 
+
+5  Fire Caused by Hot Work 
+
+A  member  has  reported  an  incident  in  which  a  small  fire  was  caused  by  hot  work  taking  place  on  the  deck  above.    The 
+incident occurred when a repair was being performed by a sub-contractor on a steel plate in the forecastle area.  The job 
+involved using an oxy-acetylene torch to remove an old corroded plate.  During this activity, the oxy-acetylene cutting of the 
+plate  caused  heat  transfer  from  the  forecastle  deck  area  to  the  store-man’s  office  area  (located  directly  below  the  place 
+where the hot work was being carried out).  As a result, glowing slag fell on the store-man’s chair, which caught fire.  There 
+was no-one in the storeman's office at the time.  The fire detection equipment in the office caused the alarm to go off.  There 
+were no injuries.   
+
+Figure: Fire-damaged chair after the event 
+
+ 
+
+Our members’ investigation revealed the following: 
+
+ 
+
+Immediate causes: 
+
+- 
+
+Fire watch location was not well planned by supervision; 
+
+-  Melt slag felt on top of the store-man’s chair. 
+
+  Root Causes: 
+
+- 
+
+- 
+
+- 
+
+Failure to control and conduct of safe work (permit to work planning failed); 
+
+Failed check of the workplace; 
+
+Inadequate risk assessment (warning about the smell of smoke in the store-man’s office was not investigated by 
+the fire watcher). 
+
+Our member took the following preventative and corrective measures: 
+
+  Held discussion with all parties involved to ensure all understand their responsibilities; 
+
+  Ensured that any spaces identified as at risk of heat transfer from hot work  are identified in the appropriate section of 
+
+  Raised  awareness  of  correct  identification  of  adjoining  compartments/spaces  in  regard  to  hot  work  and  heat  transfer 
+
+the job risk analysis beforehand;  
+
+through bulkheads, decks, etc.;  
+
+  Double check (second pair of eyes) to identify any deck penetrations to improve spatial awareness; 
+
+  Ensure fire detection system is fully functional during hot work.    
+
+ 
+6  Counterfeit Portable Fire Extinguishers 
+
+The United States Coast Guard (USCG) has published the following report regarding counterfeit portable fire extinguishers.  
+The  USCG  has  become  aware  of  counterfeits  of  USCG  approved  portable  fire  extinguishers  ostensibly  manufactured  by 
+approved suppliers serving a world-wide market.  These counterfeit extinguishers present a significant safety hazard.  Their 
+capability  to  extinguish  a  fire  is  unproven;  they  may  be  charged  with  a  powdery  substance  that  is  not  a  fire  extinguishing 
+agent, the pressure cylinder is not DOT approved, and the pressure gauge may not function or give false readings. 
+
+The  USCG  strongly  recommends  that  vessel  owners  and  operators  inspect  their  equipment.    Those  suspecting  that  they 
+have  counterfeit  extinguishers  should  contact  the  Coast  Guard  Office  of  Design  and  Engineering  Standards  immediately.  
+Please provide a description of the suspect units, including if possible photographs showing full front, rear, and bottom views 
+of the extinguishers, along with close-ups of all labels, and submit this information to typeapproval@uscg.mil  with a copy to 
+anticounterfeiting@us.ul.com. 
+
+Further  information,  including  useful  graphics  and  photographs  to  assist  with  identifying  the  counterfeit  equipment,  can  be 
+downloaded from www.uscg.mil/tvncoe/Documents/safetyalerts/CounterfeitExtinguishers.pdf. 
+
+ 
+
+

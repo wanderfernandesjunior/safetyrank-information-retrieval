@@ -1,0 +1,179 @@
+  
+
+ 
+ 
+ 
+May 20, 2014 
+Washington, DC 
+
+SAFETY ALERT 
+
+
+Coast Guard Alert #08-14 
+BSEE Alert #312 
+
+ 
+
+DYNAMIC POSITIONING SYSTEM FAILURES ON VESSELS  
+
+
+ 
+OTHER THAN MOBILE OFFSHORE DRILLING UNITS (VESSELS)
+ 
+
+ 
+Discussion:  This Joint Safety Alert addresses a dynamic positioning (DP) incident on a vessel resulting in a 
+loss of position while conducting a critical Outer Continental Shelf (OCS) activity.  An equipment failure, an 
+operational error and multiple failure modes not identified in the vessel’s Failure Modes and Effects Analysis 
+(FMEA) combined to produce the loss of position.  The OCS activity – well operations that introduced 
+hydrocarbon flow from a well to the vessel – was critical because of the potential for loss of position to result 
+in personal injury, environmental pollution, or catastrophic damage.  These consequences were averted 
+because of the successful actions taken by the crew, who performed an emergency disconnect from the well 
+in accordance with established procedures.  The Coast Guard and the BSEE are issuing this joint Safety Alert 
+because we share jurisdiction over vessels that perform this type of OCS activity and wish to highlight the 
+interaction between a vessel’s Safety Management System (SMS) and a leaseholder’s Safety and 
+Environmental Management System (SEMS).  See our Memorandum of Agreement OCS-07 “Safety and 
+Environmental Management Systems and Safety Management Systems”.  The incident report highlighted the 
+following: 
+ 
+Vessel SMS:  The vessel has a valid International Safety Management (ISM) certificate issued by its Flag 
+State.  The Coast Guard reminds vessel owners and operators that compliance with the ISM Code, when 
+required, is essential to safe operations, particularly when those operations are critical OCS activities.   
+ 
+
+ 
+
+ 
+
+ 
+
+1)	  At  the  time  of  position  loss,  the  vessel  was  performing  overdue  maintenance  on  its  main  power 
+distribution  bus  circuit  breakers.    The  circuit  breakers  were  two  years  overdue  for  their  routine 
+inspection  and  maintenance  requirements.    Opportunity  existed  for  this  work  to  be  performed  in  a 
+ 
+shipyard on an earlier occasion, but the vessel deferred and conducted maintenance during a critical 
+OCS activity (See ISM Code Regulations 7, 10). 
+
+ 
+
+2)	  In  support  of  the  circuit  breaker  maintenance,  the  vessel  was  transitioning  from  a  “closed  bus” 
+operation to an “open bus” configuration with 50% of the vessel’s thrusters operating on each bus. 
+After  opening  the  bus  tie,  the  initiating  event  --  mal-operation  of  a  generator  protection  circuit 
+combined with a design flaw in a power transformer protection circuit to cause 50% of the vessel’s 
+thrusters to stop.  The vessel’s engineer attempted to restore power to these thrusters by closing the 
+bus  tie  without  synchronizing  two  live  busses  (crash  sync).    Design  features  and  operational 
+procedures to prevent such an action and consequences were not sufficiently in place (See ISM Code 
+Regulations 6, 8). 
+ 
+
+   
+
+ 
+
+ 
+
+3)	  The  vessel  had  a  design  deficiency  and  an  omission  in  the  FMEA  which  failed  to  detect  the 
+deficiency.  The FMEA should have listed crash sync as a possible failure mode and discussed the 
+system’s ability to ride through it.  The design deficiency allowed a power transient to cause a total 
+loss of thrust (See ISM Code Regulation 10.3). 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+SAFETY ALERT 
+
+
+ 
+
+DYNAMIC POSITIONING SYSTEM FAILURES ON VESSELS  
+
+
+OTHER THAN MOBILE OFFSHORE DRILLING UNITS (VESSELS)
+ 
+ 
+
+ 
+Leaseholder/operator SEMS:  The BSEE strongly recommends leaseholders/operators consider Coast 
+Guard recommendations for DP vessels when evaluating potential hazards and establishing and 
+implementing contractor safe work practices in their SEMS program (see 30 CFR §§ 250.1911 and 
+250.1914).  The BSEE reminds leaseholders/operators of their critical role in ensuring safety and 
+environmental hazards associated with contracted vessels on their lease are properly managed.  In particular, 
+leaseholders/operators must ensure hazards associated with a loss of position by contracted DP vessels are 
+analyzed and managed with appropriate contractor safe work practices.  
+ 
+Dynamic Positioning: 
+The Coast Guard strongly recommends owners and operators of a vessel using DP to conduct this type of 
+critical  OCS  activity  on  the  U.S.  OCS  follow  DP  guidance  provided  in  the  ‘‘DP  Operations  Guidance 
+Prepared through the Dynamic Positioning Committee of the Marine Technology Society to aid in the safe 
+and effective management of DP Operations Part 2 Appendix 2 (DP Project/ Construction Vessels)” (MTS 
+ 
+DP Guidance).  See our notice published in the Federal Register (77 FR 62247) for more details. 
+  
+ 
+
+ 
+
+1)	  The vessel did not have a Critical Activity Mode of Operation (CAMO) defined.  Ensure a vessel has 
+a  CAMO  defined  and  is  in  its  CAMO  during  critical  OCS  activities. 
+  Refer  to  MTS 
+ 
+“TECHOP_ODP_12_(O)  (Defining  Critical  Activities  Requiring  Selection  of  Critical  Activity 
+ 
+Mode”,  January  2014  when  developing  a  CAMO  and  identifying  the  specific  OCS  activities  that 
+require the vessel to be in its CAMO. (see MTS DP Guidance Paragraph 4.9) 
+   
+ 
+
+ 
+
+2)	  Ensure  the  DP  operations  manual  and  SMS  both  appropriately  address  DP  equipment  inspection, 
+repair  and  maintenance  requirements.    A  vessel  should  not  perform  maintenance  that  may  cause  a 
+loss of position during a critical OCS activity. (MTS DP Guidance Paragraphs 4.8, 4.9, 4.11) 
+ 
+ 
+
+ 
+
+3)	  Refer  to  International  Marine  Contractors  Association  (IMCA)  M166  “Guidance  on  Failure  Modes 
+and  Effects  Analysis  (FMEAs)”  and  MTS  Technical  and  Operational  Guidance  (TECHOP) 
+ 
+“TECHOP_GEN_01_(Power  Plant  Common  Cause  Failures)”,  September  2012  when  developing  a 
+vessel’s FMEA.  At a minimum a vessel’s FMEA and DP FMEA Proving Trials should address the 
+common failure modes listed in paragraphs 4.2, 4.3 and Figure 1 of TECHOP_GEN_01. ( MTS DP 
+Guidance Paragraphs 4.2 and 4.7) 
+ 
+ 
+
+ 
+
+4)	  Ensure  a  structured  competence  assurance  program  is  applied  to  all  key  DP  personnel.    At  a 
+minimum  DP  personnel  should  be  required  to  demonstrate  proficiency  in  understanding  the 
+redundancy  concept  and  emergency  procedures  in  intervening  for  failed  redundancy.    Intervention 
+proficiency in restoring power and thrust should be demonstrated during drills and annual trials. (See 
+MTS DP Guidance Paragraph 4.14) 
+ 
+
+ 
+
+ 
+For additional information, contact Lieutenant Chris Martin at 985-850-6495 with the Coast Guard Outer 
+Continental Shelf Center of Expertise or Staci King at 703-787-1736 with the BSEE Office of Offshore 
+Regulatory Programs SEMS Branch. 
+ 
+
+ 
+
+ 
+
+# 
+
+
+

@@ -1,0 +1,229 @@
+AB
+
+ 
+
+IMCA Safety Flash 12/01 
+
+October 2001 
+
+These  flashes  summarise  key  safety  matters  and  incidents,  allowing  wider  dissemination  of  lessons  learned  from  them.    The  information  below  has  been 
+provided in good faith by members and should be reviewed individually by recipients, who will determine its relevance to their own operations. 
+
+The effectiveness of the IMCA safety flash system depends on receiving reports from members in order to pass on information and avoid repeat incidents.  
+Please consider adding the IMCA secretariat (imca@imca-int.com) to your internal distribution list for safety alerts and/or manually submitting information 
+on specific incidents you consider may be relevant.  All information will be anonymised or sanitised, as appropriate. 
+
+A  number  of  other  organisations  issue  safety  flashes  and  similar  documents  which  may  be  of  interest  to  IMCA  members.    Where  these  are  particularly 
+relevant, these may be summarised or highlighted here.  Links to known relevant websites are provided at www.imca-int.com/links   Additional links should 
+be submitted to webmaster@imca-int.com 
+
+ 
+
+1  Dropped Object Risk 
+
+A member has reported finding the ‘job-made’ lifting hook shown below, rough cut from half inch steel plate, during a routine 
+safety check at a vendor’s shipyard.  The lifting hook was lying near a pad eye on a lifting frame for a piece of equipment 
+about the size of an office desk and estimated to weigh 500-750kg.  The company concerned confiscated the hook and intend 
+using it for safety training of new staff, as an example of unsafe practice. 
+
+The lessons learned by the company concerned were: 
+
+  Use only certified lifting gear in good condition; 
+
+ 
+
+proper certification is a necessary practice; 
+
+by the rigging supervisor. 
+
+2  Negative Pressure Injury to a Diver 
+
+  Routine inspections of all lifting gear, such as wire rope slings, nylon slings, shackles, hooks, etc. for good condition and 
+
+  All lifting frames for equipment should be fitted with properly certified and suitably rated lifting gear when put in service 
+
+A member has reported this recent incident, concerning negative pressure when breaking containment in subsea pipework. 
+
+During diving operations on a subsea manifold in 140 msw, work was being undertaken to install additional four inch pipe 
+spools in a well bay, to enable connection of a well to the manifold.  The spools had been transported to the vessel with 
+wooden blind protectors on the flange faces to prevent impact damage.  These did not have pre-drilled vent holes and were 
+to be replaced onboard the vessel with standard donut protectors.  However, two assemblies were apparently overlooked 
+and were subsequently deployed subsea with the unvented wooden blinds still in place. 
+
+At the time of the incident, the diver had manoeuvred the spool piece close to its final position, removed the tie wrap and 
+then attempted to lever the wooden blind off the flange face using his knife.  It appears that the blind then imploded, due to 
+the build-up of negative pressure, pulling the diver’s hand through the blind and into the spool, causing a fracture to the arm 
+and dislocation of the thumb, bruising and swelling. 
+
+ 
+
+out; 
+
+the flange. 
+
+Initial investigations indicate that a number of the existing checks and controls in the company procedures and safe working 
+practices failed because they had not been adhered to: 
+
+  The  actions  documented  in  the  project  risk  assessment  to  check  blinds  for  vent  holes  were  not  systematically  closed 
+
+  The assembly was overboarded with the wooden blind in place and this went unnoticed; 
+
+  The diver should not have attempted to lever the blind off the flange face; nor should he have placed himself in front of 
+
+While  this  safety  flash  is  concerned  with  a  negative  pressure  incident,  it  is  important  to  recognise  the  seriousness  of  any 
+incident  involving  uncontrolled  pressure  (positive  or  negative)  when  breaking  containment  in  subsea  pipework.  
+These incidents inevitably have a high potential for injury and have, in the past, led to diver fatalities. 
+
+3  Serious Incident while Checking Man-Overboard and Buoy Smoke Marker 
+
+A member has informed us of a serious incident that occurred when a person was injured while checking the service date on 
+one of the man-overboard and buoy smoke marker units. 
+
+The injured person placed his right hand on top of the smoke marker as located on the vessel’s railings and, as he bent over 
+the device, it ignited and the canister burst.  The injured person was struck in the chest, face and hand with burning powder 
+and was thrown backwards off his feet by the force of the impact. 
+
+The injuries sustained were:  bruised right hand and small lacerations on the right hand, small burn on the left cheek, small 
+burn  on  the  right  hand  and  slight  bruising  to  the  cheek.    The  injured  person  was  wearing  normal  personal  protective 
+equipment (PPE), which included flame retardant coveralls and safety glasses, which significantly contributed to protecting him 
+from more serious injury. 
+
+The company involved has carried out the following actions as a result of the incident:  the manufacturer has been informed 
+and has reviewed the systems employed in the device and cannot determine the cause.  The manufacturer is confident that 
+the systems incorporate stringent tests and standards to such devices that they stated that they consider external influences 
+contributed to the incident.  These influences have not been determined and dialogue with the manufacturer continues. 
+
+The company involved has instructed its personnel that if anyone needs to check the service details of such equipment, they 
+should not lean over or lean on the equipment.  Full PPE should be worn, which includes full face visor over safety glasses. 
+
+4 
+
+Incident as a Result of Failure of a Bollard 
+
+A member has reported the following incident.  A cargo barge loaded with 525 tons was moored to a pipelay barge, when 
+one  of  the  bollards  on  the  cargo  barge  broke  and  was  pulled  away  on  the  pipelay  barge’s  deck  by  the  mooring  rope.  
+The bollard first hit the lay barge hand rail and then bounced on the deck, where the rigging team leader was working on 
+another operation, approximately 10 m from the cargo barge.  The bollard broke his helmet and caused serious injury to the 
+right side of the front of his head. 
+
+The weather conditions at the time were:  wind 34 knots, waves 1.5m.  Propylene rope of 64 mm diameter, maximum tensile 
+strength (MTS) 46 tons, was being used on the bollard.  The rope did not break, but the 8” diameter 400 mm high bollard 
+broke close to the weld on the deck at ~15 mm. 
+
+The following corrective actions have been taken to avoid recurrence of the incident: 
+
+  Reassess the scenario of mooring cargo barge to the lay barge when the weather conditions are bad.  No vessel or cargo 
+
+barges should be moored alongside the lay barge when wind speeds exceed 25 knots; 
+
+  Physical  inspection  of  bollards.    On  investigation,  the  steel  quality  of  the  bollard  in  the  weld  area  was  questioned.  
+
+A qualified third party was to inspect the other bollards for evidence of fatigue and steel hardening. 
+
+5  Failure of Cable Socks (Chinese Fingers) on Subsea Rigging 
+
+We have been passed information on the following incident.  A 2” diameter pipeline dewatering hose had been deployed to 
+the seabed, supported at 20 m intervals by cable socks (Chinese fingers) on a winch wire.  The water depth was 380 m. 
+
+ 
+
+After a period of several hours it was found that most of the cable socks had moved down the winch wire, causing the full 
+weight  of  the  hose  to  be  taken  on  the  cable  socks  above,  which  subsequently  broke.    The  weight  of  the  hose  was  then 
+transferred to the slack section of hose on the deck of the deployment vessel.  The dewatering operation was aborted and a 
+controlled abandonment of the hose and support rigging onto the vessel was carried out. 
+
+The investigation found that the cable socks were not suitable for this duty: 
+
+  Their design load was much higher than their working load and they did not develop an adequate grip on the winch wire; 
+
+  They were constantly tensioned due to swell heave on the hose and were, therefore, able to relax their bite on the wire; 
+
+  The  use  of  cable  socks  on  a  winch  wire  (a  very  hard  surface  in  comparison  to  a  cable’s  outer  sheath)  was  not 
+
+appropriate. 
+
+The investigation also identified some important system causes into the failure: 
+
+  Although a simulated test on a cable sock was carried out on the deck of the vessel, it wasn’t representational of the 
+
+cyclic loading conditions subsea; 
+
+  The  risk  assessment  process,  although  extensive,  had  not  addressed  this  use  of  cable  socks.    This  rigging  feature  was 
+
+added at a later date and was not adequately risk assessed. 
+
+Subsequently, an alternative method of rigging was developed, employing clamps onto the support wire and the dewatering 
+operation was successfully completed. 
+
+6  Medical Device Recall – Defibrillator 
+
+We  have  been  passed  a  recall  notice,  copied  below,  put  out  by  Laerdal  Medical  Ltd  regarding  its  Heartstart  3000  and 
+3000QR defibrillators. 
+
+Safety Flash 
+
+ 
+
+ 
+
+ 
+
+URGENT:   MEDICAL DEVICE RECALL 
+
+AFFECTED PRODUCT 
+
+Product: Laerdal Heartstart 3000 and Heartstart 3000QR Semi-Automatic Defibrillator 
+
+Manufactured by:  Laerdal Medical As, PO Box 377, N-4001 Stavanger, Norway 
+
+ 
+
+REASON FOR RECALL 
+
+Affected  Laerdal  Heartstart  3000  and  Heartstart  3000QR  Defibrillator  may  cease  operation 
+and display Service Mandatory NO 9 Transistor Voltage during charging period due to failure 
+of a component on the High Voltage Board.  The instance occurs when the unit is subjected to 
+the  combination  of  high  humidity  and  high  temperature.    There  is  no  early  indication  or 
+warning that the fault has or will occur before the charging for shock delivery.  Laerdal Medical 
+AS  have  confirmed  6  such  failures  among  approximately  1400  devices  shipped  since  1998.  
+All  these  failures  have  been  in  one  country,  namely  Japan,  during  conditions  of  both  high 
+humidity  and  high  temperature:  no  such  failure  has  been  reported  from  any  other  country.  
+Nevertheless,  although  this  number  of  failures  is  low  and  restricted  to  one  country,  we  are 
+taking this action because there is a potential for additional failures. 
+
+HAZARD INVOLVED 
+
+The clinician would be unable to get the device to function 
+
+The patient would be prevented from receiving therapy 
+
+HOW TO IDENTIFY 
+
+Laedal Heartstart 3000 and Heartstart 3000QR 
+
+  Serial Numbers:  19230-21718 
+
+REQUIRED ACTION 
+
+  You  will  be  receiving  a  call  from  a  Laedal  Medical  representative  within  the  next  4  to  6 
+weeks to schedule a repair.  We have identified the correction and are in the process of 
+providing new components. 
+
+If  an  effected  unit  is  likely  to  be  used  during  conditions  of  both  high  humidity  and  high 
+temperature,  we  recommend  the  affected  unit  is  tested  in  similar  conditions  by  giving  a 
+series of three shocks into a tester or other appropriate device. 
+
+If  you  have  questions  about  this  recall  notice,  please  call  your  local  Laerdal  Medical 
+company or Laerdal Medical dealer. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+

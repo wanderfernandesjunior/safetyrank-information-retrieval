@@ -1,0 +1,220 @@
+AB 
+
+ 
+
+IMCA Safety Flash 12/09 
+
+Safety Flash 
+
+August 2009 
+
+These  flashes  summarise  key  safety matters  and incidents,  allowing  wider  dissemination  of  lessons learned  from  them.    The information  below has been 
+provided in good faith by members and should be reviewed individually by recipients, who will determine its relevance to their own operations. 
+
+The effectiveness of the IMCA safety flash system depends on receiving reports from members in order to pass on information and avoid repeat incidents.  
+Please consider adding the IMCA secretariat (imca@imca-int.com) to your internal distribution list for safety alerts and/or manually submitting information 
+on specific incidents you consider may be relevant.  All information will be anonymised or sanitised, as appropriate. 
+
+A  number  of  other  organisations  issue  safety  flashes  and  similar  documents  which may  be  of  interest  to  IMCA  members.   Where  these  are  particularly 
+relevant, these may be summarised or highlighted here.  Links to known relevant websites are provided at www.imca-int.com/links   Additional links should 
+be submitted to webmaster@imca-int.com 
+
+ 
+
+1  Pillar Valve Failure 
+
+A member has reported an incident in which a pillar valve from an emergency gas cylinder separated from the bottle while 
+under pressure, rapidly releasing 50 cu ft of air to atmosphere and hitting a diver’s helmet.  A trial run dive was planned in an 
+anchorage prior to mobilisation to a job site.  Dive checks were carried out as per standard procedures and the diver was 
+cleared to enter the dive basket, ready for the water.  As the diver turned upon entering the basket a loud bang was heard 
+and there followed an escape of gas.  The diver collapsed to the stage grating and suffered multiple contusions and a dental 
+insult.  He was evacuated to shore for further evaluation and treatment but made a full recovery. 
+
+It  was  discovered  subsequently  that  the  bottles  had  been  sent  by  a  subcontractor  to  a  third  party  for  hydrostatic  testing.  
+On their  return  the  bottles  were  delivered  to  the  dive  support  vessel.    The  bottles  had  been  charged  to  full  working 
+pressure of 2800 psi and had held pressure for several days prior to the incident.  Investigation revealed that the cylinder 
+(Luxfur  S50  brand)  had  an  imperial  thread  and  the  pillar  valve  (MDE  232  bar)  which  failed  had  a  metric  thread.    It  is 
+considered that the most likely cause of the incident is that the valves were mixed up at the third party testing agency after 
+the hydrostatic test. 
+
+The following actions were taken: 
+
+party testing agency; 
+
+  Subcontractor to initiate further investigation and auditing of the receiving, testing and dispatching process at the third 
+
+  Remove from circulation the cylinders from the recent hydrostatic test; test and condemn failed or damaged equipment; 
+
+  Ensure all cylinders and pillar valves held and in use at company sites are of the approved thread combination; 
+
+  Review acceptance criteria for third party hired equipment to ensure quality remains of the highest standard. 
+
+ 
+
+ 
+
+Diver’s hat with the indentation 
+
+where valve hit the hat 
+
+ 
+
+Pillar valve with metric threads 
+
+Imperial threads on the bottle 
+
+ 
+
+2  Dropped Object Near-Miss 
+
+A  member  has  reported  an  incident  in  which  an  object  was  dropped  whilst  being  lowered  to  divers  on  the  seabed.  
+The vessel was working in waters over 100m depth when a stainless steel toolbox was being routinely deployed to divers on 
+the seabed.  The deployment of the toolbox was stopped at 98m (the short mark) and the divers were advised to retrieve it.  
+However, on arrival at the pennant hook they reported the toolbox missing. 
+
+A search for the toolbox was made using an ROV and it was found on the seabed directly below the initial deployment point, 
+from where it was recovered to deck.  No one was injured and no equipment was damaged. 
+
+The incident was immediately reported to the offshore construction manager, who temporarily suspended operations.  Initial 
+inspection  of  the  toolbox,  the  deployment  pennant  and  hook  onboard  the  vessel  rigger  did  not  identify  any  defects.  
+However, the toolbox had been deployed by attaching it to the crane pennant hook by a section of long link chain bolted to 
+the toolbox. 
+
+Investigation revealed that the small diameter long link chain had passed through the wear gap in the hook when the toolbox 
+was transiting through the splash zone, allowing the toolbox to drop.  The hook was certified and the wear was within design 
+and wear specification limits. 
+
+Toolbox, chain and crane pennant hook 
+
+Detail of small diameter chain used 
+
+ 
+
+ 
+
+The company noted the following: 
+
+  The incident had the potential to cause serious injury to divers and was reportable to local regulatory authorities; 
+
+  The incident happened during a routine task where ‘custom and practice’ methods were accepted without challenge; 
+
+  The  toolboxes  were  manufactured  in-house  and  not  fabricated  to  any  design  criteria  or  control  processes.    No 
+
+engineering drawings were available; 
+
+ 
+
+Important factors not considered during the fabrication of the toolboxes included: 
+– 
+– 
+
+lifting accessory requirements 
+effects of splash zone dynamics; 
+
+  There was no certification or safe working load of the lifting points or chain; 
+
+  The type of long link chain being used was unsuitable for deployment; 
+
+  Laying the chain over the throat of a hook was improper rigging practice; 
+
+  Neither the requirements of an existing risk assessment nor company control processes were complied with; 
+
+  Perception and awareness of the potential risks involved in this task was low: 
+
+failure to recognise the toolbox as a lifting accessory 
+failure to recognise that part of the lifting equipment was uncertified, not properly designed or fit for the purpose of 
+lifting operations; 
+
+  Worksite safety culture was not fully effective: 
+
+improper rigging practices employed 
+deployment method not challenged by rigging team or worksite supervisors. 
+
+– 
+– 
+
+– 
+– 
+
+ 
+
+ 
+
+3  Lift Bag Lost When Rigging Parted 
+
+A member has reported an incident in which a lift bag was released to surface upon parting of the rigging attachment point 
+straps.  The lift bag was of the open bottomed parachute type.  In order to provide additional buoyancy to a pipeline, two 
+five-ton lift bags were secured to the pipe in between pre-installed foam buoys.  The buoys were secured by the traditional 
+method of steel straps and bandit clamps.  A ‘strip-out’ wire was in place and was run underneath the straps along the length 
+of the pipe to assist removal of the foam buoys once the pipe was in position.  The lift bags were rigged and secured to the 
+pipe with appropriately selected and certified rigging.  It was determined that the additional ten tons of lift was not sufficient 
+force to cause a loss of control of the pipe.  The inverter line was secured to the pipeline and ‘snugged-up’ to avoid a snatch 
+load in the event of failure or an unplanned release of the rigging.  Later, upon up-hauling of the strip-out wire to remove the 
+buoys, one of the two bags was found to have parted and was floating on the surface. 
+
+Further inspection revealed that the webbing strops of the bag had been cut through when the strip-out wire was pulled at 
+an acute angle across the plane of the pipe relative to the bag.  It was also discovered that the inversion line had pulled the 
+attachment  points  away  from  the  crown  of  the  bag.    These  strops  remained  secured  to  the  inverter  line  which  in  turn 
+remained attached to the pipeline.  It was further determined that the strops at the top of the bags used for attaching the 
+inversion lines were intended for handling purposes only and were not designed as inversion line attachment points. 
+
+The following lessons were drawn from the incident: 
+
+  Dive supervisor should be informed prior to stripping out the flotation buoys when lift-bags are attached to the pipeline; 
+
+  Work plans should be better communicated at toolbox talks and pre-shift meetings; 
+
+  Existing  safety  recommendations  regarding  the  incorrect  use  of  handling  strops  had  not  been  fully  implemented  (see 
+
+item 5 of IMCA safety flash 07/07). 
+
+The company recommended the following: 
+
+  When feasible remove lift bags in advance of potentially conflicting tasks; 
+
+  Re-circulate existing safety recommendations, including IMCA safety flash 07/07; 
+
+  Check identification and marking of dedicated inversion point attachments and lift bags; 
+
+  Amend work instructions to include a reference to the inclusion of purpose-built and labelled inversion line attachment 
+
+points for all future rentals/procurement of this equipment; 
+
+  Consider retrofitting inversion attachment points to bags not currently having this feature. 
+
+Incorrect attachment of inversion line to handling strops 
+
+Sample inversion line attachment points and label 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+5T LIFT-BAG 
+
+ripped 
+
+Inverter 
+line 
+
+stripping 
+cable  came 
+up 
+in 
+contact 
+with  lift-bag 
+rigging 
+
+Schematic diagram of pipeline and lift bags illustrating incident 
+
+

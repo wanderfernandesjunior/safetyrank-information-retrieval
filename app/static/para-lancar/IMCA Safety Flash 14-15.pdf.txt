@@ -1,0 +1,292 @@
+AB 
+
+ 
+
+IMCA Safety Flash 14/15 
+
+Safety Flash 
+
+  October 2015 
+
+These flashes summarise key safety matters and incidents, allowing wider dissemination of lessons learnt from them.  The information below has been provided 
+in good faith by members and should be reviewed individually by recipients, who will determine its relevance to their own operations. 
+
+The effectiveness of the IMCA safety flash system depends on receiving reports from members in order to pass on information and avoid repeat incidents.  
+Please consider adding the IMCA secretariat (imca@imca-int.com) to your internal distribution list for safety alerts and/or manually submitting information on 
+specific incidents you consider may be relevant.  All information will be anonymised or sanitised, as appropriate. 
+
+A number of other organisations issue safety flashes and similar documents which may be of interest to IMCA members.  Where these are particularly relevant, 
+these may be summarised or highlighted here.  Links to known relevant websites are provided at www.imca-int.com/links   Additional links should be submitted 
+to webmaster@imca-int.com 
+
+ 
+
+(IOGP) 
+
+1  High Potential Incidents and Fatalities in 2014 – International Association of Oil & Gas Producers 
+
+The International Association of Oil & Gas Producers (IOGP) has published two recent reports, one on 2014 high potential 
+incidents and the other, on 2014 fatal incidents.  Some of these incidents may have lessons for IMCA members; a selection of 
+the incidents covered in each report is highlighted here, each one from a different area of the world.  
+
+The reports can be downloaded as follows: 
+
+  Safety performance indicators – 2014 data – High potential events report http://www.ogp.org.uk/pubs/2014sh.pdf; 
+
+  Safety performance indicators – 2014 data – Fatal incidents report http://www.ogp.org.uk/pubs/2014sf.pdf.  
+
+High potential incidents 
+
+2  Fall from Height in a Confined Space 
+
+An employee fell from a ladder while descending into a well cellar to remove tie rods on the cellar wall.   The initial report 
+states that the injured person removed his safety harness hook from the ladder rung above in order to hook onto the rung 
+below, at this point he lost balance and fell 2.5 m onto the concrete cellar floor.  (Note: Safety lanyard was in use with only 
+one snap hook).  The onsite medic was informed and immediately attended the scene.  Rescue trained personnel assisted the 
+medic in the rescue/extrication.  The injured person was stabilized, secured on spinal stretcher and lifted from the 5 m deep 
+cellar using a crane, and transferred to the clinic by ambulance. 
+
+WHAT WENT WRONG:  
+
+  Conditions: Inadequate/restricted/congested workplace/environment.  Inadequate/inappropriate tools/equipment;  
+
+  Actions: Inappropriate/inadequate protective methods; 
+
+  Personal Factors: Inadequate skill and/or knowledge level; 
+
+ 
+
+Job Factors: Lack of/inadequate policies and procedures.  Inadequate management/supervision/leadership.  Inadequate 
+tools and equipment. 
+
+Members may wish to review the following incident: 
+
+ 
+
+IMCA SF 02/14 Incident. 2 – Fatality in ballast water tank – Working at height in a confined space. 
+
+3 
+
+ Electrical Shock – Failure of Isolations and Barriers 
+
+A crew member was testing 240V cables as part of re-terminating a replacement motor.  There was some isolation in place, 
+with equipment partly out of the racks for testing by a separate crew.  However, the electrical supply for a space heater was 
+unknowingly  not  covered  by  the  existing  isolation  in  the  test  position.    Crew  member  received  an  electrical  shock  whilst 
+removing insulation from a still active 240V conductor. 
+
+WHAT WENT WRONG: Specific equipment drawing was not utilized for isolation – a generic motor drawing was used 
+instead.  Isolation integrity had not been individually assessed for different activities. 
+
+ 
+It is important to ensure that Permit to Work (PTW) and lock out/tag out procedures specify the requirement to reference 
+equipment-specific rather than generic drawings, prior to determining the appropriate isolation. 
+
+ 
+
+ IMCA SF 02/10 Incident. 1 – Crewman Received 440V Electric Shock. 
+
+4  Crewman Struck by Sling during Anchor Handling Operations 
+
+An  anchor  had  been  transferred  from  one  vessel  to  another.    The  crane  operator  slacked  the  sling  so  that  it  could  be 
+disconnected from the anchor.  Two crewmen were walking towards the sling to disconnect it.  As they were doing so, the 
+stern of the vessel suddenly moved downwards caused by the moderate swell.  As a result the attached sling was tightened 
+very rapidly.  The sling struck one of the crewmen against the upper part of his body pushing him and his colleague across the 
+deck. 
+
+WHAT WENT WRONG:  
+
+  Adverse sea conditions.  Sea conditions created a sudden big downward movement of the vessel; 
+
+  Lack of situational awareness/risk perception – the injured person proceeded too soon towards the sling, and might 
+
+have avoided injury by waiting a moment to take time and assess the situation. 
+
+In  this  case  the  contractor  changed  procedures  and  required  rigging  crew  to  wear  and  use  helmets  with  head-set 
+communication to the bridge, providing better environmental awareness and support from the bridge in cases like this where 
+alerts of extreme wave movements could be provided.  
+
+5  Dropped Object Near Miss: Lifting 
+
+During the lifting of twelve lightweight steel plates (2m × 15-30cm) width from ground level to a vessel work platform at 35 m 
+elevation, the load shifted during the transfer to the work platform causing the plates to fall into a barricaded area below.  The 
+barricaded area was free from workers at the time; there were no injuries. 
+
+WHAT WENT WRONG: 
+
+  Obstruction/cramped workspace:  The receiving area was obstructed by a scaffold rail and ladder which restricted the 
+
+work space and made handling of the load awkward; 
+
+  There was a lack of management support: The Mechanical Supervisor and Lifting Supervisor failed to ensure that the 
+
+scaffold design at an early stage was such that it facilitated the delivery of loads; 
+
+  Complacency:  the  rigging  foreman,  despite  being  fully  qualified  and  competent  for  his  position,  failed  to  investigate 
+alternative options to transfer the load (platform/scaffold modification, separating the load out into various sizes, use 
+of a material lifting basket etc.); 
+
+  Short cut taken: The riggers and rigging foreman had taken a short cut and combined mixed sizes of steel plates into 
+one load instead of separating out the load into various sizes or utilizing a material basket or modifying the scaffold in 
+the receiving area to receive the load; 
+
+  There was no proper risk assessment of movement of the mixed load during transfer; 
+
+  There had been no proper toolbox talk before the job started with a new crew, and one rigger falsely signed as having 
+
+attended the safety task instruction with the crew. 
+
+6  Dropped Object Near Miss: ROV Wire Rope 
+
+Crew were aligning an ROV to the guide wires on the starboard aft ROV deck of a vessel.  While doing this the ROV dome 
+contacted  the  forward  guide  wire  and  it  broke  free  from  its  termination  point  on  the  overhead  gantry.    This  allowed 
+approximately 36m of “2 inch” 6x19 wire rope, weighing 430kg, to fall to the pontoon level and into the water below.  The 
+closest worker was approximately 6m away on the ROV deck level and was approximately 9m beneath the gantry tending a 
+tag line while the ROV was being positioned during the incident.  The potential severity of this near miss was a fatality. 
+
+WHAT WENT WRONG:  
+
+  An  investigation  found  that the  lack  of  formalized  procedures,  reliance  on  second  hand  knowledge  and  the  lack  of 
+
+verification on preventative maintenance schemes resulted in the deterioration of equipment, leading to failure. 
+
+The corrective actions and recommendations were: 
+
+ 
+
+  Use certified guideline wires;  
+
+ 
+
+Install secondary retention on all cursor guideline wires; 
+
+  Create specific maintenance procedures for the use and care of cursor guidelines. 
+
+ Fatalities 
+
+7  Confined Space Fatality in Shipyard 
+
+A rope access worker lost his life in a fatal incident at a fabrication site.  The rope access worker was tasked to descend into 
+a 90cm diameter and 30m depth Riser Guide Tube (RGT) via the rope access method, to retrieve a piece of foam from the 
+RGT.  After descending for about 5 minutes, the worker lost contact with his co-workers on top of the RGT.  He was rescued 
+and immediately conveyed to hospital by the yard’s ambulance, but was pronounced dead by the attending doctor. 
+
+WHAT WENT WRONG:  
+
+space entry activity; 
+
+  A Permit to Work was authorized and  issued without Job Safety Analysis having taken place for high-risk  confined 
+
+  Suitable rescue equipment for confined space entry was not available at site location.  No written procedure/method 
+
+statement was available during Job Safety Analysis (or briefed to the work crew before implementation); 
+
+  No pre-entry gas test immediately before entry into confined space (or recognition that the activity would itself release 
+
+CORRECTIVE ACTIONS AND RECOMMENDATIONS: 
+
+  Elimination of need to enter confined space.  Method changed to eliminate need to enter confined space; 
+
+  Risk  assessment  –  Construction  supervision/expertise  should  attend  all  risk  assessments  relating  to  their  area  of 
+
+confined gas). 
+
+responsibility; 
+
+  Training – shipyard should provide training relating to the correct use of and wearing of personal gas detectors; 
+
+ 
+
+Job Safety Analysis (JSA) meetings on the project must be approved by all parties prior to the associated work permit 
+being granted; 
+
+  Emergency  extraction  –  shipyard  should  ensure  that  mechanical  means  of  man  extraction  are  available  at  all  times 
+
+during rope access. 
+
+Members may wish to review IMCA SEL 032 – Guidance on safety in shipyards. 
+
+8  Electrician Fatally Electrocuted 
+
+An on-call electrician from the maintenance department was called and to check on a malfunction at a land-based oil installation. 
+Besides checking the wells, he also went to the substation pole.  At the substation (on poles), he opened the padlock at the 
+low voltage (LV) distribution board and he disconnected the loads for all seven wells at the site by operating the two shutdown 
+switches (circuit breakers). 
+
+Afterwards, the electrician climbed onto the pole and went on the platform to check – very likely – if the high voltage fuse was 
+broken.  Once on the platform, he was in the “dead zone” (approximately 1m around 20kV installations) and he was almost 
+immediately electrocuted as a result of an arc-blast.  The electrician was found dead on the ground (having fallen from height 
+as well) with severe burns on his back and on his left hand. 
+
+WHAT WENT WRONG: 
+
+ 
+
+Inadequate risk assessment/JSA – the electrician was in a hurry, under self-imposed pressure and distracted, which did 
+not allow him to properly assess the risks; 
+
+  Weaker safety culture during weekends – safe working rules were less likely to be followed during the weekend; 
+
+  Complacency – no one in the organization stopped the electrician working alone on the electrical activities (and also 
+
+  Poor electrical reliability/availability of aged electrical equipment – equipment was compromised and degraded owing 
+
+working at height); 
+
+to age and poor maintenance;  
+
+  Poor safety and security of electrical facilities – there was easy access to the live parts;  
+
+ 
+
+  No up-to-date electrical schematics and checklist available at site; 
+
+  PTW – there were no competent personnel reviewing and approving electrical work permits.  There had been previous 
+
+fatal incidents from which lessons had not yet been learnt;  
+
+  Poor work planning – the maintenance organization did not have sufficient personnel to safely deal with these preventive 
+
+and corrective maintenance jobs. 
+
+CORRECTIVE ACTIONS: 
+
+  Structural upgrade of old equipment; 
+
+ordinator and review the roles; 
+
+  Review PTW procedure for electrical jobs, sign off by electrical supervisor, in addition to sign off by production co-
+
+ 
+
+Implement fully the recommendations of the previous electrical fatality incidents (including locking, signing, obstructing) 
+AND do a root cause analysis why recommendations were not implemented; 
+
+ 
+
+Implement an additional mechanical barrier at distribution cabinet to prevent lone working; 
+
+  Ensure checklists and instruction documentation are available in every distribution cabinet; 
+
+ 
+
+ Enhance safe behaviour and improve safety culture by: 
+
+implementing safety behaviour based program 
+
+consequence management (planned), including. the complacency component for supervisors and managers 
+
+consider implementing spot checks and management walk-arounds during weekends/call off periods; 
+
+ 
+
+Identify clearly what kind of critical works should take place at weekends and at other times. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+

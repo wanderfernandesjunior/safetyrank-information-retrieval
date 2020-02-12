@@ -1,0 +1,163 @@
+ 
+ 
+
+ 
+
+ 
+
+SAFETY ALERT 
+ 
+
+Safety Alert 334  
+11 May 2018  
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+
+               Contact: Jason Mathews  
+ 
+         Phone: (504) 731-1496 
+
+Benzene Level Exceeds Exposure Limits 
+
+ 
+
+During the conduct of two recent offshore production platforms inspections, BSEE 
+inspectors and offshore personnel have been exposed to potentially hazardous levels of 
+benzene. Benzene is a normal, naturally occurring component of petroleum.  
+ 
+  During one inspection, the BSEE inspector noticed continuous venting of gas from a 
+
+flotation unit.  Benzene warning signs were in place.  The operator was cited for failing 
+to monitor emissions (and thus benzene levels) to adequately determine if the area 
+was safe for operations personnel.    
+
+  During a separate inspection, benzene warning signs were present but the operator 
+
+could not provide data regarding the benzene concentration present in the production 
+fluids. Subsequent testing showed elevated levels of benzene.  The operator failed to 
+properly notify and educate personnel on safe work practices regarding benzene.  
+Safe Work practices failed to address the necessary mitigation and administrative 
+actions needed when monitoring individuals that may have higher benzene exposure.   
+
+ 
+Due to the low level of understanding the hazards and mitigations associated with 
+benzene, BSEE recommends that operators consider the following options:  
+ 
+
+  Review this Safety Alert with all personnel to make them aware of the hazards 
+
+associated with benzene and other similar volatile organic compounds. 
+
+  Operators should create a Safe Work Practice or enhance an existing practice to 
+
+cover benzene control technology, personal protective equipment, exposure limits, 
+and monitoring and maintenance of personnel who have had excessive exposure. 
+
+  Special consideration should be emphasized when operators are handling 
+
+production fluids during operations including draining fluids from vessels, analyzing 
+shake out samples, performing Surface Safety Valve (SSV) and Flow Safety Valve 
+
+ 
+ 
+
+(FSV) testing and performing maintenance such as replacing glycol socks and 
+charcoal filters.  
+
+  Limit time spent working near atmospheric vent hatches on atmospheric vessels, 
+
+unless the benzene hazards are known and properly mitigated through worker 
+education and respiratory protective equipment. 
+
+  All atmospheric vents and venting due to testing of safety valves should take into 
+
+consideration the personnel breathing zone.  Proper venting location as well as 
+proper respirators should be considered for personnel protection. 
+
+  Create a schedule of testing and monitoring for benzene and other volatile organic 
+
+compounds and share results with affected personnel. 
+
+ 
+Relevant benzene exposure tables:  
+ 
+OSHA 1910.1000 Table Z-2 
+Substance 
+
+8 Hour Time 
+Weighted 
+Average  
+(TWA) 
+
+Acceptable 
+Ceiling 
+Concentration  
+
+Acceptable 
+maximum peak 
+above ceiling 
+for 8Hr Shift 
+
+Maximum 
+duration for 
+maximum peak 
+
+Benzene 
+
+10 ppm 
+
+25 ppm 
+
+50 ppm 
+
+10 minutes 
+
+ 
+ 
+Acute Benzene Exposure Consequences 
+Noticeable irritation of eyes, nasal passages and throat 
+Redness, dryness, cracking  and peeling of skin depending on exposure 
+concentration 
+Effects similar to those of other solvents including but not limited to dizziness, skin 
+irritation, eye irritation  
+ 
+ 
+Chronic Benzene Exposure Consequences 
+Leucopenia 
+Thrombocytopenia  
+Anemia 
+Pancytopenia 
+
+Reduced white blood cell count 
+Reduced platelet count 
+Reduced red blood cell count 
+Reduced white and red blood cell count 
+with decreased hemoglobin 
+ 
+Bone marrow ceases to function 
+Reduced production of white blood cells, 
+red bloods cells and platelets--- CANCER 
+
+Decreased bone marrow function 
+Aplastic Anemia 
+Acute Myeloid Leukemia 
+
+ 
+
+A Safety Alert is a tool used by BSEE to inform the offshore oil and gas industry of the 
+circumstances surrounding an accident or near miss. It also contains recommendations 
+that should help prevent the recurrence of such an incident on the Outer Continental 
+Shelf.  
+ 
+
+

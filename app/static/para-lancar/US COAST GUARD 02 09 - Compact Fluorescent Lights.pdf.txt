@@ -1,0 +1,56 @@
+ 
+ 
+ 
+ 
+June 8, 2009                                                                                                                      Alert 02-09 
+Washington, DC 
+
+Compact Fluorescent Lights 
+
+This  Safety  Alert  serves  to  inform  the  maritime  industry  that  energy  saving  Compact  Fluorescent 
+Lights (CFL) or lighting, sometimes known as radio frequency (RF) lighting devices may interfere with 
+certain communications equipment. CFLs employ a RF lighting device to excite a gas inside a bulb in 
+order to produce light.  
+ 
+The  Federal  Communications  Commission  (FCC)  recognized  the  need  for  and  adopted  rules  to 
+control  the  harmful  interference  to  radio  communications  services  from  these  devices.  During  the 
+rulemaking  process  the  Coast  Guard  provided  comments  and  recommended  an  advisory  label  for 
+CFLs / RF lighting devices warning users about potential interference to communication services and 
+particularly with respect to devices capable of producing emissions in the 0.45-30 MHz band.  As a 
+result,  the  FCC  required  manufacturers  of  CFLs  to  provide  an  advisory  statement,  either  on  the 
+product packaging or with other user documentation, similar to the following: "This product may cause 
+interference 
+installed  near  maritime  safety 
+communications  equipment  or  other  critical  navigation  or  communication  equipment  operating 
+between 0.45-30 MHz."  
+ 
+The Coast Guard has learned that CFLs have been installed on the navigation bridges of vessels and 
+in  other  places  capable  of  causing  radio  communications  interference.    Marine  inspectors,  vessel 
+owners  and  operators  should  be  aware  of  this  potential  safety  hazard  and  take  proper  action  as 
+needed. 
+ 
+Below are examples of some compact fluorescent lights with different shapes and sizes.   
+ 
+
+to  radio  communications  and  should  not  be 
+
+ 
+
+ 
+
+   
+ 
+ 
+ 
+This  safety  alert  is  provided  for  informational  purposes  only  and  does  not  relieve  any  domestic  or 
+international safety, operational or material requirement.  Developed by the Office of Domestic Vessel 
+Activities (CG-5431), United States Coast Guard Headquarters, Washington, DC.   
+ 
+                                                                        ******* 
+ 
+ 
+ 
+Office of Investigations and Analysis:  http://marineinvestigations.us 
+To subscribe: kenneth.w.olsen@uscg.mil 
+
+

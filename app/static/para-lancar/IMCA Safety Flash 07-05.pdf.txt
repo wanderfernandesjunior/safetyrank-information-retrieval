@@ -1,0 +1,167 @@
+AB
+
+ 
+
+IMCA Safety Flash 07/05 
+
+Safety Flash 
+
+May 2005 
+
+These  flashes  summarise  key  safety  matters  and  incidents,  allowing  wider  dissemination  of  lessons  learned  from  them.    The  information  below  has  been 
+provided in good faith by members and should be reviewed individually by recipients, who will determine its relevance to their own operations. 
+
+The effectiveness of the IMCA safety flash system depends on receiving reports from members in order to pass on information and avoid repeat incidents.  
+Please consider adding the IMCA secretariat (imca@imca-int.com) to your internal distribution list for safety alerts and/or manually submitting information 
+on specific incidents you consider may be relevant.  All information will be anonymised or sanitised, as appropriate. 
+
+A  number  of  other  organisations  issue  safety  flashes  and  similar  documents  which  may  be  of  interest  to  IMCA  members.    Where  these  are  particularly 
+relevant, these may be summarised or highlighted here.  Links to known relevant websites are provided at www.imca-int.com/links   Additional links should 
+be submitted to webmaster@imca-int.com 
+
+ 
+
+1  ROV Free-Fall Incident 
+
+A  member  has  reported  an  incident  which  resulted  in  a  work-class  remotely  operated  vehicle  (ROV)  free-falling 
+approximately  10  metres  into  the  sea  during  a  recovery  operation.    No  injuries  occurred  and  only  minor  damage  was 
+sustained by the ROV, but the incident could have been severe with possible loss of life or damage to the vessel if the fall had 
+occurred at a different stage of the recovery operation, or in bad weather conditions. 
+
+The company’s site investigation revealed that the fall was caused by a lapse in the procedures used to safely recovery ROVs, 
+probably due to complacency because of the stillness of the weather and over-confidence, due to the large number of times 
+that the process had been completed.  A contributing factor to the incident may also have been the fail-safe condition of the 
+docking device. 
+
+The umbilical snapped at the outlet to the sheave block and is suspected to have failed due to a combined over tension from 
+both the umbilical winch and the initial movement of the A-frame inboard.  A block-to-block position with the lifting wire 
+meant that the docking device was pulled by the umbilical to a non fail-safe position and subsequent snapping of the umbilical 
+prevented the docking device from capturing the ROV again in time to prevent its fall. 
+
+The following actions were recommended as a result of the company’s investigation: 
+
+ 
+
+further investigations into the design of the docking device to improve its fail-safe features; 
+
+  verification of the strength of umbilicals via destruction testing of a cut-back on a yearly basis; 
+
+  review of launch and recovery procedures to verify risk assessments; 
+
+ 
+
+improved training of personnel specifically aimed at launch and recovery scenarios; 
+
+review of lifting equipment to instigate visual indicators (colour banding, flags, lights, etc.) to represent the safe working areas 
+and warn of ‘danger zone’ operational envelopes. 
+
+2  Product Safety Recall – Kongsberg RPT Transponders 
+
+We have been passed the attached product information bulletin relating to Kongsberg transponder models RPT316, RPT319 
+and RPT324 and spare end cap assemblies which we have been asked to bring to members’ attention. 
+
+PRODUCT INFORMATION BULLETIN 
+
+ 
+
+13 MAY 2005 
+ 
+TRANSPONDER MODELS RPT316, RPT319 AND 
+RPT324 & SPARE END CAP ASSEMBLIES  
+
+ 
+ISSUED DATE:   
+ 
+PRODUCTS 
+AFFECTED:   
+ 
+PRODUCT RECALL 
+ 
+It has been identified that there is a possible safety concern on the RPT range of underwater 
+acoustic  transponders .    The  likelihood  of  a  serious  product  safety  incident  is  considered 
+small, but Kongsberg is advising all customers and users that there is a product safety recall 
+in place for all possible affected products and related spare parts as of this date. 
+ 
+BACKGROUND 
+ 
+The RPT transponder units are designed to incorporate a built- in gas pressure relief valve in 
+the  back  end  caps  as  an  enhanced  safety feature.    This feature is intended to prevent the 
+build  up  of  an  internal  product  pressure  differential  in  the  event  of  certain  rare  fault 
+conditions. 
+ 
+After review of a customer feedback we have identified that there is a small possibility that 
+the  pressure  relief  valve  on  certain  RPT  units  (and  related  spare  end  cap  assemblies)  may 
+not function as designed.  The  failure of the relief valve to operate as intended may create 
+an  increased  safety  risk  under  certain  rare  fault  conditions  which  may  allow a gas pressure 
+build up inside the unit: 
+ 
+• 
+• 
+• 
+ 
+PROPOSED ACTIONS 
+ 
+All RPT units, and related spare end cap assemblies should be removed from service at the 
+earliest opportunity, and returned to Kongsberg Maritime A.S or Kongsberg Maritime Ltd for 
+test evaluation and possible remedial action for those products affected. 
+ 
+Prior to transporting any RPT products from an offshore site, or from onshore warehouse or 
+storage, please ensure that the following additional safety actions have been performed: 
+ 
+• 
+
+Faulty internal battery conditions 
+Electrolysis from a sea-water ingress 
+Ingress of pressurised helium gas (diving environment) 
+
+Follow procedure contained in "RPT transponder pressure relief valve verification and 
+repair" procedure circulated on 18th January 2005. 
+
+ 
+A copy of this procedure is attached. 
+ 
+Once the safety procedure has been performed on all identified RPT products, please contact 
+KMAS  or  KML  Customer  Support  department  for  a  Return  Material  Authorisation  (RMA) 
+number.  Contact details are provided below.  Once the RMA number has been provided, the 
+units should be consigned to KSAS or KML Customer Support Department for evaluation and 
+remedial work if required. 
+ 
+
+…..Cont/d. 
+
+PRODUCT INFORMATION BULLETIN 
+
+ 
+
+ 
+ 
+Kongsberg Maritime Contact Addresses: 
+ 
+ 
+Kongsberg Maritime AS 
+Customer Support Department (UI) 
+PO Box 111 
+N-3191 
+Horten 
+Norway 
+ 
+Tel: + 47 33 03 40 00 
+email: vidar.steen- hansen@kongsberg.com 
+ 
+ 
+ 
+ 
+                         
+ 
+
+Kongsberg Maritime Ltd.  
+Customer Support Department (Offshore) 
+Campus 1, Science & Technology Park 
+Balgownie  Road 
+Bridge of Don 
+Aberdeen AB22 8GT  
+ 
+Tel: +44 (0) 1224 226500 
+email: douglas.aiken@kongsberg.com 
+
+

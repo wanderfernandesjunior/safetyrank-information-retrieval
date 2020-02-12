@@ -1,0 +1,375 @@
+  
+
+SAFETY ALERT 25 
+
+Tensioner Failure 
+
+NATIONAL OFFSHORE PETROLEUM SAFETY AUTHORITY 
+
+ 
+
+ 
+
+ 
+
+What happened? 
+
+In Australian waters, two separate incidents have occurred recently on semi-submersible 
+MODUs. Each incident involved a guide line or pod line tensioner operated Rod End 
+Down (RED).  In each case, the wire rope parted, releasing the load on the tensioner 
+and allowing the tensioner piston to stroke downwards in an unrestrained manner until it 
+came into contact with the end cover plate of the cylinder.  The impact of the piston on 
+the end of the cylinder was severe enough to cause damage.  In the first case the 
+mounting bolts fractured allowing the complete tensioner unit to fall to the deck.  In the 
+second case, the bottom cover plate securing bolts fractured, allowing the piston 
+assembly to come out of the cylinder and land on the grating below. 
+
+Both of these incidents had the potential to cause fatal injuries if persons had been in the 
+vicinity. 
+
+What could go wrong? 
+
+If a tensioner wire rope breaks, the load on the tensioner piston is suddenly released. 
+The HP air pressure on top of the piston will force the piston to stroke out to the end of 
+the cylinder in an unrestrained manner.  To prevent this from happening, tensioners 
+operating RED have the following design safety feature built into them. (See the sketch 
+attached to the end of this alert). 
+
+When the piston moves downwards, it forces the hydraulic fluid in the lower part of the 
+cylinder through an orifice plate and into the LP hydraulic fluid reservoir.  For 
+unrestrained motion of the piston, the flow of hydraulic fluid through the restriction of the 
+orifice plate will be sufficient to restrain the speed of the piston and allow it to safely 
+come to rest against the cylinder end cover plate without causing any damage. 
+
+In both of these incidents, the operator was unaware that hydraulic fluid had 
+inadvertently become displaced by air.  When the wire rope broke, the piston speed was 
+unrestrained because of the lack of hydraulic fluid in the lower part of the cylinder.  
+Damage was caused by the collision impact of the piston into the end of the cylinder. 
+
+For tensioners operating RED, this design safety feature incorporates a small purging 
+non-return valve fitted into the piston rod just under the piston. The downstream side of 
+the non-return valve is connected via a flexible hose back to the LP reservoir.  When the 
+piston is stroking downwards, hydraulic fluid is forced through the orifice plate at the 
+bottom of the cylinder.  This creates a small overpressure in the tensioner cylinder 
+relative to the LP reservoir.  The overpressure is sufficient to lift the non-return valve off 
+its seat.  Any HP air that has leaked past the piston seals will be vented through the 
+open non-return valve and into the LP reservoir.  When the piston rod moves upwards 
+again, the non-return valve will close.  The action of the purging non-return valve will 
+keep the lower part of the cylinder purged of air and full of hydraulic fluid.  It is therefore 
+essential in maintaining the integrity of this design safety feature. 
+
+This design safety feature can be compromised by an air build up which replaces the 
+hydraulic fluid in the lower part of the tensioner cylinder. The most common causes are:- 
+
+• 
+
+If the HP air leakage rate past the piston seals is high enough, the action of the 
+purging non-return valve will not have the capacity to purge all of the air from the 
+lower part of the cylinder. 
+
+Page 1 of 3 
+
+ 
+
+  
+
+SAFETY ALERT 25 
+
+Tensioner Failure 
+
+NATIONAL OFFSHORE PETROLEUM SAFETY AUTHORITY 
+
+ 
+
+ 
+
+ 
+
+ 
+
+• 
+• 
+
+If the purging non-return valve becomes blocked. 
+If the hydraulic fluid level is not maintained. 
+
+Under these circumstances, there will be no hydraulic fluid system protection to prevent 
+unrestrained piston movement should a tensioner wire rope break. 
+
+Key Lessons: 
+
+Hydraulic System 
+
+From the investigation of these two incidents it was found that:- 
+
+•  There was no maintenance procedure or built in system for detecting piston seal 
+
+leakage rates, in particular, leakage rates high enough to cause the hydraulic 
+fluid to be ejected from the lower part of the tensioner cylinder back into the LP 
+reservoir.  Before one of the tensioner failures occurred, the operator had noticed 
+air and hydraulic fluid mist being vented from the LP air pressure regulator in the 
+control cabinet.  The LP air pressure regulator is used to maintain the air 
+pressure on top of the hydraulic fluid in the tensioner LP reservoir.  The operator 
+had not linked the cause of this venting to possible piston seal leakage and 
+failure in one of the tensioners. 
+
+•  Other than at the end of a well (EOW), there was no system or procedure in 
+
+place for determining if the correct quantity of hydraulic fluid was present in the 
+LP side of the tensioner.  At EOW, when the tensioner was not in service, the 
+procedure used was the method given in the manufacturer’s manual.  This 
+required the piston to be fully stroked out then fully retracted before checking that 
+the fluid level was visible in the lower sight glass of the LP reservoir. 
+
+•  There was no maintenance procedure used to determine if the purging non-
+
+return valve was operating correctly. 
+
+Wire Rope 
+
+•  One wire rope broke at the tensioner turn down sheave due to wire fatigue.  The 
+
+normal procedure used to change the wear points in a wire rope is by slipping 
+and cutting.  For a tensioner, this is normally carried out when the tensioner is 
+not in use, usually at EOW.  On this occasion, the rope had been in constant use 
+for a period three times longer than normal because the rig remained on the 
+same location to drill a multilateral well.  The deteriorating condition of the rope at 
+the wear points had not been noticed by the operator until the rope parted. 
+
+• 
+
+In the second incident, the wire rope had jumped the sheave at a time when 
+adjustments were being made to the tensioner and the tensioner was not under 
+load.  When the tensioner was returned to service, the wire rope was left rubbing 
+against the shaft and mounting plate for the sheaves.  This situation remained 
+unnoticed until the wire rope parted five days later. 
+
+Contact 
+
+For further information email alerts@nopsa.gov.au and quote Alert 25. 
+
+Page 2 of 3 
+
+ 
+
+NATIONAL OFFSHORE PETROLEUM SAFETY AUTHORITY 
+
+ 
+
+Rig Air Supply
+
+High Pressure 
+
+Air Supply
+
+Pressure 
+Reducing 
+
+Valve
+
+Vent
+
+d
+o
+
+l
+
+f
+i
+
+n
+a
+M
+
+ 
+
+e
+r
+u
+s
+s
+e
+r
+P
+w
+o
+L
+
+ 
+
+ 
+
+o
+
+l
+
+t
+ 
+y
+p
+p
+u
+s
+ 
+r
+i
+a
+
+ 
+s
+r
+e
+n
+o
+s
+n
+e
+
+i
+
+t
+
+Pressure 
+Safety Valve
+
+i
+
+ 
+
+ 
+r
+o
+v
+r
+e
+s
+e
+R
+e
+r
+u
+s
+s
+e
+r
+P
+w
+o
+L
+
+ 
+
+e
+p
+o
+R
+e
+r
+i
+
+ 
+
+W
+
+l
+
+t
+
+e
+a
+P
+e
+c
+i
+f
+i
+r
+
+ 
+
+O
+
+Bursting Disc
+
+Upper Sight Glass
+
+Lower Sight Glass
+
+Hydraulic Fluid
+
+Flexible Hose
+
+Piston Seals
+
+Non-return Valve
+
+e
+p
+o
+R
+e
+r
+i
+
+ 
+
+W
+
+e
+p
+o
+R
+ 
+e
+r
+i
+W
+
+ 
+
+Page 3 of 3 
+
+  
+
+SAFETY ALERT 25 
+
+Tensioner Failure 
+
+Tensioner Turn-Down 
+
+Sheave
+
+ 
+
+/
+
+T
+o
+P
+o
+d
+G
+u
+d
+e
+B
+a
+s
+e
+
+ 
+
+i
+
+ 
+
+e
+
+t
+c
+
+ 
+
+ 
+
+

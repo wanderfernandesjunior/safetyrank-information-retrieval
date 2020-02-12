@@ -1,0 +1,153 @@
+AB
+
+ 
+
+IMCA Safety Flash 06/05 
+
+March 2005 
+
+These  flashes  summarise  key  safety  matters  and  incidents,  allowing  wider  dissemination  of  lessons  learned  from  them.    The  information  below  has  been 
+provided in good faith by members and should be reviewed individually by recipients, who will determine its relevance to their own operations. 
+
+The effectiveness of the IMCA safety flash system depends on receiving reports from members in order to pass on information and avoid repeat incidents.  
+Please consider adding the IMCA secretariat (imca@imca-int.com) to your internal distribution list for safety alerts and/or manually submitting information 
+on specific incidents you consider may be relevant.  All information will be anonymised or sanitised, as appropriate. 
+
+A  number  of  other  organisations  issue  safety  flashes  and  similar  documents  which  may  be  of  interest  to  IMCA  members.    Where  these  are  particularly 
+relevant, these may be summarised or highlighted here.  Links to known relevant websites are provided at www.imca-int.com/links   Additional links should 
+be submitted to webmaster@imca-int.com 
+
+ 
+
+1  Hand Grinder Injuries 
+
+An IMCA member has reported two recent injuries caused by the use of portable hand grinders. 
+
+The first injury was due to the grinder wheel binding onto the weld being worked upon, causing the grinder to ‘kick’ and 
+deflect into his arm.  The grinder’s side grip or stabilisation handle had been removed, making it harder to control the device. 
+
+The second injury happened when the operator lost control of the grinder as a result of his taking one hand off it whilst it 
+was still turning at high speed.  He had taken one hand off the grinder because he was attempting to prevent the pipe on 
+which he was working from falling when it came out of a support stand.  The grinding wheel was still turning at high speed 
+and the gyroscopic precessing force acting on the tool was too great for the operator to handle with one hand.  This led to 
+the grinder being deflected into his other arm causing an injury.  
+
+  Reminding  all  persons  operating  grinders  that  they  should  be  used  very  carefully,  referring  to  and  following  all 
+
+The company has recommended the following steps: 
+
+appropriate rules of operation; 
+
+  Taking time for risk assessment before commencing the job; 
+
+  Ensuring that all risks and issues are discussed in toolbox talks; 
+
+  Ensuring the work piece is very secure and cannot move. 
+
+The  company  also  noted  that  there  had  been  some  re-use  of  grinding  discs  that  had  been  used  subsea.    This  practice  is 
+dangerous, as grinding discs which have been exposed to moisture are likely to de-laminate, causing them to disintegrate at 
+high speed.  Thus discs which have been exposed to moisture over a length of time or which have been used subsea should 
+always be discarded. 
+
+2  Leaking Oxygen Valve 
+
+A member has reported an incident whereby which a diver experienced an oxygen leak from his cutting torch whilst on the 
+seabed  in  around 27 msw.  The leak  came  out  of the  torch handle  where  the  oxygen  valve housing  and  the torch  handle 
+connected. 
+
+The torch was recovered and tested on the surface, where no leaks were observed.  The torch was then sent back to the 
+diver, who once again noted a leak at depth.  The torch was again recovered to the surface and the dive was terminated. 
+
+Upon  further  investigation  it  was  noted  that  the  fit-up  between  the  oxygen  valve  housing  and  torch  handle  was  just  tight 
+enough  not  to  leak  on  the  surface,  but  at  depth  the  ambient  pressure  was  enough  to  create  an  oxygen  leak  past  the 
+trigger/torch handle union. 
+
+The company involved has made the following recommendations to prevent recurrence: 
+
+  A leak test should be performed topside on all torches prior to placing them into service.  If a leak is found, the torch 
+
+should not be placed into service until the leak has been corrected; 
+
+ 
+
+If a leak is found coming from the torch handle, the following steps should be taken to correct the leak: 
+–  Apply hand pressure to the oxygen valve housing/lever assembly as it is set into the handle and tighten one of the 
+
+set screws while pressure is being applied; 
+
+ 
+
+–  Check to ensure that the groove on the oxygen valve housing is in line with the set screw by looking into the torch 
+
+handle via the opening for the set screw that has not been reinserted, located on the opposite side of the handle. 
+
+–  Tighten the other set screw and perform a leak test on the torch.  A leak test should be performed topside on all 
+
+torches prior to placing them into service. 
+
+  The  incident  and  recommendations  should  be  communicated  back  to  the  vendors  of  the  torches.    Vendors  and/or 
+manufacturers to be asked to provide QA/QC documentation verifying that each torch oxygen valve housing has been 
+inspected and is properly seated. 
+
+Safety Flash 
+
+3  Near-Miss:  Flooding of a Diver’s Helmet  
+
+A member has reported a near-miss that occurred during diving operations.  A diver’s helmet – a Kirby Morgan Superlite 
+17B – flooded during the dive.  Fortunately the diver was only at a depth of 3m at the time, a secondary retention system 
+was fitted and the diver was able to reach the surface without further problems. 
+
+The initial investigation found that the helmet had become free of the neck dam yoke at the rear and that the rear hinge tab 
+was separated from the helmet alignment sleeve.  Normally, correct alignment of the helmet and neck dam yoke would be 
+characterised by the helmet alignment sleeve being passed through the rear hinge tab.  In this instance, the helmet was still 
+connected at the front and was retained on the diver’s head via the harness upper link assembly ‘earrings’ attached to the 
+diver’s harness. 
+
+The  investigation  found  that  the  helmet  came  free  because  the  helmet  had  not  been  correctly  aligned  with  the  neck  dam 
+yoke when the diver was being readied for the water.  It concluded that this should have been easily spotted, pointing to the 
+need for review of the final checks conducted immediately prior to the dive commencing. 
+
+The company has recommended the following actions: 
+
+  diving  supervisors  must  re-examine  their  diver  dressing  process  and  checks  to  establish  if  both  self-checks  and  cross-
+
+checks are firmly established and being followed by divers and deck crew; 
+
+  diver  equipment  checks  must  be  verbally  communicated between the  diver  in  question, the person dressing  the  diver 
+
+and the diving supervisor. These checks should be logged within the dive logs; 
+
+  divers  should  be  reminded  that  they  are  responsible  for  safety  checks  of  their  own  equipment,  as  far  as  possible.  
+A competent person (normally another diver) must physically check that the hat is installed correctly on the neck dam 
+prior to the diver entering the water. 
+
+The manufacturer of the helmet, Kirby Morgan Dive Systems, Inc. has provided the following safety information for proper 
+dress-in procedures, as per its manual for this equipment: 
+
+i) 
+
+“Prior to diving with any diving helmet, a competent person must ensure that the mechanisms that lock the helmet on 
+the  diver’s  head,  as  well  as  all  other  helmet  functions,  are  adjusted  properly  and  operating  correctly,  per  the 
+manufacturer’s manual. These checks should be logged in the helmet logbook. 
+
+ii)  Because it is impossible for the diver to see whether the helmet has been latched on correctly, or whether his other 
+equipment  has  been  properly  configured,  it  is  essential  that  a  competent  person  (an  experienced  tender  or  another 
+diver) assists the diver in dressing in. 
+
+iii)  The diving supervisor is responsible for ensuring the diver is dressed correctly prior to entering the water.  These final 
+checks are normally carried out by a competent tender or another diver and should be logged in the diving operations 
+(supervisor’s) logbook. 
+
+iv)  Once the diver has entered the water, but before he proceeds with the work of the dive, it is the responsibility of the 
+supervisor to ensure that all in-water checks for the diver’s life support equipment are carried out. These checks should 
+be logged in the diving operations (supervisor’s) logbook.” 
+
+The manufacturer has also now informed IMCA that it has developed a yoke strap, KMDSI part #505-134 and yoke strap 
+guide, KMDSI part #505-138, which can be retrofitted to all Kirby Morgan Superlite 17A/B helmets.  These are now standard 
+issue  on  all  Superlite  17  helmets.    These  items  will  help  prevent  separation  of  the  yoke  from  the  helmet,  when  properly 
+installed and used.  IMCA is also aware that a number of IMCA diving contractor members have provided alternative systems 
+on  such  helmets  which  prevent  the  helmet  becoming  detached  from  the  diver  even  in  the  event  of  the  helmet  and  neck 
+clamp  assembly  becoming  separated.    KDMSI  has  noted  “However,  these  items  are  not  a  substitute  for  proper  maintenance  of 
+KMDSI helmets, or proper pre-dive inspection of the equipment by the dive, tender and the diving supervisor”. 
+
+

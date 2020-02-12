@@ -1,0 +1,517 @@
+AB 
+
+ 
+
+IMCA Safety Flash 12/11 
+
+Safety Flash 
+
+ October 2011 
+
+These  flashes  summarise  key  safety  matters  and  incidents,  allowing  wider  dissemination  of  lessons  learnt  from  them.    The  information  below  has  been 
+provided in good faith by members and should be reviewed individually by recipients, who will determine its relevance to their own operations. 
+
+The effectiveness of the IMCA safety flash system depends on receiving reports from members in order to pass on information and avoid repeat incidents.  
+Please consider adding the IMCA secretariat (imca@imca-int.com) to your internal distribution list for safety alerts and/or manually submitting information 
+on specific incidents you consider may be relevant.  All information will be anonymised or sanitised, as appropriate. 
+
+A  number  of  other  organisations  issue  safety  flashes  and  similar  documents  which may  be  of  interest  to  IMCA  members.   Where  these  are  particularly 
+relevant, these may be summarised or highlighted here.  Links to known relevant websites are provided at www.imca-int.com/links   Additional links should 
+be submitted to webmaster@imca-int.com 
+
+ 
+
+1  Offshore Tank Container Rigging Failure 
+
+A member has reported two incidents in which the rigging of an offshore tank container failed as a result of a cold fracture.  
+In  both  cases  a  tank  container  was  rearranged  on  deck  and  damage  was  observed  prior  to  actually  lifting  the  container.  
+There was no other damage than to the link itself. 
+
+An approved offshore container is outfitted with an associated rigging set that stays attached for handling.  The container and 
+sling are re-certified on an annual basis.  For both sets of failed rigging the certification was found to be in order. 
+
+  Both containers were lifted in static conditions (deck to deck) in good weather conditions; 
+
+  Both containers were full at the time of lifting and the weight of the container did not exceed the safe working load; 
+
+  There was no deformation in the link or chain observed in either case; they were so-called cold fractures; 
+
+ 
+
+In both cases it was the master link in a corner fitting of the container that failed. 
+
+Following the first incident, the chain link was sent to a laboratory to establish the cause of the failure.  It was, at the time, 
+concluded that the most likely scenario that caused the fast sudden fracture was a forging defect in the master link. 
+
+Following the second incident some seven months later, the similarities between the two incidents were apparent and it was 
+established that both rigging  sets were purchased from a single batch.   With reference to similar incidents in the industry, 
+hydrogen induced cracking or manufacturing process errors could not be ruled out.  As this failure mechanism could not be 
+determined by non-destructive examination methods, it was decided to replace all rigging sets from this batch (32 of) with 
+new rigging sets. 
+
+Laboratory results are awaited on these quarantined rigging sets and the broken link for further action as appropriate. 
+
+ 
+
+ 
+
+Failed chain link 
+
+ 
+
+ 
+
+ 
+2  Near Miss: Dropped Object: 6kg Sledge Hammer Head 
+
+A member has reported an incident in which a 6kg hammer head fell 5m (metre) to an unmanned deck.  Whilst using the 
+sledge hammer to dislodge a 600Te shackle connecting a 340Te wire, the hammer head came free of the wooden shaft when 
+it was struck against the shackle pin, and it fell 5m to the unmanned area below which had no barriers in place.  There were 
+no injuries. 
+
+On closer inspection, it was noted that there were a number of small indentations around the head and along the shaft, two 
+hairline cracks at the head end of the hammer and a large open split at the user end of the handle. It was also noted that the 
+lanyard used to secure the handle was an inadequate solution for the retention of tools used at height. 
+
+Closer inspection of handle and hammer head 
+
+ 
+
+Following  investigation,  it  was  identified  that  there  had  been  numerous  other  occasions  where  hammer  heads  had  either 
+been found loose or had come off during use.  In addition, several cases reported damaged shafts. 
+
+The following lessons were learnt: 
+
+location; 
+
+  The inspection for damage of all hand tools should always be carried out prior to use and before returning to storage 
+
+  Hammer heads should be checked for security prior to use, ensuring heads are securely fixed to handle; 
+
+  Defective tooling should be removed from service and quarantined; 
+
+  Appropriate  tool  retention  methods  should  be  used  when  working  at  height  with  tools;  different  methods  may  be 
+
+appropriate for tools of different weight; 
+
+  The tool lanyard connection point should either be supplied with the hammer, recommended by the tool manufacturer 
+
+or be a recommended and approved lanyard manufacturer’s modification. 
+
+ 
+
+ 
+
+Some suggested tool lanyard arrangements 
+
+  
+
+ 
+3  Near Miss: Crane Winch Wire Damaged Crane Cab During Heavy Seas 
+
+A member has reported an incident in which, owing to the sudden movement of the vessel, a crane winch wire hit the crane 
+cab  with  the  operator  inside,  causing  damage  to  the  cab  structure.    The  operator  was  unharmed.    The  incident  occurred 
+after completing the wet storing of a spool using the single fall main block.  The crane boom, complete with suspended spool 
+lift rigging, was recovered to the main deck.  Whilst the block was over the deck, the vessel pitched and rolled heavily thus 
+causing the crane block to swing adversely.   The crane operator attempted to recover the situation.  As he attempted to 
+recover  the  block,  the wire  immediately  above  the  block hit  the  crane  cab  damaging  the  cab  structure  and  breaking  glass.  
+The impact showered the crane operator with glass. 
+
+This routine operation had the potential to be a fatality.  There was no designated landing area for which to land the crane 
+block and its attached rigging safely.  This had been considered a routine operation yet the risks had not been fully captured 
+during the planning stage. 
+
+Crane cab showing damage 
+
+Landing area seen from above (circled) 
+
+ 
+
+ 
+
+Crane block 
+
+ 
+
+Subsequent to an investigation, the following were noted: 
+
+  The landing area on the aft deck for the block and rigging was very restricted due to a tall subsea structure being in the 
+
+same area; 
+
+  The  crane  boom  position  had  to  be  at  a  12m  radius  and  the  block  had  to  be  lifted  high  in  order  for  the  block  and 
+
+attached rigging to be lifted over the subsea structure.  This position left the block at the same height as the crane cab. 
+
+ 
+The following recommendations were made: 
+
+Arrangement (GA) drawings; 
+
+  A safe landing area on the main deck should be identified and clearly marked both on the deck itself and on the General 
+
+ 
+
+If it becomes necessary to use this area, a specific risk assessment should be required and an alternative, temporary safe 
+landing area identified; 
+
+  Lift  planning  should  cover  crane  operations  from  start  to  finish,  including  the  initial  movement  of  the  crane  and  also 
+
+recovery of rigging to deck. 
+
+4  Near Miss: Diver Working Under Suspended Load 
+
+A member has reported an incident in which a diver found himself working under a suspended load. 
+
+Whilst  conducting  diving  operations  around  a  subsea  manifold,  a  subsea  work  basket  weighing  375kg  in  water  was  landed 
+without proper warning very close to a diver standing on the subsea manifold.  Tools and equipment were being deployed to 
+the divers using a cherry picker crane without heave compensation.   Part of the lift planning was a ‘short mark’ established 
+prior  to  subsea  deployment  of  the  load.    The  length  of  winch  wire  deployed  was  then  closely  monitored  on  the  crane 
+line out meter to ensure that loads were stopped at a safe distance from the divers working on the seabed.  Additionally, the 
+crane wire had a transponder attached which allowed the depth to be monitored by the dive control department.  Once the 
+load was at the required short mark it was standard practice to have the  remotely operated vehicle (ROV), in conjunction 
+with a diver, spot the load and then monitor the final stage of the deployment to the seabed. 
+
+Dive control had requested that tools and equipment be deployed using a 1m x 1m work basket.  The basket was prepared 
+with a beacon, strobe and light sticks attached to help improve its visibility subsea.  On previous dives the short mark had 
+been set at 95m with a working depth of 108m but, as the divers were having difficulty seeing the loads due to poor visibility, 
+the short mark was altered to 100m to allow the load closer and make it easier to spot.  The work basket was deployed and 
+the line out meter zeroed at the splash zone to ensure the load could be stopped at the required mark. 
+
+Dive control requested that diver 1 make his way to the top of the manifold to prepare for the basket being landed.  When 
+he arrived at the manifold he could not see the load and was told it was on its way down.  While he was waiting for the load 
+to arrive he started to inspect the landing zone to ensure it was clear to land the work basket.    As he was  doing  so, the 
+deployed work basket suddenly landed behind him on top of the manifold. 
+
+Diver 1 called an immediate ‘all stop!’ and at the same time the crane driver informed dive control that as per his line out 
+meter he had reached the required short mark.  During this operation the ROV had not been requested to spot the load at 
+any point during the deployment. 
+
+ 
+
+ 
+
+Typical 1m x 1m work basket for deployment subsea 
+
+An investigation was conducted, noting the following: 
+
+  There was no written and agreed procedure for this operation with lifts being completed using usual practice; 
+
+  There had been no risk assessment for deploying subsea loads from the crane; 
+
+  There was no lift plan in place for the work basket and hence no discussion of the work basket during toolbox talks, 
+
+which might have highlighted potential hazards and considerations for personnel involved; 
+
+ 
+  Though trained in using the picker crane, the crew using it may not have been fully aware that movement of the boom 
+
+and knuckle could result in the load being at a different position with no change on the line out meter reading; 
+
+  The crane crew may not have closely monitored the reading from the transponder and instead used the line out meter 
+
+reading as the primary source of monitoring the depth of the load; 
+
+  Several previous faults had been reported on the crane line out meter with the meter returning to zero during subsea 
+
+operations; these reports had been investigated but no permanent fault had been identified; 
+
+  Diver 1 should have been informed to inspect the landing zone for the work basket prior to the load being deployed 
+overboard and then instructed to move out of the landing zone until the load had reached the short mark and was being 
+monitored  by  dive  control  using  the  ROV.    In  this  way,  he  would  have  been  protected  from  working  underneath  a 
+suspended load. 
+
+The following actions were taken: 
+
+  Develop and circulate vessel-specific procedures for deployment of loads with picker cranes or winches, including safe 
+
+over-boarding areas, communication protocols and illustration of roles and responsibilities of departments; 
+
+  Develop  specific  lift  plans  for  all  working  baskets  and  equipment  in  use  subsea,  including  reference  to  any  job  risk 
+
+assessment (JRA) where divers or ROVs are present subsea; 
+
+  Ensure all personnel operating picker cranes or winches have completed a suitable level of competency training for that 
+
+piece of equipment. 
+
+5  Fast Rescue Boat Dropped 18m Into Sea – Injuring Crew 
+
+The Australian Transport Safety Board (ASTB) has published a report into a fast rescue boat incident on board a natural gas 
+tanker.  The incident occurred in 2010.  A crew member was medically evacuated using the ship’s fast rescue boat for the 
+transfer.  The crew of the fast rescue boat and the person being evacuated were injured when, during the launch, the ship’s 
+fast rescue boat dropped 18m and impacted the water below. 
+
+Further information can be found at www.atsb.gov.au/media/2494088/mo2010004.pdf 
+
+6  Dynamic Positioning (DP) System Failure 
+
+IMCA has received information from a member about an incident involving the DP system aboard one of its vessels.  Because 
+of the resulting inherent failure possibility, the company has identified the need to modify the software installed in  the DP 
+systems on several vessels within  its fleet.   The DP manufacturer has issued a technical bulletin relating to this  (attached).  
+It is  felt  that  the  serious  nature  of  this  incident  made  it  important  to  share  this  information  as  a  safety  flash  and  also  as 
+information note IMCA M 19/11 – Dynamic positioning system failure. 
+
+7  Engine Room CO2 Isolating Valve 
+
+The Marine Safety Forum (MSF) has published Safety Flash 11-31 (attached) regarding a routine inspection of a vessel’s CO2 
+fire fighting system. It was noticed that the engine room CO2 isolating valve remained in the closed position when the valve 
+handle was manually operated. 
+
+Further information can be found from: www.marinesafetyforum.org/upload-files//safetyalerts/msf-safety-flash-11.31.pdf 
+
+8  Engine Room Fire on Offshore Vessel 
+
+The  Marine  Safety  Forum  (MSF)  has  published  Safety  Flash  11-32  (attached)  regarding  a  fire  reported  in  the  main  engine 
+room of an offshore support vessel which was under tow at the time.  The source of the fire was identified as being fuel oil 
+leaking from the flange on a fuel injector pump onto an engine. 
+
+Further information can be found from: www.marinesafetyforum.org/upload-files//safetyalerts/msf-safety-flash-11.32.pdf 
+
+ 
+
+  
+
+ 
+Technical Bulletin No DP-03/2011  
+Technical Bulletin
+Kongsberg September 20 2011 
+ 
+
+7.0.9. 
+
+dual redundant 
+
+a Kongsberg Maritime  
+
+” reported) that prevented it to become online. 
+
+and distributed to clients having a Kongsberg Maritime
+
+system with the software versions in the range 7.0.0 - 7.0.9
+
+made to DP operators manual, Chapter 7.2 “Redundant systems”.
+. 
+
+incident has been reported where the master computer stopped on a dual 
+
+sequence of events made the slave computer enter into a temporary error 
+a temporary error 
+
+nvestigation has revealed that the master computer stopped due to a hardware 
+due to a hardware 
+
+This bulletin is relevant for, and 
+redundant K-Pos system with the software versions 
+_____________________________________________
+_____________________________________________
+_____________________________________________ 
+ 
+K-Pos –master/slave automatic switchover incident
+master/slave automatic switchover incident
+master/slave automatic switchover incident 
+ 
+Description and background
+ackground 
+An incident has been reported where the
+K-Pos system and the switchover was not performed as expected.
+Pos system and the switchover was not performed as expected. 
+ 
+The investigation has revealed that
+failure. The sequence of events made the
+state (alarm “PS Incapable” reported
+ 
+The existing procedure is to manually unlock the error state
+The existing procedure is to manually unlock the error state. 
+Reference made to DP operators manual, Chapter 7.2 
+ 
+ 
+Permanent solution 
+A solution has been developed to automa
+when the error no longer is present.  
+when the error no longer is present.   
+This software update must be installed
+This software update must be installed and tested by a Kongsberg Maritime 
+representative.  
+The update will be performed on a first come first serve basis
+software update will be covered under KM standard warranty conditions.
+will be covered under KM standard warranty conditions. 
+ 
+  
+For further information please contact Kongsber
+For further information please contact Kongsberg Maritime, Customer Support
+ 
+Tel: 
+ 
+E-mail:  
+ 
+ 
+ 
+Yours faithfully, 
+Jørn Mastervik 
+ 
+ 
+ 
+ 
+General Manager,   
+Global Customer Support Offshore
+Global Customer Support Offshore 
+KONGSBERG MARITIME AS 
+
+          + 47 815 35 355
++ 47 815 35 355 
+km.support.dp@kongsberg.com
+km.support.dp@kongsberg.com 
+ 
+
+to automatically unlock the error state (PS Incapable)
+tically unlock the error state (PS Incapable) 
+
+on a first come first serve basis, and the cost of the 
+cost of the 
+
+g Maritime, Customer Support: 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+Marine Safety Forum – Safety Flash 11-31 
+Issued:  23rd August 2011 
+
+ 
+
+Subject: Engine Room CO2 Isolating Valve 
+ 
+During routine inspection of a vessel’s CO2 fire fighting system it was noticed that the engine room 
+CO2 isolating valve remained in the closed position when the valve handle was manually operated. 
+This was evident by the position of the valve spindle which remained in the closed position whilst 
+the handle showed that the valve was open.  
+ 
+
+        
+
+ 
+
+Spindle remained in the closed position 
+whilst the handle was in the open 
+position. 
+
+ 
+ 
+ 
+The isolating valve was removed, freed up and the handle was repaired and tightened. During this 
+repair process the safety pins for the CO2 bottles were put in place and removed once the repair 
+was completed. 
+ 
+In the  event  of  a fire and  the  need for  CO2 flooding, the  isolating  valve  handle would  have been 
+forced to the open position, whilst the valve itself would have remained shut, thereby disabling CO2 
+flooding. 
+ 
+All  vessels  must  ensure  that  these  CO2  isolating  valves  open  and  that  it  is  not  just  the  handles 
+turning on the valve spindles. All vessels are instructed to add a line of instruction to the TM job for 
+checking that this valve is operating correctly when the inspection is done on the CO2 system. 
+
+. 
+
+ 
+
+- 1 - 
+
+ 
+
+ 
+
+    
+
+ 
+
+ 
+ 
+
+Marine Safety Forum – Safety Flash 11-32 
+Issued:  23rd August 2011 
+
+ 
+
+Subject: FIRE IN ENGINE ROOM OF OFFSHORE SUPPORT VESSEL 
+ 
+An  Offshore  Support  Vessel  was  being  towed  astern  of  a  rig  during  a  rig  move  transit  operation 
+when  a  fire  was  reported  from  the  main  engine  room  of  the  vessel.  The  engine  room  fire 
+suppression  system  (Hi-Fog  Water  Mist)  was  automatically  activated,  emergency  fuel  shut-off 
+valves  closed  to  shut  off  fuel  supply  to  the  affected  engine  and  vessel  emergency  response 
+procedures  initiated.  The  fire  was  effectively  extinguished  within  10  minutes  by  the  vessel’s 
+Emergency  Response  Team  (ERT)  personnel  using  portable  extinguishers.  Following  checks  on 
+the  main  engine(s)  and  safety  equipment,  vessel  was  able  to  continue  operations  safely  with 
+remaining 3 engines.  
+The source of the fire was subsequently identified as due to fuel oil leaking from the flange on a 
+Fuel Injector Pump on main engine No.2. The fuel return line had come loose at the flange due to 
+one  of  two  securing  bolts  shearing  and  the  other  working  loose.  Fuel  sprayed  from  the  leaking 
+flange and impinged upon the adjacent hot lagging of the main engine exhaust and turbo charger 
+resulting in ignition and subsequent fire.  
+ 
+•  Return  Fuel  line  on  the  injector  pump for  main  engine  No.2  had  come  loose  at  the  connection 
+flange resulting in fuel spray to leak and impinge hot lagging on adjacent exhaust and turbocharger 
+lagging. This subsequently resulted in ignition and fire  
+• The flange for the Fuel Injector Pump had only 2 securing bolts. One of which had sheared off 
+and the other had worked loose which led to the fuel leak  
+•  The  Fuel  Injector  Pump  was  serviced  every  15,000  running  hours  as  per  PMS.  However  no 
+guidelines  were  available  from  the  main  engine  manufacturer-MAK-on  specific  checks,  torqueing 
+requirements and replacement programme for the securing bolts  
+ 
+LESSONS LEARNED  
+•  Upon  checking  on  other  vessels  in  the  fleet  following  the  incident,  vessel  operator  discovered 
+loose flange securing bolts on similar main engine configuration and fuel lines with a potential for 
+failure and loss of containment  
+• Current design of the flange securing bolts (2 bolts instead of 4) was not ideal in ensuring that the 
+integrity of the flange connection was maintained  
+•  For  safety  critical  connections  bolt  torqueing  guidelines  should  be  communicated  by  the 
+manufacturer and enforced / monitored as part of the periodic preventative maintenance system for 
+the asset  
+• Importance of maintaining and testing emergency fire fighting systems and ERT training through 
+regular emergency drills on board vessels  
+ 
+RECOMMENDATIONS  
+• Include 3 monthly checks on fuel line flange bolts into contractor’s Planned Maintenance System 
+(PMS). This to include physical checks on the torque and condition of the fuel flange bolts as per 
+Original Equipment Manufacturer (OEM) guidelines.  
+•  Request  information  from  engine  manufacturer  (MAK)  on  bolt  composition  and  torqueing 
+requirements  on  securing  bolts  for  the  Fuel  Injector  Pump.  Information  to  be  disseminated  to 
+vessel operators and marine community via subsequent Information/Safety Flash  
+
+ 
+
+- 1 - 
+
+ 
+
+ 
+
+   •  Vessel  operators  to  initiate  checks  on  similar  fittings  on  Fuel  Injector  Pumps  and  other  high 
+pressure pumps to check on condition and integrity of securing bolts. Checks and monitoring are 
+especially  critical  after maintenance  and reinstatement  of  high pressure  lines  to check for  steady 
+state operation  
+ 
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+- 2 - 
+
+ 
+
+ 
+
+

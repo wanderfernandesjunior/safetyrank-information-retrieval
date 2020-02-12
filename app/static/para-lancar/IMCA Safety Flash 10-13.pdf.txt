@@ -1,0 +1,261 @@
+AB 
+
+IMCA Safety Flash 10/13 
+
+Safety Flash 
+
+ June 2013 
+
+These  flashes  summarise  key  safety  matters  and  incidents,  allowing  wider  dissemination  of  lessons  learnt  from  them.    The  information  below  has  been 
+provided in good faith by members and should be reviewed individually by recipients, who will determine its relevance to their own operations. 
+
+The effectiveness of the IMCA safety flash system depends on receiving reports from members in order to pass on information and avoid repeat incidents.  
+Please consider adding the IMCA secretariat (imca@imca-int.com) to your internal distribution list for safety alerts and/or manually submitting information 
+on specific incidents you consider may be relevant.  All information will be anonymised or sanitised, as appropriate. 
+
+A  number  of  other  organisations  issue  safety  flashes  and  similar  documents  which may  be  of  interest  to  IMCA  members.   Where  these  are  particularly 
+relevant, these may be summarised or highlighted here.  Links to known relevant websites are provided at www.imca-int.com/links   Additional links should 
+be submitted to webmaster@imca-int.com 
+
+1  High Potential Near Miss – Lifting Equipment Failure  
+
+A  member  has  reported  an  incident  in  which  there  was  a  potentially  catastrophic  failure  of  a  lifting  sling.  The  incident 
+occurred during repair and maintenance operations for a trenching ROV, when the trencher was being lifted onto axle stands 
+to assist with on-going maintenance. The crew planned the lift using a single sling, as standard lifting strops were missing. The 
+single  sling  was  placed  around  the  box  section  and  it  was  identified  that  the  lift  point  had  a  sharp  edge  which  could  have 
+damaged  the  lifting  sling.  It  was  decided  to  pad  the  sharp  edge  with  wadding  to  prevent  damage  to  the  sling.  The  crane 
+started  to  take  the  weight  of  the  trencher,  and  when  it  reached  approximately  18T  of  tension,  the  sling  failed.  Upon 
+inspection, it was found that the sharp edge identified had cut through the padding and sliced the sling causing it to part under 
+load. No damage occurred as the trencher was never lifted off the ground. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Figure: Showing initial lifting point arrangement used during 
+
+Figure: Showing re-assessed lifting point arrangement used after 
+
+incident 
+
+incident 
+
+Our member identified the following immediate causes:  
+
+ 
+
+Inadequate planning – other lift points were available to complete the lift without the sharp edge affecting the lift; 
+
+  No management of change or ‘stop the job’ completed – the ‘stop the job’ process should have been implemented as 
+
+soon as the missing strops were identified; 
+
+ 
+
+Planned method continued despite identification of sharp edge  – crew assumed that padding the sharp edge would be 
+sufficient to complete the lift safely; 
+
+  No specific planned method was identified for completion of the lifts – planning was completed at site as requirements 
+
+Our member identified the following root causes:  
+
+ 
+
+Inadequate equipment available  
+-  There was insufficient lifting equipment to complete the assigned tasks, leaving the crew to borrow equipment from 
+
+elsewhere; the job should have been stopped in this context; 
+
+developed. 
+
+ 
+
+ 
+ 
+
+- 
+- 
+- 
+
+- 
+
+Poor pre-work planning  
+
+There was no lift plan developed before arrival at site; 
+Correct lift points were not identified;  
+Lift plan was developed at site developed with available rigging in mind, rather than correct lift points in mind. 
+
+ 
+
+Lack of situational awareness  
+
+All aspects of health and safety planning were completed, as required with regards to lift plans, job safety analysis and 
+tool-box talk; however, an assumption was made regarding the application of padding around the sharp edge. 
+
+The following lessons were learnt:  
+
+ 
+
+Ensure sufficient and appropriate lifting equipment is always available; 
+
+  Reiterate importance of ‘stop the job’ and management of change processes; 
+
+ 
+
+Ensure  lift  planning  is  conducted  with  reference  to  correct  and  safe  lifting,  rather  than  “making  do”  with  what  is 
+available on site; 
+
+  Members may wish to refer to IMCA SEL 019 - Guidelines for lifting operations for further information.  
+
+2  Loading and Securing of Cargo 
+
+A  member  has  highlighted  two  recent  occasions  in  which  containers  and  vehicles  were  inappropriately  loaded  and 
+transported  with  their  contents  unsecured,  which  resulted  in  unnecessary  manual  handling  of  cargo.  Unsafe  packing  of 
+containers  and  loading  of  vehicles  is  something  that  still  occurs.  The  potential  exists  for  injury,  environmental  impact  or 
+equipment damage caused by unsecured cargo and/or not loading vehicles correctly. 
+
+  
+
+  
+
+ 
+
+Figures: Showing items loaded directly onto a trailer with no pallets (making further manual handling by yard crew necessary) 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Figure: Equipment packed into a container unsecured 
+
+ 
+
+ The following simple suggestions may be of use to members: 
+
+Place items being shipped in suitable containers, giving consideration to the possible cargo handling capabilities of those 
+receiving the load (i.e. forklift availability, access, container type); 
+
+Ensure loads are distributed in a balanced and even way;  
+
+Place heavier items at the bottom with lighter items on top – do not place heavy cargo on top of fragile cargo; 
+
+  Use packing to prevent damage between items of cargo; 
+
+ 
+
+Lash down (and wedge if necessary) cargo, to prevent movement in transit; 
+
+  Do not pack sharp items next to soft skinned drums; 
+
+  Certain chemicals and materials, when combined (possibly through transit damage), can become toxic, highly flammable 
+
+or explosive – it is imperative that such materials are kept apart; 
+
+Ensure the doors and locking mechanisms are secure with locking device attached (including secondary securing device) 
+and, where applicable, use door safety nets; 
+
+Ensure no loose items have been left on the roof of the CCU (Cargo Carrying Unit) or container; 
+
+Loading  of  cargo  should  be  properly  planned  and  implemented,  to  facilitate  the  ease  of  unloading  on  arrival  at  the 
+destination; 
+
+  Members may wish to refer to: 
+
+International Maritime Dangerous Goods (IMDG) Code -  www.imo.org/blast/mainframe.asp?topic_id=158  
+
+- 
+-  Oil  &  Gas  UK  Guidelines  for  the  Safe  Packing  &  Handling  of  Cargo  to  and  from  Offshore  Locations  -  
+
+http://info.ogp.org.uk/liftingandhoisting/RPR/OilAndGasUKPacking.pdf.   
+
+3  Use of Portable Electrical Deck Equipment 
+
+A member has highlighted some recent examples of portable electrical deck equipment being used with incorrect plugs and 
+sockets. This safety flash serves to bring to members’ attention the issue of plugs and sockets for electrical equipment used in 
+the outdoor marine environment. 
+
+During routine portable appliance testing, it was found that plugs and sockets on portable electrical equipment used in the 
+deck environment had an IP44 ingress and integrity rating, which is not sufficient for use on the back deck or an open deck 
+marine environment. Also, it was found that 9” grinders with a rating of 2000W and 19A had their 32A plugs removed and 
+16A plugs fitted instead, with subsequent potential for overheating, burns or electric shock. 
+
+ 
+
+ 
+
+Figure: 110v/2000W/19A 9” grinder with 32amp IP67 plug and the IP44 16amp plug removed. 
+
+ 
+
+ The following actions were recommended: 
+
+ 
+
+Socket  outlets,  appliance  inlets  and  portable  equipment  operated  in  an  open  marine  environment  should  have  a 
+minimum  IP  rating  of  IP56;  alternatively  the  socket  should  be  located  inside  an  enclosure  with  a  minimum  ingress 
+integrity rating of IP56; 
+
+  Regular checks should be made of hand tools and extension leads, to ensure portable equipment and extension leads to 
+be used on the back deck are fitted with suitable IP 56 plugs and sockets, (IEC plugs and sockets are usually rated IP44 
+or IP67; the more robust IP67 ones should be used); 
+
+ 
+
+ 
+
+ 
+
+Incorrect  equipment  should  either  be  removed  from  use  and  fitted  with  the  correctly  rated  plugs/sockets,  or 
+substituted with equipment that is correctly rated (i.e. the appliance in use may have been taken from a workshop to be 
+used on the open deck, the IP rating is adequate for indoors, but not outdoors); 
+
+Ensure personnel  are  fully  aware  and  informed  with  regard  to  the  appliance  voltage  and  load  rating  current,  size  and 
+type  of  plug  fitted,  condition  of  flex/cable,  and  same  for  any  extension  leads,  including  plug  and  socket  and  the  fixed 
+socket outlet;  
+
+Ensure  that  personnel  always  check  and  inspect  equipment  before  use,  to  ensure  the  equipment  is  fit  for  use  and 
+purpose. All deficient equipment should be removed from use and either repaired or disposed of; 
+
+  Check  and  ensure  that  deck  power  sockets  and  circuits  are  fitted  with  correctly  rated  plugs  and  sockets,  or 
+
+swap/replace appliances with equipment that is fit for purpose; 
+
+  Members may wish to refer to IMCA’s handy pocket card IMCA SPC 22 - Electrical Hazards. 
+
+4  Surge Protective Devices Onboard Vessels 
+
+The  United  States  Coast  Guard  (USCG)  published  in  April  this  year  a  Marine  Safety  Alert  on  surge  protective  devices. 
+Subsequently, an updated and corrected version of this information was made available as Marine Safety Alert 03-13b. The 
+alert covers the risk of fire arising from the misuse of certain voltage surge protective devices used in mains electric circuitry 
+onboard  vessels.  A  marine  casualty  investigation  of  two  separate  stateroom  fires  onboard  a  US  flagged  container  ship 
+revealed that the sources of the fires were attributed to the use of surge protective devices plugged into a lighting circuit. 
+
+Further information is available from www.uscg.mil/tvncoe/Documents/safetyalerts/SurgeProtectiveDevices.pdf  
+
+ 
+5  Fuel Oil Bunkering Safety 
+
+The  Marine  Safety  Forum  has  published  the  following  safety  flash  regarding  a  safety  issue  that  occurred  during  fuel  oil 
+bunkering.  A  vessel  had  prepared  to  take  fuel  oil  on  board,  all  precautions  were  in  place  and  the  checklist  had  been 
+completed correctly and the crew had completed a toolbox talk. During bunkering, a quantity of fuel oil was spilled into the 
+engine room.   
+
+The safety flash can be downloaded from www.marinesafetyforum.org/upload-files//safetyalerts/msf-safety-flash-13.18.pdf  
+
+ 
+
+

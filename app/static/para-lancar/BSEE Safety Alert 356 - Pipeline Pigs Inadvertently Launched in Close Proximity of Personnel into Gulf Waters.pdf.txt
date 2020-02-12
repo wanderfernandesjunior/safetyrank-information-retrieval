@@ -1,0 +1,112 @@
+SAFETY ALERT 
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+Safety Alert No. 356 
+13 June 2019 
+
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+       
+
+                     Contact: Jason Mathews 
+        
+
+Phone: (504) 731-1496 
+
+ 
+
+Pipeline Pigs Inadvertently Ejected in Vicinity of Personnel  
+
+  (above) Pigs located in Pig Loading Area 
+ 
+ 
+ 
+ 
+(left) Damaged/Bent Platform Structural Member   
+
+ 
+
+ 
+
+  
+
+ 
+On 31 January 2019, two employees were tasked with initiating pigging operations on a 
+U.S. Department of Transportation platform natural gas pipeline in the Gulf of Mexico 
+(GOM). Lock-Out Tag-Out (LOTO) procedures were followed for isolating and bleeding 
+the pig launcher from possible pressure sources.  Due to unanticipated issues with 
+bleeding down the pressure in the launcher, a decision was made to re-pressurize and 
+perform a second LOTO and bleed of the launcher.   
+
+After apparently bleeding down the launcher to zero pressure, the launcher door was 
+opened in order to begin loading pigs. One employee looked inside the launcher to 
+confirm that there was at least one spherical pig in the launcher. (Note: records indicate 
+that there were two pigs in the launcher prior to opening the launcher door, and a third 
+was subsequently loaded.) As one employee was preparing to place another pig onto the 
+pig raising mechanism, and the other employee was nearby, three pigs were ejected from 
+the launcher. The force was strong enough that a platform structural support member was 
+damaged (see photograph above). The employees pulled the facility Emergency 
+
+Shutdown (ESD) and notified management of the occurrence. After the ESD, technicians 
+isolated the pigging system from the blowdown line. 
+
+In addition to the damaged structural support member of the platform, the pigs also 
+damaged an atmospheric storage tank and hand railings. The pigs were lost into the 
+GOM as unrecoverable marine debris. The incident was originally reported as marine 
+debris. The most likely causal factor was determined to be pressure inside the 36-inch 
+launcher isolation valve body that was released into the pig launcher. Another possible 
+cause was that a pig expanded to seal off the launcher from exiting pressure in and 
+upstream of the isolation valve. 
+
+Therefore, BSEE recommends that operators consider the following: 
+ 
+
+•  Verify that events categorized within this incident-type − serious near miss involving 
+personnel safety − are not only reported as marine debris, but are also submitted to 
+BSEE as a written report within 15 days of the incident date.   
+ 
+
+•  Review and update (as necessary) hazard analyses for pigging operations, including 
+hazards associated with (but not limited to) valve seating issues and pig deformation 
+possibilities. 
+
+•  Review and update operating procedures for pigging operations to ensure that the 
+
+hazards identified from the above analyses are taken into consideration. 
+
+•  Confirm the integrity of isolation valves by initiating more frequenct inspections of 
+applicable components. Verify that these valves are being addressed within your 
+maintenance procedures. 
+
+•  Conduct additional hazard identification training and process isolation training for 
+
+personnel whose tasks involve pig loading and launching.  
+ 
+
+ 
+
+-- BSEE--  
+
+ 
+
+ 
+
+A Safety Alert is a tool used by BSEE to inform the offshore oil and gas industry of the 
+circumstances surrounding a potential safety issue. It also contains recommendations 
+that could assist avoiding potential incidents on the Outer Continental Shelf. 
+
+

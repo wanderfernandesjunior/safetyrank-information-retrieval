@@ -1,0 +1,90 @@
+ 
+
+ 
+
+Safety Alert 12 
+
+Failure to Follow Safe Systems of Work (PTW) 
+
+ 
+
+What happened? 
+A recent incident involving two hydrocarbon releases from a bleed plug on a test header 
+isolation valve has highlighted the importance of conducting appropriate reviews prior to re-
+commissioning mothballed equipment and following a Permit to Work (PTW) system. 
+
+Piping, manifolds and a production pipeline were being prepared to be flushed with water to 
+allow for inspection and replacement of a section of piping.  During attempts to open a 
+valve on a mothballed test header, a plug shot out of the valve body, narrowly missing a 
+person standing nearby.  The person was sprayed in the face and chest with a mixture of 
+warm oil and gas from the leak, but was not injured.  People in the immediate area 
+evacuated to the top deck of the monopod platform and contacted the control room on a 
+neighbouring platform to isolate the system. 
+
+A helicopter was scheduled to return personnel to the nearby platform, so efforts were 
+made to plug the weeping bleed port.  However, it was also decided to proceed with the 
+flushing operation prior to arrival of the helicopter. 
+
+After the initial incident, it was assumed that the test header isolation valve was closed and 
+a decision was made to repressurise the line.  This resulted in a second and larger 
+hydrocarbon release from the bleed port as personnel were fitting a replacement plug.  The 
+release activated a gas detector which caused a shutdown on the monopod. 
+
+Fortunately, there were no injuries or ignition of the gas.  The valve bleed port was then 
+plugged and residual pressure vented to atmosphere via the fixed vent system. 
+
+What went wrong? 
+Investigation found that the review conducted to bring the valve back into service was 
+inadequate and did not identify the need to replace the bleed plug.  A previous incident 
+involving corrosion of a bleed plug prompted the replacement a number of plugs on 
+operating valves.  However, as this particular valve was mothballed at the time, the plug 
+was not replaced. 
+
+Following the initial release, the permit to work was not reviewed to ensure that: 
+
+• 
+
+• 
+
+fitting of a new valve plug was addressed; 
+
+isolation and venting of gas trapped in the system; 
+
+•  new or changed hazards were identified;  
+
+•  adequate controls were in place for the work; and 
+
+• 
+
+there were clearly defined and communicated process steps. 
+
+NOPSA SAFETY ALERT 12 cont’d 
+
+ 
+
+• 
+
+• 
+
+There was a lack of communication between the control room and personnel in the field 
+such that people were not made aware of what actions had been taken or were about to be 
+taken. 
+
+ 
+Key Lessons: 
+•  Mothballed equipment should be thoroughly inspected and, where necessary, should 
+be tested and verified prior to bringing it back into service.  Review processes should 
+be robust enough to ensure lessons from previous incidents are considered. 
+
+After any accident or dangerous occurrence, work should stop to allow for a thorough 
+investigation of the causes prior to continuing. 
+
+If work activities change as a result of an event, it is important to ensure that any new 
+or changed hazards are identified and that these changes are considered in a PTW 
+(including hazard identification and risk assessment) before proceeding. 
+
+ 
+Contact 
+For further information email alerts@nopsa.gov.au and quote Alert 12. 
+
+

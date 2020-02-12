@@ -1,0 +1,137 @@
+AB
+
+ 
+
+IMCA Safety Flash 10/02 
+
+October 2002 
+
+These  flashes  summarise  key  safety  matters  and  incidents,  allowing  wider  dissemination  of  lessons  learned  from  them.    The  information  below  has  been 
+provided in good faith by members and should be reviewed individually by recipients, who will determine its relevance to their own operations. 
+
+The effectiveness of the IMCA safety flash system depends on receiving reports from members in order to pass on information and avoid repeat incidents.  
+Please consider adding the IMCA secretariat (imca@imca-int.com) to your internal distribution list for safety alerts and/or manually submitting information 
+on specific incidents you consider may be relevant.  All information will be anonymised or sanitised, as appropriate. 
+
+A  number  of  other  organisations  issue  safety  flashes  and  similar  documents  which  may  be  of  interest  to  IMCA  members.    Where  these  are  particularly 
+relevant, these may be summarised or highlighted here.  Links to known relevant websites are provided at www.imca-int.com/links   Additional links should 
+be submitted to webmaster@imca-int.com 
+
+ 
+
+1  Pipe Stacking Fatality 
+
+The following incident occurred at an onshore fabrication facility, but provides an important reminder of areas that must be 
+considered when planning for situations where loads and stacks have the potential to become unstable. 
+
+A rigging crew, made up of one crane operator and two riggers, had been assigned to removal several 24-inch diameter steel 
+tubulars from a random stack in a warehouse stock yard.  The pipes had been stacked and chocked to be no more than three 
+layers high.  During the operation, a tubular in the middle of the bottom layer needed to be retrieved.  To gain access, the 
+crew began rearranging the other tubulars.  The two riggers were positioned on each end of the stack to assist the crane 
+operator with hook-up and to guide the tubulars out using tag lines. 
+
+When the required tubular had been removed, it left an open slot with two unstable stacks either side of it.  For reasons that 
+cannot be verified, one of the riggers then stepped into the slot – it is believed he was either placing chocks or following the 
+tag line on the tubular just removed from the slot.   
+
+While his foot was in the slot, the force of a tubular on the second row pushed down, causing the tubular to one side of the 
+slot to roll into the slot.  The rigger was caught between the two pipes and received severe crushing injuries to his pelvic 
+area.  He was transported to the local hospital, but later died from the injuries he had sustained. 
+
+The following investigation identified the following areas for concern: 
+
+  The warehouse stockyard, not being an area of regular production activity, had not been regularly inspected to ensure 
+
+the proper storage of tubulars; 
+
+  On the day of the incident, the entire rigging crew, including those involved in this incident, had met to conduct a pre-
+shift ‘toolbox talk’ meeting and job safety analysis (JSA), but the JSA had only covered work being done at a project site 
+in another part of the yard, which at the time had been considered a higher risk – this task had been considered routine; 
+
+  Best industry practice is to remove all pipe from upper layers before removing a tubular from the bottom.  This had not 
+
+been routine at the yard prior to this incident. 
+
+ 
+
+ 
+
+ 
+
+Safety Flash 
+
+ 
+
+The company involved has noted the following action points resulting from its investigations: 
+
+  All areas are to ensure that detailed rigging procedures, coupled with a comprehensive rigging training programme, are 
+
+developed and implemented, to cover best industry practices of handling, stacking and storage of materials; 
+
+  Existing  field  safety  assessment  programmes  are  to  be  reviewed  to  ensure  all  areas  of  the  yard  (and  of  vessels)  are 
+
+covered, including non-production areas such as warehouses and stock yards; 
+
+  All  areas  are to  ensure,  through proper training,  that  employees  (particularly  supervisors)  know  how  to  conduct task 
+risk assessments/JSAs for all of their daily jobs, including inspections of work areas as part of the JSA and identification of 
+adequate controls for lowering risk to as low as reasonably practicable; 
+
+  Each  area’s  management  is  to  stress  to  its  employees  the  company’s  expectations  that  any  unsafe  work  be  stopped 
+
+immediately. 
+
+2  Dangers from Insecure Crane Loads 
+
+This crane incident also occurred onshore, but the lessons to be learnt are equally applicable to members’ lifting operations. 
+
+During a major turn-around, fan tubes were being lifted using a tube tray.  During the lift and while the tube tray was directly 
+over the crane operator’s cab, the tube tray deviated from horizontal, causing the fan tubes to slide off.  They plunged like 
+arrows  into  the  operator’s  cab,  piercing  the  back  and  seat  of  the  operator’s  chair.    Amazingly  the  operator  suffered  only 
+minor scratches to one leg. 
+
+This  is  a  reminder  that  all  ‘lifts’  must  be  taken  seriously,  from  the  lightest  and  least  complex  to  the  heaviest  and  most 
+complex.  Proper rigging and securing of loads is of vital importance and saves lives. 
+
+3  Securing of Office Equipment on Vessels 
+
+A member has reported the following incident which occurred onboard one of its vessels. The vessel was in heavy seas when 
+it was hit by several 20-25’ swells, causing the vessel to heel over to 35°.  This resulted in serious disruption throughout the 
+accommodation  areas,  with  the  Office  being  among  the  worst  effected.    While  an  employee  tried  to  prevent  a  computer 
+from falling off of a desk, he was hit by filing cabinets and a photocopier which had broken loose from the opposite side of 
+the Office.  He turned to protect himself, but was struck on the chin by one of the cabinets, resulting in a minor laceration 
+and also in jarring to the chin. 
+
+The  company  involved  has  issued  a  reminder  of  the  importance  of  ensuring  all  fittings,  items  and  equipment  in 
+accommodation areas and on deck are sufficiently secured to prevent movement in heavy weather, thereby minimising the 
+risk of injury to personnel and/or damage to equipment. 
+
+4  Near Miss – Broken High Pressure Oxygen Fitting 
+
+A member has reported that while recovering an inflated lift bag over the bow bulwarks on one of its vessels, a regulator 
+attached to an oxygen pack was broken off at the bottle nipple on the high pressure side of the regulator.  The king valve was 
+quickly closed and there was no harm to personnel or equipment.  Nevertheless, the potential hazard from a high pressure 
+oxygen escape is obvious. 
+
+In  its  investigations,  the  company  noted  that  the  regulator  and  associated  piping  and  hose  had  extended  beyond  the 
+framework of the oxygen pack and into the work area. 
+
+The company has issued the following recommendations as a result of its investigations: 
+
+  Ensure  fittings  used  are  suitable  for  the  task  involved.    Where  such  fittings  extend  the  overall  length  before  the 
+
+regulator, they add leverage and therefore increase the likelihood of breakage; 
+
+  Plumb  in  such  a  way  that  the  regulator,  its  associated  fittings,  gauges  and  hose  reside  within  protective  framework  – 
+ideally that  of the bottle  rack  or  quad  skid.    An  appropriately  rated brass  pipe  street elbow  should be  used  after the 
+bottle nipple if necessary, to keep the regulator and fittings within the protective framing; 
+
+  Wherever possible, bottle racks and quad skids should be positioned in such a way that regulators are away from work 
+
+areas and walkways; 
+
+ 
+
+If high pressure bottles must be located in a work area, it must be ensured that job safety analyses associated with the 
+tasks in that area include the potential hazards associated with working around high pressure bottles. 
+
+

@@ -1,0 +1,86 @@
+AB
+
+ 
+
+IMCA Safety Flash 10/06 
+
+August 2006 
+
+These  flashes  summarise  key  safety  matters  and  incidents,  allowing  wider  dissemination  of  lessons  learned  from  them.    The  information  below  has  been 
+provided in good faith by members and should be reviewed individually by recipients, who will determine its relevance to their own operations. 
+
+The effectiveness of the IMCA safety flash system depends on receiving reports from members in order to pass on information and avoid repeat incidents.  
+Please consider adding the IMCA secretariat (imca@imca-int.com) to your internal distribution list for safety alerts and/or manually submitting information 
+on specific incidents you consider may be relevant.  All information will be anonymised or sanitised, as appropriate. 
+
+A  number  of  other  organisations  issue  safety  flashes  and  similar  documents  which  may  be  of  interest  to  IMCA  members.    Where  these  are  particularly 
+relevant, these may be summarised or highlighted here.  Links to known relevant websites are provided at www.imca-int.com/links   Additional links should 
+be submitted to webmaster@imca-int.com 
+
+ 
+
+1  Lifting Wire Strop Failure During Air Bag Lift 
+
+A member has reported the following incident, which occurred during a diving operation from a DP diving support vessel.  
+The diver was asked to inflate a 5 tonne air lift bag, which had swaged half inch wire strop passing through the 12 o’clock bolt 
+hole position on tie-in flanges.  The lift bag was being used to lift and align flanges in position prior to bolt installation.  While 
+filling the lift bag, the diver was asked by the diving supervisor to double-check the attached rigging.  The diver reported a 
+sharp  bend  on  the  wire  strop  through  the  12  o’clock  bolt  hole  of  the  flange  end  which  went  up  to  the  lift  bag.    As  a 
+precaution, the supervisor instructed the diver to stop inflating the airbag, to deflate and remove the airline.   
+
+While he was undoing the airline, which was made cold, the wire strop parted, causing the lift bag and airline to come to the 
+surface around 20 metres from port side of the vessel.  The diver was on a clear path to the bell with his umbilical and was 
+far away from the air bag rigging attachment, thus averting possible entanglement.  The company notes that this avoided what 
+could potentially have been a fatality.  The diver was reported well after the incident. 
+
+Inverter ripped out from this location 
+
+ 
+
+ 
+
+End of strop cut on flange face 
+
+On inspection of the air lift bag, it was found that the inverter line attached to the top of the bag had pulled out, resulting in 
+the lift bag failing to spill the air contained and the bag reaching the surface.  The diver reported that the bag was only half to 
+two-thirds full in capacity at the time of the incident. 
+
+Safety Flash 
+
+ 
+
+The company identified the following contributory factors: 
+
+  The less-than half inch wire rope strop passing through the flanges and attached to the air lift bag had not been certified; 
+
+  The inverter line pulled out of the top tab (the tab burst) and thus the air bag could not be inverted; 
+
+  The suitability of the rigging had not been thoroughly checked prior to lowering the air bags to the seabed. 
+
+The following points were identified as helping avoid an even more serious incident: 
+
+  Timely observation by the supervisor and his instruction to the diver to check the rigging while inflating the lift bag; 
+
+  The  diver  and  his  umbilical  were  out  of  the  ascent  path  of  the  air  lift  bag,  thus  avoiding  what  could  potentially  have 
+
+become a fatality. 
+
+and OCM; 
+
+proper lifting procedures; 
+
+The company has taken the following corrective measures following the incident: 
+
+  The incident was  discussed in toolbox meetings  and  the  potential  effects  were discussed  by the  diving  superintendent 
+
+  The dive team has been reminded of the importance of checking all rigging prior to attachment to loads and of following 
+
+  The rigging gear onboard the vessel has been inspected both for any damage and to ensure it is properly certified; 
+
+  The air bag supplier is further investigating the incident. 
+
+The company has issued a reminder that lifting incidents, including air bag lifting, carry the potential for serious injuries and 
+fatalities  to  occur,  reiterating  the  need  to  follow  proper  procedures,  to  review  lifts  at  toolbox  meetings  before  they 
+commence and to keep abreast of company and industry guidance on the subject. 
+
+

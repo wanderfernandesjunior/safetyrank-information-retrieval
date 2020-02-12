@@ -1,0 +1,89 @@
+ 
+
+Safety Alert 07 
+
+Hydrocarbon Gas Release Incident 
+
+ 
+ 
+What happened? 
+A recent hydrocarbon gas release incident, discovered following a cyclone, has highlighted 
+issues associated with maintenance and testing of inaccessible components of offshore 
+platforms, and preparation for response to potential emergencies. 
+
+The gas release occurred from a gas lift riser pipe within the riser caisson on the platform 
+after being shut-in in preparation for an approaching cyclone.  On return to the field, after 
+the cyclone had passed, the gas line between two nearby platforms was found to have 
+depressurised. 
+
+A gas compressor was subsequently started to commence a re-start of offshore wells and 
+platforms.  Personnel were mobilised to the offshore platforms to manually open valves to 
+bring a well back on line. 
+
+Upon arrival at one of the platforms, personnel noticed the sound of gas passing and went 
+to investigate.  The crew found a gas leak inside the gas riser caisson and left the valves 
+shut-in before travelling back to another platform to isolate valves supplying the gas riser. 
+
+The gas line pressure was bled to a flowline, with residual pressure released from the line 
+through a vent boom.  There were no resultant damage-causing events or injuries. 
+
+ 
+ 
+What went wrong? 
+The gas release was found to have occurred from a corroded section of riser above the 
+water-line which was not accessible to internal or external inspection.  The investigation 
+found that there were no inspection hatches on the caisson, and the diameter of this 
+section of the gas riser was too small to allow intelligent pigging.  As the design of the 
+facility did not readily facilitate inspection, testing and maintenance of this particular section 
+of pipe, the ongoing integrity of the riser could not be ensured. 
+
+Contributing factors to the incident included: 
+
+Pipeline coating system deterioration and subsequent failure; 
+
+Incomplete inspection and testing regime; and 
+
+Failure to follow-up on lack of condition monitoring of a small section of gas riser. 
+
+ 
+
+• 
+
+• 
+
+• 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+NOPSA SAFETY ALERT 07 cont’d 
+ 
+Key lessons 
+•  Operators should ensure that inspection program results include a specific gap 
+analysis commentary, in order to highlight any latent defects in inspection and 
+maintenance regimes of safety-critical items and equipment. 
+
+•  Operators should ensure that equipment is designed to provide adequate access for 
+
+inspection & maintenance. 
+
+• 
+
+Hazard identification should be conducted and appropriate precautions taken prior to 
+responding to a potential gas release event.  It is important to recognise that when 
+responding to a potential gas release, the response to the initiating event can also 
+contribute to harm to people. 
+
+ 
+ 
+ 
+Contact 
+For further information email alerts@nopsa.gov.au and quote Alert 07 
+ 
+
+

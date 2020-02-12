@@ -1,0 +1,127 @@
+AB(cid:31)
+
+ 
+
+IMCA Safety Flash 14/08 
+
+Safety Flash
+
+September 2008 
+
+These  flashes  summarise  key  safety  matters  and  incidents,  allowing  wider  dissemination  of  lessons  learned  from  them.    The  information  below  has  been 
+provided in good faith by members and should be reviewed individually by recipients, who will determine its relevance to their own operations. 
+
+The effectiveness of the IMCA safety flash system depends on receiving reports from members in order to pass on information and avoid repeat incidents.  
+Please consider adding the IMCA secretariat (imca@imca-int.com) to your internal distribution list for safety alerts and/or manually submitting information 
+on specific incidents you consider may be relevant.  All information will be anonymised or sanitised, as appropriate. 
+
+A  number  of  other  organisations  issue  safety  flashes  and  similar  documents  which  may  be  of  interest  to  IMCA  members.    Where  these  are  particularly 
+relevant, these may be summarised or highlighted here.  Links to known relevant websites are provided at www.imca-int.com/links   Additional links should 
+be submitted to webmaster@imca-int.com 
+
+ 
+
+1  Serious Injury Incident During Routine Crane Maintenance 
+
+A  member  has  reported  a  serious  injury  incident  which  took  place  recently  during  planned  routine  crane  maintenance 
+operations onboard a third party vessel. 
+
+Access to the crane cab level was via a stairway from the main deck, leading to a vertical ladder which then gave access to 
+the  upper  crane  platform.    At  the  time  of  the  incident,  routine  planned  maintenance  was  being  carried  out  on  the  crane 
+winch pumps on the upper crane cab level, as shown below: 
+
+ 
+
+ 
+
+The Incident 
+
+Lessons Learnt 
+
+A crew member was carrying out routine maintenance on the upper crane platform, checking gearbox and pump oil levels, of 
+which there were twelve to be checked.  The oil check involved manually removing a plug.  The crew member’s gloves and 
+boot soles became contaminated with hydraulic oil and, when descending the vertical ladder, the crew member slipped on 
+the ladder rungs and fell approximately two metres to the crane cab platform below.  During the fall the crew member’s left 
+leg became trapped in one of the lower rungs, causing injury. 
+
+Following  immediate  assistance  from  the  onboard  medic  and  consultation  with  medical  advisers,  the  crew  member  was 
+medevaced ashore.  It was later confirmed that the person had suffered a fracture of the left tibia. 
+
+Working on the upper crane platform was  considered to be a routine activity and consequently there were no permit to 
+work (PTW) or other working at height (WAH) controls in place. 
+
+There were no task procedures in place for the activity and the method of checking the oil levels by removing a plug to bleed 
+the oil was deemed to be unacceptable.  Hazards and controls were not properly identified. 
+
+The task was seen purely as ‘routine’ maintenance and there was an unchallenged acceptance of the method of carrying it 
+out. 
+
+Perception and awareness of the potential risk involved in this task was low.  There was: 
+
+  no risk assessment in place; 
+
+  no toolbox talk held prior to the job; 
+
+ 
+
+lack of active supervision. 
+
+A ladder access survey did not fully recognise the potential risks around safe access/egress from the upper crane platform.  
+The design of the vertical ladder and its location/position was considered to be inadequate and unsuitable: 
+
+‘Backscratcher’ was considered to be ineffective and did not provide adequate fall protection; 
+
+there was no suitable handrail fitted; 
+
+there was no anti-slip to the ladder rungs; 
+
+the ladder’s position relative to the upper crane platform meant that it was only possible to step on to it in a ‘backwards‘ 
+position. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Actions 
+
+This  incident  clearly  had  the  potential  for  much  more  serious  consequences  and  was  classified  as  a  HIPO  (high  potential 
+event).    The  investigation  revealed  a  number  of  key  learning  points  which  should  be  shared  by  IMCA  members  to  raise 
+awareness and help eliminate any similar incidents in the future. 
+
+  Routine planned maintenance activities should be reviewed to assess if there are any similar ones which may fall under 
+
+the WAH category and should include a PTW; 
+
+  Risk assessments should be in place and be reviewed for routine tasks; 
+
+  Vessel supervisory staff should actively involve themselves in toolbox talks for marine routine activities and ensure that, 
+
+where appropriate, they are recorded; 
+
+  The design and location/position of the existing ladders should be reviewed to ensure/improve safe access/egress. 
+
+2  Failure of Fall Arresters 
+
+A member has reported several incidents onboard vessels where fall arresters have been found to be defective.  Although 
+the incidents have not resulted in any injuries to personnel they may have had very serious consequences. 
+
+It is believed that the failure of the equipment was lack of inspection and/or maintenance.  It is of utmost importance that 
+appropriate  maintenance  and  inspection  of  fall  arrest  equipment  is  carried  out  in  accordance  with  the  manufacturer’s 
+instructions. 
+
+Members  are  recommended  to  remind  vessel  crews  to  go  through  the  inspection  and  maintenance  regime  to  ensure  fall 
+arrest equipment is maintained to a safe standard. 
+
+Below are pictures from one of the failed equipment: 
+
+ 
+
+ 
+
+

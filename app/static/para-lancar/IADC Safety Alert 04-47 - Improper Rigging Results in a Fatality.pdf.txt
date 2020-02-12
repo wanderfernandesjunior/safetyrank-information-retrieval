@@ -1,0 +1,85 @@
+Safety Alert 
+
+        From the International Association of Drilling Contractors 
+
+ 
+ 
+
+ALERT 04 – 47 
+ 
+
+IMPROPER RIGGING RESULTS IN A FATALITY 
+
+ 
+WHAT HAPPENED: 
+ 
+A  drilling  crewmember  died  when  a  twin  clevis  link  used  in  a  rig  floor  winch  hoisting  assembly  failed, 
+dropping a joint of drill pipe onto him.  At the time of the accident, the drilling crew was laying drill pipe down 
+the V-door ramp.  This involved using a winch line to pick up pipe from the mouse hole and workers stand 
+behind the pipe and push it over the edge of the rig floor onto the V-door ramp.  The pipe is then lowered 
+with the winch line — via the rig’s V-door ramp — to the catwalk below.  The rig crewmember was under the 
+pipe being pushed when the twin clevis link broke.   
+ 
+WHAT CAUSED IT: 
+ 
+The winch line was connected to a tail chain with the use of the twin clevis link.  The winch line and tail chain 
+were attached to the twin clevis link by a metal pin inserted through the lugs of the twin clevis link.  Only a 
+cotter key kept that pin in place.  In addition, the tail chain was too small to work properly with the twin clevis 
+link.  The twin clevis link was not designed for overhead lifting since it was not manufactured from Grade 80 
+alloy-based steel.  Only Grade 80 or better alloy-based steel rigging and rigging components should 
+be used in overhead lifting applications. 
+ 
+CORRECTIVE ACTIONS:  The regulatory agency involved required the following: 
+ 
+
+1.  Ensure that the rigging is safe.  The American Society of Mechanical Engineers (ASME) and 
+
+American National Standards Institute (ANSI) set acceptable standards for safe use of rigging. 
+
+2.  Ensure that workers are trained to use it correctly.  
+
+•  Rigging is assembled, used, maintained and dismantled under the supervision of a competent 
+
+worker and in accordance with the manufacturer’s specifications and instructions. 
+
+•  Workers who are required or permitted to assemble, use, maintain or dismantle rigging should be 
+
+trained in safe rigging practices. 
+
+3.  Ensure that rigging is regularly inspected at intervals recommended by the manufacturer. 
+4.  Provide the necessary information, instruction, training and supervision to protect workers. 
+5.  Ensure that the workplace is competently supervised. 
+6.  Workers have been trained to recognize hazards and work and act safely. Before starting work, an 
+
+employer shall ensure that no worker is permitted to perform work unless the worker has been 
+trained, and has sufficient experience. 
+
+ 
+
+ 
+
+Broken Unacceptable Twin Clevis Link 
+
+Another Unacceptable Twin Clevis Link 
+
+ 
+
+ 
+
+ 
+
+Note:  Thanks to the Canadian Petroleum Safety Council (www.psc.ca) for use of this alert. 
+
+The Corrective Actions stated in this alert are one company’s attempts to address the incident,  
+
+and do not necessarily reflect the position of IADC or the IADC HSE Committee. 
+
+This material is presented for information purposes only.  Managers & Supervisors should 
+
+evaluate this information to determine if it can be applied to their own situations and practices 
+
+Copyright © 2004 International Association of Drilling Contractors All rights reserved. 
+
+Issued November 2004 
+
+

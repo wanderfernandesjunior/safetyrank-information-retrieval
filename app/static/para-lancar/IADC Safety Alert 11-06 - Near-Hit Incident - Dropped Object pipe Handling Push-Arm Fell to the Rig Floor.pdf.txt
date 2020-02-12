@@ -1,0 +1,127 @@
+Safety Alert 
+
+        From the International Association of Drilling Contractors 
+
+ 
+ALERT 11 – 06  
+ 
+
+NEAR-HIT INCIDENT - DROPPED OBJECT PIPE HANDLING PUSH-ARM FELL 
+
+TO THE RIG FLOOR 
+
+ 
+
+WHAT HAPPENED: 
+ 
+While drilling a 12 ¼” hole, the driller observed the unused Safety Push Arm fall 15 feet (4.5 meters) onto the 
+rig floor just in front of the Driller’s cabin.  The arm caused dents to the rig floor cover plates.  There were five 
+(5)  rig  floor  workers  in  the  vicinity  working  near  the  V-Door,  but  luckily  no  one  was  injured  and  no  other 
+equipment was damaged.  The piece of equipment that fell measured 12’ 6” long and 8” X 8” wide, weighing 
+882lbs.  It had the potential to cause fatalities.   
+
+ 
+
+WHAT CAUSED IT: 
+ 
+  An investigation revealed that the 882lb arm was held onto the davit by a 1 ½” long bolt.  The short bolt 
+
+did not allow a sufficient number of threads to screw into the support structure.   
+ 
+
+The amount of thread that held it in its place 
+ 
+
+ 
+
+The amount of thread that held it in place 
+
+ 
+
+  There was no secondary retention (safety sling) installed on the arm to arrest a potential fall. 
+  Once it was decided to discontinue use of the equipment, there was no decision whether to remove or to 
+
+re-use the equipment. 
+
+  Vibration of the rig may have contributed to the bolt unscrewing from the support structure. 
+  The failed equipment was installed the after initial rig-up and was not included in the derrick’s inspection 
+
+checklist, nor was it included in the Toolpusher’s weekly checklist. 
+
+  The failed equipment was installed after the DROPS survey was conducted; therefore it was not included 
+
+  There was no record of the last inspection of the failed equipment including maintenance and greasing. 
+  There  was  no  way  to  visibly  inspect  the  bolt  inside  the  slot  to  see  if  the  thread  was  still  in  place  and 
+
+in the DROPS survey list. 
+
+properly engaged. 
+
+ 
+CORRECTIVE ACTIONS:  To address this incident, this company did the following: 
+ 
+  The failed equipment has been removed from service before any further operations were conducted.   
+  A notice has been sent to the manufacturer to alert them of this incident indicating the reason for failure. 
+
+The Corrective Actions stated in this alert are one company’s attempts to address the incident,  
+
+and do not necessarily reflect the position of IADC or the IADC HSE Committee. 
+
+This material is presented for information purposes only.  Managers & Supervisors should 
+
+evaluate this information to determine if it can be applied to their own situations and practices 
+
+Copyright  2005 International Association of Drilling Contractors All rights reserved. 
+
+Issued March 2011 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+Safety Alert 
+
+        From the International Association of Drilling Contractors 
+
+ 
+  Rig supervisors were instructed that all new equipment that is to be installed at heights shall always have 
+an  installation  procedure  prepared  and  documented  in  the  company  maintenance  program  prior  to 
+installation.  This documentation is to include the following information: 
+
+A. Secondary retention is a part of the installation procedure. 
+B. Maintenance procedure is prepared and added into the company preventative maintenance system. 
+C. Equipment documented and included in the derrick inspection checklist. 
+D. Equipment documented and included in the DROPS program. 
+
+ 
+  There shall be a rotation of personnel performing derrick inspections (with the goal that a fresher pair of 
+
+eyes might see something that has been missed) 
+Instructed  rig  supervisors  that  all  crew  members  shall  be  reminded  of  the  importance  of  performing 
+quality  inspections,  including  important  points,  as  well  as  giving  examples  at  Weekly  Safety  Meetings 
+and during Pre-Tour Meetings. 
+
+The 882lb arm that fell from the derrick 
+
+The davit that held the arm 
+
+ 
+
+The Corrective Actions stated in this alert are one company’s attempts to address the incident,  
+
+and do not necessarily reflect the position of IADC or the IADC HSE Committee. 
+
+This material is presented for information purposes only.  Managers & Supervisors should 
+
+evaluate this information to determine if it can be applied to their own situations and practices 
+
+Copyright  2005 International Association of Drilling Contractors All rights reserved. 
+
+Issued March 2011 
+
+

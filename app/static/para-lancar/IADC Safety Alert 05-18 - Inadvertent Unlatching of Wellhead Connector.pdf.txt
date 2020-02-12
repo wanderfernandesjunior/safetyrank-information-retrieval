@@ -1,0 +1,146 @@
+Safety Alert 
+
+        From the International Association of Drilling Contractors 
+
+ 
+ALERT 05 – 18 
+ 
+
+INADVERTENT UNLATCHING OF WELLHEAD CONNECTOR 
+
+ 
+WHAT HAPPENED: 
+ 
+Recently  a  semi  submersible  inadvertently  unlatched  the  subsea  wellhead  connector  on  a  recently 
+perforated  well.    Upon  the  wellhead  connector  unlatching  the  differential  pressure  between  the  weighted 
+completion  fluid  in  the  riser  and  the  normal  seawater  pressure  caused  the  stack  to  separate  from  the 
+wellhead  and  the  seal  to  be  lost.    The  fluid  level  in  the  riser  equalized  to  the  seawater  hydrostatic.    The 
+subsequent  loss  of  hydrostatic  pressure  allowed  an  influx  of  crude  oil  into  the  well  bore.    Quick  action  in 
+getting  the  connector  re-latched  and  the  seal  reestablished  averted  a  catastrophic  well  control  and 
+environmental situation.   
+ 
+How did this occur? 
+ 
+Prior  to  running  the  stack  two  weeks  previously,  maintenance  was  performed  on  the  stack.    During  this 
+maintenance several hoses were disconnected to perform certain maintenance exercises, in particular, the 
+wellhead connector hoses on the Yellow Pod side were disconnected to test the hydraulic operating system 
+of  the  connector.    It  is  not  100%  certain  which  hoses  in  the  connector  circuit  on  the  Yellow  Pod  were 
+crossed, it is certain that the lock and unlock circuits were crossed.  Prior to running the BOP the stack was 
+pressure tested on the stump and function tested on the skid beams. The Function Test Checklist was used 
+and  completed  by  the  Subsea  Engineer  who  was  operating  the  functions  from  the  HPU  and  had  rig 
+personnel and a Subsea Trainee verifying the functions.  It appears that poor communications and possible 
+lack of understanding led to the crossed hoses and the resulting incorrect operation of the connector during 
+the function testing.  This was the first failure of our verification system.  
+ 
+Upon landing onto a previously run subsea tree, the Subsea Engineer powered up the system, selected the 
+Blue  Pod,  and  latched  the  wellhead  connector.    The  latching  up  operation  was  witnessed  by  Rig 
+Management via the ROV.  The observations showed that the connector was locked and an over pull was 
+successfully  carried  out.    Although  not  called  for  in  his  procedures,  the  Subsea  Engineer  switched  to  the 
+Yellow Pod to check on the operation of the connector.  However, it appears that poor communication and 
+lack  of  understanding  of  the  process  did  not  detect  that  the  connector  had  gone  to  unlock  upon  switching 
+from the Blue Pod to the Yellow Pod. (The stack had down weight on the wellhead and seawater in the riser 
+– this precluded the stack lifting seen later.)  Believing things were okay, the Subsea Engineer switched back 
+to the Blue Pod, and the BOP was tested using the Blue Pod.  Rig operations proceeded for two weeks with 
+the BOP stack operating on the Blue Pod and the problem went undetected.  This is the second failure of 
+our verification system.  After the well had been perforated and prior to completion operations, the Subsea 
+Engineer prepared for the required bi-weekly pressure test of the BOP system which was to be conducted 
+with the Yellow Pod.  The Subsea Engineer switched to the Yellow Pod while the rig crew was preparing to 
+run the test plug.  Just prior to running the test plug into the riser that it became apparent that the fluid level 
+had  fallen  significantly  in  the  riser.    The  ROV  was  run  to  bottom  and  it  was  verified  that  the  wellhead 
+connector  had  unlocked  and  the  BOP  had  lifted  approximately  3”.    The  Subsea  Engineer  noted  that  all 
+indicators  on  the  Yellow  Pod  circuit  showed  the  connector  to  be  locked.    The  Subsea  Engineer  switched 
+back to Blue and it was observed that the connector immediately attempted to go to lock position.  The well 
+was brought under control and the rig proceeded to clean up the fluid in the riser and well.  The responding 
+team’s investigation surmised that there were crossed hoses on the wellhead connector Yellow Pod circuit.  
+To temporarily correct the operation of the wellhead connector, the pilot lines at the hose reels were switched 
+and  the  proper  operation  of  the  connector  confirmed  on  the  Yellow  Pod  circuit.    The  seriousness  of  this 
+incident cannot be understated.  A major environmental incident was barely averted. 
+ 
+Why did this occur? 
+ 
+1.  Hoses were not installed properly and the work was not checked by a competent person on completion. 
+2.  The company Function Test Checklist Procedures failed to detect the improper operation prior to running 
+
+the BOP. 
+
+The Corrective Actions stated in this alert are one company’s attempts to address the incident,  
+
+and do not necessarily reflect the position of IADC or the IADC HSE Committee. 
+
+This material is presented for information purposes only.  Managers & Supervisors should 
+
+evaluate this information to determine if it can be applied to their own situations and practices 
+
+Copyright © 2005 International Association of Drilling Contractors All rights reserved. 
+
+Issued May 2005 
+
+Safety Alert 
+
+        From the International Association of Drilling Contractors 
+
+ 
+3.  A further opportunity to detect improper operation of the connector was missed during the landing and 
+
+latch up operations. 
+
+ 
+CORRECTIVE ACTIONS:  To address this incident, this company issued the following: 
+ 
+Directives 
+ 
+1.  Where  the  control  circuits  on  the  wellhead  or  LMRP  connector  are  disturbed  for  whatever  reason,  the 
+Senior Subsea Engineer or a Subsea Supervisor (if present) will personally verify and document that the 
+circuits are reinstated correctly. 
+
+2.  The  Senior  Subsea  Engineer  onboard  or  a  Subsea  Supervisor  (if  onboard)  will  personally  observe, 
+verify, and document the function tests performed prior to running the BOPs.  The Function Test Check 
+List will be used during the tests. Competent personnel will assist the Subsea Engineer by operating the 
+control system from a control station selected by the Subsea Engineer.  A pre-job meeting will be held 
+where  all  Safety,  Operations,  and  Communications  details  are  agreed  upon  prior  to  commencing  the 
+operation.  A JSA must be completed prior to commencement. It is the responsibility of the OIM to insure 
+that competent personnel are made available to assist the Subsea Engineer during this process.  
+
+3.  Over pull and pressure testing: 
+
+a)  Upon  initial  landing  of  the  BOP  upon  the  wellhead,  visual  confirmation  via  ROV  or  Rig  TV  of  the 
+
+wellhead being latched with the initial Pod selected will be verified by the OIM. 
+
+b)  An over pull of at least 50,000 lbs. above landing weight will be conducted and verified by the OIM 
+
+with the initial Pod selected. 
+
+c)  Upon  satisfactory  completion  of  the  first  over  pull  the  opposite  Pod  will  be  selected,  with  visual 
+confirmation that the connector remains latched after selection is complete.  A second over pull of at 
+least 50,000 lbs. above landing weight will be conducted and verified by the OIM. 
+
+d)  Pressure  testing  of  the  wellhead  connector  seal  of  at  least  500  psi  will  also  be  conducted  initially 
+using  both  Pods.  One  test  on  the  standby  Pod  is  sufficient.  These  pressure  tests  must  be  done 
+before any well operations are conducted that could expose any formation to the BOPs. 
+
+ 
+Action Item – All Semi-submersibles 
+ 
+1.  Changes to the individual rig’s BOP stack function test checklist and running procedures must be made 
+to include the above directives immediately.  Once completed, forward the procedures to the assigned 
+Subsea Supervisor for review and approval.   
+
+ 
+2.  These corrective  actions  are  effective  immediately  upon  receipt  of  this  alert  on  a  fleet  wide basis.  Any 
+
+deviation requires a Management of Change (MOC) approved at the Vice President level. 
+
+The Corrective Actions stated in this alert are one company’s attempts to address the incident,  
+
+and do not necessarily reflect the position of IADC or the IADC HSE Committee. 
+
+This material is presented for information purposes only.  Managers & Supervisors should 
+
+evaluate this information to determine if it can be applied to their own situations and practices 
+
+Copyright © 2005 International Association of Drilling Contractors All rights reserved. 
+
+Issued May 2005 
+
+

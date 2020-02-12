@@ -1,0 +1,68 @@
+ 
+ 
+ 
+ 
+ 
+ 
+September 1, 2011                                                                                                                 Alert 04-11 
+Washington, DC        
+                          
+
+MARINER’S SAFETY ENDANGERED 
+
+ WHEN VHF RADIO DISTRESS ALERTS BY DIGITAL SELECTIVE CALLING (DSC) 
+
+LACK LOCATION AND IDENTIFICATION INFORMATION 
+
+ 
+As  the  Coast  Guard’s  new  marine  radio  network  Rescue  21  becomes  operational  throughout  the 
+U.S., rescue centers can now receive instant distress alerts from commonly used DSC-capable VHF 
+marine  radios.    However,  approximately  90%  of  VHF  DSC  distress  alerts  received  by  the  Coast 
+Guard  do  not  contain  position  information,  and  approximately  60%  do  not  contain  a  registered 
+identity.   The Coast Guard cannot effectively respond to a DSC distress alert sent from such a radio.   
+ 
+ 
+This means that search and rescue efforts may normally be suspended when:   
+ 
+
+•  no communications with the distressed vessel can be established,  
+•  no further information or means of contacting the vessel can be obtained from other sources, 
+
+and  
+
+. 
+
+•  no position information is known.   
+
+HELP US  HELP YOU 
+
+ 
+FIRST  Obtain  a  Maritime  Mobile  Installation  Identity  (MMSI)  and  enter  it  into  your  radio.  MMSI 
+numbers are issued by the Federal Communications Commission if your vessel otherwise requires a 
+station license, or BOATUS, (http://www.boatus.com/mmsi), Sea Tow (http://www.seatow.com/mmsi), 
+or  the  U.S.  Power  Squadrons  (http://www.usps.org/php/mmsi).    Ensure  any  information  originally 
+provided  is  updated  as  changes  occur.  FCC  regulations  require  that  DSC-equipped  radios  “use 
+MMSIs assigned by the Commission or its designees” (47 CFR 80.103(b)).   
+ 
+THEN Interconnect your radio to a GPS receiver using a two-wire NMEA 0183 interface on all DSC-
+equipped marine radios and on most GPS receivers.  Instructions should be provided in the radio and 
+GPS  operators  manual.    Further  information  is  provided  and  will  be  routinely  updated  in 
+http://www.navcen.uscg.gov/?pageName=mtDsc.   
+ 
+Developed by the Spectrum Management and Telecommunications Policy Division (CG-652), United 
+States  Coast  Guard  Headquarters,  Washington,  DC.  Questions  should  be  directed  to  Mr.  Russell 
+Levin at (202) 475 3555 or Russell.S.Levin@uscg.mil. 
+ 
+ 
+
+Office of Investigations and Analysis: http://marineinvestigations.us 
+To subscribe: Kenneth.W.Olsen@uscg.mil 
+
+******* 
+
+ 
+
+ 
+ 
+
+

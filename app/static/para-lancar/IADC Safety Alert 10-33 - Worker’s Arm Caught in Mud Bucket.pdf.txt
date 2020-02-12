@@ -1,0 +1,76 @@
+Safety Alert 
+
+        From the International Association of Drilling Contractors 
+
+ 
+ALERT 10 – 33 
+
+WORKER’S ARM CAUGHT IN MUD BUCKET 
+
+ 
+
+ 
+WHAT HAPPENED: 
+ 
+The air slips were changed out because they were not setting properly.  In order to pull the slips away from 
+the rotary table, the air line from the mud bucket was removed and fitted to the rig floor winch.  (The sole 
+purpose of that particular air winch is for use with the air slips.)  When the crew removed the air hose from 
+the  mud  bucket  and  connected  it  to  the  air  winch,  they  operated  the  control  valves  on  the  mud  bucket  to 
+bleed  off  the  residual  pressure  in  the  air  line.    The  driller  was  setting  down  the  weight  of  the  drill  string, 
+getting  ready  to  back  out  a  stand  of  drill  pipe  when  he  observed  a  rig  floor  worker  (Injured  Person  [IP]) 
+holding a dope brush with his hand inside the mud bucket.  The driller shouted a warning and at the same 
+time the mud bucket closed, trapping the man’s arm as the air supply to the bucket was turned back on.   
+ 
+
+WHAT CAUSED IT: 
+ 
+  The other crew members did not know that the IP was in the front of the mud bucket with his hand inside 
+
+to dope the mud bucket seals.  
+
+  The mud bucket closing speed is approximately 3 seconds. 
+  The design of air hose arrangement was inadequate. 
+  There was poor communication between the IP and the man reintroducing air supply to the mud bucket. 
+ 
+
+Inadequate instruction had been given to the crew personnel on how to isolate and de-isolate the mud 
+bucket 
+
+ 
+CORRECTIVE ACTIONS:  To address this incident, this company did the following: 
+ 
+  The company conducted retraining with all rig crews on the safe use of the mud bucket. 
+  Corrected the connection / disconnection of air supply to be highlighted with all crews. 
+  Warning chevrons were painted on the front of mud bucket at the opening 
+ 
+  Modified the controls of the mud bucket so that two valves have to be operated simultaneously in order 
+
+Installed an independent air supply for the air winch. 
+
+to close the mud bucket. 
+
+ 
+
+ 
+
+Demonstration of IP Hand inside the Mud Bucket 
+
+Mud Bucket Control 
+
+ 
+
+ 
+
+The Corrective Actions stated in this alert are one company’s attempts to address the incident,  
+
+and do not necessarily reflect the position of IADC or the IADC HSE Committee. 
+
+This material is presented for information purposes only.  Managers & Supervisors should 
+
+evaluate this information to determine if it can be applied to their own situations and practices 
+
+Copyright  2005 International Association of Drilling Contractors All rights reserved. 
+
+Issued December 2010 
+
+

@@ -1,0 +1,72 @@
+Safety Alert 
+
+        From the International Association of Drilling Contractors 
+
+ 
+ALERT 13 – 27 
+ 
+
+PIPE DROPPED FROM SIDE DOOR ELEVATOR 
+
+ 
+WHAT HAPPENED: 
+ 
+While pulling and laying down 4 1/2" (11cm) tubulars, a crew member closed and secured the elevators with 
+the verification pin and the Driller hoisted the tubing up to the next connection to be broken.  Once the 
+connection was landed in the slips, the tongs were engaged and the connection was backed out.  A crew 
+member grabbed the tubing and began to guide it to the lay-down machine.  He was in the process of asking 
+the Driller to hoist the tubing up when it fell down to the stabbing mat and came to rest against the rig floor.  
+The rig crew members observed that the elevator was open with the verification pin still in the hole in which it 
+had been placed. 
+ 
+
+ 
+
+ 
+
+WHAT CAUSED IT: 
+
+ 
+
+•  Workers were able to install the verification pin even though the elevator was not fully latched.  
+•  The latch on the elevator was either not fully engaged prior to hoisting the tubing or it came open under 
+
+load during the hoisting operation.  
+
+•  A non-OEM modification had been previously made to the elevator. 
+ 
+
+CORRECTIVE ACTIONS:  To address this incident, this company did the following: 
+ 
+•  Company management reminded all employees that operating manuals for equipment are available.  
+
+Supplier provided training is also available and should be utilized to increase crew member awareness 
+when operating manual elevators that they are properly latched and secure prior to hoisting.  
+
+•  The company agreed to prepare safety alerts to communicate this incident with all parties involved on a 
+
+global basis.  
+
+•  The company required all rig managers to review all side door and single joint elevators in their inventory 
+
+for proper installation and functioning of the safety latch verification pin. 
+
+ 
+Note:  Reference IADC Safety Alerts 09-15, 08-41, 06-06, and 04-28 for additional information. 
+ 
+ 
+Credit to: Enform – Safety Alert: # 04-2013 
+
+The Corrective Actions stated in this alert are one company’s attempts to address the incident,  
+
+and do not necessarily reflect the position of IADC or the IADC HSE Committee. 
+
+This material is presented for information purposes only.  Managers & Supervisors should 
+
+evaluate this information to determine if it can be applied to their own situations and practices 
+
+Copyright  2013 International Association of Drilling Contractors All rights reserved. 
+
+Issued November 2013 
+
+

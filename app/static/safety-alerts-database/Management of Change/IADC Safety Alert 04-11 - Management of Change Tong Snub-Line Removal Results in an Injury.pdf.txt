@@ -1,0 +1,110 @@
+Safety Alert 
+
+From the International Association of Drilling Contractors 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ALERT 04 – 11  
+
+WHAT HAPPENED: 
+
+WHAT CAUSED IT: 
+
+MANAGEMENT OF CHANGE TONG SNUB-LINE  
+
+REMOVAL RESULTS IN AN INJURY 
+
+The  Drill  crew  was  preparing  to  test  BOP  and  the  Driller  instructed  the  crew  that  he  was  going  to  make  up  the  TDS  and 
+would require back-up tongs on the drill pipe.  The tongs were placed on the pipe and the TDS spin function engaged to 
+make up the connection.  As the connection neared complete make-up, the tongs spun around with no snub-line attached 
+and the tong operator was caught between the breakout line and the drill pipe.  The employee received minor injuries, but 
+the potential for catastrophic injury was high.  
+
+Casing  had  been  run  several  days  prior  to  the  incident  and  when  the  casing  equipment  was  rigged  down  from  the  drill 
+floor.    The  snub-line  that  was  attached  to  the  casing  tong  was  removed  but  not  immediately  re-secured  to  the  back-up 
+tong.    In  addition  there  were  deficiencies  in  the  proper  application  of  Competency  and  Short  Service  Employee 
+identification  on  the  crew.    The  Pre-Job  meeting  did  not  include  discussion  of  hazards  or  safety  and  did  not  adequately 
+define crewmembers’ responsibilities.  Proper rig-up of the drill floor was not confirmed.  Tongs were not inspected prior to 
+latching to pipe.  Tong operator mistook the 5/8” breakout line for the 1” snub-line.  The stanchion is designed for 2 snub-
+lines, however only 1 snub-line was attached to it.  Using a single snub-line for different tongs (casing, drill pipe) 
+
+CORRECTIVE ACTIONS:  To address this incident, this company did the following: 
+
+Issued the following Directives:  
+
+•  When an  employee is promoted to a new  position he  will  be designated  a Short Service Employee, and  will  wear a 
+
+Green Hardhat during his orientation period.  
+
+•  Rig-Based new hires and all rig based employees being promoted to a new position must complete within 6-months 
+the respective Competency HSE and Position Form with their first line supervisor.  This training must start immediately 
+once the new hire arrives onboard, or once the employee is promoted to a new position.  
+First  Line  Supervisors  are  responsible  for  accurate  verification  of  the  knowledge,  skills,  and  abilities  of  their 
+crewmembers  as  per  company  policy.    Therefore,  Supervisors  working  with  a  new  crew  must  take  extra  care  to 
+ensure each member understands their responsibilities, hazards and safety precautions. 
+
+• 
+
+•  Pre-job  meetings  must  not  only  consist  of  Operations,  but  must  also  consist  of  communicating  safety  related 
+
+information to all personnel involved in the task, including hazard identification and safety precautions.  
+
+•  Ensure snub-line shackles are moused; this includes both the tong and stanchion ends.  
+• 
+
+3” x 2” safety tong decals are available through your Safety Supervisor.  Obtain similar products locally or contact the 
+company HSE department for assistance a. Correct Hand Placement;  b. Check Snub-Line;  c. Watch Pinch Points  
+
+Action Items  
+
+•  Add second snub-line to stanchion to be used as needed for auxiliary tongs.  The initial snub-line will be designated for 
+rig tongs and not for running casing or auxiliary tongs.  It must not be removed from the drill pipe tongs unless replacing 
+or  inspecting  snub-line.    If  stanchion  is  not  designed  for  multiple  attachments,  Company  Technical  Services  must  be 
+notified.  
+
+•  All  Supervisors  are  to  review  company  policy  on  Rig  Induction/Safety  Buddy  and  Hardhat  Program  with  all  crew 
+personnel at the next General Safety Meeting and ensure  Supervisors and employees understand their responsibility 
+regarding this policy.  
+The  Training  Department  will  revise  World  Wide  Competency  Training  to  clarify  that  competency  training  must  start 
+immediately once the new hire arrives aboard the facility, or once the employee is promoted to a new position.   
+The company Training Department  will revise Roustabout I Competency  Training to include certain safety critical drill 
+floor operations for Roustabout I position. 
+
+• 
+
+• 
+
+The Corrective Actions stated in this alert are one company’s attempts to address the incident, and do not 
+
+necessarily reflect the position of IADC or the IADC HSE Committee. 
+
+This material is presented for information purposes only.  Managers & Supervisors should  
+
+evaluate this information to determine if it can be applied to their own situations and practices. 
+
+Copyright © 2004 International Association of Drilling Contractors.  All Rights Reserved 
+
+Issued March 2004 
+
+

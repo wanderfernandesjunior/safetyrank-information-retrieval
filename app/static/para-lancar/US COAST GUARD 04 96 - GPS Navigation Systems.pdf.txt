@@ -1,0 +1,65 @@
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+June 3, 1996 (reformatted 2014) 
+Washington, DC 
+
+         Inspections and Compliance Directorate 
+
+GPS NAVIGATION SYSTEM USE 
+
+      Safety Alert 04-96 
+ 
+
+On October 22, 1995 a 35' vessel owned by the State of Maine and operated by a seasoned captain ran 
+aground and sank on Seal Ledge in Penobscot Bay near Vinalhaven Island. The incident occurred at night 
+in clear visibility in moderate sea and wind conditions. The three people onboard were able to successfully 
+abandon the vessel and were rescued without injury after approximately one hour. During an investigation 
+of the incident conducted by the U.S. Coast Guard it was  determined  that the operator of the  vessel was 
+navigating with a recently installed GPS system. The operator was utilizing the GPS unit's "course to steer" 
+function along a set of waypoints previously entered into the GPS system.  
+ 
+The  waypoints  in  use  had  previously  been  entered  by  the  operator  through  a  practice  known  as  relative 
+navigation,  which  involves  observing  a  position  with  an  electronic  navigation  system  and  entering  that 
+position  as  a  waypoint.  On  future  voyages  the  vessel  is  navigated  to  that  previously  observed  waypoint 
+utilizing  that  electronic  navigation  system.  At  the  time  the  waypoints  were  observed,  the  operator  of  the 
+vessel had unknowingly observed and entered an erroneous position recorded at that moment by the GPS 
+system. When attempting to return to that position, the GPS unit calculated the entered position correctly, 
+and  the  "course  to  steer"  function  took  the  vessel  across  a  submerged  ledge.  Had  the  waypoints  in  use 
+been plotted on a chart prior to the voyage the GPS system error would have been discovered by the vessel 
+operator.  
+ 
+Navigators of vessels equipped with GPS units are advised that the current system accuracies for GPS 
+units are approximately 328 feet (100 meters) when attempting to navigate to a known geographic point 
+(latitude  and  longitude  calculated  from  a  nautical  chart)  and  approximately  463  feet  (141  meters)when 
+attempting  to  return  to  a  position  previously  observed  with  a  GPS  unit.  These  distances  are  95% 
+accuracies, meaning that 95% of received position fixes will fall within 100 meters of calculated geographic 
+points (specific navigation), and within 141 meters of observed geographic points (relative navigation). More 
+accurate position fixes may be obtained but mariners should allow for the 95% accuracy values. Mariners 
+familiar with Loran-C navigation systems are specifically cautioned that the Loran-C system provides slightly 
+better  repeatable  accuracies  when  utilizing  relative  navigation  practices.  Care  should  be  taken  when 
+switching to GPS units to insure that appropriate system accuracies are compensated for. All mariners are 
+advised that when operating in the vicinity of navigational hazards vessels must be navigated with regard 
+for the vessels position in relation to the hazard. Any electronic navigation system including GPS, may be 
+subject to occasional errors in excess of designed system accuracies and should not be solely relied upon 
+to determine a vessel's position.  
+ 
+The U.S. Coast Guard advises against the use of relative navigation practices in the vicinity of navigational 
+hazards. The recommended methods for calculating voyage waypoints is to calculate the positions directly 
+from a nautical chart.  
+ 
+For additional information of electronic navigation systems contact the U.S. Coast Guard, Portland Marine 
+Safety  Office  Prevention  Department  at  (207)  780-3251  extension  173.  For  information  on  navigation 
+courses  offered  by  the  U.S.  Coast  Guard  Auxiliary  in  your  area  call  1-800-336-BOAT.  This  safety  alert  is 
+provided  for  informational  purpose  only  and  does  not  relieve  any  domestic  or  international  safety, 
+operational or material requirement. Developed  by the  Office of Investigations and Casualty Analysis. For 
+questions or concerns please email hqs-pf-fldr-cg-inv@uscg.mil. 
+
+1 
+
+

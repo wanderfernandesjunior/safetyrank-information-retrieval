@@ -1,0 +1,69 @@
+Safety Alert 
+
+From the International Association of Drilling Contractors 
+
+ALERT 04 – 27 
+ 
+
+DROPPED OBJECT – AIR TUGGER HOOK 
+
+ 
+WHAT HAPPENED: 
+ 
+The hook from the tubular pull back tugger in the derrick fell to the drill floor while tripping out of the hole.  The 
+tugger hook was of a design with a clevis pin through the hook attachment eyes held in place by a cotter pin.  
+The cotter pin had been installed prior to the start of the trip out of the hole.  It is assumed that the pin was 
+defective and came away; allowing the clevis pin to back out of the chain loops and allowing the tugger hook 
+to  fall  to  the  drill  floor.    The  weight  of  the  hook  was  approximately  7ozs  (210gms)  and  fell  from  a  height  of 
+approximately 90 feet (28m). 
+ 
+WHAT CAUSED IT: 
+ 
+1.  Design of the hook attachment eyes requiring use of the clevis pin secured by a cotter pin. 
+2.  Visual inspection only conducted prior to use – not physical inspection. 
+ 
+CORRECTIVE ACTIONS:  To address this incident, this company did the following: 
+ 
+1.  Replaced hook arrangement with new design featuring improved safety features. (see photos).  New 
+
+design has clevis pin through the hook attachment eyes.  The securing roll pin can only be inserted from 
+one side and has no external surfaces exposed to possible interference.  Removal of the attachment pin 
+can only be achieved by first driving out the roll pin and then driving out the clevis pin. 
+
+2.  Update JSA to include physical inspection of equipment prior to use. 
+ 
+Old Style Hook: 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+New Style Hook to be used:   
+
+ 
+
+ 
+
+The Corrective Actions stated in this alert are one company’s attempts to address the incident, and do not 
+
+necessarily reflect the position of IADC or the IADC HSE Committee. 
+
+This material is presented for information purposes only.  Managers & Supervisors should  
+
+evaluate this information to determine if it can be applied to their own situations and practices. 
+
+Copyright © 2004 International Association of Drilling Contractors.  All Rights Reserved 
+
+Issued June 2004 
+
+ 
+
+ 
+
+

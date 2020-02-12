@@ -1,0 +1,67 @@
+AB
+
+ 
+
+IMCA Safety Flash 12/06 
+
+Safety Flash 
+
+October 2006 
+
+These  flashes  summarise  key  safety  matters  and  incidents,  allowing  wider  dissemination  of  lessons  learned  from  them.    The  information  below  has  been 
+provided in good faith by members and should be reviewed individually by recipients, who will determine its relevance to their own operations. 
+
+The effectiveness of the IMCA safety flash system depends on receiving reports from members in order to pass on information and avoid repeat incidents.  
+Please consider adding the IMCA secretariat (imca@imca-int.com) to your internal distribution list for safety alerts and/or manually submitting information 
+on specific incidents you consider may be relevant.  All information will be anonymised or sanitised, as appropriate. 
+
+A  number  of  other  organisations  issue  safety  flashes  and  similar  documents  which  may  be  of  interest  to  IMCA  members.    Where  these  are  particularly 
+relevant, these may be summarised or highlighted here.  Links to known relevant websites are provided at www.imca-int.com/links   Additional links should 
+be submitted to webmaster@imca-int.com 
+
+ 
+
+1  Wire Break in Wind Sensor Caused DP Drive-Off 
+
+A member has reported an incident in which one of its vessels suffered a DP drive-off during valve monitoring operations in 
+open water.  The wind was light – 5-10 knots – and there was good visibility.  The vessel was on DP, with 2 x DGPS, 2 x taut 
+wires and two wind sensors selected in the system.  An ROV was in the water and the diving bell was on the surface with 
+diving operations completed.  
+
+The  DP  operators  noticed  an  increase  in  the  thruster  pitch  followed  by  an  ‘off  position’  warning,  whereupon  both  DGPS 
+were deselected.  The operators then noticed that one wind sensor was reading 60 knots – clearly an error – while the wind 
+speed registered on the DP console was 35 knots as an average of the two sensor speeds. 
+
+The errant wind sensor was deselected immediately and the vessel position then stabilised at 17m from the original set-point.  
+
+The following points were noted on completion of the investigation:  
+
+  The cabling for the failed wind sensor had been routed through a junction box which had suffered water ingress due to a 
+
+failed seal, effectively leading to a wire break; 
+
+  Tests showed that the errant wind sensor failed to zero or failed to maximum (60 knots) dependent upon where the 
+
+wire was broken.  The other wind sensors were wired differently and failed to zero at all times; 
+
+  One wind sensor had been deselected automatically as a function of the DP software, as it was registering less than 5 
+
+knots.  Had three sensors been in the system, the DP would have rejected the errant signal; 
+
+  There was no alarm for the operators and the location of the manual readouts was poor in relation to line of sight for 
+
+the DP operators; 
+
+  This particular failure mode of the sensors was not covered by the failure modes, effects and criticality analysis (FMECA). 
+
+The company concerned took the following actions: 
+
+  Changes to wiring of errant sensor (a filter) to prevent recurrence of ‘failure to maximum’; 
+
+  DP software upgrade to include a discrepancy alarm; 
+
+  Wire break tests conducted throughout the company’s fleet to see if the problem exists elsewhere. 
+
+The potential for a serious accident has led to this DP incident being distributed as a safety flash. 
+
+

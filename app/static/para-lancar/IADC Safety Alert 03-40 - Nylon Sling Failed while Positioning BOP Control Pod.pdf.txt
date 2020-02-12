@@ -1,0 +1,73 @@
+Safety Alert 
+
+From the International Association of Drilling Contractors 
+
+ 
+
+ 
+ 
+ALERT 03 – 40 
+ 
+
+NYLON SLING FAILED WHILE POSITIONING BOP CONTROL POD 
+
+ 
+WHAT HAPPENED: 
+ 
+A crew was moving the BOP control POD from the bow to the aft of the moon pool in order to place it on the 
+POD  stand.  The  POD  was  lifted  with  one  winch  line  with  a  sheave  anchored  directly  above  the  POD.  The 
+weight was then transferred from that winch line to another winch line.  The second winch line was lowered 
+through the rig floor.  During this procedure the utility winch in the moon pool was being utilized with a nylon 
+strap choked to the POD arm so the POD could be pulled into position and lowered onto the POD stand.  The 
+nylon strap broke which allowed the POD to rotate and strike an employee. 
+ 
+WHAT CAUSED IT: 
+ 
+1.  The employee positioned himself in a hazardous  area between the POD and the handrail protecting the 
+
+2.  The 3’ x 1” nylon strap came into contact with the sharp beveled edge on the guide funnel of the POD arm, 
+
+moon pool. 
+
+which cut the nylon strap. 
+
+3.  The 3’ x 1” nylon strap was in a choker configuration and rated for 2,500 lbs.  This strap was used to pull 
+the POD approximately 8’ from center, which could have exceeded the Safe Working Load (SWL) of the 
+strap. 
+
+4.  JSA  for  this  task  was  reviewed,  however  no  mention  was  made  of  body  placement,  or  utilizing  a  nylon 
+
+strap. 
+
+ 
+
+ 
+CORRECTIVE ACTIONS:  To address this incident, this company issued the following directive to rig 
+personnel: 
+ 
+•  Proper body and hand placement cannot be stressed enough, and the JSA must be clear on hazardous 
+areas and safe zones. Ensure that all JSAs identify these areas, and that these areas are discussed and 
+clearly understood prior to the start of any task. 
+
+•  Ensure  the  JSA  matches  the  task.  Each  step  and  all  equipment  used  must  be  analyzed  to  ensure  the 
+
+hazards are identified and safety measures are in place to eliminate those hazards. 
+
+•  When using a nylon strap, ensure the strap cannot come into contact with a sharp object. 
+•  When applying horizontal or diagonal pulls, wire rope shall be used, and the SWL of the wire rope must 
+
+exceed the rating of the winch. 
+
+The Corrective Actions stated in this alert are one company’s attempts to address the incident, and do not 
+
+necessarily reflect the position of IADC or the IADC HSE Committee. 
+
+This material is presented for information purposes only.  Managers & Supervisors should  
+
+evaluate this information to determine if it can be applied to their own situations and practices. 
+
+Copyright © 2003 International Association of Drilling Contractors.  All Rights Reserved 
+
+Issued October 2003 
+
+

@@ -1,0 +1,196 @@
+Safety Alert 
+
+        From the International Association of Drilling Contractors 
+
+ 
+ALERT 09 – 14  
+ 
+
+HELICOPTER OPERATIONS – GROUND RESONANCE PHENOMENA 
+
+ 
+
+WHAT HAPPENED: 
+ 
+A  helicopter  on  a  routine  crew  change  flight  to  a  MODU  landed  on  the  helideck.  The  pilot  and  the  HLO 
+(Helicopter Landing Officer) gave each other the “thumbs up” signal indicating that it was safe for the HLO 
+and his crew to carry on with their duties.   
+ 
+The HLO & his two Helideck Assistants (HA) approached the chopper  The HLO exchanged manifests with 
+the pilot passing it through the cockpit door window, the HLO then opened the forward main passenger door 
+and passed the pilot some food for the return trip.  At this time the HAs were unloading the luggage from the 
+helicopter side locker which is located on the starboard aft side of the aircraft.  
+ 
+At this point the pilot started to wave at the HLO with both hands as if to tell him to back off from the aircraft, 
+Realizing that there was something wrong, the HLO shouted and beckoned for his men to back off from the 
+aircraft and retreat to a safe location.  The HLO retreated but had not cleared the helideck, one HA managed 
+to clear the helideck but the second HA, who was unloading the luggage from the aircraft, first secured and 
+locked the luggage compartment, then he turned to leave the aircraft as it started to lift off from the rig.  It 
+lifted approx two metres (two and half feet) and then turned counter clockwise towards him.  He stated at that 
+time that he was about three metres (ten feet) from the chopper and that when he saw the tail of the chopper 
+coming towards him he crouched down and rolled away from the aircraft.  He then made his way to a safe 
+and clear area at the main access and egress point to the helideck.  He suffered no injury to himself although 
+he and the other HA were extremely shook up. 
+ 
+When the pilot had landed the chopper for the second time the HLO informed him that he should not have 
+lifted off until the all clear was given from the HLO, thereby letting him know that he and his assistants were 
+clear and safe; and that it was safe to take off.  The HLO stated that the pilot gave no reason for his actions. 
+He reaffirmed that the radio communication with pilot was operational but no messages were relayed to him.  
+ 
+
+WHAT CAUSED IT: 
+ 
+The cause of this incident was an unusual condition 
+called  ground  resonance.    When  the  aircraft  landed 
+one of its skids rested on one of the helicopter lash 
+down  points  on  the  helideck.    Resulting  in  the 
+helicopter  laying  at  a  slight  angle  which  was  the 
+precursor  to  a  problem  which  causes  and  aircraft 
+rotor to oscillate.  Had this been allowed to continue 
+there  was  a  risk  of  the  aircraft  flipping  over  on  the 
+deck 
+ 
+
+ 
+
+CORRECTIVE ACTIONS:  To address this incident, these companies did the following: 
+ 
+The actions of the pilot and helideck crew averted a major accident.  By lifting off the pilot was able to allow 
+the aircraft to stabilize.  As a result of the incident the following actions were agreed to by the MODU owner 
+and the helicopter company.   
+ 
+ 
+ 
+ 
+
+The Corrective Actions stated in this alert are one company’s attempts to address the incident,  
+
+and do not necessarily reflect the position of IADC or the IADC HSE Committee. 
+
+This material is presented for information purposes only.  Managers & Supervisors should 
+
+evaluate this information to determine if it can be applied to their own situations and practices 
+
+Copyright  2005 International Association of Drilling Contractors All rights reserved. 
+
+Issued May 2009 
+
+Safety Alert 
+
+        From the International Association of Drilling Contractors 
+
+ 
+ 
+Immediate 
+ 
+1. 
+2.  HLO's were instructed that they are not to provide waiter service to flights. As the supervisor he must 
+
+Issue a Safety Alert to the industry on the subject of Ground Resonance. 
+
+not be given any distraction.  Food can be passed by an HA when safe to do so. 
+
+1.  Added a procedure to the HLO instructions that prior to physical contact with the Helicopter, the HLO will 
+visually  observe  under  it  from  a  safe  distance  and  assess  the  skid  location  of  the  helicopter.    If  it  is 
+resting on a raised tie down bracket, the pilot will be notified by radio and will lift off and manoeuvre off to 
+a safe set down point or will confirm he intends to shutdown the engines on the aircraft. 
+
+2.  All helideck crew members are to be provided with “listen in” only head sets or the HLO is to ensure all 
+crew  have  heard  and  understood  the  emergency  clear  request;  and  that  all  are  accounted  for  off  the 
+helideck. 
+
+3.  The  tie  down  brackets  are  to  be  painted  (if  permitted)  and  in  accordance  with  correct  regulations  to 
+
+identify the bracket positions to assist in recommendation “1” above. 
+
+ 
+Short Term 
+
+ 
+
+ 
+
+ 
+Long Term 
+
+1.  Number  of  helideck  brackets  is  to  be  reduced  by  removal  and  fitting  of  blanking  plates  to  only  those 
+
+2.  Check what coverage is given in training on aircraft with skids on purely metal decks and also Ground 
+
+required for specific operating aircraft.  
+
+Resonance actions. 
+
+ 
+Ground  Resonance  is  a  phenomenon  that  has  damaged  or  destroyed  helicopters  and  killed  pilots, 
+passengers,  and  bystanders.  The  US  National  Transportation  Safety  Board  records  34  incidents  in  the 
+United States since 1990, not including military helicopters or incidents that did not injure people or destroy 
+the helicopter. 
+ 
+Not  all  types of  helicopters  are susceptible  to  ground  resonance.    Some  two-blade  helicopters  are  exempt 
+because their “teetering” rotors are a single rigid structure, like a see-saw.  The only rotors that can produce 
+ground resonance are those with three or more blades.  Multi-blade rotors have lead-lag hinges, which allow 
+blades to speed up and slow down at different points as they circle the mast while the helicopter is moving 
+forward.  The hinges keep the fluctuating lift and drag forces on each blade from inflicting excessive stresses 
+on the rotor hub. Snubbers and dampers limit the motions of the blades. 
+ 
+Because it is massive and spinning at a high speed, the rotor of a helicopter must be properly balanced.  If 
+the  lead-lag  hinges  allow  the  blades  to  depart  from  perfect  symmetry,  the  rotor’s  center  of  gravity  shifts 
+slightly to one side of the mast, throwing the system out of balance. 
+ 
+Anything that is springy has a favorite frequency of vibration—its natural frequency—which is determined in 
+part by its size and mass.  That is why tuning forks always produce a certain tone, and why boats of different 
+sizes rock at different rates.  When two things with the same or similar natural frequencies are in contact, or 
+sometimes even merely close to each another, and one of them begins to vibrate, it may “excite” the other to 
+vibrate  as  well.    The  ability  of  one  vibrating  object  to  create  this  sympathetic  vibration  in  another  is  what 
+enables the rotor blades to gain control of the entire helicopter. 
+ 
+The  helicopter’s  airframe  has  its  own  natural  frequency,  which  can  be  excited  by  an  out-of-balance  rotor.  
+Usually there is a triggering event: a bump or a landing or takeoff on sloping ground or with a little sideways 
+or  forward  motion.    A  jolt  moves  the  mast  while  the  blades,  because  of  the  freedom  of  motion  allowed  by 
+their hinges, lag a little behind.  The rotor, now slightly out of balance, begins to wobble like a slowing top.   
+
+The Corrective Actions stated in this alert are one company’s attempts to address the incident,  
+
+and do not necessarily reflect the position of IADC or the IADC HSE Committee. 
+
+This material is presented for information purposes only.  Managers & Supervisors should 
+
+evaluate this information to determine if it can be applied to their own situations and practices 
+
+Copyright  2005 International Association of Drilling Contractors All rights reserved. 
+
+Issued May 2009 
+
+Safety Alert 
+
+        From the International Association of Drilling Contractors 
+
+ 
+If the characteristic vibration frequency of the airframe is close enough to the rate of rotation of the rotor, it 
+joins the dance, amplifying the rotor wobble. 
+ 
+The destruction is wrought by the considerable energy stored in the rotor blades.  The shaking rapidly grows 
+in violence, exceeding the strength of the mast, transmission mounts, and landing gear.  The cyclic control in 
+the  cockpit  flails  about  so  violently  that  the  pilot  cannot  hold  it,  the  rotor  blades  strike  the  tail  boom  or  the 
+cockpit, parts begin falling off, and moments later the helicopter may be destroyed. 
+ 
+If ground resonance begins, the pilot’s best option is to get the helicopter into the air.  Once the tires or skids 
+are no longer touching the ground, the vibration fades.  If the rotors do not have sufficient speed for flight the 
+next  best  remedy  is  to  eliminate  lift  by  reducing  blade  pitch;  shut  down  the  engine;  and  hope  for  the  best 
+while waiting for the rotor to slow. 
+ 
+
+The Corrective Actions stated in this alert are one company’s attempts to address the incident,  
+
+and do not necessarily reflect the position of IADC or the IADC HSE Committee. 
+
+This material is presented for information purposes only.  Managers & Supervisors should 
+
+evaluate this information to determine if it can be applied to their own situations and practices 
+
+Copyright  2005 International Association of Drilling Contractors All rights reserved. 
+
+Issued May 2009 
+
+

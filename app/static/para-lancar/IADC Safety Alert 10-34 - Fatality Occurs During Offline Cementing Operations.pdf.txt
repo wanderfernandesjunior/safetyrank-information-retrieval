@@ -1,0 +1,109 @@
+Safety Alert 
+
+        From the International Association of Drilling Contractors 
+
+ 
+ALERT 10 – 34  
+ 
+
+FATALITY OCCURS DURING OFFLINE CEMENTING OPERATIONS 
+
+ 
+
+WHAT HAPPENED: 
+ 
+The operation at the time of the incident was rigging down the cementing head and bonnet.  It is believed 
+that the crew started rigging down the ancillary parts of the cement head (hoses and a “T” piece) some hours 
+before the final rig down job commenced.  As part of  this preparatory work the lower valve on the cement 
+head was closed to prevent fluid leaking onto the deck after the return line was drained.  This valve remained 
+closed until the time of the incident.  During the time between the closure of the valve and the removal of the 
+cement bonnet, pressure continued to build up in the system due to the effects of thermal expansion from the 
+cement job.  The calculated pressure build up within the system was more than 140 psi.  Later the Well Head 
+Engineer (WHE) went to the dog house with the JSA (Job Safety Analysis) for the ‘Installation of the Xmas 
+Tree’  (which  followed  the  rigging  down  of  cement  head  activity).    The  WHE  discussed  the  JSA  with  the 
+Tourpusher, who told the WHE to wait until the cementing supervisor arrived, so that all parties were present 
+and the JSA could be conducted for all elements of the task, beginning with rigging the down of the cement 
+head. 
+
+ 
+While  waiting  for  the  cementing  supervisor,  the  WHE  met  with  the  Assistant  Driller  (AD),  who  was  the 
+supervisor  responsible  for  assisting  both  Service  Companies  with  the  manpower  and  lifting  capabilities  for 
+rigging down the cement head / bonnet and installation of Xmas tree.  They went through the WHE’s JSA 
+and  then  proceeded  to  the  production  deck  and  the  well  head  in  question.    Prior  to  the  arrival  of  the 
+cementing supervisor and prior to conducting the pre-job meeting, the locking nuts from the cement bonnet 
+were all released.  There was no check and the personnel did not recognize that it was under pressure.  As 
+the  last  locking  nut  was  loosened,  the  bonnet  and  cement  head  released  from  the  well  (pushed  upwards) 
+and  toppled  towards  the  AD,  pinning  him  between  the  annulus  valve  on  an  adjacent  well  and  the  cement 
+head.  The AD was severely injured and passed away shortly after. 
+ 
+
+WHAT CAUSED IT: 
+ 
+  The JSA was not conducted with all participants in the task. 
+  The valve was not opened to ensure there was no pressure on the cementing head. 
+  Pressure build up was not checked prior to removing the locking bolts.   
+  The WHE began the task after being told to wait until the cementing supervisor was on site.  
+ 
+
+CORRECTIVE ACTIONS:  To address this incident, this company did the following: 
+ 
+  No work shall start before all involved personnel are present and the pre-job is undertaken (incorporating 
+
+JSA / TBRA (Task Based Risk Assessment) and detailed job instruction). 
+
+  Complex tasks that involve multiple parties need to be properly planned and systematically undertaken 
+
+  No  critical  task  process  shall  be  modified  without  the  Management  of  Change  process  being  followed 
+
+  Assume that equipment with a capacity to be under pressure or energized is in that state until you can 
+
+through the use of detailed work procedures.   
+
+and communicated to all affected personnel. 
+
+prove otherwise. 
+
+  Compliance with and effective use of the Pre-Job Meeting methodology and use of the 4-Point Check / 
+
+JSA / TBRA process is the duty of every individual and a condition of employment. 
+JSA’s are not a substitute for Detailed Instruction Guides; they are a supplement to the guides. 
+
+ 
+  Every Critical Task requires a Detailed Instruction procedure. 
+ 
+
+The Corrective Actions stated in this alert are one company’s attempts to address the incident,  
+
+and do not necessarily reflect the position of IADC or the IADC HSE Committee. 
+
+This material is presented for information purposes only.  Managers & Supervisors should 
+
+evaluate this information to determine if it can be applied to their own situations and practices 
+
+Copyright  2005 International Association of Drilling Contractors All rights reserved. 
+
+Issued December 2010 
+
+Safety Alert 
+
+        From the International Association of Drilling Contractors 
+
+ 
+
+ 
+ 
+ 
+
+The Corrective Actions stated in this alert are one company’s attempts to address the incident,  
+
+and do not necessarily reflect the position of IADC or the IADC HSE Committee. 
+
+This material is presented for information purposes only.  Managers & Supervisors should 
+
+evaluate this information to determine if it can be applied to their own situations and practices 
+
+Copyright  2005 International Association of Drilling Contractors All rights reserved. 
+
+Issued December 2010 
+
+

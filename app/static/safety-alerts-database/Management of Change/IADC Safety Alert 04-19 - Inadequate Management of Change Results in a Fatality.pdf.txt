@@ -1,0 +1,67 @@
+Safety Alert 
+
+From the International Association of Drilling Contractors 
+
+ 
+
+ 
+ 
+ALERT 04 – 19 
+ 
+
+INADEQUATE MANAGEMENT OF CHANGE 
+
+RESULTS IN A FATALITY 
+
+ 
+WHAT HAPPENED? 
+ 
+An  incident  occurred  when  a  45-foot  joint  of  5-inch  XL  liner  was  being  hoisted  into  the  V-Door.    The  rig 
+personnel were using a set of single joint elevators and the rig floor air hoist.  The joint of liner came free from 
+the  latched  elevators  allowing  it  to  slide  down  the  V-Door  towards  the  catwalk.    The  joint  of  casing  then 
+bounced  and  given  the  high  center  of  gravity  the  box  end  “rocked”  towards  the  rig  floor  where  it  struck  the 
+derrickman on the side of the head, resulting in a fatal blow.   
+ 
+WHAT CAUSED IT? 
+ 
+The Well Program kept changing, which resulted in an ineffective Management of Change (MOC) process and 
+there was failure by both the client and the contractor to effectively plan for these changes.  Because of the 
+ineffective  MOC  there  was  failure  to  check  technical  specifications  for  equipment  required  for  this  job.    The 
+operator was responsible for supplying all running tools up to 7” but when the tools and the third party casing 
+crew arrived at the rig site it was noted that there was no 5” single joint pick up elevators supplied. Although 
+this was the first occasion that this type of casing had been run by the rig the decision was taken jointly by the 
+Drilling  Foreman  and  the  Company  Man  to  utilize  the  Rig’s  own  elevators.  This  decision  was  not 
+communicated from the rig site to the Office based operations management. The rig’s elevators were dressed 
+with inserts for 5” drill pipe and no consideration was given to the comparative taper difference between drill 
+pipe and the casing to be run other than the elevators being tested on the casing by latching and unlatching 
+them.   
+ 
+There  was  no  discussion  of,  nor  reference  to,  determining  actual  engineering  specifications  of  compatibility 
+between the casing and the elevators to be used. The investigation identified other areas of non compliance 
+such  as  a  failure  to  comply  with  the  Company’s  Task  Risk  Mitigation  process,  inadequate  Job  Risk 
+Assessment and less than full participation in the Company’s Vocational Training Modules.  
+ 
+RECOMMENDATIONS 
+ 
+
+•  Closer monitoring of Company Training compliance at the rig site 
+•  A more thorough Job Risk Assessment of the planned task. 
+•  Compliance with the established Management of Change process 
+
+ 
+ 
+ 
+
+The Corrective Actions stated in this alert are one company’s attempts to address the incident, and do not 
+
+necessarily reflect the position of IADC or the IADC HSE Committee. 
+
+This material is presented for information purposes only.  Managers & Supervisors should evaluate this information to determine if it can 
+
+Copyright © 2004 International Association of Drilling Contractors.  All Rights Reserved 
+
+be applied to their own situations and practices. 
+
+Issued May 2004 
+
+

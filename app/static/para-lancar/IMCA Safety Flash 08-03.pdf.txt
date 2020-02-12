@@ -1,0 +1,364 @@
+A
+
+B
+
+ 
+
+ 
+
+Keywords:  Corrosion 
+
+IMCA Safety Flash 08/03 
+
+July 2003 
+
+These  flashes  summarise  key  safety  matters  and  incidents,  allowing  wider  dissemination  of  lessons  learned  from  them.    The  information  below  has  been 
+provided in good faith by members and should be reviewed individually by recipients, who will determine its relevance to their own operations. 
+
+The effectiveness of the IMCA safety flash system depends on receiving reports from members in order to pass on information and avoid repeat incidents.  
+Please consider adding the IMCA secretariat (imca@imca-int.com) to your internal distribution list for safety alerts and/or manually submitting information 
+on specific incidents you consider may be relevant.  All information will be anonymised or sanitised, as appropriate. 
+
+A  number  of  other  organisations  issue  safety  flashes  and  similar  documents  which  may  be  of  interest  to  IMCA  members.    Where  these  are  particularly 
+relevant, these may be summarised or highlighted here.  Links to known relevant websites are provided at www.imca-int.com/links   Additional links should 
+be submitted to webmaster@imca-int.com 
+
+1  Container Door Hinges Failure – Container Door Fell on Deck 
+
+IMCA has received details of an incident highlighting dangers from the lack of maintenance to container doors. 
+
+A container was being opened as illustrated in the two photographs below.  As the left hand door was opened the top hinge 
+broke, followed by the second and third hinges, and the door fell onto the deck. 
+
+Nobody was struck or injured during this incident. 
+
+ 
+
+The cause of the incident was found to be lack of lubrication between the vertical rod and the hinges, which should rotate on 
+the rod.  They had become corroded and jammed intermittently and had suffered fatigue due to opening and closing of the 
+door resulting in cracking and eventually failure. 
+
+The company has noted the following precautionary measures: 
+
+  Container door hinges of this design should be routinely checked every time they come on board for signs of jamming, 
+
+wear, tear, and lubrication applied accordingly; 
+
+ 
+
+If lubrication and corrective actions are required on board, particularly to hinges in containers, then a non-conformance 
+report should be submitted so that appropriate preventive measures can be taken. 
+
+2  Fatality – Pressure Build-Up leading to Sudden Release of Mechanical Plug 
+
+Keywords: Pressure 
+
+A member has reported the following incident, whereby a mechanical plug installed inside a pipe to isolate hot work from 
+process fluids released suddenly, striking and killing a welder. 
+
+Results from the investigation indicate that the direct cause of the incident was blockage of the purge vent line on the back 
+side of the plug due to freezing water vapour in the line.  This allowed pressure to build up and eject the plug. 
+
+ 
+
+While  freezing  contributed  to  the  blockage  in  this  incident,  it  is  not  the  only  means  by  which  pressure  can  build-up.  
+Given the routine use of these types of plugs in production operations, all relevant personnel should be made aware of the 
+events in this incident and a review of isolation plug procedures is encouraged. 
+
+The work in this incident involved a welding operation on the open end of a 28-inch produced water line that had residual 
+water and hydrocarbons in it.  A non-pressure-containing mechanical plug, known as a ‘plumber’s plug’, had been installed 
+about 12 inches inside the pipe, as a barrier against process fluids and purge gas.  About three hours before the incident, a 
+nitrogen purge was established through a fitting in the plug to inert the pipe area behind the plug.  The nitrogen came from a 
+nearby supply header operating at 25-30 psig.  The purge gas was routed to the plug from the header via a ¾-inch flexible 
+hose.  Another ¾-inch hose was connected to the top of the pipe behind the plug and routed outside the module to vent the 
+vapors.  The ambient temperature was 0ºF at the time of the incident.  A hand valve was used to pinch the flow of purge gas 
+from the nitrogen header.  There was no pressure gauge, regulator, or secondary relief on the purge to allow pressure to be 
+checked  or  to  prevent  pressure  build-up.    A  job  safety  analysis  (JSA)  recognized  the  potential  hazard  of  the  purge  line 
+freezing.    To  mitigate  the  risk,  the  line  was  checked  periodically  for  flow  by  placing  a  hand  at  the  end  of  the  vent  hose.  
+This check subsequently proved to be inadequate.  When the vent line froze, the pressure build-up behind the plug caused 
+the 63-pound plug to release suddenly, striking and killing the welder and inflicting minor injuries on two other workers. 
+
+The primary lesson learned is recognition of the risk associated with potential pressure build-up behind plugs that are not 
+intended  to  hold  pressure.    When  purging  systems  using  such  plugs,  procedures  should  address  the  size  of  inlet  and  vent 
+hoses, placement of vent hoses, use of regulators to control flow, use of secondary pressure relief to prevent overpressure, 
+positioning of workers away from the plug, and work crew training and hazard awareness.  Where possible, the best option 
+is to design tie-ins so that isolation plugs between hot work and hydrocarbons are not needed.  In addition to the ‘plumber’s 
+plug’, the company involved is evaluating alternative plug types when isolation is needed.  These alternatives include double-
+sealing hydraulic plugs (Car-Ber type) and pressure rated plugs (Thaxton) that have the potential to be used with or without 
+purging. 
+
+The investigation report also identified potential issues with JSA and lesson learned processes at the work site.  While the 
+JSA had identified the vent freeze-up hazard, the risk had not been properly mitigated.  In addition, the crew doing the work 
+was not directly involved in the JSA.  A similar near-miss occurred earlier in the year when a 4-inch plug blew out due to a 
+malfunction  of  the  pressure  regulator  on  the  purge  gas.    Lessons  from  that  event  did  not  get  incorporated  into  existing 
+procedures. 
+
+The company is reviewing its JSA and lesson learned processes as described below and has sought examples of best practices 
+and lessons learned from its employees’ experiences with use of such plugs for wider sharing. 
+
+Inside  
+module 
+
+Outside 
+module
+
+N 2 bleed  
+hose,  
+routed  
+outside 
+
+Bleed 
+barrel
+
+Blind flange 
+isolation
+
+ 
+
+ 
+
+m
+
+People in  odule: 
+1. Welder 
+2. Grinder #1 
+3.  rinder #  
+ Firewatc  h
+5. Laborer 
+6. Welder’s helper 
+
+4. 
+
+G
+
+2
+
+5 
+
+Plumber’s plug post 
+incident (20’ away)
+
+Transition 
+
+Piece
+
+2
+
+3
+
+1
+
+6
+
+4
+
+N2 supply  
+hose 
+
+Plumber’s plug & 
+hose pre- incident
+
+28” Produced Water Pipe
+
+28” pig  
+
+launcher/receiver 
+
+The company has provided the following summary of actions and lessons learned following the incident: 
+
+Hose connected to N2 header (25 -30 psi)
+
+  Rigorous review by engineering and operations staff of mechanical plugs, including specifications and design criteria; 
+
+  Evaluation of alternative technologies (Car-Ber) to potentially reduce or eliminate the need for nitrogen purges; 
+
+1  Contractor workgroup formed: 
+
+  Revise procedures accordingly. 
+
+2  Hazard recognition addressed: 
+
+monitoring programme was used; 
+
+  Although  the  importance  of  monitoring  the  vent  hose  was  known  and  noted  in  the  hot  work  permit,  no  rigorous 
+
+  Several hazards had not been identified during the JSA/STA process: 
+
+–  The N2 would absorb the water left in the 28” pipe; 
+–  The absorbed water would condense and freeze in the vent hose; 
+–  Very low pressure would exert large forces on a large diameter plug; 
+
+  A company standard is to be developed for hazard analysis for all work, including routine jobs, on its work permit task 
+hazard  checklist,  including  JSAs,  STAs,  JHAs,  SETA  cards,  unit  work  permits,  task  hazard  checklists  and  authority  to 
+proceed. 
+
+3 
+
+Effectiveness of lessons learned process reviewed: 
+
+  Learnings from an earlier ‘near miss’ (where a regulator had malfunctioned, leading to increased nitrogen pressure) had 
+
+not been enough to prevent this incident; 
+
+  Although  company  procedures  were  updated  periodically,  relevant  procedures  are  also  to  be  reviewed  whenever  a 
+report  of  lessons  learned  is  issued.    The  company  will  use  its  own  network  to  improve  sharing  of  safety  information 
+among its global assets. 
+
+4 
+
+Purging, cold cutting and welding on process piping procedure updated: 
+
+  First choice to isolate piping so that a plug is not needed; 
+
+ 
+
+ 
+
+  Where a plug is needed, one not requiring the use of interting, such as a Car-Ber plug, is to be selected; 
+
+If only a plug requiring an inert purge is needed, a job-specific procedure is to be prepared, addressing: 
+– 
+– 
+– 
+– 
+– 
+– 
+
+the size and pressure rating of inlet and vent hoses; 
+the placement of vent hoses (inside/outside); 
+the use of low pressure gauges at the inlet of the plug and on the backside of the plug; 
+the use of regulators and pressure relief; 
+the positioning of workers away from mechanical plugs; 
+training and work plans for the crew involved, including assigning a crew member to continuously monitor pressures 
+and inert gas flow rate; 
+
+  Requirements to be clearly communicated through updated procedures. 
+
+5  Re-emphasising the importance of being safety-aware at all times, including before and during ‘routine’ tasks: 
+
+  Think hard about the risks of every task undertaken – even routine tasks! 
+
+  Don’t be complacent about risks, just because you’ve done a job lots of times 
+
+  Every welding job is unique – you must stop, think and go! 
+
+3  Attempted Service to Microwave Results in Fatal Electrocution 
+
+Keyword:  Power 
+
+An  experienced  electrician  (12 years  with  the  company)  opened  up  a  microwave  in  order  to  service  it,  in  spite  of  dire 
+warnings not to do so.  A warning label, prominently displayed on the machine, clearly indicated the potential for high voltage 
+as follows: 
+
+“Warning – High voltage and microwave energy.  Do not remove any cover.  Caution – Always disconnect the mains plug 
+from the wall socket before servicing.  The unit contains no user-serviceable parts.  Refer servicing to authorised personnel.  
+This unit contains dangerous voltages.” 
+
+He put a tester across the disconnected leads with the power on (several thousand volts).  The current went to the ground 
+through  his  body,  via  the  ice-making  machine  next  to  where  he  was  working  –  burn  marks  confirm  this.    The  incident 
+resulted in a fatality. 
+
+To address this incident, the company has issued the following instruction to its personnel: 
+
+“With immediate effect the on-site repair of domestic equipment which contains high voltage components is strictly prohibited 
+(such  equipment  includes  microwave  ovens,  television  sets,  PC  monitors,  electrical  insect  killers,  etc).    These types  of 
+equipment should be returned to an authorised vendor for repair.” 
+
+4  Cracked Fuel Line Results in an Engine Fire 
+
+Keyword: Ignition 
+
+We  have  received  a  report  of  the  following  incident,  whereby  a  vessel’s  fire  detection  system  indicated  fire  in  the  engine 
+room.    Engine  emergency  shut  down  was  initiated  and  all  personnel  proceeded  to  their  relevant  muster  points.    The  fire 
+alarm sounded and the local crew responded immediately to the fire.  During this time, the mechanic had already shut down 
+engine #1 and extinguished the fire, using the fire station’s 30kg CO2 extinguisher.  The fire was extinguished without causing 
+further damage. 
+
+The subsequent investigation noted a hairline (2mm) crack in the fuel line from the left hand fuel manifold to cylinder #3.  
+The fuel had come into contact with heat from the exhaust manifold, where it had ignited and caused the fire.   
+
+It  was  found  that  there  was  had  been  a  lack  of  inspections  and  maintenance  on  this  equipment.    The  investigation  also 
+revealed an inadequate design. 
+
+To address this problem the company instructed personnel to: 
+
+  Examine the condition of all fuel lines daily; 
+
+  Visually inspect clamp rubbers and general condition; 
+
+ 
+
+Keyword: Gas 
+
+  Check torque of connections and fuel line clamps; 
+
+ 
+
+Install double-coated fuel line on all engines. 
+
+5  Exposure to CO2 release from Dry Ice Storage 
+
+IMCA has learned of the following incident whereby an unexpected hazard arose when stowing refrigerated stores.  A vessel 
+was in the process of mobilising for a prolonged spell offshore and had ordered a significant amount of food stores, which 
+arrived  in  a  non-refrigerated  truck.    Fresh  vegetables  and  fresh  milk  had  been  loaded  into  the  fridge,  to  be  stored  by  a 
+steward. 
+
+While  storing  the milk  and  vegetables, the steward  began  to  feel unwell.    He  was  relieved  by  the  chief  cook,  who  almost 
+immediately detected a strange atmosphere and felt unwell as well.  He left the fridge and was noticed by the first officer to 
+be unsteady on his feet as he was climbing the stairs near the food stowage area. The first officer assisted the chief cook up 
+the  stairwell  to  an  office,  where  the  steward  was  still  recovering  from  what  was  initially  assumed  to  have  been  a  cold 
+operating environment.  The steward received oxygen as a precaution.  He was transported to a local medical care facility for 
+further evaluation and released to full duty.  The chief cook recovered immediately after leaving the area. 
+
+An  ‘all  stop’  was  called  and  the  area  was  evacuated.    Ventilation  and  appropriate  PPE  were  utilised  to  carry  out  an 
+investigation.  During early investigations it was found that the (fridge) area was oxygen deficient.  At this time, the type and 
+concentration of gas were undeterminable. 
+
+A  refrigeration  technician  was  requested  and  arrived  on  board  later  that  day.    He  was  able  to  confirm,  with  detection 
+equipment, that the gas was carbon dioxide.  The CO2 was found to be emanating from solid CO2 blocks used to pack the 
+fresh milk. This had not been noticed as the stores had been loaded, but as it evaporated into the atmosphere in and around 
+the stowage area, it had caused a build up of CO2 which displaced the oxygen content. 
+
+All  actions  taken  were  analysed  by  using  a  job  safety  analysis  process  to  identify  all  hazards  and  the  appropriate  steps  to 
+mitigate each.  The two crew members entering the contaminated area used self-contained breathing apparatus (SCBA) and 
+removed  all  packages  of  milk  and  the  CO2  blocks  to  outside  the  vessel,  where  the  CO2  would  safely  dissipate.  
+The refrigeration unit was then restarted and the area was ventilated overnight to ensure complete discharge of the gas. 
+
+Historically,  only  frozen  goods  had  come  with  dry  ice  packing  which,  in  this  instance,  caused  an  unidentified  hazard  to  be 
+brought into the confined space stowage area by the galley crew. 
+
+The company involved has noted the following lessons learned: 
+
+  Confined  or  enclosed  spaces  may  present  hazards  such  as  oxygen-deficient  or  enriched  atmospheres,  flammable 
+
+atmospheres, toxics atmospheres, or a combination of these; 
+
+  When working in confined areas, it is extremely important that personnel maintain awareness of their environment and 
+the  problems  that  result  when  foreign  substances  are  released  into  the  atmosphere.    In  this  case  it  was  dry  ice  that 
+caused the problem. 
+
+  Through the actions of the crew in evacuating, ventilating, conducting atmospheric testing, completing a JSA and using 
+
+SCBA to remove the dry ice before re-entering the enclosed environment, a more serious scenario was avoided. 
+
+6  Lifeboat Davit Sheave Incident  
+
+Keywords:  Lifeboat 
+
+A member has reported an incident involving a lifeboat davit sheave that occurred during routine planned maintenance. 
+
+On completion of tests, run according to the company’s standard procedures, personnel had re-boarded the vessel using the 
+lifeboat  embarkation  ladder  and  the  operation  to  recover  the  lifeboat  to  deck  was  commenced.    The  boat  reached 
+approximately 1 metre above the deck when a loud noise was heard.  The operation was stopped immediately. 
+
+Close inspection revealed that one of the davit sheaves had disintegrated around its perimeter (circumference) and that this, 
+in  turn,  had  caused  the  falls  wire  to  jump  clear  of  the  sheave  and  become  trapped  between  the  sheave  face  and  sheave 
+bracket on the davit structure (see figure). 
+
+ 
+
+Safety Flash 
+
+ 
+
+

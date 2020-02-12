@@ -1,0 +1,230 @@
+AB 
+
+ 
+
+IMCA Safety Flash 11/12 
+
+Safety Flash 
+
+October 2012 
+
+These  flashes  summarise  key  safety  matters  and  incidents,  allowing  wider  dissemination  of  lessons  learnt  from  them.    The  information  below  has  been 
+provided in good faith by members and should be reviewed individually by recipients, who will determine its relevance to their own operations. 
+
+The effectiveness of the IMCA safety flash system depends on receiving reports from members in order to pass on information and avoid repeat incidents.  
+Please consider adding the IMCA secretariat (imca@imca-int.com) to your internal distribution list for safety alerts and/or manually submitting information 
+on specific incidents you consider may be relevant.  All information will be anonymised or sanitised, as appropriate. 
+
+A  number  of  other  organisations  issue  safety  flashes  and  similar  documents  which may  be  of  interest  to  IMCA  members.   Where  these  are  particularly 
+relevant, these may be summarised or highlighted here.  Links to known relevant websites are provided at www.imca-int.com/links   Additional links should 
+be submitted to webmaster@imca-int.com 
+
+ 
+
+1  LTI: Hand Injury 
+
+A member has reported an incident in which a worker sustained a serious injury to his right hand.  The incident occurred in 
+an onshore mechanical workshop.  The injured person was attempting to cut a small block of wood down to size to use as a 
+spacer.  Whilst using the mechanical workshop vertical band-saw his hand came into contact with the moving blade, causing a 
+serious laceration to the back of the hand and resulting in tendon damage. 
+
+Position of hand and wood during incident  
+
+Band-saw with guard set to lowest position 
+
+ 
+
+ 
+
+ 
+
+Our member’s investigation revealed the following: 
+
+♦ 
+
+Immediate causes: 
+–  The wood split during cutting due to the application of excessive force to the wood, which was caused by excessive 
+
+wear on the blade and the incorrect positioning of the wood; 
+
+–  A “Push stick” was not used; 
+–  An adjustable guard was not used. 
+
+♦  Root causes: 
+
+ 
+
+– 
+
+Lack of hazard awareness/complacency – the injured person did not identify using the machine as a hazard and did 
+not use the available safety guards and processes whilst operating the saw; 
+
+–  Uncondoned  behaviour/violation  –  the  injured  person  identified  a  fault  with  the  saw  but  continued  to  operate  it 
+
+without reporting the fault.   
+
+ 
+Our member took the following actions: 
+
+♦  Workshop/Yard  Induction  form  to  be  reviewed  and  updated  to  include  specific  mention  of  Safety  Observation  Card 
+
+requirements, Stop the Job requirements and section relating to machinery operation and competence; 
+
+♦  Review of induction frequency requirements and inclusion into site management procedures; 
+
+♦  Prepare and issue pre-use checklists for each machine with requirements for inspection prior to use, following use and 
+
+reporting requirements where faults have been identified; 
+
+♦ 
+
+Implement locking e-stop system with controlled key access to prevent unauthorised use; 
+
+♦  Update risk assessment with lessons learned from incident investigation where pertinent.  
+
+2  Near Miss: Dropped Object 
+
+A member has reported a near miss incident in which a turnbuckle pin weighing approximately 2kg fell more than 12m to 
+deck.  The incident occurred on a third party construction support vessel used for pipe laying.  The vessel has a gutter to 
+guide the flexible pipe into the vertical tensioner.  It is able to slew left and right to allow the flexible pipe to approach from 
+various angles.  This gutter was to be held in place using a combination of turnbuckle, chain and shackles (see photographs 
+below.)  Whilst installing the turnbuckle securing arrangement, the retaining pin of the turnbuckle was dropped more than 
+12m to deck.  There were no injuries. 
+
+Using  the  DROPS  Calculator  as  a  benchmark  in  the  classification  of  the  potential  consequences  of  a  dropped  object,  our 
+member  determined  that  the  outcome  of  dropping  the  turnbuckle  pin  could  have  resulted 
+fatality
+
+in  a 
+
+ Location of turnbuckle pin (L) and where the turnbuckle pin fell from (R) 
+
+ 
+
+ 
+
+Securing of shackle pins used at height with wire 
+
+Our member investigated the incident and as a result implemented a simple secondary securing method to prevent dropped 
+objects. 
+
+ 
+
+ 
+Members’ attention is drawn to the following IMCA material which may be of assistance: 
+
+♦ 
+
+♦ 
+
+♦ 
+
+♦ 
+
+♦ 
+
+IMCA SEL 019 Guidelines for lifting operations 
+
+IMCA SPP 04 Avoiding dropped objects 
+
+IMCA SPC 05 Lifting equipment 
+
+IMCA SPC 06 Working at height 
+
+IMCA SPC 12 Avoiding dropped objects 
+
+Members may also find useful information from www.dropsonline.com 
+
+3  LTI: Crush Injury - Arm Trapped by Movement of Crane Block 
+
+A  member  has  reported  an  incident  in  which  a  crew  member  broke  his  arm.    The  incident  occurred  as  the  vessel  was 
+approaching  port  when  a  crew  member  released  the  securings  for  the  main  crane  block.    The  block  started  to  move  and 
+inflicted a crush injury resulting in a broken arm and subsequent medical evacuation.  
+
+The vessel was rolling due to the sea conditions and vessel manoeuvring.  The injured person went to the crane pedestal to 
+remove the sea fastenings from the main block in preparation for crane operations in port.  As the injured person loosened 
+the sea fastenings, the ship rolled causing the block to move clear of the bucket, and his right arm was caught between the 
+swinging block and a steel upright.  The impact caused lacerations to the inside and back of the upper right arm resulting in 
+bleeding and fracture to the humerus (forearm) bone.  
+
+Crane block 
+
+Crane block and upright showing how crane block moved 
+
+   
+
+ 
+
+ 
+
+Our member’s investigation drew the following conclusions: 
+
+♦  The  movement  of  the  block  which  caused  the  injury  was  directly  caused  by  the  removal  of  sea  fastenings  too  soon 
+before the vessel had actually arrived in port.  This allowed the main block to move as the vessel rolled.  The main block 
+had been securely fastened up to this time and throughout the vessel transit; 
+
+♦  The  main  block  bucket  had  been  altered  with  a  section  having  been  removed  to  house  a  slightly  larger  block,  this 
+
+resulted in the block requiring cargo straps to secure it in position;  
+
+♦  The  injured  person  was  working  alone  at  the  time  of  the  incident  and  had  neither  been  requested,  nor  sought 
+
+permission to carry out this task.  
+
+In addition to internal discussion of the incident, our member took the following actions: 
+
+♦  To review lone working policy on vessels to ensure all personnel are aware of the dangers and responsibilities of lone 
+
+working, and to inform others when potentially working alone around the vessel; 
+
+♦  Ensure active supervision to prevent personnel undertaking tasks without prior notification; 
+
+♦  To  undertake  learning  and  information  campaigns  to  help  raise  hazard  awareness:  if  personnel  can  correctly  identify 
+
+hazards then they can take the correct actions to mitigate risks; 
+
+Members are encouraged to make use of the following IMCA safety promotional material in relation to this incident: 
+
+IMCA SPC 16 Caught between and pinch points: What you should know 
+
+IMCA SPP 09 Watch out for pinch points 
+
+♦ 
+
+♦ 
+
+ 
+
+ 
+4  Near Miss: Faulty Lifebuoys Discovered 
+
+A member has reported an incident in which defects were discovered on several lifebuoys aboard a company-owned vessel.  
+During routine life-saving appliance checks, it was noted the plug/stopper on one of the lifebuoys was missing.  The position 
+where the plug/stopper should have been is shown in the photographs below.  These should have been put in place by the 
+manufacturer.  In this instance, the lack of the plug had resulted in one lifebuoy being full of water with a resultant loss of 
+buoyancy.  A further four lifebuoys were found to have the plugs missing. 
+
+The lifebuoy type was EVAL, E.G. Vallianatos S.P.A Greece, Code 559. 
+
+Members are recommended to conduct a visual check and, where necessary, a weight check on all lifebuoys onboard for this 
+potential  issue.    It  is  recommended  to  amend  onboard  planned  maintenance  schedules  such  that  that  they  include  quality 
+control checks and inspection of lifebuoys.  
+
+Lifebuoy Plug/stopper insert location covered by retro-reflective tape 
+
+ 
+
+ 
+
+Lifebuoy Plug/stopper insert location showing lack of plug when tape removed 
+
+5  Able Seaman Injured by Shifting Cargo 
+
+The  Marine  Safety  Forum  (MSF)  has  published  the  following  Safety  Flash  regarding  an  incident  in  which  a  crewman  was 
+injured by unstable cargo that shifted when the vessel rolled. 
+
+The report can be downloaded from www.marinesafetyforum.org/upload-files//safetyalerts/msf-safety-flash-12.40.pdf 
+
+ 
+
+

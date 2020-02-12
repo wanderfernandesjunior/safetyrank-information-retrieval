@@ -1,0 +1,58 @@
+Safety Alert 
+
+        From the International Association of Drilling Contractors 
+
+ 
+ALERT 05 – 05 
+ 
+
+BATTERY CHARGING, VENTILATION, AND STORAGE 
+
+ 
+WHAT HAPPENED: 
+ 
+Recently we had an explosion of a battery deck box that contained the batteries for the Baylor brake 
+emergency backup system. Significant damage was done to the surrounding area as a result of this 
+explosion. This locker was being used as a seat for personnel to remove their boots prior to entering the 
+quarters; luckily no one was in the area at the time of the explosion. 
+ 
+WHAT CAUSED IT: 
+ 
+The explosion was caused by the build up of hydrogen gas, due to inadequate ventilation, while the batteries 
+where being charged. This particular box had louvers on the side, but none in the top cover. This type 
+configuration allowed room for the gas to build up between the side louvers and the cover (lid). 
+ 
+CORRECTIVE ACTIONS:  To address this incident, this company issued the following action items: 
+ 
+Battery deck boxes or deck lockers will have at least two vents located on each side and a goose neck type 
+vent located on the cover (lid).   
+All battery rooms are to be properly ventilated as per ABS / DNV rules.  
+Ensure batteries are not being overcharged by checking the output voltage of the charger.  
+Float charging - not to exceed 2.25 volts per cell  
+Equalize charging - not exceed 2.30 volts per cell  
+All grouped batteries are to be of the same type and age.  
+Ensure the correct type charger is being used for the type batteries being charged.  
+Batteries are to be in good condition (e.g., no shorted cells, excessive corrosion on terminals, leaking cases, 
+bad clamps, etc.)  
+Batteries are to be located:  
+Out of direct sunlight  
+Away from high traffic areas or where people might congregate such as muster stations or rest areas.  
+Batteries are not to be located in sleeping areas.  
+Voltage readings for each battery will be recorded, quarterly, in the PM system.  The PM system will be 
+modified for these readings and it will be the responsibility of each rig to identify these batteries in the PM 
+system. 
+ 
+
+The Corrective Actions stated in this alert are one company’s attempts to address the incident,  
+
+and do not necessarily reflect the position of IADC or the IADC HSE Committee. 
+
+This material is presented for information purposes only.  Managers & Supervisors should 
+
+evaluate this information to determine if it can be applied to their own situations and practices 
+
+Copyright © 2005 International Association of Drilling Contractors All rights reserved. 
+
+Issued February 2005 
+
+

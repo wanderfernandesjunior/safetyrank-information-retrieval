@@ -1,0 +1,85 @@
+Safety Alert 54
+
+January 2013
+
+Scaffolding Safety
+
+What Happened?
+A scaffolder was dismantling a scaffold structure outboard of an offshore platform at a height of
+approximately 15 metres above the sea when a vertical scaffolding tube (a ‘dropper’) that was supporting him 
+began to slowly slip.  The tube was fixed in place with standard scaffold couplers and the tube was being 
+pulled through these under the weight of the scaffolder.
+The scaffolder alerted other workers in the vicinity but they could not reach the connection in time to tighten 
+the coupler.  The tube continued to slip through the coupler until the scaffolder fell. Fortunately, the inertia 
+reel harness he was wearing arrested his fall.  The scaffolder managed to keep hold of the dropper so that it 
+did not fall into the sea, and was suspended over water for approximately seven minutes.  A hook from a 
+rescue winch was swung over to the scaffolder, who attached it to the fall arrest harness, to allow the 
+scaffolder to be pulled up to the platform’s walkway.
+The investigation found that the scaffolding coupler holding the dropper in place was loose and that there was 
+no check coupler fitted above the dropper tube.  It was also found that the rescue equipment used was not 
+suitably rated for the weight of the scaffolder and the associated scaffolding. In addition, some of the 
+certification for the equipment being used during the rescue activities was found to be out of date.
+During a subsequent inspection of the facility, a number of fall-protection devices were observed anchored to 
+the bases of hand rail stanchions.  The relevant standard on industrial fall-arrest systems and devices (AS/NZS
+1891 series) specifies a minimum 15kN capacity for anchor points and it is considered poor practice in the 
+wider industry to use hand rails or stanchions as anchor points.
+
+What could go wrong?
+If not for the inertia reel harness arresting the scaffolder’s fall, the scaffolder could have fallen several metres 
+to the sea along with other dropped objects, potentially leading to death or serious injury. In addition, 
+deficiencies in equipment rating, certification and regular inspection could have contributed to further failures 
+during rescue activities.
+
+National Offshore Petroleum Safety and Environmental Management Authority
+
+1 of 2
+
+Safety Alert 54
+
+Scaffolding Safety
+
+Key lessons
+
+
+
+It is considered good practice to install check couplers above the suspension scaffolding coupler as
+described in AS/NZS 4576 Guidelines for scaffolding.
+The scaffold should be visually inspected by the work party prior to using the scaffold.
+Scaffolds should be inspected regularly by a competent person.
+
+
+
+ Only equipment within its certification period should be used.
+
+
+
+
+Safety equipment should be suitably rated for the personnel using it.
+Fall arrest equipment should be anchored at a suitably rated anchor point.
+The rescue plan should reflect the hazards the job presents rather than using a generic rescue plan for 
+all scaffold jobs.
+
+The legislation
+As per Clause 9 of Schedule 3 to the Offshore Petroleum and Greenhouse Gas Storage Act 2006: “Operators 
+have a duty of care to take all reasonably practicable steps to ensure that the facility is safe and without risk to 
+the health of any person at or near the facility.”  This includes an obligation to take all reasonably practicable 
+steps to:
+
+
+
+
+
+Ensure that any equipment (including equipment to be used in emergencies) is safe [Clause 9(2)(c)];
+and:
+Implement and maintain appropriate procedures and equipment for the control of, and response to, 
+emergencies at the facility.
+
+Contact
+
+For further information email alerts@nopsema.gov.au and quote Alert 54.
+
+National Offshore Petroleum Safety and Environmental Management Authority
+
+2 of 2
+
+

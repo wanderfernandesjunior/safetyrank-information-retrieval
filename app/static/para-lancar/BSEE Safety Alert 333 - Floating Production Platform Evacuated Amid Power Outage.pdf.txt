@@ -1,0 +1,151 @@
+ 
+
+SAFETY ALERT 
+ 
+
+Safety Alert No. 333 
+11 May 2018  
+
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+         Contact: Jason Mathews  
+             Phone: (504) 731-1496 
+
+Floating Production Platform Evacuated Amid Power Outage 
+
+During September, 2017, a floating production facility in the U.S. Gulf of Mexico was 
+operating on a single uninterruptible power supply (UPS) due to an “on line” UPS 
+replacement project when the inverter on the functioning UPS failed. This failure cut 
+automatic battery back-up to emergency power users, including the vessel management 
+system (VMS) and operational critical telecoms.  
+ 
+During their initial investigation of the failure, members of the crew detected a potentially 
+hazardous hydrogen release in the UPS battery room. They believed the hydrogen was 
+discharged from the UPS batteries. This led to the offshore installation manager (OIM) 
+mustering all personnel. Additionally, the ventilation in the battery room was not working 
+properly, which prevented exchange of air volumes and contributed to the continuing 
+perception of a fire and explosion risk. Closed dampeners, plugged filters, and failure of 
+motor controllers contributed to the ventilation deficiencies. 
+  
+While battery room issues were being addressed, the emergency generator was started 
+so that power would be maintained if the main power was lost. In the process of syncing 
+the emergency generator with main power, the UPS's static bypass switch opened due to 
+the emergency generator’s frequency falling slightly out of range with normal power. 
+When the static bypass switch opened, all loads on the emergency bus lost power 
+(including the VMS and critical operational telecoms.) As a result of these loads being 
+dropped, an abandon platform sequence was initiated, which shut down all main power 
+and made safe the process.  
+ 
+At the point the abandon platform sequence was initiated, the platform was experiencing 
+a full electrical blackout. A well that was being worked on had already been secured with 
+two tested barriers.  Several attempts to re-establish power were unsuccessful due to the 
+logic sequence in the VMS which continued to send shutdown trip signals to the 
+emergency generator circuit breaker whenever the control system rebooted. This logic 
+sequence was hidden from the workers because the VMS ordinarily rebooted from battery 
+power, which was unavailable. The backup script in the application did not inhibit the 
+abandon platform shutdown signal during reboot. The solution that resulted in power 
+restoration was to physically inhibit (disconnect wires) to the emergency generator 
+breaker.  
+ 
+During the event, the 264 nonessential personnel safely evacuated. After the detection of 
+smoke in the UPS room, the OIM decided to have the core crew of 34 personnel also 
+abandon the facility. 
+ 
+
+ 
+ 
+
+BSEE is aware of other floating production facilities that experienced power issues in 
+2017: 
+ 
+
+  14-15 November 2017:  A floating platform had a series of trips in its power system 
+over a two-day period. During the first day the gas train went offline due to a failed 
+transmitter and a scrubber high level; then one turbine generator shutdown from 
+diesel issues. On the second day, failures relatively unrelated to the first day 
+resulted in three separate power outages.  
+ 
+
+  27 January 2017: A shut-in floating platform was performing required regulatory 
+
+testing.  Following a false fire alarm, the facility underwent a full power outage and 
+was unable to restore power.  A full evacuation of all 56 essential and nonessential 
+personnel was conducted via helicopters.   
+ 
+
+Therefore, BSEE recommends that operators consider the following options:  
+
+ 
+
+  Review the black start procedure for facilities to include, as a minimum 
+
+consideration, the complete loss of power to the VMS. 
+ 
+
+  Consult with the original equipment manufacturer (OEM) to evaluate and make 
+appropriate recommendations for UPS protective features and their impact on 
+availability of sub-distribution systems. 
+
+ 
+
+ 
+
+ 
+
+  Review the performance of critical ventilation systems relative to their basis of 
+
+design and develop a strategy to address maintenance requirements. 
+
+  Review the project engineering handover process for critical electrical systems to 
+
+ensure personnel are properly trained to operate new equipment. Particularly, 
+electrical technicians should be knowledgeable of what is necessary to power up 
+emergency loads after failures. 
+
+  Create or review a platform evacuation procedure specifically prompted by a facility 
+
+blackout. This evacuation procedure is unique because it is: 
+
+o  more urgent than an evacuation due to, for example, a hurricane.  
+o 
+
+the procedure should consider a possibility of limited communications and 
+reduced availability of resources due to the blackout. 
+ 
+
+  Verify that all necessary Safety and Environmental Management System (SEMS) 
+
+documentation (Emergency Response Plans, As-Built Electrical Drawings, Piping & 
+Instrumentation Diagrams, Operating Procedures, etc.) are up-to-date and 
+accessible in hardcopy format. 
+
+ 
+
+If you have further questions not addressed in the recommendations above, contact 
+BSEE at the number listed on this Safety Alert. 
+
+A Safety Alert is a tool used by BSEE to inform the offshore oil and gas industry of the 
+circumstances surrounding an accident or near miss. It also contains recommendations 
+that should help prevent the recurrence of such an incident on the Outer Continental 
+Shelf.  
+ 
+
+

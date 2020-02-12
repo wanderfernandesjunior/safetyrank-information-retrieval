@@ -1,0 +1,120 @@
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+August 15, 2018  
+Washington, DC 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+    Safety Alert 13-18 
+
+Let us enlighten you about LED lighting! 
+
+Potential interference of VHF-FM Radio and AIS Reception. 
+
+The  U.S.  Coast  Guard  has  received  reports  from  crews,  ship  owners,  inspectors  and  other 
+mariners regarding poor reception on VHF frequencies used for radiotelephone, digital selective 
+calling (DSC) and automatic identification systems (AIS) when in the vicinity of light emitting diode 
+(LED)  lighting  on-board  ships  (e.g.,  navigation  lights,  searchlights  and  floodlights,  interior  and 
+exterior lights, adornment).   
+
+Radio  frequency  interference  caused  by  these  LED 
+lamps were found to create potential safety hazards. 
+For example, the maritime rescue coordination center 
+in one port was unable to contact a ship involved in a 
+traffic separation scheme incident by VHF radio.  That 
+ship also experienced very poor AIS reception.  Other 
+ships in different ports have experienced degradation 
+of the VHF receivers, including AIS, caused by their 
+LED  navigation  lights.    LED  lighting  installed  near 
+VHF  antennas  has  also  shown  to  compound  the 
+reception.  
+
+Strong radio interference from LED sources may not 
+be  immediately  evident  to  maritime  radio  users. 
+Nonetheless,  it  may  be  possible  to  test  for  the 
+presence of LED interference by using the following 
+procedures: 
+
+1.  Turn off LED light(s).  
+2.  Tune the VHF radio to a quiet channel 
+
+(e.g. Ch. 13). 
+
+3.  Adjust the VHF radio’s squelch control 
+
+until the radio outputs audio noise.  
+
+above the noise threshold.  
+
+4.  Re-adjust the VHF radio’s squelch control until the audio noise is quiet, only slightly 
+
+ 
+
+ 
+ 
+
+ 
+
+Safety Alert 13-18 
+ 
+
+5.  Turn on the LED light(s).  
+
+ 
+
+• 
+
+If the radio now outputs audio noise, then the LED lights have raised the 
+noise floor. (Noise floor is generally the amount of interfering signals / static 
+received beyond the specific signal or channel being monitored.) 
+ 
+
+6. 
+
+If the radio does not output audio noise, then the LED lights have not raised the noise 
+floor. 
+
+ 
+If the noise floor is found to have been raised, then it is likely that both shipboard VHF marine radio 
+and AIS reception are being degraded by LED lighting. 
+
+In  order  to  determine  the  full  impact  of  this  interference,  the  Coast  Guard  requests  those 
+experiencing this problem to report their experiences to Coast Guard Navigation Center1. Select 
+“Maritime Telecommunications” on the subject drop down list, then briefly describe the make and 
+model of LED lighting and radios effected, distance from lighting to antennas and radios effected, 
+and any other information that may help understand the scope of the problem. 
+
+This Safety Alert is provided for informational purposes only and does not relieve any domestic or 
+international  safety,  operational,  or  material  requirement.  Developed  by  the  U.S.  Coast  Guard, 
+Spectrum  Management  and  Telecommunications  Policy  Division.  Distributed  by  the  Office  of 
+Investigations and Analysis. Questions may be sent to HQS-PF-fldr-CGF-INV@uscg.mil. 
+
+ 
+
+ 
+
+                                                            
+1 https://www.navcen.uscg.gov/?pageName=contactUs 
+
+

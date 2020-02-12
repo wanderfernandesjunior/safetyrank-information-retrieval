@@ -1,0 +1,87 @@
+ 
+ 
+ 
+ 
+ 
+October 23, 2008                                                                                                                     Alert 8-08 
+Washington, DC  
+ 
+
+INSPECTION OF FUEL OIL QUICK-CLOSING VALVES 
+
+ 
+The  U.S.  Coast  Guard  strongly  recommends  that  owners  and/or  operators,  vessel  engineers, 
+marine inspection personnel and others involved with the technical examination of machinery space 
+equipment  fully  understand  the  critical  nature  and  importance  of  fuel  oil  quick-closing  valves 
+(FOQCVs)  and  associated  systems.    FOQCV  systems  must  be  well  maintained  and  tested  in  the 
+same  way  they  would  be  used  in  an  emergency  (e.g.  close  all  valves  on  each  system  at  the  same 
+time).  Crewmember  knowledge,  testing,  maintenance  and  repair,  system  operation  and  limitations, 
+documentation, and spare parts are essential elements to review during an effective evaluation of an 
+FOQCV system. 
+ 
+During a fire onboard the USNS SHUGHART on March 5, 2004, more than half of the FOQCVs failed 
+to  close  properly,  which  prevented  the  ship's  service  generators  from  being  secured.    The 
+investigators  found  that  the  valves  had  not  been  well  maintained  and  the  testing  protocol  used 
+onboard  the  ship  did  not  test  the  valves  properly.    During  testing,  valves  were  closed  using  a 
+hydraulic hand pump system; the quantity of oil within the system should be sufficient to close all of 
+them.  However,  there  is  no  way  to  determine  that  the  system  contains  enough  oil  to  close  all  the 
+valves, if prior to completing the testing some of the valves are reset! 
+ 
+International  and  domestic  regulations  require  that  positive  shutoff  valves  located  outside  the  fuel 
+tank be arranged with a means to be closed remotely from outside the compartment.  These positive 
+shutoff valves may be valves that are remotely closed gradually (e.g. turning a mechanical reach rod) 
+or  power operated.   
+ 
+FOQCVs  are  positive  shutoff  valves  and  they  may  be  the  final  means  of  securing  the  fuel  to  a 
+flammable  liquid  fire.    It  is  absolutely  critical  that  the  ability  to  close  the  valves  be  maintained  at  all 
+times.    The  periodic  maintenance  necessary  to  ensure  proper  operation  of  the  FOQCVs  must  be 
+given the highest priority, and completed as required. Records of completed maintenance and testing 
+should be kept on board the vessel. 
+ 
+Because FOQCVs and other positive shutoff valves on fuel tanks have the potential to prevent loss of 
+life and/or critical equipment during a fire, the importance of verifying their proper operation can not 
+be  overstated.    As  a  result  of  the  USNS  SHUGHART  casualty,  the  U.S.  Coast  Guard  Office  of 
+Systems Engineering developed recommended inspection procedures for the testing and operation of 
+FOQCVs which follow.  The U.S. Coast Guard strongly recommends that owners and/or operators, 
+vessel engineers, marine inspection personnel and others ensure:  
+ 
+a)  The  valve  operating  system  is  capable  of  remotely  closing  all  valves  in  the  event  of  a  fire.    It  is 
+imperative  the  system  is  tested  as  designed.  It  may  be  designed  to  close  valves  sequentially  or 
+simultaneously.    Also,  there  may  be  manual  input  such  as  a  hydraulic  hand  pump  operation 
+required at the remote control station.  There is no defined time limit to close the valve; the time 
+required will depend on the size of the valve and the system design.   
+
+ 
+b)  There  should  be  technical  manuals  on  board  containing  diagrams  and  information  that 
+describe the system components, recommended spare parts requirements, maintenance 
+and operation. Schematics and drawings of the systems should also be available. 
+
+c)   All machinery space workers should be able to identify the valves and how to close them locally 
+and remotely in an emergency. They should be able to demonstrate substantial knowledge of the 
+system,  its  importance  and  operation.    Ship  engineers  should  be  familiar  with  the  technical 
+manual and the associated maintenance requirements for all of the system components.   
+
+During  Coast  Guard  inspections,  engineers  should  be  able  to  explain  to  the  marine  inspector  the 
+important  aspects  of  the  manual,  as  well  as  the  general  maintenance  requirements  of  the  system 
+and  provide  information  as  to  when  it  was  last  performed.  Further,  they  should  be  able  to  explain 
+how the valves are reset following closure.  A good test of a crew member's general knowledge of 
+fire  fighting  would  be  to  ask  them  details  of  the  technical  items  noted  above  with  an  emphasis  on 
+why these valves are important.  
+
+The domestic regulations enforced by the U.S. Coast Guard for positive shutoff valves are contained 
+in  46  CFR  Part  56.50-60(d),  Subparagraph  3.    These  regulations  are  available  through  the  U.S. 
+Government  Printing  Office  (GPO)  and  may  be  downloaded  without  cost  from  the  GPO’s  internet 
+website http://www.gpoaccess.gov/index.html.  
+ 
+This  safety  alert  is  provided  for  informational  purposes  only  and  does  not  relieve  any  domestic  or 
+international safety, operational or material requirement.  Developed by the Office of Domestic Vessel 
+Activities (CG-5431), United States Coast Guard Headquarters, Washington, DC.   
+
+******* 
+
+ 
+
+Office of Investigations and Analysis:  http://marineinvestigations.us 
+To subscribe: kenneth.w.olsen@uscg.mil 
+
+

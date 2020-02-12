@@ -1,0 +1,70 @@
+Safety Alert 
+
+From the International Association of Drilling Contractors 
+
+ 
+
+ 
+ 
+ALERT 04 – 21 
+ 
+
+ 
+WHAT HAPPENED: 
+ 
+
+CRANE MAINTENANCE RESULTS IN AN LTI 
+
+ 
+
+The mechanic and electrician were moving the generator exciter outside of the crane cab.  They had one come-
+along attached to the rear of the exciter and a chain fall attached to the front of the exciter.  While pulling the 
+exciter  outside  the  door,  the  rear  chain  fall  was  above  in  the  trolley  guide.    As  the  exciter  was  being  pulled 
+outside of the crane cab with the chain fall the lifting eye that the come-along was attached to, slipped out of the 
+trolley  guide  rail.    The  come-along  fell  striking  the  employee  on  the  left  thumb  causing  a  fracture  and  the 
+employee to loose time from work.  
+ 
+WHAT CAUSED IT: 
+ 
+Improper rigging of equipment  
+ 
+•  The JSA did not mention anchoring the chain fall to the trolley pad eye.  
+•  The JSA did not mention checking the trolley rail for the end stop being in place. 
+•  The crew did not stop the job when they had a change in planned procedures. 
+ 
+CORRECTIVE ACTIONS:  To address this incident, this company did the following: 
+ 
+Issued Action Items to maintenance personnel: 
+ 
+•  Revise the JSA to ensure they note where to attach chain falls and come-along and any other equipment 
+
+needed for the job.  
+
+•  Also to check the trolley assembly for end stops in place.  
+•  Check all cranes to ensure they are equipped with the proper overhead trolley assembly and if they do not 
+match the attached information from the crane manufacturer, the rig will order and replace with this I-Beam 
+trolley system.  
+
+o  The I-Beam installation consists of three (3) drilled sections; one is bent to fit the shape of the 
+
+machinery house, stops, hardware and three (3) 2-Ton ball bearing trolleys.  This installation has 
+much greater capacity, adequate for handling the M/G sets, motors, etc.  Contact the crane 
+manufacturer and ask for the I Beam Trolley drawing. 
+
+ 
+
+ 
+
+The Corrective Actions stated in this alert are one company’s attempts to address the incident, and do not 
+
+necessarily reflect the position of IADC or the IADC HSE Committee. 
+
+This material is presented for information purposes only.  Managers & Supervisors should  
+
+evaluate this information to determine if it can be applied to their own situations and practices. 
+
+Copyright © 2004 International Association of Drilling Contractors.  All Rights Reserved 
+
+Issued May 2004 
+
+

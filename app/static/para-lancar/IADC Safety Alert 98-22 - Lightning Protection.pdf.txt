@@ -1,0 +1,73 @@
+Safety Alert 
+
+        From the International Association of Drilling Contractors 
+
+ 
+ALERT 98-22 
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+ 
+
+Lightning Protection 
+
+WHAT HAPPENED: 
+ 
+Lightning struck a drilling rig, causing a failure of the electronic Pit Volume Totalizer (PVT) system.  One mud 
+pump was knocked offline, and the SCR suffered minor damage.  Several minutes later, the rig took a kick.  
+The crew eventually brought the kick under control.  The incident prompted the contractor to evaluate 
+methods for ensuring that rigs are properly grounded to hopefully avoid a similar incident in the future. 
+ 
+CORRECTIVE ACTION: 
+ 
+Grounding should be accomplished by the use of cable and driven electrodes.  The derrick (mast), 
+substructure, metal buildings, stationary electrical equipment, fuel storage tanks, metal fences, metal 
+containers and any other structures around the rig where electric power is or may be should be properly 
+grounded. 
+ 
+The contractor recommended the following methods of grounding: 
+ 
+
+1.  By use of full-size ground conductor 
+2.  The use of bare copper conductor or braided wire, sized not less than 2/0 AWG, connected 
+
+between all electric motors to the building or skid.  All buildings or skids should be 
+interconnected with the same size conductor. 
+
+3.  An earth rod will be driven as close as possible to low wet areas to achieve desired grounding.  
+
+4. 
+
+Rods should be at least eight feet (2.4 meters) long and 3/4” (1.9 cm) in diameter.  Outer surface 
+of rods should be either galvanized or copper coated. 
+If rock is encountered, the rod should be driven at an angle not to exceed 45 degrees from 
+vertical or should be buried in a trench that is at least 30 inches (76.2 cm) deep.  Fill trench with 
+a 3/32” (2mm) layer of salt.  Backfill with native earth. 
+
+5.  Earth substructure to conductor in order to achieve desired grounding. 
+6.  Bond all skids and auxiliary equipment together to form a “loop” type system, wherever possible, 
+so that the continuity of the grounding circuit will be maintained even if one conductor is severed. 
+
+7.  Grounding connections on skids should be rust-proof (stainless steel bolts are recommended). 
+
+ 
+ 
+
+The Corrective Actions stated in this alert are one company’s attempts to address the incident,  
+
+and do not necessarily reflect the position of IADC or the IADC HSE Committee. 
+
+This material is presented for information purposes only.  Managers & Supervisors should 
+
+evaluate this information to determine if it can be applied to their own situations and practices 
+
+Copyright © 1998 International Association of Drilling Contractors All rights reserved. 
+
+Issued September 1998 
+
+

@@ -1,0 +1,318 @@
+AB 
+
+ 
+
+IMCA Safety Flash 08/11 
+
+Safety Flash 
+
+  July 2011 
+
+These  flashes  summarise  key  safety  matters  and  incidents,  allowing  wider  dissemination  of  lessons  learnt  from  them.    The  information  below  has  been 
+provided in good faith by members and should be reviewed individually by recipients, who will determine its relevance to their own operations. 
+
+The effectiveness of the IMCA safety flash system depends on receiving reports from members in order to pass on information and avoid repeat incidents.  
+Please consider adding the IMCA secretariat (imca@imca-int.com) to your internal distribution list for safety alerts and/or manually submitting information 
+on specific incidents you consider may be relevant.  All information will be anonymised or sanitised, as appropriate. 
+
+A  number  of  other  organisations  issue  safety  flashes  and  similar  documents  which may  be  of  interest  to  IMCA  members.   Where  these  are  particularly 
+relevant, these may be summarised or highlighted here.  Links to known relevant websites are provided at www.imca-int.com/links   Additional links should 
+be submitted to webmaster@imca-int.com 
+
+ 
+
+1  Hand Injury while using Hydraulic Impact Wrench 
+
+A  member  has  reported  an  incident  in  which  a  diver  sustained  a  cut  injury  to  his  left  hand  palm  whilst  working  with  a 
+hydraulic  impact  wrench.    A  team  of  two  divers  were  engaged  in  removing  bolts  of  an  old  riser  clamp  at  shallow  depths.  
+During one such bolt removal, when the first diver held the wrench’s trigger handle using one hand, the wrench socket came 
+off from the bolt and the wrench began to fall.  He attempted to prevent the wrench from falling to the seabed, and whilst 
+doing  so,  his  left  hand  came  in  contact  with  the  rotating/revolving  socket,  and  the  socket  retaining  pin  (makeshift  welding 
+rod) cut the palm of his left hand. 
+
+The  diver  was  safely  and  promptly  recovered  to  surface  and  provided  with  first  aid.  Then  he  was  sent  to  the  doctor  for 
+further evaluation.  He resumed duty on the same day. 
+
+An investigation revealed that a long welding rod twisted around the socket had been used as a retaining pin to prevent the 
+socket from falling off during use.  This practice was considered ‘normal’.  
+
+  
+
+ 
+
+Showing use of welding rod as a retaining pin 
+
+The following actions were taken to prevent recurrence: 
+
+  As advised by the manufacturer, use of the correct size and length of retaining pin, covered by an O-ring, to secure the 
+
+socket. 
+
+   
+
+   
+
+ 
+
+Showing correct size and length of retaining pin to secure the socket 
+
+ 
+2  Recent Near Miss Incidents Involving Potential Dropped Objects 
+
+There  have  been  several  recent  cases  of  potential  dropped  objects  which  have  been  brought  to  IMCA’s  attention  by  the 
+Marine Safety Forum in MSF Safety Flashes 11-20 and 11-22. 
+ 
+Case 1:  Unusual Potential Dropped Object 
+
+ 
+
+During  positioning  of  a  container  on  an  offshore  rig,  a 
+large  lump  of  what  appeared  to  be  road  tar  was  seen 
+within  one  of  the  forklift  pockets  of  the  container.  The 
+lump  measured  30  x  15  x  5cm  and  weighed  1.2kg.  The 
+container, which had forklift pockets on all four sides, had 
+been on a round trip to the rig, gone back ashore and had 
+been taken back to the rig before the hazard was spotted, 
+some  two  weeks  after 
+its  original  despatch.  The 
+investigation could not determine at what point the lump 
+of  tar  entered  the  forklift  pockets  but  it  could  not  have 
+been at the supplier nor at the supply base, both of which 
+have  fully  concreted  yard  surfaces.  Therefore,  it  is 
+possible  that  it  was  present  for  some  time  prior  to  the 
+container's original despatch. 
+
+It  is  presumed  that  being  sticky,  the  lump  of  tar  was 
+lodged against the top of the inside of one of the forklift 
+pockets, only eventually becoming dislodged due to some 
+form of shock to the container. This  made it difficult for 
+the supplier to spot and remove. It is also presumed that 
+it  was  in  one  of  the  transverse  forklift  pockets  and 
+therefore invisible to gantry checks at the supply base. 
+
+A  vessel  completed  discharging  a  cargo  of  20  inch 
+uncapped casing to an offshore  installation  after a period 
+of  adverse  weather.  During  routine  operations  on  the 
+installation  a  piece  of  metal,  a  D-ring  plate  cover,  was 
+found inside one of the discharged joints of 20 inch casing. 
+The  drops  calculator  classed  the  potential  as  a  fatality  if 
+the  object  were  to  have  been  dropped  from  more  than 
+2.4 metres.  
+
+Members are encouraged to be vigilant in checking for all 
+potential dropped objects. Whilst the probability of items 
+sticking to the top of the inside of forklift pockets is low, 
+the  impact  of  those  items  falling  out  and  causing  harm  is 
+high. Provision for  checking for and removing such items 
+might include: 
+
+  Use of mirrors and lights on extended poles; 
+
+  Use of brushes and sweep-through; 
+
+  Safe  systems  for  doing  checks  at  eye  height  to  assist 
+
+ergonomics.  
+
+    
+
+Piece of tar – potential dropped object
+
+Several days after the object in Case 2 was discovered, on 
+the  same  installation,  a  wooden  wedge  was  found  inside 
+another  20  inch  joint  of  casing.  The  drops  calculator 
+classed the potential as a fatality if the object were to be 
+dropped from more than 3.7 metres. 
+
+Case 2:  Potential Dropped Metal Piece 
+
+Case 3:  Potential Dropped Metal Piece 
+
+ 
+
+ 
+
+D-ring plate cover - potential dropped object 
+
+ 
+
+Wooden wedge - potential dropped object
+
+Two of the above-mentioned objects (Case 2 and Case 3) were identified as belonging to the vessel and had become lodged 
+inside the casing due to the vessel shipping water on deck during rough weather conditions. Subsequently, all wooden wedges 
+used on this particular vessel were painted white on their top sides to make them easier to see in the dark.  
+
+Members are reminded of IMCA’s safety promotional material on avoiding dropped objects: 
+
+  Pocket safety card: IMCA SPC 12  Avoiding dropped objects; 
+
+  Safety poster: IMCA SPP 04  Avoiding dropped objects; 
+
+ 
+
+IMCA SEL 05/11  Dropped object prevention – www.dropsonline.org. 
+
+ 
+
+ 
+
+ 
+3  Electrician Received Electric Shock  
+
+A  member  has  reported  an  incident  in  which  an  electrician  received  an  electric  shock  whilst  working  on  faulty  electrical 
+equipment.  The vessel electrician had been called to the gymnasium because the running machine had developed a fault and 
+was no longer working.  
+
+The running machine had been purchased for the vessel in the USA and required a110v supply.  A 220v/110v transformer had 
+also been sourced in the USA and was mounted on the bulkhead next to the running machine, with a connecting cable into 
+the vessel 220v supply.  
+
+During initial investigation of the fault, the electrician decided to remove the 220v supply cable from the transformer to allow 
+testing to be completed.  The electrician unplugged the supply cable from the transformer connection first, unaware that it 
+had two male connections (the standard configuration is one male and one  female connection to ensure live terminals are 
+recessed).  As he started to remove the connection from the transformer, his left hand came into contact with the exposed 
+live pins and he received an electric shock. 
+
+After  receiving  the  shock,  the  electrician  fully  unplugged  the  supply  cable  from  the  vessel  220v  socket  and  reported  the 
+incident.    He  attended  the  vessel  medic  where  he  was  given  a  thorough  observation,  no  injuries  were  identified  and  no 
+further treatment was required. 
+
+An investigation revealed the following: 
+
+  Poor work practice and inadequate risk assessment for electrical isolations; 
+
+  There was a poor level of hazard awareness and task planning prior to starting work;  
+
+  Good practice is that electrical supply cables should be isolated from the power supply prior to testing; 
+
+  Design deficiencies of the electrical equipment that was being installed and used on the vessel were not identified; 
+
+ 
+
+It should not be assumed that equipment purchased for the vessel is fit for purpose until it has been correctly checked 
+and all potential hazards have been identified, risks assessed and any mitigating actions put in place; 
+
+  Electrical equipment purchased for the vessel should not be utilised until a full risk assessment has been conducted and 
+
+all relevant mitigating safety actions have been completed. 
+
+Actions taken included the following: 
+
+  Ensure electrical equipment onboard has the correct connections, configuration and rating for safe use; 
+
+  Ensure that all electrical equipment purchased for the vessel is fully inspected and tested and a full risk assessment of its 
+
+intended use takes place prior to installation and use. 
+
+Transformer for use with running machine 
+
+Supply cable with two male fittings 
+
+ 
+
+ 
+
+ 
+4  Fatality after Capsize of Workboat with Eight Persons Onboard 
+
+A member has reported an incident in which a workboat capsized during personnel transfer, causing seven people to fall into 
+the sea, one of whom drowned.  The workboat was transferring personnel from a vessel to a cargo barge during the hours 
+of darkness.  Weather conditions were: Wind E 16 knots; Sea state 0.7m  – 1.3m with period 3.8s, which conditions were 
+considered by the member to be within acceptable parameters for this kind of operation. 
+
+The workboat approached the cargo barge from the stern portside.  One person disembarked the workboat onto the cargo 
+barge.  Immediately after this, the workboat was hit by two waves from the port side; the first filling it with water and the 
+second causing it to capsize.  The person who disembarked raised the alarm by radio. Two members of the crew climbed 
+onto the hull of the capsized workboat and unsuccessfully attempted to right the boat by operating the manual handle to the 
+self-righting gear.  The other five persons made their way to the polypropylene rope attached to the emergency tow wire 
+located  on  the  stern  port  side  of  the  cargo  barge.    Of  these  five  persons,  three  did  not  hold  on  and  drifted  away,  the 
+deceased being one of them. The other two were recovered safely onto the cargo barge.  A tug vessel present in the area, 
+closest to the cargo barge, was requested to search for and recover the lost personnel.  This tug recovered the two crew 
+members from the hull of the capsized workboat, and two crew members from the water who had been holding onto the 
+polypropylene  rope.    The  third  missing  crew  member  was  recovered  later  by  a  supply  vessel  in  the  area  but  was  already 
+dead.  
+
+        Cargo barge  
+
+ 
+
+           Workboat used 
+
+    
+
+ 
+
+ 
+
+An investigation revealed the following: 
+
+  The problem had not been anticipated; the capsizing of this type of workboat had never occurred previously; 
+
+  The workboat had frequently been utilised in the same sea conditions including operations during the hours of darkness;  
+
+  Maintenance and inspection of the workboats was not fully in line with International Convention for the Safety of Life at 
+
+Sea (SOLAS) requirements;  
+
+ 
+
+Inspection  of the  self-righting  gear  revealed  that  the  safety  pin  utilised  to  prevent  activation  during  transportation  had 
+never been removed. Inspection of the records of the workboat manual revealed that  no reference was  made to this 
+device or that it should be removed before use at sea; 
+
+  Emergency response was not adequate; thus, the full detail of the emergency was not understood by those responsible 
+
+for initiating the relevant response action; 
+
+  Vessel man overboard procedures did not cover overboard scenarios remote from the vessel.  Man overboard drills and 
+
+exercises were limited to loss overboard from main vessel and did not consider personnel working in remote locations. 
+
+The following corrective actions were suggested: 
+
+  Ensure that a backup vessel is always present during vessel to vessel personnel transfer; 
+
+  Ensure that workboat personnel have specific personal protective equipment (PPE) for transfer operations dependent on 
+local  climate  and  conditions,  including  personal  locator  beacons,  life-jackets,  waterproof  radios,  work  suits  as 
+appropriate, and appropriate headgear;  
+
+  Ensure that during the hours of darkness the bridge watchman has access to night vision binoculars; 
+
+  Review procedure for personnel transfer, to include clear line of command and who should authorise the launching of a 
+
+workboat; 
+
+  Develop drills and exercises for man overboard scenario remote from vessel; 
+
+  Amend planned maintenance schedule to include checks of self-righting gear and develop user checklist; 
+
+ 
+  Ensure boarding arrangements on barges are properly considered before use; consider the possibility of development of 
+
+improved or appropriate boat landing access on barges; 
+
+  Ensure adequate lighting is available on cargo barges; 
+
+Identify appropriate tracking system for workboats; 
+
+Investigate the use of alternate means of personnel transfer. 
+
+Members are reminded that IMCA has published IMCA SEL 025   Guidance on the transfer of personnel to and from offshore 
+vessels, which can be downloaded from https://members.imca-int.com/documents/core/sel/docs/. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+

@@ -1,0 +1,192 @@
+AB 
+
+ 
+
+IMCA Safety Flash 13/12 
+
+Safety Flash 
+
+ December 2012 
+
+These  flashes  summarise  key  safety  matters  and  incidents,  allowing  wider  dissemination  of  lessons  learnt  from  them.    The  information  below  has  been 
+provided in good faith by members and should be reviewed individually by recipients, who will determine its relevance to their own operations. 
+
+The effectiveness of the IMCA safety flash system depends on receiving reports from members in order to pass on information and avoid repeat incidents.  
+Please consider adding the IMCA secretariat (imca@imca-int.com) to your internal distribution list for safety alerts and/or manually submitting information 
+on specific incidents you consider may be relevant.  All information will be anonymised or sanitised, as appropriate. 
+
+A  number  of  other  organisations  issue  safety  flashes  and  similar  documents  which may  be  of  interest  to  IMCA  members.   Where  these  are  particularly 
+relevant, these may be summarised or highlighted here.  Links to known relevant websites are provided at www.imca-int.com/links   Additional links should 
+be submitted to webmaster@imca-int.com 
+
+ 
+
+1  Near Miss: Poorly Secured Load during Lifting Operations 
+
+A member has reported an incident in which equipment being back-loaded was found to be incorrectly and unsafely secured.  
+The incident occurred during demobilisation of a third-party winch and running line monitor power supply unit (RLM PSU).  
+It was noticed when this equipment was returned to the third party base that the RLM PSU had been secured to the winch 
+frame  using  polypropylene  rope  in  an  unsafe  manner.    This  could  have  resulted  in  the  power  pack  becoming  a  potential 
+dropped object or being damaged in transit. 
+
+Red arrows illustrating how RLM PSU was secured 
+
+to winch frame using polypropylene rope 
+
+ 
+
+ 
+
+ 
+
+Items appropriately secured with securing straps in place 
+
+Our member’s investigation drew the following conclusions: 
+
+♦  There was no identified storage  area for the RLM  PSU prior to the backload taking place.  Appropriate storage  areas 
+
+should be identified for all third party equipment; 
+
+♦  Third  party  equipment  such  as  the  RLM  PSU  should  be  correctly  packaged  and  secured  before  equipment  load 
+
+out/backload; 
+
+♦  All items should be thoroughly checked before lifting to ensure that appropriate securing arrangements are in place. 
+
+Members may also wish to refer to the following documents: 
+
+IMCA SEL 019 – Guidelines for lifting operations 
+
+♦ 
+
+♦ 
+
+♦ 
+
+♦ 
+
+IMCA SPP 04 – Avoiding dropped objects 
+
+IMCA SPC 12 – Avoiding dropped objects 
+
+IMCA SPC 04 – Lifting operations 
+
+2  LTI: Person Fell Over on Helideck and Broke Arm 
+
+The Marine Safety Forum (MSF) has published the following Safety Flash regarding an incident in which a helicopter landing 
+officer (HLO) was thrown off his feet by turbulence from the helicopter as it landed.  He fell on the helideck, breaking his 
+arm.    The  immediate  cause  of  the  incident  was  that  the  HLO  was  not  sheltering  properly  from  the  downdraft  as  the 
+helicopter  landed.    The  report  can  be  downloaded  from  www.marinesafetyforum.org/upload-files//safetyalerts/msf-safety-
+flash-12.41.pdf  
+
+ 
+3  LTI: Serious Hand Injury during Subsea Lifting Operations 
+
+A member has reported an incident in which a diver injured his hand during subsea lifting operations.  A diver was about to 
+pull  a  4m  round  sling  (20  ton  SWL)  through  a  master  link.    While  he  was  hanging  the  two-headed  sling  eyes  on  the 
+corresponding hang-off point, his right hand thumb and index finger were sandwiched between the sling and hang-off point, 
+resulting  in  a  crush  injury.    The  diver  reported  this  to  the  dive  supervisor  immediately,  and  the  supervisor  arranged  for 
+emergency  recovery  of  the  injured  diver.    After  he  was  recovered  to  surface,  he  received  emergency  medical  treatment 
+before being evacuated ashore by helicopter. 
+
+Injured hand 
+
+Illustration of the right hand position holding the sling (simulated) 
+
+ 
+
+ 
+
+The company’s investigation revealed the following: 
+
+♦  The hang-off point was relatively short, approximately 13cm (see figure above right), while the diameter of the sling was 
+
+6cm, and the thickness of the two-headed sling eyes was 12cm; 
+
+♦  The sling had a tendency to come off the hook under the influence of wave surge; 
+
+♦  The moment the diver finished and left the area to wait for the lifting operation, the sling became unhooked, resulting in 
+
+it being necessary for him to return and repeat the operation several times; 
+
+♦  After repeating the operation several times, the diver became irritable and grasped the sling in an incorrect way, putting 
+
+himself in danger, resulting in the injury; 
+
+♦  The  diver  was  working  in  the  splash  zone;  the  swell  made  it  very  difficult  for  him  to  control  himself.    The  diver  had 
+
+reported that his bailout cylinder and helmet frequently hit the underwater structure. 
+
+Hook-off point in splash zone 
+
+Diagram of revised operation procedure 
+
+ 
+
+ 
+
+Following safety stand-down, medical evacuation of injured person and appropriate discussion of the incident, the company 
+took the following actions: 
+
+♦  Banded  the  4m  x  20Te  SWL  round  sling  and  created  plan  to  use  two  tail  ropes  to  pull  the  round  sling,  avoiding  the 
+
+occurrence of unhook; 
+
+♦  Ensured all the divers understood about the change in work procedures. 
+
+ 
+4  LTI Caused by Inadvertent Activation of Expired Line Throwing Device 
+
+A member has reported an incident in which a crewman was seriously injured when inadvertently struck by a line throwing 
+rocket.  The incident occurred when a search was made for a small diameter rope for use as a plumb line.  Since no suitable 
+rope was easily available, a member of the crew decided, without consulting anybody else, that the small diameter line from 
+an old rocket  assisted line throwing apparatus (LTA) could be used.   Whilst trying to  retrieve the line from the device, it 
+slipped  from  the  crew  member’s  hands,  dropped  to  the  deck  and  unfortunately  went  off.    A  crew  member  was  working 
+nearby and was inadvertently struck, causing a deep cut on his left leg near the shin.  
+
+Line throwing apparatus 
+
+Injured person’s shin 
+
+ 
+
+ 
+
+An investigation by the company noted the following: 
+
+♦  The LTA was uncontrolled and was not on any inventory list; 
+
+♦  The LTA had no safety pin or markings indicating date of manufacture, operating instructions or expiry date; 
+
+♦  There was inadequate control of spares and stock leading to a shortage of rope for the task in hand; 
+
+♦  The crew member took no account of the possible risk to himself and others in handling an explosive device. 
+
+The company made a number of recommendations particularly concerning pyrotechnic devices such as flares and rockets: 
+
+♦  Pyrotechnics should be controlled items, stored in a safe place, and only used by appropriately trained personnel; 
+
+♦  Pyrotechnics should be used only for the purpose for which they were intended or manufactured;  
+
+♦  Expired or ‘out of date’ pyrotechnics should be disposed of according to local regulatory requirements, and vessel crew 
+
+should be fully familiar with company procedures and requirements for disposal;  
+
+The company made a number of further recommendations: 
+
+♦  Better control of work and toolbox talks might have prevented this incident; 
+
+♦  Vessel crew should be aware of vessel garbage management plan; 
+
+♦  Control of spares should be such that appropriate quantities of parts and stock are available for everyday operations. 
+
+5  Fire in Engine Room Workshop 
+
+The Marine Safety Forum (MSF) has published the following Safety Flash regarding an incident in which there was a small fire 
+onboard  within  the  engine  room  workshop.    The  fire  occurred  when  engineering  personnel  decided  to  conduct  welding 
+operations in the engine room workshop without informing anybody.  The alarm was raised, the vessel emergency response 
+team was mobilised and the fire was safely extinguished.  There were no injuries. 
+
+The report can be downloaded from www.marinesafetyforum.org/upload-files//safetyalerts/msf-safety-flash-12.42.pdf 
+
+

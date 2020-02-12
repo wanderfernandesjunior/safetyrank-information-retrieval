@@ -1,0 +1,71 @@
+Safety Alert 
+
+        From the International Association of Drilling Contractors 
+
+ 
+ALERT 05 – 08 
+ 
+
+LTA - FLOORMAN STRUCK BY SNUB LINE 
+
+ 
+WHAT HAPPENED: 
+ 
+Operations were in progress to retrieve a storm packer set at 364’ RKB with 121 stands 5” drill pipe hung 
+below  the  packer.    The  storm  packer-retrieving  tool  was  made  up  to  the  first  stand  of  drill  pipe  and  three 
+more stands of drill pipe were run.  The forth stand was lowered until a single was above the rotary table and 
+landed on the slips.  The backup tongs were placed on the tool joint to back up the make up of the top drive 
+system  (TDS).    As  the  TDS  connection  shouldered,  the  tongs  bit  and  then  momentarily  released  and 
+immediately bit again, causing the 1” snub line to “whip” and strike the Floorhand on the back left side.  The 
+Floorhand  suffered  4  cracked  ribs,  a  bruised  lung  and  kidney  and  a  lacerated  spleen  from  the  snub  line 
+contact. 
+ 
+WHAT CAUSED IT: 
+ 
+1.  The  tongs slipped  due  to poor contact with  the  tool joint  allowing  slack  to  form  in  the  snub  line,  which 
+
+created the whipping effect when the tongs regained their bite on the tool joint.  
+
+2.  There was not sufficient weight on the slips to hold the pipe against the rotational torque from the TDS 
+
+with the rotary brake applied.  
+
+closer to the Floorhand.  
+
+3.  The length of the snub line allowed the tongs to rotate past 90 degrees to the pipe, bringing the snub line 
+
+4.  The  spin  function  was  used  to  turn  the  TDS,  which  applies  immediate  rotation  at  40  RPM  until  the 
+
+connection shoulders and the TDS stalls at 4-5K ft/lbs of torque.  
+
+5.  The RBS could have been used to back up the TDS. 
+ 
+CORRECTIVE  ACTIONS:    To  address  this  incident,  this  company  issued  the  directives  to  rig 
+personnel:  
+ 
+1.  The RBS shall be used to backup the make up of the TDS.  
+2.  Should  there  be  string  configuration  issues  that  restrict  the  use of  the RBS,  the  tongs  may  be used  to 
+back  up  the  TDS  make  up,  provided  that  the  rotation  of  the  TDS  is  controlled  at  a  minimal  speed  by 
+selecting the drilling mode and reducing the drilling torque to the minimum setting.  
+
+3.  All  JSAs  for  operations  where  the  TDS  is  made  up  are  to  be  reviewed  and  modified  to  reflect  these 
+
+requirements.  
+
+4.  All crews are to be briefed on these requirements, and this is to be documented. 
+ 
+ 
+
+The Corrective Actions stated in this alert are one company’s attempts to address the incident,  
+
+and do not necessarily reflect the position of IADC or the IADC HSE Committee. 
+
+This material is presented for information purposes only.  Managers & Supervisors should 
+
+evaluate this information to determine if it can be applied to their own situations and practices 
+
+Copyright © 2005 International Association of Drilling Contractors All rights reserved. 
+
+Issued February 2005 
+
+

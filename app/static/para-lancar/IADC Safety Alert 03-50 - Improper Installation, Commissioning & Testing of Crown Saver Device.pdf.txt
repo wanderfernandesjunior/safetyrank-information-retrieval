@@ -1,0 +1,75 @@
+Safety Alert 
+
+From the International Association of Drilling Contractors 
+
+ 
+
+ 
+ 
+ALERT 03 – 50 
+ 
+
+IMPROPER INSTALLATION, COMMISSIONING & TESTING OF CROWN 
+
+SAVER DEVICE 
+
+ 
+
+ 
+WHAT HAPPENED: 
+ 
+The traveling block made contact with the crown bumpers after tripping the setting of the crown saver device 
+and not coming to a full stop.  The crown saver device was not properly installed during the rig upgrade.  Post 
+upgrade commissioning and numerous required daily and monthly tests failed to identify the problem and as a 
+result, the crown saver device was not capable of fully arresting the travel of the block.   
+ 
+WHAT CAUSED IT: 
+ 
+The  crown  saver  device  was  not  properly  connected.    The  commissioning  and  subsequent  testing  failed  to 
+discover that all the air to the drawworks drum clutch was not being released.  This allowed the drawworks to 
+crawl after the brake had set.  Also, because of problems with the plastic coated drill line not properly spooling 
+on the drawworks drum, the foot throttle had been adjusted to limit the speed of the drawworks.  It appears 
+that  to  speed  up  the  drawworks  that  the  hand  throttle  was  being  used,  instead  of  the  foot  throttle,  and  this 
+contributed to the incident.   
+ 
+CORRECTIVE ACTIONS:  To address this incident, this company did the following: 
+ 
+Issued the following action items to rig supervisors: 
+ 
+
+1.  All crown saver devices are to be inspected for the correct installation and condition of control valves, 
+
+piping and air cylinders  
+
+2.  After  inspection,  the  crown  saver  device  is  to  be  function-tested  to  ensure  that  the  air  to  the  clutch 
+control valves is shut off disengaging the clutch and rendering it inoperable upon the actuation of the 
+crown saver device. 
+
+3.  Ensure the drawworks brakes are fully set after actuation of the crown saver device. 
+4.  Discuss  with  all  Drillers  that  the  hand  throttle  is  not to  be  used  as  the  normal  method  to  control  trip 
+speed,  as  this  necessitates  taking  one  hand  off  the  clutch  or  brake  and  significantly  hampers  quick 
+response to stop the drawworks.  
+
+5.  Refer to the manufacturer’s instructions for complete guidance on the setting and testing procedures 
+
+for the crown saver device. 
+
+ 
+ 
+ 
+Refer to IADC Safety Alerts:  99-03, 00-21, 02-02, 03-34 
+ 
+
+The Corrective Actions stated in this alert are one company’s attempts to address the incident, and do not 
+
+necessarily reflect the position of IADC or the IADC HSE Committee. 
+
+This material is presented for information purposes only.  Managers & Supervisors should  
+
+evaluate this information to determine if it can be applied to their own situations and practices. 
+
+Copyright © 2003 International Association of Drilling Contractors.  All Rights Reserved 
+
+Issued December 2003 
+
+

@@ -1,0 +1,77 @@
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+July 8, 2002  (reformatted 2014) 
+Washington, DC 
+
+         Inspections and Compliance Directorate 
+
+SMOKE SIGNAL / DANGER OF EXPLOSION 
+
+      Safety Alert 06-02 
+ 
+
+The Ikaros model Mk II Man-Overboard Smoke Signal (15-minute) made by Hansson Pyrotech 
+AB  of  Sweden,  is  approved  around  the  world  for  use  on  ring  lifebuoys  deployed  from  a  ship’s 
+bridge. In the United States, it holds Coast Guard approval no. 160.157/5/0.  
+
+The  smoke  signal  is  secured  to  the  ring  lifebuoy  by  a  lanyard,  and  stowed  on  the  bridge  wing 
+“upside  down”  in  a  special  bracket.  U.S.  ships  are  required  to  have  a  separate  floating  electric 
+waterlight secured to the ring lifebuoy, but many other countries accept a version of the Ikaros MkII 
+signal that includes two small lights for this purpose. When the ring lifebuoy is released from the 
+bridge, it pulls the smoke signal from its bracket. As the signal is pulled from the bracket, the igniter 
+mechanism  is  pulled  out  from  the  top  of  the  signal,  which  starts  igntion.  This  ignition  process 
+produces gas and a large volume of orange-colored smoke. The pyrotechnic composition contains 
+its own oxidizer, so once the ignition process is started, it can not be stopped.  
+
+Recently, a seaman on a foreign ship in a U.S. port was sent to check the ring lifebuoy and smoke 
+signal  on  the  bridge  wing.  In  the  process  of  doing  this,  he  started  to  move  the  signal  out  of  its 
+bracket.  Since  movement  of  only  10  mm  is  necessary  to  start  ignition  of  the  signal,  it  began  to 
+produce gas and smoke. The seaman apparently tried to stop the production of smoke by forcing 
+the  igniter  mechanism  back  into  the  signal.  This  caused  pressure  to  build  up  rapidly  inside  the 
+body of the signal, and it exploded. The seaman died of his injuries.  
+
+Hansson  has  developed  and  is  producing  a  modified  signal  that  includes  a  pressure  relief 
+mechanism. If pressure builds up inside the container due to the smoke orifice being blocked after 
+the signal is ignited, two plugs will blow out and prevent the signal from exploding. This new signal 
+is designated as the MkIII.  
+
+•  The Coast Guard recommends replacement of MkII signals with MkIII signals.  
+•  Whenever Hansson Man-Overboard signals (MkII or MkIII) or their mounting arrangements 
+are  being  serviced,  the  transport  safety  pin  should  be  inserted  in  the  signal,  which  will 
+prevent  it  from  being  accidentally  ignited.  The  transport  safety  pin  is  used  when  smoke 
+signals  are  shipped.  The  pin  is  removed  when  the  signal  is  placed  in  service.  Crew  are 
+advised  to  keep  these  pins  for  use  during  signal  maintenance.  Consideration  should  be 
+given to stowing the pin in the vicinity of the signal and the bracket.  
+If MkII signals are continued in use, a sign should be placed in a location where it can be 
+readily  seen  in  the  vicinity  of  the  stowage  location  of  the  signal,  warning  against  trying  to 
+move the signal without the transport safety pin inserted. The warning placard should also 
+include  directions  for  handling  the  marker  in  the  event  of  an  accidental  ignition  (e.g.  “DO 
+NOT RETURN TO BRACKET, EXPLOSION WILL OCCUR”). Such warnings are located on 
+the body of the signal, but they are in a position not normally visible to someone working on 
+
+• 
+
+1 
+
+the signal. The sign(s) should be in a language or languages that can be understood by the 
+crew.  
+
+This  alert  was  developed  by  the  USCG  Lifesaving  and  Fire  Safety  Standards  Division.  Content 
+questions may be addressed to LCDR Brian Gilda - gilda@comdt.uscg.mil. 
+ 
+This  safety  alert  is  provided  for  informational  purpose  only  and  does  not  relieve  any  domestic  or 
+international safety, operational or material requirement. Developed by the Office of Investigations 
+and Casualty Analysis. For questions or concerns please email hqs-pf-fldr-cg-inv@uscg.mil. 
+
+ 
+
+2 
+
+

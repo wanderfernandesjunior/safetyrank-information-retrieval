@@ -1,0 +1,560 @@
+AB(cid:31)
+
+ 
+
+IMCA Safety Flash 10/07 
+
+Safety Flash
+
+December 2007 
+
+These  flashes  summarise  key  safety  matters  and  incidents,  allowing  wider  dissemination  of  lessons  learned  from  them.    The  information  below  has  been 
+provided in good faith by members and should be reviewed individually by recipients, who will determine its relevance to their own operations. 
+
+The effectiveness of the IMCA safety flash system depends on receiving reports from members in order to pass on information and avoid repeat incidents.  
+Please consider adding the IMCA secretariat (imca@imca-int.com) to your internal distribution list for safety alerts and/or manually submitting information 
+on specific incidents you consider may be relevant.  All information will be anonymised or sanitised, as appropriate. 
+
+A  number  of  other  organisations  issue  safety  flashes  and  similar  documents  which  may  be  of  interest  to  IMCA  members.    Where  these  are  particularly 
+relevant, these may be summarised or highlighted here.  Links to known relevant websites are provided at www.imca-int.com/links   Additional links should 
+be submitted to webmaster@imca-int.com 
+
+ 
+
+1  Small Fire Caused by Portable Fan Heater 
+
+A member has reported an incident in which a small fan heater caused a fire in a cabin.  A crew member, on retiring to his 
+bunk, switched on a portable electric fan heater to warm up the inside of his cabin.  It appears that he then went to sleep 
+with the heater still switched on.  The crew member awoke to find smoke in the cabin and the smell of burning, and small 
+flames were observed coming from the heater.  The heater was immediately unplugged and placed in the cabin sink and the 
+water turned on to extinguish the flames.  At this point the vessel fire alarm sounded. 
+
+Damaged fan heater following fire 
+
+ 
+
+The company notes the following: 
+
+The  Code  of  Safe  Working  Practices  for  Merchant  Seamen  Chapter  9.3.10  states  that  “Personal  portable  space  heating 
+appliances of any sort should not be used at sea and notices to this effect should be displayed.” 
+
+This was a high potential incident which could have resulted in a major fire within the accommodation of the vessel. 
+
+The company has made the following suggestions: 
+
+vessel; 
+
+♦  Vessel  masters  should  ensure  that  no  ‘personal  portable  space  heating  appliances’  are  currently  in  use  onboard  their 
+
+♦  Any such appliances that are discovered should be removed; 
+
+♦  Only approved and fully integrated means of supplying heat to cabin areas should be used. 
+
+ 
+
+2  Bell Contamination 
+
+A member has reported that during a recent diving project, a subsea fitting failure caused divers to become contaminated 
+with a hazardous substance released from a hose under pressure.  Diver 1 subsequently returned to the bell and entered the 
+bell and was allowed to enter without taking the necessary precautions to ensure that he was free from contamination.  On 
+removal of his diving helmet, he reported to the bellman that he felt faint.  The diver was put on to the built-in breathing 
+system (BIBS) and the bell was flushed through.  Decontamination measures were then taken and diver 2 was subsequently 
+recovered to the bell.  During this incident a Hyper-Gas II analyser situated in the bell did not alarm and the bellman said he 
+was unaffected. 
+
+A review of the incident was carried out by the member company, noting the following points: 
+
+♦  The analyser in use was an infra-red analyser that looks at the specific band of light related to crude oil and condensate 
+and cannot necessarily be relied upon when vapour from only one or two specific hydrocarbons are present, as these 
+may fall outside the band of infra red light being analysed; 
+
+♦  Where the analyser is to be used in an environment where vapour from other hydrocarbons could be present, it may be 
+
+advisable to reset the analyser specifically to respond to these hydrocarbons; 
+
+♦  While the Hyper-Gas II analyser is capable of seeing specific fractions of hydrocarbons as part of crude or condensate 
+mix, such fractions need to be at a relatively high concentration before the unit will alarm, e.g. 10% of the anaesthetic 
+requirement.  Concentrations of other chemical substances may also be at levels well above the occupational exposure 
+standard  (OES)  and  be  well  on  the  way  to  a  level  that  will  incapacitate  the  bell  occupants,  with  potentially  fatal 
+consequences, before an alarm is given; 
+
+♦  The levels of individual hydrocarbons which cause anaesthesia are several orders of magnitude higher than the allowed 
+occupational  exposure  standard  for  each  compound.    This  being  so  the  Hyper-Gas  II  cannot  be,  and  has  never  been 
+presented as, a first line warning of hydrocarbon contamination in the bell; 
+
+♦  Human sensory awareness can, in some circumstances, detect  (but not quantify) substances before electronic devices.  
+
+However, this must never be relied upon as a means of detection; 
+
+♦  Although the bell is small, contamination may occur in one area of the bell but not in others.  This will depend on gas 
+flows  within  the  bell,  composition/molecular  weight  of  the  contaminant  chemicals  and  also  how  the  contaminant  is 
+introduced into the bell, e.g. by the umbilical, contaminated clothing or gaseous ingress into the bell trunk.  In two- and 
+three-man bells mixing would naturally occur due to the restricted volume. 
+
+Members are reminded of the following: 
+
+♦  Analysers  can  usually  only  warn  of  an  event  once  it  is  occurring  and  they  should  not  be  relied  upon  as  the  primary 
+warning  of bell  contamination.    Prevention  of  contamination  and the use  of  enhanced  diving  techniques  should  be  the 
+primary defence against bell contamination; 
+
+♦  Where contamination is possible, enhanced diving procedures should be used.  These include: correct bell positioning, 
+the use of BIBS by the bellman prior to diver recovery and prior to assisting the diver when contamination is suspected, 
+decontamination  of  umbilical,  removal  of protective  coveralls  and  thorough  diver  decontamination  prior  to  bell entry, 
+testing of the bell atmosphere using the appropriate Draeger tubes to confirm bell conditions; 
+
+♦  At the planning stage of an operation, the project engineer should ensure any chemicals/hazardous substance used during 
+the operation, or contained within the system to be worked on, are identified and a material safety data sheet (MSDS) is 
+obtained; 
+
+♦  The MSDS for each substance should be presented to the project safety adviser, who will arrange for a safety assessment 
+
+to be completed, including a diving assessment; 
+
+♦  A review of the chemical/hazardous substance will consider the need for any additional specific Draeger tubes to identify 
+
+contamination/quantify bell atmospheric conditions. 
+
+A video showing the effects of an anaesthetic chemical within a contaminated bell is available from Analox. 
+
+ 
+
+ 
+
+3  Failure of a High Pressure Gas Charging Hose 
+
+A member has reported the failure of a high pressure (HP) gas charging hose during routine gas decanting to top up the gas 
+banks of a mobile surface supplied diving system which had been installed into a small craft used for remote diving operations. 
+
+During the gas bank decanting, an HP gas charging hose ruptured and its recoil force caused shear failure of an isolation valve 
+fitting which was serving as an anchor for the HP hose whip check. 
+
+The  resulting  failure  of  the  valve  fitting  connection  caused  a  restrained  flailing  of  the  hose  and  valve  fitting  which  became 
+entangled on the structure of the small craft. 
+
+All gas banks were immediately isolated, which prevented any personnel injury or further equipment damage. 
+
+King valve and regulator on quad 
+
+Isolation/relief valves 
+
+on deck 
+
+HP charging hose from supply quad used for decanting  
+
+ 
+
+Charge point  
+
+isolation valve stem 
+
+One end of whip  
+
+check  
+
+anchored here 
+
+Failed HP hose  
+
+connected 
+
+here 
+
+Charging point assembly in small craft 
+
+ 
+
+Stem of isolation valve 
+
+on charge point  
+
+Whip check still in its 
+
+anchoring position 
+
+Ruptured 5m 
+long HP hose 
+
+ 
+
+ 
+
+Whip check still in its 
+anchoring positions 
+
+ 
+
+ 
+
+Ruptured hose with sheared fitting/valve attached 
+
+¼” NPT Nipple snapped off from diver charging manifold  
+
+After investigation by the company involved, the following points were highlighted: 
+
+♦  The whip check was anchored on a pressurised valve; 
+
+♦  There was a failure to recognise the force of recoil and effect on the whip check anchor point; 
+
+♦  The safe positioning of personnel performing the operation was inadequate. 
+
+Members are urged to consider the following: 
+
+♦  A review of whip check anchoring methods on all HP hoses; 
+
+♦  An inspection of all hoses for any indication of defect; 
+
+♦  The use of dedicated anchor connection points for whip checks; 
+
+♦  An alternative design of whip check that ensures the whip is held at the very end of its length i.e. Chinese finger style; 
+
+♦  A review of the service life for high pressure flexible hoses looking at the original date of whip manufacture and how 
+
+many pressurisation cycles the whip has had. 
+
+4  Divex HSE Alert HSE003-2007 – ‘Helinaut’ Sacrificial Hose Whips 
+
+Divex has asked IMCA to circulate the attached Divex HSE Alert. 
+
+5  Divex HSE Alert HSE001-2007 – Valve Seat Retainer 
+
+Divex  has  asked  IMCA  to  recirculate  the  attached  Divex  HSE  Alert,  first  issued  in  IMCA  Safety  Flash  02/07,  in  order  to 
+ensure companies and their worksites around the world are aware of this issue. 
+
+DIVEX HSE ALERT 
+
+ 
+ 
+HSE Alert No. HSE003-2007
+ 
+ 
+ 
+ 
+“Helinaut” Sacrificial Hose whips 
+ 
+ 
+Part No: C1506B 
+ 
+ 
+ 
+DATE 
+
+ 
+COUNTRY: 
+
+December 
+
+7th 
+
+ 
+ 
+
+2007 
+
+  
+
+ 
+
+Divex Ltd. 
+Enterprise Drive 
+Westhill, Aberdeen 
+AB32 6TQ, United Kingdom 
+
+Telephone  +44 (0)1224 740145 
+Facsimile   +44 (0)1224 740172 
+E-mail  
+
+info@divex.co.uk 
+
+ 
+LOCATION: 
+
+ 
+ 
+
+ 
+ 
+Product safety notice 003/2007 
+  
+Divex part # C1506B - "Helinaut" sacrificial reclaim whips 
+  
+A potential problem has been identified with the C1506B "Helinaut" reclaim hose sacrificial whips, which are 
+used  between  the  Diver's  reclaim/exhaust  helmet  connection  and  the  divers  excursion  umbilical  reclaim 
+hose itself. 
+  
+The problem which has been identified is:- 
+  
+Some end fittings/hose barbs are not sufficiently crimped to ensure security! 
+We have had an incident reported where a Diver in the water had an end fitting coming out of the crimped hose 
+thus losing reclaim. 
+Whilst  not,  we  believe,  life  threatening  as  the  Diver  will  merely  lose  reclaim  and  go  on  “open  circuit”,  this  is 
+obviously unacceptable and Divex have put in place measures to address future production and ensure all stock 
+is fully fit for purpose. 
+These hoses  are  now  made  using  a  Cortland  Fibron  hose  (shiny  black  smooth  hose-  with  the  hose  braid 
+"almost visible through the outer jacket”). 
+This hose has an OD of 21mm which results in a finished crimp dia.of 21.3mm - 21.6mm. 
+  
+Older hoses were made from a JDR hose which had a hose dia. of 22mm - 23 mm and resulted in a finished 
+crimp size of 23.5mm - 23.7mm. 
+  
+We  would  advise  ALL  users  of  C1506B  “Helinaut”  sacrificial whips  purchased  since 
+January 2006 to,  as a matter of urgency:- 
+ 
+Check all your base stock and worksite inventory for integrity & security of both end 
+fittings. 
+ 
+ 
+Users must for each hose end fitting - check the following:- 
+  
+
+     
+     
+
+a)    Measure the crimp diameter and ensure they are within the tolerances above. 
+b)    The crimp itself is not free to turn. 
+c)    Pressure test the hose to 10 Bar and check for leaks 
+d)  Perform a pull test on each end by applying a load of 100N  ( 10 kilo’s)  
+
+ 
+Should you find any hoses which:- 
+ 
+     
+    
+    
+     
+  
+Divex will rework/replace any faulty hoses without charge. 
+ 
+
+a)    Are out with the crimp tolerance shown above  
+b)    Have end fittings or crimps which are or appear to be loose 
+c)    Leak. 
+d)    Give concern in any way  
+
+Rev 1 
+
+ 
+
+         Page 1 of 2 
+
+ 
+ 
+The returned goods should be sent to your nearest Divex office, carriage charges paid. 
+ 
+For Europe based  customers  pls  return  to  Divex  Ltd.  Aberdeen  Office,  stating  the  authorised  RGA  number 
+which our sales/operations dept. shall give you. 
+Please contact Divex Aberdeen Sales dept. via:- 
+  
+    E-mail sales@divexglobal.com 
+  
+    Phone + 44 - 1224 - 746500 
+  
+    Fax    +44 - 1224 - 740172 
+  
+Please mention Divex Safety notice xx/2007 and the qty of hoses you are going to return & you will be given an 
+RGA # for the authorised return.  
+  
+Divex shall replace/re-work all returned hoses which are found to be faulty. 
+  
+Divex have  amended  the  work  instructions  to  ensure  the  correct  crimp  diameters  are  now clearly  stated & 
+understood  plus  we  have added a 10  kilo  "pull  test" in  addition  to  10  Bar  leak  testing  which  every  hose  is 
+subject to. 
+  
+In  addition  Divex  have re-trained  all  our  Production  Staff  in  the  updated process  and  re-emphasised  the 
+criticality of production & quality control of "Life Support Equipment". 
+  
+Any queries on this issue should be addressed to:- 
+  
+James Massie - Product Engineer- jmassie@divexglobal.com 
+  
+Malcolm Cattanach - Commercial Product & Projects Manager - mcattanach@divexglobal.com 
+ 
+
+Issued 7th December 2007 
+
+Malcolm Cattanach 
+Commercial Projects & Products Manager 
+
+Divex Ltd. 
+Enterprise Drive, 
+Westhill Industrial Estate, Westhill, 
+Aberdeen, Scotland, UK. AB32 6TQ 
+Tel:   +44 (0) 1224 740145 
+Fax:  +44 (0) 1224 740172 
+E-Mail: mcattanach@divexglobal.com 
+
+ 
+
+  
+
+ 
+
+Rev 1 
+
+ 
+
+         Page 2 of 2 
+
+DIVEX HSE ALERT 
+
+ 
+
+  
+
+Divex Ltd. 
+Enterprise Drive 
+Westhill, Aberdeen 
+AB32 6TQ, United Kingdom 
+
+ 
+ 
+HSE Alert No. HSE001-2007
+ 
+ 
+ 
+ 
+Valve Seat Retainer 
+ 
+ 
+Part No: D1998 
+ 
+ 
+ 
+DATE 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Divex has been advised of some problems which customers have experienced when using Ultraflow "balanced 
+demand valve helmets" at the top end of the acceptable supply pressure range i.e 15-20 bar. 
+ 
+
+Telephone  +44 (0)1224 740145 
+Facsimile   +44 (0)1224 740172 
+e-mail  
+
+ 
+LOCATION: 
+
+ 
+COUNTRY: 
+
+ 
+21/02/07 
+
+info@divex.co.uk 
+
+ 
+ 
+
+ 
+ 
+
+ 
+            Symptoms reported include :-  
+
+ 
+1) technicians experiencing difficulty in setting up the regulators correctly,  
+2) the valve stem entering too far into the seat / seat retainer and sticking,  
+3) a reduction in flow from the regulator as the supply pressure was increased. 
+ 
+We have investigated the cause and have concluded that a batch of seat material which was at the bottom end 
+of the acceptable hardness range is responsible for symptom 2.  
+ 
+ 
+It was found that a less than perfect glue joint was allowing supply gas behind the seat and causing the seat 
+material to part company with the retainer adjacent to the bore.  The seat then pushed the valve stem forward 
+causing the roller lever to drop while maintaining a gas tight seal and is responsible for symptom 3. 
+ 
+ 
+
+            Divex recommend that all valve seat retainers are tested as a matter of urgency as described below:- 
+
+ 
+1) Remove the regulator cover and diaphragm, 
+2) Connect a variable pressure breathing gas supply, 
+3) Adjust the supply pressure gradually from zero to 10 bar and note the amount of free play at the roller end of the 
+roller lever. 
+4) Increase the supply pressure gradually to 20 bar and monitor the free play.  An increase in the free play of up to 
+2mm indicates that the seat retainer is acceptable.  If the increase is greater than 2mm then the seat retainer 
+should be replaced with a new unit. 
+ 
+ 
+If, for operational reasons, it is not possible to conduct the above tests immediately then Divex recommends that 
+the maximum supply pressure is limited to 12 bar until tests are completed. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Rev 1 
+
+Page 1 of 2
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+Divex will replace all faulty valve seat retainers.  Please advise the Divex Aberdeen sales office of the quantity 
+required.  These will be shipped carriage free and invoiced at standard spare part price. Any faulty valve seat 
+retainers returned to Divex Aberdeen quoting the sales order ref we give at time of replacement ordering will be 
+credited at full price. 
+ 
+ 
+ 
+ 
+ 
+NAME: 
+
+ 
+ 
+Malcolm Cattanach 
+
+ 
+ 
+21/02/07 
+
+ 
+ 
+ TITLE: 
+
+ 
+ 
+DATE: 
+
+Projects  & 
+
+ 
+ 
+Commercial 
+Products Manager 
+
+ 
+  for and on behalf of Divex Ltd. 
+
+Rev 1 
+
+Page 2 of 2
+
+

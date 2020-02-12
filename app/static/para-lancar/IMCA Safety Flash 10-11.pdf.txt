@@ -1,0 +1,228 @@
+AB 
+
+ 
+
+IMCA Safety Flash 10/11 
+
+  September 2011 
+
+These  flashes  summarise  key  safety  matters  and  incidents,  allowing  wider  dissemination  of  lessons  learnt  from  them.    The  information  below  has  been 
+provided in good faith by members and should be reviewed individually by recipients, who will determine its relevance to their own operations. 
+
+The effectiveness of the IMCA safety flash system depends on receiving reports from members in order to pass on information and avoid repeat incidents.  
+Please consider adding the IMCA secretariat (imca@imca-int.com) to your internal distribution list for safety alerts and/or manually submitting information 
+on specific incidents you consider may be relevant.  All information will be anonymised or sanitised, as appropriate. 
+
+A  number  of  other  organisations  issue  safety  flashes  and  similar  documents  which may  be  of  interest  to  IMCA  members.   Where  these  are  particularly 
+relevant, these may be summarised or highlighted here.  Links to known relevant websites are provided at www.imca-int.com/links   Additional links should 
+be submitted to webmaster@imca-int.com 
+
+ 
+
+1  Oxygen Regulator Explodes Causing Injury 
+
+A  member  has  reported  an  incident  in  which  an  oxygen  regulator  exploded  when  the  oxygen  was  turned  on,  causing  a 
+second degree burn injury to someone’s hand. The incident occurred during  the changeover of high pressure (HP) oxygen 
+diving  gas  quads.  The  gasman  was  tasked  with  going  on  deck  to  change  over  a  supply  of  oxygen  from  one  gas  quad  to 
+another.  Company  procedures  for  isolating  the  oxygen  quad,  venting  the  line,  disconnection  of  the  regulator  and  then 
+reconnection onto the new quad were all carried out correctly. Once the regulator was reconnected onto the new gas quad 
+the gasman turned on all 16 individual bottle valves. He then ensured the oxygen regulator was fully wound back and then 
+proceeded to open the King Valve to allow the oxygen to flow into the regulator. It was during this process of turning the 
+King Valve and releasing oxygen at 200 bar into the regulator that the explosion took place. 
+
+After  the explosion it was not possible to isolate the escaping oxygen from the King  Valve due to possible damage to the 
+valve seat. Each of the 16 individual cylinders then had to be turned off to isolate the flow of oxygen.   
+
+        Oxygen gauge 
+
+Gas quad and King Valve 
+
+Burn injury to hand 
+
+ 
+
+ 
+
+ 
+
+Following investigation, the following points were noted: 
+
+  Unsuitable personal protective equipment (PPE) was worn for the task. A glove which would restrict heat exchange to 
+
+the skin would have been more suitable, and consideration should be given to the use of a full face mask; 
+
+  Possibility that there may have been some debris or substance such as grease or oil left in the King Valve by the supplier 
+
+prior to delivery to the vessel; 
+
+  The practice of opening all 16 cylinders at once proved to be hazardous in isolating the flow of escaping oxygen. 
+
+The following actions were put in place: 
+
+  Ensure all connection points are free from grease, oil and dirt prior to connecting any regulators or hoses; 
+
+  Ensure oxygen storage areas are sited such that they will not be contaminated with oil or grease, for example beneath an 
+
+ROV platform; 
+
+  Conduct checks of all in use and serviceable regulators used for transfer of oxygen, including those not connected with 
+
+diving, for example deck welding/burning operations; 
+
+  The risk assessment for the connection and disconnection of gas quads and equipment should be suitable and sufficient, 
+
+and should be understood by all; 
+
+ 
+
+  The following revised procedure was developed for connecting to an oxygen quad: 
+
+remove suppliers’ dust cap 
+crack King Valve to confirm there is no pressure behind the valve 
+
+– 
+– 
+–  open King Valve and install regulator for gauging and analyses 
+– 
+– 
+– 
+
+confirm regulator is backed off 
+the first cylinder is to be opened with the technician standing to the side or rear of the quad 
+allow pressure to equalize slowly in the manifold and proceed to open remainder of cylinders. 
+
+2  Lifeboat Drill – Near Casualty  
+
+An  incident  has  been  brought  to  IMCA’s  attention  in  which  a  lifeboat  was  accidently  dropped  into  the  sea.  The  incident 
+occurred during a lifeboat drill at sea in good weather conditions. The starboard lifeboat was lowered to the embarkation 
+deck. In this operation the top link of the forward chain for the connection between the davit floating block and the hook on 
+the lifeboat parted, such that the entire load of the lifeboat was transferred to the aft hook/chain. As the aft chain could  not 
+withstand  this  weight,  it  parted  and  the  lifeboat  was  dropped  into  the  sea.  At  the  time  of  the  incident  no  crew  members 
+were onboard the lifeboat and thus there were no injuries. However, the lifeboat itself was considered a total loss due to 
+extensive damage caused by the fall.  
+
+As lifeboats are often the primary method of evacuation from  many vessels, the importance of maintaining the lifeboats to 
+the  highest  standard  cannot  be  over-emphasised.  This  safety  flash  highlights  the  importance  of  thorough  inspection  and 
+maintenance of lifeboats and their associated launching equipment. 
+
+Sequence of images illustrating the equipment failure 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Following investigation, the following probable cause of the incident was identified:  
+
+It is likely that the top link of the forward chain parted due to corrosion or damage of the welding of the link such that 
+the load was no longer distributed to both sides of the link. As the links/chain were painted it was probably difficult to 
+detect the fracture that had developed over time. 
+
+The following lessons, applicable to all vessels using chain links as part of the load transmission from the davit or davit block 
+to the lifeboat hook, were drawn from the incident: 
+
+  Chains  should  be  replaced  at  regular  intervals  and/or  tested  by  DPI/Ultrasonic  testing  at  regular  intervals  to 
+eliminate/detect parts with potential risk (although not required by the International Convention for the Safety of Life at 
+Sea (SOLAS)), and this should then be included in the vessel maintenance system; 
+
+  The  lifeboat  chain,  hooks  and  release  system  should  be  inspected  and  maintained  according  to  manufacturers’ 
+
+recommendations, and should be included in the vessel maintenance system; 
+
+ 
+
+It is recommended that lifeboats are lowered without personnel  onboard and boarding then carried out after the boat 
+has been lowered, unless the boat is to be used for an emergency situation as directed by the master.  
+
+The following actions were taken: 
+
+ 
+
+Identification and inspection of all lifeboat equipment using chain links as part of the load transmission from davit or davit 
+block to lifeboat hook; 
+
+  Review of adequacy of inspection level and frequency as part of planned maintenance routines. 
+
+ 
+
+3  Gimballed Frying Pan – Handle Assembly Failure    
+
+The  Marine  Safety  Forum  has  published  Safety  Flash  11-21  (attached)  regarding  the  failure  of  the  handle  assembly  on  a 
+gimballed galley frying pan. The incident had a very high potential of injury as the cook may well have been scalded or burnt. 
+As the incident occurred during cleaning, it was fortunate that no injury occurred. 
+
+Members are encouraged to check the integrity of fittings on gimballed frying pans.    
+
+Further Information can be found from: www.marinesafetyforum.org/upload-files//safetyalerts/msf-safety-flash-11.21.pdf  
+
+ 
+
+ 
+4  Serious Injury as a Result of a fall from Height    
+
+The Marine Safety Forum has published Safety Flash 11-23 (attached) regarding a serious injury which occurred as a result of 
+a fall from height. A worker slipped and fell 3.5 meters onto concrete and suffered compound fractures of the left tibia and 
+fibula. He was wearing a safety harness but had not hooked off.   
+
+Further information can be found from: www.marinesafetyforum.org/upload-files//safetyalerts/msf-safety-flash-11.23.pdf  
+
+ 
+
+ 
+5  Fatality during Rope Access Work  
+
+The Marine Safety Forum has published Safety Flash 11-24 (attached) regarding a recent fatality which occurred during rope 
+access work.  
+
+An investigation into this incident is currently in progress; as more information becomes available we will publish an update.  
+
+Further Information can be found from: www.marinesafetyforum.org/upload-files//safetyalerts/msf-safety-flash-11.24.pdf     
+
+ 
+
+ 
+6  Collision between Vessel and Installation Resulting in Damage to Both   
+
+The  Marine  Safety  Forum  has  published  Safety  Flash  11-25  (attached)  regarding  a  recent  collision  between  a  vessel  and  an 
+installation which caused some damage to both vessel and installation.  
+
+Further Information can be found from: www.marinesafetyforum.org/upload-files//safetyalerts/msf-safety-flash-11.25.pdf. 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+   
+
+ 
+
+ 
+7  Mooring Line Operational Safety  
+
+The United States Coast Guard (USCG) has issued Marine Safety Alert 01-11 (attached) regarding the operational safety of 
+mooring lines, which covers recent injuries and fatalities that have occurred during mooring line operations on vessels in US 
+waters. 
+
+The safety alert can be downloaded from the USCG’s ‘Homeport’ portal.  
+
+ 
+
+ 
+
+ 
+
+ 
+
+Safety Flash 
+
+ 
+
+

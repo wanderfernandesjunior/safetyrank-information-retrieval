@@ -1,0 +1,86 @@
+Safety Alert 
+
+        From the International Association of Drilling Contractors 
+
+ 
+ALERT 06 – 35  
+ 
+
+RELEASE OF PRESSURE RESULTS IN LACERATION AND SUTURES 
+
+ 
+
+WHAT HAPPENED: 
+ 
+While  pressure  testing  the  Choke  Manifold  up  to  15,000psi  the  Assistant  Driller  noticed  a  leak  at  the  test 
+hose at approximately 9,000psi and asked the Motorman to repair the leak.  First the Assistant Driller opened 
+the bleed valve at the test pump and then he went directly to the Choke Manifold so that he could bleed off 
+the volume in the line to the trip tank.  While the Assistant Driller was still opening the valve the Motorman 
+disconnected the quick release couplings at the choke causing the escape water pressure to lacerate the left 
+palm at the base of the thumb.  The laceration required four sutures. 
+ 
+WHAT CAUSED IT: 
+ 
+•  A previous leak had been observed during a test at 15000psi 10 minutes prior to this incident.  On that 
+occasion the Motorman took approximately 10 minutes to report to the work site allowing sufficient time 
+for the whole system to bleed off and the repairs completed without incident. 
+
+•  Both  the  Assistant  Driller  and  the  Motorman  were  experienced  and  had  conducted  tests  and/or 
+
+maintained or repaired the lines and associated equipment on many occasions. 
+
+•  The double skinned ½ inch HP line from the Test Pump to the Choke Manifold was rated to 20,000psi 
+
+working pressure.  The actual diameter for pressure release was approximately ¼ inch. 
+
+•  There was no communications between the Assistant Driller and the Motorman when to disconnect the 
+
+HP line. 
+
+•  A permit to work was in place. 
+•  There was no written procedure, JSA or equivalent for this task. 
+•  A pre-job meeting was conducted prior to pressure testing. 
+•  There was no additional job meeting or step back conducted when the conditions of the job changed i.e. 
+
+the need to bleed off pressure because of the leak observed. 
+
+ 
+CORRECTIVE ACTIONS:  The following learning’s/corrective actions have been identified: 
+ 
+•  Lack of Supervision.  All Supervisors as part of their position are obligated to ensure that those working 
+
+under their supervision are fully aware of their responsibilities in the task at hand  
+
+•  Planning.    Planning  isn’t  just  about  the  start  to  the  end.    It  includes  what  might,  could  or  can  happen 
+between  those  two  points.    When  there  is  a  change  during  a  job  or  process  we  need  to  reassess  our 
+planning to ensure the change is controlled and any new steps or hazards are identified. 
+
+•  Complacency.    This  job  has  been  performed  on  many  occasions  without  injury.  In  this  case  the 
+pressure had not been fully released.  Evidence that the pressure system has been fully depressurized 
+must be checked i.e. ALL pressure gauges are to indicate zero with zero fluid release before dismantling 
+or starting any work pressure equipment. 
+
+•  Lack of Policy and Procedures. No documented procedures.  Rig to develop a procedure and/or JSA 
+on Working with Pressure and associated hazards. Standards to be agreed on the requirements during 
+pressure testing i.e. barrier tape, signage. 
+
+•  Education.  Rig  Managers  are  to  educate  all  personnel  on  the  need  to  step  back  for  all  jobs  and  any 
+
+change to the job.  
+
+ 
+ 
+
+The Corrective Actions stated in this alert are one company’s attempts to address the incident,  
+
+and do not necessarily reflect the position of IADC or the IADC HSE Committee. 
+
+This material is presented for information purposes only.  Managers & Supervisors should 
+
+evaluate this information to determine if it can be applied to their own situations and practices 
+
+Copyright © 2005 International Association of Drilling Contractors All rights reserved. 
+
+Issued October 2006 
+
+

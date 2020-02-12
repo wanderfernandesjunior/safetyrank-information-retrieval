@@ -1,0 +1,59 @@
+AB
+
+ 
+
+IMCA Safety Flash 08/00 
+
+Safety Flash 
+
+December 2000 
+
+These  flashes  summarise  key  safety  matters  and  incidents,  allowing  wider  dissemination  of  lessons  learned  from  them.    The  information  below  has  been 
+provided in good faith by members and should be reviewed individually by recipients, who will determine its relevance to their own operations. 
+
+The effectiveness of the IMCA safety flash system depends on receiving reports from members in order to pass on information and avoid repeat incidents.  
+Please consider adding the IMCA secretariat (imca@imca-int.com) to your internal distribution list for safety alerts and/or manually submitting information 
+on specific incidents you consider may be relevant.  All information will be anonymised or sanitised, as appropriate. 
+
+A  number  of  other  organisations  issue  safety  flashes  and  similar  documents  which  may  be  of  interest  to  IMCA  members.    Where  these  are  particularly 
+relevant, these may be summarised or highlighted here.  Links to known relevant websites are provided at www.imca-int.com/links  Additional links should 
+be submitted to webmaster@imca-int.com 
+
+ 
+
+1  Dangerous Transformers 
+
+One of our members has informed us that one of their vessels, operating in the Gulf of Mexico, has reported that a number 
+of ‘dangerous transformers’ have appeared onboard from an unknown source. 
+
+Overleaf is a picture of one of the transformers. 
+
+  The transformers have no earth and thus do not comply with relevant class (class I equipment – earthed) for appliances 
+
+of this kind; 
+
+produce 440v; 
+
+  The transformers are not double insulated and in fact have a metal casing.  This does not comply with the relevant class 
+
+(class II equipment – double insulated) for appliances of this kind; 
+
+  The lead has two plugs and the transformer two sockets.  It is possible to plug a 220v supply into the 110v socket and 
+
+ 
+
+If  power  is  fed  to  the  transformer  then  both  sockets  become  live  and  there  is  a  high  risk  of  somebody  being 
+electrocuted. 
+
+2 
+
+Incompatible Threads on the bell Onboard Gas Bottles 
+
+We have received a report from a diving support vessel (DSV) that during the re certification and testing of the bell onboard 
+gas bottles, it was found that the pillar valves were incompatible with the threads on the bottles.  The bottles were W28.8 x 
+1¼” according to DIN 477.  The pillar valves were ¾” NPT. 
+
+Since  it  is  understood  that  this  re-certification  was  done  in the  past by  a  third  party  test  house,  contractors  may  wish  to 
+examine their own worksites to check that they do not have a similar problem 
+
+

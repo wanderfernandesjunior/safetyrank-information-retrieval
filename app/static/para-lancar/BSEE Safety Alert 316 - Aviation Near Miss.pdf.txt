@@ -1,0 +1,100 @@
+Safe ty Alert No. – 316   
+12 Ju12n  e 2015 
+ 
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+Contact:  Steve Rauch 
+Phone: 571-594-8383 
+
+Aviation Near Miss 
+
+ 
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+
+iew:  BSEE recently experienced an aviation near miss that narrowly escaped becoming a head-on 
+
+Overv 
+colli sion.  The BSEE helicopter was transporting two BSEE inspectors to an offshore platform and had 
+just left an airport’s Class D Airspace when they encountered another helicopter flying inbound to that 
+airport.  The two helicopters were flying directly towards each other at the same altitude and came 
+within an estimated 200 feet (laterally) before either pilot saw the other.  When the pilot of the inbound 
+helico  pter saw the BSEE helicopter he banked to the left and continued on to the airport, contacting the 
+tower   and reporting the near miss.  Neither aircraft was damaged, and there were no injuries. 
+ 
+Several issues contributed to the near miss.  First, weather conditions were foggy with ceilings as low as 
+500 feet and visibility of 5 miles.  These conditions, while not optimal, exceed the minimum weather 
+required by the contract.  Second, the Traffic Collision Avoidance System (TCAS) in the BSEE aircraft 
+did not automatically switch from “standby mode” to “operational mode” upon takeoff, and the 
+passengers could not hear the TCAS audio alerts.  And, lastly, neither pilot was using their forward-
+facing pulse light at the time of the incident.  
+ 
+Findings:   
+
+•  There were no violations of Federal Aviation Administration (FAA) rules or contract 
+
+requirements by either pilot.  However; 
+o  Neither pilot was using their landing light in the pulse mode. 
+o  Both pilots are responsible to “See and Avoid” but neither pilot is considered “at fault”. 
+
+•  The TCAS did not automatically switch from standby to operational. 
+•  The near miss was reported to the airport Tower and no follow up information was requested. 
+•  The  “near-miss” was reported in accordance with BSEE safety tracking system policy.  
+
+However, notification to BSEE senior leadership was delayed.  
+
+ 
+Recommendations: 
+
+interferes with the pilot.   
+
+•  Require the use of the Strobe Light and the Pulse Light at all times during flight unless their use 
+
+•  Ensure the TCAS is in the operational mode for all flight operations.   
+
+o  The TCAS audio function should also be operational at all intercom stations. 
+
+•  Conduct periodic tests of aviation mishap response plans including notification requirements for 
+both the aviation service provider and the organization whose personnel are being transported.  
+Ensure expectations for early incident notification are communicated throughout the 
+organization. 
+
+                                                           
+1  
+2  
+A Safety Alert is a tool used by BSEE to inform the offshore oil and gas industry of the 
+circumstances surrounding an accident or a near miss.  It also contains recommendations that 
+should help prevent the recurrence of such an incident on the Outer Continental Shelf. 
+
+ 
+ 
+
+

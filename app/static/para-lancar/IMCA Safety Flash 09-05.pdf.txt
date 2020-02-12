@@ -1,0 +1,181 @@
+AB
+
+ 
+
+IMCA Safety Flash 09/05 
+
+July 2005 
+
+These  flashes  summarise  key  safety  matters  and  incidents,  allowing  wider  dissemination  of  lessons  learned  from  them.    The  information  below  has  been 
+provided in good faith by members and should be reviewed individually by recipients, who will determine its relevance to their own operations. 
+
+The effectiveness of the IMCA safety flash system depends on receiving reports from members in order to pass on information and avoid repeat incidents.  
+Please consider adding the IMCA secretariat (imca@imca-int.com) to your internal distribution list for safety alerts and/or manually submitting information 
+on specific incidents you consider may be relevant.  All information will be anonymised or sanitised, as appropriate. 
+
+A  number  of  other  organisations  issue  safety  flashes  and  similar  documents  which  may  be  of  interest  to  IMCA  members.    Where  these  are  particularly 
+relevant, these may be summarised or highlighted here.  Links to known relevant websites are provided at www.imca-int.com/links   Additional links should 
+be submitted to webmaster@imca-int.com 
+
+ 
+
+1  Malfunctions of Kirby Morgan B17 Side Block Non Return Valve 
+
+A member has reported that it has experienced several failures of KM B17 side block non-return valves which have had little 
+or no in-water service. 
+
+To date, defects have been encountered in the following batch numbers: 
+
+  P214-180 12/04 
+
+  P214-180 02/05 
+
+This may suggest potential of other batches which may exhibit similar faults. 
+
+The incidents to date have been as follows: 
+
+  Scenario 1 – It would appear that the random inability of the valve to seat was due to material peeling off the seal wiper 
+(part #34).  The material has been found to be bypassing the ‘o’-ring seal (part #33) and lodging in the seat.  This has 
+occurred each time the seat has been connected or disconnected from the body.  This is not a single unit occurrence 
+and appears to be prevalent in batch P214-180 12/04.  Further investigations are ongoing; 
+
+  Scenario 2 – During further investigation of non-return valves on the worksite, it was found that batch number P214 180 
+
+02/05 failed during bell checks and was subsequently found to ‘stick’ whilst shaken. 
+
+The  diving  contractor  has  had  extended  conversations  with  its  supplier,  which  has  contacted  Kirby  Morgan  Dive  Systems 
+International  –  the  diving  helmet  manufacturer  (although  we  understand  the  manufacture  of  the  non-return  valve  is  sub-
+contracted).  Discussions are ongoing, but the diving contractor feels an interim alert should be issued to all IMCA members 
+and industry, identifying the potential problem and obvious severe consequences should umbilical services fail. 
+
+Kirby Morgan has subsequently issued the attached notice, which it has asked IMCA to distribute as soon as possible. 
+
+2  Serious Injury During Crane Operations 
+
+A member has reported a serious injury that occurred during crane operations on a third party vessel.  The vessel had been 
+released  from  towing  a  flexible  riser  and  the  tow-wire  had  been  recovered  to  the  vessel  deck.    The  crew  was  removing 
+flotation and a soft strop extension from the tow wire using the port-side Palfinger crane. 
+
+The  crane  operator,  controlling  the  crane  using  the  remote  control  flying  lead,  was  repositioning  the  crane  for  the  next 
+operation when he drove the head of the boom up and into the grating floor of the A-frame walkway, 14 metres above the 
+main deck.  The grating came loose due to the force and fell.  The crane operator, who was standing directly underneath the 
+grating, was hit on the head and then the left foot by the falling grating, estimated to weigh between 10-12 kg. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Although the injured person suffered four broken bones in his left foot, a wound to his left elbow and superficial injuries to 
+his head (cut/bruising), the company concerned has noted that the potential for a fatality to have occurred in this incident 
+cannot be over-emphasised. 
+
+The company made the following observations as regards the likely immediate causes of the accident: 
+
+  Lack of care and attention – This was a routine operation performed by the most experienced crane operator on the 
+vessel.  Checks of the height of the crane boom in relation to overhead hazards should have been carried out prior to 
+any crane movement; 
+
+ 
+
+Incorrect working position – The crane operator had failed to stand in a safe working position and was directly under 
+the hazard.  As a result of incorrect working position, he would have been unable to judge the height of the crane boom 
+in relation to the A-frame walkway; 
+
+ 
+
+Incorrect PPE – The injured person was not wearing safety boots but was in fact wearing backless safety shoes (clogs). 
+
+The company has made the following notes and suggestions: 
+
+  During routine work there is the possibility for complacency to arise, so treat every task as if it is a new task; 
+
+  Examine your working position before starting work and ensure you assume the safest position for the task; 
+
+Consider industry best practice for lifting, requiring three personnel to be involved in every lift – crane operator, banksman 
+and load handler. 
+
+Safety Flash 
+
+Circle Seal Controls, Inc.  One-Way Valve Part P214-180. 
+
+Defective Valve Dates 12/04 thru 2/05 
+
+Safety Notice # 1 of 2005 
+
+Defective One Way Valve Recall 
+
+July 12, 2005 
+
+Subject: 
+
+ 
+
+Products Affected: 
+
+URGENT SAFETY NOTICE! 
+
+Kirby Morgan helmets, BandMasks and replacement parts. 
+
+KMDSI P/N 555-195 One Way Valve and P/N 505-060 One Way Valve Assembly. 
+
+Kirby  Morgan  Dive  Systems,  Inc.  (KMDSI)  has  learned  that  a  single  batch  of  non-return  (oneway)  valves 
+manufactured by Circle Seal Controls, Inc.  may be defective.  These valves are used on all Kirby Morgan masks 
+and helmets manufactured for surface-supplied diving.  The valves in question are date stamped on the valve body 
+and fall within the date range 12/04 to 02/05.  If you have a valve like this on your helmet, YOU SHOULD STOP 
+USING IT IMMEDIATELY and replace it with a valve that does not fall within this date range. 
+
+The purpose of these valves is to prevent a back-flow of breathing gas up the diver’s hose in the event that the hose 
+is severed between the diver and the surface.  If a diver’s hose is severed, a properly functioning non-return valve 
+will automatically close and prevent the air within the helmet from being lost.  The valve also prevents the diver’s 
+emergency gas supply (bail-out) from venting out through the non-return valve. 
+
+In the defective valves, small slivers of the Teflon wiper (used in these valves as part of the sealing mechanism) 
+may be cut off the Teflon wiper and interfere with the poppet that seals the valve.  When this occurs it is possible 
+for  air  from  the  helmet  or  emergency  gas  supply  to  be  lost  through  the  valve  if  the  diver’s  umbilical  has  been 
+severed or umbilical pressure is lost for any reason.  This could lead to the diver suffering severe personal injury, 
+known as a “squeeze,” or death. 
+
+Kirby Morgan has used the Circle Seal non-return valve in its commercial diving masks and helmets for over 30 
+years.    Kirby  Morgan  tests  every  non-return  valve  on  completed  units  prior  to 
+shipment,  but  the  damage  to  the  wiper  may  occur  when  the  valve  has  been 
+overhauled, disassembled and re-assembled. 
+
+Since  this  valve  is  also  an  industry  standard,  you  may  find  it  on  other 
+manufacturer’s  helmets  as  well.    If  this  is  the  case,  you  should  contact  that 
+manufacturer for a replacement. 
+
+If you have one of these valves on your helmet, or are carrying a valve like this 
+as a spare, DO NOT DIVE WITH IT! Please return it immediately to KMDSI, 
+or  any  of  its  dealers,  for  a  free  replacement.    KMDSI  can  be  reached  at  1430 
+Jason  Way,  Santa  Maria,  CA  93455.    Telephone  805-928-7772,  FAX  805-928-
+0342.  Email kirwin@kirbymorgan.com.  Website www.kirbymorgan
+
+.com. 
+
+Photo  Caption:  Please  note  the  date  stamp  of  12/04  on  the  valve  shown  here.  
+This is where to locate the date on your valve.  All valves within the date range 
+12/04 to 2/05 should be replaced immediately. 
+
+Document # 050322001 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+

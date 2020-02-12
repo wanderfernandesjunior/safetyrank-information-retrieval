@@ -1,0 +1,267 @@
+AB 
+
+ 
+
+IMCA Safety Flash 09/14 
+
+Safety Flash 
+
+  June 2014 
+
+These  flashes  summarise  key  safety  matters  and  incidents,  allowing  wider  dissemination  of  lessons  learnt  from  them.    The  information  below  has  been 
+provided in good faith by members and should be reviewed individually by recipients, who will determine its relevance to their own operations. 
+
+The effectiveness of the IMCA safety flash system depends on receiving reports from members in order to pass on information and avoid repeat incidents.  
+Please consider adding the IMCA secretariat (imca@imca-int.com) to your internal distribution list for safety alerts and/or manually submitting information 
+on specific incidents you consider may be relevant.  All information will be anonymised or sanitised, as appropriate. 
+
+A  number  of  other  organisations  issue  safety  flashes  and  similar  documents  which may  be  of  interest  to  IMCA  members.   Where  these  are  particularly 
+relevant, these may be summarised or highlighted here.  Links to known relevant websites are provided at www.imca-int.com/links   Additional links should 
+be submitted to webmaster@imca-int.com 
+
+1  Serious Dropped Object Incidents  
+
+A member has reported two serious dropped object incidents.  In the first, an object weighing 100kg was dropped 2.4m.  In 
+the second, an object weighing 15.3kg fell 20m, struck a worker on the head and shoulders and caused a first aid injury. 
+
+ 
+
+Incident 1: 
+
+During a routine change out of the HOM (Hang Off Module) pads, a pad weighing 100kg was dropped 2.4m.  The pad landed 
+on  the portable  access  steps  on  which  the  operations  technician  was  stood.    The  impact  caused  damage  to  the  steps  and 
+caused the technician to lose his balance and fall over.  
+
+Our member’s investigation revealed the following: 
+
+  The female thread in the HOM pad assembly was corroded; 
+
+  Due to its location the corrosion was not readily identifiable at the time the eye bolt was fitted; 
+
+  Owing to the eyebolt having to pass through a lifting bracket the effective thread was reduced by 10mm. 
+
+Eye-bolt 
+through 
+lifting plate reducing 
+effective  thread  by 
+10mm 
+
+10mm lifting plate 
+
+Thread 
+inside  the 
+pad  was  found  to 
+be badly corroded 
+
+Figure 1: Showing HOM (hang-off module) 
+
+ 
+
+Figure 2: Showing damaged steps 
+
+ 
+
+ 
+Our member took the following specific actions: 
+
+  Redesign of the lifting device – three threaded bolts now used to secure the lifting brackets in position;  
+
+  Weld type pad eyes will be fitted to all HOM pad lifting brackets; 
+
+  All tapped holes to be checked and re-drilled and tapped the next size up if found to be worn; 
+
+  Once all sizes are established, stainless steel grub screws will be purchased and will be greased and fitted to all tapped 
+
+lifting holes on HOM pads to help eliminate corrosion. 
+
+Incident 2: 
+
+On  a  pipelay  vessel,  a  side  roller  guide  for  the  track  chains  fell  from  the  upper  tensioner  onto  the  protection  roof  of  the 
+lower  workstation,  before  administering  a  glancing  blow  to  a  rigger,  resulting  in  first  aid  treatment.    The  object  weighed 
+15.3kg and fell 20m.  
+
+Figure 3: Side roller guide 
+
+Figure 4: Pipelay tower 
+
+ 
+
+ 
+
+Our members’ investigation revealed the following: 
+
+  The retaining bolts on the bearing rail had been sheared; 
+
+  The upper section had only one bolt in place. 
+
+All members are encouraged to check carefully all equipment used at height for: 
+
+  Corrosion; 
+
+ 
+
+Insufficient security of bolts and tensioners. 
+
+These incidents highlight the need for constant vigilance for dropped objects.  The re-occurrence of dropped object incidents 
+is evidence that dropped objects are still harming and have the potential to kill.  IMCA members have reported a number of 
+dropped object incidents already this year. 
+
+Members may wish to refer to the following similar incidents (key words: dropped, corrosion): 
+
+ 
+
+ 
+
+ 
+
+IMCA SF 09/07 Incident 3 Lifting rigging on “Frog” personnel transfer capsule  
+http://www.imca-int.com/media/50013/imcasf09-07.pdf 
+
+IMCA SF 04/10 Incident 2 Falling object 
+http://www.imca-int.com/media/48886/imcasf04-10.pdf  
+
+IMCA SF 01/12 Incident 5 Dropped Object Injury Resulting from Failure Caused by Corrosion 
+http://www.bsee.gov/Regulations-and-Guidance/Safety-Alerts/SA_298-pdf.aspx  
+
+2  LTI: Serious Hand Injury – Caught in the Bight 
+
+A member has reported an incident in which a seaman sustained serious injuries to his hand resulting in the loss of his little 
+finger.    The  incident  occurred  during  when  the  vessel  was  engaged  in  the  inter-field  transfer  of  personnel  and  equipment.  
+The vessel proceeded to an unfamiliar platform and disembarked five personnel during rising seas.   Two personnel declined 
+
+ 
+to transfer deeming the sea state unsafe for transfer operations, and the vessel was manoeuvred away to standby.  Later that 
+afternoon the vessel was instructed to pick up the five passengers from the platform.  The weather had deteriorated further, 
+with 3m swells and wind speeds of up to 15 knots, and the master deemed it unsafe to transfer passengers.  
+
+However,  a  suggestion  was  made  to  transfer  the  baggage  via  heaving  line,  to  which  the  master  agreed.    The  injured  party 
+passed the vessel’s heaving line across to the platform personnel who ran the heaving line up to the middle platform, securing 
+the midsection to a railing.  Platform personnel then lowered the first two bags one at a time to the vessel.   The third and 
+fourth  bags  were  simultaneously  lowered  down  to  the  crew  boat  via  both  ends  of  the  heaving  line.    The  injured  party 
+received one bag on the port side and the 2nd Officer received the second bag on the starboard side.  Both proceeded to 
+untie the knots at each end of the rope.   
+
+As the injured party was untying the line, the vessel took a sudden dip due to the high swells.   He could not retract his left 
+hand fast enough and three of his fingers were caught in the bight of the knot when the heaving line suddenly tensioned.  The 
+injured  person  pushed  against  the  stern  deck  railing  to  prevent  being  pulled  overboard.    Subsequently  the  heaving  line 
+severed his little finger and lacerated the ring and middle fingers.  The rope was finally cut and removed from his finger after 
+crew fetched a knife from the accommodation.   
+
+The casualty was medivaced to shore hospital four hours later but his finger could not be saved. 
+
+ 
+
+ 
+
+Figure 5: Showing how fingers were caught in the bight (reconstruction) 
+
+ 
+
+Our members’ investigation revealed the following: 
+
+  This was the first time this method of baggage transfer had been used by any of the crew.  It was initiated on the spur of 
+
+the moment, without any thought, risk assessment or planning – there was no Management of Change; 
+
+  The rope was secured to the platform in such a way that it could not easily be released or slackened; 
+
+  The  platform  crew  were  inexperienced  at  tying  appropriate  knots  and  tied  excessive  knots  in  the  small  diameter 
+
+polypropylene rope which were difficult and time consuming to untie; 
+
+  To speed up the transfer process two bags were lowered on each end of the secured heaving line, dividing the attention 
+
+of the deck crew.  
+
+Our member learnt the following lessons: 
+
+  Don’t be tolerant of unacceptable risk; 
+
+  Always ensure operational risks are identified and assessed prior to starting operations; 
+
+  Always be mindful of the impact of changing customary methods of routine operations; 
+
+  Always ensure operations are well planned, communicated and supervised; 
+
+ 
+  Don’t give in to external pressure to work beyond safe working limits, always exercise your right to stop work. 
+
+Finger and hand injuries are amongst the most common safety flashes reported. See the following typical example: 
+
+ 
+
+IMCA SF 04/12 Incident 1 Lacerated finger during rigging operations 
+http://www.imca-int.com/media/48717/imcasf04-12.pdf  
+
+However, incidents referring specifically to the consequences of being “caught in the bight” are rarer.  Members may wish to 
+refer to the following similar incidents (key words: crush, injury, rope, bight): 
+
+IMCA SF 05/06 Incident 2 Hand injury sustained by diver 
+http://www.imca-int.com/media/50063/imcasf05-06.pdf  
+
+IMCA SF 13/12 Incident 3 LTI: Serious Hand Injury during Subsea Lifting Operations 
+http://www.imca-int.com/media/96685/imcasf13-12.pdf  
+
+3  First Aid Incident During at Sea Fuel Transfer – Mooring Lines 
+
+The Marine Safety Forum has published the following safety flash regarding an incident in which  two crewmen were injured 
+by being hit by mooring lines under tension during at sea fuel transfer.  
+
+The safety flash can be downloaded from www.marinesafetyforum.org/upload-files//safetyalerts/msf-safety-flash-14.23.pdf  
+
+Mooring safety is topical and members may wish to refer to the following similar incidents (key words: mooring, tension): 
+
+IMCA SF 02/08 Incident 1 Finger Injury Whilst Casting Off Towing Line 
+www.imca-int.com/media/49897/imcasf02-08.pdf  
+
+IMCA SF 04/09 Incident 3 Mooring incidents (a document from the UK P&I Club) 
+www.imca-int.com/media/49007/imcasf04-09.pdf  
+
+IMCA SF 07/10 Incident 2 Crewman Fatally Injured During Mooring Operations 
+www.imca-int.com/media/48911/imcasf07-10.pdf 
+
+4  Vessel Blackout During Close Standby 
+
+The Marine Safety Forum has published the following safety flash regarding an incident in which  there was a vessel blackout 
+during close standby.  Investigation revealed that blocked fuel filters were part of the cause.  
+
+The safety flash can be downloaded from www.marinesafetyforum.org/upload-files//safetyalerts/msf-safety-flash-14.15.pdf  
+
+Members may wish to refer to the following similar event (key word: blackout): 
+
+ 
+
+IMCA SF 13/08 Incident 1 Faulty Governors 
+http://www.imca-int.com/media/49946/imcasf13-08.pdf  
+
+5  Pressure Vessel Systems - Response to Fatal Accident 
+
+The  Australian  Marine  Safety  Authority  (AMSA)  has  published  information  about  a  fatal  accident  involving  pressure  vessel 
+systems.    A  fatality  occurred  when  the  observation  glass  of  a  main  compressed  air  receiver  drainage  pot  failed 
+catastrophically while a ship’s engineer was draining accumulated water (condensate) from the ship’s main air reservoir.  
+
+Further information can be found at https://apps.amsa.gov.au/MOReview/Attachment/ShowAttachment/589 
+
+Members may wish to refer to the following similar incidents (key words: pressure, fatality) 
+
+IMCA SF 08/03 Incident 2 Fatality – Pressure Build-Up leading to Sudden Release of Mechanical Plug 
+http://www.imca-int.com/media/50855/imcasf08-03.pdf  
+
+IMCA SF 18/09 Incident 1 Fatality During Pressure Test 
+www.imca-int.com/media/49884/imcasf18-09.pdf  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+

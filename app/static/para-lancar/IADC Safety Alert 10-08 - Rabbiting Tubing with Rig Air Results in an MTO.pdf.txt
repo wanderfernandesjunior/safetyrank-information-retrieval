@@ -1,0 +1,75 @@
+Safety Alert 
+
+        From the International Association of Drilling Contractors 
+
+ 
+ALERT 10 – 08 
+ 
+
+RABBITING TUBING WITH RIG AIR RESULTS IN AN MTO 
+
+ 
+WHAT HAPPENED: 
+ 
+Tubing  was being laid down and “rabbited” on the pipe rack.  (“Rabbit” means to run a device (small plug) 
+through  a  pipe  or  tubing  to  clean  or  test  for  obstructions.)    To  “speed  up”  the  operation  the  rig  personnel 
+decided to blow the rabbit through the tubing with rig air (120 psi).  A hose was attached to the box thread 
+protector.  The rabbit went through the tubing and bumped against the pin protector on the other end.  The 
+air pressure built up and the box end protector blew off the tubing striking an employee on the knee resulting 
+in an injury that required seven stitches.   
+
+The company previously had an identical incident where a roustabout was struck in the abdomen by the pipe 
+protector and rabbit.  This resulted in disemboweling him and shattering his hip.  Eleven years later, he is still 
+undergoing therapy for the injury.   
+
+WHAT CAUSED IT: 
+ 
+•  Procedure for ”rabbiting” was not defined.   
+•  No pre-job safety meeting or JSA was used to help identify the risks associated with using rig air to blow 
+
+the rabbit through the tubing.   
+
+CORRECTIVE ACTIONS:  To address this incident, this company did the following: 
+ 
+•  When changing a procedure, a safety meeting should be conducted, with the JSA reviewed and changed 
+or a new one developed.  This must take place to identify the hazards and risks present in the changed 
+procedure. 
+
+•  Air pressure applied to the total per square inch area is significant.  In this case the potential pressure 
+
+was approximately 1,150 pounds of force on the thread protector. 
+
+•  Since  the  previous  incident  many  drilling  contractors  in  the  region  have  developed  procedures  for 
+rabbiting that includes pulling the rabbit through tubulars with a shop vacuum.  There have not been any 
+incidents using this procedure.)   
+
+•  A  company  wide  rabbiting  procedure  was  developed  that  didn’t  include  use  of  rig  air.    This  procedure 
+and alert were shared company-wide, allowing a proactive response in each company division, ensuring 
+“rabbiting” with rig air is not a part of the company’s “rabbiting” procedures.   
+
+Message:  Changing a procedure should be reviewed by all involved, including supervisors.  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+The Corrective Actions stated in this alert are one company’s attempts to address the incident,  
+
+and do not necessarily reflect the position of IADC or the IADC HSE Committee. 
+
+This material is presented for information purposes only.  Managers & Supervisors should 
+
+evaluate this information to determine if it can be applied to their own situations and practices 
+
+Copyright  2005 International Association of Drilling Contractors All rights reserved. 
+
+Issued March 2010 
+
+

@@ -1,0 +1,78 @@
+Safety Alert 
+
+        From the International Association of Drilling Contractors 
+
+ 
+ALERT 09 – 17 
+ 
+
+NEAR MISS—NEW FALL PROTECTION EQUIPMENT FAILURE 
+
+ 
+
+WHAT HAPPENED: 
+ 
+A  derrickman  was  working  in  the  derrick  and  was  using  a  NEW  “Pass  through  Tie-Off  Adapter”  for  his  fall 
+protection  anchor  point.    The  tie-off  adapter  in  this  case  was  a  3”  web  sling,  2  feet  long.    The  adapter  is 
+wrapped  around  a  beam  or  other  secure  tie-off  point  and  one  end  passes  through  the  other  “choking”  the 
+anchor point.  The lanyard is then attached to a full body harness d-ring.   
+
+The derrickman had tied-off and then leaned out to perform his work.  The tie-off adapter “broke”, however, 
+the derrickman was able to catch hold of the pipe to keep from falling out of the derrick.  
+
+ 
+WHAT CAUSED IT: 
+ 
+Inspection of the tie-off adapter revealed that the D-ring end of the sling had not been fully assembled.  The 
+webbing material end had been folded around the D-ring and hot glued, but had not been stitched.  Follow-
+up inspections revealed that four out of the five tie-off adapters the company had purchased were defective.   
+
+ 
+Several opportunities were missed to catch this mistake:  
+
+1)  The manufacturer failed to catch the defect during its quality control inspections;  
+2)  The  supplier  receiving  the  slings  from  the  manufacturer  also  failed  to  inspect  them  before  selling 
+
+3)  The receiving agent didn’t inspect upon receiving them;  
+4)  The Safety Advisor distributed the defective slings to the rig without inspecting them;  
+5)  The Rig Manager stored the slings in his office until needed and failed to inspect them before 
+
+them;  
+
+use;  
+
+6)  The Derrickman, which  was the last chance to catch  the error, began  using the  fall protection 
+
+7) 
+
+equipment without first inspecting it. 
+Inspections  did  not  happen  because  personnel  involved  accepted  that  new  equipment  was  in 
+good condition without defects.   
+
+ 
+CORRECTIVE ACTIONS:  To address this incident, this company did the following: 
+ 
+The company emphasized to all rig personnel that they must be the final check of all safety equipment.  The 
+extra minute or two  you spend inspecting  equipment before using  it (new or used), may save  you or a co-
+worker from serious harm.   
+
+ 
+
+ 
+
+ 
+ 
+
+The Corrective Actions stated in this alert are one company’s attempts to address the incident,  
+
+and do not necessarily reflect the position of IADC or the IADC HSE Committee. 
+
+This material is presented for information purposes only.  Managers & Supervisors should 
+
+evaluate this information to determine if it can be applied to their own situations and practices 
+
+Copyright  2005 International Association of Drilling Contractors All rights reserved. 
+
+Issued June 2009 
+
+

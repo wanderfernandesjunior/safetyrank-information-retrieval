@@ -1,0 +1,69 @@
+Safety Alert 
+
+From the International Association of Drilling Contractors
+
+ 
+
+ 
+ 
+ALERT 03 – 01 
+ 
+
+NITROGEN BOTTLES IMPROPERLY FILLED 
+
+ 
+WHAT HAPPENED: 
+ 
+Recently a Toolpusher performed a gas test on the Nitrogen(N2) bottles on location.  One nitrogen bottle was 
+found to contain Oxygen (O2).  The bottle had the proper fittings and was marked Nitrogen.  In several other 
+international areas  where the Oxygen (O2) and  Nitrogen (N2) bottles are  identical Oxygen  was  also found in 
+bottles  marked  “Nitrogen”.    If  a  N2  bottle  containing  O2  is  used  to  charge  equipment  such  as  a  mud  pump 
+pulsation dampener it could lead to potential loss of life and/or equipment damage.   
+ 
+CORRECTIVE ACTIONS:  To address this issue, the company instructed all operations personnel:   
+ 
+•  Remember, a mixture of Oxygen and Nitrogen gases will act as an explosive agent.  
+•  Contact suppliers and have them document the procedures they use when filling bottles.   
+•  Ensure each bottle is properly marked/labeled for material being used. 
+• 
+
+Implemented  a  policy  to  test  all  N2  bottles  on  all  locations  to  determine  the  quality  of  N2  received  from 
+suppliers.   
+
+ 
+THE COMPANY ISSUED THE FOLLOWING DETECTION METHODS:  
+ 
+•  Where possible this verification test should take place in the area yard prior to the bottles being shipped to 
+
+the field.  The bottles should then be marked that they have been checked. 
+
+•  Testing options are:   
+
+o  Each location (Rig) should have a hand held pump for gas detection.  Insert an Oxygen test tube and 
+slightly open N2 bottle.  Pump handle twice.  If material inside tube turns black it is a positive test for 
+Oxygen.  Mark bottle not usable and return to vender. 
+
+o  With a hand held Multi Gas Detector, hold detector in front of N2 bottle.  Open bottle slightly.  Normal  
+Oxygen reading is approx. 20%.  If alarm sounds and O2 level goes to 0% then this indicates the bottle 
+does  not  contain  O2.    If  reading  remains  at  20%  O2  or  rises  it  indicates  a  positive  test  for  O2.    On 
+certain  units,  the  alarm  also  sounds  for  high  levels  (above  23.5%)  of  O2  so  check  the  readout  for 
+correct percentages of O2.  For bottles testing positive for O2, mark not usable and return to vender. 
+
+ 
+ 
+ 
+IADC Note:  Refer to Alert 02 – 06 or Section 6 of the IADC APRG for additional information.   
+
+The Corrective Actions stated in this alert are one company’s attempts to address the incident, and do not 
+
+necessarily reflect the position of IADC or the IADC HSE Committee. 
+
+This material is presented for information purposes only.  Managers & Supervisors should  
+
+evaluate this information to determine if it can be applied to their own situations and practices. 
+
+Copyright © 2003 International Association of Drilling Contractors.  All Rights Reserved 
+
+Issued January 2003 
+
+

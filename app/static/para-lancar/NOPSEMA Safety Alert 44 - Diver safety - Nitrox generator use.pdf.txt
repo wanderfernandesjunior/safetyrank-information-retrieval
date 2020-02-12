@@ -1,0 +1,58 @@
+NATIONAL OFFSHORE PETROLEUM SAFETY AUTHORITY
+
+SAFETY ALERT 44
+
+Diver Safety – Nitrox Generator Use
+
+What happened?
+
+It has come to NOPSA’s attention that Nitrox generators are being used, or are being 
+considered for use, in diving activities in connection with offshore petroleum operations.  
+This type of equipment is able to produce high pressure gas mixes used in diving 
+containing up to 40% oxygen content.
+
+The system involves a low pressure phase in which air is depleted of nitrogen prior to 
+high pressure pressurisation and storage.  Related offshore industry guidance suggests 
+that components and processes used in this type of system may only be fit for gas mixes 
+up to a maximum 25% oxygen content.
+
+The technology involved with this type of equipment has been in use within the 
+recreational diving industry for some time.  However, it may not be appropriate for use in 
+the offshore petroleum environment unless the associated risks are properly managed.  
+There has been at least one explosion involving this type of equipment in Australia.  
+(http://www.deir.qld.gov.au/workplace/publications/alerts/nitrox/index.htm)
+
+What could go wrong?
+
+The fundamental concern is the high volatility of the produced gas and the potential for 
+an explosion within the system.  For this reason, the offshore diving industry 
+internationally has adopted a precautionary approach by treating such gas mixtures as 
+pure oxygen in regard to system component compatibility, associated working practices
+and cleanliness.
+
+Key Lessons:
+
+Prior to using such equipment NOPSA strongly recommends that hazards arising from 
+the production, use and storage of enriched oxygen gas mixes are fully understood and 
+that appropriate measures are put in place to ensure that the associated risks are 
+reduced to as low as reasonably practicable.
+
+Whilst not a complete list, those considering use of such equipment should ensure that:
+
+ All components downstream of the nitrogen generator are fit for oxygen service
+
+in accordance with industry best practice;
+
+ Associated processes and procedures are appropriate for oxygen systems; and
+
+ The produced gas is subject to periodic and appropriate analysis to determine its 
+
+fitness for use as a breathable gas for diving.
+
+Contact
+
+For further information email alerts@nopsa.gov.au and quote Alert 44.
+
+Page 1 of 1
+
+

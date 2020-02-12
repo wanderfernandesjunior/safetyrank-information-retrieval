@@ -1,0 +1,127 @@
+May 11, 2015 
+Washington, DC 
+
+         Inspections and Compliance Directorate 
+
+ 
+
+ Safety Alert 5-15 
+ 
+
+ 
+
+SECURED FOR SEA OR NOT 
+
+Anchor Equipment – Attention to details. 
+
+investigated  and  discovered 
+
+ 
+This  safety  alert  serves  to  remind  vessel  operators  and  company  technical  managers  of  the 
+importance  of  proper  ship’s  anchor  use,  stowage,  and  maintenance.    Anchor  windlass  brakes, 
+riding  pawls,  and  devil’s  claws  must  be  used  as  designed  and  periodically  maintained  to  ensure 
+effectiveness  and  safety.    It’s  critical  that  proper  supervision  and  inspection  be  conducted  during 
+and after anchoring, retrieving and storage evolutions, and maintenance activities.  When installing 
+a  replacement  anchor,  it  must  meet  the  vessel’s  technical  specifications  and  fit  correctly  when 
+housed.     
+ 
+Recently,  a  freight  ship  was  underway  in  15  foot 
+seas  when  the  forepeak  flood  alarms  activated.  
+The  crew 
+the 
+starboard anchor had slipped 10-15 links, causing 
+it  to  strike  and  puncture  the  hull.    As  a  result, 
+seawater flooded the bow thruster and emergency 
+fire  pump  compartment.    The  casualty  resulted  in 
+excess  of  $1  million  in  vessel  damage  and  a 
+month’s lost revenues while the vessel was out of 
+service affecting repairs. 
+ 
+During the repair period, it was discovered that the 
+anchor  windlass  brake  pad  had  worn  down  to  2-
+3mm thickness.  With only this amount of pad the 
+fully  applied  brake  could  not  achieve  its  designed 
+holding power.  The crew should have recognized 
+the excessive wear to the brake pads and required 
+replacement. 
+ 
+It  was  also  discovered  that  the  involved  anchor 
+had dissimilar specifications to the original anchor 
+it  had  replaced.    As  a  result,  the  replacement 
+anchor’s  relative  position  in  the  hawse  pipe  was 
+not the same because of its different shank length 
+and  connecting  linkages.    The  size  difference 
+prevented  the  riding  pawl  from  properly  engaging 
+the anchor chain.    
+ 
+ 
+ 
+
+1 
+
+Safety Alert 5 -15 
+
+ 
+
+As an added safety device, a wire sling had been used to 
+secure the anchor.  The wire sling was threaded through 
+a  chain  link  and  secured  to  the  vessel  with  a  pelican 
+hook.    When  the  sling  broke  and  the  brake  failed,  the 
+anchor’s  weight  and  ship’s  movement  then  caused  it  to 
+drop before the riding pawl could properly engaged.  
+ 
+The sling failure was likely caused by the corrosion of the 
+inner wire strands.  The inner wire strands were exposed 
+to  the  elements  because  of  the  sharp  bend  in  the  wire 
+created  by  being  fed  through  the  chain  link  and  secured 
+by  a  pelican  hook.    The  wire  sling  was  inspected 
+regularly;  however,  those  performing  the  inspections 
+were not instructed on how to examine and determine its 
+serviceability. 
+ 
+The  ISM  Code’s  and  Safety  Management  System’s 
+purpose are to detect, correct, and prevent circumstances 
+as described in this alert.  Companies must identify equipment  and technical systems, subject to 
+sudden failure, which may result in a hazardous condition, and provide specific measures aimed at 
+increasing  equipment  reliability  and  ensuring  integration  into  the  ship’s  operational  maintenance 
+routine. 
+
+As  a  result  of  this  casualty,  the  Coast  Guard  strongly  recommends  that  vessel  owners, 
+operators, and company technical personnel ensure: 
+ 
+
+•  All  preventative  maintenance  programs  are  up  to  date  and  include  specific  language  on 
+anchor  windlass  equipment,  particularly  emphasizing  when  brake  assemblies  must  be 
+renewed or adjusted; 
+
+•  When key vessel components, such as anchors, are to be replaced, that a proper company 
+
+plan review occurs, taking into account all possible variables; and  
+
+•  Persons involved with vessel maintenance and repair have technical resources available to 
+
+assist in determining serviceability or replacement of shipboard equipment.  
+
+ 
+Lastly, the Coast Guard strongly reminds all maritime operators of the importance of performing 
+regular  maintenance  and  inspections  on  anchor  handling  components  to  keep  them  ready  for 
+immediate release in accordance with 33 Code of Federal Regulations 164.11(o). 
+ 
+This  safety  alert  is  provided for  informational  purpose  only  and  does  not  relieve  any  domestic  or 
+international  safety,  operational,  or  material  requirements.    Developed  by  Sector  Los  Angeles  - 
+Long  Beach  - 
+  For  questions  or  concerns  e-mail  LT  Patrick  Brown  – 
+Patrick.J.Brown@uscg.mil . 
+  
+
+Investigations. 
+
+2 
+
+ 
+
+ 
+
+ 
+
+

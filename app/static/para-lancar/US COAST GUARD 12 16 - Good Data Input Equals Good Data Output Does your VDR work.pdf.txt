@@ -1,0 +1,91 @@
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+September 1, 2016 
+Washington, DC 
+
+         Inspections and Compliance Directorate 
+
+ 
+
+                                 Safety Alert 12-16 
+
+Good Data Input Equals Good Data Output 
+Does your VDR work? Don’t wait to find out! 
+
+This  safety  alert  reminds  vessel  owners  and  operators  to  periodically  validate  the  proper  operation  of  their 
+vessel’s  Voyage  Data  Recorder  (VDR).    Annual  certifications  performed  by  equipment  technicians  in 
+accordance with international Safety of Life at Sea (SOLAS) requirements may not be enough to ensure your 
+best  interests  are  met.    Initial  system  testing  may  also  be  inadequate  to  detect  installation  and  operational 
+deficiencies.    VDR  data  is  extremely  important  to  marine  investigators  during  accident  reconstruction.  
+However, it can also be highly valuable to vessel owners and operators.  Following an accident, VDR data can 
+assist  owners  and  operators  evaluate  the  performance  of  shipboard  personnel  and  vessel  equipment,  while 
+also helping to determine causal factors related to an incident. This information can be essential for resolving 
+damage claims arising from an accident.  Periodic reviews of VDR data can also help detect unsafe practices 
+and equipment problems before a marine casualty occurs.    
+ 
+Investigations into several recent groundings in the Pacific Northwest have revealed that the VDR equipment 
+was not operating properly and not configured in accordance with SOLAS requirements.  In one instance, over 
+sixteen  inputs  were  not  recorded,  likely  due  to  improper  initial  programming  of the  unit.    In  another  incident, 
+personnel  had  difficulty  accessing the  information,  possibly  due  to  changes  in  a  computer  operating  system.  
+Although  the  data  was  eventually  extracted,  critical  radar  information  was  not  captured.    Other  areas  of 
+concern established by casualty investigations over the years point to insufficient deck officer knowledge about 
+the operation of the VDR and most importantly the method to capture the data immediately after an incident.  If 
+an owner or operator is uncertain about the functionality of a vessel’s VDR, now might be the time to validate 
+its performance. 
+ 
+Because  of  these  recent  incidents  the  Coast  Guard  strongly  recommends  that  owners  and  operators  of 
+vessels equipped with VDRs take the following actions: 
+ 
+
+•  Ensure  Deck  Officers  understand  VDR  operation  and  know  how  to  initiate  the  “Save  Data”  function 
+
+immediately after an incident; 
+
+•  Employ  a  qualified  service  engineer  to  perform  line-by-line  functionality  validation  of  all  the  required 
+inputs, their storage, data coverage timeframe, and ability of this data to be properly played back with 
+the  appropriate  equipment,  operating  systems  and  software  available.    The  line-by-line  validation  of 
+VDR  inputs,  data  storage  and  quality  of  data  may  be  achieved  through  a  download  of  the  data, 
+analysis, and playback on appropriate equipment.  The service provider should also check and inspect 
+all  batteries,  enclosures,  location  aid  devices,  and  power  supplies  with  their  associated  alarms  in 
+accordance with manufacturer instructions.   
+
+Implement  a  company  policy  to  periodically  test  the  VDR  (in  additional  to  the  required  annual 
+certification) to ensure complete operation of the system; and 
+
+Incorporate the above recommendations in the vessel’s Safety Management System and maintenance 
+record keeping systems. 
+
+ 
+This safety alert is provided for informational purpose only and does not relieve any domestic or international 
+safety, operational or material requirements.  Developed by Marine Safety Unit Portland, Oregon Investigations 
+Division and the Office of Investigations and Casualty Analysis.  Questions or comments may be sent to HQS-
+PF-fldr-CG-INV@uscg.mil. 
+
+• 
+
+• 
+
+ 
+
+ 
+
+ 
+
+******* 
+
+

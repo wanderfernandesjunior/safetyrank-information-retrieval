@@ -1,0 +1,74 @@
+Safety Alert 
+
+        From the International Association of Drilling Contractors 
+
+ 
+ALERT 13 – 04  
+ 
+
+LOWER MARINE RISER PACKAGE (LMRP) CONNECTOR FAILURE 
+
+ 
+WHAT HAPPENED: 
+ 
+The U.S. Bureau of Safety & Environmental Enforcement has issued a Safety Alert as the result of a number 
+of  incidents  on  rigs  caused  by  a  loss  of  integrity  of  LMRP  H-4  connector  bolts.    BSEE  instructed  the 
+operators  of  affected  rigs  to  secure  current  well  operations  and  to  retrieve  the  LMRP  and/or  BOP  to  the 
+surface.  These  operators  were  directed  to  suspend  operations  until  the  existing  bolts  on  the  LMRP 
+connector/wellhead  connector  could  be  replaced  or  recertified.    Replacement  bolts must  be  certified  by  an 
+independent third-party to be in compliance with recommended heat treatment practices, or the existing bolts 
+have been examined and certified by an independent third-party that they are fit for purpose. 
+ 
+While  the  BSEE  Alert  only  affects  rigs  operating  in  the  US  Gulf  of  Mexico,  IADC  has  been  informed  of  at 
+least one other similar failure occurring elsewhere.  Contractors with rigs using H-4 connectors should take 
+steps to ensure the integrity of these connectors to avoid potential failure.  
+ 
+
+Upper half of failed LMRP Connector 
+
+Lower half of failed LMRP Connector 
+
+ 
+
+ 
+
+ 
+WHAT CAUSED IT: 
+•  Stress corrosion cracking caused by hydrogen embrittlement is believed to have caused this situation. It 
+
+appears that zinc electroplating without proper baking (per ASTM B633) caused this embrittlement. 
+  
+
+CORRECTIVE ACTIONS:  To address this incident, the following is recommended: 
+•  Operators and rig owners should check the bolts of their LMRP and Wellhead connectors to ascertain if 
+they may be defective. Information on identifying affected bolts can be obtained by calling GE Oil & Gas 
+at +1 (281) 985-3428 (accessible 24 hours a day) or by email at Drilling.Support@ge.com. 
+
+•  Operators  and  Contractors  with  H-4  connectors,  as  identified  through  the  above  source,  should  also 
+consult  with  their  contractors  and  subcontractors  to  determine  the  appropriate  inspection,  disposition 
+and/or  corrective  actions.  Operators  in  the  US  Gulf  of  Mexico  should  notify  BSEE,  who  will  require  an 
+independent  third-party  certification  that  confirms  proper  inspection  and  refurbishment  processes  were 
+completed prior to reinstallation of any affected bolts. 
+
+•  Operators and contractors should review the QA/QC programs for all equipment vendors (contracted and 
+sub-contracted)  to  ensure  that  all  equipment  is  being  manufactured  to  the  required  specifications. 
+Special attention should be given to ensure proper heat treating has taken place in accordance with the 
+specifications. 
+
+Source: Bureau of Safety & Environmental Enforcement (www.bsee.gov) 
+
+ 
+
+The Corrective Actions stated in this alert are one company’s attempts to address the incident,  
+
+and do not necessarily reflect the position of IADC or the IADC HSE Committee. 
+
+This material is presented for information purposes only.  Managers & Supervisors should 
+
+evaluate this information to determine if it can be applied to their own situations and practices 
+
+Copyright  2013 International Association of Drilling Contractors All rights reserved. 
+
+Issued February 2013 
+
+

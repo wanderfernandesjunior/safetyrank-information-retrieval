@@ -1,0 +1,131 @@
+SAFETY ALERT 17 
+
+  
+
+Engine Room Fire 
+
+NATIONAL OFFSHORE PETROLEUM SAFETY AUTHORITY 
+
+ 
+
+What happened? 
+An engine room fire onboard a MODU recently caused significant damage. The fire took one 
+hour  to  bring  under  control,  and  a  further  3  hours  for  boundary  cooling  etc.  There  were  no 
+injuries.  
+
+Unsuccessful  attempts  were  made  to  fight  the  fire  with  water;  hand-held  extinguishers  were 
+used  to  some  effect  but  could  not  control  the  fire.  The  fire  was  brought  under  control  by 
+dousing with CO2. Boundary cooling was achieved using water cannon from a stand-by boat. 
+
+The engine room and its equipment suffered considerable fire damage. The rig will be out of 
+operation for a number of weeks. 
+
+ 
+What went wrong? 
+The cause of the fire is believed to be radiant heat from an uninsulated and cracked exhaust 
+bellows igniting the insulation in the deck head. The insulation was later found to be soiled 
+(loaded with soot and hydrocarbons). The fire spread through the engine room and briefly 
+flashed over to the engine room roof. 
+
+Factors that caused the fire to escalate include: 
+
+(cid:131)  Availability of flammable material in the engine room, including hydrocarbon 
+
+contaminated insulation and a wheelie bin.  
+
+(cid:131)  Main fire water pumps unavailable once the main generators were shut down. 
+
+(cid:131)  The fire in the engine room ruptured the rig-air line. The loss of rig air disabled the 
+
+emergency fire pump’s automatic air primer. It took over 2 hours to manually prime and 
+start the emergency fire pump.  
+
+(cid:131)  The rig-air isolation valve for the engine room was in the engine room. 
+
+(cid:131)  Some portable fire extinguishers did not function. 
+
+Factors that may have led to further escalation of the fire include: 
+
+(cid:131)  Bulk lube oil & hydraulic fluid were stored on the engine room roof – a brief flash fire 
+
+occurred in this area before being extinguished by the support vessel’s water cannon. 
+
+ 
+Key Lessons: 
+
+(cid:131)  Engine  room  fires  are  a  very  serious  risk.  Inspection  and  maintenance  of  exhausts, 
+fuel  lines,  turbochargers  &  superchargers  are  critical,  including  the  inspection  and 
+replacement  of  contaminated/damaged  insulation.  Housekeeping  and  cleanliness 
+make a difference in reducing risk and damage.  
+
+(cid:131)  Provision and testing of emergency equipment is critical (in this case some CO2 
+
+cylinders did not activate when required and some portable fire extinguishers did not 
+function). Redundancy in emergency systems can save lives. 
+
+(cid:131)  Consideration for facility specific common mode failures and escalation factors (in this 
+
+case the rig air system).  
+
+ 
+
+Page 1 of 2 
+
+ 
+
+NATIONAL OFFSHORE PETROLEUM SAFETY AUTHORITY 
+
+SAFETY ALERT 17 
+
+  
+
+Engine Room Fire 
+
+(cid:131)  The role of stand-by vessels is critical. 
+
+(cid:131)  Highlights  importance  of  emergency  response  for  various  scenarios.  Practice  makes 
+
+perfect. 
+
+ 
+
+(cid:131)  Above Pictures - Uninsulated and 
+
+cracked engine exhaust bellow where 
+fire was thought to initiate. 
+
+(cid:131)  Picture to right - Hydrocarbon 
+contaminated insulation on an 
+adjacent engine exhaust bellow. A 
+hole in the pipe was found when the 
+insulation was removed for inspection. 
+
+ 
+
+ 
+
+ 
+Contact 
+For further information email alerts@nopsa.gov.au and quote Alert 17. 
+
+Page 2 of 2 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+

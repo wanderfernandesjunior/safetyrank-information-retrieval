@@ -1,0 +1,64 @@
+Safety Alert 
+
+        From the International Association of Drilling Contractors 
+
+ 
+ 
+ 
+
+ 
+ 
+ALERT 04 – 44 
+ 
+
+ENERGIZED POWER TONGS RESULT IN FOOT INJURY 
+
+ 
+WHAT HAPPENED: 
+ 
+The  operation  at  the  time  was  running  casing,  which  necessitated  the  use  of  hydraulic  power  tongs.    The 
+tongs were suspended by an air hoist and left energized between connections.  During a break while running 
+the casing, the decision was made to relocate a bag of protectors to the ‘V’ door.  The hydraulic tongs were 
+lowered to the floor left energized with the door open the tugger was removed.  The tugger was then used to 
+move the bag of protectors.  Once the bag of protectors had been relocated it became necessary to hook the 
+tugger back up to the hydraulic power tongs.  A floorhand assisted the Tong Operator to reconnect the air 
+hoist  onto  the  power  tongs  and  in  so  doing  the  floorman  placed  his  right  foot  between  the  door  openings.  
+During the process of hooking up the air hoist, the spring on the lifting assembly engaged causing the gear 
+mechanism to rotate which resulted in the floorman’s foot being caught.  The resulting injury led to the partial 
+amputation of the right foot forward of the ankle. 
+ 
+WHAT CAUSED IT: 
+ 
+The tongs were left energized while other work was being performed on the rig floor.  When reconnecting the 
+air hoist, the injured party engaged the tong throttle, while his right foot was in the open throat of the tongs, 
+causing the rotating gear to contact the top of the right foot.  The tong was not equipped with a door interlock 
+device, which prevents the operation of the rotating gear if the door of the tongs is open.   
+ 
+CORRECTIVE ACTIONS:  To address this incident, this company did the following: 
+ 
+
+•  Whenever it becomes necessary to stop the use of ANY power tongs for a time period longer than 
+that  between  normal  connections  during  the  running  of  tubulars,  the  power  unit  will  be  shut  off  in 
+compliance with the appropriate policy. 
+
+•  Pressure to be bled off from the lines so as to eliminate any power source to the unit. 
+•  A thorough review of JRAs and procedures covering the use of hydraulic power tongs.  
+•  Please  ensure  that  this  is  discussed  in  pre-tour  and  weekly  safety  meetings  until  everyone  is  fully 
+
+aware of it. 
+
+ 
+
+The Corrective Actions stated in this alert are one company’s attempts to address the incident,  
+
+and do not necessarily reflect the position of IADC or the IADC HSE Committee. 
+
+This material is presented for information purposes only.  Managers & Supervisors should 
+
+evaluate this information to determine if it can be applied to their own situations and practices 
+
+Copyright © 2004 International Association of Drilling Contractors All rights reserved. 
+
+Issued November 2004 
+
+

@@ -1,0 +1,315 @@
+AB 
+
+ 
+
+IMCA Safety Flash 16/15 
+
+Safety Flash 
+
+October 2015 
+
+These flashes summarise key safety matters and incidents, allowing wider dissemination of lessons learnt from them.  The information below has been provided 
+in good faith by members and should be reviewed individually by recipients, who will determine its relevance to their own operations. 
+
+The effectiveness of the IMCA safety flash system depends on receiving reports from members in order to pass on information and avoid repeat incidents.  
+Please consider adding the IMCA secretariat (imca@imca-int.com) to your internal distribution list for safety alerts and/or manually submitting information on 
+specific incidents you consider may be relevant.  All information will be anonymised or sanitised, as appropriate. 
+
+A number of other organisations issue safety flashes and similar documents which may be of interest to IMCA members.  Where these are particularly relevant, 
+these may be summarised or highlighted here.  Links to known relevant websites are provided at www.imca-int.com/links   Additional links should be submitted 
+to webmaster@imca-int.com 
+
+1  Older "Norfolk Range" Powder Extinguishers from Before 2009 
+
+The UK Health and Safety Executive (HSE) has published the following alert regarding a fault in older “Norfolk Range” large 
+dry powder fire extinguishers, manufactured  in the United Kingdom  before 2009.  These extinguishers  may be affected by 
+moisture ingress at a threaded joint at the base of the unit, rendering the unit inoperable.  The problem may not be identified 
+during routine service inspections.  
+
+Users should identify if their extinguishers are likely to be affected.  If yes, and the extinguisher has been left exposed to adverse 
+conditions since its last extended service, the condition of the elbow joint at the base of the unit should be examined by a 
+competent service engineer. 
+
+If you are unsure if your extinguishers are affected by this safety alert, you may wish to consult your supplier.  
+
+More  detailed  information  is  available  from  the  UK  HSE:  http://www.hse.gov.uk/safetybulletins/norfolk-large-wheeled-dry-
+powder-fire-extinguishers.htm. 
+
+ 
+
+. 
+
+                              
+
+ 
+
+Type of large dry powder extinguisher affected 
+
+The remaining incidents in this safety flash focus on personal injuries. 
+
+ 
+2  Cargo Contamination Causing LTIs during Clean-Up 
+
+A member has reported an incident in which there was contamination of liquid cargo  on an offshore support  vessel.  The 
+incident led to a week-long cleaning operation in which a number of crew became ill and had to take time off work to recover. 
+The incident occurred during loading of 50 cubic metres of calcium chloride brine.  As loading started, it was swiftly noticed 
+that no cargo was being received into the tank.  The manual valves in the brine system were checked, and it was verified that 
+they were open as they should be.  When the loading line was connected to another (amidships) manifold to attempt loading 
+from there into the tanks, the same situation was experienced and no cargo received into either tank.  The suspicion arose 
+that the line might be blocked, and it was decided that the loading had to be stopped.  To assess the problem, dismantling of 
+the line was started.  When the lines were opened it was found that the calcium chloride brine had turned into a crystallized 
+white mass, in some places completely packed in, and further into the line system, at the aft crossover line, a gel-like mass, 
+blue-greyish in colour, was discovered, which in a tray formed a thicker mass setting to the bottom with a more fluid version 
+on the top. 
+
+ 
+
+ 
+
+Crystallised white mass 
+
+Blue-grey gel-like mass 
+
+ 
+
+ 
+
+ 
+
+The opened lines revealed a crystallized white mass that blocked the system 
+
+ 
+
+The subsequent unexpected task of dismantling, cleaning and reassembling the pipes took over one week, involving work from 
+both vessel crew and outside contractors.  It had a negative but temporary impact on the health of some personnel involved. 
+At the end of the cleaning period, some of the vessel personnel involved in the dismantling of the line system reported the 
+following symptoms: 
+
+  Respiratory problems – specifically, it was noticed that some persons were breathing strenuously, two of them even during 
+normal speech while sitting down.  Further, one of the individuals with prior light symptoms of asthma, though normally 
+independent of his “inhaler”, subsequently reported that use of the “inhaler” had become necessary during this period; 
+
+  Nausea; 
+
+  Fatigue; 
+
+  Discoloured (darkened) urine; 
+
+  Kidney pain. 
+
+Four persons had to take sick leave resulting in lost time injury (LTI).  It is anticipated that all the sick persons will make a full 
+recovery, though some months off work were necessary in some cases. 
+
+ 
+Our member undertook a thorough investigation which noted the following: 
+
+1  With regard to the clogging of the cargo system: 
+
+  The vessel was relatively new and this was only the third time the brine loading system had been in use; 
+
+  On the two previous occasions the cargo had been a silica product known as Sildrill;   
+
+  There were trace quantities of the silica product Sildrill left in the brine loading system after discharging the Sildrill; 
+
+ 
+
+It was confirmed that the conditions found in the ship’s brine loading system formed near perfect conditions for a reaction 
+between the trace quantities of Sildrill and the calcium chloride brine;  
+
+  The crystallisation in the pipe came about because of chemical changes when the brine came into contact with the silica 
+
+product Sildrill.  These chemical changes caused a gel or solid substance to form in the pipes. 
+
+The immediate causes of the clogging of the cargo system were found to be: 
+
+  Chemical  changes  arising  from  inappropriate  mixing  of  trace  quantities  of  previous  Sildrill  cargo  with  calcium  chloride 
+
+brine; 
+
+  There was a machine failure in that there was an erroneous indication of the valve in the aft crossover line being closed 
+while it was 45% open – this led to the flow of cargo going into areas from which it would normally be blocked.  This 
+contributed to the clogging. 
+
+The root causes were found to be: 
+
+  Lack of experience and knowledge of this type of cargo – officers involved in the previous two loadings of the Sildrill were 
+
+unfamiliar with what the substance actually was and had no prior experience in dealing with it;  
+
+  Lack of familiarity with the chemical components of the two different types of cargoes: 
+
+  Officers would not have been able to foresee the chemical reaction that occurred when Sildrill and calcium chloride 
+
+brine came into contact with one another 
+
+  To both officers and crew, the perception was that both cargoes were “some sort of brine” and also both cargos were 
+
+considered “harmless”; 
+
+ 
+
+Inadequate or incorrect information supplied to the vessel:  
+
+  They were informed by the company logistics department that the cargo was a “brine-like material” 
+
+  Whilst instructions were given to wash the tanks and lines, there was no explicit emphasis on the importance of this 
+
+washing, and, hence, the system was washed to “brine standard” as per company procedures 
+
+  As a result of this, trace quantities of Sildrill were left in the system; 
+
+  Company procedures or standards for cleaning cargo pipework were not adequate. 
+
+2  With regard to the subsequent ill-health of the crew involved in the clean-up operation: 
+
+  Chemical analysis by an independent third party of the blend of substances removed from the brine loading system revealed 
+
+some presence of metals, of which the highest level was the metal Chromium; 
+
+  How this metal got into the pipe system was not confirmed (and confirmation was sought from the manufacturer of the 
+pipes that it did not originate from the pipework itself), but notwithstanding that, this metal is a known irritant to the 
+human respiratory system. 
+
+The root causes were found to be:  
+
+  There was a common understanding on the vessel regarding the “complete harmlessness of this cargo”, in spite of existing 
+
+information in the Material Safety Data Sheets.  As a result there was inadequate adherence to procedures: 
+
+  Appropriate  risk  assessment  did  not  take  place,  nor  was  there  any  toolbox  talk  before  dismantling  and  cleaning 
+
+operations started 
+
+  There was no Permit to Work (PTW) sought. 
+
+Our member took the following corrective actions: 
+
+ 
+
+Improved communication/instruction programme – ensured vessel crew had better awareness regarding cargo properties; 
+
+  Made improvements to cargo system washing facilities; 
+
+  Made improvements to communications between vessel and logistics department. 
+
+Members may wish to refer to the following incident (search words: cargo, bulk): 
+
+ 
+ 
+
+IMCA SF 16/14 Incident 4 – Near miss: Incident involving dry bulk pressure system 
+
+3  Line of Fire injury – Man Struck in Face by Hammer 
+
+The International Association of Drilling Contractors (IADC) has published a safety flash regarding an incident where a man 
+was struck inadvertently in the face with a hammer, leading to “recordable” injuries to his face.  Two crew members were 
+hammering up bolts on equipment at a well-head.  During the pre-job meeting the two men had anticipated getting hit with the 
+hammer while holding the hammer wrench.  As a defence they tied an 8cm long piece of rope around the hammer wrench so 
+that one employee could hold a bind on it while the other man swung the hammer.  As the two men worked their way around 
+the stack the man holding the rope ended up in the line of fire as he pulled the rope.  On one of the swings the hammer glanced 
+off of the top of the hammer wrench.  Before the employee could stop the forward momentum of the hammer, it made contact 
+with the man holding the rope striking him in the mouth resulting in injury.  
+
+Causes: lack of situational awareness, remaining “in the line of fire”. 
+
+See http://www.iadc.org/wp-content/uploads/2015/07/SA-15-07.pdf for further details. 
+
+Members  should  be  reminded  of  IMCA’s  “In  the  line  of  fire”  video  which  can  be  viewed  on-line  or  downloaded  from 
+http://www.imca-int.com/safety-environment-and-legislation/safety-environment-and-legislation-videos/sel-036.aspx.    It  is  also 
+available on request in DVD format.  
+
+4  RWC – Caught Between: Finger Smashed by Tooling 
+
+IADC has recently published a safety alert in which a crewman suffered multiple  fractures on his right ring finger.  His hand 
+was caught in the jaws of a tong latch device used to handle drill pipe.  
+
+The immediate causes of the incident were found to be: 
+
+ 
+
+Inappropriate or incorrect tools used for the job; 
+
+  Procedures not followed – handles (green in illustration) were provided but were not used; 
+
+  Complacency – no Job Hazard Analysis (JHA) was performed as the task was seen as “routine”; 
+
+  The tooling was so placed such that the supervising driller could not see what was going on. 
+
+The report can be downloaded from http://www.iadc.org/wp-content/uploads/2015/07/SA-15-05.pdf. 
+
+Members may wish to review the following similar incidents (search words: caught, finger): 
+
+ 
+
+ 
+
+IMCA SF 04/12 Incident 1 – Lacerated finger during rigging operations; 
+
+IMCA SF 05/15 Incidents 4, 5 and 6 all relate to hand injuries. 
+
+Members  should  be  aware  that  IMCA  has  a  pocket  safety  card  on  this  topic,  Watch  your  hands  –  you’ve  only  got  one  set! 
+http://www.imca-int.com/media/102527/imcaspc08.pdf. 
+
+ 
+
+ 
+
+ 
+
+5  Everyday Activity, Unwanted Outcome: Poor Manual Handling Leads to Back Strain 
+
+A member has reported an incident in which a member of the shore staff injured his back due to the incorrect lifting of a heavy 
+box from above head height.  The person was working alone in a container unit onshore, searching for a spare part for an 
+engine by individually removing boxes from the shelves to look inside them. 
+
+On  the  top  shelf  (2m  high)  there  was  a  box  with  a  turbocharger  in  it,  which  weighed  approximately  20kg.    Although  the 
+contents were clearly labelled on the box, the person was not expecting the weight of the box to be that heavy and had not 
+prepared his stance ready to correctly accept the weight. 
+
+When the box was removed from the shelf, it fell to waist height; to avoid damaging the equipment he held on tight to it.  This 
+caused a jolt and strain to his back.  Having hurt his back he continued with light duties for the rest of the day.  He had previous 
+experience with back strain and did not require to visit an external medical unit. 
+
+Our member noted the following:  
+
+  The box was subsequently repositioned on a lower shelf; 
+
+  Self-applied haste caused the person to not check the label on the box before lifting it off the shelf.   If he had taken the 
+time to read the label he would have been warned to position himself in such a way to be able to accept the heavy load 
+correctly and without injury; 
+
+  Heavy items should never be placed on the top shelves; they should always, where possible, be stored at waist height 
+
+shelves to promote safer manual handling. 
+
+Members may wish to refer to the following incidents (search words: cargo, spill, leak, container): 
+
+ 
+
+ 
+
+IMCA SF 11/08 Incident 2 – Incorrect lifting equipment used [leading to spillage of 45l of ethylene glycol]; 
+
+IMCA SF 09/15 Incident 1 – “Routine” task, non-routine result: batteries stored sideways leak battery acid. 
+
+Members should be aware that IMCA has safety promotional material covering manual handling: 
+
+ 
+
+IMCA SPC 01 – Manual handling. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+

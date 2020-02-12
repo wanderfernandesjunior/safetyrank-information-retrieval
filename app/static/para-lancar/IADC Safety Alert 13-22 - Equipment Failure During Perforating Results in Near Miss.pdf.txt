@@ -1,0 +1,70 @@
+Safety Alert 
+
+        From the International Association of Drilling Contractors 
+
+ 
+ALERT 13 – 22 
+ 
+
+EQUIPMENT FAILURE DURING PERFORATING RESULTS IN NEAR MISS 
+
+ 
+ 
+WHAT HAPPENED: 
+ 
+While  removing  the  spent  perforating  gun  from  the  hole  after  perforating  the  5th  stage  of  a  horizontal 
+hydraulically fractured completion, the  wire rope  parted from the rope socket allowing  the  gun  to fall  to the 
+ground.  There were no injuries or damage.   
+ 
+The lubricator had been lifted from the wellhead and positioned 50 feet (15.24 meters) above the ground to 
+lower  the  30  foot  (9.14  meters)  long  spent  perforating  gun.    The  gun  was  lowered  out  of  the  lubricator  to 
+within 1 foot (30.5cm) of the ground when the rope socket failed thus allowing the gun to drop vertically to 
+ground level and then fall over onto the ground. 
+ 
+
+WHAT CAUSED IT: 
+ 
+•  Re-heading of the wireline is normally done every 8-10 runs during normal service windows.  This time 
+period might be too long of an interval.  The procedure failed to identify that the perforating gun could fall 
+over if the rope socket failed. 
+
+ 
+
+CORRECTIVE ACTIONS:  To address this incident, this company did the following: 
+ 
+•  The company reminded all personnel that Pre-Job Safety Analyses and discussions that identify job 
+steps, hazards and specific persons responsible to implement hazard controls should continue to be 
+standard operating procedure.  JSA’s must incorporate the below procedures. 
+
+•  The company established a new requirement of re-heading the wireline after 4 runs. 
+•  The company modified the standard operating procedure so that, after lifting the lubricator off the 
+
+wellhead it will be lowered to within ~15 feet (4.6 meters) of the ground prior to positioning the lubricator 
+to lower the gun; this will reduce the risk of the gun falling flat to the ground by containing it within the 
+lubricator should the line part from the rope socket. 
+
+•  The company emphasized that only necessary personnel are in the area around each completion 
+
+activity.  In this case, once the lubricator is positioned it will be raised and the gun lowered while only 
+those wireline personnel needed to stab the gun into the lay down carrier will be allowed under the 
+lubricator.  All others will be to the side and aware of the gun’s position until it is safely on the ground.  
+This is particularly true for those under or near any suspended loads or high pressure operations. 
+
+•  The company instructed all departments and regions to disseminate this Safety Alert to all perforating 
+
+crews during pre-job safety meetings and post it in the completions trailers so that they are aware of the 
+dropped object hazard. 
+
+The Corrective Actions stated in this alert are one company’s attempts to address the incident,  
+
+and do not necessarily reflect the position of IADC or the IADC HSE Committee. 
+
+This material is presented for information purposes only.  Managers & Supervisors should 
+
+evaluate this information to determine if it can be applied to their own situations and practices 
+
+Copyright  2013 International Association of Drilling Contractors All rights reserved. 
+
+Issued September 2013 
+
+

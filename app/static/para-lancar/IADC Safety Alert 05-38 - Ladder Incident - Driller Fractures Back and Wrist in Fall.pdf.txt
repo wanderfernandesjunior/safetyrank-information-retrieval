@@ -1,0 +1,78 @@
+Safety Alert 
+
+        From the International Association of Drilling Contractors 
+
+ 
+ 
+ALERT 05 – 38 
+ 
+
+LADDER INCIDENT - DRILLER FRACTURES BACK AND WRIST IN FALL 
+
+ 
+WHAT HAPPENED: 
+ 
+A  driller  was  positioned  on  an  extension  ladder  inside  the  drilling  rig’s  substructure.  He  was  attempting  to 
+tighten a fitting on a hydraulic hose with an 18-inch pipe wrench.  The wrench slipped off the fitting, causing 
+the driller to lose his footing on the ladder and fall to the rig matting below.  The distance of the fall was less 
+than three meters (9.8 feet); the pipe wrench was in good working order, there were no slippery substances 
+on the rungs of the ladder; and the driller’s footwear was in good condition. 
+ 
+WHAT CAUSED IT: 
+ 
+The driller took an unsafe position on the ladder.  He did not have one hand available to hold onto the ladder 
+or other support (i.e., fall protection).  As a result, he was not following proper procedures for completing a 
+task  inside  the  rig  substructure  while  working  at  a  potentially  unsafe  height,  below  three  meters,  on  an 
+extension ladder.  
+
+Contributing Factors:  
+
+The driller was also not in compliance with the company’s Fall Protection Policy.  This policy states that “All 
+workers shall use the fall protection systems when working at a height above three meters (9.8 feet) or if a 
+falling hazard exists.”  
+ 
+CORRECTIVE ACTIONS:  To address this incident, this company did the following: 
+ 
+
+•  Create  a  Job  Safety  Analysis  (JSA)  on  “Working  in  the  Cellar  while  at  Heights,”  and  review  with  all 
+personnel the risks of working at potentially unsafe heights. Serious injuries may occur when falling from 
+less than three meters.  
+
+•  Attach/weld  engineered  5,000-pound-rated  lug  for  fall  protection  in  strategic  areas  inside  the 
+substructure. These anchor points will optimize the fall protection system for completing tasks inside the 
+substructure while working at potentially unsafe heights.  
+
+•  Evaluate  all  rigs  in  fleet  for  working  at  a  potentially  unsafe  height  hazard  (falls  from  less  than  three 
+
+meters) and provide mitigation.  
+
+•  Reinforce  the  company’s  present  and  ongoing  plan  in  proactive  risk  assessment  through  the  use  of 
+
+hazard identification tools (JSAs and the Do-It Program).  
+
+•  Promote  the  performance  of  a  Basic  Risk  Assessment.  Before  starting  any  task,  workers  should  ask 
+
+these four questions:  
+1.  What could go wrong?  
+2.  How could that affect me/us?  
+3.  What can I/we do about it?  
+4.  Will my/our actions create other problems?  
+
+ 
+ 
+IADC Note:  Refer to Alerts:  99-14, 99-16, 02-19,  
+ 
+
+The Corrective Actions stated in this alert are one company’s attempts to address the incident,  
+
+and do not necessarily reflect the position of IADC or the IADC HSE Committee. 
+
+This material is presented for information purposes only.  Managers & Supervisors should 
+
+evaluate this information to determine if it can be applied to their own situations and practices 
+
+Copyright © 2005 International Association of Drilling Contractors All rights reserved. 
+
+Issued October 2005 
+
+

@@ -1,0 +1,111 @@
+May 27, 2015 
+Washington, DC 
+
+         Inspections and Compliance Directorate 
+
+ 
+
+ Safety Alert 6-15 
+ 
+
+ 
+
+           FIRE EXTINGUISHING SYSTEMS READY 
+
+Are you sure? 
+
+ 
+
+This  Safety  Alert  is  being  issued  due  to  recent  safety  concerns  discovered  on  vessels  with  fixed 
+CO2 fire fighting systems.  It is critical that operators of vessels with fixed CO2 systems are familiar 
+with the operation of the systems; conduct periodic inspections of the systems for readiness, and 
+know  the  signs  for  detecting  when  a  discharge  has  occurred.    It  is  recommended  that  the 
+appropriate crew members receive training on CO2 system operation and its basic components. 
+ 
+Recently,  during  the  annual  servicing  of  a  KIDDE  CO2  system  onboard  a  passenger  ferry,  a 
+technician and Coast Guard Marine Inspector discovered that an undetected discharge of the CO2 
+system  within  the  emergency  generator  room  had  taken  place.    Although  the  time  of  the 
+inadvertent  discharge  could  not  be  determined,  the  cause  was  due  to  be  a  worn  internal 
+mechanism within the control head. 
+ 
+The crew was unaware of the discharge in the emergency generator room because the space did 
+not  require  any  indicators  (e.g.,  alarm,  smoke/heat  detection)  to  alert  the  crew  and  nobody  was 
+present at the time of discharge.  This circumstance presented three latent unsafe conditions: the 
+failure could have occurred while someone was within the space, a person could have entered the 
+space after the release and the space remained unprotected for an unknown period of time.   
+ 
+Identifying the status of a fixed CO2 system can be done visually.  The control head of the valve 
+has a slot that either aligns to the “SET” or the “RELEASED”  position and the indicators are the 
+same  whether  it  is  an  electrically  operated  (left  photograph)  or  pneumatically  operated  control 
+head (center photograph).   
+
+ 
+
+ 
+
+The  slot  and  arrow  indicator  on 
+the  released  component  above 
+aligns  with  the  status  of  the  CO2 
+bottle. 
+ 
+
+Safety Alert 6-15 
+
+ 
+
+Indicator Movement
+
+indicator 
+
+Pictured above is a release indicator for  
+an ANSUL system. 
+ 
+The  photo  on  the  right  is  an  example  of  a 
+second  visual 
+for  checking 
+system  status.    It  indicates  the  pressure 
+switch  position  for  the  CO2  system.    If  the 
+indicator is in the down “SET” position, no 
+CO2 has been released and the system is 
+ready  for  operation.    If  the  indicator  is  in 
+the up position, it indicates that the system 
+has  been  “OPERATED”  and 
+the 
+proper  servicing  company  should  be 
+contacted immediately to bring the system 
+back to readiness. 
+ 
+Due to the risks associated with an inadvertent discharge of a fixed CO2 system, the Coast Guard 
+strongly recommends that owners and operators ensure that appropriate vessel personnel: 
+ 
+
+that 
+
+•  Receive  adequate  training  to  perform  routine  inspections  of  their  vessel’s  fixed  CO2 
+systems  and  fully  understand  their  operation,  particularly  those  protecting  large  spaces  or 
+multiple areas, 
+
+•  Frequently  review  and  update  operating  manuals,  checklists,  and  safety  management 
+
+systems associated with vessel extinguishing systems onboard, and 
+ 
+
+•  Post clear instructions for fixed CO2 system emergency operation. 
+
+ 
+
+This safety alert is provided for informational purposes only and does not relieve any domestic or 
+international  safety,  operational  or  material  requirement.    Developed  by  the  Sector  Southeastern 
+New  England  -  Prevention  Department.      For  questions  or  concerns,  please  email  LT  Kelli 
+Dougherty - Kelli.M.Dougherty@uscg.mil.  Distributed by the Office of Investigations and Casualty 
+Analysis, Washington DC.        
+ 
+ 
+
+2 
+
+ 
+
+ 
+
+

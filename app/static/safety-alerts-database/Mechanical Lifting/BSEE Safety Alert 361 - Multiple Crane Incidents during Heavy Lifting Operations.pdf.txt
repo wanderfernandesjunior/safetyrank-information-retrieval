@@ -1,0 +1,138 @@
+SAFETY ALERT 
+ 
+
+ 
+ 
+ 
+Safety Alert No. 361 
+July 19, 2019  
+ 
+ 
+
+ 
+            
+
+ 
+       
+
+                                Contact: Bethram Ofolete 
+
+            
+
+Phone: (805) 384-6370 
+
+ 
+
+Multiple Crane Incidents during Heavy Lifting Operations 
+
+ 
+Since October 2018, BSEE is aware of six occurrences involving platform cranes pulling 
+and/or striking handrails or other objects during heavy lifting operations on the Pacific Outer 
+Continental Shelf (POCS).  The increase in crane activity on the POCS has been largely 
+associated with decommissioning activities and ongoing well abandonment operations. All of 
+the crane-related incidents involved routine lifts during which the workers failed to recognize 
+and mitigate job-specific hazards.  
+
+ 
+
+Load 
+
+Caution tape in the center of the photograph 
+marks the location where a handrail broke 
+off after being struck by a 15,500 lb. load. 
+
+The damaged retainer rod from the April 7, 
+2019, incident is visible in the lower right 
+portion of the photograph. 
+
+  
+
+ 
+Below are summaries of three of these crane incidents on the POCS:  
+ 
+On March 31, 2019, during a crane lifting operation, a crane rigger used a handrail as an 
+anchor point for fall protection, thereby placing himself in a potentially hazardous situation.  
+As a 15,500 lb. fluid pump was being positioned for lifting, the load swung and hit the 
+handrail causing the handrail to break off and fall toward the ocean with rigger still anchored 
+to it.  The rigger quickly prevented himself from being dragged into the water by sitting down 
+and placing his feet on the kick plate.  
+ 
+BSEE’s investigation revealed that the crane rigger and his supervisor should have used 
+better judgement when the rigger opted to use a handrail as an anchor point for fall 
+protection. The crane crew also failed to re-evaluate the job scope when the lifting operation 
+changed to a blind lift.  It was discovered that the operator had different qualified contractors 
+certified to conduct various crane operations; however, there was no designated contractor 
+for crane operations.  The various contractors on the platform were also found to not be 
+working collaboratively, possibly due to their differing safety backgrounds.  
+
+ 
+On April 7, 2019, a crane operator on a POCS platform was back-loading a boat with a 
+lubricator box.  As the crane operator placed the load (the lubrication box) on the deck, a 
+large wave caused the boat to drop vertically under the load; the boat then came back up 
+and struck the load, causing damage to one of the retaining rods on the lubricator box.  A  
+10-foot damaged section of the lubricator fell off the rack and hit the deck with the load (box) 
+about one foot off the deck.  
+ 
+On April 8, 2019, a crane on a POCS platform was attempting to re-position a job box when 
+the load snagged the handrail and a 100 lb. "gin pole,” which was not secured to the load, 
+thereby causing the load to fall approximately 45 feet to the cellar deck. At the time of the 
+incident, there were no personnel in the impacted area of the cellar deck, thus there were no 
+injuries. There was also no damage to the crane or equipment.  As a result of the incident, 
+Stop Work Authority was initiated and a “Safety Stand-down" meeting was conducted with 
+all the crane operators and riggers to discuss the incident.  At the meeting, personnel were 
+reminded of the importance of inspecting loads prior to lifting operations.  BSEE Inspectors 
+investigated the incident and issued an Incident of Non-Compliance (INC) to the lessee for 
+failing to ensure that the “gin pole” was properly secured by a bracket prior to lifting. 
+ 
+Therefore, BSEE recommends that operators consider the following: 
+ 
+
+ 
+
+Incorporate in your Job Safety Analysis (JSA) a “staging plan.”  The plan should 
+review, identify and eliminate any rigging hazards, such as removable handrails, 
+within the lifting area; 
+  
+
+  Ensure that crane operation personnel review the JSA prior to rigging 
+
+operations and include any changes that are capable of changing the work 
+classification from a routine operation to non-routine operation, such as a blind 
+or heavy lift;  
+
+ 
+
+  Ensure that all personnel involved in crane operations and/or rigging review 
+the JSA and understand/acknowledge their role in ensuring the safety of the 
+upcoming job prior to work commencing. Further the JSA should be specific to 
+the job at hand;  
+ 
+
+  Ensure that crane operators and riggers (platform and boat) are certified in 
+
+  Review your Fall Protection Plan and ensure that personnel are prohibited from 
+
+accordance with API RD 2D, Section 2; 
+ 
+
+anchoring fall protection lanyards to handrails; 
+ 
+
+  Ensure that crane operators have a good understanding of ocean conditions to 
+
+properly judge wave swell and sea conditions during the lift; and 
+  
+
+  Be sure that personnel are aware of their surroundings and plan crane 
+
+operations in full consideration of those surroundings.  
+ 
+
+--BSEE-- 
+
+A Safety Alert is a tool used by BSEE to inform the offshore oil and gas industry of the 
+circumstances surrounding a potential safety issue. It also contains recommendations that 
+could assist avoiding potential incidents on the Outer Continental Shelf. 
+ 
+
+

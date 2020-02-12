@@ -1,0 +1,287 @@
+AB 
+
+Safety Flash 
+
+ May 2014 
+
+ 
+
+ 
+
+ 
+
+IMCA Safety Flash 07/14 
+
+These  flashes  summarise  key  safety  matters  and  incidents,  allowing  wider  dissemination  of  lessons  learnt  from  them.    The  information  below  has  been 
+provided in good faith by members and should be reviewed individually by recipients, who will determine its relevance to their own operations. 
+
+The effectiveness of the IMCA safety flash system depends on receiving reports from members in order to pass on information and avoid repeat incidents.  
+Please consider adding the IMCA secretariat (imca@imca-int.com) to your internal distribution list for safety alerts and/or manually submitting information 
+on specific incidents you consider may be relevant.  All information will be anonymised or sanitised, as appropriate. 
+
+A  number  of  other  organisations  issue  safety  flashes  and  similar  documents  which may  be  of  interest  to  IMCA  members.   Where  these  are  particularly 
+relevant, these may be summarised or highlighted here.  Links to known relevant websites are provided at www.imca-int.com/links   Additional links should 
+be submitted to webmaster@imca-int.com 
+
+1  First Aid Injury: Thermos Cup Exploded After being in Hyperbaric Environment  
+
+A member has reported an incident in which a brushed aluminium ‘Thermos’ style cup exploded after being taken out of a 
+hyperbaric  environment.  The  incident  occurred  when  the  cup  –  which  had  been  in  Sat  at  -256  fsw  with  the  diver  –  was 
+placed  in  the  medical  airlock  and  brought  to  the  surface.  Once  at  surface  pressure  the  Assistant  Life  Support  Technician 
+(ALST)  removed  the  cup  and  placed  it  under  his  arm,  whereupon  a  violent  separation  of  the  cup  from  its  plastic  base 
+occurred.  The  ALST  suffered  minor  bruising  and  the  cup  was  destroyed.  Immediate  medical  attention  was  given,  and  a 
+proper  and  timely  notification  to  the  appropriate  authorities  was  made.  The  remains  of  the  cup  were  retained  for 
+investigation.  
+
+Our  members’  investigation  noted  that  the  diver  had  considered  that  there  was  no  risk  of  a  pressure  differential  as  the 
+interface between the metal and the plastic base on the cup was of insufficient strength to allow  a pressure differential to 
+form.  
+
+Our member took the following actions: 
+
+♦  Advised divers in saturation what had happened; 
+
+♦  Asked them to check carefully for additional objects of a potentially hazardous nature.  
+
+Our member made the following recommendations: 
+
+♦  Allow this style of cup or vessel in the saturation chambers only if drilled to prevent pressure build up; 
+
+♦  Add non-venting thermal vessels to the list of items forbidden for use in saturation chambers.   
+
+   
+
+  
+
+ 
+
+ 
+
+  
+
+   
+
+ 
+
+Figures: Showing thermos cup after explosion 
+
+Members may wish to refer to the following similar incident: 
+
+♦ 
+
+IMCA SF 08/06 – Incident 3: Trapped Pressure Release Incident. 
+
+2  Hand  Injury  during  Retrieval  of  Personal  Protective  Equipment  (PPE)  Stored  Inside  a 
+
+Compressor Unit   
+
+An  incident  has  come  to  IMCA’s  attention  in  which  a  crewman  suffered  a  hand  injury  caused  by  a  slamming  door  on  a 
+compressor unit. The incident occurred when a contractor worker took off his PPE and kept it inside the compressor whilst 
+visiting  the  lavatory.  When  he  returned  and  retrieved  his  PPE  from  the  inside  of  the  compressor  unit,  a  part  of  the  door 
+slammed due to high wind and caught his hand, resulting in an injury to his index finger. The injured person was rushed to 
+hospital where he was received two stitches. 
+
+Figures: Compressor unit with PPE and flammable materials inappropriately stored inside 
+
+ 
+
+ 
+
+Investigation findings noted the following: 
+
+♦  Using equipment enclosures as temporary storage can potentially lead to harm of people and damage to equipment; 
+
+♦  The  worker  placed  his  PPE  inside  the  compressor  unit.  The  inside  of  the  compressor  unit  was  used  by  the  crew 
+
+habitually as a storage area for PPE; 
+
+♦  There were other flammable materials seen stored inside the compressor unit, which could potentially lead to major fire 
+
+♦  There was no evidence of new risk assessment being conducted prior to recommencing of the work, and PPE was seen 
+
+being stored inside the compressor unit the following day – the lessons were not learnt by the crew. 
+
+and explosion;  
+
+♦  The incident was not reported in a timely way;  
+
+The following actions were taken: 
+
+♦  Ensure all incidents are reported immediately; 
+
+ 
+♦  Ensure no materials are stored inside any operational machinery;  
+
+♦  Ensure PPEs/other materials are stored in designated area only. 
+
+3 
+
+ Crane Wire Rope Grip Incorrectly Fitted   
+
+A  near  miss  incident  has  come  to  IMCA’s  attention  in  which  a  crane  wire  rope  termination  was  found  to  be  incorrectly 
+fitted. Before starting work at a land-based site, a 30 tonne mobile crane was inspected, and a rope clamp (bulldog) attached 
+to the hoist ropes ‘dead end’ was found to be incorrectly fitted causing crushing  and damage to the ‘live end’ of the wire 
+rope (the part of the wire rope that takes the load strain). 
+
+The incorrect selection or fitting of wire rope grips drastically reduces the efficiency of the wire rope terminations and can 
+cause the wire rope to slip through the grips, potentially leading to the harm of people and damage to the equipment. 
+
+The bridge of the clamp must always be fitted on the working part (live end) of the rope, and the U bolt on the rope tail 
+(dead end) of the rope. 
+
+Figure: wedge socket showing right and wrong method of termination 
+
+ 
+
+For a wedge Socket, the wire rope grip should NOT be connected to the live rope. It should only be connected to the dead 
+end of the rope.  Any clamping at all, bridge or U bolt, to the live end of a rope terminated with a wedge socket can cause 
+damage and crushing and is not recommended.  
+
+Figure: Showing incorrect fitting of wire rope grips 
+
+ 
+
+ 
+The following lessons were learnt: 
+
+♦  Ensure correct type of wire rope grip is selected when terminating wire ropes; 
+
+♦  Ensure wire rope grips are correctly fitted;  
+
+♦  Watch out for signs that may indicate broken wires; e.g. reduction in rope diameter, corrosion or rope deformation. 
+
+Members may also wish to refer to IMCA SEL 019 – Guidelines for lifting operations. 
+
+4  Crew Transfer Vessel in Collision with Anchor Wire   
+
+A member has reported an incident in which an offshore wind farm crew transfer vessel (CTV) collided with an anchor wire 
+under  tension.  The  incident  occurred  when  the  CTV  approached  the  starboard  side  boat  landing  of  a  cable  lay  barge. 
+Difficulty  was  encountered  in  positioning  the  vessel  onto  the  boat  landing,  and  at  the  same  time,  a  pre-alarm  on  the  port 
+engine sounded (indicating overheating exhaust gasses).  Owing to this  alarm  and the subsequent automatic intervention of 
+the electronic engine management system, the CTV lost part of its propulsion power. At this point, the vessel was taken by 
+the current towards the anchor wire. Due to sea conditions causing the CTV to move, the wire acted as a saw and caused 
+significant  damage  to  the  wheelhouse.  After  this the  vessel  came  loose  of  the  anchor wire  and  the  current  took  the  CTV 
+further away. There were no injuries.  
+
+Figures: (L) Showing CTV caught by wire under tension, and damage to wheelhouse (R) Showing vessel undamaged 
+
+ 
+
+ 
+
+During our members’ investigation, the following points were noted: 
+
+♦  A similar incident had happened with the same CTV earlier in the year; 
+
+♦  Crew  transfers  are  executed  so  often  that  they  can  be  considered  as  a  routine  activity  (‘taxi’)  leading  to  risks  being 
+
+overlooked and complacency setting in; 
+
+conditions differ for each project;  
+
+♦  Crew  transfer  is  an  important  activity  and  should  be  formally  risk  assessed  on  each  project  since  environmental 
+
+♦  Reporting, communicating and follow-up of incidents and near misses is important since this incident would have been 
+prevented had the previous incident been properly reported, correctly communicated and follow-up had been in place 
+and adhered to. 
+
+Members may wish to refer to the following similar incidents: 
+
+♦  The following safety flashes refer to incidents involving the crew transfer vessels used in the offshore renewables industry: 
+
+− 
+
+− 
+
+− 
+
+− 
+
+IMCA SF 06/13 – Incident 1: Crew transfer vessel trapped under a boat landing 
+
+IMCA  SF  12/13  –  Incident  3:  Incidents  of  failure  of  jet  drives  on  wind  farm  service  vessels,  and  Incident  4:  Wind  farm 
+service vessel in collision with wind turbine foundation 
+
+IMCA SF 16/13 – Incident 4: LTI Crewman injured foot during offshore renewables mooring operation 
+
+IMCA SF 06/14 – Incident 2: Near Miss: Strong Sun Glare Contributes to Heavy Impact on Boat Landing, Incident 3: Near 
+Miss Incidents during Personnel Transfer to Offshore Renewable Energy Installations and Incident 4: Navigational Near Miss 
+in Restricted Visibility. 
+
+♦  The following safety flashes refer to incidents where complacency was identified as a factor: 
+
+− 
+
+IMCA SF 02/00 – Incident 5: Damage to main hoist rope on Liebherr 1080/1 crane 
+
+ 
+
+− 
+
+− 
+
+IMCA SF 07/05 – Incident 1: ROV free-fall incident 
+
+IMCA SF 11/12 – Incident 1: LTI: Hand Injury. 
+
+5 
+
+Injury Caused by Movement of Wire Rope under Tension 
+
+A  member  has  reported  an  incident  in  which  someone  was  injured  by  an  anchor  wire  that  skidded  off  unexpectedly  off  a 
+flatbed  trailer.  The  incident  occurred  on  a  beach  during  cable  installation  operations,  when  personnel  were  connecting 
+midline  buoys  to  an  anchor  wire.  The  injured  person  sustained  a  broken  foot  but  the  incident  had  the  potential  to  be  a 
+fatality. 
+
+Position of the injured person at time of the incident 
+
+Anchor wire after the accident 
+
+Original track of the anchor wire 
+
+Figure: Showing scene of incident 
+
+ 
+
+Our members’ investigation revealed one of the root causes was lack of knowledge of what was happening at the worksite: 
+persons involved were not aware of the fact that tension is still in a wire even when hanging slack and lying on the beach for 
+a considerable length (700 meters). 
+
+The lesson learnt is that it is in the nature of a wire rope that there will always be stored or residual energy in a length of it. 
+This introduces a range of potential safety issues including manual handling and unexpected release of energy when handling 
+the wire ropes. These issues should be taken into account in job planning, tool box talk and risk assessment before the start 
+of the job.  
+
+Members may wish to refer to the following similar incidents (key words: wire rope, tension, stored energy): 
+
+♦ 
+
+♦ 
+
+♦ 
+
+IMCA SF 05/03 – Incident 2: Fatality During Cable-Pulling Operations; 
+
+IMCA SF 17/08 – Incident 3: Stored Energy – Injury Sustained Whilst Removing Metal Strap;  
+
+IMCA SF 13/13 – Incident 3: Crewman Injured Whilst Changing Out Crane Wire. 
+
+6  Master Link and Sub-Link Failures on Lifting Equipment   
+
+The  Marine  Safety  Forum  has  published  the  following  safety  flash  regarding  two  separate  incidents  in  which  there  were 
+failures  of  master  links  and  sub-links  on  lifting  slings.  Although  no  personnel  were  injured,  the  potential  severity  of  such 
+incidents was very serious.  
+
+The safety flash can be downloaded from: www.marinesafetyforum.org/upload-files//safetyalerts/msf-safety-flash-14.08.pdf.  
+
+Members may wish to refer to the following similar incident (key words: master, link, failure): 
+
+♦ 
+
+IMCA SF 12/11 – Incident 1: Offshore Tank Container Rigging Failure. 
+
+  
+
+ 
+
+

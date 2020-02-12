@@ -1,0 +1,138 @@
+AB
+
+ 
+
+IMCA Safety Flash 07/99 
+
+December 1999 
+
+These  flashes  summarise  key  safety  matters  and  incidents,  allowing  wider  dissemination  of  lessons  learned  from  them.    The  information  below  has  been 
+provided in good faith by members and should be reviewed individually by recipients, who will determine its relevance to their own operations. 
+
+The effectiveness of the IMCA safety flash system depends on receiving reports from members in order to pass on information and avoid repeat incidents.  
+Please consider adding the IMCA secretariat (imca@imca-int.com) to your internal distribution list for safety alerts and/or manually submitting information 
+on specific incidents you consider may be relevant.  All information will be anonymised or sanitised, as appropriate. 
+
+A  number  of  other  organisations  issue  safety  flashes  and  similar  documents  which  may  be  of  interest  to  IMCA  members.    Where  these  are  particularly 
+relevant, these may be summarised or highlighted here.  Links to known relevant websites are provided at www.imca-int.com/links  Additional links should 
+be submitted to webmaster@imca-int.com 
+
+ 
+
+1  Hydraulic hand pump (enerpac) hose failure 
+
+A member has reported that while extending an hydraulic arm on a tooling system using a (enerpac) hydraulic pump, rated 
+for 10,000 psi (680 bar), the output hose burst next to the coupling at the end of the output hose.  On investigation, it was 
+found  that  the  enerpac  output  hose  was  rated  for  3,000  psi  (200  bar)  and  had  been  damaged  (kinked)  prior  to  use.    In 
+addition to this, the enerpac pressure gauge was facing away from the pump operator, resulting in the operator not knowing 
+what pressure the enerpac was generating.  Fortunately in this case no injuries were sustained. 
+
+The contractor involved has issued the following reminder to its personnel: 
+
+  Equipment such as hydraulic hand pumps (enerpacs) and associated equipment should be visually inspected prior to use 
+
+for damage, to ensure integrity and to ensure that pressure gauges, etc., are working correctly; 
+
+  Always use a gauge to verify system pressure; 
+
+  Be aware of the safe working pressure of all parts of the system - the output hoses may be rated at a lower pressure 
+
+  Full personal protective equipment (PPE) including eye protection should be utilised by all personnel in the area, not only 
+
+than other parts of the system; 
+
+the system operator; 
+
+  Risk assessments should be revisited. 
+
+2  Condition of container doors 
+
+One  of  our  members  has  reported  a  failure  of  a  container  door  on  one  of  their  vessels.    The  container  door  became 
+unlatched during a period of moderate swell.  The vessel motion caused the door to swing and this, coupled with corrosion 
+around the door hinge, resulted in the door falling to the deck.  Fortunately no-one was injured. The container had been in 
+storage for six months. 
+
+This incident highlights the potential hazards when entering and exiting containers of any type.   
+
+The contractor involved has reminded its personnel to check all container door hinges as part of their regular maintenance 
+schedule.    This  check  should  include  the  latching  system  and  the  area  around  the  actual  hinges  themselves  as  they  are 
+exposed to both the environment and sea states. 
+
+3  Crane accidents 
+
+Two accidents have recently been reported during a lifting operation on a fixed installation. 
+
+The first accident happened during the lifting of a 13 tonne tank.  When topping the boom to reach the right location to put 
+the load on the deck, the boom suddenly started falling and the load fell down approximately three metres until it hit the top 
+of  two  other  stored  tanks.    These  tanks  were  about  two  metres  apart  and  the  falling  tank  got  jammed  in  between  them.  
+Fortunately no-one was hurt.  The crane boom descent stopped when the crane operator put the boom operating joystick in 
+neutral position which automatically activated the boom brake. 
+
+The second incident occurred half an hour later when it was attempted to lay the boom into its rest.  To do this, the crane 
+driver had to slew the crane about 45°.  During this operation, the boom once again fell uncontrolled.  The boom hits its rest 
+so hard that it bent the boom rest.  The connection bolts between boom sections 2 and 3 were sheared and the forward 
+
+Safety Flash 
+
+ 
+
+ 
+
+ 
+
+part of the boom tipped down from the boom rest in a 90° angle.  Only the whip wire rope prevented the forward two 
+sections falling into the sea. 
+
+The immediate cause of the incident was found to be the collapse of the input gear (sun gear) between the main shaft from 
+the hydraulic motor to the gearbox on the boom winch.  All teeth were broken off.  The most likely cause for this was the 
+incorrect assembly of the sun gear. A washer had probably come out of position during installation and this has led to rapid 
+wear of the sun wheel gear. 
+
+The key lessons identified were: 
+
+to  ensure  adequate  inspection  and  planned  maintenance  programmes  for  critical  systems/components  by  persons 
+adequately trained; 
+
+the  importance  of  clear  and  correct  procedures  and  descriptions  of  work  to  be  undertaken;  and  that  these  be 
+understood and followed during disassembly and assembly of the gear box; 
+
+ 
+
+the importance of the use of carrying out a safe job analysis before critical jobs and operations. 
+
+4  Crane whip line incident 
+
+We have recently learned of a crane whip line, on an offshore crane, parting when lifting a concrete mat weighing 4.5 tonnes 
+from the vessel deck.  The load being lifted was well within the safe working load of the wire and the crane.  Fortunately no-
+one was injured and no damage was sustained. 
+
+After investigation it was concluded that the wire rope parted due to internal corrosion which had been generated from lack 
+on internal lubrication of the first, approximately, 22m of the wire from the hook end.  This allowed corrosion of the internal 
+strands  generating  a  fatigue  failure  of  the  internal  wire  and  a  tensile  failure  of  the  external  wire  which  resulted  in  a 
+contribution  of  fatigue  and  loss  of  metallic  areas.    This  conclusion  was  further  substantiated  when  the  wire  was  visually 
+inspected  at  the  contractor’s  premises,  where  it  was  found  that  the  first  16m  was  heavily  corroded  with  its  condition 
+gradually improving to the 22m mark. 
+
+There had been inspection, greasing and destruct tests of the wire rope during its service.  A 100% NDT inspection and high 
+pressure lubrication of the wire had been undertaken a couple of months prior to the incident.  It was subsequently found 
+that, although the wire should have had a 100% inspection, NDT and high pressure lubrication, this was not achieved.  When 
+the wire rope was reeled off the crane onto a reel sited on the quayside and the NDT and pressure lubricating equipment 
+positioned on the crane jib approximately 25m of the wire was omitted from the inspection.  This was the section of wire 
+that failed. 
+
+The company involved has contacted the inspection company to verify that it has changed its quality procedures to include a 
+method statement to ensure 100% NDT inspection and high-pressure lubrication. 
+
+The  planned  maintenance  for  the  inspection  of  vessel  crane  wires  is  to  be  reviewed  to  determine  if  the  frequency  and 
+mechanism is sufficient to actively monitor the condition of crane wire ropes in use. 
+
+5  Forged diving certificates 
+
+We have recently learned of irregularities coming to light on a project whose scope included a small inshore diving element. 
+
+On audit, the diving company was discovered to have a number of certification inconsistencies including forged HSE diving 
+certificates and medicals.  The diving contractor involved had been operating in the area for the past two years. 
+
+This highlights the importance of having in place audit programmes for sub-contractor companies and their personnel. 
+
+

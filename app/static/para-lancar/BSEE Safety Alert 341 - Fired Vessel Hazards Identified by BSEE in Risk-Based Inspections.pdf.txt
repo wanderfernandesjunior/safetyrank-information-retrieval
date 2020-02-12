@@ -1,0 +1,136 @@
+SAFETY ALERT 
+
+Safety Alert No. 341 
+2 October 2018 
+
+Contact: Jason Mathews 
+Phone: (504) 731-1496 
+
+Fired Vessel Hazards Identified by BSEE in Risk-Based Inspections 
+
+The  Bureau  of  Safety  and  Environmental  Enforcement  (BSEE)  recently  conducted  a 
+review of recent compliance and incident data to identify safety trends throughout the Gulf 
+of  Mexico.  The  analysis  pointed  to  a  potential  risk  associated  with  fired  vessels.  From 
+January 2016 to May 2018, 17 fired vessel incidents were reported to BSEE by 12 unique 
+operators.  Further,  BSEE  issued  76  fired  vessel-related  incidents  of  non-compliance 
+(INCs)  during  the  29-month  period.  To  reduce  the  likelihood  of  future  incidents  and 
+compliance  issues,  BSEE  developed  a  Performance  Based  Risk  Inspection  (PBRI) 
+protocol and conducted targeted inspections of fired vessels on 27 production platforms in 
+the Gulf of Mexico Region over a two-day period in July 2018. 
+
+Sight Glass Gauge Cock found partially open during a Performance Based Risk Inspection 
+
+Overall,  the  integrity  of  the  majority  of  fired  vessels  inspected  during  the  PBRI  was 
+commendable;  however,  there  were  noticeable  gaps  on  a  few  platforms  that  warrant 
+attention to prevent or mitigate uncontrolled releases of hydrocarbons, toxic substances, 
+or  other  materials  that  may  cause  environmental  or  safety  consequences.  After 
+completing the inspections, BSEE reviewed the results and conducted additional reviews 
+of  Safety  and  Environmental  Management  System  (SEMS)  specific  items  (e.g.,  fired 
+vessel  inspection  records,  operating  procedures,  competency  of  production  operators, 
+JSAs). The findings were as follows: 
+
+· BSEE found that fired vessel operating procedures were not available to all
+personnel involved in the equipment operations examined during the PBRI.
+Additionally, essential instructions for conducting safe and environmentally sound
+activities failed to include some normal and emergency operations of fired vessels.
+
+· BSEE determined that operators are not consistently inspecting gauge cock valves
+
+to make sure they are functioning properly and remaining in the correct
+status/position. (See BSEE Safety Bulletin No. 007)
+
+· BSEE concluded that a majority of the inspected operators do not perform
+
+documented inspections/reviews beyond regulatory safety device testing of the
+vessel – specifically, monitoring glycol sample analysis.
+
+· BSEE found the majority of the inspected facilities had no method to address, or
+failed to specify in their maintenance plans, when the fuel gas filters are changed
+on fired vessels.
+
+· The inspections suggest multiple operators are not in compliance with 30 CFR
+
+250.876, which requires operators to have a qualified third-party remove and
+inspect, and repair or replace, as needed, the fire tube for tube-type heaters that
+are equipped with either automatically controlled natural or forced draft burners
+installed in either atmospheric or pressure vessels that heat hydrocarbons and/or
+glycol. BSEE began enforcing this regulation on September 7, 2018.
+
+· BSEE identified multiple facilities where the integrity of the flame arrestor and
+
+spark arrestor could not be easily inspected, the frequency of inspections was not
+understood by facility personnel, or there was no documentation of inspections.
+
+· Operators’ inspections and maintenance of fire suppression/fighting systems were
+overwhelmingly in compliance with applicable regulations; however, consideration
+should be given to the location of deluge systems and fire suppression equipment.
+
+· The facilities associated with the PBRI had minimal issues with excessive
+
+temperatures. In fact, most observations made by inspectors indicated high
+temperature areas were well insulated.
+
+· BSEE determined temperature safety element (TSE) coverage on offshore facilities
+
+associated with the PBRI were appropriate and in good condition.
+
+Therefore, BSEE recommends that operators consider the following: 
+
+· Review fired vessel operating procedures and verify they are accessible to all
+
+employees involved in the operations; review operating procedures at the conclusion
+of specified periods and as often as necessary to ensure they reflect current and
+actual practices, including any changes made to the operation; and ensure changes
+to the procedures are documented and communicated to responsible personnel.
+
+· Review gauge cock valves to ensure they are equipped with an automatic ball check
+
+shutoff, in accordance with API RP 14J 3.3.2, to help prevent/mitigate rapid loss of
+fluid due to accidental glass breakage. Also, operators should ensure that personnel
+are familiar with, and trained on, the status/position of gauge cock valve assemblies.
+
+· Develop and implement written operating procedures that define the process for
+
+sampling pH and include the frequency of that sampling and the documentation of
+each inspection/sampling. Additionally, operators should periodically sample glycol
+and replace or filter it, as appropriate, especially when glycol is used as a heat
+transfer media without circulation or filtering. Recommendations from the equipment
+and glycol vendors/manufactures should be incorporated into maintenance and
+testing procedures.
+
+·  Review fired vessel quality assurance/mechanical integrity procedures along with 
+
+the vessel manufacturer's recommendations for fuel gas filter maintenance. If gaps 
+are identified during the operator’s review, the operator should ensure that 
+inspections and tests meet the manufacturers' recommendations. 
+
+·  Verify compliance with 30 CFR 250.876. 
+· 
+
+Inspect the integrity of fired vessels and correct any deficiencies associated with 
+equipment and systems prior to further use. 
+
+·  Review the difficulty of flame arrestor and spark arrestor inspections, and develop 
+facility-specific protocols to ensure the integrity of the arrestors, create protocols to 
+document all inspections, and ensure that facility personnel are knowledgeable of 
+the inspection frequencies. 
+
+·  Review the layout of the facility and fired vessels and determine if the required 
+number and type of portable and semi-portable fire extinguishers and/or deluge 
+systems are available and in compliance with 33 CFR 145, 30 CFR 250.859(a) 
+and/or 30 CFR 250.860. 
+
+·  Review the location and condition of temperature hazards signs and ensure paints 
+
+on high temperature vessels are appropriate. 
+
+·  Even when TSEs are properly installed and in compliance, operators should further 
+
+evaluate the appropriateness of TSE installations below vessels or skids. 
+
+A Safety Alert is a tool used by BSEE to inform the offshore oil and gas industry of the 
+circumstances surrounding an accident or near miss. It also contains recommendations 
+that should help prevent the recurrence of such an incident on the Outer Continental 
+Shelf.
+
+

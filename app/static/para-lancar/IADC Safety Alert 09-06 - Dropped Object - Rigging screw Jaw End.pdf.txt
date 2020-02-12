@@ -1,0 +1,128 @@
+Safety Alert 
+
+        From the International Association of Drilling Contractors 
+
+ 
+ALERT 09 – 06 
+ 
+
+DROPPED OBJECT – RIGGING SCREW JAW END 
+
+ 
+WHAT HAPPENED: 
+ 
+Two  workers  were  assigned  with  the  task  of  fitting  rigging  screws  between  the  top  drive  torque  tube  track 
+and the mast on both the driller’s and off-driller’s side.  Prior to climbing, both workers donned their safety 
+harnesses and attached a safety lanyard from one end of the rigging screw to the D ring at the front of their 
+harness.   This  meant  that,  when climbing,  the rigging  screw  would  have been vertical with  the  tied off  jaw 
+end at the top and unsecured-end running down the right hand side of the person’s body, ending around his 
+thigh.   When  the second worker climbed  the  derrick  ladder  to a  height  of  approximately 40  feet  above the 
+floor the unsecured jaw end at the bottom dislodged and fell to the ground (approx 60 feet).  The jaw alone 
+weighed 2.3 kg and landed 9 meters out from well-center on the driller’s side in line with where the V door 
+meets the catwalk and only 10 feet away from a tag-line operator assisting a crane lift.  The floor was clear of 
+all personnel prior to the job commencing except the Assistant Driller, who was supervising the job. 
+ 
+It is important that the terminology used throughout in relation to 
+rigging screws / turnbuckles is understood.  The picture to the right 
+shows the two different types.  The construction of the rigging 
+screw is such that the thread is enclosed inside a tubular section 
+of steel.  The rigging screw is the one at the top and is the type 
+which was carried up the derrick.  The turnbuckle pictured at the 
+bottom is the recommended type and has replaced the rigging 
+screw type.  Note the turnbuckle used on site is a jaw-jaw type 
+ 
+ 
+
+ 
+
+ 
+
+Improper rigging screw 
+
+Dropped Jaw End 
+
+Safety pin fitted to inside thread end 
+
+ 
+WHAT CAUSED IT: 
+ 
+  Both  rigging  screws  and  turnbuckles  are  normally  referred  to  as  “turnbuckles”.    Original  equipment 
+
+manufacturer (OEM) drawings call for turnbuckles to be fitted. 
+
+  The design of the rigging screw is such makes it hard to determine how far the jaw threads are screwed 
+
+ 
+
+in. 
+Jaw  ends  of  the  rigging  screws  are  not  fitted  with  any  secondary  securing  device  (i.e.  locking  nut)  to 
+prevent them from backing out.  Turnbuckles are fitted with locking nuts. 
+
+  Before sending the workers up the derrick the Assistant Driller screwed in both ends of the rigging screw 
+a few turns.  Given that one end screws “clockwise” and the other “counter-clockwise” it is possible that 
+he may have actually backed one end out some turns instead of in.  This would not be noticeable within 
+the tubular section. 
+
+ 
+ 
+ 
+
+The Corrective Actions stated in this alert are one company’s attempts to address the incident,  
+
+and do not necessarily reflect the position of IADC or the IADC HSE Committee. 
+
+This material is presented for information purposes only.  Managers & Supervisors should 
+
+evaluate this information to determine if it can be applied to their own situations and practices 
+
+Copyright  2005 International Association of Drilling Contractors All rights reserved. 
+
+Issued February 2009 
+
+Safety Alert 
+
+        From the International Association of Drilling Contractors 
+
+ 
+ 
+  Rigging screws were new and easy to screw in and out.  Given the position of the rigging screw during 
+climbing it is considered possible that with every ladder rung climbed the person’s right thigh may have 
+been knocking the bottom jaw causing it to turn and back out. 
+
+  Even though this was a non-routine job, no Permit-to-Work or Job Safety Analysis was in place for the 
+
+task.   
+
+  The second person to climb said that he had performed this task before and knew they were not using 
+the correct turnbuckle type.  He did not stop the job or question his supervisor because quote “he is the 
+expert and he must know” unquote. 
+
+  Failure to STOP THE JOB.  The employee, who had done the job before and realized that the incorrect 
+
+turnbuckle was being used, did not intervene.   
+
+ 
+CORRECTIVE ACTIONS: To address this incident, this company did the following: 
+ 
+  Onsite Supervisor is to reinforce “Stopping the Job” is a right and an expected practice.   
+  Rigging screws have been taken out of service and replaced with OEM recommended turnbuckles. 
+  The end of the turnbuckle jaw thread has been drilled to allow a safety pin to be fitted.  This will act as an 
+
+extra safety device in addition to already fitted locking nuts. 
+
+  Permit-to-Work and Job Safety Analysis awareness sessions were held with all onsite crews. 
+ 
+
+The Corrective Actions stated in this alert are one company’s attempts to address the incident,  
+
+and do not necessarily reflect the position of IADC or the IADC HSE Committee. 
+
+This material is presented for information purposes only.  Managers & Supervisors should 
+
+evaluate this information to determine if it can be applied to their own situations and practices 
+
+Copyright  2005 International Association of Drilling Contractors All rights reserved. 
+
+Issued February 2009 
+
+

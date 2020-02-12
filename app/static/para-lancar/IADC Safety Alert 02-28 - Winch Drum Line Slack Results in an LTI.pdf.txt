@@ -1,0 +1,66 @@
+Safety Alert 
+
+From the International Association of Drilling Contractors
+
+ 
+
+ 
+ALERT 02 – 28   
+ 
+
+WINCH DRUM LINE SLACK RESULTS IN AN LTI 
+
+ 
+WHAT HAPPENED: 
+ 
+While rigging down, the derrick (mast) had been removed from the rig floor and placed on the pipe racks.  A 
+gin truck winch line was attached to the back A-leg to support its weight while the pins were removed from the 
+support brace so that it could be lowered for transportation.  As the driller reached in to remove the top pin, a 
+small  amount  of  trapped  slack  on  the  winch  drum  was  released  and  allowed  the  A-leg  to  unexpectedly  shift 
+position.  The driller’s right little finger was caught between the support brace and A-leg, resulting in a mashed 
+finger which became an LTI. 
+ 
+WHAT CAUSED IT: 
+ 
+Failure to straighten ( tightly wind) the line on the truck’s winch drum prior to suspending the load allowed an 
+uncontrolled movement of the A-leg during this operation. 
+ 
+CORRECTIVE ACTIONS:  To address this incident, this company did the following:   
+ 
+
+•  A full investigation of the accident was conducted and documented by the drilling superintendent and 
+management.    Discussions  and  operational  reviews  with  supervisors  and  involved  parties  identified 
+risks  and  procedures  to  avoid  a  repeat  of  the  incident.    This  documentation  was  shared  with  all 
+company rigs and personnel immediately. 
+
+ 
+•  A JSA was prepared for the mandatory straightening of winch lines so that no slack is present on the 
+
+drum during the handling of loads. 
+
+ 
+•  Gin poles are to be carefully centered above all loads prior to lifting to minimize the potential for lateral 
+
+load movement during handling. 
+
+ 
+•  A  JSA  was  prepared  for  proper  body  position  and  hand  placement  during  removal  of  pins  while 
+handling of suspended loads to ensure that the load is stable prior to pin removal and that the body 
+and hands are clear of potential injury. 
+
+ 
+ 
+
+The Corrective Actions stated in this alert are one company’s attempts to address the incident, and do not 
+
+necessarily reflect the position of IADC or the IADC HSE Committee. 
+
+This material is presented for information purposes only.  Managers & Supervisors should  
+
+evaluate this information to determine if it can be applied to their own situations and practices. 
+
+Copyright © 2002 International Association of Drilling Contractors.  All Rights Reserved 
+
+Issued July 2002 
+
+

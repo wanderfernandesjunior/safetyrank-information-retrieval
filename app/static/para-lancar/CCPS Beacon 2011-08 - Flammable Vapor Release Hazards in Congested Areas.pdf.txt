@@ -1,0 +1,84 @@
+This issue sponsored by
+
+www.aiche.org/ccps
+
+http://www.aiche.org/CCPS/Publications/Beacon/index.aspx
+
+Messages for Manufacturing Personnel
+
+www.iomosaic.com
+
+Flammable Vapor Release Hazards in Congested Areas
+
+August 2011
+
+On February 7, 2010, six workers were killed and at least 50 others were injured in a natural gas explosion at a power 
+plant under construction in Middletown, Connecticut, USA. The explosions resulted from planned work activities that led 
+to large releases of flammable natural gas in the presence of workers and ignition sources.
+
+At the time of the incident, workers were conducting a "gas blow," in which natural gas is forced through the piping at 
+a high pressure and volume to remove debris, part of the commissioning and startup phase of the project. Natural gas was 
+being blown from an open-ended pipe between two large structures in an area near the power generation building (1). 
+This location, while outdoors, was congested because of surrounding power generation equipment (2). Efforts were made 
+to eliminate or control potential ignition sources in the area. However, ignition sources remained, both outside and inside 
+the building. The released natural gas found an ignition source and exploded (3).
+
+This incident occurred during construction and startup of a power plant, and involved a large amount of flammable 
+
+gas. However, it is not uncommon for many kinds of process plants to be required to vent flammable liquid or vapor 
+from piping or equipment for maintenance or shutdown. Recent Beacons (January and May 2011) have discussed vapor 
+cloud explosions outdoors and inside buildings. This incident is another example.
+
+1
+
+2
+
+3
+
+Did you know?
+
+(cid:206) A congested area means an area which contains a lot 
+of equipment, piping, structures, buildings, and even 
+natural features such as irregular terrain or trees.
+(cid:206) Release of a small amount of flammable vapor in a 
+congested area can result in a dangerous vapor cloud.
+(cid:206) The explosion of a flammable vapor cloud in a 
+congested area is likely to be more violent and 
+destructive than a similar vapor cloud explosion in a 
+more open area.
+(cid:206) The United States Chemical Safety Board (CSB) has 
+recommended to industry and regulatory organizations 
+that the practice of releasing flammable gas to the 
+atmosphere for the purpose of fuel gas pipe cleaning be 
+prohibited, and that alternate, non-flammable gases be 
+used.
+
+What can you do?
+
+(cid:206) Do not assume that hazardous gas or vapor vented 
+outdoors will disperse safely. Inspect the area and think about 
+the effects of confinement.
+(cid:206) If releasing flammable liquid or gas is unavoidable, vent 
+to a safe location  away from personnel and ignition sources, 
+preferably to a vent system designed to safely treat hazardous 
+vapors. Avoid congested areas or other places where vapors 
+could accumulate rather than disperse.
+(cid:206) Do a thorough hazard analysis whenever hazardous 
+material venting is necessary, to minimize the release, control 
+potential sources of ignition, and safeguard people and 
+property.
+(cid:206) NEVER rely on your sense of smell to detect the presence 
+of hazardous gas.
+(cid:206) See the January and May 2011 Beacons for additional 
+suggestions.
+
+Never assume that outdoor release of flammable gas is safe!
+
+AIChE © 2011. All rights reserved. Reproduction for non-commercial, educational purposes is encouraged.  However, reproduction 
+for the purpose of resale by anyone other than CCPS is strictly prohibited.   Contact us at ccps_beacon@aiche.org or 646-495-1371.
+
+The Beacon is usually available in Afrikaans, Arabic, Chinese, Danish, Dutch, English, French, German, Greek, Gujarati, Hebrew, Hindi, Italian, Japanese, Korean, Malay, 
+
+Marathi, Persian, Polish, Portuguese, Russian, Spanish, Swedish, Telugu, Thai, Turkish, and Vietnamese.
+
+

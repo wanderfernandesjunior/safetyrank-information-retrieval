@@ -1,0 +1,88 @@
+Safety Alert 
+
+From the International Association of Drilling Contractors 
+
+ 
+
+ 
+ 
+ALERT 04 – 34 
+ 
+
+ 
+WHAT HAPPENED: 
+ 
+
+H2S INHALATION: MAN FELL FROM TOTE TANK RESULTING IN AN LTI 
+
+The  injured  person  (IP)  was  pumping  fluid  waste  contents  from  the  hazardous  drain  tank  to  the  tote  tank  on  deck.  
+Approximately 40 seconds after the fluid had been flowing, the IP called the Engine Room Operator (ERO) and asked him 
+to  stop  the  pump;  at  this  time  the  ERO  noticed  that  the  Motorman’s  breathing  sounded  labored  over  the  radio.  
+Communication  was broken off, and the ERO pushed the E-Stop and tried to re- contact the IP to see if he  was all right.  
+When there was no response he proceeded to personally check on him.  Arriving at the scene, the ERO found the IP lying 
+face down on the Deck, with obvious signs of a head injury. 
+ 
+WHAT CAUSED IT: 
+ 
+1.  Safe Job Analysis was not properly executed 
+(cid:131)  Fall protection was not identified/or worn 
+(cid:131)  Risk of H2S being present in the tote was not identified 
+
+2.  Leadership/Planning/Guidance 
+
+(cid:131)  Near-miss reported on June 14/04 regarding an H2S alarm being activated when transferring fluids from the OBM 
+
+Tank to the Mud Pits was not followed up in a timely manner  
+
+(cid:131)  Formal procedure controlling the risks for transferring fluids from both the hazardous drain tank and/or OBM to the 
+
+Mud Pits or Tote Tanks was not developed prior to this incident 
+
+3.  H2S  was  generated  due  from  stagnant  salt  water  and  rain  water  in  the  drains  from  around  the  rig  and  the  hot 
+
+temperatures 
+
+ 
+CORRECTIVE ACTIONS:  To address this incident, this company did the following: 
+ 
+•  Developed  procedures for transferring fluids from the  Hazardous Drain Tank  and/or the OBM Tank to the Mud Pits, 
+
+Tote Tank or Over the Side.  Procedures include such safety measures as; 
+
+o  Continuously monitoring for H2S during the transfer;  
+o  Treating tanks if H2S alarm reaches 5ppm;  
+o  Transferring fluids to the tote tanks from the bottom of the totes instead of from the top;  
+o  Ensuring that personnel involved in the transfer process are either on the ground monitoring fluid levels or on 
+
+a higher level (but not on top of the tote tank) 
+
+•  All Tote tanks were immediately tested for  H2S and treated as required.  The tote tank  involved  in this incident  was 
+
+treated. 
+
+1.  IP fell from; 
+2.  Hit his head on green tank; 
+3.  Found on deck; 
+4.  Helmet location.   
+
+1
+
+2
+
+3
+
+4
+
+The Corrective Actions stated in this alert are one company’s attempts to address the incident, and do not 
+
+necessarily reflect the position of IADC or the IADC HSE Committee. 
+
+This material is presented for information purposes only.  Managers & Supervisors should  
+
+evaluate this information to determine if it can be applied to their own situations and practices. 
+
+Copyright © 2004 International Association of Drilling Contractors.  All Rights Reserved 
+
+Issued August 2004 
+
+

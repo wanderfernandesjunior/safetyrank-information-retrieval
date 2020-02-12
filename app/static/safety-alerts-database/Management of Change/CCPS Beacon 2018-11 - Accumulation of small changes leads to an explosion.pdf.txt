@@ -1,0 +1,101 @@
+This issue sponsored by
+
+www.aiche.org/ccps
+
+http://www.aiche.org/CCPS/Publications/Beacon/index.aspx
+
+Messages for Manufacturing Personnel
+
+www.iomosaic.com
+
+Accumulation of small changes leads to an explosion
+In September 2012, at an industrial site in Himeji, Japan, a 70 cu m (18,500 US gal) fixed roof acrylic acid (AA) tank 
+
+November 2018
+
+exploded, and a fire followed. There was one fatality, a fire-fighter. 36 people were injured – 2 policemen, 24 fire-
+fighters, and 10 plant workers. The tank was destroyed and nearby facilities were significantly damaged (Photo 1). There 
+were no major impacts to the neighborhood and environment.
+
+The tank provided intermediate storage between two distillation columns for purifying AA. Originally the tank had 
+
+been used at full capacity. The contents were cooled and mixed by pumping from the bottom of the tank to the top. Later, 
+the normal operating level was reduced to a level below the cooling coil. The contents were no longer recirculated to the 
+top of the tank, but instead to a nozzle near the bottom that was also used to connect a level gauge (Drawing 2).
+
+At the time of explosion, the plant was conducting a test of the downstream distillation column, which required 
+
+stopping feed from this tank. The level of the tank gradually increased to its original operating level. Without recycle to 
+the top of the tank, the AA above the cooling coils was not mixed and cooled. The temperature of the incoming AA was 
+believed to be below the onset temperature for polymerization, and the AA contained polymerization inhibitor. However, 
+the temperature in the tank increased, especially at the top. The tank eventually over pressurized and exploded.
+Courtesy of Nippon Shokubai
+
+Photo 1:  Destroyed AA Tank
+
+Drawing 2:  Only the bottom of the tank was cooled, the liquid above  became hot
+
+Reference: Nippon Shokubai Co., Ltd. Himeji Plant Explosion and Fire at Acrylic Acid Production Facility Investigation Report March 2013.
+
+What happened?
+
+What can you do?
+
+ Originally the pipe feeding the tank was hot water jacketed to 
+
+ Never make any changes to your plant, even 
+
+provide freeze protection, but this was changed to steam.
+
+ Removal of a steam trap made temperature control unreliable.
+ The top layer was no longer mixed with cooler AA, and stayed 
+
+changes you think are small, without following your 
+plant Management of Change (MOC) procedures.
+
+ When you see any change in your plant, ask if there 
+
+warm from incoming AA.
+
+ There are two exothermic AA self-reactions – dimerization 
+
+and polymerization. Polymerization inhibitor does not stop the 
+dimerization reaction. Experiments showed that heat from 
+dimerization raised the temperature sufficiently to start a 
+runaway polymerization reaction.
+
+ The hazard of heat from dimerization was not recognized, so 
+
+recirculation to the top of tank was not resumed.
+
+ The tank had no temperature indicator. The first indication of a 
+
+problem was observation of AA vapors escaping from the top 
+vent on the tank.
+
+has been an MOC review. If there has been, and 
+you were not informed of the change, tell your 
+supervisor. You should always be informed of 
+changes in your plant that impact your job.
+
+ If something is different from normal operation, 
+
+confirm operating procedures or ask your 
+supervisor what to do.
+
+ Accumulation of small changes can cause an 
+
+incident with a big consequence. All small changes 
+must be identified and the risk to the total system 
+analyzed and adequately managed.
+
+Small changes can cause a big consequence!
+
+©AIChE 2018. All rights reserved. Reproduction for non-commercial, educational purposes is encouraged. However, reproduction for any 
+commercial purpose without express written consent of AIChE is strictly prohibited. Contact us at ccps_beacon@aiche.org or 646-495-1371.
+
+The Beacon is usually available in Afrikaans, Arabic, Catalan, Chinese, Czech, Danish, Dutch, English, Filipino, French, German, Greek, Gujarati, Hebrew, Hindi, Hungarian, Indonesian,  
+
+Italian, Japanese, Korean, Malay, Marathi, Mongolian, Persian (Farsi), Polish, Portuguese, Romanian, Russian, Spanish, Swedish, Telugu, Thai, Turkish, Urdu, and Vietnamese.
+
+

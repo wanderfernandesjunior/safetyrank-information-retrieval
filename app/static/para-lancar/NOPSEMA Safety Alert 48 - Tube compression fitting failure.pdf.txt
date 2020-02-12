@@ -1,0 +1,122 @@
+Safety Alert 48
+
+  
+ 
+
+Tube Compression Fitting Failure 
+ 
+
+What happened? 
+
+A recent near miss incident has identified that compression fittings associated with high pressure 
+tubing lines have the potential to fail by working loose under certain conditions. 
+
+ 
+
+Potential failure will not be evident without adequate post-assembly inspection and may not become 
+apparent for a number of years due to a range of factors including operating conditions and the 
+material of the tube and fittings. Even during regular pressure testing, it is not uncommon for these 
+‘compromised’ fittings to pass the initial and subsequent tests prior to the main failure event. 
+
+In relation to this recent incident, subsequent inspections by the operator determined that 
+approximately 50 per cent of similar fittings required attention as a result of: 
+
+ 
+
+ 
+
+incorrect insertion depth with ferrules set at the end of the tube (see above photograph); or  
+
+ferrules had worked loose over a period of time because of improper fitting assembly at 
+installation followed by exposure to vibration or pressure pulsations. 
+
+Materials such as MP35N alloy, used for ferrules for some compression fittings, are of a very high 
+yield and tensile strength. This quality however, can prevent the ferrule from “biting” into the parent 
+tube material if insufficient pressure and torque is applied when assembling the fitting. 
+
+What could go wrong? 
+
+Compression fitting ferrules exposed to vibration and pressure pulsations could work axially along 
+the tube over a period of time if incorrectly installed or the tube compression fittings are composed of 
+incompatible materials. 
+
+This event can potentially lead to a loss of containment of high pressure flammable vapour or fluid 
+and subsequently result in a dangerous occurrence or major accident event. 
+
+ 
+
+June 2011 
+
+Page 1 of 2 
+
+nopsa.gov.au
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Safety Alert 48
+
+  
+ 
+
+Key lessons 
+
+A manufacturer of any plant has a general duty of care under the OPGGS Act 2006 to take all 
+reasonably practicable steps to ensure the plant is designed and constructed to be safe and without 
+risk to health. In addition, the manufacturer is responsible for carrying out the research, testing and 
+examination necessary to identify, and eliminate or minimise, any risk to health and safety that may 
+arise from the use of the plant. 
+
+Operators should carry out an audit of compression tube fittings and ensure that these fittings have 
+been installed in accordance with the manufacturer’s recommendations and that the ferrules remain 
+in the correct location. 
+
+Operators are to ensure installation and inspection competency in personnel including contractors 
+and third parties undertaking the fitting and maintenance of compression fittings. This may include 
+the implementation of a maintenance audit regime that routinely inspects compression fittings 
+subjected to vibration and pressure pulsations, with comprehensive and complementary training and 
+procedures. 
+
+Recommended guidelines are available in the Oil and Gas UK publication HS016 Management, 
+Design, Installation and Maintenance of Small Bore Tubing System. 
+
+Contact 
+
+For further information email alerts@nopsa.gov.au and quote Safety Alert 48. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+June 2011 
+
+Page 2 of 2 
+
+nopsa.gov.au
+
+

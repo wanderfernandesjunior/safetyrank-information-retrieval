@@ -1,0 +1,116 @@
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Safety Alert 
+
+        From the International Association of Drilling Contractors 
+
+ 
+ALERT 13 – 28  
+
+ 
+
+SUDDEN ICE PLUG RELEASE RESULTS IN STRUCK-BY INJURY 
+
+ 
+
+WHAT HAPPENED: 
+While converting from air to mud, the employee was attempting to reinstall the pressure gauge on the standpipe manifold.  When he 
+removed the bull plug from the manifold, he noticed ice had accumulated inside the two-inch (5cm) line.  He notified the Driller and then 
+attempted  to  remove  the  ice  using  a  hand  tool.    Trapped  pressure  existed  inside  the  lower  section  of  the  standpipe.    As  the  ice 
+dislodged from the line, it struck the employee in the ribs on the right side, causing internal injuries.  He sustained further injuries when 
+he fell back into the handrail striking his shoulder. 
+ 
+ 
+
+Air Line (disconnected) 
+
+Five-inch (12cm)  
+Gate Valve 
+
+Air Manifold 
+
+ 
+
+Frozen 2” (5cm) 
+Connection 
+
+ 
+
+Standpipe 
+
+Five-inch (12cm)  
+Gate Valve 
+
+Standpipe 
+
+WHAT CAUSED IT: 
+
+ 
+
+• 
+
+• 
+
+Trapped  pressure  contained  in  the  section  of  the  standpipe  below  the  five-inch  (12cm)  gate  valve  was  not  recognized  and 
+released prior to removing the two-inch (5cm) bull plug from the lower section of the standpipe. 
+The crew assumed that the standpipe below the five-inch (12cm) gate valve did not have pressure since they were drilling with 
+air, which was supplied and tied in above the five-inch (12cm) gate valve. 
+
+•  Air  pressure  was  contained  in  the  standpipe  below  the  five-inch  (12cm)  valve  either  from  a  leaking  valve  or  from  releasing 
+
+pressure into the standpipe through the valve to make a connection while air drilling.  
+
+•  Pressure reading devices (gauge or transducer) had been removed from the lower section of the standpipe for the air drilling.  
+• 
+The crew did not understand the manifold configuration and did not realize that up-line approval was required for in order for 
+changes to be made to the manifold. 
+The crew did not expect icing on the inside of the standpipe. 
+
+• 
+
+CORRECTIVE ACTIONS:  To address this incident, this company did the following: 
+
+ 
+
+•  Crewmembers were reminded to discuss the potential for “trapped pressure” and the importance of NEVER ASSUMING that 
+
+•  Employees were reminded to be aware of and to stay out of the potential “line of fire”. 
+•  All crew members were made aware that extra effort must be taken to prevent pressurizing the lower section of the standpipe 
+
+pressure does not exist in a line.  
+
+during air drilling operations. 
+
+•  Crews were instructed that pressure reading devices are not to be removed from any isolated line unless other measures are 
+
+•  Effort shall be made to assist crews, new to a rig/rig type, in order to develop a rig specific JSA (with appropriate detail) to 
+
+taken to verify the presence of trapped pressure. 
+
+familiarize them with any new aspects of a rig or rig type. 
+
+Crewmembers must be reminded of the potential for icing inside of any line and are to discuss (during JSA and periodically during cold 
+weather operations) the hazards and steps to prevent an incident from occurring during any operation requiring 
+separation/disconnection of lines/connections. 
+
+The Corrective Actions stated in this alert are one company’s attempts to address the incident,  
+
+and do not necessarily reflect the position of IADC or the IADC HSE Committee. 
+
+This material is presented for information purposes only.  Managers & Supervisors should 
+
+evaluate this information to determine if it can be applied to their own situations and practices 
+
+Copyright  2013 International Association of Drilling Contractors All rights reserved. 
+
+Issued December 2013 
+
+

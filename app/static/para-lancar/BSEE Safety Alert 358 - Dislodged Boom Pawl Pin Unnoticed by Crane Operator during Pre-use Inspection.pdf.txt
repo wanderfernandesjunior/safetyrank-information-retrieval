@@ -1,0 +1,121 @@
+SAFETY ALERT 
+ 
+
+ 
+
+Safety Alert No. 358 
+July 9, 2019 
+
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+       
+
+                     Contact: Jason Mathews 
+            
+Phone:    (504) 731-1496 
+
+Dislodged Boom Pawl Pin Unnoticed by  
+Crane Operator during Pre-use Inspection 
+
+ 
+
+ 
+ 
+
+ 
+
+          Location of the dislodged boom pawl pin is indicated by yellow circles. 
+                                 
+
+       
+
+ 
+
+  
+
+ 
+
+On March 20, 2019, BSEE inspectors observed an offshore crane pre-use inspection. 
+During the inspection, the crane operator did not exhibit sufficient competency to ensure 
+safe functionality of a boom pawl pin and its associated safety pin keeper. 
+ 
+Earlier on that same day, the crew met about upcoming crane operations and reviewed a 
+pre-filled Job Safety Analysis (JSA) that had not been altered to reflect the details of the 
+current job.  BSEE inspectors noted that some of the crew members appeared inattentive 
+during the JSA discussion.  Later, when BSEE inspectors asked the crew about the first 
+step in the JSA, no one could tell the inspectors what it was.  
+ 
+After the meeting, BSEE inspectors observed the crane operator’s pre-use inspection of 
+the crane.  Though the functionality of the boom pawl pin was on the inspection checklist, 
+the crane operator failed to observe that the corroded pin was dislodged and that the safety 
+pin keeper was in a pan nearby.  Once the keeper had been removed, the pin likely shifted 
+
+out as the boom pawl moved back and forth during normal operations.  The rust on the pin 
+indicated  that  it  had  been  out  for  an  extended  amount  of  time  and  was  exposed  to  the 
+elements.    When  the  BSEE  inspectors  saw  that  the  crane  operator  attempted  to  move 
+forward with the checklist, they stopped work.  They asked the crane operator what the pin 
+was and what it did, but he could not answer; yet, he checked the item off as having been 
+inspected on the checklist.  
+ 
+The boom pawl pin and keeper were reinstalled while BSEE inspectors were still on 
+location, and the operator later installed a newly designed pin with a shoulder and cotter 
+pin. 
+ 
+On February 20, 2018, BSEE issued Safety Alert No. 329, which addressed a potentially 
+catastrophic crane incident that occurred in November 2017. The incident described in 
+Safety Alert No. 329 involved a boom pawl pin that dislodged and thereby allowed the 
+crane boom to fall freely, hitting the side of a jackup rig and puncturing a hole in a diesel 
+tank. 
+ 
+Therefore, BSEE recommends that operators consider the following: 
+ 
+
+•  Distribute this Safety Alert and redistribute BSEE Safety Alert No. 329; 
+
+• 
+
+Inspect and reassess the functionality and design of all boom pawl pins and safety 
+pin keepers; 
+
+•  Ensure that all “bolts, pins, keepers, or cotter pins” are on the crane pre-use 
+
+inspection checklist per API RP 2D; 
+
+•  Review policies for verifying crane operator competency, which include knowledge 
+
+of critical crane components;  
+
+•  Review the JSA process (including, but not limited to: applicability, communication, 
+
+and crew participation);  
+
+•  Have HSE/compliance field personnel randomly accompany crane operators during 
+pre-use inspections and have the crane operator describe what they are looking for 
+as they check off the pre-use inspection form; and 
+
+•  Consider developing an informational card depicting critical items, and their 
+
+locations, that need to be checked during required inspections. 
+
+-- BSEE-- 
+
+ 
+ 
+
+ 
+ 
+
+ 
+
+A Safety Alert is a tool used by BSEE to inform the offshore oil and gas industry of the 
+circumstances surrounding a potential safety issue. It also contains recommendations 
+that could assist avoiding potential incidents on the Outer Continental Shelf. 
+
+

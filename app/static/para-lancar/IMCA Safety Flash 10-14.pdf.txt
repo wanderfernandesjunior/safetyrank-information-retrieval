@@ -1,0 +1,460 @@
+AB 
+
+ 
+
+IMCA Safety Flash 10/14 
+
+Safety Flash 
+
+    June 2014 
+
+These  flashes  summarise  key  safety  matters  and  incidents,  allowing  wider  dissemination  of  lessons  learnt  from  them.    The  information  below  has  been 
+provided in good faith by members and should be reviewed individually by recipients, who will determine its relevance to their own operations. 
+
+The effectiveness of the IMCA safety flash system depends on receiving reports from members in order to pass on information and avoid repeat incidents.  
+Please consider adding the IMCA secretariat (imca@imca-int.com) to your internal distribution list for safety alerts and/or manually submitting information 
+on specific incidents you consider may be relevant.  All information will be anonymised or sanitised, as appropriate. 
+
+A  number  of  other  organisations  issue  safety  flashes  and  similar  documents  which may  be  of  interest  to  IMCA  members.   Where  these  are  particularly 
+relevant, these may be summarised or highlighted here.  Links to known relevant websites are provided at www.imca-int.com/links   Additional links should 
+be submitted to webmaster@imca-int.com 
+
+ 
+
+This safety flash concentrates on one single issue - fires in engine room spaces – as there have been 
+several such incidents reported recently.  
+
+1  Serious Engine Room Fire Whilst Divers in Saturation 
+
+A  member  has  reported  a  very  serious  incident  in  which  there  was  a  fire  in  the  engine  room  of  an  offshore  vessel.  The 
+incident  occurred  whilst  the  vessel  was  alongside,  but  there  were  divers  in  saturation  at  the  time.  The  incident  happened 
+when a leak of diesel fuel, under pressure, ignited at the secondary duplex fuel filter on an engine. Only one engine - main 
+engine 1 on the port side was running at the time, supplying all vessel systems.  
+
+During routine maintenance work, the engineers became aware of flames near the exhaust or waste gate and at secondary 
+fuel filter of the main engine that was running. An engineer attempted to get to an emergency stop location, but that moment 
+the  fire  expanded  explosively  and  within  seconds  engulfed  the  forward  section  of  the  engine  in  a  ball  of  fire,  and  he  was 
+driven back, but managed to escape. Emergency procedures were followed including closing of valves, stopping of fans and 
+engines and shutting of all watertight doors. The Hi-Fog Mist system was activated, and the fire was extinguished. 
+
+When the general fire alarm sounded, the Diving Superintendent was informed and all diving personnel were mustered. All 
+the divers in saturation were transferred to the Hyperbaric Rescue Craft (HRC) and the transfer trunking was brought to 
+surface. The seal on the HRC was confirmed. The dive system was switched to emergency power supply and the HRC made 
+ready to launch. The crane was made ready to lift the HRC from the vessel if required. Once the situation was contained, the 
+divers were able to return to the saturation complex to continue decompression. All divers completed their decompression 
+without further issue. 
+
+Everyone escaped safely; no-one was injured. The fire had the potential to have caused multiple fatalities. There was serious 
+fire damage to the port engine room and mezzanine deck level equipment and service wiring.  
+
+Our member wished to record that: 
+
+♦  The  conduct  and  actions  of  the  Chief  Engineer,  1st  Engineer  and  both  2nd  Engineers  were  carried  out  quickly, 
+professionally  and  as  safely  as  possible,  their  actions  and  the  speed  of  their  response  greatly  reduced  the  significant 
+potential of this very serious incident; 
+
+♦  The  emergency  response  and  swift  actions  of  the  Diving  Superintendent,  Diving  Supervisors,  Life  Support  Technicians 
+
+and Divers demonstrated a professional and very competent response;  
+
+♦  The Vessel Master, Chief Mate, Offshore Manager and Client Site Representative all contributed professionally and very 
+
+competently during this incident. 
+
+ 
+
+Figure 1: Typical fuel filter of the sort that failed 
+
+Figure 2: Failed fuel filter unit 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Figure 3: Top of filter showing bolt hole and extruded O ring 
+
+Figure 4: Sheared bolt 
+
+ 
+
+ 
+
+ 
+
+Figures 5 and 6: Failed stud 
+
+Our members’ investigation noted the following: 
+
+♦  With regard to the vessel and its crew: 
+
+systems on-board the vessel 
+
+above scheduled requirements  
+
+−  The  engine  room  personnel  were  very  experienced,  qualified  and  competent  in  the  engineering  processes  and 
+
+−  The vessel preventative maintenance system was well applied, actioned and documented and in many cases over and 
+
+−  The  starboard  engine  room  (undamaged)  was  found  to  be  clean  and  very  well  maintained  which  provides  an 
+
+indication of the professionalism of the vessel engineers  
+
+−  The  vessel  had  been  in  operation  for  four  years.  Fuel  filter  maintenance  has  been  carried  out  in  excess  of  stated 
+
+requirements in order to cater for extended dynamic positioning (DP) operations. 
+
+♦  With regard to the failed equipment that was found to be the cause of the fire: 
+
+−  The Bollfilter Duplex Filter units had been in service since the vessel was commissioned in 2010  
+
+−  Detailed analysis of the failed stud showed that: 
+
+-  One of the three studs broke by high cycle low stress fatigue 
+-  One stud contained a short fatigue crack 
+-  The primary cause of cracking was insufficient preload tension in the studs due to insufficient tightening of the 
+
+nuts  
+
+-  The stud was manufactured from good quality creep resistant steel; 
+
+−  Activation  of  the  fuel  quick  closing  valve(s)  was  undertaken  but  main  engine  4  (which  had  been  started  as  the 
+
+♦ 
+
+ With regard to the fire itself: 
+
+burning engine was shut down) continued running; 
+
+♦  The immediate cause of the incident was found to be: 
+
+−  One of the three filter housing cover stud bolts failed by high cycle, low stress fatigue as a result of insufficient pre-
+load tension in the studs due to insufficient tightening. This led to a loss of pressure integrity of the filter housing and 
+the ‘O’ ring seal was extruded through the housing/lid interface. This allowed fuel at pressure to spray onto a turbo 
+charger exhaust manifold, causing a fire;  
+
+♦  The underlying causes of the incident were found to be: 
+
+− 
+
+− 
+
+Filter unit in line and in close proximity to the engine turbo charger exhaust (750mm) 
+
+Failed stud in direct line of engine turbo charger exhaust 
+
+−  No physical barrier between the fuel filter and the potential ignition source of the engine turbo charger exhaust. The 
+
+cladding around the exhaust does not provide 100% cover 
+
+ 
+
+present or at access/exit location 
+
+engine room 
+
+−  No  local  fuel  shut  off  valve  in  close  proximity  to  the  forward  engine  space  and  areas  where  personnel  may  be 
+
+−  No  local  Hi-Fog  Water  Mist  activation  facility  in  the  forward  engine  bay  in  the  vicinity  of  the  access  way  to  the 
+
+− 
+
+Fuel shut off valve was a considerable distance from the engine bay and the vicinity of the fuel supply;  
+
+♦  The root causes of the incident were found to be: 
+
+− 
+
+Lack  of  stud  bolt  torque  information  available  from  either  the  vessel  planned  maintenance  system  or  the  filter 
+manufacturers documentation 
+
+−  Vessel design: Fuel system location in close proximity to systems at auto-ignition temperatures  
+
+−  Vessel design: limited mitigation and recovery systems in the event of a fuel related event with personnel working in 
+
+the engine room. 
+
+Our member took the following actions: 
+
+♦ 
+
+Immediate full visual inspection of all stud bolts in all other fuel filter units;  
+
+♦  Replaced all studs in filter assemblies and tightened sufficiently to attain pre-load tension. Supplied information back to 
+
+the fuel filter manufacturer such that torque settings were provided and included in the manual; 
+
+♦  Fire retardant blankets were placed over remaining in-service filter housing in an attempt to prevent a similar event from 
+
+occurring. 
+
+Our member took the following recommendations: 
+
+♦  Fuel supply system:   
+
+−  Review  the  design  of  the  secondary  duplex  fuel  filter  locations  to  assess  if  the  filter  housings  could  be  re-located 
+away  from  the  vicinity  of  the  turbo  changer  exhaust  manifolds  for  each  engine.  If  the  filters  were  able  to  be  re-
+located in compliance with technical considerations, relocate to a position away from the engine exhaust manifolds 
+and other extreme heat sources  
+
+−  There  were  no  physical  barriers  between  the  secondary  duplex  fuel  filter  housing  and  the  engine  turbo  charger 
+exhaust manifold. Provide physical barrier between the filter housing and all surfaces with a potential temperature at 
+or above auto-ignition temperature to prevent fuel being sprayed towards the auto-ignition heat source; 
+
+♦  Response to an engine room fire; 
+
+close to the exit of the engine room:  
+
+♦  Provide for local fuel shut-off facility at the forward end of each engine if technically feasible. Position should be at, or 
+
+− 
+
+− 
+
+Provide  for  Hi-Fog  Water  Mist  activation  in  each  access  way  of  the  port  and  starboard  engine  room  exit  area  if 
+technically feasible. Position should be at, or close to the exit of the engine room 
+
+Fuel  Emergency  Shut-off  systems  -  Investigate  further  the  action  of  the  Quick  Closing  fuel  shut-off  valves,  as  the 
+activation  of  the  quick  closing  shut-off  valves  did  not  starve  all  engines  of  fuel.  When  activated,  main  engine  4 
+continued to run. 
+
+This  incident  forms  part  of  an  IMCA  Safety  Flash  dealing  solely  with  incidents  concerning  fires  in  engine  room  spaces. 
+However, members may wish to refer to the following incident, reported by the Marine Safety Forum, which had the exact 
+same cause – shearing of bolts allowing fuel to leak onto a hot surface, causing a fire. (key words: bolt, sheared, fire).  
+
+♦ 
+
+IMCA SF 12/11 – Incident 8: Engine Room Fire on Offshore Vessel 
+
+2  Fire in Engine Room on Platform Supply Vessel 
+
+A member has reported an incident in which there was a fire in the engine room on a platform supply vessel. The vessel was 
+on its way to port from an oil platform, when it was decided on board to run a full power test on the  propulsion system 
+which included running all five diesel generators. This is a normal routine conducted on board approximately every month 
+according to the vessel’s planned maintenance system.   
+
+Subsequently the fire alarm was sounded on the bridge. The bridge called the engine control room. The chief engineer was in 
+the engine control room where he already had started to prepare for the full power test. When the bridge called, he had 
+already  detected  a  fire  located  at  diesel  generator  number  5  and  confirmed  this  to  the  bridge.  At  the  same  moment  he 
+manually  released  the  ‘flexi  fog’  fire  extinguishing  system  above  the  generator  and  started  to  shut  down  the  propulsion 
+
+ 
+engines.  In  the  meantime  the  crew  attended  their  muster  stations  and  prepared  themselves  according  to  the  vessel’s 
+Emergency Plan.  
+
+After  a  short  time  the  fire  appeared  to  be  extinguished  by  the  ‘flexi  fog’  fire  extinguishing  system.  The  Master  decided  to 
+send down members of the crew wearing breathing apparatus (BA) sets. Initially this was not possible owing to smoke and 
+fumes,  but  once  the  smoke  and  fumes  had  cleared  they  were  able  to  enter.  When  they  arrived  at  the  fire  area  they 
+discovered small flames above the generator which were rapidly extinguished using a fire hose. 
+
+Whilst  there  were  no  injuries,  there  was  significant  damage  caused  by  the  fire.  A  lot  of  power  and  signalling  cabling  was 
+destroyed,  resulting  in  the  vessel  losing  propulsion  and  manoeuvring  ability.  A  tug  boat  was  ordered  and  the  vessel  was 
+towed to a shipyard for repairs. This resulted in six weeks off hire for the vessel.  
+
+ 
+
+ 
+
+ 
+
+Figures 7 and 8: showing damage to the engine room following the fire 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Figures 9 and 10: showing the broken nipple on the lubrication oil pipe which led to the oil leakage 
+
+Our members’ investigation revealed the following: 
+
+♦  The  direct  cause  of  the  fire  was  discovered  to  be  a  broken  lubrication  oil  pipe  fitting  leading  from  the  generator’s 
+engine block to a lubricating oil cyclone filter. This had resulted into an oil mist spraying out from the broken pipe. This 
+oil mist was ignited by a source on the diesel generator or near by the generator; 
+
+ 
+♦  The root causes of the fire were determined to be: 
+
+−  Design  weakness  -  The  piping  arrangement  of  the  lubrication  system  had  a  weakness  on  a  pipe  nipple  which 
+
+resulted in to an oil leakage 
+
+−  Location of the smoke/fire detectors – When two of the fire detectors were activated the ‘flexi fog’  should 
+automatically  be  released.  It  was  considered  that  this  did  not  occur  because  the  fire  was  not  detected  by  one  of 
+detectors above the generator - due to a poor location. 
+
+Our member took the following corrective actions: 
+
+♦  The  oil  cyclone  filter  and  associated  piping  was  removed  and  the  lubrication  oil  pipe  connection  on  the  engine  block 
+permanently blanked off. This was done after the manufacturer of the engine was consulted about the necessity of the 
+lubrication oil cyclone filter; 
+
+♦  The location and direction of the existing fire detectors was adjusted;  
+
+♦  Additional fire detectors were installed in the engine room to ensure enhanced fire monitoring and detection. 
+
+Engine room fires form a recurring theme in IMCA safety flashes. Typically the root causes of such fires are failures in house-
+keeping or planned maintenance, or failure to recognise fire hazards and  address risks. Members may wish to refer to the 
+following similar incidents (key words: engine, room, fire): 
+
+♦ 
+
+♦ 
+
+♦ 
+
+♦ 
+
+IMCA SF 08/03 – Incident 4: Cracked fuel line results in engine room fire; 
+
+IMCA SF 10/05 – Incident 2: Engine room fire; 
+
+IMCA SF 12/11 – Incident 8: Engine room fire on offshore vessel; 
+
+IMCA SF 05/13 – Incident 6: Pressure switch location: fixed fire suppression systems. 
+
+3  Fire in Engine Space on CTV (Crew Transfer Vessel)   
+
+An incident has been bought to IMCA’s attention in which there was a small fire in the starboard engine space on a crew 
+transfer  vessel  used  in  the  offshore  wind  farm  sector.  The  incident  occurred  when  on  passage  to  an  offshore  wind  farm. 
+Shortly after leaving port, the fire alarm was activated in the starboard engine. Dark smoke was observed coming from the 
+drain hole in the after inspection hatch of the starboard engine. On the CCTV into the engine space there was no indication 
+of flames.   
+
+The starboard engine was shut down and full fire procedures were carried out. The CO2 system was also used, however on 
+inspection after the incident it was found that the system had not deployed. Shore authorities were alerted and the vessel 
+returned to port on one engine. All staff were safely landed ashore and the fire confirmed to be extinguished.  
+
+Investigation of the fire revealed the following: 
+
+all was found to be in order; 
+
+the exhaust system; 
+
+♦  Normal checks on the engines and inspection of the engine and jet spaces had been carried out before the voyage, and 
+
+♦  The immediate cause of the fire was a rubber drain hose from a hatch combing catching fire as it was in contact with 
+
+♦  Although the drain pipe was heat resistant and the main engine exhaust was covered in thermal insulation, the drain pipe 
+
+was badly positioned, crossing over the exhaust system; 
+
+♦  The flames from the burning pipe were extinguished by oxygen starvation as a result of the shutdown of the engine fans 
+
+and ventilators. The CO2 smothering system was not actually deployed. 
+
+♦  Drain  pipe  on  both  engines  replaced  with  a  suitable  thermally  protected  pipe  which  was  run  clear  of  any  possible 
+
+The following actions were taken with regard to the fire: 
+
+exposure to damage from the exhaust system; 
+
+♦  A general focus on pipe inspections was produced and circulated;  
+
+♦  Fire drills and specific vessel training to be updated to reflect lessons learnt from this incident.  
+
+Investigation of why the CO2 system did not deploy revealed the following: 
+
+♦  The valve to the engine space had not been opened; 
+
+♦  The pin had not been removed from the valve head;  
+
+ 
+♦ 
+
+ A brass lever had been forced in the wrong direction causing it to shear; 
+
+♦  The instructions for the activation and effective use of the CO2 system were not adequate to purpose; 
+
+♦  They were located on the external surface of the drop down access door;  
+
+♦  They are not readily visible to crew operating the system; 
+
+♦  They did not highlight the need to remove the safety pin on the activation lever of the cylinder; 
+
+The following actions were taken with regard to the failure to deploy the CO2 smothering system: 
+
+♦  Better  and  more  detailed  operating  instructions  issued  to  vessels  with  similar  CO2  smothering  systems  –  including 
+
+♦  Ensured that all crew members were fully conversant with the fixed fire fighting system fitted to the vessel and how to 
+
+pictorial instructions for use; 
+
+operate that fire fighting system. 
+
+ 
+
+Figure 11: Drain hole from which smoke was sighted 
+
+ 
+
+Figure  12:  Scorched  drain  pipe  which  was  immediate 
+cause of fire 
+
+ 
+
+Figure 13: The activation lever on the starboard cylinder was broken off but the cylinder had not 
+
+ 
+
+been activated 
+
+ 
+
+ 
+
+ 
+
+♦ 
+
+♦ 
+
+♦ 
+
+♦ 
+
+♦ 
+
+♦ 
+
+Figure 14: Both selector valves to the port and starboard engine were in the closed position 
+
+Members may wish to refer to the following similar incidents (key words: engine, space, fire):  
+
+IMCA SF 08/03 – Incident 4: Cracked fuel line results in engine room fire; 
+
+IMCA SF 10/05 – Incident 2: Engine room fire; 
+
+IMCA SF 05/13 – Incident 6: Pressure switch location: fixed fire suppression systems. 
+
+ 
+
+4  Engine Room Fire    
+
+The Marine Safety Forum has published the following safety flash regarding an incident in which a fire occurred in an engine 
+room  space.  The  result  was  a  blackout  situation,  a  temporary  loss  of  propulsion  and  damage  to  engine  room  equipment, 
+wiring etc. There were no injuries or environmental impact sustained due to this incident, however the potential for a less 
+favourable outcome was present. 
+
+The safety flash can be downloaded from www.marinesafetyforum.org/upload-files//safetyalerts/msf-safety-flash-14.28.pdf. 
+
+This incident forms one of a number which have occurred recently which have been collected together and issued  as one 
+single IMCA Safety Flash.  
+
+Members may wish to refer to the following similar incidents (key words: engine, fire): 
+
+IMCA SF 08/03 –  Incident 4: Cracked Fuel Line Results in an Engine Fire; 
+
+IMCA SF 10/05 – Incident 2: Engine room fire; 
+
+IMCA SF 12/11 – Incident 8: Engine room fire on offshore vessel. 
+
+

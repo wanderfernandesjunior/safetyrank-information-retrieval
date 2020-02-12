@@ -1,0 +1,154 @@
+ 
+
+         
+
+September 30, 2010 
+Washington, DC 
+ 
+
+ 
+
+ 
+
+ 
+
+Alert 8-10 
+
+SHIP SECURITY ALERT SYSTEM (SSAS) 
+
+Is your system ready? 
+
+ 
+The U.S. Coast Guard strongly recommends that owners, operators and/or others involved with the 
+technical examination and testing of a Ship Security Alert System (SSAS) fully understand the critical 
+nature and importance of this system.  A SSAS must be serviced and maintained in order to be fully 
+operational in the event of an emergency.   
+ 
+Safety  of  Life  at  Sea  (SOLAS),  Chapter  XI-2/6  mandates  the  carriage  of  shipboard  equipment  for 
+sending  covert  alerts  indicating  the  security  of  the  ship  in  under  threat  or  has  been  compromised 
+(such  as  piracy,  terrorism  or  armed  robbery).      SOLAS  requires  that  the  SSAS  is  capable  of  being 
+activated from the navigation bridge and in at least one other location.  The SSAS should conform to 
+performance standards equivalent to those adopted by the International Maritime Organization (IMO).  
+ 
+An  investigation  into  a  recent  Breach  of  Security  (BOS)  onboard  a  vessel  operating  overseas 
+revealed  that  the  system  did  not  function  properly.    It  was  discovered  that  the  primary  activation 
+button failed to send the BOS message and that when the secondary location activation button was 
+depressed, not all critical data was transmitted. Under other circumstances, this type of failure could 
+have been disastrous and resulted in significant harm to the crew. 
+ 
+Although the SSAS was serviced two days prior to the incident as a part of the annual Safety Radio 
+Survey, records indicate that the technician did not have the proper testing equipment  for the system 
+on board and only an internal operational self-test was carried out and accepted.  A complete SSAS 
+survey  with  an  external  test  would  have  indentified  the  system  faults  which  then  could  have  been 
+corrected prior to the incident. 
+ 
+The  SSAS  survey  should  always  be  performed  by  a  fully  qualified  technician  who  has  adequate 
+knowledge  of  the  International  Ship  &  Port  Facility  Security  (ISPS)  Code  pertaining  to  SSAS,  the 
+SOLAS Convention and the IMO standards for SSAS.  A technician’s survey should involve checks 
+for: 
+ 
+a)  compliance with IMO performance standards, 
+b)  a minimum of two activation points are provided, 
+c)  transmission of the security alert is possible without an adjustment of the radio system, 
+d)  transmission initiated by the SSAS activation points include a unique/identifier, 
+e)  transmission includes the ship identity and current position associated with a date and time,  
+f)  when activated, SSAS continues the alert until deactivated and/or reset, 
+g)  SSAS is capable of being tested, and 
+h)  SSAS  power  source  is  powered  from  the  ship’s  main  source  of  power  and  is  also  capable  of 
+
+ 
+
+operation from an alternate source of power. 
+
+ 
+ 
+
+1
+
+ 
+The  U.S.  Coast  Guard  strongly  recommends  that  owners  and  operators  ensure  that  the  SSAS 
+survey  completed  on  board  involves  the  checks  listed  above  and  that  if  deficiencies  are  identified, 
+they be corrected immediately. 
+  
+This  Safety  Alert  is  provided  for  informational  purposes  only  and  does  not  relieve  any  mandates  of 
+domestic or international safety, operational or material regulations or standards.  Developed by the 
+Office  of  Vessel  Activities  (CG-543),  Distributed  by  the  Office  of  Investigations  and  Analysis  (CG-
+545),  United  States  Coast  Guard  Headquarters,  Washington,  DC.    Questions  may  be  addressed  to 
+LCDR James Fogle at James.T.Fogle@uscg.mil. 
+
+                                                                      *******  
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Office of Investigations and Analysis:  http://marineinvestigations.us 
+
+To subscribe: kenneth.w.olsen@uscg.mil 
+ 
+
+2
+
+

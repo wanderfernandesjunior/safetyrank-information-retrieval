@@ -1,0 +1,425 @@
+AB 
+
+ 
+
+IMCA Safety Flash 17/14 
+
+Safety Flash 
+
+  October 2014 
+
+These flashes summarise key safety matters and incidents, allowing wider dissemination of lessons learnt from them.  The information below has been provided 
+in good faith by members and should be reviewed individually by recipients, who will determine its relevance to their own operations. 
+
+The effectiveness of the IMCA safety flash system depends on receiving reports from members in order to pass on information and avoid repeat incidents.  
+Please consider adding the IMCA secretariat (imca@imca-int.com) to your internal distribution list for safety alerts and/or manually submitting information on 
+specific incidents you consider may be relevant.  All information will be anonymised or sanitised, as appropriate. 
+
+A number of other organisations issue safety flashes and similar documents which may be of interest to IMCA members.  Where these are particularly relevant, 
+these may be summarised or highlighted here.  Links to known relevant websites are provided at www.imca-int.com/links   Additional links should be submitted 
+to webmaster@imca-int.com 
+
+ 
+
+1  LTI: Fall Overboard/Fall from Height 
+
+A member has reported an incident which a member of the crew of a hopper barge fell overboard onto a cylinder fender 
+attached to the quay wall.  He sustained serious injuries to his spine (twelfth thoracic vertebrae crushed and splintered).  The 
+incident occurred whilst alongside, during refitting a rope connection between the hopper barge and the quay wall.  At the 
+time of the accident the empty hopper barge was firmly moored at the quay wall, at one of the berths.  
+
+Due to adverse weather conditions (wind force 9, rain showers and swells in the inner harbour) and rising tide, the head line 
+became slack. The injured person was on the foredeck to check the rope connection and to refit the rope.  During refitting of 
+the rope he had to bend slightly with his upper body overboard.  When re-fixing the head line, the barge struck the berth 
+fenders due to the wave motion in the harbour basin.  As a result of this the injured person lost his balance and fell from a 
+height of about 2m overboard onto the cylinder fender on the quay wall.  He was rescued, using a ladder from the berth-fender 
+and brought on board for transfer to hospital. 
+
+Figure: showing high position of bollard and low position of 
+
+Figure: showing cylinder fender on quay wall, onto which the casualty 
+
+top hand rail 
+
+fell 
+
+ 
+
+ 
+
+Figure: barge showing where incident occurred 
+
+ 
+
+ 
+Our member identified the following causes to the incident: 
+
+  The injured person was working alone; 
+
+  He found it necessary to lean overboard and used no personal protective equipment (PPE) or restraint mechanism;  
+
+  There was a mechanical jolt of barge against quay wall fender; 
+
+  The relatively high position of the bollard and the low position of the top hand rail; 
+
+  The working conditions and the weather conditions had not been properly risk assessed. 
+
+  Poor weather conditions; 
+
+The following lessons were identified: 
+
+  Never lean out overboard without first securing yourself – everyone is responsible for their own safety; 
+
+ 
+
+In poor weather conditions always work on deck in pairs and secure yourself to the deck; 
+
+  Crew need to remain aware that they can ‘Stop the job’ no matter who they are;  
+
+ 
+
+Increase due care level for routine jobs – be better informed about risk and control measures; 
+
+  As far as practical, use a capstan head or mooring winch to affix mooring lines; 
+
+Improve the relatively high position of the bollard and the low position of the top hand rail; 
+
+In case of suspected spinal injury do not move the injured person unnecessarily. 
+
+In 2013, falls from height formed 10% of recorded LTIs amongst IMCA members.  There were clear lessons to reiterate to all 
+members’ vessel management and crews with regard to: 
+
+the correct use of fall restraint; 
+
+full and proper risk assessment;  
+
+  ensuring a safe system of work.  
+
+In this case, attention is drawn to two incidents highlighting the risks of working alone:   
+
+IMCA SF 11/12 – Incident 3. LTI: Crush injury - arm trapped by movement of crane block; 
+
+IMCA SF 16/13 – Incident 4 LTI: Crewman injured foot during offshore renewables mooring operation. 
+
+Members should be aware of the following safety promotional materials: 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+  Safety Card 06 – Working at height; 
+
+  Safety Card 10 – Workplace safety self-assessment; 
+
+  Safety Poster 12 – Mooring safety. 
+
+2  Lithium Battery Pack Explosion 
+
+A member reported an incident which there was an explosion of a lithium battery pack that was supplying power to a corrosion 
+erosion monitor, a non-intrusive method of monitoring wall thickness of pipelines.  The incident occurred during installation 
+of a 10” in-field flow line.  
+
+As this was the first such device to be installed by the client, there were a number of individuals taking pictures.  As a result, 
+there are pictures showing the battery explosion as it happened.  
+
+Four persons required medical treatment with one person requiring a number of stiches to the forehead as a result of flying 
+debris.  There was significant damage to the surrounding steel work of the Pipe Line End Termination (PLET), and subsequent 
+installation delays while the remaining battery units were made safe and replaced with NiCd type systems. 
+
+A formal investigation was on-going, but initial observations were as follows: 
+
+  The lithium battery pack exploded.  There were no other energy sources in the area; 
+
+  The battery pack was thought to contain around 60 cells.  A number of the cells were located in the debris field and were 
+
+undamaged.  The explosion was thought to be as a result of only one or two battery cells failing; 
+
+ 
+  Early indications are that the battery pack overheated triggering a chemical reaction resulting in an explosion.  The cause 
+for the overheating is not yet understood although all preservation requirements are thought to have been adhered to i.e. 
+external temperature constraints;  
+
+  The manufacturer of the corrosion erosion monitor was informed, and the manufacturer took steps to find out what had 
+
+happened, and to ensure that the incident could not recur. 
+
+Figure: showing Lithium battery explosion as it occurred 
+
+ 
+
+ 
+
+Figure:  showing  damaged  pipeline  end  termination  (PLET)  after 
+the explosion (note blackened areas in red circle, and CEM sensor 
+array in foreground) 
+
+Figures: showing damage to helmet hit by flying debris from what is believed to be part of an ROV hatch close to the battery unit.  The 
+helmet and the person wearing it were 20m away from the area when the explosion happened.    
+
+ 
+
+ 
+
+ 
+There  have  been  a  number  of  incidents  involving  explosions  and  fires  of  Lithium  battery  packs  where  the  root  cause  was 
+discerned to be the way in which batteries were managed.  The incidents below also involved Lithium-based batteries, which 
+are potentially more hazardous than other commonly used types. 
+
+Members may wish to refer to the following similar incidents (key words: lithium, battery, and explosion):  
+
+IMCA SF 05/02 – Incident 6. Toxic gas emission from transponder;  
+
+IMCA SF 01/03 – Incident 1. Follow-up to toxic gas emission from transponder (lithium batteries);  
+
+IMCA SF 16/08 – Incident 1. Laptop battery fire and explosion. 
+
+3  Hydraulic Injection Injuries 
+
+The UK Health and Safety Executive (HSE) has published the following safety bulletin regarding an incident in which someone 
+died  as a result of  a hydraulic injection injury sustained whilst tensioning the track of a piling rig.    A grease nipple became 
+detached from the track mechanism permitting the release of grease under high pressure. 
+
+As this issue of has been raised as an IMCA safety flash on a number of occasions, we have passed on this alert as a reminder 
+of the potential for such injury when working on any hydraulic machinery or indeed any machinery at all involving high pressure 
+fluids (oils, grease or water) or even compressed air.  
+
+The safety bulletin, including further information can be downloaded from www.hse.gov.uk/safetybulletins/hydraulic-injection-
+injury.htm.  
+
+Members may wish to review the following similar incidents (key word: injection): 
+
+IMCA SF 06/07 – Incident 1. Diver injury using cavitation blaster; 
+
+IMCA SF 16/09 – Incident 3. Hand injury: injection of hydraulic fluid; 
+
+IMCA SF 06/14 – Incident 5. Hand injury - grease injection into small finger.  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+4  Uncontrolled Rotation of 9.6m Reel 
+
+A member has reported a near-miss incident which a large hydraulic reel started rotating in an uncontrolled way.  The incident 
+occurred  during  onshore  preparatory  works  for  a  vessel  mobilisation.    Two  9.6m  diameter  reels  laden  with  jumpers  and 
+pullheads had to be lifted and transported from the storage area to the quayside using a ‘Jumbo Reel Carrier’ (JRC).  The first 
+reel was successfully transported to the quayside with its transport cradles attached as normal.  It was then decided to transfer 
+the second reel to the quayside without its cradles as they could land the reel onto the cradles from the first reel once it had 
+been lifted onto the vessel.  As the second reel was being lifted, it started rotating in an uncontrolled manner, until a pullhead 
+touched the ground and was damaged.  
+
+Figure: showing JRC (blue) 
+
+Figure: showing cradle and damaged pullhead 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Figure: showing change of Centre of Gravity (CoG) with (yellow dot) and without (blue dot) the cradle 
+
+ 
+
+Our members’ investigation identified the following: 
+
+  The immediate cause of the incident was found to be the action of lifting the reels without the cradles (weight circa 
+3Te each) caused the CoG (Centre of Gravity) to be above the pivot points.  This combined with the fact that the reel 
+was already unbalanced owing to the position of pullheads and the snail caused the reel to overcome the friction at lift 
+points and rotate; 
+
+  The criticality of the position of the CoG of the loaded reel was not recognised; 
+
+  There was a lack of awareness that the JRC was not designed to lift and transport reels that are significantly off-balance; 
+
+  Only once the hubs were engaged and the reel lifted was any form of locking mechanism active; 
+
+  Procedures  and  risk  assessments  for  the  task  were  generic  and  did  not  account  for  variations  (e.g.  lengths/weights  of 
+
+jumper, position of pullheads, orientation of reel and snail); 
+
+ 
+
+In the absence of detailed instructions for the operation and of task specific procedures, the decision to move the reel 
+without cradles was not subject to any consultation or approval; 
+
+  Various reels have been moved at site using the JRC since it was delivered to the base three months prior to the incident; 
+
+  Although the operators had moved balanced reels without cradles during training, it was the first reel to be lifted by the 
+
+JRC without cradles at this base. 
+
+Our member concluded by noting that although the JRC was specifically designed to lift and transport reels, there was a failure 
+to: 
+
+  Consider the limitations of the JRC with regard to lifting reels containing additional components; 
+
+  Recognise that lifting without cradles was a change; 
+
+  Ensure method statements, risk assessments and procedures adequately consider the actual task and loads involved. 
+
+Whilst  this  incident  involved  a  JRC,  the  points  highlighted  in  the  conclusion  are  equally  applicable  to  everyday  operations.  
+When planning a task, ensure limitations of equipment are known, supporting information is suitably specific and change is 
+managed where it occurs. 
+
+Members may wish to refer to the following incident (key words: uncontrolled, winch, rotation): 
+
+ 
+
+IMCA SF 07/08 – Incident 1. Fatal accident in connection with the operation of an a-frame based launch and recovery system 
+(LARS) used for ROV operations. 
+
+ 
+5  Slips, Trips and Falls – Raising Awareness 
+
+A number of our members have seen an increase in the number of slips, trips and falls reported from offshore vessels in the 
+past twelve months.  There is a clear need to raise awareness and highlight several serious incidents involving slips and trips. 
+
+Slips and trips are one of the most common causes of major injuries at work.  The worst kind of these accidents can prove to 
+be fatal but they can also lead to cuts, bruises, head injuries, back injuries and fractures.  All slips and trips are preventable if all 
+procedures, processes and risk assessments are followed.  Everyone has a personal and shared responsibility to work together 
+cooperatively to prevent workplace injuries. 
+
+The following issues in particular may be highlighted: 
+
+  Stairs – distraction, rushing, weather conditions etc; 
+
+  Contamination of flooring – contamination can be classed as anything that should not end up on a floor, e.g. rainwater, oil, 
+
+grease, cardboard, product wrapping, dust, etc; 
+
+  Walkways – trailing cables, stored items, debris, unsecured mats, changes in levels and slopes etc; 
+
+  Obstacles – whether permanent or temporary; 
+
+  Housekeeping – a large percentage of trip accidents are caused by poor housekeeping.  So improving housekeeping helps 
+
+eliminate a large number of accidents; 
+
+  Environment – weather, noise, humidity, condensation, lighting, vessel movement etc; 
+
+  Suitable footwear – can play an important part in preventing slips and trips, choose the appropriate work footwear;  
+
+  People or human factors – how people act and behave in their work environment – fatigue, loss of concentration, horseplay 
+
+and low risk perception etc. 
+
+In conclusion: 
+
+  The incidents  described here were all wholly avoidable.    Luckily  many of these cases  resulted in minor  injuries to  the 
+
+individuals.  However, the potential was there for a more severe injury to have been sustained; 
+
+  For some, safety only becomes an important consideration when they are doing a dangerous job or task.  They rationalise 
+that safety procedures can be bypassed or ignored when the task is simple, small, routine and seemingly presents little risk 
+of injury.  Unfortunately, this type of thinking is why many routine, and apparently safe tasks or jobs, end up resulting in 
+accidents; 
+
+  The habit of working  safely  should not be limited to those activities or tasks that  are  the most difficult or  dangerous. 
+‘Work safe habits’ should be part of your everyday work routine.  If safety is not incorporated into every job or task you 
+do, it is really only a matter of time before an accident occurs; 
+
+  All worksite  areas  should be free from hazards through effective planning, procedural  controls and risk  assessment of 
+
+  Effective  toolbox  talks,  supervision  and  an  ongoing  review  of  working  practices  are  essential  to  ensure  learnings  are 
+
+tasks;  
+
+identified, acted upon and shared. 
+
+Members may wish to make further use of the IMCA promotional material on this topic: 
+
+  Pocket card IMCA SPC 02 –  Preventing Slips and Trips; 
+
+  Poster IMCA SPP 02 – Preventing Slips, Trips and Falls; 
+
+  Poster IMCA SPP 07 – Look Where You Are Going; 
+
+  Poster IMCA SPP 10 – Take Care on Stairs; 
+
+  DVD Slips trips and finger nips – available on-line and for download at http://www.imca-int.com/safety-environment-and-
+
+legislation/safety-environment-and-legislation-videos/sel-013.aspx. 
+
+ 
+
+ 
+
+Figure: person tripped over Sea Fastening on right  and banged 
+
+Figure: person slipped whilst descending the stairs bruising both his thigh 
+
+his face on Sea Fastening on left resulting in a cut upper lip 
+
+and calf 
+
+Figure: person slipped coming out of the door way, injuring his 
+
+Figure: person tripped over the sea fastening strap on the Fast Rescue 
+
+knee 
+
+Craft bruising his knee 
+
+Figure: person slipped while descending the stairs, bruising his 
+
+Figure: person’s foot got caught in the bag handle; he 
+
+knee 
+
+then stumbled and fell twisting his ankle 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Figure: here, the injured person was working between the ground level as well as the air skate frame (20cm high); 
+he stepped down and slipped on the silt in the bottom of the dry dock during cleaning operations, and fell to the 
+floor banging his head, he also cut his face and bruised his ribs and hip.  Red circles indicate area being cleaned; 
+
+area where injured person fell, and tools being used. 
+
+ 
+
+Figure: injured person tripped over raised black/yellow warning line and fell, chipping one tooth 
+
+and cracking another tooth when his face came into contact with the gas cylinder trolley 
+
+  
+
+

@@ -1,0 +1,259 @@
+AB 
+
+ 
+
+IMCA Safety Flash 07/11 
+
+Safety Flash 
+
+July 2011 
+
+These  flashes  summarise  key  safety  matters  and  incidents,  allowing  wider  dissemination  of  lessons  learnt  from  them.    The  information  below  has  been 
+provided in good faith by members and should be reviewed individually by recipients, who will determine its relevance to their own operations. 
+
+The effectiveness of the IMCA safety flash system depends on receiving reports from members in order to pass on information and avoid repeat incidents.  
+Please consider adding the IMCA secretariat (imca@imca-int.com) to your internal distribution list for safety alerts and/or manually submitting information 
+on specific incidents you consider may be relevant.  All information will be anonymised or sanitised, as appropriate. 
+
+A  number  of  other  organisations  issue  safety  flashes  and  similar  documents  which may  be  of  interest  to  IMCA  members.   Where  these  are  particularly 
+relevant, these may be summarised or highlighted here.  Links to known relevant websites are provided at www.imca-int.com/links   Additional links should 
+be submitted to webmaster@imca-int.com 
+
+ 
+
+1  Reliance on Crane Limits Caused Crane Damage and Dropped Objects   
+
+A member has reported an incident in which a crane was damaged and objects fell to the deck in the vicinity of personnel.  
+The  incident  occurred  when  a  crane  operator,  whilst  attempting  to  stow  the  block  during  the  hours  of  darkness,  had 
+difficulties in seeing it due to poor lighting conditions and the boom angle of the crane. Consequently, the crane operator 
+relied on his upper crane limits to stop the block.  The upper limit switch failed to operate due to a technical fault and the 
+wire socket was pulled into the sheave causing damage to the sheave, wire and rope guard. Sheared bolt heads from the rope 
+guard then fell to deck in the vicinity of personnel below. 
+
+The  crane  operator  then  immediately  lowered  the  block  to  position  where  he  could  cancel  the  alarms  which  were  now 
+sounding. This action itself could have released further potential dropped objects which may have been held in place by the 
+block. 
+
+An investigation noted the following points: 
+
+  The incident took place during a routine task and was considered low risk, but had the potential for a fatality or serious 
+permanent injury had a larger component fallen and struck any of the personnel below.  Additionally, there could have 
+been a substantial impact on the project or vessel schedule with the crane being out of service for a long period of time; 
+
+  A significant contributory factor in this incident was the failure of the crane upper limit switch to automatically stop the 
+wire socket well in advance of the rope guard and sheave.  However, the crane operator failed to perceive the risk of 
+‘two blocking’ the crane even when faced with poor visibility of the boom tip, and relied upon the limit switch to safely 
+stow the block; 
+
+  The lighting conditions, boom angle and poor visibility should have prompted the crane operator to request assistance 
+from the deck crew. As soon as the incident had occurred, the situation should have been assessed prior to lowering the 
+block and possibly releasing any potential dropped objects. 
+
+Actions taken included: 
+
+is poor or restricted; 
+
+  Highlighting the fact that reliance on crane limits should not be the primary method for stowing the block when visibility 
+
+  Banksmen should be in attendance to give the crane operator assistance when stowing the block, and reference to this 
+
+should be made be on the toolbox talk form for this task; 
+
+  Crane  operators  should  ensure  that  all  limits  are  checked  at  the  correct  intervals  in  accordance  with  manufacturer’s 
+
+instructions. 
+
+ 
+
+2  Galley Fryer Fire  
+
+A  member  has  reported  an  incident  in  which  a  fire  occurred  during  routine  cleaning  and  operation  of  a  twin  vat  deep  fat 
+fryer onboard a vessel.  The night shift galley team were given the task of cleaning a twin vat deep fat fryer.  This task was 
+carried out by them, however on completion only one of the twin vats was refilled with oil.  This fact was not communicated 
+to  the  day  shift  galley  team.    The  day  shift  team  were  required  to  use  the  fryer  shortly  after  starting  work,  and  it  was 
+switched on by one of the stewards without any pre-start checks being carried out.  Shortly after the fryer was switched on a 
+small fire started in the left-hand (empty) vat, which was quickly extinguished by the cook.  There were no injuries and little 
+damage occurred.  
+
+Galley deep fat fryer 
+
+ 
+
+  The risk assessment did not identify the risk of fire if the unit was switched on without oil being at the required level in 
+
+The incident was investigated and the following was noted: 
+
+  No procedure existed detailing that the fryer should be refilled after cleaning; 
+
+the vat; 
+
+  The galley team shift handover was inadequate; 
+
+  The galley team had inadequate knowledge of the fryer operation;  
+
+  The unit was routinely being switched on at the main isolation point, despite there being two thermostatic controls to 
+
+operate the vats independently of one another; 
+
+  Not all galley staff had the confidence to tackle the fire, and had not attended recent emergency drills; 
+
+  This was the second deep fat fryer fire on a company vessel in the previous six months, both having similar causes. 
+
+It was noted that a fire risk with deep fat fryers will always exist where personnel are not adequately trained in the correct 
+operation and maintenance of such equipment.  It was also noted that key errors were made where the unit was left without 
+oil in one vat and then switched on with no check made that it was functioning correctly, and that there  were no control 
+measures in place for the cleaning of the fryer. 
+
+The following actions weere outlined: 
+
+their safe operation and maintenance;  
+
+  Ensure that the processes and procedures concerning the fryers are suitable and that sufficient controls are in place for 
+
+  Ensure that the risk assessment for the fryers and galley equipment is suitable and sufficient, and understood by all;  
+
+  Ensure that all the galley staff have been fully familiarised with all the galley equipment and fully understand the operation 
+
+and risks for each;  
+
+  Ensure that all members of the galley team are regularly trained in emergency requirements. 
+
+ 
+3  Shackle in Rigging Assembly Below Required Safe Working Load (SWL) 
+
+A member has reported that during a recent a recent spot check on a lifting bridle it was identified that a 17T shackle had 
+been fitted instead of a 30T shackle.  The preassembled lifting bridle included 3 x 30T shackles (Crosby G2140) and 1 x 17T 
+(Crosby G2130) instead of 4 x 30T shackles.  The certificate for the 17T shackle was cross checked against the identification 
+number on the attached tag plate and showed the shackle SWL as 30T.  The shackle was removed and replaced with a 30T 
+shackle (30T working load limit (WLL) embossed). 
+
+Although the shackles are almost identical in size, differences in the material grades determine the WLL.  Both the material 
+grade and WLL are embossed on every shackle.  It appears that an error was made during the certification process by the 
+supplier where a 17T shackle had been certified (ID tag attached with common certificate number) as part of a batch of 30T 
+shackles. 
+
+This unsafe condition reinforces the requirement to conduct a pre-use inspection of lifting equipment prior to commencing 
+the lift.  
+
+Different shackles with working load limits embossed 
+
+ 
+
+ 
+
+ 
+
+4  Near Miss:  Personnel Almost Caught Between Crane House and Scaffold Pipe 
+
+A member has reported an incident in which someone was almost caught between a crane housing and a scaffold pipe.  The 
+incident occurred when a non-destructive testing (NDT) inspector was conducting an inspection at the stern of the crane, 
+outside on the roller level.  The access was from the scaffold around the crane.   The inspector was positioned at a beam, 
+behind a vertical scaffold pole.  He  had  just finished the inspection of the welds and stepped back from the crane  housing 
+onto the scaffold platform when the crane started slewing.  A deck supervisor spotted the inspector on the scaffold platform 
+and asked him what he was doing.  Immediately the deck supervisor ordered the crane driver to stop the crane.  Had the 
+crane started to slew earlier, then he could have been caught between the crane housing and the scaffolding pipe. 
+
+ 
+
+Site of incident 
+
+The following direct causes to the incident were identified: 
+
+  The crane operator was not informed at the start of the work; 
+
+  There were inadequate guards or barriers;  
+
+  Log out tag out procedures were not applied. 
+
+Subsequent to further investigation the following points were noted: 
+
+  A ‘last minute risk assessment’ by the NDT inspector did not reveal the actual risks owing to his lack of experience, and 
+
+he did not notice that in case of crane slewing the scaffolding would rotate independently from his work spot; 
+
+  There was inadequate initial instruction, and information was not communicated properly to all the involved parties; 
+
+  The  toolbox  talk  process  was  not  conducted  in  accordance  with  established  procedures    the  work  process  was 
+
+discussed without involvement of all parties (deck crew/crane operator); 
+
+  The  wrong  crane  operator  was  informed  before  the  operation  took  place    this  was  done  during  an  accidental 
+
+encounter in the accommodation. 
+
+ 
+5 
+
+Injury: Failure of Subsea HP Water Jetting Gun 
+
+Following publication in  IMCA safety flash 05/11, whch reported an incident where an  injury sustained by a diver  after the 
+subsea failure of a high pressure (HP) water jetting gun, a member would like to draw attention to a similar earlier incident. 
+Whilst using an HP water jetting gun underwater, the rear barrel of the gun became unscrewed and fell causing minor injury 
+to the diver’s left arm. There was no injury or damage caused by the HP water jet.  Upon closer inspection, it was noticed 
+that the threads on the barrel were worn.  
+
+Our member noted the following:  
+
+  The rear barrel of the gun is a protective cover  designed to be screwed onto the gun, to protect the diver from the 
+
+(equalising) HP water jet at the rear during work; 
+
+ 
+
+It is possible that due to constant handling, the barrel may have become loose at the screw end; 
+
+  Failure of pre-use inspection to check the tightness of the barrel may also have contributed to the barrel falling off. 
+
+Subsequently, modifications  were made to this and all similar HP water jetting guns, in order to prevent recurrence of the 
+incident.  
+
+   
+
+Modifications made to HP water jetting gun 
+
+ 
+
+ 
+
+6 
+
+Incorrect Information in User Manual for Fixed Fire-Fighting System 
+
+A member has reported that incorrect information was discovered in a user  manual for a Pyrosense SP1 Pyrogen Fixed 
+Fire-Fighting  System.  A  review  of  this  manual  revealed  misleading  information,  with  paragraphs  4  and  5  on  page  6  of  49 
+contradicting one another.  
+
+The manual reviewed was PyroSense SP-1 Fire detection and fire suppression system: installation and user manual.  
+
+Paragraph 4 states that ‘a pulsating sound will confirm that manual discharge signal is activated. After 5 seconds the sound will stop 
+pulsating and a uniform sound will be heard. At this point the MAG generator will be discharged into the protected enclosure’. 
+
+Paragraph 5, meanwhile, says that ‘in the event of a fire the visual and acoustic alarms will be conscious [sic: this is thought to be a 
+misprint of ‘constant’], and turn to pulsating when the Pyrogen MAG generator is discharged’. 
+
+The audible alarm referred to in the user manual only sounds in the space where the release has been/will be triggered, and 
+is not apparent outside.  Should Pyrogen be released, there is no alarm (either audio or visual) outside the space other than a 
+LED on the release panel. 
+
+The  UK  agent  for  the  manufacturer  has  confirmed  that  the  audible  alarm  is  continuous  changing  to  intermittent,  thus 
+paragraph 4 is incorrect.  
+
+Because the alarm is not audible outside of the space, our member has fitted the following appropriate visual warning lights: 
+
+  Amber indicates that the system is armed, and no entry is permitted until the system has been isolated by turning and 
+
+  Red indicates that Pyrogen has been released, and no entry should be made until the space has been ventilated and fire 
+
+removing the key;  
+
+extinguished. 
+
+An older version of the manual can be found at www.pyrogen.com/SP1_MAN.pdf. 
+
+ 
+
+ 
+
+ 
+
+

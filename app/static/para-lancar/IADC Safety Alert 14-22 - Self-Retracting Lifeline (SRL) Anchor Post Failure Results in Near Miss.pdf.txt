@@ -1,0 +1,78 @@
+Safety Alert 
+
+        From the International Association of Drilling Contractors 
+
+ 
+ALERT 14 – 22 
+ 
+
+SELF-RETRACTING LIFELINE (SRL) ANCHOR POST FAILURE RESULTS IN 
+
+NEAR MISS 
+
+ 
+WHAT HAPPENED: 
+ 
+The rig crew was drilling ahead when a third party employee drew their attention to the rig’s crown.  The crew 
+looked up and noticed that the SRL anchor post was hanging from the retracting line to the side of the mast.  
+Operations were immediately stopped and the crew discovered that the SRL anchor post had fractured at the 
+top of the gusset.  It then apparently fell towards the mast and came to rest when it impacted the SRL.  The 
+cable was tied to an SRL and the SRL was lying over the top of the crown. 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+WHAT CAUSED IT: 
+ 
+The SRL was installed on a climb assist anchor post.  Years of fatigue due to moving the rig from location to 
+location,  impacting  the  SRL  during  daily  inspection  testing,  and  the  most recent  jarring  operations  were  all 
+identified as causes that lead to the SRL post fracturing at the top of the gusset. 
+ 
+CORRECTIVE ACTIONS:  To address this incident, this company did the following: 
+ 
+The company instructed all rigs, in their fleet, to: 
+
+ 
+
+Inspect all posts where SRL housings are currently mounted. 
+
+• 
+•  Have the rig crew engineer the anchor post utilizing current MOC practices.  
+• 
+• 
+
+Increase the frequency of a qualified comprehensive inspection of the SRL anchor post. 
+Install a secondary restraint for the SRL anchor post that is attached to a structural member. 
+
+The Corrective Actions stated in this alert are one company’s attempts to address the incident,  
+
+and do not necessarily reflect the position of IADC or the IADC HSE Committee. 
+
+This material is presented for information purposes only.  Managers & Supervisors should 
+
+evaluate this information to determine if it can be applied to their own situations and practices 
+
+Copyright  2014 International Association of Drilling Contractors All rights reserved. 
+
+Issued August 2014 
+
+

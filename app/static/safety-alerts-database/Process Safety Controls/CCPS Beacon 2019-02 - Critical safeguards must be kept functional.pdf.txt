@@ -1,0 +1,118 @@
+www.aiche.org/ccps
+
+http://www.aiche.org/CCPS/Publications/Beacon/index.aspx
+
+Messages for Manufacturing Personnel
+
+www.iomosaic.com
+
+Critical safeguards must be kept functional!
+
+February 2019
+
+This issue sponsored by
+
+In 1999, a partial power outage (in this case an electrical failure 
+without loss of steam pressure) led to a catastrophic overpressure in 
+several pressure vessels in an alumina slurry digestion/flash system. 
+It caused a vessel to rupture in a Boiling Liquid Expanding Vapor 
+Explosion (BLEVE). The shockwave and the released hot caustic 
+liquid injured 29 people – several permanently. Damage was in the 
+tens of millions of dollars. Fortunately there were no fatalities. 
+
+The plant had been designed with several layers of protection, but on 
+the day of the accident several were not working:
+
+1. The pressure control system was in manual mode so the operator 
+could apply additional pressure to push the slurry through before 
+it could solidify. 
+
+2. The high pressure interlock was in bypass mode to give the 
+
+operator additional flexibility by going above design pressure.
+
+Aftermath of the BLEVE
+
+3. The pressure relief valves had been disabled because they had 
+
+ID No. 16-00352
+
+Reference:  MSHA Report of incident on July 5, 1999 MSHA 
+
+been leaking after previous openings.
+
+The site was in the habit of bypassing/disabling the safeguards to maintain production. They rationalized this because 
+their process had a tendency to solidify if it wasn’t kept moving (by steam pressure). When a partial power trip occurred 
+the system pressure increased. However, since the pressure interlock was Bypassed and too many relief  valves were 
+disabled, the pressure built up to unsafe levels.. 
+
+Operate equipment within its limits all the time – with all safeguards in place. This is so important that the CCPS made it 
+one of the 20 elements of its risk-based process safety program (Conduct of Operations).
+
+Did you know?
+
+ High pressure shutdown systems or other safety-related protections 
+
+should never be bypassed without following standard operating 
+procedures (for example, if a safety system must be disabled during 
+a normal startup) or using temporary Management of Change 
+(MOC) systems. Temporary MOCs may be used to manage 
+bypasses for a short time while something is repaired, as long as you 
+take other temporary measures to ensure you aren’t increasing risk. 
+
+ It’s not unusual for relief valves to fail to reseat completely after 
+
+they have done their critically important job once.
+
+ Closing the block valve under a relief device is a potentially 
+
+significant risk increase and should only be considered after careful 
+evaluation of all mitigation options. Typical “safety system 
+impairment standards” require following administrative measures 
+like tagging, logging and communication to facility management.
+
+ Your safeguard systems are typically intended to be challenged by a 
+real ”process demand” less than once per year. If a safety system is 
+being activated more often than that there may be a problem with 
+your process design. 
+
+What can you do?
+
+ Understand the major hazards at your plant.
+ Know the critical safeguards against those 
+
+hazards and be sure they are working 
+properly.
+
+ If you regularly have to operate with 
+
+critical safeguards bypassed or impaired, 
+report this to management.
+
+ Do not place automatic controls in manual, 
+
+do not bypass interlocks nor disable relief 
+valves.
+
+ If there is no other choice while something 
+
+is being repaired, use Temporary MOC 
+procedures to manage disabling/impairing 
+of safety systems for a short time, with all 
+affected persons made aware of this.
+
+ Make sure that unreliable controls and 
+
+safeguards are considered in Process 
+Hazards Analysis reviews.
+
+Your safety is built in layers. Make sure they are working!
+
+©AIChE 2019. All rights reserved. Reproduction for non-commercial, educational purposes is encouraged. However, reproduction for any 
+commercial purpose without express written consent of AIChE is strictly prohibited. Contact us at ccps_beacon@aiche.org or 646-495-1371.
+
+The Beacon is usually available in Afrikaans, Arabic, Catalan, Chinese, Czech, Danish, Dutch, English, Filipino, French, German, Greek, Gujarati, Hebrew, Hindi, Hungarian, Indonesian,  
+
+Italian, Japanese, Korean, Malay, Marathi, Mongolian, Persian (Farsi), Polish, Portuguese, Romanian, Russian, Spanish, Swedish, Telugu, Thai, Turkish, Urdu, and Vietnamese.
+
+

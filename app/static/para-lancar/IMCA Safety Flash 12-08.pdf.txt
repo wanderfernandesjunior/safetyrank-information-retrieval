@@ -1,0 +1,133 @@
+AB(cid:31)
+
+ 
+
+IMCA Safety Flash 12/08 
+
+Safety Flash
+
+July 2008 
+
+These  flashes  summarise  key  safety  matters  and  incidents,  allowing  wider  dissemination  of  lessons  learnt  from  them.    The  information  below  has  been 
+provided in good faith by members and should be reviewed individually by recipients, who will determine its relevance to their own operations. 
+
+The effectiveness of the IMCA safety flash system depends on receiving reports from members in order to pass on information and avoid repeat incidents.  
+Please consider adding the IMCA secretariat (imca@imca-int.com) to your internal distribution list for safety alerts and/or manually submitting information 
+on specific incidents you consider may be relevant.  All information will be anonymised or sanitised, as appropriate. 
+
+A  number  of  other  organisations  issue  safety  flashes  and  similar  documents  which  may  be  of  interest  to  IMCA  members.    Where  these  are  particularly 
+relevant, these may be summarised or highlighted here.  Links to known relevant websites are provided at www.imca-int.com/links   Additional links should 
+be submitted to webmaster@imca-int.com 
+
+ 
+
+1  Ballast Tank Hydrogen 
+
+A  member  has  reported  a  serious  confined  space  incident  in  which  a  crew  member  was  injured.    The  incident  occurred 
+during quarterly planned maintenance of the leakage detection system in the base of one of the legs of a semi-submersible 
+accommodation unit alongside fixed production platform. 
+
+A crew member lifted the manhole cover to gain access to the tank to undertake planned maintenance.  The crew member 
+was working next to his supervisor who began to lower gas sampling equipment into the tank as part of normal pre-entry 
+checks.  Within a minute of the manhole cover being lifted, the gas sampling equipment (which was 3m down into the 6m 
+height of the tank) gave an alarm, and the crew member lost consciousness. 
+
+Subsequent gas sampling during the investigation was undertaken and recorded unexpectedly high levels of hydrogen.  The 
+presence of hydrogen can be explained by the electrolytic reaction between the sacrificial anodes and the steel within the 
+ballast tank below the tank being worked upon. 
+
+The crew member who lost consciousness recovered fully with no residual ill health effects. 
+
+The company involved made the following recommendations: 
+
+♦  Vent ballast tanks regularly in order to prevent hydrogen build-up; 
+
+♦  Ensure appropriate steps are taken to purge gases from ballast tanks prior to tank opening; 
+
+♦  Using appropriate equipment, conduct tests for the presence of hydrogen before tank entry; 
+
+♦  Remain mindful of the potential for build-up of hydrogen in ballast tanks where sacrificial anodes are used; 
+
+♦  Review gas sampling procedure. 
+
+2 
+
+Incorrectly Colour Coded Oxygen Cylinders 
+
+A member has reported that it has received a small number of ‘W’ size oxygen cylinders which were incorrectly labelled as 
+nitrogen (oxygen free). 
+
+Members are reminded of the guidance set out in IMCA D 043 – Marking and colour coding of gas cylinders, quads and banks for 
+diving applications – and particularly of section 7, ‘Gas sampling’: 
+
+“Sampling of all gases must be carried out prior to the commencement of, and during, diving operations. 
+
+Gas cylinders and quads as received from the supplier should have a label attached and a purity certificate stating the composition 
+of the gas they contain.  However, it is stressed that analysis of gas as received from a supplier to a diving installation or site is the 
+responsibility of a nominated and competent individual and that the ultimate authority for establishing the exact contents of any gas 
+cylinder, bank or unit before use rests with the relevant supervisor.” 
+
+ 
+
+3  Hand Injury 
+
+A member has reported an incident in which a crew member suffered a serious hand injury during lifting operations.  In the 
+course of at-sea loading and offloading of containerised units from the company’s larger vessel to another smaller third-party 
+vessel, the crane operator had landed a gas cylinder rack on the deck of the other vessel when a crew member from the 
+other vessel requested the banksman to lift the load to allow him to straighten up the rack. 
+
+Owing  to the sea  swell, when  the  gas  cylinder  rack  was  lifted,  it  moved  suddenly  towards  an  adjacent  waste  skip and  the 
+crew member trapped his right hand between the gas rack and the waste skip causing a serious injury to the hand.  The crew 
+member received first aid treatment and was later medevaced to shore for surgical treatment. 
+
+Position of 
+crew member 
+ 
+
+Point of contact 
+
+Deck layout on third-party vessel at time of incident 
+
+Position of crew member at time of incident 
+
+ 
+
+ 
+
+Further investigation revealed the following basic causes: 
+
+♦  The crew member was not warned by his colleagues that he was in an unsafe situation; 
+
+♦  The crew member was in an improper or unsafe position for the task and did not follow established lifting procedures; 
+
+♦  There was a lack of experience in cargo operations. 
+
+The following were considered contributory factors: 
+
+♦  Poor sea conditions (sea state approximately 2m); 
+
+♦  Congested deck owing to small size of vessel on which incident occurred. 
+
+The company recommended the following actions: 
+
+♦  Crews on third-party supply vessels to be provided with appropriate instruction on proper lifting and handling working 
+
+practice; 
+
+vessels; 
+
+♦  Ensure all personnel are aware that they can stop the job when unsafe acts or conditions are observed on third-party 
+
+♦  Ensure proper selection of type/size of vessel for cargo operations; 
+
+♦  Ensure better planning onshore and better organisation of deck space to minimise pinch points; 
+
+♦  Ensure crew are fully aware of the danger of pinch points; 
+
+♦  Ensure  good  communication  between  contractor  vessel  and  third-party  attending  vessels  during  at-sea  loading  and 
+
+unloading operations. 
+
+ 
+
+

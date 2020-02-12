@@ -1,0 +1,187 @@
+AB
+
+ 
+
+IMCA Safety Flash 07/07 
+
+Safety Flash 
+
+August 2007 
+
+These  flashes  summarise  key  safety  matters  and  incidents,  allowing  wider  dissemination  of  lessons  learned  from  them.    The  information  below  has  been 
+provided in good faith by members and should be reviewed individually by recipients, who will determine its relevance to their own operations. 
+
+The effectiveness of the IMCA safety flash system depends on receiving reports from members in order to pass on information and avoid repeat incidents.  
+Please consider adding the IMCA secretariat (imca@imca-int.com) to your internal distribution list for safety alerts and/or manually submitting information 
+on specific incidents you consider may be relevant.  All information will be anonymised or sanitised, as appropriate. 
+
+A  number  of  other  organisations  issue  safety  flashes  and  similar  documents  which  may  be  of  interest  to  IMCA  members.    Where  these  are  particularly 
+relevant, these may be summarised or highlighted here.  Links to known relevant websites are provided at www.imca-int.com/links   Additional links should 
+be submitted to webmaster@imca-int.com 
+
+ 
+
+♦ 
+
+♦ 
+
+♦ 
+
+♦ 
+
+1 
+
+ Wire Inserts in Anchor Line Parted 
+
+A member has reported an incident in which wire inserts parted in two anchor lines of a semi-submersible accommodation 
+unit connected to a fixed platform during extreme weather conditions (9 m seas, 70 knot winds).  Non-essential personnel 
+were taken off the semi-submersible accommodation unit until the mooring system could be safely recovered and replaced. 
+
+During recovery of the mooring system it was discovered that the wire inserts in both the affected mooring lines had slipped 
+out of the socket at the rig end.  The wire inserts were taken ashore for investigation. 
+
+Following investigation the following was noted: 
+
+the failed wire inserts had not been moulded on to the sockets using proper procedures; 
+
+the supplier of the failed wire inserts was not aware of the procedure and its personnel were not formally trained in the 
+moulding operation; 
+
+the  supplier  of  the  wire  inserts  and  other  contract-specific  anchoring  equipment  had  not  been  audited  by  this  or  any 
+other customer; 
+
+♦  similar incidents regarding wires slipping out of sockets had occurred but had not been brought to public attention; 
+
+there was a detailed investigation of the design of the mooring system.  The system used mooring lines supported by 
+buoys, but it was not possible to ascertain that this was directly causative. 
+
+The company recommended the following: 
+
+♦  higher awareness of procedures for moulding sockets on to wires and increased training for personnel engaged in such 
+
+work to ensure that personnel involved are properly qualified for the work; 
+
+♦  audit of suppliers of contract specific mooring equipment for appropriate quality management system; 
+
+♦ 
+
+free sharing of similar incidents to prevent recurrence of incident; 
+
+♦  research into testing wires with moulded sockets. 
+
+2  Failure of Chamber Door Hydraulic Actuator 
+
+A member has reported the failure of a transfer under pressure (TUP) door hydraulic actuator.  After divers had transferred 
+from the chamber into the bell, an attempt was made to close the upper door using the hydraulic hand pump.  The hydraulic 
+actuator failed, causing the door to drop.  Safety procedures in place prevented any injury to the divers. 
+
+Failed actuator 
+
+ 
+
+ 
+
+Upon  further  investigation  it  transpired  that  the  heliox  gas  mix  had  managed  to  migrate  past  the  seals  inside  the  rotary 
+actuator  and  had  pushed  the  hydraulic  fluid  out  of  the  hydraulic  lines,  losing  hydraulic  control  of  opening  and  closing  the 
+door.  
+
+The actuator was removed from the chamber and stripped down completely.  All the seals inside the actuator were found to 
+be completely perished inside.  
+
+This particular actuator had never been removed, stripped and seals checked for over ten years due to the inaccessibility of 
+the unit and being hidden under deck plating. 
+
+Members  are  reminded  of  the  importance  of  identifying  critical  components  and  the  subsequent  inclusion  of  these 
+components into the planned maintenance systems. 
+
+3  Failure of Chamber Door Spindles and Seals 
+
+A  member’s  diving  support  vessel  (DSV)  had  recently  completed  a  period  of  maintenance  with  some  minor  work  on  the 
+saturation chamber system, which included door hinge realignment. 
+
+During pressurisation of the divers, a leak was identified from the lock between the two occupied chambers.  Pressurisation 
+was halted at 5 msw and the system surfaced for repair.  On completion of the repair the system was again pressurised when 
+a different leak on the same door caused the pressurisation to be halted at 8 msw. 
+
+Both leaks were identified as being at the seals in the door spindle shafts that passed through the chamber doors to enable 
+the retaining ‘dogs’ to be operated from both sides of the chamber door.  The two leakages prompted an inspection of all 
+the door spindles in the system, identifying the following: 
+
+♦  There was no history available on the spindles or seals, as they were not part of the planned maintenance system. 
+
+♦  Almost 70% of the door spindles were found to be unserviceable due to surface damage in the sealing area or bending of 
+
+the shafts and required replacement. 
+
+1. Shaft damage.  2. Shaft surface damage.  3. Door spindles in place in chamber door. 
+
+ 
+
+The following points are highlighted to members who have diving systems configured with spindles through chamber doors: 
+
+♦  The door spindles and associated seals should be identified as critical components. 
+
+♦ 
+
+Inspection and replacement of the door spindles and seals should be included in the planned maintenance system. 
+
+ 
+
+4  Loss of Subsurface Buoys 
+
+A  member has  reported  an incident  in  which  a  number of  subsurface buoys – used as  part  of the anchoring  system  for  a 
+semi-submersible accommodation unit – broke loose and drifted away.  Due to operational restrictions on certain fields it 
+had been necessary for certain operations to add fibre inserts, wire inserts and/or subsurface buoys to keep anchorlines over 
+pipelines and the concrete base structure of fixed platforms. 
+
+For two such operations the field layout was such that these buoys were underwater when the submersible accommodation 
+unit was stood off from the platform, whereas when the submersible accommodation unit was alongside, the rigging of the 
+anchor chains meant that some of these buoys came close to the surface. 
+
+Mooring of submersible accommodation units needs to ensure sufficient clearance to pipelines both in alongside, gangway-
+connected mode and in stand-off position when the rig is winched away from the fixed platform. 
+
+Since the submersible accommodation unit was in the alongside position most of the time, these buoys were subject to wave 
+loads throughout the operation.  As a result, on both these operations some of the buoys close to the surface broke loose 
+and drifted away. 
+
+The  company  developed  an  alternate  technique  using  ‘chain  through’  type  buoys,  which  improved  the  operation  of  buoys 
+close to the surface.  The mooring chain passes through the centre of the buoy and is secured on each side.  This removes 
+the need for a pennant,which is often a weak link, and also places the buoy much deeper and clear of surface wave action. 
+
+5  Failure of an Air Lift Bag Attachment Point 
+
+A member has reported that a diver lost control of an air lift bag being used as a diver aid during construction activities.  
+
+The lift bag had a lifting capacity of 500 kg and was attached to a spool-piece by both its rigging and an inverter line which 
+was in place to invert and deflate the bag should the rigging have failed. 
+
+The inverter line was attached to one of the handling loops on the top of the bag.  When the lift bag was required to be 
+deflated, the bag dump valve was unable to be operated, leaving the lift bag inflated.  The decision was taken to cut the rigging 
+attaching the bag to the load in an attempt to invert the bag using the inverter line.  When the rigging was cut, the inverter 
+line came under tension and the attachment point (handling loop) on top of the bag failed.  This allowed the lift bag to freely 
+ascend to the surface. 
+
+Handling loop attachment point failure 
+
+ 
+
+The subsequent investigation by the member company highlighted the following: 
+
+♦  Some lower capacity lifting bags in use do not have a dedicated inverter line attachment point. 
+
+♦  Many lift bags in use have webbing loops and handles which are intended to assist with manual handling and may not be 
+
+suitable for use as attachment points for lines and rigging. 
+
+♦  Some lift bags that do have dedicated fit-for-purpose inverter line attachment points may not be clearly marked as such.  
+
+Members  are  reminded  that  air  lift  bags  from  different  manufacturers  may  vary  in  configuration  and  that  inverter  line 
+attachment points may vary further, depending on the size and capacity of the lift bag. 
+
+Members are reminded of the importance of identifying the inverter line attachment point on lift bags and that this point is 
+certified fit for purpose and clearly identified as such. 
+
+Members are also reminded to refer to guidance document IMCA D 016 Rev. 3 – Underwater Air Lift Bags. 
+
+

@@ -1,0 +1,349 @@
+AB 
+
+ 
+
+IMCA Safety Flash 08/14 
+
+Safety Flash 
+
+ June 2014 
+
+These  flashes  summarise  key  safety  matters  and  incidents,  allowing  wider  dissemination  of  lessons  learnt  from  them.    The  information  below  has  been 
+provided in good faith by members and should be reviewed individually by recipients, who will determine its relevance to their own operations. 
+
+The effectiveness of the IMCA safety flash system depends on receiving reports from members in order to pass on information and avoid repeat incidents.  
+Please consider adding the IMCA secretariat (imca@imca-int.com) to your internal distribution list for safety alerts and/or manually submitting information 
+on specific incidents you consider may be relevant.  All information will be anonymised or sanitised, as appropriate. 
+
+A  number  of  other  organisations  issue  safety  flashes  and  similar  documents  which may  be  of  interest  to  IMCA  members.   Where  these  are  particularly 
+relevant, these may be summarised or highlighted here.  Links to known relevant websites are provided at www.imca-int.com/links   Additional links should 
+be submitted to webmaster@imca-int.com 
+
+ 
+
+1  Crewman Struck by Dropped Object 
+
+A member has reported a high potential incident in which a crewman was struck by a dropped object. The incident occurred 
+when the crewman was ascending a ladder to reach the access/egress of a scaffold platform, and he was struck on his right 
+arm by a dropped object. After the object struck the person it fell down under the scaffold platform. The person looked up 
+and saw another crewman standing on the scaffold platform receiving a bucket with scaffolding materials from further above. 
+The bucket was being lowered on a rope from a windlass room. 
+
+The  crewman  descended  the  ladder  to  investigate  the  object  that  had  struck  him  and  found  that  it  was  a  swivel  coupler 
+(scaffold material). He ‘stopped the job’, informed a nearby foreman, and asked other crewmen working in the vicinity of the 
+tank  if  they  had  witnessed  the  incident;  unfortunately  no  one  saw  exactly  what  happened,  and  therefore  the  origin  of  the 
+dropped  swivel  is  unknown.    The  foreman  made  a  fresh  visual  risk  assessment  of  the  scene  which  included  proper 
+housekeeping (swivels stored on the boards next to gate/access) and  discussion of the potential consequences of dropped 
+objects.  The  importance  of  using  correct  lifting  equipment  (in  this  case,  soft  scaffolding  lift  sacks)  rather  than  buckets  was 
+reinforced.   
+
+The crewman reported to the medic for a medical check-up which revealed no injuries. 
+
+Figure 1: Showing worksite at time of incident 
+
+Figure 2: Swivel coupler 
+
+ 
+
+ 
+
+ 
+
+Figure 3: Illustrating buckets (wrong) and soft-sided sacks (better) for lifting 
+
+ 
+
+Our members’ investigation revealed the following: 
+
+♦  The origin of the swivel could have been:  
+
+−  A swivel fell from the bucket 
+
+−  While emptying the bucket a swivel bounced and fell; 
+
+♦  Direct cause: 
+
+−  A swivel laying on the scaffold board fell. (Possibly kicked but unlikely due to kick plate and gate) 
+
+− 
+
+Improper  lifting,  handling  or  storage  -  improper  lifting  equipment  was  used  to  transport  the  scaffolding  materials 
+down (buckets attached to approximately 20 metre rope) 
+
+− 
+
+Poor housekeeping - some swivels were left behind next to the access gate near the ladder; 
+
+♦  Root cause:  
+
+− 
+
+− 
+
+Improper  handling  of  materials  -  lowering  scaffold  materials  (approximately  20m)  down  from  height  with  buckets 
+attached to a rope 
+
+Improper  storage  of  materials  -  The  temporary  stored  swivel  couplers  were  stored  too  close  to  the  ladder 
+access/entrance of the platform. 
+
+ Members may wish to refer to the following similar incident (key words: dropped, bucket)  
+
+♦ 
+
+IMCA SF 11/12 – Incident 2:  Near miss: dropped object. 
+
+Members’ attention is drawn to the following IMCA material which may be of assistance: 
+
+– 
+
+– 
+
+– 
+
+– 
+
+– 
+
+IMCA SEL 019 – Guidelines for lifting operations 
+
+IMCA SPP 04 – Avoiding dropped objects 
+
+IMCA SPC 05 – Lifting equipment 
+
+IMCA SPC 06 – Working at height 
+
+IMCA SPC 12 – Avoiding dropped objects 
+
+Members may also find useful information from www.dropsonline.com. 
+
+ 
+2  Unsecured Object Lifted by Helicopter Downwash 
+
+A member has reported an incident in which a bench cover was lifted into the air by the downwash of a helicopter coming 
+into land on the nearby helideck. The incident occurred when the vessel received the first crew change helicopter of the day. 
+During the final approach of helicopter, the downwash of its rotors caused the cover of the bench to be lifted into the air 
+and flung onto the deck some 6m below. The object was 180 cm x  50 cm. There was no-one in the area where the object 
+landed.  
+
+Figure 1: The cover of the bench on deck 
+
+Figure 2: The bench without the cover on 
+
+ 
+
+ 
+
+Our member’s investigation revealed the following: 
+
+♦  The bench was recently made onboard; 
+
+♦  The cover of the bench was not secured;  
+
+♦  The Helicopter Landing Officer (HLO) and assistant had both checked the helideck and the area nearby before the first 
+
+helicopter arrived; 
+
+♦  The immediate cause of the incident was failure to secure the object - the cover of the bench was not secured nor 
+
+was a requirement for this identified during inspections; 
+
+♦  The root cause of the incident was: 
+
+− 
+
+Inadequate verification of design – the benches were made for an area affected by downwash during helicopter 
+approach over starboard towards the aiming circle of the helideck. The design of the benches failed to include hinges 
+or securing aids 
+
+−  Failure  to  identify  hazard  and  risk  –  during  manufacturing,  installation  of  the  benches  and  afterwards  during 
+
+pre-helicopter operation inspections, this hazard and the significant risk it posed, was not identified.  
+
+Our member took the following actions: 
+
+♦  Performed additional inspections to verify if all equipment and materials are properly secured; 
+
+♦  Ensured  that  placement  of  additional/new  equipment  on  or  near  helideck  would  be  properly  risk-assessed  before 
+
+installation. 
+
+There are a large number of safety flashes in which one of the causes of the incident is failure to secure objects, whether at 
+height or otherwise, for example:  
+
+♦ 
+
+IMCA SF 10/08 – Incident: Unsecured Object Fell and Injured Crewman. 
+
+IMCA  has  received  no  similar  incidents  involving  any  objects  caught  and  lifted  by  helicopter  downwash.  Keywords  used: 
+debris, object, helideck, downwash.  
+
+3  Crewman Suffered First Aid Injury during Cutting Operations 
+
+A  member  has  reported  an  incident  in  which  a  crewman  cut  his  thigh  whilst  using  a  hand  grinder.  The  incident  occurred 
+when he was cutting a 900 mm diameter pipe’s bevel side to make a proper gap between the pipes. While beginning to work 
+
+ 
+on the pipe, the cutting disc did not enter the cutting point (of the gap) correctly. This made the grinder slip and move away 
+from its position and hit the injured person’s right inner thigh. The job was stopped immediately and the injured person was 
+sent to the clinic for medical treatment (cleaning and dressing the wound). As per the medical treatment administered by the 
+medic, the incident was classified as a First Aid Case. 
+
+Figure 1: Position of the injured person while cutting the bevel’s gap. 
+
+Figure 2: (RECONSTRUCTION) Position of the injured 
+
+Person stands in unstable position where he bent a little bit forward his 
+
+person while the grinder accidentally hit on his right inner 
+
+left leg and his knee totally lean onto the pipe. 
+
+thigh (both hands still hold the grinder) 
+
+ 
+
+ 
+
+Figure 3: Injured area, right inner thigh 
+
+ 
+
+Our members’ investigation revealed the following: 
+
+♦  The  injured  person  was  performing  cutting  activity  standing  on  a  portable  scaffold  platform  that  was  not  adjusted 
+
+properly for the work; 
+
+♦  The scaffold was not suitable for the working height and the distance for the pipe that needed to be cut; 
+
+♦  This inadequate scaffold adjustment forced the injured person to stand in an unstable body position where his left leg 
+
+was bent a little bit forward and the knee totally leaning onto the pipe; 
+
+♦  The injured person had 18 months experience in this function;  
+
+♦  He was wearing the correct PPE; 
+
+♦  The grinder had been inspected before the job and all proper safeguards were found to be correctly fitted and in place;   
+
+ 
+♦  The incident was witnessed by the foreman at the scene.   
+
+Our member concluded that the immediate and root causes were as follows: 
+
+Immediate cause: improper position for task – the injured person was standing in an unstable position where he 
+was bent forward with his left knee leaning fully on the pipe; 
+
+Immediate  cause:  poor  judgement  -  the  injured  person  or his  supervisor  should  have  stopped  the  job  and  made 
+sure the portable scaffold was adjusted properly for the work; 
+
+♦  Root cause: inadequate design criteria - the scaffold was not suitable for the working height and the distance for 
+
+the pipe that needed to be cut. 
+
+The following corrective actions were taken: 
+
+♦  Further safety discussion and toolbox talks; 
+
+♦  Proper training with the focus topic being that proper position of equipment and personnel is critical to a safe work site; 
+
+♦  Ensure proper working platform to be provided for working at height. 
+
+Members may wish to refer to the following similar incidents (key words: incorrect, improper, grinder, grinding, injury)   
+
+IMCA SF 03/05 – Incident 11: Grinder incident; 
+
+IMCA SF 06/05 – Incident 1: Hand grinder injuries; 
+
+IMCA SF 05/11 – Incident 2:  Improper use of tooling: bruising. 
+
+4  Cutting Torch Hose Separates from Flame Arrestor 
+
+An incident has come to IMCA’s attention in which an Oxy-Acetylene cutting torch hose separated from the flame arrestor, 
+resulting  in  a  flashback.  The  incident  occurred  during  welding  modification  of  stabbing guides  inside  a  pile  driving  hammer. 
+While  cutting  a  steel  plate  with  a  torch,  the  pipefitter  experienced  a  flashback  of  flames  as  the  connection  of  the  hose 
+suddenly came loose. Immediately the fire watch used the standby fire extinguisher and put out the flames. The men stopped 
+the job and called for the supervisor. The pipefitter was unharmed and no property damage occurred. 
+
+Investigation revealed the following: 
+
+♦ 
+
+Immediate cause: was identified as inadequate repair using unsuitable techniques and methods. The inside diameter of 
+the  hose  was  larger  than  the  one  suited  for  this  type/size  of  nipple  so  tape  was  used  to  make  up  the  difference.  The 
+clamp could not tighten against the barb on the nipple and when the tape warmed up the hose and clamp slipped off over 
+the barbed end; 
+
+♦  Root Cause: was use of miss-matched materials that were inadequate for the task. The correct size hoses with clamps 
+
+were ordered but were unavailable at the time. An improvised repair was made using tape to secure a tight fit. 
+
+The following corrective actions were taken: 
+
+♦ 
+
+Inspect all torch hoses and remove all with this type of improvised connection; 
+
+♦  Crew trained and provided awareness in proper materials and procedure; 
+
+♦  A ‘Safety Stand Down’ was conducted on-board to reiterate the importance of pre-job inspection and carrying out the 
+
+job using the safest methods and materials. 
+
+Safety  incidents  involving  pressurised  gas  fittings,  Oxy-acetylene  cutting  equipment  and  gas  cutting  in  general  are  quite 
+commonplace.  A sample is included here – please refer to the following similar incidents (key words: flame arrestor, flashback, 
+incorrect, acetylene), but there may be others.  
+
+IMCA SF 08/01 – Incident 3: Incident involving Oxy-acetylene cutting; 
+
+IMCA SF 09/09 – Incident 1: Poor maintenance and subsequent failure of welding equipment; 
+
+IMCA SF 04/12 – Incident 2: Near miss during subsea cutting operations; 
+
+IMCA SF 07/13 – Incident 1: Failure of gas quad fitting; 
+
+IMCA SF 02/14 – Incident 1: Hose fire caused Hose caused by Flashback in Oxygen & Acetylene Hoses. 
+
+♦ 
+
+♦ 
+
+♦ 
+
+♦ 
+
+♦ 
+
+♦ 
+
+♦ 
+
+♦ 
+
+♦ 
+
+♦ 
+
+ 
+5  Near Miss: Potential Fire Hazard from Halogen Lamp  
+
+The Marine Safety Forum has published the following safety flash regarding a near miss incident in which ropes used in the 
+pilot ladder were observed in close proximity to a halogen lamp that can create a lot of heat when in use. The ropes were 
+promptly moved away from the lamp and stowed in a safe manner. Crew were informed to the potential risk and the proper 
+action to take when securing the ropes. 
+
+Members may wish to review the following similar incidents: (key words halogen, fire, hazard, overheating) 
+
+IMCA SF 05/13 – Incident 3: Near Miss: Exposed Live Electrical Cable; 
+
+IMCA SF 14/11 – Incident 5 Diver helmet hat light [caught fire]. 
+
+The safety flash can be downloaded from www.marinesafetyforum.org/upload-files//safetyalerts/msf-safety-flash-14.14.pdf. 
+
+♦ 
+
+♦ 
+
+ 
+
+

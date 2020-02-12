@@ -1,0 +1,60 @@
+Safety Alert 
+
+        From the International Association of Drilling Contractors 
+
+ 
+ALERT 05 – 16  
+ 
+
+MODIFIED EQUIPMENT--BATTERY LEADS 
+
+ 
+WHAT HAPPENED: 
+ 
+This bulletin is taken from a rig’s HAZARD IDENTIFICATION (HAZID) and is not the result of a near miss 
+report or injury incident.  This report is a good example of the HAZID system being utilized by employees.  
+Recently an employee observed a potentially dangerous, modified piece of equipment being used to refuel 
+vehicles.  An extension cord was being used as a jumper from a 12-volt battery to a 12-volt DC fuel pump at 
+the fueling station.   
+ 
+The extension consisted of a set of battery jumpers with a 125V plug on the other end that connected to a 
+battery and plugged into a 125V compatible plug at the fuel pump.  Two "What Ifs" come to mind:   
+What if someone plugs an 110V extension cord into the female plug at the pump to power the 12V pump? 
+What if someone plugs the adapter into a 120V receptacle thinking the jumper is designed to charge a 
+battery? 
+ 
+WHAT CAUSED IT: 
+ 
+Personnel who created the adapter did not follow company management of change procedures.  They also 
+did not recognize the potential hazard that was created.   
+ 
+CORRECTIVE ACTIONS:  To address this incident, this company did the following: 
+ 
+The solution to eliminate the hazard was to install a transformer 120VAC to 12VDC and a switch to the fuel 
+pump.  The equipment modification was discussed with the people involved and they were encouraged to 
+continue to look for ways to improve processes and share their ideas.  However, we need to be ever-vigilant 
+identifying hazards, and modifying equipment must be approved by the division office and the company 
+Engineering and HSE departments when appropriate.  Refer to the company’s HSE Manual for further 
+information on equipment modification.   
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+The Corrective Actions stated in this alert are one company’s attempts to address the incident,  
+
+and do not necessarily reflect the position of IADC or the IADC HSE Committee. 
+
+This material is presented for information purposes only.  Managers & Supervisors should 
+
+evaluate this information to determine if it can be applied to their own situations and practices 
+
+Copyright © 2005 International Association of Drilling Contractors All rights reserved. 
+
+Issued April 2005 
+
+

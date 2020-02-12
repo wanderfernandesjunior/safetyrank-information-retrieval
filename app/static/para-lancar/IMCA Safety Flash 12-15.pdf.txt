@@ -1,0 +1,400 @@
+AB 
+
+ 
+
+IMCA Safety Flash 12/15 
+
+Safety Flash 
+
+August 2015 
+
+ 
+
+Generator 
+
+These flashes summarise key safety matters and incidents, allowing wider dissemination of lessons learnt from them.  The information below has been provided 
+in good faith by members and should be reviewed individually by recipients, who will determine its relevance to their own operations. 
+
+The effectiveness of the IMCA safety flash system depends on receiving reports from members in order to pass on information and avoid repeat incidents.  
+Please consider adding the IMCA secretariat (imca@imca-int.com) to your internal distribution list for safety alerts and/or manually submitting information on 
+specific incidents you consider may be relevant.  All information will be anonymised or sanitised, as appropriate. 
+
+A number of other organisations issue safety flashes and similar documents which may be of interest to IMCA members.  Where these are particularly relevant, 
+these may be summarised or highlighted here.  Links to known relevant websites are provided at www.imca-int.com/links   Additional links should be submitted 
+to webmaster@imca-int.com 
+
+1  Near Miss (HIPO): Engine Started and Running whilst Crew Member Working on Shaft 
+
+A member has reported an incident in which an engine and shaft generator started running whilst a crew member was working 
+on it.  The incident occurred during planned monthly maintenance on carbon brushes on a propeller shaft located inside the 
+pedestal underneath the generator.  Whilst the crew member was performing his task, the duty engineer received an order 
+from the bridge to start the port side main engine.  The crew member was located inside the pedestal underneath the generator 
+when the propeller shaft was clutched in and started rotating.  He managed to escape from the area and reported the incident 
+to engine control room (ECR) personnel. 
+
+There were no injuries, but this was a high potential incident with the possibility of a fatality or of life threatening injuries 
+resulting in permanent disability. 
+
+An investigation revealed the following:  
+
+  The isolation (‘lock out/tag out’) system was not sufficient for this work on the generators.  The port side main engine was 
+
+in standby mode and there was no isolation to the system before starting the routine maintenance on the shaft; 
+
+  There  was  inadequate  supervision.    The  crew  member  started  the  job  unsupervised,  and  there  was  only  limited 
+
+confirmation from the crew member that he understood what the job entailed; 
+
+  There was incomplete understanding of how to approach a task of this sort safely, in terms of toolbox talks, permits to 
+
+work and ‘stop work authority’; 
+
+  There was an unplanned change which was not properly managed.  It had not been planned to turn the vessel when the 
+electrician reviewed this planned or required maintenance work, and then when the decision was taken to turn the vessel, 
+the electrician was not informed; 
+
+  There was a lack of communication during several phases of operation: 
+
+engine control room (ECR) personnel and bridge personnel were not informed about maintenance on the generator 
+
+the electrician was not informed of a planned turning of the vessel when preparing these tasks 
+
+vessel personnel did not report the incident in timely manner – the onshore organisation was not informed until 24 
+hours after the incident; 
+
+  There was insufficient knowledge of permit to work (PTW), isolations and barriers, and risk assessment requirements; 
+
+  There was a serious lack of compliance with existing company procedures: 
+
+the pre-job conversation between supervisor and crew member was not in compliance with company requirements 
+and procedures 
+
+this was the third time the crew member  had performed this task, and there was no  PTW or isolation certificate 
+completed on this occasion 
+
+the opposite shift had also performed this task and had not used a PTW either, although there was a signboard in the 
+ECR stating that work on equipment was in progress. 
+
+The following causes were identified: 
+
+ 
+
+Immediate causes: 
+
+bridge and ECR not informed regarding on-going work on shaft generator 
+
+port main engine in standby mode after unmanned engine room test; 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+  Underlying causes: 
+
+PTW and isolation certificate not issued 
+
+risk assessment not followed 
+
+failure to inform ECR on planned maintenance 
+
+lack of robust communication routines; 
+
+  Root causes: 
+
+lack of safety awareness 
+
+lack of management control. 
+
+The following lessons were learnt: 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+  The necessity for a PTW and isolation of equipment should have been identified.  This would have ensured proper isolation 
+of equipment, ensured that bridge and ECR personnel were informed of on-going work, and ensured the crew member 
+could complete the task with all safety precautions/barriers in place; 
+
+  All employees have the authority and obligation to stop any task or operation where there are concerns or questions 
+
+regarding the control of safety, health and environment; 
+
+ 
+
+Improved incident reporting routines should be established to ensure that shore management is notified accordingly and 
+to ensure that there is an appropriate ‘safety time out’ following incidents. 
+
+The following actions were taken immediately: 
+
+  Time out for safety held to discuss the incident, with focus on PTW, awareness and communication; 
+
+  Planned maintenance procedures updated with requirements for PTW and isolation of shaft generator; 
+
+  Sign made and posted on generator informing of lock tag requirements; 
+
+  Fleet-wide communication and discussion of incident. 
+
+The following further recommendations were made: 
+
+ 
+
+Improvements  should  be  made  to  toolbox  talks  and  risk  assessment  for  ‘routine’  jobs,  particularly  with  reference  to 
+isolations and barriers; 
+
+  Better pre-shift meetings in engine department should ensure good planning and identification of simultaneous activities; 
+
+ 
+
+‘Stop work authority’ and behaviour based safety programmes should be reinforced. 
+
+Members may wish to refer to the following similar incidents (search words: spinning, rotating) 
+
+ 
+
+ 
+
+IMCA SF 01/13 Incident 3 First Aid Injury: Contact with Spinning Spooler Arm; 
+
+IMCA SF 03/14 Incident 3 Entanglement in Moving or Rotating Machinery. 
+
+2  Finger/Hand Injuries 
+
+Incident 1 – finger severed 
+
+The International Association of Drilling Contractors (IADC) has published two recent safety flashes regarding finger and hand 
+injuries, which will be of interest to IMCA members. 
+
+A crewman was in the process of unlocking a blow-out preventer (BOP) ram.  The employee decided to place his finger into 
+a sight opening slot to make sure the locking screw was completely out.  Another member of the crew engaged the ram control 
+valve whilst the first person’s finger was still in the slot resulting in his left index finger being severed. 
+
+Causes: 
+
+valve.  
+
+  There was no isolation, lock out or tag out to prevent this from happening; 
+
+  There was no apparent understanding or communication between the injured person and the operator of the ram control 
+
+Corrective action: A temporary guard was manufactured and placed over the BOP ram shaft bonnet to prevent crew placing 
+their fingers into the shaft compartment. 
+
+See www.iadc.org/wp-content/uploads/2015/04/SA-15-02.pdf  
+
+ 
+Incident 2 – Finger pinch injury leads to LTI  
+
+A crewman was requested to assist on a cargo handling operation from the main deck.  The task was to connect the crane 
+hook to the slings of a pup joint bundle.  The bundle was to be sent over to a platform with the use of the crane.  When the 
+crewman, who was working on his own, signalled to the crane operator to pick up the load, movement of the rig allowed the 
+bundle of pup joints to sway in his direction and he pinched his right hand between two joints, fracturing two fingers in the 
+process. 
+
+Causes: 
+
+  Standing too close to the load as it was hoisting; 
+
+  Using a team member who was not originally part of the task; 
+
+  Failure to use taglines and/or push poles to control the load; 
+
+  Failure to follow the correct rigging and lifting techniques by using only one man for the job; 
+
+  Failing to think about the risks involved; 
+
+  Not utilising the stop work authority. 
+
+Corrective actions: 
+
+  No job is so important that we cannot take the time to do it safely; 
+
+ 
+
+ Job hazard analysis for the task should have been completed and discussed with all crew involved; 
+
+  Crew should stand clear of load while hoisted and using proper taglines and handling tools; 
+
+  Supervisors need to understand and manage situational changes; 
+
+  Use safety interventions such as Step back 5 x 5 and the stop work authority when required; 
+
+  Time to be taken to have correct amount of people to do the job at all times. 
+
+See www.iadc.org/wp-content/uploads/2015/06/SA-15-04.pdf  
+
+Members  should  be  aware  that  IMCA  publishes  a  series  of  pocket  safety  prompt  cards,  including  Watch  your  hands  –  see 
+www.imca-int.com/media/102527/imcaspc08.pdf  
+
+  
+
+ 
+
+ 
+3  Collision between Crew Boat and Anchored Barge 
+
+A member has reported an incident in which there was a collision between a crew boat and an anchored barge.  The incident 
+occurred following bunkering, when a crew boat departed the bunkering barge to return to the in-field flotel.  The Master got 
+the vessel underway and planned to follow the regular route back – this was approximately two nautical miles distance and the 
+vessel had already completed the same passage three times during the course of the evening.  The vessel was running at reduced 
+speed due to the prevailing poor weather conditions. 
+
+On approaching the flotel, it was noted that a survey vessel was operating in the vicinity.  Having worked in the vicinity of the 
+survey vessel for some time, the Master was aware of the minimum clearance distance required, and decided to alter course 
+to starboard to maximise passing distance with the survey vessel. 
+
+The Master made the necessary alteration to provide the survey vessel with sufficient sea room; however this deviation took 
+it away from the route followed on the three previous occasions.  Unknown to the Master, a barge had been anchored in the 
+vicinity of the flotel whilst the crew boat was out of the field, and the crew boat only returned to the field during the hours of 
+darkness.  The barge’s new anchor position had not been properly communicated within the field and, based on subsequent 
+witness statements, the barge was also reported as being unlit at the time of the incident. 
+
+Shortly after altering course, to give the survey vessel sufficient sea room, the crew boat collided with the barge.   All three 
+crew  members  were  thrown  out  of  their  seats  and  suffered  serious  impact  injuries;  one  suffered  a  broken  shoulder  and 
+dislocated arm, one suffered multiple cuts and severe bruising, however, the third crew member suffered serious injuries to 
+his face and neck, requiring immediate medical evacuation ashore for intensive medical care.  The crew boat had no passengers 
+on board at the time. 
+
+The investigation remains ongoing.  However, the following information can be shared: 
+
+  Following anchoring operations (approximately five hours before), the barge’s lighting system was reported as working.  
+However immediately after the incident the Masters of the involved vessel and the first vessel on scene afterwards both 
+stated the lighting system was not operational.  This was corroborated by personnel from the flotel; 
+
+  No communications or navigation warnings had been issued by field supervisors following the barge’s movement into the 
+area.  The anchoring operation was conducted whilst the crew boat was in another part of the field and, by the time she 
+returned in the evening, it was too dark to have visually sighted the barge; 
+
+  Whilst the vessel radar was operating correctly and in use at the time, the adverse weather conditions may have reduced 
+
+its effectiveness and detection range; 
+
+  The crew boat may have been travelling at a speed not appropriate to the prevailing circumstances and conditions, although 
+
+there were no in-field speed restrictions in place at the time. 
+
+Whilst noting that the key causal factors and lessons learnt are still being investigated, some of the key lessons learnt were: 
+
+  There  should  be  full  compliance  with  all  requirements  of  the  Collision  Regulations  (COLREGs)  at  all  times  and  in  all 
+
+conditions; 
+
+  Changes should be properly managed, planned, controlled and communicated through a management of change process. 
+
+Members may wish to refer to the following similar incident (search word: collision): 
+
+ 
+
+IMCA SF 06/14 Incident 2 Near Miss: Strong Sun Glare Contributes to Heavy Impact on Boat Landing 
+
+4  Confined Space Entry Fatalities 
+
+The Nautical Institute has published a safety bulletin regarding the death of five persons in a confined space entry incident.  
+The incident occurred when a pontoon was beached at an isolated location for repairs.  At one point the person in charge of 
+the  pontoon  entered  a  compartment  approximately  five  metres  deep;  there  were  no  checks  on  the  air  quality  of  that 
+compartment before entry.  Within a very short time after entering this tank he became unconscious and fell, face down, onto 
+the  plates  below.    One  of  the  two  co-workers  that  had  remained  outside  attempted  a  rescue  and  was  also  rendered 
+unconscious after entering the tank.  A third worker then entered the tank and also succumbed. 
+
+Seeing the commotion and wanting to help, a man on the beach also entered the space to carry out a rescue and he too became 
+unconscious.  In short succession two others entered the tank but also succumbed.   After more than an hour a successful 
+rescue attempt was made and all bodies were removed.  Resuscitation was attempted at length but of the six who entered the 
+compartment, there was only one survivor. 
+
+The bulletin is published here: www.nautinst.org/en/forums/mars/mars-2015.cfm/201533  
+
+ 
+This tragic incident serves a timely reminder on the dangers of uncontrolled entry into confined spaces. 
+
+Members may wish to review fatal confined space entry incidents as follows: 
+
+ 
+
+ 
+
+ 
+
+ 
+
+IMCA SF 09/07 Incident 4 Confined space fatality 
+
+IMCA SF 06/11 Incident 2 Confined Space – Multiple Fatalities 
+
+IMCA SF 07/12 Incident 4 Confined space entry fatality  
+
+IMCA SF 19/14 Incident 2 Confined space entry fatality 
+
+Members should be aware that IMCA has a safety DVD entitled Working in confined spaces. Hard copies can be ordered, and 
+the video can be downloaded or viewed here.  
+
+IMCA also has a safety pocket card on confined space entry, www.imca-int.com/media/102536/imcaspc09.pdf. 
+
+ 
+
+ 
+
+5  Thermal Tunnel Buoyancy when Deployed Subsea 
+
+A member has reported an incident in which buoyancy problems were encountered with equipment being deployed subsea.  
+During light subsea construction operations conducted from a DSV, there was a requirement to deploy two ‘thermal tunnels’ 
+as a barrier between an existing pipeline and a new umbilical being laid.  When the thermal tunnel was deployed it became 
+obvious to the crew that despite it weighing 515kg in air it would not penetrate the splash zone.  The thermal tunnel was too 
+buoyant and would not sink. 
+
+After investigation it was discovered that the manufacturer’s buoyancy calculations were incorrect; these were checked by the 
+on-board engineering team.  These thermal tunnels are manufactured for subsea use without appropriate quality checks being 
+carried out by the manufacturer. 
+
+Our member learnt that this could have been prevented had there been a sea water wet trial performed by the manufacturer 
+before delivery to the client, or if there had been independent verification of the mass, volume, and displacement, and of the 
+buoyancy  calculations.   This finding was passed back to the manufacturer.    Our member noted that for all  items deployed 
+subsea the upward force or buoyancy should be independently verified by an engineer. 
+
+ 
+
+Thermal tunnel with additional weights 
+
+Section through thermal tunnel on seabed 
+
+ 
+
+ 
+
+The following actions were taken: 
+
+  Consulted with manufacturer to ensure that these findings were passed back appropriately; 
+
+  Generated a management of change process and applied a temporary solution, whereby additional weight was added to 
+the thermal tunnel to assist with the installation.  The thermal tunnel was successfully installed in position and covered 
+with a concrete mattress; 
+
+  Ensured that all future deployments of thermal tunnels would have manufacturers’ certification of wet test, or independent 
+
+validation of mass detailing suitability for subsea use. 
+
+It was noted that a remaining risk was that if the concrete mattress was subsequently removed and the weight fixings in the 
+meantime had perished, the buoyancy issue would be realised again.  This is an unknown but should be taken into consideration 
+in future.  Members using thermal tunnels may wish to review their procedures to mitigate the risk of tunnels floating to the 
+surface, as this is a potential hazard to both divers and vessels. 
+
+

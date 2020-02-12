@@ -1,0 +1,126 @@
+March 11, 2015 
+Washington, DC 
+
+         Inspections and Compliance Directorate 
+
+ 
+
+ Safety Alert 4-15 
+ 
+
+ 
+
+ENGINE ROOM OPERATIONS 
+
+Maintaining Machinery, Knowing Escape Routes, & Conducting Thorough Engineering Watches  
+
+ 
+Recently an engine room fire occurred onboard an older cruise ship while it was at berth.  A fuel oil 
+spray under pressure developed from an operating engine’s fuel supply line when a bolted flange 
+parted.    The  fuel  spray  ignited  when  it  contacted  the  engine’s  exhaust  piping  or  turbocharger 
+components.    The  vessel’s  fine  mist  extinguishing  system  automatically  activated  and  performed 
+as  designed  extinguishing  the  primary  fire.    Fuel  pumps  and  shutoff  valves  were  also  secured. 
+However, the short-duration fire also ignited cable bundles, quickly filling the machinery space with 
+smoke.  As a result, one crewmember and two technicians were unable to egress and perished in 
+the engine room.   
+ 
+Although  the  investigation  is  not  complete  and  there  is  more  to  be  learned,  the  Coast  Guard  is 
+issuing this safety alert to: 1) reiterate the importance of vessel engineers being cognizant of and 
+taking  action  on  engine  manufacturer  technical  bulletins  and  service  letters,  2)  remind  personnel 
+working in machinery spaces to have a personal exit plan no matter where they are working, and 
+3)  stress  the  value  of  having  engineers  frequently  perform  detailed  engineering  space  inspection 
+rounds on engines, systems, and other equipment.  
+ 
+The  ongoing  investigation  into  the  fire  has  revealed  that  a  fuel  line  supply  flange  integral  to  the 
+engine parted after three bolts completely loosened and the remaining bolt fractured.  Other bolts 
+within  the  engine’s  hot  box  were  also  found  broken.  The  involved  engine  was  a  Wartsila  model 
+VASA12V32LNE  also  referenced  as  a  VASA  32.    It  is  a  very  common  engine  with  thousands 
+operating  in  ship  and  shore  side  service.    Over  its  service  life  the  manufacturer  has  produced  a 
+number of technical bulletins and service letters related to the fuel system piping, shielding of hot 
+surfaces,  other  fire  protection  devices,  and  availability  of  components  to  meet  SOLAS 
+requirements.  In its service letters Wartsila notes that fuel pipes leading to and from the injection 
+pumps  are  subject  to  pressure  pulses  derived  from  the  injection  pumps,  vibrations  caused  by 
+normal  engine  vibrations,  and  static  stresses  caused  by  heat  expansion.    Any  repairs  or 
+modifications  to  the  fuel  system  must  follow  manufacturer  guidance  provided  in  associated 
+manuals,  bulletins,  and  service  letters.    Owners  and  operators  may  obtain  engine  bulletins  and 
+service 
+letters 
+/  engine 
+manufacturers. 
+ 
+In  this  case,  the  loosening  of  these  bolts  may  have  been  caused  by  vibrational  loosening.    It  is 
+unknown  when  the  involved  piping  was  last  removed  and  reinstalled  and  whether  or  not  proper 
+torque was applied to the bolts. 
+ 
+Emergency egress was also identified as an issue during the fire investigation.  Machinery spaces 
+onboard cruise ships and other large vessels are complex spaces where an unfamiliar person can 
+become  quite  disoriented,  particularly  during  emergencies.    Additional  factors  like  the  loss  of  all 
+
+their  Wartsila  service  representative  and  other  OEM 
+
+through 
+
+1 
+
+Safety Alert 4-15 
+
+ 
+
+power and lighting or excessive smoke can make rapid evacuation extremely difficult.  There are 
+simple  steps  to  improve  the  odds  of  a  successful  escape.    Before  any  work  begins,  learn  the 
+locations  of  available  exits  and  escape  routes  in  all  directions  (i.e.  up  and  down  levels  and 
+platforms,  port  and  starboard).    If  there  are  watertight  doors  present  review  the  procedures  to 
+manually  open  them  if  they  should  be  closed.    Also  learn  the  location  of  Emergency  Escape 
+Breathing  Devices  (EEBDs)  and  review  their  proper  usage  and  activation.    Lastly  and  very 
+importantly, always carry a good flashlight in your pocket.  The light it provides may save your life. 
+ 
+An Oil Companies International Marine Forum (OCIMF) information document related to machinery 
+space inspections and rounds states, “The widespread introduction of machinery automation and 
+associated alarm and control systems has significantly changed the nature of operational practices 
+on  board  vessels.    The  extensive  use  of  computers,  monitoring  tools,  and  equipment  has 
+increased  the  volume  and  accuracy  of  data  to  the  extent  that  there  is  a  risk  that  the  responsible 
+officer  may  become  insulated  from  the  actual  machinery  status  and  performance.”  The  full 
+document  is  available  on  OCIMF’s  website:  http://tinyurl.com/OCIMF-PDF.  This  reference  is  for 
+informational purpose only and is not an endorsement. 
+ 
+The  purpose  of  engineering  personnel  conducting  rounds  in  machinery  spaces  is  to  identify  and 
+initiate  intervention,  preventative  maintenance,  and  repair  actions  when  unsafe  conditions  exist.  
+Carefully  accomplished,  engineers  will  discover  abnormalities  as  they  occur,  enabling  them  to 
+minimize negative compounding events.  Identifying discrepancies such as loosening bolts, leaking 
+piping  and  flanges,  excessive  oil  loss  through  poor  seals  and  gaskets,  failing  pump  seals, 
+loosening  of  pipe  brackets,  inadequate  lubricant  levels,  etc.,  are  typical  issues  found  when 
+thorough inspection rounds are conducted.  Each operating engine should be thoroughly examined 
+several  times  a  watch  on  all  sides  available  noting  potential  leakages,  loosening  of  components, 
+proper  drainage  of  air  coolers,  etc.  All  persons  making  rounds  should  be  using  very  bright 
+flashlights in the performance of their inspection duties. 
+ 
+As a result of this casualty, the Coast Guard strongly recommends that owner and operators of 
+all types of vessels develop policy and procedures to ensure: 
+ 
+
+•  They  have  up  to  date  service  bulletins  and  service  letters  for  critical  equipment, 
+implementing  the  requirements  specifically  when  such  items  relate  to  fire  prevention  and 
+safety; 
+
+•  That service vendors, technicians, crewmembers, or any persons working within machinery 
+spaces  understand  their  escape  routes  and  available  emergency  equipment  before  they 
+start work and; 
+ 
+
+•  That  all  engineering  personnel  know  how  to  perform  effective  and  comprehensive 
+inspections  and  rounds  to  detect  abnormalities  and  problematic  systems,  equipment,  and 
+components as early as possible. 
+
+ 
+This Safety Alert is provided for informational purposes only and does not relieve any domestic or 
+international  safety,  operational,  or  material  requirement.    Developed  by  the  Sector  San  Juan 
+Prevention Division and the Office of Investigations and Casualty Analysis, Washington DC.  For 
+questions or concerns, please email hqs-pf-fldr-cg-inv@uscg.mil.        
+
+2 
+
+ 
+
+ 
+
+

@@ -1,0 +1,73 @@
+Safety Alert 
+
+From the International Association of Drilling Contractors
+
+ 
+
+ 
+ALERT 02 – 33  
+ 
+
+HAND-HELD ANGLE GRINDER INJURY 
+
+ 
+WHAT HAPPENED: 
+ 
+A rig welder was working on the rig floor modifying the rotary guard.  While dressing a weld with a hand-held 
+angle  grinder,  the  grinding  wheel  shattered.    One  piece  of  the  grinder  wheel  struck  the  welder’s  left  leg  just 
+below the knee causing a  2" cut requiring 6 stitches to close.  The  injury  has been classified as a restricted 
+work case. 
+ 
+WHAT CAUSED IT: 
+ 
+The hand-held angle grinder had been modified.  Modifications included: by passing the on/off switch and 
+removing the deflector guard.  The deflector guard serves to direct flying debris away from the operator and in 
+this case would have directed disc shards away.  Another contract welder was found to have another hand-
+held angle grinder in his tool box with the same modifications.  This grinder was also removed from service.  
+Grinding discs on site were checked and found to be rated above the RPM rating for the hand-held angle 
+grinders on location.  This is important because if the grinding disc is rated at a lower RPM than the grinder, 
+the disc could explode and throw pieces into the work area.   
+ 
+CORRECTIVE ACTIONS:  To address this incident, this company issued the following instructions to all 
+personnel:   
+ 
+•  Grinders and grinder discs can be ordered in a variety of rated RPMs, so be certain the disc matches or 
+
+exceeds the rated RPM of the grinder.   
+
+•  A  problem  associated  with  the  portable  hand  grinders  mobility  is  that  they  are  prone  to  being  dropped.  
+Dropping  an  angle  grinder  could  crack  the  grinding  disc  resulting  in  it  flying  apart  while  being  used.  
+Anytime  a  hand-held  angle  grinder  is  dropped,  inspect  the  disc  for  damage  and  perform  the  ring  test 
+before using.  If there is any doubt about the integrity of the disc, replace it immediately.   
+
+•  The Ring Test.  Take the disc in the one hand, holding it by the arbor or by placing a finger into the tapped 
+plate  hole  and  tap  the  disc  with  the  wooden  handle  of  a  screwdriver.    Tap  at  a  45  degree  angle  from 
+vertical, about 1-2" from the periphery of the disc.  A disc in good condition (without cracks) should give a 
+clear, metallic ring when tapped, though the pitch will vary from discs of various grades and sizes.  
+
+•  Breakage could also occur if the disc is taken from a cold room and pressure applied before it is allowed to 
+warm  up.    Store  grinding  discs  in  a  dry,  warm  place  and  allow  the  grinder  to  run  for  a  minimum  of  one 
+minute before starting any grinding.   
+
+•  No modifications to grinders are allowed, without manufacturer’s approval.  
+
+•  Proper eye protection is goggles or a face shield with goggles.  Safety glasses are inadequate protection 
+
+(worn with or without a face shield) and a face shield is inadequate without goggles. 
+
+ 
+IADC Note:  See Alerts 00 – 34 and 01 - 06 
+
+The Corrective Actions stated in this alert are one company’s attempts to address the incident, and do not 
+
+necessarily reflect the position of IADC or the IADC HSE Committee. 
+
+This material is presented for information purposes only.  Managers & Supervisors should  
+
+evaluate this information to determine if it can be applied to their own situations and practices. 
+
+Copyright © 2002 International Association of Drilling Contractors.  All Rights Reserved 
+
+Issued August 2002 
+
+

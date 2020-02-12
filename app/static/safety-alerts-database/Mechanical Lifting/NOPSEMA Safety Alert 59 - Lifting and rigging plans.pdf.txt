@@ -1,0 +1,148 @@
+Safety Alert 59
+
+July 2014
+
+Lifting and Rigging Plans
+
+What happened?
+
+Recent NOPSEMA investigations of dangerous occurrences during non-routine lifting and rigging activities, which resulted 
+in dropped objects and failed rigging equipment, have identified a trend in the absence of effective lifting and/or rigging 
+plans for an operation or partial completion of a plan which was considered ineffective.
+
+The following examples aim to illustrate the above points:
+
+
+
+
+
+
+
+
+
+A 40 kg object was dropped 4 metres from a wooden pallet onto a grated walkway as it was being lifted into a 
+pump  room.  An  investigation identified  that  a lifting  plan  was  not  completed  for  the  lift, as  required  by  the 
+operator’s  safety  management  system.    Requirements regarding  pallet  lifts  were  also  not  detailed  in  the 
+operators lifting procedures. NOPSEMA notes that the lifting of wooden pallets is not permitted by some facility 
+operators.
+
+An investigation  into  rigging  equipment, which  parted  in  a drilling  derrick, found  that  a rigging  plan  was  not 
+completed for the rigging operation as required by the operator’s safety management system. The investigation 
+also  found  that  the  rigging  loads  were  not  accurately  estimated  or  calculated, and  that  the  selected  rigging 
+equipment was subsequently determined as being under-rated for the anticipated loading.
+
+A manned forklift, which was being utilised to suspend a rigging equipment arrangement, toppled-over on the 
+deck as a result of rigging equipment failure. An investigation identified that, contrary to the operator’s safety 
+management system, the rigging operation was conducted without a rigging plan and without rigging loads being
+determined for any part of the operation.
+
+An investigation into the lifting of a manned Fast Rescue Craft (FRC) for regular launch and recovery operations
+using the  facility  crane identified  that  the lifting  plan  was  only  partially  completed.    The  lifting plan  did  not 
+identify  the  actual  or  estimated  weight  of  the  load  being  lifted  and  subsequently,  the  rigging  selected  was 
+identified as being under-rated for the actual lifting operation.
+
+Failure of over-loaded
+
+wire rope sling
+
+National Offshore Petroleum Safety and Environmental Management Authority
+
+Rev 0 A359047
+
+16/07/2014
+
+1 of 2
+
+Toppled forklift (manned at the time)
+
+Safety Alert 59
+
+Lifting & Rigging Plans
+
+What could go wrong?
+Failure of lifting equipment can potentially result in a dropped load or dropped object, while failures of rigging equipment 
+can  potentially  result  in  an  uncontrolled  vertical  or  horizontal  movement  of  the  load  or  equipment. The examples 
+provided of failures of lifting and rigging equipment could have resulted in serious injuries or a fatality, while the potential 
+failure in the under-rated FRC rigging had the potential for multiple fatalities.
+
+Key lessons
+The following recommendations should be considered.
+
+Lifting or rigging plans should be completed in accordance with the facility safety management system, and should be:
+
+completed for every lifting or rigging operation (routine and non-routine)
+
+completed by suitably trained and competent personnel
+
+reviewed by a competent person
+
+approved by the supervisor of the lifting or rigging operation to ensure all of the identified controls are in place 
+prior to commencement and remain in place for the duration of the activity.
+
+Lifting  and  rigging  plans  are  an integral  part  of hazard  identification  as  a  component  of  the  overall  risk  management
+process for safe management of lifting and rigging operations.
+
+The  detail  required  in  the  lifting  and  rigging  plans should  be  proportional to  the  complexity  and  frequency  of  the 
+operation.    Frequent  or  simple tasks  may  only  require  a  basic plan  while  infrequent or  complex  lifting  or  rigging 
+operations  may  require  significant  engineering. Also,  lifting  and  rigging  plans  on  floating  facilities  should  consider  the 
+dynamic effects on loads and resulting dynamic amplification factors.
+
+It has been reported by operators that many lifting and rigging incidents have occurred during what is perceived as low 
+risk operations.  It is important that these risks are effectively managed with lifting and rigging plans as part of the overall 
+risk  assessment  process  to  ensure  the  operations  are  safe and  risks  are  reduced  to  as  low  as  reasonably  practicable 
+(ALARP).
+
+The legislation
+Clause 9 of Schedule 3 to the Offshore Petroleum and Greenhouse Gas Storage Act 2006 requires that “The operator of a 
+facility must take all reasonably practicable steps to ensure that the facility is safe and without risk to the health of any 
+person at or near the facility.” This includes an obligation to take all reasonable practicable steps to:
+
+implement and maintain systems of work that are safe and without risk to health [Clause 9(2)(d)]; and
+
+provide all members of the workforce with the information, training and supervision necessary for them to carry 
+out their activities in a manner that does not adversely affect the safety of persons at the facility [Clause 9(2)(f)].
+
+Contact
+
+For further information email alerts@nopsema.gov.au and quote Alert 59.  NOPSEMA safety alerts are on published at 
+nopsema.gov.au, on the ‘Safety Alerts’ page under the ‘Safety’ tab.
+
+The following oil and gas publications provide further guidance and recommended practice on lift planning and provide 
+examples of lift plans.
+
+International  Association  of  Oil  &  Gas  Producers,  Lifting  &  hoisting  safety  recommended  practice,  Report  No. 
+376, April 2006.  http://www.ogp.org.uk/pubs/376.pdf
+
+The  International  Maritime  Contractors  Association,  Guidelines  for  Lifting  operations,  IMCA  M  187,  October 
+2007.  http://info.ogp.org.uk/liftingandhoisting/RPR/IMCASEL0192.pdf
+
+UK  Health  &  Safety  Executive,  Lifting  Operations  and  Lifting  Equipment  Regulations  1998,  Safe  use  of  lifting 
+equipment.  http://www.hseni.gov.uk/l113_safe_use_of_lifting_equipment.pdf
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+National Offshore Petroleum Safety and Environmental Management Authority
+
+Rev 0 A359047
+
+16/07/2014
+
+2 of 2
+
+

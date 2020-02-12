@@ -1,0 +1,87 @@
+SAFETY ALERT 26
+
+NATIONAL OFFSHORE PETROLEUM SAFETY AUTHORITY
+
+Importance of maintaining well-test flow-lines
+
+What happened?
+
+Prior to use of a well testing package on a semi-submersible MODU, pressure 
+tests were conducted on the permanently installed, but infrequently used, oil and 
+gas lines from the separator to the burner booms. The pressure test on the oil 
+line failed and a visual inspection revealed that the line had washed out at an 
+elbow. The permanent oil and gas lines were installed underneath the MODU’s 
+stern walkway and could only be inspected from a basket suspended over the 
+side of the MODU.
+
+A decision was made to install temporary flowlines to enable the well test to 
+proceed. The temporary flowlines were run along the stern walkway at the main 
+deck level. A welded line was used for oil and a chiksan line was used for gas.
+
+Gas testing checks were carried out along the line at regular intervals, using 
+portable gas testing equipment, and on two occasions gas was detected leaking 
+from chiksan connections. Instead of shutting down the well test with the ESD as 
+instructed, the gas-tester chose to consult with the well test supervisors on how 
+to handle the gas leak.
+
+What could go wrong?
+
+As the permanently installed lines were only tested immediately prior to the 
+commencement of the well test, their failure meant that a number of 
+compromises were made in completing the well test.
+
+Although the area was barricaded during actual testing, running a number of 
+temporary lines along dedicated walkways could have caused significant delays 
+or injury if people were required to respond to an emergency.
+
+Detection of leakage from the temporary oil and gas lines was reliant on hand 
+held gas sensors or a visual sighting during the regular walk-through, as the 
+lines, being virtually open ended, could not be fitted with high or low pressure 
+sensors.
+
+Key Lessons
+
+Facility operators must ensure that all safety critical equipment is managed under 
+an effective inspection and maintenance programme.  The permanent well 
+testing flowlines on the facility were not subject to any inspection or examination 
+and had not been included in the planned maintenance system of the facility. 
+
+Management of change processes must ensure that appropriate levels of hazard 
+identification and risk assessment are made and that appropriate information is 
+available to supervisors and to the workforce. Task level risk assessments may 
+
+Page 1 of 2
+
+SAFETY ALERT 26
+
+NATIONAL OFFSHORE PETROLEUM SAFETY AUTHORITY
+
+Importance of maintaining well-test flow-lines
+
+not always be appropriate when complex circumstances such as hydrocarbon 
+leaks are involved.
+
+Finally, crews must have clear instructions and clearly stated authority to act 
+decisively when hydrocarbon leaks are detected.
+
+Who is responsible?
+
+(i)
+
+(ii)
+
+The operator of an offshore facility has the general duties of care under 
+the Offshore Petroleum and Greenhouse Gas Storage Act 2006 to 
+ensure all work and activities are safe and the risk to people is as low 
+as reasonably practicable. Specifically, the operator must implement 
+and maintain a safe system of work for any plant and equipment.
+Any titleholder and service contractor who is in control of any particular 
+work carried out at a facility has similar duties as the operator for that
+particular activity.
+
+Contact
+For further information email alerts @nopsa.gov.au and quote Alert 26.
+
+Page 2 of 2
+
+

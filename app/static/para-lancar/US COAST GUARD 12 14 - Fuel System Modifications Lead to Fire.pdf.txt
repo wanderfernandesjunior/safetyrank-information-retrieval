@@ -1,0 +1,133 @@
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+November 3, 2014 
+Washington, DC 
+ 
+
+         Inspections and Compliance Directorate 
+
+      Safety Alert 12-14 
+
+ 
+
+DESIGNED FOR A REASON – FUEL SYSTEM MODIFICATIONS LEAD TO FIRE 
+
+ 
+
+including 
+
+MALE-TO-MALE VARIABLE LENGTH COUPLING 
+
+This safety alert serves to raise awareness regarding the importance of using proper replacement 
+parts and equipment in accordance with their intended purpose.  Recently, a casualty occurred on 
+a passenger vessel operating about a mile offshore in the Atlantic Ocean.  A crewmember, while 
+making  a  round  in  a  machinery  space,  noticed  that  a  small  fuel  spray  fire  had  developed  above 
+one of the four propulsion engines.  The crewmember vacated the space and informed the bridge 
+watch.    Subsequently,  proper  emergency  procedures  were  followed,  ventilation  to  the  machinery 
+space was secured, and the CO2 via the fixed fire fighting system was released.   Fortunately for 
+the  174  persons  onboard,  the  fire  was  quickly  extinguished  without  incident  or  additional 
+complications.    Although  the  investigation  is  not  complete,  important  causal  factors  were 
+discovered and are shared here.  
+ 
+The  vessel  was  equipped  with  four  Detroit 
+Diesel  sixteen  cylinder  high  speed  engines  -
+model 16V92.  The engines were constructed 
+by  coupling 
+two  V-8  cylinder  engines 
+together.    There  are  also  other  similarly 
+coupled  engine  models  and  in  widespread 
+use 
+the  Detroit  Diesel  12V92, 
+12V71,  and  16V71.    Fuel  and  coolant  flow 
+from  head-to-head  and  within  passages  on 
+each  side  of  the  engine.    The  fuel  supply 
+passage  delivers  fuel  to  the  injection  equipment  of  each  cylinder.    A  return  passage  handles 
+excess fuel.  To connect the heads on each side of the engine, a male-to-male threaded variable 
+length coupling is used by design.  There are four couplings per engine that handle fuel supply and 
+returns  from  the  injection  components.    These  couplings  are  unique  in  that  they  facilitate 
+installation by their capability to lengthen when their ends are threaded into the heads.  
+ 
+On  the  passenger  vessel  that  experienced 
+the  engine  room  fire,  couplings  on  three  of 
+the four engines were replaced with threaded 
+hose  barb  fittings  and  rubber  hose.    One  of 
+those  fuel  hoses  subsequently  failed  and 
+sprayed  fuel  directly  onto  the  main  engine 
+exhaust  lagging  and  blankets.    The  seam  in 
+the insulation blanket was facing towards the 
+engine  rather  than  away  and  likely  provided 
+the ignition source. 
+
+ 
+
+1 
+
+ RUPTURE As a result of this casualty the Coast Guard strongly encourages owners, operators, and marine 
+engine rebuilders with the types of engines listed above, either as propulsion or prime movers for 
+generators to: 
+ 
+
+  Always use proper replacement parts, 
+  Consider seam placement of exhaust insulation blankets and lagging during installation,  
+  Follow  good  marine  practice  by  always  maintaining  the  tightness  and  correct  fit  of  the 
+
+insulation blankets over the entire exhaust system, and  
+
+  For those who repair or own and operate vessels with these Detroit Diesel engines either as 
+propulsion or electrical generation equipment of design configuration 16V92 ,12V92, 12V71 
+and 16V71, inspect and verify that the proper head to head couplings are used for the fuel 
+supply and return passages.  If incorrect, contact an authorized manufacturer technician for 
+specific guidance. 
+
+The use of proper engine replacement parts is paramount to safety! 
+
+LOOKING DOWN AT ENGINE 
+
+COUPLINGS 
+
+ 
+
+AREA NEAR COUPLINGS 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+This Safety Alert is provided for informational purposes only and does not relieve any domestic or 
+international safety, operational, or material requirement.  Developed by the Sector Jacksonville 
+Investigations Division in coordination with the Office of Investigations and Analysis, Washington 
+DC.  For questions or concerns, please email hqs-pf-fldr-cg-inv@uscg.mil.   
+ 
+ 
+ 
+
+2 
+
+ 
+
+ 
+
+ 
+
+LAGGING AND SEAM OF EXHAUST PIPING 
+
+

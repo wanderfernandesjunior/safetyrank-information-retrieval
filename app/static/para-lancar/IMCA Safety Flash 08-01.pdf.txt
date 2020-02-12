@@ -1,0 +1,156 @@
+AB
+
+ 
+
+IMCA Safety Flash 08/01 
+
+August 2001 
+
+These  flashes  summarise  key  safety  matters  and  incidents,  allowing  wider  dissemination  of  lessons  learned  from  them.    The  information  below  has  been 
+provided in good faith by members and should be reviewed individually by recipients, who will determine its relevance to their own operations. 
+
+The effectiveness of the IMCA safety flash system depends on receiving reports from members in order to pass on information and avoid repeat incidents.  
+Please consider adding the IMCA secretariat (imca@imca-int.com) to your internal distribution list for safety alerts and/or manually submitting information 
+on specific incidents you consider may be relevant.  All information will be anonymised or sanitised, as appropriate. 
+
+A  number  of  other  organisations  issue  safety  flashes  and  similar  documents  which  may  be  of  interest  to  IMCA  members.    Where  these  are  particularly 
+relevant, these may be summarised or highlighted here.  Links to known relevant websites are provided at www.imca-int.com/links   Additional links should 
+be submitted to webmaster@imca-int.com 
+
+ 
+
+1  Failure of ROV Lift Umbilical Winch Brake 
+
+1.1 
+
+Introduction 
+
+One of our members has informed us of the following incident.  An ROV system was providing subsea intervention 
+support  working  from  a  drill  rig  in  depths  up  to  2500msw.    Whilst  conducting  routine  operations,  to  a  depth  of 
+2300m,  the  ROV  lift  umbilical  winch  system  was  stopped.  After  approximately  five  minutes,  the  umbilical  winch 
+started to ‘creep’ and quickly gather speed.  The operator attempted to arrest the load by operating the winch in an 
+upward direction.  This had no effect and by the time the operator had activated the emergency stop the load could 
+not  be  stopped  and  the  winch  suffered  an  uncontrolled  payout.    Although  nobody  was  injured,  the  ROV  together 
+with 3300m of steel armoured umbilical was lost from the rig and the winch suffered serious damage. 
+
+The initial investigation conducted by the company concerned has shown that the mechanical brake system had failed 
+due to excessive wear on the brake plates. 
+
+The particular winch involved was a CORMAC unit manufactured by Norlau.  It appears that only certain types of this 
+winch have this characteristic, as the design appears to have changed over the life of the model. 
+
+1.2  Actions to be taken in the event of an Uncontrolled Payout 
+
+In  the  incident  described  above,  by  attempting  to  arrest  the  load  by  operating  the  ‘pay-in’  command,  the  operator 
+unwittingly  aided  the  uncontrolled  payout.    This  is  because  when  the  winch  command  lever  is  in  neutral,  the 
+mechanical brake is fully engaged.  When a command is given to the winch, the mechanical brake is released as the 
+system pressure builds in response to demand.  In this situation, with the winch already starting to gather speed, any 
+release of the mechanical brake will aid the uncontrolled payout before the hydraulic drive can counter this release. 
+
+The company concerned has instructed its personnel that if a similar incident is experienced whereby a CORMAC 
+winch starts to ‘creep’ under load, no action should be taken and the winch allowed to continue to ‘creep’ until it 
+stops.  Should this occur the company has advised that immediate advice be sought in order to ensure safe recovery 
+of the load. 
+
+1.3  Brake Test 
+
+1.4  Summary 
+
+The company concerned has identified a torque test with the motor against the brake to determine the amount of 
+wear on similar winch systems.  This simply tests the brake against the maximum torque induced by the motor and 
+thereby gives an indication of brake condition.  
+
+In the unlikely event that winch drum movement occurs during the test, the company has instructed its personnel that 
+all operations using the winch unit under test should be suspended until the extent of wear to the brake system has 
+been evaluated. 
+
+The  company  concerned  has  noted  that  actions  described  above  are  designed  to  prevent  re-occurrence  of  this 
+serious  incident  by  testing  the  integrity  of  the  mechanical  brake  and  advising  what  to  do  in  the  event  of  a  similar 
+
+ 
+
+uncontrolled payout.  However, it notes that these actions are considered to be short term and a long term solution 
+is being investigated, possibly as a modification to be agreed in conjunction with the manufacturer. 
+
+2  Failure of Winch Brake on Air Diving Bell System 
+
+One of our members has recently reported a failure of a winch brake on an air diving bell system.  One of their vessel’s was 
+undertaking air diving work using a wet diving bell.  When the wet bell, which was deployed at deck level over the side of the 
+DSV, was awaiting the diver to enter, it went into free-fall dropping 6m in air and a further 15m in water on to the clump 
+weight.  The wet bell was unmanned, nobody was injured although the diver was within seconds of entering it. 
+
+The  subsequent  investigation  determined  that  the  wet  bell  free  fall  was  a  direct  result  of  a  failure  of  the  secondary  band 
+brake on the winch.  The fault was clearly visible as the band brake adjustable actuating rod had snapped, rendering the brake 
+totally ineffective.  The winch control position is remote from the winch, hence the operator was not aware of the impending 
+failure prior to it happening. 
+
+The primary brake on the winch, the hydraulically driven motor system, had supported the wet bell for approximately 5 or 6 
+minutes  from  the  time  the  winch  had  been  operated  and  normally  the  secondary  mechanical  brake  would  have  been 
+operational during this decay period.  Since the secondary system had failed, when the hydraulic pressure decayed beyond 
+the point that the motor would be held, the weight of the bell caused the winch to freewheel allowing the wet bell to free-fall 
+from deck level into the sea. 
+
+The  secondary  brake  is  designed  to  be  fail-safe  in  that  it  is  applied  by  spring  pressure  and  released  by  hydraulic  pressure 
+when  the  winch  is  operated.    A  hydraulic  ram  pushes  against  the  spring  to  release  the  brake.    The  ram's  linear  action  is 
+applied to a lever to increase the braking force and therefore the lever moves through an arc.  To permit the slight rotation 
+of the lever, the band brake adjustable actuating rod is connected to the lever via a hinge pin/turnbuckle type arrangement. It 
+was found that this hinge pin had become seized due to lack of lubrication and therefore had not been rotating as the brake 
+was applied and released.  This resulted in the brake band actuating rod being subjected to a bending moment as well as the 
+tensile force for which it was only designed.  This regular bending, small though it may have been, was sufficient to eventually 
+cause the 24 mm diameter threaded adjustable rod to snap due to fatigue. 
+
+The  root  cause  of  the  secondary  brake  failure  was  attributed  to  lack  of  maintenance.    Although  some  of  the  winch  band 
+brake mechanism was being lubricated on a periodic basis, two grease nipples to lubricate the turnbuckle type hinge pin were 
+both difficult to see, rather inaccessible and consequently had not been greased. 
+
+The primary brake, the hydraulic motor, “failed” after a period of 5 or 6 minutes from the time when the winch was last 
+operated.  This  failure  was  due  to  the  pressure  decay  in  the  hydraulic  system  as  all  hydraulic  motors  leak  internally.  
+The hydraulic  system  should  have  been  configured  to  include  an  accumulator  and/or  valve(s)  to  allow  hydraulic  oil,  at 
+pressure, to remain behind the motor and thus only permit the winch to creep as oil pressure decays, rather than freewheel 
+out of control. 
+
+The  company  involved  plans  to  systematically  check  all  winches  on  their  vessels  to  ensure  that  this  type  of  failure  is  not 
+repeated.  A system modification kit may need to be supplied to provide the correct control of the hydraulic motor in the 
+neutral position.  The company involved has also advised its staff to ensure that all moving brake parts of man-riding winches 
+are  properly  lubricated,  the  mechanical  braking  system  is  fully  functional  and  no  signs  of  undue  wear  or  uneven  wear  are 
+apparent on the band brake; and that these checks should be carried out on a regular basis. 
+
+3 
+
+Incident involving Oxy-acetylene cutting 
+
+One  of  our  members  has  informed  us  of  recent  incident  which  occurred  during  the  assembly  of  oxy-acetylene  cutting 
+equipment.  An internal explosion occurred and injured a Dive Tender, fortunately not seriously. 
+
+The review of the incident revealed the following: 
+
+  Oil or grease contamination in the presence of oxygen probably caused the explosion; 
+
+  A dangerous “home made” manifold of unknown origin had been used; 
+
+  Flashback arrestors were not fitted to the system; 
+
+  Regulators had been removed from the cylinders; 
+
+  The oxygen and acetylene cylinders had not been suitably segregated. 
+
+The company involved as proposed the following actions: 
+
+Safety Flash 
+
+ 
+
+  All hoses and fittings to be thoroughly checked free of oil/grease contaminants; 
+
+  Only use correct approved fittings and hoses in any pressurised gas system; 
+
+  Flashback arrestors must be fitted in the system; 
+
+  Regulators must not be removed from the cylinders; 
+
+  Oxygen and acetylene gas cylinders must be suitably segregated. 
+
+The company has also advised its staff to inspect all oxygen and acetylene cutting gear and ensure correct fixtures and fittings 
+in use. 
+
+

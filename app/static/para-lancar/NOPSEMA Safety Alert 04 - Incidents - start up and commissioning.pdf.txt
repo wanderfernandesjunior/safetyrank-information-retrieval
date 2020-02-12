@@ -1,0 +1,96 @@
+Safety Alert 04 
+
+Incidents – Start Up and Commissioning 
+
+ 
+ 
+What happened? 
+Two recent incidents during start up and commissioning activities have demonstrated the 
+importance of correct material/parts selection: 
+
+ 
+
+1.  Gasket failure – A process shutdown lead to a transient pressure surge in the pipework 
+
+which resulted in the failure of two gaskets, and a subsequent leak of hydrocarbons.  
+The release activated the facility fire and gas system, resulting in an emergency 
+shutdown.  Deluge was manually activated until the system had bled down and the 
+release was confirmed to have ceased.  There was no resultant fire or injuries. 
+
+2.  Fuel line failure – A fuel leak from a generator fuel line resulted in fuel being sprayed 
+
+onto the generator exhaust resulting in a small pool fire.  A Maintenance Engineer, 
+working in an adjacent workshop, smelt fuel and entered the generator room to 
+investigate.  He found a fuel oil mist around the generator and called the control room 
+and notified of the leak.  He then called for a ships generator to be put on line and left 
+the generator room and shutdown the generator remotely.  On his return to inspect the 
+engine, a small pool fire had started on the hot exhaust manifold covers.  The fire was 
+extinguished with a hand held extinguisher and there were no injuries. 
+
+ 
+ 
+What went wrong? 
+The incorrect installation of parts was a contributing factor in both incidents.  Investigation 
+of incident 1 found that a large number of installed gaskets did not meet the pipe 
+specification.  Two gaskets failed when exposed to an elevated pressure.  Likewise for 
+incident 2, the investigation found that incorrect hoses had been installed in a fuel supply 
+service on the generator, which consequently leaked, resulting in a fire. 
+
+Contributing factors for the two incidents included: 
+
+Failure of quality control and commissioning checks to identify the risk; 
+
+The crew were unfamiliar with detailed system specifications and there was no formal 
+handover process between construction/installation to operations; and 
+
+Commissioning checks and leak testing did not highlight the faulty parts. 
+
+ 
+
+ 
+
+• 
+
+• 
+
+• 
+
+ 
+ 
+ 
+ 
+ 
+ 
+
+NOPSA SAFETY ALERT 04 cont’d 
+ 
+Key lessons 
+While there are lessons specific to each incident, the following key lessons are common to 
+both: 
+
+•  Quality control inspections during installation and commissioning of equipment must 
+be sufficient to verify that equipment and components meet approved specifications. 
+
+•  Operators should ensure equipment suppliers provide adequate documentation and 
+
+specifications and that these are incorporated into drawings and commissioning 
+procedures. 
+
+•  Where possible, the commissioning and operations workforces should be integrated 
+
+during the facility construction phase and should both be involved in quality checks at 
+system mechanical completion. 
+
+• 
+
+The operations workforce should be engaged as early as possible in the project to 
+enhance facility and system familiarisation and awareness. 
+
+ 
+ 
+ 
+Contact 
+For further information email alerts@nopsa.gov.au and quote Alert 04 
+ 
+
+

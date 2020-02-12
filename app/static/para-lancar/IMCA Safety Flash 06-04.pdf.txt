@@ -1,0 +1,56 @@
+AB
+
+ 
+
+IMCA Safety Flash 06/04 
+
+Safety Flash 
+
+June 2004 
+
+These  flashes  summarise  key  safety  matters  and  incidents,  allowing  wider  dissemination  of  lessons  learned  from  them.    The  information  below  has  been 
+provided in good faith by members and should be reviewed individually by recipients, who will determine its relevance to their own operations. 
+
+The effectiveness of the IMCA safety flash system depends on receiving reports from members in order to pass on information and avoid repeat incidents.  
+Please consider adding the IMCA secretariat (imca@imca-int.com) to your internal distribution list for safety alerts and/or manually submitting information 
+on specific incidents you consider may be relevant.  All information will be anonymised or sanitised, as appropriate. 
+
+A  number  of  other  organisations  issue  safety  flashes  and  similar  documents  which  may  be  of  interest  to  IMCA  members.    Where  these  are  particularly 
+relevant, these may be summarised or highlighted here.  Links to known relevant websites are provided at www.imca-int.com/links   Additional links should 
+be submitted to webmaster@imca-int.com 
+
+ 
+
+1  Heave Compensation Software Anomaly 
+
+Keywords:  Lifting 
+
+A member has reported the following information relating to an incident which occurred on one of its vessels fitted with a 
+Huisman crane, which is considered important for all cranes fitted with heave compensation systems. 
+
+During  deployment  of  a  work  basket  to  the  seabed,  the  crane  whip  line  unexpectedly  paid  out  twenty  metres  of  wire.  
+This resulted in the work basket and some crane wire landing on the seabed in an uncontrolled manner.  At the time of the 
+incident, the crane was operating in heave compensation mode. 
+
+Investigations into the incident have highlighted the following situation: 
+
+  During  active  heave  compensation  operations,  most  of  the  winch  speed  capacity  is  used  to  maintain  the  hook  at  a 
+constant level in relation to the seabed.  If the crane operator chooses to raise or lower the hook whilst operating in 
+this mode and in rough sea conditions, it is possible that the winch might not provide enough speed to maintain the new 
+level position, resulting in an unexpected and unwanted movement. 
+
+In  order  to  rectify  this  situation,  the  following  software  modifications  were  carried  out  to  the  active  heave  compensation 
+system: 
+
+  The  available  hoisting  or  lowering  speed  of  the  winch  by  means  of  the  joystick  control,  whilst  in  active  heave 
+compensation  mode  was  reduced.    This  modification  ensures  that  the  active  heave  compensation  system  has  more 
+available winch speed than the operator; 
+
+  The second modification disables joystick control once a set deviation between the theoretical and actual positions of 
+the  crane  hook  is  met.    Therefore,  in  rough  sea  conditions  the  winch  will  not  follow  joystick  commands  until  it  has 
+caught up with the heave compensation requirements. 
+
+The company wishes to bring this to the attention of all crane operators’ onboard vessels to ensure that they are aware of 
+such potential failure situations. 
+
+

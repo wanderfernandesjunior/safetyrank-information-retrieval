@@ -1,0 +1,261 @@
+AB 
+
+ 
+
+IMCA Safety Flash 16/14 
+
+Safety Flash 
+
+  October 2014 
+
+These  flashes  summarise  key  safety  matters  and  incidents,  allowing  wider  dissemination  of  lessons  learnt  from  them.    The  information  below  has  been 
+provided in good faith by members and should be reviewed individually by recipients, who will determine its relevance to their own operations. 
+
+The effectiveness of the IMCA safety flash system depends on receiving reports from members in order to pass on information and avoid repeat incidents.  
+Please consider adding the IMCA secretariat (imca@imca-int.com) to your internal distribution list for safety alerts and/or manually submitting information 
+on specific incidents you consider may be relevant.  All information will be anonymised or sanitised, as appropriate. 
+
+A  number  of  other  organisations  issue  safety  flashes  and  similar  documents  which may  be  of  interest  to  IMCA  members.   Where  these  are  particularly 
+relevant, these may be summarised or highlighted here.  Links to known relevant websites are provided at www.imca-int.com/links   Additional links should 
+be submitted to webmaster@imca-int.com 
+
+ 
+
+1  Near Miss: Engine Room Flooding 
+
+A  member  has  reported  an  incident  in  which  the  engine  room  of  a  seagoing  vessel  was  flooded  to  a  level  of  two  metres 
+above tank top (to just below the engine room floor plating). Had the flooding incident lasted a few minutes longer, serious 
+machinery damage could have been the result. The incident occurred during ballasting operations, when the configuration of 
+pumping from and to ballast tanks was altered. During this process the cover plate of the sea strainer was blown off. This 
+resulted in seawater ingress into the engine room. Engine room personnel instructed the bridge officer in charge of ballasting 
+to  stop  ballasting  operations  (without  mentioning  reasons).  As  per  company  procedure,  the  overboard  suction  valve  and 
+overboard  discharge  valve  were  opened  to  ‘de-energize’  the  pumping  system.  This  worsened  the  situation  since  a  direct 
+connection between open water and engine room was created. This was noticed by engine room personnel immediately and 
+the bridge officer was instructed to close overboard valves. There was no damage and no injuries.  
+
+Figures: showing flooding (left) and cover plate of sea strainer (right) 
+
+   
+
+ 
+
+Our member’s investigation revealed the following: 
+
+♦  Root cause: malfunctioning of one of the actuators of the valves in the ballast pipelines caused the valve to close in 1.5 
+– 2 seconds (normally 15 – 20 seconds). This created a pressure shock in the ballast system. Subsequently, this pressure 
+shock caused the cover plate of the sea strainer to blow off;   
+
+♦  The  actuator  of  the  valve  which  was  closing  in  1.5  –  2  seconds  was  replaced  by  vessel  crew  in  early  2014  without 
+
+verification of the opening/closing time of the valve; 
+
+♦  Root  cause:  communication  between  engine  room  personnel  and  bridge  personnel  was  not  sufficiently  detailed;  this 
+
+resulted in incorrect actions being taken which caused a worsening of the situation;  
+
+♦  Root  cause:  ballasting  procedure  of  manufacturer  was  not  followed.  The  recommended  procedure  described  that 
+
+pump(s) should be stopped before operating valves in the ballast lines. This was not followed. 
+
+Our member learnt the following lessons: 
+
+♦ 
+
+Introduced vessel-specific procedures for ballasting and added this instruction to the official document list of vessel; 
+
+♦  Following the hierarchy of control, the company recognised it could not eliminate nor substitute the ballast process on 
+
+board. Therefore, it focused on the following engineering controls by: 
+
+− 
+
+improving visual presentation for valve operations on the bridge to emphasize valve position and open lines in the 
+ballast system 
+
+ 
+
+♦ 
+
+♦ 
+
+− 
+
+introduction of interlock system to eliminate simultaneous operations of valve(s) and pump(s). 
+
+Members may wish to refer to the following similar incidents (key words: engine, room, and flood): 
+
+IMCA SF 11/05 – Incident 3: Engine room flooding;  
+
+IMCA SF 12/13 – Incident 2: LTI: Crewman injured during opening of tanks. 
+
+2  Dropped Object Incident   
+
+A member has reported an incident in which an object of 100kg fell 2m onto a scaffold platform. The incident occurred in 
+port during the removal of a 55t tensioning mechanism from a horizontal lay system (HLS) on board a vessel.  The tensioner 
+was  pre-rigged  with  primary  rigging  to  the  main  crane  and  auxiliary  rigging  to  the  upper  side  of  the  horizontal  lay  system.  
+The  strain  was  taken  on  the  rigging  to  allow  the  unbolting  of  the  tensioner  from  the  HLS.    Once  the  bolt  removal  was 
+complete the deck foreman instructed the crane driver to take more load on the crane.  When the crane took more load on 
+the primary rigging the rigging came into contact with the product guide bars and pushed a guide bar off the horizontal lay 
+system. The guide bar weighed 100kg and fell 2m onto a scaffold platform on the HLS. There were no injuries.  
+
+ 
+
+ 
+
+Figure 1: taken after the guide bar had been pushed off the 
+
+Figure 2: guide bar 
+
+horizontal lay system 
+
+Our member was made a number of modifications to the design of the horizontal lay system, in order to prevent recurrence: 
+
+♦  Limit the requirement for auxiliary rigging to install or remove a tensioner; 
+
+♦  Fit end stops onto the guide bar slide guides to stop them being pushed off the HLS. 
+
+Our member noted that all future lift plans or procedures with respect to the HLS should ensure that the guide bars are 
+removed  before  installation/removal  of  a  tensioner,  or  securely  lashed  together  to  ensure  they  do  not  come  into  contact 
+with any rigging. 
+
+Members may wish to refer to the following similar incidents (key words: dropped object): 
+
+♦ 
+
+♦ 
+
+IMCA SF 08/11 – Incident 2: Recent near miss incidents involving potential dropped objects;  
+
+IMCA SF 06/13 – Incident 4: Near miss: dropped objects during lifting operations.  
+
+3  Near Miss: Failure of Diving Helmet Communications Module   
+
+A member has reported an incident where the communications module on a Kirby Morgan KM 37 diver’s helmet failed at 
+the interface between the threaded section and the main module. The incident occurred during a dive to 12 msw. The diver 
+was able to reduce the loss of air from his helmet by placing his hand over the partial opening and return to the surface in a 
+controlled manner. The module did not fall out of the aperture in the helmet. There were no injuries. 
+
+ 
+
+Figure: showing broken helmet communications module 
+
+Our member’s investigation revealed the following: 
+
+♦  The module had never been removed from the helmet; 
+
+♦  The helmet had been in storage for several years since purchase with minimal use; 
+
+♦  Water temperature was less than 2°C; Depth: 12 msw; 
+
+♦  No tool marks were found on the securing nut to suggest over tightening. 
+
+ 
+
+The  failed  module  was  sent  to  the  supplier  for  inspection  and  analysis.  The  supplier  inspected  the  part  and  performed  in-
+house  testing  of  off  the  shelf  inventory  overstressing  at  worst  case  levels.    It  was  reported  the  parts  withstood  extreme 
+stress tests at elevated and sub-freezing temperatures and passed all inspection criteria.  The supplier found that failure of the 
+module appeared to be an isolated case and referred the member to Kirby Morgan Bulletin #1 of 2009. 
+
+The following actions were taken: 
+
+hand; 
+
+♦  Supplier  would  include,  in  checklists,  that  the  module  should  be  regularly  loosened  and  retightened  during  checks,  by 
+
+♦ 
+
+Inspection of all such communications modules - none found with potential failure indications, even in older helmets in 
+more frequent use; 
+
+♦  A recommended inspection/check process was initiated. 
+
+4  Near Miss: Incident Involving Dry Bulk Pressure System 
+
+The Marine Safety Forum has published the following safety flash regarding a near miss or potential incident involving control 
+of work whilst carrying out live tests on a pressurised dry bulk cargo systems on board a vessel; this resulted in a ‘Stop the 
+Job’ intervention. Whilst there were no injuries or damage caused, given that pressure vessels were involved, the potential 
+was high.  
+
+It was found that the root cause was lack of adequate control of work, and that lack of communication between the engine 
+room and bridge staff was a contributory factor. 
+
+The safety flash can be downloaded from www.marinesafetyforum.org/upload-files//safetyalerts/msf-safety-flash-14.35.pdf.    
+
+Members may wish to refer to the following similar incidents (key words: dry, bulk, pressure): 
+
+♦ 
+
+♦ 
+
+IMCA SF 09/12 – Incident 2: Near miss: cement tank hatch failure; 
+
+IMCA SF 01/04 – Incident 3: Near-miss during connector pressure tests. 
+
+ 
+5  Ruptured Hydraulic Hoses   
+
+A  member  has  reported  an  incident  involving  the  rupturing  of  a  pair  of  hydraulic  hoses  on  a  vessel  crane.  The  incident 
+occurred during a port call when the mid-ship crane was being used to move packaging from the main reel area to the deck. 
+A hydraulic hose ruptured and oil was spilt to the main deck below. The majority of the hydraulic oil (20 litres) landed on the 
+deck but approximately 500 ml of oil went into the sea.  
+
+An  ‘all  stop’  was  initiated  and  the  spill  on  deck  was  immediately  cleared  up  using  a    Ship  Oil  Pollution  Emergency  Plan 
+(SOPEP) kit. The following day another hose ruptured in a similar location and all oil was contained on deck. The relevant 
+authorities were notified. 
+
+Figures: showing damaged hoses (upper red arrow on left image indicates ruptured area) 
+
+  
+
+ 
+
+Our members’ investigation revealed the following: 
+
+♦  The ruptured hoses were badly corroded;  
+
+♦  The design or assembly of the hydraulic fittings had allowed water to accumulate around the neck of the fittings;  
+
+♦  The collection of water had eroded parts of the hoses resulting in the ruptures; 
+
+♦  Other hoses onboard were found to be in a similar state; 
+
+♦  The inspection of the vessel crane hydraulic hoses was conducted by vessel crew and a third-party contractor. The most 
+recent inspection had taken place four months previous to the incidents occurring.  It was found the crew and the third 
+party inspection team had not removed the ‘denso’ tape wrapped around the hose fittings, thus the corrosion was not 
+visible; 
+
+♦ 
+
+It  was  apparent  that  the  corrosion  on  the  hoses  had  occurred  over  a  long  period  of  time  and  this  should  have  been 
+spotted by the inspection by vessel crew and contractor, and noted in their report. 
+
+Our member immediately replaced the badly corroded hoses and undertook an investigation to ascertain why the contractor 
+and  crew had not identified the corrosion during the previous inspection. It was found the ‘denso’ tape was not removed 
+from hose fittings during these inspections and as a result the corrosion was not visible.  Removal of ‘denso’ tape from hose 
+fittings is now required for all future inspections. 
+
+Members may wish to refer to the following similar incidents (key words: hydraulic, hose, rupture): 
+
+IMCA SF 05/05 – Incident 2: Pollution caused by burst hydraulic hose; 
+
+IMCA SF 11/14 – Incident 5: Hydraulic hose failure caused collapse of heavy haulage trailer. 
+
+Injured Party Struck by Tugger Wire Assembly 
+
+The  Marine  Safety  Forum  has  published  the  following  safety  flash  regarding  an  incident  in  which  someone  was  struck  by  a 
+tugger  wire  assembly,  requiring  subsequent  hospitalisation.  The  incident  occurred  when  a  vessel  was  deploying  a  15  Te 
+anchor during a pre-lay operation. The rigging assembly parted and both tugger wires recoiled around the cargo barrier. The 
+injured person was struck on the head and suffered head injuries. 
+
+♦ 
+
+♦ 
+
+6 
+
+ 
+The root causes of the incident lay in failure to properly identify and assess the risks of the particular task. 
+
+The safety flash can be downloaded from www.marinesafetyforum.org/upload-files//safetyalerts/msf-safety-flash-14.34.pdf.  
+
+

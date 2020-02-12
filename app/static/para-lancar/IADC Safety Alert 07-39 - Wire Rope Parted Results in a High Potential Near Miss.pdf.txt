@@ -1,0 +1,69 @@
+Safety Alert 
+
+        From the International Association of Drilling Contractors 
+
+ 
+ALERT 07 – 39 
+ 
+
+WIRE ROPE PARTED RESULTS IN A  
+
+HIGH POTENTIAL NEAR MISS 
+
+ 
+WHAT HAPPENED: 
+ 
+While racking back a stand of 6-1/2" drill collars, the winch line used at the monkey board to rack the drill 
+collars parted.  This allowed the collar to swing into the back of the derrick and in the process struck the rig 
+tong cable sheave bracket.  After the Driller began lowering the blocks the bracket itself dropped to the rig 
+floor from approximately 20 meters (66 feet).  The vibration from the derrick aided in breaking the remainder 
+of the bracket weld off.  No one was aware of this until the bracket actually fell.  No personnel were injured.  
+The bracket fell approximately 2 meters (6.6 feet) from one a floormen. 
+ 
+WHAT CAUSED IT: 
+ 
+•  The Derrickman needs to remain alert while watching the winch line.  
+•  Winch line was in bad condition.   
+•  OEM welds on the sheave bracket were of poor quality.   
+•  No safety lines were installed on the sheave.   
+•  There  was  no  proper  way  of  rigging  up  safety  lines  on  sheaves,  ie,  no  pad  eyes  or  holes  to  place  a 
+
+safety sling through at the time. 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+CORRECTIVE ACTIONS:  To address this incident, this company did the following: 
+ 
+•  Repairs to the bracket will be made as soon as possible depending on the rig operating schedule.   
+•  Safety sling on Driller’s side bracket installed temporarily until pad eyes or holes can be completed. 
+•  Weld a pad eye on each sheave bracket to allow for proper rigging up of a safety sling, or drill holes in 
+
+the brackets to accommodate a safety sling. 
+
+•  Engineering (modification) requests are to be submitted for any alterations to be completed on sheave 
+
+brackets to install safety cables. 
+
+•  Crew must keep Job Safety Analysis (JSAs) current.  
+•  Crew Safety Meetings will be scheduled to review serious incidents such as this. 
+ 
+
+The Corrective Actions stated in this alert are one company’s attempts to address the incident,  
+
+and do not necessarily reflect the position of IADC or the IADC HSE Committee. 
+
+This material is presented for information purposes only.  Managers & Supervisors should 
+
+evaluate this information to determine if it can be applied to their own situations and practices 
+
+Copyright © 2005 International Association of Drilling Contractors All rights reserved. 
+
+Issued December 2007 
+
+

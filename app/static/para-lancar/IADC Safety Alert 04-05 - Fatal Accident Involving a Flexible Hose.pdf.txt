@@ -1,0 +1,106 @@
+ 
+
+ 
+
+ 
+
+Safety Alert 
+
+From the International Association of Drilling Contractors 
+
+ 
+ALERT 04 – 05 
+
+WHAT HAPPENED: 
+
+FATAL ACCIDENT INVOLVING A FLEXIBLE HOSE 
+
+ 
+A  supply  boat  crewman  was  struck  on  the  head  by  a  flexible  hose  during  pressure  venting  after  transfer  of  bulk  drilling  chemicals.  
+Transfer  of  bulk  drilling  chemicals  used  compressed  air  at  a  low  pressure.    On  transfer  completion,  instructions  were  given  to  close  all 
+valves, purge and depressurize the transfer lines and disconnect the bulk transfer hose.  The 4" diameter flexible vent hose was lowered 
+over the starboard side of the vessel into the sea to prevent dust clouds during venting.  To keep the hose submerged an old valve and 
+ballast chain had been secured to its outboard end.  A length of rope was tied between the outboard hose end and the vessel rail to allow 
+for hose recovery, leaving about a 4m (13.2 feet) arc of movement between secured points.  
+ 
+
+ 
+
+ 
+Upon opening the vent valve in the engine room there was a sudden release of compressed air causing the vent hose to whip out of the 
+sea onto the deck of the vessel.   
+ 
+
+ 
+
+WHAT CAUSED IT: 
+
+ 
+1.  An uncontrolled release of pressure resulted when the vent valves on the vessel were opened in the wrong sequence.  There were 
+
+no detailed written procedures for the venting process. 
+
+2.  The hose was able to whip out of the sea onto the deck because: 
+
+The hose was not adequately secured to prevent it whipping onto deck. 
+Ballast was insufficient to prevent the hose whipping, and acted as a club striking the victim. 
+(Note: use of ballast to weigh down a flexible hose is not a safe practice in any case) 
+No detailed procedure existed for securing the end of the hose. 
+Previous incidents of hoses whipping had been reported in the supply boat fleet but not acted on by fleet management. 
+
+3.  Root Cause – Position of the crewman in a dangerous location due to: 
+
+Crewman apparently ignoring a verbal instruction to clear the area before venting. 
+Possible lack of attention.  The crewman had been at sea for 8 months and it was the end of his shift. 
+Poor  supervision  and  communications.    The  supervisor  was  in  the  engine  room  to  operate  the  final  vent  valve.    If  the  valve 
+operating sequence had been different, a valve on the upper deck could have been opened last.  The deck can be seen from 
+this location. 
+
+• 
+• 
+
+• 
+• 
+
+• 
+• 
+• 
+
+Lack of crew training resulted in a lack of safety awareness among the crew individually and generally.   
+
+4. 
+5.  No specific safety management system for the boat was documented. 
+6. 
+7.  Chartering of the supply boat in spite of a negative technical inspection. 
+
+Lack of job safety analysis. 
+
+CORRECTIVE ACTIONS:  To address this incident, this company issued the following recommendations to 
+prevent recurrence: 
+
+ 
+1.  Venting operations should be subject to risk assessment (Job Safety Analysis) 
+2.  Ensure that hose venting and disconnection procedures are in place and followed.  They should be detailed, contain drawings and 
+
+describe specific safety precautions required.  Results of JSA can be used to prepare procedures. 
+
+3.  The boats should have a Safety Management System that complies with company’s marine specifications. 
+4.  Crew safety awareness should be of an adequate standard meaning a training program must be provided. 
+5.  Subsidiaries should comply with Headquarters policies for contracted services. 
+ 
+
+IADC Note:  Thanks to the Marine Safety Forum for sharing this alert with the industry.   
+
+The Corrective Actions stated in this alert are one company’s attempts to address the incident, and do not 
+
+necessarily reflect the position of IADC or the IADC HSE Committee. 
+
+This material is presented for information purposes only.  Managers & Supervisors should  
+
+evaluate this information to determine if it can be applied to their own situations and practices. 
+
+Copyright © 2004 International Association of Drilling Contractors.  All Rights Reserved 
+
+Issued January 2004 
+
+

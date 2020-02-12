@@ -1,0 +1,285 @@
+ 
+ 
+U.S. Department of the Interior 
+Bureau of Ocean Energy Management, 
+Regulation and Enforcement 
+Gulf of Mexico OCS Region 
+ 
+
+Safety 
+Alert 
+
+Contact:  Russell Hoshman 
+(504) 736-2627 
+
+BOEMRE 
+
+Safety Alert No. 296 
+12 May 2011 
+ 
+
+Catastrophic Failures in Mooring Systems 
+
+Possibly Put Floating Structures at Risk 
+
+
+ 
+
+ 
+In early 2011, a single point mooring system for a deepwater Gulf of Mexico (GOM) project failed at the 
+tether chain for a free-standing hybrid riser, allowing the buoyancy air can and the free-standing flowline 
+riser to separate. The 440-ton buoyancy air can rose suddenly to the surface while the free standing riser 
+collapsed. Based on the investigation of this event and a review of historical events, BOEMRE is revising 
+and re-issuing Safety Alert #259. 
+ 
+
+ 
+
+ 
+Failed Chain Link 
+
+ 
+
+ 
+The investigation determined that a 6 ¾-inch diameter, 862-pound chain link in the tether chain had 
+fractured and separated near its butt weld.  Analysis of the fracture indicated that the chain link had a 
+weld repair and the fracture initiated in the middle of the weld.  Three links of the 24-link tether chain 
+were found to have weld repairs.  After the chain had been heat treated, the non-US based manufacturer 
+had made weld repairs to the chain by grinding defects and filling the void with weld material.  The chain 
+was being built in accordance with Det Norske Veritas (DNV) Offshore Mooring Chain standard.  Post 
+heat treat weld repairs are disallowed per DNV’s Offshore Mooring Chain standard.  The post heat treat 
+weld repairs made the chain susceptible to hydrogen induced stress cracking due to the extreme hardness 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+of the weld material and the residual stress within the weld.  
+
+   
+As indicated in Safety Alert #259, issued January 16, 2008, catastrophic failure occurred in a portion of 
+
+an anchoring system in two other separate incidents.  One component failed on 
+a system in the GOM.  The other was found during installation to be defective 
+after a similar component failed overseas.  
+ 
+Incident No. 1: A one-ton, 8+ inch-diameter shackle connecting a mooring 
+system to anchoring pilings failed on an overseas floating production facility. 
+Subsequently, an identical shackle scheduled to be used in a deepwater GOM 
+production facility also failed catastrophically under test loads below 
+specifications.  Operator reviews of the manufacturing and testing procedure 
+and additional material testing indicated that all of the shackles were possibly 
+ 
+defective. 
+ 
+Because anchor pilings with shackles attached had already been driven, the 
+GOM test failure required new shackles to be manufactured, new pilings 
+installed and the replacement of portions of the mooring systems that could not 
+ 
+be recovered. Production start-up of the facility has been delayed by at least 
+one year. 
+ 
+Incident No. 2: Two sockets in a mooring system for a MODU failed under 
+moderate loading. Testing of the remaining sockets found that others were also 
+defective and a number of them failed catastrophically at less than 
+specification loading. 
+ 
+The BOEMRE and the USCG 8th District concluded the following:  
+ 
+ 
+	 
+
+In both cases the manufacturing procedures are thought to have been 
+defective. Heat treating after casting apparently resulted in a metal 
+unable to meet “Charpy” standards for material “toughness.”  
+In both cases, the Operator’s and/or manufacturer’s specifications for 
+the items were either out of date or inadequate. 
+In both cases the Operator’s material testing requirements were either 
+not followed, or were not adequate to insure specifications were met. 
+ 
+ 
+	  Material handling during installation may have exposed the equipment 
+     to potential critical damage. 
+ 
+ 
+ 
+The BOEMRE recommends the following:  
+ 
+ 
+	  Operators should review their specifications requirements to insure testing and manufacturing 
+
+ 
+	 
+
+ 
+	 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+produces a product that will meet the usage demands. 
+
+ 
+	  Operators should include sufficient Charpy testing requirements in the specifications to insure the 
+
+ 
+
+ 
+
+ 
+
+materials and manufacturing process will produce a product of sufficient toughness.  
+
+ 
+	  Operators should review their requirements for both destructive and non-destructive testing of 
+ 
+
+ 
+
+ 
+
+critical elements.  Operators should insure their test coupons are properly representative.  
+
+ 
+
+ 
+
+ 
+	  Operators should review their requirements for equipment inspection and handling to insure no 
+ 
+
+ 
+
+damaging techniques are employed in transportation or installation.  
+
+ 
+Subsequent to the 2011 incident, the following recommendations are added: 
+
+Failed Mooring Socket 
+
+ 
+	  Operators should monitor and inspect critical mooring components 100% of the time during the 
+
+ 
+
+manufacturing process.  
+
+ 
+	  Operators should ensure that the personnel and companies contracted to perform inspections and 
+
+ 
+
+quality assurance of critical mooring components are qualified to do so.  
+
+ 
+
+ 
+
+ 
+	  Operators should treat the area above a buoyancy air can for a free-standing hybrid riser as 
+
+ 
+
+ 
+
+potentially hazardous. No floating production facility or support vessel should be allowed to pass over 
+a free-standing hybrid riser. 
+
+--BOEMRE--GOMR--
+www.gomr.boemre.gov 
+ 
+
+ 
+
+ 
+A Safety Alert is a tool used by BOEMRE to inform the offshore oil and 
+gas industry of the circumstances surrounding an accident or a near miss. It also 
+contains recommendations that should help prevent the recurrence of such an 
+incident on the Outer Continental Shelf. 
+ 
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+
+

@@ -1,0 +1,134 @@
+Safety Alert 15 
+
+Broken Arm while using Drill Press 
+
+ 
+
+An offshore employee was using a drill press to drill holes into steel plate and was in the process of 
+changing  out  a  drill  bit.    While  the  operator  was  loosening  the  chuck  with  a  chuck  key,  his  foot 
+inadvertently made contact with the foot operated pedal which started the machine.  The chuck key 
+caught  the  operator’s  glove  as  it  rotated  and  pulled  the  operator’s  wrist  and  forearm  around  the 
+chuck  spindle.    A  co-worker  in  the  workshop  stopped  the  machine  by  depressing  the  drill’s 
+emergency stop button.  The operator sustained an open fracture forearm injury. 
+
+ 
+What happened? 
+
+ 
+What went wrong: 
+
+The drill press was configured with a mushroom type emergency stop, as well as a foot operated 
+switch which was configured to act as a stop/start switch (press pedal to start and release pedal to 
+stop). 
+
+•  While the operator was using the chuck key to loosen the drill bit, his foot made momentary 
+
+contact with the foot switch and the machine started. 
+
+As the operators arm was pulled into the machine, the operator was unable to react in time to 
+activate the mushroom type emergency stop button. 
+
+The  replacement  drill  bit  was  being  changed,  without  effectively  electrically  isolating  the  drill 
+press. 
+
+The  drill  press  was  not  fitted  with  any  electrical  interlocking  system,  to  prevent  single  point 
+inadvertent operation. 
+
+The drill press did not have any directions for operation or warning signs posted to it. 
+
+ 
+Key lessons: 
+
+An effective means to electrically isolate the drill press should be implemented before making 
+any maintenance or routine adjustments (such as drill bit changes, securing work, or changing 
+pulleys for drill speed adjustments). 
+
+Inadvertent  starting  of  the  machine  should  be  designed  out  of  the  system  (in  this  case  by 
+configuring the foot switch as a ‘dead-man switch’, interlocked with a start push button). 
+
+The machine should be fitted with an effective clearly marked emergency stop system. 
+
+Operating instructions and warning signs should be posted on the machine. 
+
+ 
+Recommendations: 
+
+The following recommendations are applicable to all workshop electrical machines. 
+
+The  machines  operation  and  emergency  stopping  should  be  reviewed  to  ensure  safe 
+operation in both routine and emergency conditions.   
+
+The review should consider any workshop situations where an operator can be working alone, 
+verifying the effectiveness of the emergency stop arrangement. 
+
+ 
+
+• 
+
+• 
+
+• 
+
+• 
+
+• 
+
+• 
+
+• 
+
+• 
+
+• 
+
+• 
+
+ 
+
+References: 
+
+ - AS 60204.1 – 2005 (incorporating Amendment No. 1)  
+
+Safety of machinery – Electrical equipment machines 
+
+ 
+
+- AS/NZS 3947:2000 
+
+Low-voltage switchgear and controlgear 
+
+ - ISO 13850:2006 
+
+Safety of machinery – Emergency stop – Principles of design 
+
+ 
+Contact for further information: 
+
+For further information email alerts@nopsa.gov.au and quote Alert 15. 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+

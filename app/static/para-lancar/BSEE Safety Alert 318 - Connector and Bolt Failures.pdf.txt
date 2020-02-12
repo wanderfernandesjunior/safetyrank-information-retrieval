@@ -1,0 +1,93 @@
+ 
+12 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Safety Alert No. 318 
+02 February 2016 
+ 
+ 
+
+ 
+
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+Contact: Douglas Morris 
+Phone: (202) 208-3974 
+Email: Douglas.Morris@bsee.gov 
+
+Connector and Bolt Failures 
+
+ 
+ 
+ 
+
+ 
+
+Overview:  BSEE is aware of a recurring problem of connector and bolt failures in various components 
+used in risers and subsea blowout preventers used in offshore operations. These failures are of great 
+concern to BSEE due to their frequency and the potential for a catastrophic event. A previous occurrence 
+of bolt failures in December 2012 prompted a global recall of the bolts associated and a temporary 
+cessation of drilling activities. The fact that these failures involved equipment from the three primary 
+manufacturers suggests that this may be a systemic industry problem that requires immediate attention. 
+  
+Recommendations: At a minimum, operators should work with the original equipment manufacturer 
+(OEM) to: 
+ 
+
+•  Verify that there is complete documentation that demonstrates that all components that are 
+currently in service satisfy the metallurgical properties specified by the OEM and the latest 
+industry standards. 
+
+ 
+
+•  Verify that all installation and maintenance procedures (including torque processes and values) 
+
+satisfy OEM requirements and ensure that these practices are effectively implemented. 
+ 
+
+•  Report any failures to OEMs and appropriate industry organizations in a timely manner to ensure 
+
+the prompt transmission of relevant data to the industry. 
+
+ 
+BSEE is continuing to work with various organizations to evaluate these failures and determine if 
+additional long-term action is needed to prevent additional failures.  Additional information will be 
+provided as it becomes available on bsee.gov/bolts. 
+ 
+  
+
+A Safety Alert is a tool used by BSEE to inform the offshore oil and gas industry of the 
+circumstances surrounding an accident or a near miss.  It also contains recommendations that 
+should help prevent the recurrence of such an incident on the Outer Continental Shelf. 
+                                                           
+1  
+2  
+
+

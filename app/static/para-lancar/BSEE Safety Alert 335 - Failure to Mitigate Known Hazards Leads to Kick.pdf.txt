@@ -1,0 +1,115 @@
+ 
+
+SAFETY ALERT 
+ 
+
+Safety Alert No. 335 
+14 May 2018  
+
+ 
+
+ 
+ 
+
+ 
+ 
+
+ Failure to Mitigate Known Hazards Leads to Kick 
+
+                         Contact: Jason Mathews  
+ 
+         Phone: (504) 731-1496 
+
+ 
+
+ 
+
+ 
+
+ 
+
+On November 12, 2017, a platform rig was performing abandonment work when the rig 
+encountered pressure below a bridge plug during a milling operation. This pressure 
+propelled the work string out of the hole, causing damage to the drill pipe, derrick, and top 
+drive. This failure allowed for potential catastrophic consequences to personnel and the 
+environment.  
+
+ 
+ 
+
+       
+
+                           
+
+ 
+
+ 
+
+Buckled pipe leans against rotary table (left) and derrick (right) after being ejected from well 
+
+ 
+ 
+The abandonment operation included drilling out a surface plug, removing the 
+intermediate casing to 1000', and setting an intermediate plug and surface plug. After the 
+surface plug was set, the well would then be permanently abandoned by cutting and 
+pulling the remaining casings at least 15' below the mudline.  
+ 
+The incident occurred while milling out the 9-5/8” bridge plug after drilling through the 
+surface cement plug as part of abandonment operations. The bridge plug was being 
+milled using a mud motor with the annular preventer in the closed position and flow being 
+taken through the open choke. After milling three inches of the bridge plug, the pressure 
+below the bridge plug rapidly forced the bridge plug and drill string 15 ft. out of the hole; 
+buckling the pipe and causing extensive damage to the top drive and derrick. Following 
+the incident, the pumps were immediately stopped and a flow check was performed. With 
+confirmation that the well was not flowing, the crew shut down operations to evaluate the 
+situation.  
+ 
+The incident investigation found the immediate cause to be pressure below the bridge 
+plug, which exceeded the weight of the work string, consequently forcing the pipe out of 
+the hole. There were multiple contributing factors that could have prevented the incident 
+from occurring:  
+
+ 
+
+-  A pre-job assessment was completed and presented during the program kickoff 
+
+meeting. Despite identifying the risk of gas beneath the bridge plug, a pilot mill to 
+mitigate the risk was not used.  
+
+-  Uncertainty around milling large bridge plugs at shallow depths, as well as 
+
+encountering gas below bridge plugs were discussed at the pre-spud meeting, yet 
+no mitigation techniques were included in the well program or communicated to the 
+field outside of being aware of the possible hazard. 
+
+-  The Job Safety Analysis recognized possible hazards related to gas below the 
+
+plug, yet no recommendations were provided to eliminate or reduce the likelihood 
+of these potential hazards. 
+
+ 
+ 
+ 
+ Therefore, BSEE recommends that operators consider the following options:  
+ 
+
+  Ensure that completed hazards analysis and mitigations for the recognized 
+
+hazards are communicated to the personnel conducting the operation.  
+
+  Reinforce with personnel that a Job Safety Analysis should not only identify 
+
+potential hazards, but should provide mitigations to reduce or eliminate the risks 
+identified.  
+
+  Employ methods to identify and safely relieve trapped pressure on the backside of 
+
+any well barriers prior to releasing a barrier latching mechanism or slips. 
+
+A Safety Alert is a tool used by BSEE to inform the offshore oil and gas industry of the 
+circumstances surrounding an accident or near miss. It also contains recommendations 
+that should help prevent the recurrence of such an incident on the Outer Continental 
+Shelf.  
+ 
+
+

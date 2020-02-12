@@ -1,0 +1,70 @@
+Safety Alert 
+
+        From the International Association of Drilling Contractors 
+
+ 
+ALERT 06 – 32 
+ 
+
+RESIDUAL PRESSURE IN BOP RESULTS IN FINGER BEING TRAPPED 
+
+ 
+WHAT HAPPENED: 
+ 
+The IP was assisting in the operation to close the BOP doors.  As the door was closing the gasket slipped.  
+The IP gave the signal to stop closing the door via radio to stop.  On hearing the signal the Toolpusher at the 
+control panel, put the control lever to the stop position. 
+ 
+Due to the residual pressure in the control lines, the BOP door continued to close for a few seconds.  During 
+this time the Injured Person placed his hand between the BOP door and the BOP body in order to replace 
+the gasket.  The closing door trapped the IP’s hand between the BOP door and body.  The IP was examined 
+by the rig doctor and it was decided to send him to a hospital for further examination and precautionary x-ray. 
+ 
+No broken bones or muscle damage were sustained and the IP returned to full duty.  The case was classified 
+as an MTO.  
+ 
+WHAT CAUSED IT: 
+ 
+• 
+•  Failure to recognize the hazard. 
+•  Poor supervision of task. 
+•  Poor knowledge of the system. 
+ 
+CORRECTIVE ACTIONS:  To address this incident, this company did the following: 
+ 
+•  Operation was stopped and a Safety meeting held before re starting the task.  
+• 
+ 
+Action to Prevent Reoccurrence:  
+ 
+•  Hand and Finger injury prevention campaign put underway. 
+ 
+Lessons Learned:    
+ 
+•  When using hydraulic or pressured systems the equipment may continue to move even after the control 
+
+JSA was revised to include the residual pressure hazard. 
+
+IP had been newly promoted to Assistant Driller. 
+
+lever has been closed. 
+
+•  Make sure that only experienced personnel are involved in these tasks. When this is not possible then a 
+
+senior supervisor must be in present for careful oversight. 
+
+ 
+
+The Corrective Actions stated in this alert are one company’s attempts to address the incident,  
+
+and do not necessarily reflect the position of IADC or the IADC HSE Committee. 
+
+This material is presented for information purposes only.  Managers & Supervisors should 
+
+evaluate this information to determine if it can be applied to their own situations and practices 
+
+Copyright © 2005 International Association of Drilling Contractors All rights reserved. 
+
+Issued September 2006 
+
+

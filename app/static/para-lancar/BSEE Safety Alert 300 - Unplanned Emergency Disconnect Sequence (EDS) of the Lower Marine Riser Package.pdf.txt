@@ -1,0 +1,181 @@
+ 
+ 
+U.S. Department of the Interior 
+Bureau of Safety and   
+Environmental Enforcement 
+Gulf of Mexico OCS Region 
+
+Safety 
+Alert 
+
+Contact:  Glynn T. Breaux 
+(504) 736-2560 
+
+BSEE 
+
+Safety Alert No. 300 
+09 March 2012 
+ 
+
+Unplanned Emergency Disconnect Sequence (EDS) of the Lower Marine Riser Package  
+
+ 
+While the rig employees were troubleshooting a network issue on the Driller’s Blowout Preventer (BOP) 
+control panel of an ultra-deepwater semisubmersible drilling rig, an unplanned EDS occurred.  The EDS 
+of the deepwater well resulted in: 1) closing of the casing shear rams on electric line being used for 
+logging and 2) closing of the blind shear rams  and a disconnect of the Lower Marine Riser Package 
+(LMRP) from the BOPs.  The wellbore was cased with no perforations and had been successfully positive 
+and negative pressure tested.  Subsequent to shear ram  activation, a non-radioactive logging tool was 
+dropped into the well, with approximately 849 bbl of  9.0 ppg calcium chloride completion fluid released 
+into the Gulf waters from the riser and boost line valves that failed in the open position.  The LMRP was 
+re-latched to the BOP stack, a storm packer was installed and another negative test was successfully 
+performed before the BOP stack was pulled back to the surface for diagnostics and repairs.  No sheen was 
+observed due to the loss of the completion fluid, and the electric line and tool will be recovered when the 
+well is re-entered. 
+ 
+A BSEE investigation revealed the following: 
+ 
+
+In the six (6) hours leading up to the unplanned event, there was an intermittent loss of 
+communication between the Driller’s BOP control panel Nodes 7 and 8 via both Network’s 1 and 
+2 with the Central Computer (CCU).  The visual red alarm/alerts in the background touch screen 
+interface were very short in time spans; however, the visual alarms  would display after the 
+Driller’s BOP control panel was off network for a continual duration of 30 seconds.  In all cases, 
+network errors and communication losses were intermittently cycling with an increasing 
+frequency and did not result in the EDS occurrence.   
+
+  One unsuccessful attempt was made to recycle power to both Nodes 7 and 8 of the Driller’s 
+
+control panel in an effort to eliminate the communication losses.  Subsequent to recycling, the 
+Driller’s BOP control panel was opened and entered by the drilling contractor’s Senior Subsea  
+Engineer, Chief and rig Electricians in order to determine the cause of the loss of 
+communications.  It was during this period when the EDS incident occurred from the Driller’s 
+panel. 
+A Job Safety Analysis (JSA) was not performed prior to entering the Driller’s panel, and the 
+Offshore Installation Manager (OIM) was not aware of the troubleshooting operation inside the 
+Driller’s BOP control panel; he was only made aware that the power would be recycled.   
+
+ 
+
+  A GE/Hydril Bulletin EB11-011 dated 8 December 2011 indicates that the PCI Digital I/O 
+
+1930248-01 should have been replaced with board 3149494 to eliminate the nodes and networks 
+from  working offline; however, as outlined above, the nodes and networks did not directly  
+contribute to the EDS.  These boards should be changed out in the following panels: Processor 
+Array Cabinet (Blue and Yellow), HPU Interface Panel, HPTU Interface Panel, Diverter Interface 
+
+ 
+
+
+
+ 
+
+Panel and the Driller’s Panel with I/O boards; the Driller’s panel is where the disconnect took 
+place.  
+
+  A GE/Hydril Engineering Bulletin EB11-004 dated 3 August 2011 addresses that an accidental 
+
+EDS activation can occur if the ribbon cable (P/N 1930050-01) was to become disconnected 
+while the system is powered up or in the operating mode.   
+
+  On 13 December 2011 the drilling contractor received a copy of GE/Hydril Bulletin EB11-011 
+
+which cautioned that a voltage disruption to the digital board or disconnection of the ribbon cable 
+and/or Molex connectors could result in  actuation of the EDS.  The Bulletin also states that if 
+service is required to the panel, disconnection from the power source is required.  
+
+  The EDS occurred by the rig Electricians not disconnecting the power source before performing 
+
+troubleshooting operations, resulting in a reduced voltage drop across the Solid State Relay (SSR) 
+board when the power source line was disrupted or the communication ribbon cable was moved.   
+
+  Two Media Converter Switches located inside the Driller’s BOP control panel caused the 
+
+network disruptions leading to the alarms/red flashing background on the panel screen.  The 
+faulty switches and the Driller’s BOP control panel being offline did not cause the EDS.  
+
+  Both Media Boards and faulty Media Converter Switches associated with Networks 1 and 2 were 
+
+ 
+
+replaced during BOP stack retrieval, resulting in once again all Networks and Nodes working 
+properly.  
+It was determined from GE/Hydril that this is the third occurrence of this kind associated with  
+this particular type of Solid State Relay board; the first occurrence was at a rig shipyard in 
+October 2011, and the second in December 2011 while in the field overseas.    
+
+ 
+The BSEE recommends to the Lessees, Operators and their contractors that: 
+ 
+
+  All rigs adhere to the guidelines outlined in the GE/Hydril Engineering Bulletins EB11-011 and 
+
+EB 11-004.  
+
+  A formal written JSA must be completed and discussed prior to performing work in the Driller’s 
+
+BOP control panel in order to provide an opportunity to perform the potential hazard analyses 
+associated with the tasks; including present status of wellbore conditions and operations.  Only  
+then can the risks associated with the tasks be reduced to As Low as Reasonably  Practicable 
+(ALARP).   It is not the JSA Form  alone that enhances safety on the job, but rather the process  
+the JSA represents.  
+
+  Chain of command must be implemented at all times and the OIM consulted prior to 
+
+
+troubleshooting critical BOP control equipment. 
+
+
+  Troubleshooting of the Driller’s BOP control panel must be performed while the panel is 
+
+disconnected from the power source or according to the manufacturer’s recommendations. 
+
+  The rig installation of a ribbon cable bracket to prevent any disconnection of the I/O board and 
+
+resulting EDS activation. 
+
+ 
+ 
+
+ 
+  
+
+ 
+
+www.bsee.gov/Regulations-and-Guidance/Safety-Alerts.aspx  
+
+--BSEE--GOMR--
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+A Safety Alert is a tool used by BSEE to inform the offshore oil and gas 
+industry of the circumstances surrounding an accident or a near miss.  It also 
+contains recommendations that should help prevent the recurrence of such 
+an incident on the Outer Continental Shelf. 
+
+

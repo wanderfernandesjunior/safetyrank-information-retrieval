@@ -1,0 +1,64 @@
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+May 15, 1999(reformatted 2014) 
+Washington, DC 
+
+ 
+
+         Inspections and Compliance Directorate 
+
+FLAMELESS RATION HEATERS 
+
+ 
+
+      Safety Alert 01-01 
+ 
+
+Situation:  Flameless  Ration  Heaters  (FRH)  stowed  onboard  several  Military  Sealift  Command 
+(MSC) vessels have been identified as the source of elevated hydrogen gas (H2) concentrations in 
+containers and cargo hold spaces. In most instances H2 gas elevations are barely detectable but 
+in isolated cases the levels inside closed containers have entered the explosive range. One such 
+container recently broke into flames on the pier after being opened and prepared for unloading.  
+
+Background:  Subject  units  are  water  activated  devices  for  warming  military  Meals,  Ready-to  Eat 
+(MRE).  FRHs  contain  magnesium-iron  alloy  (Mg-Fe)  and  other  powdered  ingredients  in  flat  High 
+Density  Polyethylene  (HDPE)  pouch.  The  exothermic  chemical  reaction  which  warms  the  meals, 
+produces hydrogen gas as a by-product. The addition of water is ordinarily required to cause the 
+reaction  to  proceed.  However,  atmospheric  moisture  may  be  capable  of  penetrating  the  HDPE, 
+causing  a  low  grade  reaction  and  the  evolution  of  H2  gas.  The  production  of  a  flammable 
+atmosphere is very slow but H2 concentrations may occur inside containers and in upper reaches 
+of holds where pockets of gas may be held.  
+
+FRH  units  are  usually  packed  together  with  the  MREs,  inside  the  individual  menu  bags.  On  one 
+ship,  all  FRHs  were  removed  from  the  MREs  and  stowed  in  refrigerated  containers  on  the  open 
+deck.  While  this  method  of  stowage  removed  the  H2  gas  generating  problem  from  the  holds,  it 
+concentrated  the  production  of  gas  within  the  on-deck  containers  and  resulted  in  concentration 
+levels  in  the  flammable  range.  MSC  and  the  U.S.  Army  are  investigating  impermeable  foil  over-
+wrapping methods and the use of non-hydrogen generating heaters but these solutions will not be 
+fully implemented in the immediate future. 
+
+Recommendation:  Ports  loading  or  receiving  shipments  of  MREs  and  FRHs  should  consider 
+requiring the monitoring of containers and holds in which FRH are stowed prior to movement of the 
+containers  or  any  activities  which  could  introduce  an  ignition  source.  COTPs  should  advise  ship 
+operators  that  have  FRHs  aboard  their  vessels  of  this  potential  condition  and,  recommend  the 
+operators have procedures and equipment necessary to monitor the temperature and atmospheric 
+contents of containers holding FRHs. POC for additional information on FRHs is the Coast Guard 
+Liaison  to  MSC,  CDR  Paul  Gugg  at  (202)  685-5726.  CDR.Gugg@msc.navy.mil  Operational 
+insights  may  also  be  obtained  from  MSO  Guam  which  has  been  involved  in  the  discovery  and 
+abatement of this problem on preposition vessels staged in its AOR. 
+
+This  safety  alert  is  provided  for  informational  purpose  only  and  does  not  relieve  any  domestic  or 
+international safety, operational or material requirement. Developed by the Office of Investigations 
+and Casualty Analysis. For questions or concerns please email hqs-pf-fldr-cg-inv@uscg.mil. 
+ 
+
+1 
+
+

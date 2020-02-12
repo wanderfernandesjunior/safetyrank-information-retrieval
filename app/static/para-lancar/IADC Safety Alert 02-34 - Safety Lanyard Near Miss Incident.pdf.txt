@@ -1,0 +1,61 @@
+Safety Alert 
+
+From the International Association of Drilling Contractors
+
+ 
+
+ 
+ALERT 02 – 34  
+ 
+
+SAFETY LANYARD NEAR MISS INCIDENT 
+
+ 
+WHAT HAPPENED: 
+ 
+While  tripping  pipe  in  the  hole  one  floorman  went  down  to  the  BOP  Stack  to  assemble  the  clamp  on  the 
+rotating  head.    Before  he  came  down  from  the  stack,  the  driller  rotated  the  rotary  table  to  make  up  a 
+connection.    The  floorman’s  safety  lanyard  nearly  became  entangled  in  the  rotating  head.    The  floorman 
+screamed out and the driller stopped the rotation.  
+ 
+Last year, a fatal incident occurred when a Technician working on another rig got his safety lanyard caught in 
+the rotating head.   
+ 
+WHAT CAUSED IT: 
+ 
+The  Driller  started  rotation  before  ensuring  that  the  floorman  and  his  lanyard  were  safely  away  from  the 
+rotating head.   
+ 
+CORRECTIVE ACTIONS:  To address this incident, this company did the following:   
+ 
+Issued the following directive to all rigs:   
+ 
+•  Any personnel working on the BOP Stack during drilling operations must have a work permit.  
+
+If a rotating head is being used, then no work can occur without all equipment being Locked Out/ Tagged 
+Out.    This  includes  Rotary  Table,  Drawworks  (unless  under  Work  Permit)  and  any  other  energized 
+equipment which could affect this task.  
+
+•  Personnel involved in task shall perform a JSA prior to beginning the task. 
+
+•  All personnel shall be instructed on LockOut/TagOut and Work Permits. 
+
+•  All Training shall be documented and kept on the rig. 
+
+• 
+
+ 
+
+The Corrective Actions stated in this alert are one company’s attempts to address the incident, and do not 
+
+necessarily reflect the position of IADC or the IADC HSE Committee. 
+
+This material is presented for information purposes only.  Managers & Supervisors should  
+
+evaluate this information to determine if it can be applied to their own situations and practices. 
+
+Copyright © 2002 International Association of Drilling Contractors.  All Rights Reserved 
+
+Issued August 2002 
+
+

@@ -1,0 +1,92 @@
+Safety Alert 
+
+        From the International Association of Drilling Contractors 
+
+ 
+ALERT 06 – 11 
+ 
+
+NEAR MISS – EQUIPMENT FAILURE AT 14,000 PSI 
+
+ 
+WHAT HAPPENED: 
+ 
+During  a  pressure  test  on  the  choke  and  kill  line  of  a  subsea  stack,  an  incident  occurred  that  resulted  in 
+property damage. When the test pressure reached 14,000 psi, the internal threads within the Kick Out Stab-
+lock ring stripped and failed to hold.  Once the lock ring threads failed, the force was transferred to four ¾” 
+studs located on the underside of the threaded locking ring. The ¾” studs failed and the high pressure hose 
+was  blown  off  the  test  cap.    The  design  test  pressure  of  the  threaded  lock  ring  was  22,000  psi.    Risk 
+assessment  was  performed  and  implemented  risk  mitigation  required  the  hazard  area  to  be 
+barricaded prior to the test. 
+ 
+
+ 
+
+ 
+
+ 
+
+Note:  Stripped Threads on locking ring. 
+
+Note:  Fitted ring is shallower than OEM ring.   
+ 
+WHAT CAUSED IT: 
+ 
+It  was  determined  the  immediate  cause  was  due  to  the  failure  (stripping)  of  the  alignment  locking  ring 
+threads  and  when  the  threads  failed,  force  was  transferred  to  the  four  retaining  studs  which  subsequently 
+failed. 
+Root Cause:  The threaded lock ring did not meet the specifications of the Original Equipment Manufacturer 
+(OEM), and the size of the non-OEM lock ring was different from the OEM adapter ring.  Investigation also 
+determined  the  threaded  locking  ring  and  the  studs  that  failed  were  not  being  periodically  inspected  or 
+addressed within planned maintenance. 
+ 
+CORRECTIVE ACTIONS:  To address this incident, this company did the following: 
+ 
+•  Directed  rig  personnel  that  only  OEM  parts  will  be  used  for  high  pressure  and  critical  well  control 
+applications.    Annual  Magnetic  Particle  Inspection  (MPI)  has  been  scheduled  for  the  locking  rings  in 
+preventative maintenance system inspection. 
+
+ 
+ 
+ 
+ 
+
+The Corrective Actions stated in this alert are one company’s attempts to address the incident,  
+
+and do not necessarily reflect the position of IADC or the IADC HSE Committee. 
+
+This material is presented for information purposes only.  Managers & Supervisors should 
+
+evaluate this information to determine if it can be applied to their own situations and practices 
+
+Copyright © 2005 International Association of Drilling Contractors All rights reserved. 
+
+Issued March 2006 
+
+Safety Alert 
+
+        From the International Association of Drilling Contractors 
+
+ 
+ 
+Summary:    This  type  of  high  pressure  incident  had  the  potential  to  cause  severe  injury  or  death  and 
+because of proper risk assessment the result of this failure was equipment damage only. The lesson learned 
+is  that  only  OEM  parts  should  be  used  when  replacing  or  maintaining  critical  well  control  components.  
+Machine  thread  tolerance  and  design  specifications  of  non-OEM  parts  incorporated  into  our  well  control 
+system can expose us to potential injury, equipment damage and downtime. 
+ 
+ 
+
+The Corrective Actions stated in this alert are one company’s attempts to address the incident,  
+
+and do not necessarily reflect the position of IADC or the IADC HSE Committee. 
+
+This material is presented for information purposes only.  Managers & Supervisors should 
+
+evaluate this information to determine if it can be applied to their own situations and practices 
+
+Copyright © 2005 International Association of Drilling Contractors All rights reserved. 
+
+Issued March 2006 
+
+

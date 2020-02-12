@@ -1,0 +1,191 @@
+ Safety Alert 002 - ANP/SSM 
+
+Integrity Management of Passive Fire Protection 
+
+ 
+
+The Superintendence of Operational Safety and Environment is issuing this safety 
+alert to notify the petroleum and gas industry and other stakeholders about the repeated 
+failing  in  passive  fire  protection  (PFP)  availability  management  in  offshore  production 
+facilities. 
+
+This safety alert emerges from diagnostics obtained in conformity audits, which are based on ANP 
+Resolution  n.  43/2007.  More  than  50%  of  the  identified  deviations  about  PFP  relate  to  failures  in 
+implementing the safety studies recommendations, including fire and explosion assessments and other risks 
+analyses. 
+
+ 
+
+Passive Fire Protection 
+
+Passive  fire  protection  –  PFP  is  defined  by  API  RP 
+2218  (Fireproofing  Practices 
+in  Petroleum  and 
+Petrochemical  Processing  Plants)  as  a  barrier, 
+coating  or  other 
+safeguard  which  provides 
+protection  against  the  heat  from  a  fire  without 
+additional intervention. 
+
+PFP  aims  to  improve  the  capability  of  maintaining 
+the  structural  integrity  of  an  equipment  and  its 
+structure  during  a  fire  scenario.  Thus,  this  barrier 
+acts  in  a  passive  way,  unlike  an  active  protection, 
+such  as  fixed  and  portable  firefighting  systems, 
+which  demands  further 
+intervention  after  the 
+incident occurs. 
+
+According  to  API  RP  2218,  the  core  value  of 
+fireproofing is critical during the early stages of a fire, 
+when efforts are initially directed at shutting down 
+the  unit,  interrupting  fuel  supply  to  the  fire  and 
+actuating fixed firefighting equipment. If non-fireproofed piping and equipment supporting structures lose 
+their  strength  due  to  fire-related  heat  exposure,  they  can  collapse,  escalating  the  scenario,  which 
+consequently may lead to increased hydrocarbon leaks, victims and environmental and property damages. 
+
+ 
+
+The  International  Organization  for  Standardization 
+states in ISO standard 13702:2015 requirements and guidelines 
+to  control  and  mitigate  fire  and  explosion  on  offshore 
+production  facilities.  This  document  indicates  PFP  typical 
+applications in critical areas of these units, based on experience 
+in offshore E&P activities. It also emphasizes the necessity of a 
+specific evaluation for each individual unit, considering the fire 
+and  explosion  studies  as  well  as  the  emergency  response 
+strategy. 
+
+According to results from consequence studies elaborated by operators, and considering that passive 
+fire protection aims to reduce human exposure to occasional failures, PFP is regarded as a critical element 
+in operational safety. 
+
+ 
+
+ 
+
+Potential consequences 
+
+The degradation, absence or non-conformity to the specifications of a PFP may enable the escalation 
+of  the  accidental  scenario,  due  to  failure  in  critical  elements,  causing  a  reduction  in  available  time  for 
+personnel evacuation and interfering emergency control actions to prevent a massive environmental and 
+financial impact. 
+
+Identified deviations 
+
+The  following  evidences  of  PFP  integrity  management  failures  were  observed  in  13  offshore 
+production units, whether new or aged, categorized as fixed platforms, semi-submersibles and FPSOs, from 
+2015 to 2018: 
+
+ 
+
+Incomplete inspection and maintenance plans: 
+
+  Plans without a detailed list of tasks to be accomplished during inspection. 
+  Plans that do not comprise the entire PFP of the unit. 
+  Lack of PFP observation during execution of the maintenance plan for a SDV (shutdown valve) 
+
+located on the risers. 
+
+ 
+
+Implementation of alternative solutions without technical background: 
+
+  Substitute  PFP  class  J-60  on  deck floor  along  the  riser porch  for  encapsulation  of the  riser 
+flanges,  without  technical  evaluation  of  the  protection  level  assured  by  the  alternative 
+solution on the identified critical scenarios. 
+
+  Substitute  PFP  for  deluge  system  (active  protection),  without  technical  evaluation  of  the 
+
+protection level assured by the alternative solution on the identified critical scenarios. 
+
+  Partial implementation of safety study recommendations without technical background: 
+
+  Lack  of  installation  of  PFP  recommended  by  quantitative  study  for  critical  parts  (e.g.  blow 
+down and ESD valves), without quantitative verification to justify the decision of not installing. 
+
+  Partial installation or lack of PFP: 
+
+  Lack of installation of PFP in the production and exportation risers’ connections, riser balcony 
+piping,  lower  part  of  the  communication  tower  structure  and  communication  cables  tray 
+system. 
+Incomplete installation of PFP in well piping in the riser balcony area, limiting its application 
+to the SDVs that shut the well lines and to the piping segment between flanges, excluding the 
+flanges upstream the SDVs. 
+
+ 
+
+  Degradation of installed PFP: 
+
+the oil transfer pumps. 
+
+  Highly damaged conditions of PFP installed in the pipe rack columns and the columns next to 
+
+  Lack of equivalent alternative controls to compensate the lack or degradation of a critical element: 
+  Removal of PFP from vertical and diagonal columns of the cellar deck, from the pig launcher 
+and  receiver  area,  from  the  slug  catcher  and  gas  exportation,  without  taking  any  further 
+contingency measures. 
+
+  PFP in degraded condition, without proper contingency measures. 
+
+  Prioritization not compatible with the risk level of the structures: 
+
+  PFP installed in many areas, but critical elements without protection. 
+  Extended  schedule  for  recomposing  degraded  PFP  that  did  not  consider  risk  criteria  for 
+
+prioritization. 
+
+Regulatory Framework 
+
+According to the ANP Resolution n. 43/2007, Operational Safety Management System (SGSO): 
+
+Item 1.5 (Resources Planning and Assessment) requires that “the rig operator shall plan and provide 
+the  necessary  resources  for  the  implementation  and  operation  of  the  SGSO  and  to  attend  to  further 
+requirements”. 
+
+Item 10.2.1 (Management and Organization) states that “the rig operator shall comply with project 
+criteria,  industry  standards  and  good  engineering  practices,  regarding  project  planning,  construction, 
+installation and deactivation of the unit”. 
+
+Item 11.3.1 states: “the rig operator shall establish contingency procedures and define approval and 
+control system for these procedures, to be used when Operational Safety Critical Equipment or Systems are 
+in poor conditions or out of operation”. In addition, in agreement with this item, the item 11.3.2 states “such 
+procedures will establish temporary measures that might make up for the absence of Operational Safety 
+Critical  Equipment  or  Systems,  due  to  failure,  degradation  or  deactivation.  Such  measures  shall  include, 
+when  applicable:  Implementation  of  equivalent  alternative  controls;  Reduction  and  limitation  of  the 
+production; and Isolation and stoppage of equipment, systems, and units.” 
+
+ Item 12.6.1 states: “the rig operator will be responsible for the implementation of corrective actions 
+regarding the recommendations made during the risk analysis”. Additionally, item 12.6.3 establishes that 
+“the rig operator will be responsible for the documentation and implementation of the corrective actions. 
+Regarding modifications or rejection of this implementation, the decisions must be justified”. 
+
+Item  13.2.1  states:  “the  rig  operator  shall  establish  plans  and  procedures  for  inspection,  test  and 
+maintenance, in order to seek mechanical integrity of its systems, structures and Operational Safety Critical 
+Equipment  and  Systems.  Such  documentation  shall  comply  with  manufacturer’s  recommendations, 
+standards and engineering practices”. Moreover, in agreement with this item, the item 13.3.4 from SGSO 
+complements that “the rig operator shall assure that Operational Safety Critical Equipment and Systems are 
+fully covered by inspection plans, tests and maintenance”. 
+
+ 
+
+Lessons learned 
+
+Aiming the continuous improvement of the Operational Safety Management, ANP/SSM identifies the 
+ 
+opportunity  for  enhancing  passive  fire  protection  availability  and  integrity  management  in  offshore 
+production units.  
+
+Based  on  the identified deviations,  operators  shall  take  actions  to  verify  the  recommendations  of 
+safety  studies  regarding  the  need  for  PFP  installation  and  to  establish  and  implement  inspection  and 
+maintenance plans for the installed PFP. Finally, in case of degraded, absent or out of specification PFPs, 
+operators shall implement temporary additional mitigating measures and recover the protections, in order 
+to restore design conditions. 
+
+For  additional  information  regarding  this  safety  alert,  please  contact  ANP’s  Superintendence  of 
+
+Operational Safety and Environment at sgso@anp.gov.br. 
+
+Contact 
+
+

@@ -1,0 +1,261 @@
+AB 
+
+ 
+
+IMCA Safety Flash 07/10 
+
+Safety Flash 
+
+November 2010 
+
+These  flashes  summarise  key  safety  matters  and  incidents,  allowing  wider  dissemination  of  lessons  learnt  from  them.    The  information  below  has  been 
+provided in good faith by members and should be reviewed individually by recipients, who will determine its relevance to their own operations. 
+
+The effectiveness of the IMCA safety flash system depends on receiving reports from members in order to pass on information and avoid repeat incidents.  
+Please consider adding the IMCA secretariat (imca@imca-int.com) to your internal distribution list for safety alerts and/or manually submitting information 
+on specific incidents you consider may be relevant.  All information will be anonymised or sanitised, as appropriate. 
+
+A  number  of  other  organisations  issue  safety  flashes  and  similar  documents  which may  be  of  interest  to  IMCA  members.   Where  these  are  particularly 
+relevant, these may be summarised or highlighted here.  Links to known relevant websites are provided at www.imca-int.com/links   Additional links should 
+be submitted to webmaster@imca-int.com 
+
+ 
+
+1  Near Miss: Falling Object  
+
+A  member  has  reported  an  incident  in  which  a  falling  object  hit  and  destroyed  someone’s  hard  hat.    Two  third-party 
+ironworkers were setting the upper section of a structural steel tower.  Having set the section in place one worker left the 
+immediate structure area and boarded the aerial lift so that he could access the very upper structure of the tower section, in 
+order  to  release  the  rigging  from  the  mobile  crane  used  to  set  the  tower.    The  other  worker  (approximately  10  metres 
+below) continued to tighten the bolts of the upper section to the already established lower section using an impact wrench. 
+
+As the worker was manoeuvring the basket of the aerial lift, and properly tied off, his safety lanyard got caught on his tools 
+(attached to his tool belt) and flipped a sleever bar sideways in its sheath causing the bar to flip out and fall.  The bar fell and 
+struck the hard hat of the worker piercing the hard hat.  The hard hat fell off the worker and fell an additional distance to the 
+ground below.  There were no injuries. 
+
+At the time of the incident a ground person was assigned as a dedicated safety watch to make sure no one entered the work 
+area as the two workers were positioning and attaching the tower section.  Additionally, the area had been barricaded with a 
+danger tape. 
+
+Figure 1 - hard hat destroyed by falling sleever bar 
+
+ 
+
+The following corrective actions were suggested: 
+
+♦  Only tools essential to complete assigned tasks should be carried in tool belts; 
+
+♦  More appropriate tool belts and holders should be developed to prevent tools falling from height; 
+
+♦  Persons should not work directly below areas where work at height is being conducted; 
+
+♦  Emphasis  to  employees  of  the  importance  of  full  communications  and  heightened  safety  awareness  when  working  in 
+
+areas where overhead fall object hazards exist. 
+
+ 
+Members attention is drawn to IMCA safety promotional material on working at height and dropped objects. The cards and 
+posters are available for download from https://members.imca-int.com/documents/core/sel/safetypromo.  
+
+♦  Pocket Safety Cards: 
+
+IMCA SPC06 on working at height 
+IMCA SPC12 on dropped objects.  
+
+♦  Safety Posters: 
+
+– 
+– 
+
+– 
+– 
+
+IMCA SPP 03 Working at height – safe use of ladders 
+IMCA SPP 04 Avoiding dropped objects. 
+
+♦ 
+
+‘Working at height’ DVD. 
+
+2  Crewman Fatally Injured During Mooring Operations 
+
+A member has reported an incident in which a crewman suffered fatal injuries after being hit by a snapping chain and mooring 
+rope connection.  The incident occurred during mooring operations whilst manoeuvring two vessels together.  
+
+At the project worksite, one vessel was being manoeuvred towards the appointed workplace using a mooring line and winch. 
+Rigging  was  slackened  by  the  winch  on  one  vessel;  then  the  angle  between  the  two  vessels  increased,  which  caused  an 
+increase in tension.  At that moment the chain snapped at the pad-eye connection on one vessel, and a deckhand was hit by 
+the chain and mooring rope as it swung across the deck causing fatal injuries.  
+ 
+
+Figure 1 - vessels move towards appointed workplace 
+
+Figure 2 - Position of crewman in line of fire (green circle) 
+
+ 
+
+ 
+
+Figure 3 - Path of chain after failure under tension 
+
+ 
+
+ 
+
+ 
+
+ 
+Our member’s investigation revealed the following: 
+
+♦  The deckhand moved into ‘in the line of fire’ in the path of the breaking chain; 
+
+♦  The breaking strain of the equipment used was underestimated in relation to the work being undertaken; 
+
+♦  Limited communication and poor sight lines between vessel masters, winch operator and deckhand were a factor. 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+Figure 4 - Snapped chain  
+
+    
+
+ Figure 5 - Mooring rope similar to that used in 
+
+ 
+
+ 
+
+ the operation 
+
+Our member made the folllowing recommendations: 
+
+♦  Thorough revision of company procedures and risk assessments for this task, including types of connection, winches and 
+
+towing equipment, and communications; 
+
+♦  Ensure all persons involved are involved in toolbox talks before this task; 
+
+♦  Check certification and fitness for use of all lifting and towing equipment (bollards, ‘bridle’ connection, wires, ropes);   
+
+♦  Establish clear communication (radio, signals and visibility) between the master of the towing/pushing vessel, the crane or 
+
+winch operator and any personnel on deck. 
+
+ 
+
+Figure 6 - Scene of incident (green line indicates towing line, red line indicates snapped towing line) 
+
+Position of crewman 
+
+ 
+
+ 
+
+Perhaps  the  most  important  point  highlighted  by  our  member  is  that  crew  should  take  great  care  in  their  movements  on 
+deck in relation to possible danger from equipment failure, particularly with regard to ropes, towing and rigging equipment. 
+
+ 
+3  Precautions Against Jellyfish Sting During Diving Operations 
+
+A member has reported that there has recently been a significant increase in the number of jellyfish in areas where previously 
+few  jellyfish  had  been  encountered.    Apart  from  the  obvious  risk  of  stinging,  there  is  evidence  of  further  medical  issues 
+associated with diving in the vicinity of jellyfish.  This has become an increased problem in summer months. 
+
+On contacting jellyfish, there is a tendency for particles of tentacles to become attached to the diver’s suit.  If these particles 
+are  not  removed  during  the  cleaning  process,  ‘dust’  remains  on  the  surface  of  the  suit  during  the  drying  process  and  can 
+become airborne when returned to the diving chamber.  Some divers may be allergic to this and suffer ill-effects. 
+
+When diving in an area suspected of being populated with jellyfish, members are encouraged to adopt a thorough cleaning 
+routine and to take the following additional precautions: 
+
+♦  Risk of jellyfish sting should be included in the job safety analysis (JSA) and risk assessments for diving tasks; 
+
+♦  Umbilical recovery should always be carried out using gloves; 
+
+♦  After locking out, dive suits should be pressure washed with fresh water and thoroughly rinsed; 
+
+♦  Dive suits may then be dipped in the cleaning tank, and not prior to pressure wash, as this will result in contaminating 
+
+the tank; 
+
+procedure; 
+
+♦  Consideration should be given to the use of over-suits which should be removed prior to re-entering the bell; 
+
+♦  Divers’ umbilicals should be visually inspected and scrubbed (as required) on entry to the bell; 
+
+♦  Ensure  ship  medic  and  diver  medic  technician  (DMT)  are  made  aware  of  jellyfish  danger  and  understand  first  aid 
+
+♦  Prior to locking cleaned and dried suits into the system they should be checked for surface residue (normally in the form 
+
+of a “white” flaky coating).  If present it should be cleaned to remove the contaminant. 
+
+If these cleaning processes are not adhered to, the contamination on the suits can become ‘atomised’ during the blow-down 
+(into saturation) process resulting in atmospheric dust.  Through consultation with experts involved in the study of jellyfish, it 
+has become recognised that dried jellyfish particulates can be an irritant specifically resulting in coughing while others in the 
+fishing industry have recognised that dried nets can also result in skin rash during periods where high levels of jellyfish have 
+been encountered. 
+
+ 
+
+Figure 1 -  Jellyfish 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Safety Flash 
+
+4  Fatality – Fall from Height 
+
+A member has reorted an incident in which a worker was killed, falling 19 meters from a column walkway. The person was a 
+fitter putting in place a final piece of grating on an overhead walkway (see Figure.1 below). The worker was standing on a 
+platform made from two planks. As the worker was moving the grating, one plank fell down causing the worker to swing, 
+lose his balance and fall to his death. 
+
+Figure 1 -  Location from which worker fell 
+
+ 
+
+Members are encouraged to remind their personnel of the following basic safety principles when working at height: 
+
+♦  When working at height with fall exposure, 100% fall protection should be required; 
+
+♦  Personnel working at height should be properly trained to use fall protection devices; 
+
+♦  Personnel working at height should wear full body harnesses fitted with lanyards; 
+
+♦  Fall arrest equipment should be carefully inspected before and after each use; 
+
+♦  Temporary platforms should be properly secured;  
+
+♦  Platforms  and  walkways  shall  be  kept  free  from  obstacles  such  as  materials,  equipment,  tools  and  rubbish,  etc.,  which 
+
+might fall or obstruct safe working activities. 
+
+Members  are  reminded  of  IMCA’s  safety  promotional  material  on  working  at  height,  which  includes  safety  pocket  cards, 
+posters and a DVD: 
+
+♦  Safety pocket card IMCA SPC 06 Working at height; 
+
+♦  Safety posters IMCA SPP 03 Working at height: Safe use of ladders  and IMCA SPP 04 Avoiding dropped objects; 
+
+♦  Working at height DVD which promotes the need for safety awareness, discusses various hazards and provides real-life 
+demonstrations of good practice. It is available in both PAL and NTSC formats and is subtitled in key languages for use 
+with a variety of offshore workforces.  
+
+

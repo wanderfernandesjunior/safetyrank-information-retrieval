@@ -1,0 +1,127 @@
+  
+
+SAFETY ALERT 24 
+
+NATIONAL OFFSHORE PETROLEUM SAFETY AUTHORITY 
+
+Use of Utility Systems for Process Duties 
+
+What happened? 
+
+An incident occurred recently on a Floating Production Storage and Offtake vessel  
+operating in Australian waters, which involved the ingress of hydrocarbon gas into the 
+facility’s potable water system. 
+
+Prior to the incident, the facility had experienced a process shutdown in the early hours 
+of the morning. Two night shift operators were tasked with restarting the facility.  
+
+Start-up operations required a restart of the facility’s gas lift compressors. After several 
+failed attempts to restart a compressor, it was discovered that the liquid level in the 
+suction scrubber was low. In order to obtain the start permissive, it was necessary to fill 
+the suction scrubber with water to the correct level. This was carried out via a connection 
+to the facility’s potable water system (a utility system). 
+
+During the filling operation, hydrocarbon gas was flowed back into the facility’s potable 
+water system, as a result of a pressure gradient that existed between the compressor 
+and the potable water system.  Several hours later gas was detected in the facility’s 
+accommodation space.   Non-essential crew members were evacuated from the facility. 
+
+What went wrong? 
+
+A new field technician who had no previous offshore experience was tasked to carry out 
+the scrubber filling job with verbal instruction via radio communication with a night shift 
+senior production specialist in the facility’s control room.  
+
+The field technician obtained what he believed were appropriate fittings from the 
+surrounding deck area, connected one end of the hose to an unlabelled potable water 
+supply adjacent to the compressor, and connected the other end to the compressor 
+scrubber.  
+
+The senior technician in the control room could see the pressure displayed for the 
+compressor at 700 kPa, and assumed that the water pressure would be higher than that 
+as he did not have a pressure display for the potable water system. 
+
+The field technician then opened the valves of the potable water system and scrubber 
+and felt a flow through the fittings. After about 1 minute, when the level in the scrubber 
+hadn’t changed he was instructed to close off the valves and bleed some pressure from 
+the compressor. 
+
+The field technician then cracked open the valve at the potable water end of the fittings 
+and immediately noticed a gas release, with very little water. This was the first indication 
+of gas backflow into the potable water system. 
+
+Key Lessons: 
+
+- The practice of connecting a utility system to a process system must be treated as non-
+routine and should be considered only as a last resort with a “break tank” scheme to 
+ensure no back flow to the utility system, or some other means to ensure there is an 
+appropriate pressure gradient between the connected systems. 
+
+- The task was not considered to require a permit to work (PTW) as management 
+considered this similar to draining process liquids. There was no job planning and risk 
+
+Page 1 of 2 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+  
+
+SAFETY ALERT 24 
+
+NATIONAL OFFSHORE PETROLEUM SAFETY AUTHORITY 
+
+Use of Utility Systems for Process Duties 
+
+assessment prior to the task being carried out. Such tasks should have been carried out 
+using the permit-to-work system with risks assessed and barriers in place. 
+
+- No written procedure or instruction was available for such an activity. 
+
+- There was inadequate supervision during the night shift, considering that the field 
+technician was new to the job and the facility.  
+
+- Competency assessment of technicians was not robust enough when allocating 
+personnel to perform safety critical tasks, such as control room operations and process 
+operations. 
+
+- A similar incident had occurred before on the same facility where condensate had 
+entered into the potable water system. Management had not implemented effective 
+controls to prevent a re-occurrence. 
+
+Contact 
+
+For further information email alerts@nopsa.gov.au and quote Alert 24 
+
+Page 2 of 2 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+

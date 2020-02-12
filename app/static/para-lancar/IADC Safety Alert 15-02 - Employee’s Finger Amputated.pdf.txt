@@ -1,0 +1,58 @@
+Safety Alert 
+
+        From the International Association of Drilling Contractors 
+
+EMPLOYEE’S FINGER AMPUTATED 
+
+ 
+ALERT 15-02  
+ 
+
+WHAT HAPPENED: 
+
+ 
+
+ 
+
+The injured employee was in the process of unlocking the BOP ram in order to open the ram with a 
+hydraulic system that was spotted 50 feet away from the BOP. The employee decided to place his 
+finger into the OEM sight opening slot to make sure the locking screw was completely out.  The crew 
+chief  engaged  the  ram  control  valve  while  employee’s  finger  was  still  in  the  slot  resulting  in  an 
+amputation of the employee's left index finger. 
+
+WHAT CAUSED IT:  
+
+The employee was able to place the finger thru the OEM sight opening on BOP 
+ram  shaft  bonnet.    The  control  system  was  not  isolated,  locked  out  or  tagged  out  while  the  IP  placed  his 
+finger  inside.    There  was  no  apparent  understanding  or  communication  between  the  IP  and  the  remote 
+operator. 
+ 
+
+ 
+
+CORRECTIVE ACTIONS: To address this incident, this company did the following:   
+
+A temporary guard was manufactured and placed over the BOP ram shaft bonnet.   The guard will be bolted 
+using the original screw holes on BOP to avoid employees placing their fingers into the shaft compartment.  
+Equipment should be isolated from remote or third party operation before being worked on.  Additionally, a 
+thorough JSA should be conducted prior to start to identify hazards and establish communication. 
+ 
+ 
+
+ 
+
+ 
+
+The Corrective Actions stated in this alert are one company’s attempts to address the incident, and do not 
+
+necessarily reflect the position of IADC or the IADC HSE Committee. 
+
+This material is presented for information purposes only.  Managers & Supervisors should evaluate this information to determine if it can 
+
+Copyright  2015 International Association of Drilling Contractors All rights reserved. 
+
+be applied to their own situations and practices 
+
+Issued April 2015 
+
+

@@ -1,0 +1,320 @@
+AB 
+
+ 
+
+IMCA Safety Flash 14/09 
+
+Safety Flash 
+
+October 2009 
+
+These  flashes  summarise  key  safety  matters  and  incidents,  allowing  wider  dissemination  of  lessons  learnt  from  them.    The  information  below  has  been 
+provided in good faith by members and should be reviewed individually by recipients, who will determine its relevance to their own operations. 
+
+The effectiveness of the IMCA safety flash system depends on receiving reports from members in order to pass on information and avoid repeat incidents.  
+Please consider adding the IMCA secretariat (imca@imca-int.com) to your internal distribution list for safety alerts and/or manually submitting information 
+on specific incidents you consider may be relevant.  All information will be anonymised or sanitised, as appropriate. 
+
+A  number  of  other  organisations  issue  safety  flashes  and  similar  documents  which may  be  of  interest  to  IMCA  members.   Where  these  are  particularly 
+relevant, these may be summarised or highlighted here.  Links to known relevant websites are provided at www.imca-int.com/links   Additional links should 
+be submitted to webmaster@imca-int.com 
+
+ 
+
+1  Failure of Gas Supply to Diving Bell 
+
+A  member  has  reported  an  incident  in  which  there  was  a  failure  of  the  breathing  system  in  a  diving  bell.    During  diving 
+operations at a storage depth of 102 metres, bell checks were being carried out on one of the bells.  The bellman did a full 
+function test on the built-in-breathing system (BIBS) of the bell and it was established that the gas supply system had reduced 
+flow to the BIBS at depth.  After getting all divers to put on their own individual BIBS in the bell, to test the gas system, it was 
+found that there was reduced and insufficient gas to supply the full dive team in the bell. 
+
+The following actions were taken as part of the investigation. 
+
+The dive team made similar checks on the BIBS in the second (port side) diving bell and the same problem was discovered.  
+The starboard bell was surfaced and BIBS was then checked at the surface.  The BIBS system could supply three divers at the 
+surface, but under pressure the supply to the divers was inadequate. 
+
+The dive system was a new build and it was the first time it had been at a depth of 102 metres.  The BIBS system had not 
+been fully tested at this depth.  The regulators were stripped to check for defects and none were found.  A test rig was then 
+set up in the workshop to mimic the BIBS arrangement and the pressure in the diving bell, where the flow was similarly found 
+to be inadequate. 
+
+The problem was solved by fitting a higher performance regulator.  This was found to give a far better flow rate on surface.  
+The bell was then blown back down to storage depth, all three divers donned BIBS and a full function test was carried out.  
+Good flow was reported from all divers.  The same process was repeated with the port side diving bell with good results. 
+
+The company involved drew the following lessons from the incident: 
+
+♦  A full function test of the breathing system (BIBS and dive hats/band masks) at all maximum working depths should be 
+
+conducted whenever there is significant change, including the following occasions: 
+–  when a new build saturation system is first put into commission 
+– 
+– 
+
+if the depth range of the dive system has changed to a deeper depth 
+following any changes, any maintenance or any modifications 
+
+♦ 
+
+It can be shown that during set-up for any new dive operations (e.g. at new locations or new depths) a simple purge of 
+the BIBS and dive hats/band masks is not adequate to establish the full functionality of the breathing system. 
+
+2  Torn Ankle Ligaments 
+
+The Marine Safety Forum has published the attached safety flash concerning a crew member injured whilst stepping from one 
+vessel to another when no gangway was available. 
+
+3 
+
+'Potential Threat to Aviation Posed by Skysails 
+
+We  have  received  two  safety  alerts  –  from  CHC  Helicopter  and  the  European  Organisation  for  Safety  of  Air  Navigation 
+(Eurocontrol) – concerning a recent incident involving a Skysail, an experimental supplement to standard ship propulsion. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+  
+
+31st August 2009 
+
+Marine Safety Forum – Safety Flash 09/30 
+ 
+Issued: 
+ 
+Subject:    Torn Ankle Ligaments 
+ 
+Summary:  
+ 
+A vessel was moored along side another ship, port side too. No means of gangway was 
+available, due to the fact that the lay out of both vessels differed.  He climbed from the rail 
+fence  of  the  vessel  on  to  the  fence  of  the  vessel  alongside,  turning  around  with  his  face 
+towards  his  own  vessel  and  placed  his  right  foot  on  an  edge  of  a  hole  of  the  deck  (see 
+picture for clarification). Because he stepped on this edge (which is about 3 cm high) he 
+twisted his right ankle resulting in the injury as described. He was aware of the grid, but did 
+not see the edge around it.  
+ 
+Facts found during the investigation 
+The  following  facts  were  acknowledged  and 
+recognised as a contributing factor.  
+ 
+•  Edge  is  the  same  colour  as  the  surrounding 
+deck  
+•  Due  to  the  different  shape  of  both  vessels,  no 
+means of gangway was installed  
+• Crewmember did not see where he put his right 
+foot,  possibly  caused  by  the  shadows  of  the 
+railwork.  
+ 
+Preventive  actions  Using  a  gangway  when 
+leaving the ship or coming on board is essential. 
+All efforts must be taken to avoid people climbing 
+and  scrambling  from  one  vessel  to  another. 
+When  alongside  other  vessels,  contact  your 
+colleague on the other vessel, when you think a 
+safe passageway can not be created.   
+ 
+The  vessel  where  the  accident  took  place  has 
+been requested to mark the edges in a different 
+colour, to pinpoint the difference in height.  
+ 
+We advise all vessels to check all decks and identify and mark all possible obstacles.  
+ 
+The involved crewmember resumed his job, after 7 weeks of absence. 
+ 
+Watch  your  step  when  walking  around  your  vessel.  A  miss-step  is  easily  made;  the 
+consequences can be very severe! 
+
+ 
+
+ 
+
+ 
+
+CHC Helicopter  
+CHC Helicopter  
+Safety Alert 
+Safety Alert 
+
+Area:  Southern North Sea 
+
+Operation:  Oil & Gas 
+
+Contact: 
+
+Duncan Trapp, Safety & 
+Regulatory Manager, EO 
+
+ 
+Title: Potential Threat to Aviation from Skysails  
+ 
+Brief Account of Events: 
+ 
+The aircraft was descending to the operating area in the 
+Dutch offshore sector and identified a large kite/skysail 
+flying at around 1000 ft (just below the clouds) ahead of a 
+vessel. 
+ 
+The ‘skysail’ itself was in the flightpath of the aircraft as it 
+headed towards a nearby installation and, although difficult 
+to see against the cloudy backdrop, was seen to be 
+moving around ahead of the vessel in an erratic manner.  
+The long cable, on which the skysail was extended, was 
+also difficult to see. 
+ 
+The vessel can be seen in the picture below with the 
+‘skysail’ circled in red.  The approximate line of the cable 
+has also been marked on the picture. 
+ 
+Details of the vessel, its location and the potential threat to 
+aviation posed by the ‘kite’ were passed to the local ATC 
+unit and onwards to the Coastguard.  
+ 
+The crew advised another nearby platform that the vessel 
+was moving towards their operating area and also 
+informed base operations as soon as possible. 
+ 
+Further research has shown that this is one of the first in a 
+line of ‘experimental’ vessels using ‘skysails’ to 
+supplement the traditional propulsion units. 
+
+Date of Incident:  15 Sep 09 
+Incident Location:  Offshore 
+
+Contact details: 
+
++44 (0) 1224 846455 
+dtrapp@chc.ca 
+
+ 
+Findings: 
+ 
+Root Cause(s) (Preliminary Findings): 
+
+The introduction of new, ‘environmentally-
+friendly’ propulsion methods posing a 
+potential threat to aviation. 
+ 
+CHC’s Response: 
+ 
+The following actions must be adhered to: 
+
+ 
+
+The issue has been raised with the Dutch 
+Coastguard and the Regulatory Authorities to 
+allow them to consider the issue in broader 
+terms. 
+ 
+Interim solutions will be explored to identify 
+the potential threat posed by this specific 
+vessel when operating under Skysail within 
+the Southern North Sea. 
+ 
+For now, all crews are to be aware of the 
+existence of this threat and should report any 
+sightings through the local ATC frequency to 
+allow other aviation assets to be made aware. 
+ 
+In addition, events such as those described 
+are to be reported using the CHC Safety & 
+Quality Integrated Database (SQID). 
+ 
+ 
+For absolutely every decision we 
+
+make, safety must be the first 
+
+consideration!" 
+
+Sylvain Allard, President and CEO
+
+ 
+
+CHCSA-200X-0X 
+ 
+
+This information does not supersede any Company or OEM manual  
+
+ 
+
+Safety Information Only 
+
+ 
+
+Safety Warning Message 
+• Safety 
+Subject: 
+• Origin:  
+• Date: 
+• Distribution:  Aviation Safety Professionals  
+
+Maritime kite flying incident   
+
+Aircraft Operator   
+
+17/09/2009 
+
+SYNOPSIS 
+
+  EUROCONTROL Agency has been informed of an incident that happened on 15 
+
+September 2009 over the Southern North Sea: 
+
+o  “The aircraft was descending and identified a large kite/skysail flying ahead of 
+
+the vessel and at around 1000 ft (just below the clouds). 
+ 
+It was attached to the vessel and was in the flight path of the aircraft as it 
+headed towards a nearby installation. The 'skysail' was extended on a long 
+cable and was moving around the vessel in an erratic manner 
+ 
+Further research has shown that this is one of the first in a line of ‘experimental’ 
+vessels using ‘skysails’ to supplement the traditional propulsion units.” 
+
+  The photograph below is an illustrative example of a “skysail”: 
+
+ 
+
+ 
+
+ 
+
+YOUR ATTENTION IS REQUIRED 
+
+  Aviation Authorities are invited to review their kite flying legislation, rules, applicable 
+
+constrains and required coordination.   
+
+  Aviation Service Providers are invited to note the subject and investigate the relevance in 
+
+their operational environment. 
+
+  Aviation Professionals are invited to share their knowledge and experience about the 
+
+described issue. 
+ 
+
+DISCLAIMER 
+© European Organisation for Safety of Air Navigation (EUROCONTROL) September 2009. 
+This alert is published by EUROCONTROL for information purposes. It may be copied in whole or in part, provided that 
+EUROCONTROL is mentioned as the source and to the extent justified by the non-commercial use (not for sale).  The 
+information in this document may not be modified without prior written permission from EUROCONTROL.  
+
+The use of the document is at the user’s sole risk and responsibility. EUROCONTROL expressly disclaim any and all 
+warranties with respect to any content within the alert, express or implied.  
+
+ 
+
+ 
+
+

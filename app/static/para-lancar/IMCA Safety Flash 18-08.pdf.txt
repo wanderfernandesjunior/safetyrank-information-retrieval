@@ -1,0 +1,163 @@
+AB
+
+ 
+
+IMCA Safety Flash 18/08 
+
+Safety Flash 
+
+December 2008 
+
+These  flashes  summarise  key  safety  matters  and  incidents,  allowing  wider  dissemination  of  lessons  learnt  from  them.    The  information  below  has  been 
+provided in good faith by members and should be reviewed individually by recipients, who will determine its relevance to their own operations. 
+
+The effectiveness of the IMCA safety flash system depends on receiving reports from members in order to pass on information and avoid repeat incidents.  
+Please consider adding the IMCA secretariat (imca@imca-int.com) to your internal distribution list for safety alerts and/or manually submitting information 
+on specific incidents you consider may be relevant.  All information will be anonymised or sanitised, as appropriate. 
+
+A  number  of  other  organisations  issue  safety  flashes  and  similar  documents  which  may  be  of  interest  to  IMCA  members.    Where  these  are  particularly 
+relevant, these may be summarised or highlighted here.  Links to known relevant websites are provided at www.imca-int.com/links   Additional links should 
+be submitted to webmaster@imca-int.com 
+
+ 
+
+1  Mini Transponder Falling from Crane Wire to Deck 
+
+A member has reported an incident in which a mini transponder attached to the crane wire came loose and fell 20m to the 
+deck. 
+
+A 35m long pennant wire with a guide anchor in the end was being used to open/close hatches on templates.  After closing 
+hatches the wire was recovered to deck.  A mini transponder was attached to the crane wire just above the crane hook, 
+with two hose clamps.  Due to the length of the forerunner the crane had to lift it as high as possible and the wire remaining 
+outside the side of the ship had to be manhandled over the rail.  Due to a failing end stop mechanism the crane was hoisted 
+too far and the mini transponder was torn off the crane wire and fell to the deck, narrowly missing two members of the 
+crew who were under the crane ready to manhandle the wire end in on to the deck.  There were no injuries. 
+
+Transponder bracket design 
+
+ 
+
+The following points were noted: 
+
+  Deck personnel should not have been under the load or in the lifting area; 
+
+  Deck personnel should be reminded to always wait for a signal from the crane driver before moving into a lifting area; 
+
+  The practice of attaching the transponder to the crane wire should be identified as a risk and discussed appropriately at 
+
+toolbox meetings beforehand; 
+
+  The faulty end stop mechanism on the crane was repaired – as this mechanism was the only barrier preventing the wire 
+from being hoisted too far, the electrical switches on the end stop mechanism were replaced with switches of a better 
+quality; 
+
+  A formal procedure was implemented for safely attaching the transponder to the crane wire; 
+
+  A purpose-designed transponder bracket was designed and fabricated for fastening these to the crane wire, such that the 
+
+transponder itself cannot hit the end stop block. 
+
+ 
+
+2  Failure of Pipe Handling System Causes Injuries and Fatalities 
+
+A member has reported an incident in which the failure of a J-lay pipe-handling system caused two pipes to be dropped, one 
+of which caused injuries to eight people, four of whom died as a result.  During pipe-laying operations, a system failure in the 
+hydraulic pipe handling system of the J-lay tower (JLT) caused two quadruple joints being handled at the same time in two 
+different  areas  of  the  tower  to  drop  suddenly.    Each  piece  of  pipe  was  50m  long  with  a  diameter  of  24”  and  weighed 
+approximately 20 tons. 
+
+Just prior to the incident the pipe-laying operation was stopped.  Operators reported a system failure and that the hydraulic 
+power  had  been  lost.    Such  an  occurrence  was  not  particularly  unusual  and,  in  line  with  company  procedures,  this  was 
+investigated immediately.  A team of technicians led by the chief electrician tried without success to resolve the problems.  
+After these attempts, a more in-depth analysis was made.  It was decided, on the basis of input from the system diagnostics, 
+to perform a memory reset.  Following this the system appeared to be running correctly.  This was the first time that a full 
+memory reset was requested by the internal diagnostics of the control system during a project operational phase. 
+
+Only after all indications that everything was in order and all systems were up and running again was the instruction given to 
+the operator to restart the hydraulic packs.  As soon as the hydraulic power packs were started, a loud bang was heard along 
+with  the  noise  of  the  hydraulic  systems.    One  quadruple  joint  within  the  J-lay  tower,  held  by  the  transfer  system,  was 
+released and fell about a metre to the upper welding deck.  At the same time, the quadruple joint held by the pipe elevator at 
+the top of the J-lay tower was also released from its clamps and the hydraulic safety stop swung away, allowing the pipe to fall 
+the full height of the tower, smashing through the access platform located outside the non-destructive testing/coating station 
+to the lower deck below. 
+
+All the people who were injured had been on the access platform which was destroyed.  The force of impact caused some of 
+the injured persons to fall down on to the lower deck at the base of the pipe-lay tower and some to be thrown overboard. 
+
+Eight persons were injured, two seriously and two slightly.  Four of the injured persons died as a result of their injuries. 
+
+ 
+J-lay tower 
+
+ 
+
+The primary causes of the incident were found to be: 
+
+  Sudden release of the two quadruple joints was caused by a failure in conceptual design of the control system software.  
+The program relevant to the JLT initialising instruction was pre-loaded in the erasable programmable read-only memory 
+(EPROM)  of  the  programmable  logic  controller  (PLC)  with  the  instruction  to  open  all  clamps.    Members  are 
+
+recommended to investigate the possibility that this could happen to the PLC-based control systems on 
+equipment on their vessels. 
+
+  The  unnecessary  presence  and  uncontrolled  access  of  working  personnel  on  to  the  access  platform  destroyed  by  the 
+
+falling pipe exposed personnel to suspended load/dropped object hazard. 
+
+Pipe held in the clamps 
+
+Pipe and wreckage after the fall 
+
+ 
+
+ 
+
+Following investigation of the incident, a number of corrective actions were put in place by the company: 
+
+  The first primary cause was resolved with the removal of the EPROM memories from the system; 
+
+  The second primary cause has been addressed by a revision of the vessel and JLT working methodologies; pipe handling 
+activities  have  been  reconsidered  through  a  dropped  object  philosophy  in  order  to  identify  mechanical  and  electrical 
+barriers, additional controls, and new set of operational procedures; 
+
+  Electrical controls: 
+
+  Mechanical controls: 
+
+– 
+– 
+
+– 
+
+– 
+
+– 
+
+a number of clamp opening operations were prevented by adding electrical circuit breakers 
+all critical sequences will be called by PLC and must be confirmed by operator via electrical push buttons; 
+
+different systems have been and will be implemented to prevent the vertical pipe drop in any section of the JLT, to 
+restrain lateral pipe movement and fall and to secure the pipe until the internal line up is completed in the upper 
+welding station 
+an  additional  public  address  system  was  installed  for  use during  quadruple joint loader  lift,  and  audible  and  visible 
+alarms for elevator movements 
+a  safety  net  was  installed  underneath  the  J-Lay  tower  platforms  to  guarantee  protection  against  persons  falling 
+overboard; 
+
+  Procedures were revised in light of the incident, with the following points highlighted: 
+all pipe handling activities are to be considered as working under suspended loads 
+the immediate area around the JLT is restricted to essential personnel only 
+transit and from the JLT to be controlled by dedicated watchmen 
+no personnel at all allowed in certain areas during J-lay operations. 
+
+– 
+– 
+– 
+– 
+
+ 
+
+ 
+
+

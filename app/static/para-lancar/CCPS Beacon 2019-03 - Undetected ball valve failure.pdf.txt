@@ -1,0 +1,81 @@
+http://www.aiche.org/CCPS/Publications/Beacon/index.aspx
+
+Messages for Manufacturing Personnel
+Undetected ball valve failure
+
+March 2019
+
+This issue sponsored by
+
+PIT Removed 
+for Calibration
+
+PIT Removed 
+for Calibration
+
+Units 1 and 2 share a common line to the 
+thermal oxidizer (TO). Calibration was due on 
+several instruments on unit 2. A hand valve was 
+closed and locked out, and a pressure 
+transmitter (PIT) was removed for calibration.  
+
+A day or two after unit 2 was locked out, unit 1 began venting 
+toxic gas through the shared line to the thermal oxidizer. The 
+material venting from unit 1 flowed through the vent line 
+toward unit 2. However, the material exited through the valve 
+where the pressure transmitter had been removed. 
+
+Upon investigation, it was 
+discovered the ball inside the valve 
+was in the open position, even 
+though the valve handle was in the 
+closed position. (Note: When 
+moved, the valve handle “felt” like a 
+properly operating valve.) 
+Fortunately, there were no injuries, 
+but had this event happened on 
+another system, injuries could have 
+occurred 
+
+No blind 
+on open 
+line
+
+Did you know?
+
+What you can do
+
+• Any valve can fail, and there are many ways it 
+
+• Use blinds, plugs or caps when piping will be 
+
+can fail!
+
+open, even temporarily.
+
+• Valve handles may not always indicate the actual 
+position of a valve. A failure of the handle, stem, 
+ball, or seat can cause a problem
+
+• What happens in one system can affect another 
+and must be considered when altering a system, 
+even temporarily.
+
+• Use the line break/opening procedures for those 
+operations, and if line break procedures are not 
+accurate – get them corrected
+
+• Consider the effects of interconnected systems 
+
+and always ‘walk the line’ before transferring 
+material.
+
+All valves can fail.  Consider double isolation.
+
+©AIChE 2019. All rights reserved. Reproduction for non-commercial, educational purposes is encouraged. However, reproduction for any commercial 
+purpose without express written consent of AIChE is strictly prohibited. Contact us at ccps_beacon@aiche.org or 646-495-1371.
+
+The Beacon is usually available in Afrikaans, Arabic, Catalan, Chinese, Czech, Danish, Dutch, English, Filipino, French, German, Greek, Gujarati, Hebrew, Hindi, Hungarian, Italian, 
+Japanese, Korean, Malay, Marathi, Mongolian, Persian (Farsi), Polish, Portuguese, Romanian, Russian, Spanish, Swedish, Telugu, Thai, Turkish, Urdu, and Vietnamese.
+
+

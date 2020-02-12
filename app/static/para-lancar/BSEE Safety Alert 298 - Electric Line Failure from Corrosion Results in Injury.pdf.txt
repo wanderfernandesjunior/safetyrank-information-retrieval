@@ -1,0 +1,129 @@
+ 
+ 
+U.S. Department of the Interior 
+Bureau of Safety and Environmental  
+Enforcement 
+Gulf of Mexico OCS Region 
+ 
+
+Safety 
+Alert 
+
+Contact:  Glynn T. Breaux 
+(504) 736-2560 
+
+BSEE 
+
+Safety Alert Number: 298 
+30 December 2011 
+ 
+
+Electric Line Failure from Corrosion Results in Injury 
+
+ 
+During well temporary abandonment operations, electric line (eline) was used to set a 1,000 pound cast 
+iron bridge plug assembly (the assembly).  When the assembly was approximately 6 inches from the deck, 
+the eline parted near the rope socket.  As the assembly fell, the Injured Person (IP), who was guiding the 
+assembly to the well bore, was struck on the foot as a result of the IP being within the assembly’s 
+ 
+potential fall radius.     
+ 
+A BSEE investigation revealed the following: 
+ 
+
+ After the incident, the eline operator cut 1,500 feet of the eline off the drum and found the eline to 
+ 
+
+be corroded and brittle with 5 out of the 18 wire rope strands broken. 
+
+ The approved BSEE Permit to Modify stated the assembly would be run with the workstring, but 
+ 
+
+the assembly was actually run with eline. 
+
+ The Job Safety Analysis (JSA) was performed 9 hours prior to the job and did not identify all 
+ 
+
+ 
+
+
+
+risks associated with the specific lifting operation; e.g., the job required a worker to be within the 
+assembly’s 9 feet potential fall radius but risk assessment of the assembly’s potential fall hazard, 
+and the eline’s condition/capability for making the lift were not addressed. 
+Findings from a third party lab’s visual examination of the eline indicated corrosion and pitting, 
+with the fractured outer wire strands distorted and bent in a way indicative of shear/overload 
+fracturing due to corrosion.  A scanning microscope examination also revealed the fractured 
+surfaces were battered, abraded and corroded, also revealing shear/overload due to corrosion. 
+
+    
+ The eline operator couldn’t provide any standard operating procedures or long term preventative 
+ 
+
+ 
+
+ 
+
+maintenance records for the eline unit. 
+
+ 
+Therefore, the BSEE recommends:   
+ 
+
+ Eline/wireline operators develop and maintain standard operating procedures and records for the 
+ 
+
+eline/wireline units to include preventative maintenance protocol, visual inspection of the wire 
+rope associated with these units and wire rope change-out records (similar to crane wire rope 
+protocols).  Lessees should request a copy of these eline/wireline procedures and records. 
+
+ Lessees and its contractors review Safety Alert No. 282 that discusses the need for workers to 
+ 
+
+understand it is not the JSA Form alone that will keep them safe on the job but rather the process 
+the JSA represents.  It is of little value to identify hazards and devise proper controls if the 
+controls are not put in place. 
+
+ 
+
+ 
+
+ 
+
+--BSEE--GOMR--
+www.gomr.bsee.gov 
+ 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+A Safety Alert is a tool used by BSEE to inform the offshore oil and gas 
+industry of the circumstances surrounding an accident or a near miss.  It 
+ 
+also contains recommendations that should help prevent the recurrence of 
+such an incident on the Outer Continental Shelf. 
+
+

@@ -1,0 +1,166 @@
+AB(cid:31)
+
+ 
+
+IMCA Safety Flash 13/08 
+
+Safety Flash
+
+August 2008 
+
+These  flashes  summarise  key  safety  matters  and  incidents,  allowing  wider  dissemination  of  lessons  learned  from  them.    The  information  below  has  been 
+provided in good faith by members and should be reviewed individually by recipients, who will determine its relevance to their own operations. 
+
+The effectiveness of the IMCA safety flash system depends on receiving reports from members in order to pass on information and avoid repeat incidents.  
+Please consider adding the IMCA secretariat (imca@imca-int.com) to your internal distribution list for safety alerts and/or manually submitting information 
+on specific incidents you consider may be relevant.  All information will be anonymised or sanitised, as appropriate. 
+
+A  number  of  other  organisations  issue  safety  flashes  and  similar  documents  which  may  be  of  interest  to  IMCA  members.    Where  these  are  particularly 
+relevant, these may be summarised or highlighted here.  Links to known relevant websites are provided at www.imca-int.com/links   Additional links should 
+be submitted to webmaster@imca-int.com 
+
+ 
+
+1  Faulty Governors 
+
+A member has reported a series of incidents involving the shutdown of two different diesel generators onboard a long term 
+chartered  vessel.    On  three  separate  occasions  these  incidents  caused  a  full  blackout,  a  partial  blackout  and  the  loss  of  a 
+generator.  The DP class II multi-purpose support vessel has four governors of the Woodward PG-EG58 type.  During the 
+incident investigation and fault finding process, two suspect governors were removed and replaced with two new units from 
+a  separate  batch.    The  two  suspect  governors  were  returned  to  the  manufacturer  for  inspection.    The  results  of  this 
+inspection are summarised below: 
+
+♦  Broken check valves were found in the governor oil pumps of both units; 
+
+♦  The oil spray nozzle filters were blocked in both units.  Small metal particles and pieces of check valve were identified; 
+
+♦  The filter in the oil line to the torque motor was blocked in both units.  Small metal particles and pieces of check valve 
+
+were identified; 
+
+♦  Foreign metal particles were found inside one of the governor units.  These particles had caused the filters to become 
+
+blocked, preventing oil flow to the hydraulic valve. 
+
+Although the governor can operate without the check valve, the pieces of broken valve were carried in the hydraulic system.  
+This caused malfunction of the hydraulic valve. 
+
+ 
+
+ 
+
+Blocked oil spray nozzle 
+
+Broken check valve 
+
+Foreign metal 
+
+ 
+
+2  Seaeye ROV Tether Arcing Incident 
+
+IMCA member SAAB Seaeye has provided the attached safety news flash regarding an ROV tether arcing incident. 
+
+ 
+
+ 
+
+ 
+ 
+ 
+15th August 2008 
+ 
+ 
+Seaeye ROV Tether Arcing Incident 
+ 
+An arcing event was recently witnessed in a Seaeye Cougar XT ROV tether that did not 
+trip the systems safety devices; the intermittent arc/fault was only rendered safe following 
+human intervention turning off the power. 
+ 
+The incident occurred when the ROV became entangled and the tether damaged. 
+ 
+The arcing did not trip the system’s Line Insulation Monitor (LIM).  Investigations are still 
+ongoing but theoretically this could be due to the rapid variation in DC supply introduced 
+by the voltage compensation system which can prevent the LIM sensing.  The bandwidth 
+and rate of change that can be accommodated by the LIM is currently being investigated 
+with the manufacturer. 
+ 
+The  arcs  witnessed  were  consistent  with  “spatter”  type  arcing  which  is  intermittent  in 
+nature  and  can  occur  with  very  little  current  draw.    The  current  draw  during  each  arcing 
+event  was  insufficient  to  exceed  the  system’s  35A  trip  threshold  and  the  current  draw 
+during each arc therefore registered as a legitimate load. 
+ 
+Whilst  considered  very  unlikely  it  is  possible  that  this  fault  could  occur  in  any  XT  ROV 
+system  and  operators  should  plan  to  manually  shut  down  the  power  system  should 
+unexpected current fluctuations be observed to allow a full investigation. 
+ 
+As  an  additional  measure  operators  can  temporarily  disable  the  voltage  compensation 
+facility  on  their  XT  system  whilst  a  conclusion  is  sought  –  instruction  to  do  this  can  be 
+obtained by emailing support@seaeye.com 
+ 
+ 
+ 
+ 
+For further information please email:- rovs@seaye.com 
+ 
+ 
+
+ 
+ 
+Saab Seaeye Ltd 
+Address & Registered Office 
+Seaeye House 
+Lower Quay Road 
+Fareham   
+PO16 0RQ  
+United Kingdom 
+
+ 
+ 
+ 
+ 
+ 
+
+Telephone 
+ 
++44 (0) 1329 289000   
+Fax   
+ 
++44 (0) 1329 289001   
+ 
+
+ 
+ 
+ 
+ 
+
+Internet Address 
+ 
+www.seaeye.com  
+E-mail 
+ 
+jrobertson@seaeye.com 
+
+ 
+
+ 
+ 
+ 
+
+ 
+
+Registered in 
+England & Wales 
+No 02022671  
+
+ 
+ 
+ 
+
+VAT No 
+566 6513 17 
+ 
+
+ 
+
+

@@ -1,0 +1,80 @@
+This issue sponsored by
+
+www.iomosaic.com
+
+December 2018
+
+www.aiche.org/ccps
+
+http://www.aiche.org/CCPS/Publications/Beacon/index.aspx
+
+Messages for Manufacturing Personnel
+
+Common Cause Failures
+
+Hartsfield-Jackson International Airport in Atlanta, Georgia is 
+
+the busiest airport in the world, serving an average of 275,000 
+passengers each day. At about 1 PM on Sunday December 18, 
+2017, during one of the busiest travel times of the year, a fire 
+disabled the airport’s main power supply and also the backup power 
+supply. This resulted in a complete airport power outage which 
+lasted 11 hours. Approximately 30,000 people were in the airport at 
+the time. Hundreds of people were stuck in airplanes on the ground 
+or diverted in the air, including a former US Secretary of 
+Transportation. Over 1000 flights were canceled over two days, 
+flight schedules were disrupted throughout the United States, and 
+one airline reported a cost of 50 million dollars.
+
+Failure of an electrical switch in a utility tunnel in the airport started a fire. The airport 
+had two separate power supplies from separate sub-stations from the electric company, but 
+the cables for both power supplies went through the utility tunnel near the failed switch. 
+The fire disabled both the main power supply and the alternate power supply. This is called 
+a “common cause failure.” A single event – the “common cause”, in this case the fire from 
+the switch – results in the failure of two or more other pieces of equipment or systems –
+the main power supply and the alternate (backup) power supply for the airport.
+
+Common cause failures can occur in process plants, both in normal operations and in 
+
+emergency situations. For example, a reactor has two high temperature shutdown sensors. 
+Both are calibrated at the same time by the same technician following the same procedure. 
+Unfortunately the technician is not properly trained and does the calibration incorrectly for 
+both sensors, so both give an incorrect temperature reading.
+
+In the 1984 Piper Alpha North Sea oil platform disaster, fire water pumps which 
+
+pumped water from the sea had been set to “manual start” because divers were in the sea 
+near the platform. A gas leak on the platform ignited, starting a fire, and the fire made it 
+impossible to reach the switches to turn on the fire water pumps. The fire was a common 
+cause – it created the need for fire water, and also prevented access to the fire water pump 
+switches. There was no alternate location to turn on the fire water pumps.
+
+What can you do?
+
+ Look for common cause failures which can disable multiple systems (particularly a primary system and its backup) in 
+
+your plant at the same time – both in normal operations, and also in emergency response systems and procedures.
+ When you are involved in an emergency drill, look for common cause failures – things that can both initiate the 
+emergency and also prevent you from following established emergency procedures or using required emergency 
+response equipment. For example, if you have to start an emergency generator after a power failure at night, will you 
+be able to see well enough to start the generator if the lights are not working because of the power failure?
+
+ Look at safety systems and backup safety equipment in detail and consider potential common cause failures. In 
+
+particular, if primary and backup systems are located in the same room or physically close together, consider the 
+potential for a fire, flood, or other major event disabling both the primary system and the backup.
+
+ Report common cause concerns to your management and technical staff so they can evaluate measures to eliminate 
+
+conditions that result in a common cause failure.
+
+Look for common cause failures in normal operations and emergency response!
+
+©AIChE 2018. All rights reserved. Reproduction for non-commercial, educational purposes is encouraged. However, reproduction for any 
+commercial purpose without express written consent of AIChE is strictly prohibited. Contact us at ccps_beacon@aiche.org or 646-495-1371.
+
+The Beacon is usually available in Afrikaans, Arabic, Catalan, Chinese, Czech, Danish, Dutch, English, Filipino, French, German, Greek, Gujarati, Hebrew, Hindi, Hungarian, Indonesian,  
+
+Italian, Japanese, Korean, Malay, Marathi, Mongolian, Persian (Farsi), Polish, Portuguese, Romanian, Russian, Spanish, Swedish, Telugu, Thai, Turkish, Urdu, and Vietnamese.
+
+

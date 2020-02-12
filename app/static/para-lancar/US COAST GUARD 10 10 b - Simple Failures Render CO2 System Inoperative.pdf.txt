@@ -1,0 +1,138 @@
+ 
+
+                      
+
+ 
+December 21, 2010 
+Washington, DC 
+
+ 
+
+ 
+
+   Alert 10(b)-10 
+
+SIMPLE FAILURES RENDER CO2 SYSTEM INOPERATIVE 
+
+ 
+
+Safety Alert 2 of 2 
+
+ 
+This safety alert addresses concerns discovered during an ongoing marine casualty investigation and 
+may be of interest to Ship Builders, Classification Societies, Owner / Operators and others involved 
+with vessel operations. 
+ 
+A  machinery  space  fire  onboard  a  relatively  new  vessel  was  effectively  responded  to  and 
+extinguished by the vessel’s quick response team firefighters using portable extinguishing equipment.  
+However, before it was declared completely extinguished and approximately five hours after the fire 
+started, the master of the vessel made the decision to release CO2 from the vessel’s fixed firefighting 
+system.    It  failed  to  operate  as  designed.  Subsequently,  crewmembers  were  unable  to  activate  it 
+manually and CO2 was never directed into the machinery space.  
+ 
+The following issues pertaining to the CO2 system were discovered.  
+ 
+ 
+
+•  Numerous  piping  and  hose  connections  leaked 
+extensively. When the system  was activated, on 
+scene  video  taken  by  the  firefighters  showed 
+numerous  leakages  into  the  CO2  room.    Post 
+casualty, while pressure was still on the system, 
+some  of  these  leaks  continued  even  after  the 
+tightened.  (Photograph  at 
+connections  were 
+right.) 
+
+•  The  zone  valve  for  the  aft  machinery  space 
+which admits CO2 from the bottle bank manifold 
+to the space failed.  Specifically, the ball valve’s 
+opening actuating arm fell off the valve when the 
+gas  powered  piston  actuator  attempted  to  move 
+it.    The  ball  valve  actuating  arm  was  held  in 
+place  by  a  very  small  machine  screw  and 
+washer.  When firefighters attempted to open the 
+valve  manually  using  the  provided  hardware  it 
+could not be moved. The valve was only able to 
+be  moved  after  the  gas  pressure  was  relieved 
+from  the  inlet  side  of  the  valve.  (Photograph  at 
+right.) 
+ 
+
+1
+
+ 
+ 
+ 
+ 
+
+ 
+
+•  Actuating arms to five of the six other zone valves 
+were  found  loose.  They  were  also  attached  by 
+small machine screws. (Photograph at right.) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+•  Hemp type pipe sealant was used extensively on 
+pipe  threads  throughout  the  system  and  in  some 
+instances  seems  to  have  entered  the  system. 
+(Photograph at right.) 
+
+ Certain  elements  of  the  distribution 
+manifold  contained  low  points  which 
+allowed  the  accumulation  of  water 
+within  piping 
+that  could  not  be 
+drained.  Such  a  circumstance  could 
+cause  corrosion  that  could  possibly 
+negatively  effect  operation  of  other 
+components.  (Photographs at right.) 
+
+ 
+ 
+ 
+ 
+ 
+ 
+• 
+
+ 
+ 
+
+ 
+
+ 
+•  The CO2 system’s pilot and co-pilot bottles did not appear to operate correctly according to the 
+firefighters involved and thus had to be manually activated using the valve handles located on 
+top  of  the  cylinders.    Additionally,  during  the  event,  the  bank  bottles  were  similarly  activated 
+due to the uncertainty of their release. At least one pilot bottle activation hose was reported to 
+have leaked.  
+ 
+
+•  The system had been recently serviced and inspected by an authorized service provider. 
+
+ 
+Because  of  these  and  other  issues,  the  United  States  Coast  Guard  strongly  recommends  that 
+Vessel  Builders  /  Shipyards,  Classification  Societies,  Insurers, Owners  /  Operators,  System  Service 
+Personnel, and others involved with these systems: 
+ 
+
+•  Carefully  and  critically  review,  routinely  inspect  and  maintain,  verify  and  test  their  Fixed  Fire 
+
+Fighting installations to ensure that they will operate correctly during an emergency. 
+
+ 
+Developed by the U.S. Coast Guard Headquarter’s Office of Investigations and Analysis, Washington, 
+DC.  Questions may be addressed to HQS-PF-fldr-G-PCA@uscg.mil. 
+
+2
+
+

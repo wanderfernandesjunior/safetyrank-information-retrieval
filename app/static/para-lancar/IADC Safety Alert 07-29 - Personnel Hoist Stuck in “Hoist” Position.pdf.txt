@@ -1,0 +1,74 @@
+Safety Alert 
+
+        From the International Association of Drilling Contractors 
+
+ 
+ALERT 07 – 29 
+ 
+
+PERSONNEL HOIST STUCK IN “HOIST” POSITION 
+
+ 
+WHAT HAPPENED: 
+ 
+During operations to slip and cut drilling line, crewman was being hoisted on a Personnel Hoist to remove a 
+dead  man  centralizer  on  the  drilling  line.    The  directional  control  handle  on  the  Personnel  Hoist  became 
+detached causing a loss of control of the winch in the hoisting mode.  To prevent further uncontrolled ascent, 
+the air isolation valve was closed, shutting off the air supply to the winch.  The control handle was reinstalled 
+and operations resumed. 
+ 
+WHAT CAUSED IT: 
+ 
+•  The Personnel Hoist was not inspected before use.   
+•  Safety meeting (JSA) did not include inspection of the winch’s operating lever.   
+•  The Personnel Hoist was not included on the Preventive Maintenance list.   
+•  Not everyone knew where the air isolation valve was located.   
+ 
+CORRECTIVE ACTIONS:  To address this incident, this company did the following: 
+ 
+
+Rig Supervisors remember:  
+
+ 
+
+ 
+
+This incident shows the importance of the company’s Preventive Maintenance Program and everyone 
+knowing the safety systems designed into every piece of equipment. 
+
+• 
+
+It is important to include the Personnel Hoist and other winches in the PM program.  Be sure to add 
+“Inspect condition and check operation of control lever” to the rig’s hoisting equipment PM Program.   
+
+•  Operators should do a visual inspection of the Personnel Hoist before operating.   
+•  Everyone needs to know where the air supply isolation valve is located.  The newer Personnel Hoists 
+
+come with an air supply isolation valve and remote isolation valve (the driller’s console would be a good 
+location for the backup isolation valve).  Include the location of the air supply isolation valve in your pre-
+job safety meetings involving the Personnel Hoist activities.   
+
+•  Hold Pre-Job safety meeting (JSA) before hoisting personnel.  In the safety meeting it is important to 
+
+o  The unexpected can and will happen.   
+o  Consider the worse thing that can happen in carrying out the tasks with the equipment being 
+
+consider:   
+
+used.  
+
+ Visually inspect your hoisting equipment on a daily basis and each time before lifting 
+
+The Corrective Actions stated in this alert are one company’s attempts to address the incident,  
+
+and do not necessarily reflect the position of IADC or the IADC HSE Committee. 
+
+This material is presented for information purposes only.  Managers & Supervisors should 
+
+evaluate this information to determine if it can be applied to their own situations and practices 
+
+Copyright © 2005 International Association of Drilling Contractors All rights reserved. 
+
+Issued September 2007 
+
+

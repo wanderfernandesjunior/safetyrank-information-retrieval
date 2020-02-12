@@ -1,0 +1,66 @@
+Safety Alert 
+
+        From the International Association of Drilling Contractors 
+
+ 
+ALERT 11 – 23  
+
+BENT HINGE PIN RESULTS IN NEAR MISS 
+
+ 
+WHAT HAPPENED: 
+ 
+The operation at the time of the incident was pulling out of the hole to change out the drill bit. The bottom-
+hole  assembly  (BHA)  was  9  1/2”  drill  collars  with  a  7-5/8”  regular  connection.  This  operation  requires 
+110,000 foot pounds of torque. While the rig crew was breaking out the 28” reamer and the shock sub, the 
+hinge pin in the manual tong had become bent. This resulted in the release of the tongs, which shot across 
+the rig floor. The tong pin that was bent during this operation had been received in the company warehouse 
+twelve days before the incident date. 
+
+WHAT CAUSED IT: 
+ 
+
+  The parts were stored in the warehouse together with similar pins; 
+  The pins were not clearly labeled; 
+  The incorrect pin, which was picked up, was for a different type tong model; 
+  Rig personnel failed to recognize that they had received an incorrect pin. 
+
+CORRECTIVE ACTIONS:  To address this incident, this company did the following: 
+ 
+
+Instructed the warehouse staff of the new tong pin locations; 
+Instructed rig crews to verify replacement parts that do not look right and/or fit correctly; 
+
+  Reorganized tong pins into separate bins in the warehouse; 
+  Required that  the tong pins going forward be clearly identified and labeled; 
+ 
+ 
+  Required crew to check the torque specifications for tongs prior to use. 
+ [NOTE: Manual drill pipe tongs are rated to maximum torque of 100,000 ft./lbs. When applying torque to 
+drill collars, ALL PERSONNEL must stand clear of the area.] 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+The Corrective Actions stated in this alert are one company’s attempts to address the incident,  
+
+and do not necessarily reflect the position of IADC or the IADC HSE Committee. 
+
+This material is presented for information purposes only.  Managers & Supervisors should 
+
+evaluate this information to determine if it can be applied to their own situations and practices 
+
+Copyright  2005 International Association of Drilling Contractors All rights reserved. 
+
+Issued October 2011 
+
+

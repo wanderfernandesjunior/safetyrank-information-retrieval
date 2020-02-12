@@ -1,0 +1,390 @@
+AB
+
+ 
+
+IMCA Safety Flash 13/01 
+
+November 2001 
+
+These  flashes  summarise  key  safety  matters  and  incidents,  allowing  wider  dissemination  of  lessons  learned  from  them.    The  information  below  has  been 
+provided in good faith by members and should be reviewed individually by recipients, who will determine its relevance to their own operations. 
+
+The effectiveness of the IMCA safety flash system depends on receiving reports from members in order to pass on information and avoid repeat incidents.  
+Please consider adding the IMCA secretariat (imca@imca-int.com) to your internal distribution list for safety alerts and/or manually submitting information 
+on specific incidents you consider may be relevant.  All information will be anonymised or sanitised, as appropriate. 
+
+A  number  of  other  organisations  issue  safety  flashes  and  similar  documents  which  may  be  of  interest  to  IMCA  members.    Where  these  are  particularly 
+relevant, these may be summarised or highlighted here.  Links to known relevant websites are provided at www.imca-int.com/links   Additional links should 
+be submitted to webmaster@imca-int.com 
+
+ 
+
+1  Retrieval of Buoys 
+
+In  October  1995,  IMCA  published  guidance  R  1/95  (now referred  to  as  IMCA  R  001)  referring  to  plastic  spherical  buoys, 
+sometimes  know  as  ‘Grimsby’  buoys  or  ‘Neukleons’.    These  buoys  are  used  on  ROVs  and  other  umbilicals.    Safety  Flash 
+09/01, issued this August, contained a reminder of the dangers inherent in the use of these buoys. 
+
+We have now received a report of another incident, where an umbilical buoy burst after being on deck for approximately 
+three hours, during which time the buoy was full of seawater.  This could have resulted in a serious injury. 
+
+The company reporting the incident has recommended that, if these buoys are in use, safety face guards and gloves are to be 
+worn during their retrieval and that all buoys are to be inspected prior to use and rejected if they have any pin holes, small 
+cracks, etc. 
+
+2  Electrical Fire in Engine Room 
+
+A  member  has  reported  the  following  incident  which  occurred  onboard  one  of  its  vessels.    Due  to  a  sudden  power 
+fluctuation, evidenced by flickering lights, the chief engineer went to the engine room to investigate and detected smoke, with 
+a foul smell emanating from the step-down transformer. 
+
+He panicked and shut off the main power breaker, causing the vessel to go adrift.  He used two DCP-type fire extinguishers 
+to  douse  the  smoke.    He  tried  to  establish  the  cause  of  the  incident  and,  after  about  five  minutes,  he  bypassed  the 
+transformer and resumed the power supply. 
+
+The cause of the overheating of the transformer is under investigation.  It is suspected that the transfer insulation and cooling 
+fan may be at fault. 
+
+The member, in order to prevent reoccurrence of such an incident, has advised its personnel: 
+
+that it is absolutely necessary to stay calm and assess the situation before deciding on the course of action; 
+
+to conduct a periodic check of all overload relays, MCBs and fire/smoke detection systems for correct function; 
+
+to report defects and ensure corrective action is taken. 
+
+3  Fatality during Maintenance of Elevator Lift 
+
+The  following  fatality,  which  occurred  during  a  routine  maintenance  task  on  an  elevator  lift  installed  on  a  rig,  has  been 
+reported  to  IMCA.    The  task  being  undertaken  was  to  change  the  wire  that  raised  and  lowered  the  lift.    During  the 
+operation, the securing arrangement used for this maintenance task failed and the lift fell over 100 feet to the bottom of the 
+lift shaft.  The Barge Supervisor was on top of the lift when it fell and he died of his injuries. 
+
+At present, the exact details of what happened have not yet been fully established, but the company concerned and the UK 
+Health & Safety Executive (HSE) are conducting detailed investigations into the incident. 
+
+The company concerned has undertaken to carry out the following actions: 
+
+Maintenance activities are to be reviewed and risk assessed to ensure that there are adequate controls in place before the 
+start  of  a  job.    This  may  mean  that  additional  assessment  procedures  will  need  to  be  drawn  up  for  more  complex 
+activities; 
+
+ 
+
+The  requirements  of  the  UK  Region  Permit  To  Work  (PTW)  procedures  are  to  be  studied.    Department  heads,  in 
+
+conjunction with the OIM shall review and, if appropriate, reinforce the PTW system for maintenance activities. 
+
+4  Need for Supplied Air in the Vicinity of Man Way during Nitrogen Purge 
+
+We have been notified of the following incident, which occurred while a catalyst change-out was being undertaken.  The job 
+was shut down for lunch, a nitrogen purge was on, the man way of the vessel was covered and there was no vacuum.   
+
+The  supervising  engineer  of  the  project  and  a  junior  engineer  (who  had  not  previously  been  involved  with  the  project) 
+entered  the  area,  proceeded  up  the  vessel  to  the  man  way  and  removed  the  board  covering  the  man  way.    The  junior 
+engineer peered in and subsequently passed out due to a lack of oxygen.  He was taken to the hospital for examination and 
+was subsequently released. 
+
+The company concerned has implemented the following actions: 
+
+Until  further  investigations  are  complete,  anyone  going  up  to  a  man  way  must  be  wearing  supplied  air  when  the  nitrogen 
+
+A chain around the man way ladder must be posted, to prevent anyone from going up to the man way when project staff are 
+
+purge is in process; 
+
+on lunch or break. 
+
+Additional actions are under consideration. 
+
+5  Grit Hose Parting – Near-Miss Incident 
+
+A  member  reports  that  while  a  diver  was  working  on  a  grit-blasting  operation,  the  grit  hose  parted  from  the  coupling 
+connection on deck.  No one was injured and nothing was damaged. 
+
+The LP compressor was shut down immediately and a safety meeting was conducted onboard to discuss the reasons for the 
+parting and the precautions necessary to prevent reoccurrence. 
+
+The company has set out the following checks to be made before use of the equipment: 
+
+Check the condition of the hose for any physical damage; 
+
+Check  all  hose-line  clamps  (including  gun  end  and  compressor  end)  for  tightness,  to  ensure  no  inadvertent  parting  of  the 
+
+hose while in use; 
+
+All hose connections are to be secured with safety rope to prevent a whiplash effect if parted; 
+
+Insurance wire is to be fixed on all quick-release ‘Chicago’ couplings to prevent inadvertent parting of couplings while in use; 
+
+All hose lines are to be anchored/secured with rope to fixed structures, again to prevent a whiplash effect if parted; 
+
+One person is to be available to man the compressor and blast-pot at all times while work is in progress. 
+
+6 
+
+Improper Slinging of Cargo 
+
+We have been passed the following, regarding an incident which resulted in cargo loss. 
+
+While making a lift from a boat to the platform, the operator picked up a cargo basket and proceeded to swing away from 
+the  boat.    While  swinging  the  basket,  the  cargo  suddenly  shifted  causing  the  O-ring  on  the  latch  side  of  the  hook  to  pull 
+through the latch.  When the O-ring pulled through the latch, the two part sling came unhooked from the stinger and the 
+basket dropped on one side resulting in dropping some of the cargo into the water. 
+
+There were no injuries, but some of the cargo was lost. 
+
+The company concerned has identified the following errors: 
+
+The cargo basket slings were too short to be utilized with a single point hookup causing an unstable load and one ring to pull 
+
+The minimum recommended sling angle (60 degrees) between the sling and the load was not maintained.  Actual angle was 
+
+through the hook; 
+
+about 35 degrees; 
+
+The riggers on the boat failed to stop the job and used a poor  rigging technique (single line stinger hook); 
+
+ 
+
+ 
+
+The crane operator failed to observe the rigging techniques prior to starting the lift. 
+
+ 
+Figure 1: Similar cargo basket with incorrect sling angle. 
+
+Figure 2:  Similar hook point with incorrect sling angle=hazard. 
+
+ 
+
+he company concerned has initiated the following corrective actions: 
+
+Utilisation of two-part slings when lifting similar cargo baskets; 
+
+Maintenance by crane operators and riggers of a minimum angle of 60 degrees between the sling and the load; 
+
+Reinforcement by supervisors of the necessity of stopping the job when proper rigging is not being used; 
+
+Supervisors are to review the original safety flash with all crane operators and riggers during a safety meeting. 
+
+The company has set out the following ‘rules of thumb’ for rigging: 
+
+Use the same number of pickup slings as the number of o-rings on the load rigging; 
+
+Each sling leg should be at least equal distance between the load pickup points (forming an equilateral triangle) regardless of 
+
+whether using a single stinger or two legged hook-up.  This will always give the preferred 60 degree sling angle. 
+
+X
+
+60˚
+
+60˚
+
+X
+
+Figure 3:  Rules of thumb 
+
+60˚
+
+ 
+
+7  Exploding Light and Smoke Marker 
+
+A  member  has  reported  that  two  ‘Ikaros’  man-overboard  light  and  smoke  markers,  manufactured  by  Hansson  Pyrotech, 
+were  returned  from  one  of  its  ships  to  its  shore-based  workshops.    The  units  had  been  stored  on  a  pallet  and  a 
+storeman was in the process of moving each unit to another location. 
+
+As he moved one of the units, it exploded with a loud bang, resulting in parts of the assembly shooting across the room.  
+Fortunately he was not struck by flying fragments nor was he otherwise injured.  The smoke itself did not activate in the 
+explosion, but instead the smoke powder was widely dispersed.  
+
+ 
+
+The company’s investigations identified that: 
+
+The storeman had not released the pin or moved any trigger mechanisms to activate the unit; 
+
+The safety pin was still in the unit when the parts were recovered; 
+
+The unit had been subjected to pressure build up from the way it had been torn apart rather than by normal activation of the 
+
+smoke system; 
+
+The unit was still within its safety bracket when it was moved. 
+
+The unit was subsequently returned to suppliers for further examination and, although it is not conclusive, they have stated 
+that  the  unit  may  not  have  had  the  safety  pin  fitted  correctly,  thereby  allowing  the  detonator  to  fire  but  preventing  the 
+correct release of the smoke capsule.  The resultant pressure build up caused the unit to explode rather than flare off the 
+smoke. 
+
+As this event followed within just a week of IMCA releasing a safety flash on another incident involving Smoke flares which 
+did cause serious injury, (Safety Flash 12/01), the company was concerned that there was a fault with these devices which 
+could  have  caused  further  injury.    Dialogue  with  the  manufacturers  and  UK  marine  authorities  is  ongoing  to  further 
+investigate such events.  The two manufacturers (the previous notice concerned a Pains Wessex unit) are concerned that 
+there could be a fault with their units, but their responses have been guarded.   
+
+Personnel should be made aware that at least two unexplained incidents have occurred and to avoid handling such devices 
+whenever  possible  for  inspection  purposes.    If  they  are  to  be  transported,  it  should  be  ensured  that  the  manufacturers’ 
+instructions are followed exactly and that the safety pin is correctly fitted. 
+
+8  Fatality involving Offshore Drilling Pipe Rack Fingers 
+
+We  have  been  passed  the  following  safety  alert  issued  by  the  US  Minerals  Management  Service.    Recently,  while  two 
+roustabouts were positioning a stand of pipe into a pipe rack finger in the derrick, the pipe rack finger fell to the rig floor, 
+killing  one  roustabout  and  injuring  the  other.    The  nine-stand  derrick  finger  weighed  approximately  65 lbs  and  fell 
+approximately 90 feet.  Preliminary indications are that the finger fell as the result of the failure of a weld near the base of the 
+finger. 
+
+Although the accident is currently under investigation by MMS, with an official report to be issued at a later date, the above 
+facts and the potential for similar occurrences have prompted this alert. 
+
+MMS  recommends  that  all pipe  rack fingers  currently in use  and those  scheduled  for  use  be  inspected  for the purpose  of 
+verifying  their  structural  integrity.    At  the  conclusion  of  MMS’s  investigation  of  the  accident,  the  issuance  of  an  additional 
+Safety Alert with further recommendations is possible. 
+
+9  Winch Incident 
+
+A member has reported that one of its vessels was trenching, during which time the ship was told to hold present speed with 
+the tow wire payed in at the same time.  There was no facility to spool the wire onto the drum accurately – personnel were 
+placed adjacent to the tow wire and operated a valve using a nylon rope.  This could have resulted in a serious injury and 
+damage to equipment. 
+
+The company involved has instructed crews that the winch is to be operated remotely and, if feasible, cameras are to be used 
+in hazardous areas.  The ship’s speed should also be taken into consideration. 
+
+10  MSA Surety Sure-Stop™ Shock Absorbers 
+
+Members  should  be  aware  of  the  following  ‘Stop  Use  &  Recall  Notice’ issued  by  Mine  Safety  Appliances  Company  (MSA).  
+The full list of products involved is available on request from the IMCA office. 
+
+ 
+
+Mine Safety Appliances Company. P.O. Box 426 .Pittsburgh, PA 15230 
+
+Telephone: (412) 967-3000  
+
+ 
+
+ 
+
+ 
+
+ 
+
+Writers Direct Dial No. 
+
+Stop Use & Recall Notice 
+
+Concerning MSA Surety Sure-Stop™ Shock Absorbers 
+
+Manufactured from May through October of 2001 
+
+Immediate Attention Required 
+
+October 14, 2001 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+To: 
+
+All  users  of  MSA  Surety  lanyards  and  fall  protection  systems  using  the  Sure-Stop 
+shock absorber 
+
+ 
+MSA  is  currently  investigating  a  reported  incident  involving  an  MSA  Surety  Sure-Stop  lanyard.  
+Our initial findings revealed that the lanyard was improperly manufactured. Although it appeared to 
+be  functional,  it  provided  no  fall  arrest  protection  to  the  user.  This  notice  is  directed  to  all 
+purchasers of products that potentially could also contain this manufacturing error. MSA asks that 
+you  carefully  review  this  notice  and  immediately  remove  from  service  all  affected  fall 
+protection components. 
+ 
+Upon examination of the lanyard involved in this incident, we found that there was an error in the 
+stitching that secures one end of the shock absorber to the remainder of the lanyard. Since this joint 
+is glued in preparation for applying the stitches and the shock absorber sleeve covers this area, this 
+lanyard  appeared  functional.  Even  if  the  user  tugged  sharply  on  the  lanyard,  the  assembly  would 
+still have appeared secure. However, a lanyard in this condition is not functional and provides no 
+fall arrest protection to the user. 
+ 
+This notice involves all MSA Surety Sure-Stop shock absorbers and components that use the Sure-
+Stop  shock  absorber.  This  includes  the  following  MSA  Surety  fall  protection  products.  See  the 
+attached list for the MSA Surety part numbers identifying these products:  
+  MSA Surety Sure-Stop lanyards 
+  MSA Surety Gravity harnesses with integral Sure-Stop shock absorbers 
+  MSA Surety Sure-Grab rope grab/fall arrester 
+  Certain kits containing the MSA Surety Sure-Stop shock absorber 
+ 
+As  indicated  above,  this  notice  affects  only  those  MSA  Surety  Sure-Stop  shock  absorbers 
+manufactured  from  May  through  October  of  2001.  It  does  not  affect  MSA  Surety  products 
+manufactured  outside  this  time  period  or  any  products  labeled  “Surety  Manufacturing  &  Testing 
+LTD.” 
+ 
+The  manufacturing  date  applies  to  the  shock  absorber  only  and  does  not  apply  to  the  complete 
+system or other system components. 
+ 
+Through our investigation we discovered three units that were not stitched in the May and June time 
+period.  As  a  precaution,  we  are  including  units  manufactured  in  July,  August,  September,  and 
+October as subject to this notice. Based on several factors, we are confident that MSA Surety Sure-
+
+Stop  shock  absorbers  manufactured  outside  the  specified  time  period  as  well  as  products  labeled 
+“Surety Manufacturing & Testing LTD.” do not have this condition and may continue to be used. 
+ 
+The following outlines the steps you need to take immediately: 
+ 
+1.  Locate Sure-Stop components: 
+
+Locate all of the above listed fall protection components that use a Sure-Stop shock absorber. 
+ 
+
+2.  Remove affected shock absorbers from service: 
+
+Inspect  all  Sure-Stop  shock  absorbers  to  determine  the  date  of  manufacture.  The  date  of 
+manufacture is located on the label affixed to the shock absorber sleeve (see diagram below). If 
+this date is within the affected range or if the date cannot be determined, the shock absorber is 
+subject to this notice and must be removed from service. As a reminder, this notice applies only 
+to  MSA  Surety  Sure-Stop  shock  absorbers  and  does  not  apply  to  products  labeled  “Surety 
+Manufacturing & Testing LTD.” 
+ 
+
+ 
+
+ 
+
+3.  Contact MSA to arrange for inspection: 
+
+Contact  MSA  Customer  Service  to  make  arrangements  for  the  return  and  inspection  of  all 
+affected  products.  Customers  in  Canada  should  call  1-888-396-1067.  Customers  in  the  United 
+States should call 1-800-MSA-2222. 
+ 
+The  equipment  used  for  the  inspection  will  not  require  disassembly  of  the  shock  absorber, 
+however  it  will  be  conclusive  as  to  whether  the  stitching  is  present.  We  will  affix  a  green 
+adhesive  label  around  the  shock  absorber  to  identify  inspected  shock  absorbers.  The  label  will 
+read “Accepted for Use”. If we find that the stitching is not present, we will replace the system 
+component  containing  the  shock  absorber.  All  replacement  items  will  have  a  label  pack  with 
+specifications  and  warnings  attached.  The  original  or  replacement  products  will  be  express 
+shipped to you within three working days of our receipt of your product. 
+ 
+
+We apologize for the inconvenience this situation may cause you. However, we are confident that 
+our corrective measures appropriately address this safety concern. If you have any questions, please 
+feel  free  to  contact  MSA  Customer  Service  toll-free  at  1-888-396-1067  (Canada)  or  1-800-MSA-
+2222 (United States). Thank you. 
+ 
+
+Very truly yours, 
+ 
+ 
+Charles J. Seibel, Jr. 
+Manager of Product Safety 
+
+

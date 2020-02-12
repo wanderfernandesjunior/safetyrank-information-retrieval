@@ -1,0 +1,113 @@
+Safety Alert 
+
+        From the International Association of Drilling Contractors 
+
+ 
+ALERT 05 – 45 
+ 
+
+MAN-RIDING OPERATION RESULTS IN A FATALITY 
+
+ 
+WHAT HAPPENED: 
+ 
+The Rig night shift drilling crews were preparing the rig to commence drilling operations following a rig move.  
+Part of this task is to set back the mast lifting line equalizing yoke.  This requires working at a height of 35 
+meters (115 feet) above the rig floor. It was planned to be done with one man in the mast itself and one man 
+on a man-riding winch, both assisting in tying the yoke back.  During this operation the cable supporting the 
+victim fell off the snatch block hung underneath the crown assembly allowing the victim and the supporting 
+cable to fall 35m (115 feet) to the rig floor.  The victim suffered multiple injuries and died on the spot.  
+ 
+WHAT CAUSED IT: 
+ 
+•  The retaining bolt securing the cheek plate on the snatch block backed out.  The safety pin had not been 
+installed.  The block had been subject to many activities during the preceding 8 hours which may have 
+contributed to the backing out of the bolt. 
+
+•  The deformed cheek plate had been subject to a load much greater than man-riding alone.  A stall pull 
+with the winch would be powerful enough to deform this plate.  The rig had pulled out master-bushings 
+preceding this incident. 
+
+•  No secondary device in the form of a wire sling below the snatch block to catch the cable in the event of 
+
+a catastrophic failure was installed at the snatch block in the derrick. 
+
+•  The utility winch instead of the man-riding winch was used to lift the victim. 
+•  A climbing belt was used instead of a man-riding harness.  No secondary fall device was used on this 
+
+belt.  
+
+•  No hazard awareness or control. The Permit-To-Work system was disregarded.  No meaningful Tool Box 
+
+Talk was held or Job instructions were given.  
+
+ 
+CORRECTIVE ACTIONS:  To address this incident, this company issued the following directives: 
+ 
+•  Ensure a secondary retention device is fitted on all crown block sheaves. 
+•  Review the Permit To Work system.  Is it really being used or a paper exercise? 
+•  Rigging  up  safety  critical  equipment  is  a  Permit  To  Work  activity,  at  least  check  that  a  second  pair  of 
+
+•  Be aware of the maximum pull your rig floor tugger can exert on the sheaves and shackles.  Remember 
+
+eyes looks at all critical equipment.  
+
+it is a pulley system, the pull is doubled.  
+
+•  Assume the manufactures stall out pull unless you know its actual pull. 
+•  Use  the  correct  man-riding  winch  and  an  approved  man-riding  (not  climbing)  harness  that  includes 
+
+secondary fall device. 
+
+•  Have a proper Tool Box Talk.  
+•  Ask:  Is man-riding the only way to complete this task safely, is it the safest way? 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+The Corrective Actions stated in this alert are one company’s attempts to address the incident,  
+
+and do not necessarily reflect the position of IADC or the IADC HSE Committee. 
+
+This material is presented for information purposes only.  Managers & Supervisors should 
+
+evaluate this information to determine if it can be applied to their own situations and practices 
+
+Copyright © 2005 International Association of Drilling Contractors All rights reserved. 
+
+Issued December 2005 
+
+Safety Alert 
+
+        From the International Association of Drilling Contractors 
+
+ 
+ 
+
+ 
+IADC Note:  Refer to IADC HSE Reference Guide Section 19, and Safety Alerts:  00-36, 01-02, 01-16, 02-23, 
+02-32, 02-54, 03-18, 03-37, 05-01 
+ 
+
+ 
+
+The Corrective Actions stated in this alert are one company’s attempts to address the incident,  
+
+and do not necessarily reflect the position of IADC or the IADC HSE Committee. 
+
+This material is presented for information purposes only.  Managers & Supervisors should 
+
+evaluate this information to determine if it can be applied to their own situations and practices 
+
+Copyright © 2005 International Association of Drilling Contractors All rights reserved. 
+
+Issued December 2005 
+
+

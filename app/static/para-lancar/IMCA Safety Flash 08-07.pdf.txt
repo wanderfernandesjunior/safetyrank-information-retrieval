@@ -1,0 +1,62 @@
+AB
+
+ 
+
+IMCA Safety Flash 08/07 
+
+Safety Flash 
+
+August 2007 
+
+These  flashes  summarise  key  safety  matters  and  incidents,  allowing  wider  dissemination  of  lessons  learned  from  them.    The  information  below  has  been 
+provided in good faith by members and should be reviewed individually by recipients, who will determine its relevance to their own operations. 
+
+The effectiveness of the IMCA safety flash system depends on receiving reports from members in order to pass on information and avoid repeat incidents.  
+Please consider adding the IMCA secretariat (imca@imca-int.com) to your internal distribution list for safety alerts and/or manually submitting information 
+on specific incidents you consider may be relevant.  All information will be anonymised or sanitised, as appropriate. 
+
+A  number  of  other  organisations  issue  safety  flashes  and  similar  documents  which  may  be  of  interest  to  IMCA  members.    Where  these  are  particularly 
+relevant, these may be summarised or highlighted here.  Links to known relevant websites are provided at www.imca-int.com/links   Additional links should 
+be submitted to webmaster@imca-int.com 
+
+ 
+
+1  Failure of Welding on Hyperbaric Rescue Chamber Medical Lock Door Assembly  
+
+A member has reported that a weld failed on the medical lock door assembly of a hyperbaric rescue chamber.  The incident 
+occurred during a pressure test of the system and an employee sustained serious injuries after being struck by the displaced 
+medical lock door. 
+
+A report commissioned by the company, conducted by an independent metallurgical laboratory, identified that the welds in 
+the  bracket  could  have  failed  at  any  time  due  to  there  being  less  than  1 mm  of  weld  remaining.    This  was  partly  due  to 
+corrosion of the metal and partly due to poor welding. 
+
+It was calculated that a downward force of 10-20 kg would have been sufficient to cause the weld to fail.  The full penetration 
+weld  within  the  bracket  was  only  0.8-1.0 mm  thick  at  best  and  the  supporting  fillet  weld  had  no  fusion  along  one  of  its 
+lengths. 
+
+These pictures show the hyperbaric rescue chamber medical lock door assembly and the positioning of the C clamp retaining 
+bracket, the second picture clearly indicating a weld feature that failed whilst in operation. 
+
+Medical lock door assembly 
+
+C clamp retaining bracket (after failure) 
+
+The company’s findings were as follows: 
+
+♦  The C clamp retaining bracket was never regarded as being a load bearing or critical component and as such was never 
+
+included in routine checking or inspection of the assembly. 
+
+♦  At the time of installation of the assembly the engineering, certification or inspection regimes were not as stringent as 
+
+they are now. 
+
+♦ 
+
+It is recommended that all load bearing components within a dive spread are thoroughly inspected for signs of corrosion 
+or damage. 
+
+ 
+
+

@@ -1,0 +1,74 @@
+Safety Alert 
+
+        From the International Association of Drilling Contractors 
+
+ 
+ALERT 10 – 23 
+ 
+
+REPAIRING CENTRIFUGAL PUMP RESULTS IN A NEAR – MISS 
+
+ 
+WHAT HAPPENED: 
+ 
+A  welder  was  in  the  process  of  removing  a  seized  threaded  impellor  from  the  2-1/2”  shaft  of  a  centrifugal 
+mud pump.  To loosen the impeller from the shaft the welder used a welding torch to heat it.  The impeller is 
+screwed  onto  the  shaft  with  right-hand  threads  and  the  threads  are  sealed  inside  the  back  of  the  impeller 
+with an “O”-ring.  When the shaft/impeller was installed previously, the threads were greased and cavity was 
+filled with grease.  As the impeller was being heated, the heat from the torch caused the grease to expand 
+inside the impeller thread cavity.  The expanding grease caused the cast center of the impeller to explode 
+outward (see photo), striking a nearby welding machine. 
+
+WHAT CAUSED IT: 
+ 
+  Grease  had  been  used  to  lubricate  threads  on  the  impeller,  which  later  expanded  from  the  heat  of  a 
+welding torch.  Since there was no way to relieve the pressure an explosion resulted and the center of 
+the impellor to become a missile.   
+
+ 
+CORRECTIVE ACTIONS:  To address this incident, this company instructed rig maintenance 
+personnel in the following: 
+ 
+  This incident highlights that many of us are unaware of the technical aspects of centrifugal pumps and 
+
+their design.   
+
+  Do not heat the impeller to remove it unless a relief hole is drilled! 
+  This  incident  was  reported  to  the  manufacturer  and  they  are  sending  a  representative  to  discuss  the 
+
+technical nature of the equipment.   
+
+  Workers  are  to  Include  (review)  equipment  safety  bulletins  related  to  the  tasks  they  are  performing  in 
+
+pre-job safety meetings and JSAs being discussed.   
+
+Cavity which was 
+filled with grease. 
+
+Projectile from center of cast impeller. 
+
+ 
+
+ 
+Recommended Corrective Action:  Drill a 1/8 hole 
+in the center of this impeller cavity before attempting 
+any removal using heat.  
+Extreme Explosive Hazard! 
+
+The Corrective Actions stated in this alert are one company’s attempts to address the incident,  
+
+and do not necessarily reflect the position of IADC or the IADC HSE Committee. 
+
+This material is presented for information purposes only.  Managers & Supervisors should 
+
+evaluate this information to determine if it can be applied to their own situations and practices 
+
+Copyright  2005 International Association of Drilling Contractors All rights reserved. 
+
+Issued August 2010 
+
+ 
+
+ 
+
+

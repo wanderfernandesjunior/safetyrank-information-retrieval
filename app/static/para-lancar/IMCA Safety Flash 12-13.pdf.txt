@@ -1,0 +1,283 @@
+AB 
+
+ 
+
+IMCA Safety Flash 12/13 
+
+Safety Flash 
+
+  July 2013 
+
+These  flashes  summarise  key  safety  matters  and  incidents,  allowing  wider  dissemination  of  lessons  learnt  from  them.    The  information  below  has  been 
+provided in good faith by members and should be reviewed individually by recipients, who will determine its relevance to their own operations. 
+
+The effectiveness of the IMCA safety flash system depends on receiving reports from members in order to pass on information and avoid repeat incidents.  
+Please consider adding the IMCA secretariat (imca@imca-int.com) to your internal distribution list for safety alerts and/or manually submitting information 
+on specific incidents you consider may be relevant.  All information will be anonymised or sanitised, as appropriate. 
+
+A  number  of  other  organisations  issue  safety  flashes  and  similar  documents  which may  be  of  interest  to  IMCA  members.   Where  these  are  particularly 
+relevant, these may be summarised or highlighted here.  Links to known relevant websites are provided at www.imca-int.com/links   Additional links should 
+be submitted to webmaster@imca-int.com 
+
+ 
+
+1  Near Miss - Falling Transponder on Main Deck   
+
+A  member  has  reported  an  incident  in  which  a  transponder  came  into  contact  with  the  crane’s  sheave,  causing  the 
+transponder to fall on deck. The incident occurred during lifting operations, which required overboarding a jumper and its 
+spreader bar – both positioned on deck. The whole assembly was directly slung to the hook on the main line of the vessel’s 
+crane (see Figure 1). The main line and the whip line were both equipped with a transponder that was positioned right above 
+the headache ball and directly secured to the wire rope with two jubilee clips. 
+
+Once the assembly was lifted off its stands, the length of the whip line was reduced from approximately 7m to 3m, so that it 
+would not get tangled with the main line. The incident happened as the knuckle boom was folded to adjust the rigging. The 
+surface  area  of  the  knuckle  boom  increases  when  folded  and  both  lines  are  drawn  in  as  a  result.  The  transponder  on  the 
+whip line was caught up in the sheave, causing the transponder, which weighed approximately 4 kg, to fall from 30m to the 
+deck. There were no injuries. The transponder sustained noticeable damage (see Figure 2). 
+
+   
+
+ 
+
+Figure 1: Spreader bar assembly 
+
+Figure 2: Damaged transponder 
+
+ 
+
+ 
+
+ 
+Our members’ investigation revealed the following: 
+
+grease build-up; 
+
+been replaced; 
+
+  The mechanical hook level alarm installed on the whip line was disconnected because it was deemed too sensitive to 
+
+  The mechanical hook level alarm installed on the main line was not working because of corroded switches that had not 
+
+  The above-mentioned switches were not waterproof; 
+
+  No-one,  prior  to  or  during  the  operations,  spotted  the  two  transponders  that  were  on  both  lines  and/or  identified 
+
+them as hazards associated with a risk of falling object; 
+
+  The whip line had been put back into service after three months of unavailability due to a problem with calibration; 
+
+  There was no specific procedure regarding the use of transponders on the crane’s lines; 
+
+ 
+
+Existing company safety management system procedures for management of change were not followed. 
+
+Our member took the following preventive actions: 
+
+ 
+
+ 
+
+Ensured  personnel  fully  comply  with  existing  company  safety  management  system  procedures,  particularly  with 
+reference to management of change; 
+
+Ensured crane operators are fully aware of the workings of their cranes  – i.e. that the crane’s lines  are automatically 
+drawn in when the knuckle boom is folded; 
+
+  Removed unnecessary transponders from crane wires. 
+
+Our member put procedures in place to: 
+
+ 
+
+Ensure  that  the  mechanical  hook  level  alarm  installed  is  tested  each  time  the  crane  is  started,  and  that  this  test  is 
+included in the vessel’s planned maintenance system (PMS); 
+
+  Cover the use of transponders during lifting operations. 
+
+2  LTI: Crewman Injured During Opening of Tanks 
+
+A member has reported an incident in which someone suffered a head injury, when water escaped from a tank when it was 
+opened. The incident occurred during opening of vessel ballast water tanks for ventilation prior to cleaning and inspection. 
+The  wrong tank was opened; a tank containing ballast water (the majority of the volume of which was above the man-hole) 
+was opened by mistake, and approximately 180 cubic metres of water flushed out of the tank. The person opening the tank 
+was pushed aside by the flow of water and knocked against other structures, suffering head injuries as a result.  
+
+Following  first  aid,  the  crewman  was  taken  to  hospital  for  treatment,  but  later  returned  to  the  vessel.  The  incident  was 
+considered an LTI. Our member also considered the incident “high potential” as it could have easily resulted in a fatality.  
+
+Figure: Showing damaged grating and manhole from starboard side. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Figure: Showing area against which crewman was pushed by flow of water. NB height from deck to the 
+
+pipe is approximately 0.35m (red arrow) 
+
+ 
+
+Our members’ investigation revealed the following: 
+
+  There had been no risk assessment before starting the task; 
+
+  No permit to work was obtained for the task; 
+
+  There was insufficient familiarisation of persons involved in the task; 
+
+  There was no proper communication with regard to which tanks were to be opened and when to open them; 
+
+  All nuts were removed from manhole cover prior to breaking the seal. 
+
+Our member drew the following lessons from the incident: 
+
+Leave a minimum of bolts on the treads prior to breaking the seal of the manhole; 
+
+Ensure personnel involved in a task have a full and common understanding of what is required before starting;  
+
+Ensure personnel are aware that the job can be stopped if this is not the case;  
+
+Identify requirements for permit to work, isolations and tool box talks before start of task. 
+
+3 
+
+Incidents of Failure of Jet Drives on Wind Farm Service Vessels 
+
+A member has reported a number of incidents involving jet drives on wind farm service vessels.  
+
+Incident 1: Loss of Jet Drive Control on Wind Farm Service Vessel  
+
+A  wind  farm  service  vessel  lost  control  of  its  jet  drives.  The  incident  occurred  when  a  wind  farm  service  vessel  was 
+underway returning to port from the wind farm. Control of the port jet was lost and the vessel veered heavily to port. The 
+port jet was shut down and the vessel returned to base on one engine escorted by another wind farm service vessel.  
+
+  An M6 size bolt, securing the steering feedback transducer plate to the end of the steering ram, had vibrated loose and 
+
+Our members’ investigation revealed the following: 
+
+fallen off into the bilge; 
+
+  This resulted in a loss of steering control of the unit. 
+
+Our member took the following action and learnt the following lessons: 
+
+  The steering feedback transducer plate was reconnected and LocTite or similar used on the nut and bolt; 
+
+  The repair operation could have been conducted offshore without returning to port; 
+
+  When  the  rams  are  disconnected  from  the  transducer  plate  for  maintenance  purposes,  the  nut  and  bolt  should  be 
+
+secured with an agent like LocTite or similar to prevent the bolt from vibrating loose; 
+
+  Wind farm vessel crews should have a thorough technical understanding of the vessels they are using. 
+
+ 
+
+ 
+
+Figure: Transducer plate secured correctly to ram 
+
+Figure:  Transducer  plate  secured  correctly  to  ram  transducer  plate 
+unsecured and steering ram retracted 
+
+Incident 2: Failure of Jet Drive on Start-up   
+
+Before starting the jets, before starting the day’s operations, it was found that the starboard jet failed to respond. Initial fault 
+finding  consisted  of  shutting  down  and  restarting  the  starboard  jet  and  changing  over  the  relays.  This  did  not  work.  An 
+attempt  was  then  made  to  manoeuvre  using  the  local  solenoid  control  –  this  did  work.  Following  local  control,  the  jet 
+operated  normally  on  all  control  systems  and  operations  were  resumed.  As  a  result,  the  vessel  was  45  minutes  late  for 
+operations. 
+
+ 
+
+Our members’ investigation revealed the following: 
+
+  The gearbox had been maintained earlier in the week; 
+
+  The jet had performed for 45 minutes since the gearbox was serviced; 
+
+  Use of the local solenoid control restored the system to operation; 
+
+  The cause of the incident was suspected air within the system.  
+
+Our member recommended that: 
+
+programme;  
+
+  Knowledge  of  the  local  control  is  included  as  part  of  the  emergency  procedures  in  the  company  competence 
+
+  Wind farm service vessel skippers should be aware of the possibility of using local control systems; 
+
+  The use of local control systems should be part of routine fault finding. 
+
+4  Wind Farm Service Vessel in Collision with Wind Turbine Foundation 
+
+A member has reported an incident in which a wind farm service vessel collided with a turbine foundation, after failure of the 
+vessel jet drive. The incident occurred after the vessel had disembarked passengers at the sub-station and had reversed away 
+to  drift,  whilst  standing  by  for  the  next  assignment.  The  jets  were  disengaged  and  engines  left  running,  as  was  common 
+practice.  Under  the  influence  of  currents,  the  vessel  drifted  towards  another  turbine  foundation  and  when  approximately 
+30m  away,  the  vessel  coxswain/skipper  attempted  to  engage  the  jets.  At  this  moment  it  was  found  that  neither  jet  would 
+engage. Several minutes were spent fault finding to no avail, after which the vessel coxswain/skipper assisted the deckhand 
+with fenders.  The vessel collided with the foundation, causing a buckled frame and bent plate in the port quarter bulwark, 
+but no damage to the foundation.  
+
+Later  the  same  day,  the  problem  re-occurred  and  the  vessel  returned  to  port.  Since  that  time,  the  problem  had  not  
+re-appeared. Client and office were only informed after the second failure, when the vessel was returning to port. 
+
+ 
+
+Figure: Showing buckled frame and bent plate, as a result of collision between wind farm service vessel and turbine foundation 
+
+During investigation, the following points were noted: 
+
+ 
+
+It was common practice for wind farm vessels to be allowed to drift in field, whilst waiting for work; 
+
+  There  was  no  guidance  from  the  wind  farm  operator  (the  client)  on  a  minimum  distance  of  approach  to  offshore 
+
+ 
+
+  At the speed the wind farm vessel was drifting, 30m was not sufficient distance to allow enough time to re-start the jets 
+
+structures while drifting; 
+
+or to anchor; 
+
+  The jet drives re-engaged, once they had been completely shut down and re-started. 
+
+Our member drew the following lessons from the incident: 
+
+ 
+
+ 
+
+ 
+
+Following  any  incident,  the  company  office  and  client  should  be  informed  immediately,  if  necessary  using  satellite 
+telephone;  
+
+Jet  drives  should  be  engaged  when  within  100m  of  an  offshore  structure,  unless  the  wind  farm  service  vessel  is  at 
+anchor or tied off; 
+
+Following  this  incident,  the  wind  farm  client  now  allows  wind  farm  service  vessels  to  tie  off  on  to  foundations  when 
+waiting on work.  
+
+5  Risks Associated with Pneumatic Hose Couplings - Update 
+
+The National Offshore Petroleum Safety and Environmental Management Authority of Australia (NOPSEMA) has published 
+an updated version of its Safety Alert 55, covering the risks of incorrectly assembled, or faulty, pressurised pneumatic (air) 
+hose couplings.  
+
+The revised alert can be downloaded from www.nopsema.gov.au/assets/publications/Safety-Alert-55-Rev-2.pdf  
+
+

@@ -1,0 +1,201 @@
+A
+
+B
+
+ 
+
+IMCA Safety Flash 10/03 
+
+August 2003 
+
+These  flashes  summarise  key  safety  matters  and  incidents,  allowing  wider  dissemination  of  lessons  learned  from  them.    The  information  below  has  been 
+provided in good faith by members and should be reviewed individually by recipients, who will determine its relevance to their own operations. 
+
+The effectiveness of the IMCA safety flash system depends on receiving reports from members in order to pass on information and avoid repeat incidents.  
+Please consider adding the IMCA secretariat (imca@imca-int.com) to your internal distribution list for safety alerts and/or manually submitting information 
+on specific incidents you consider may be relevant.  All information will be anonymised or sanitised, as appropriate. 
+
+A  number  of  other  organisations  issue  safety  flashes  and  similar  documents  which  may  be  of  interest  to  IMCA  members.    Where  these  are  particularly 
+relevant, these may be summarised or highlighted here.  Links to known relevant websites are provided at www.imca-int.com/links   Additional links should 
+be submitted to webmaster@imca-int.com 
+
+ 
+
+1  Near Miss – Modification of Machinery 
+
+Keywords:  Near-miss 
+
+A member has advised of the following near miss.  A mechanic was working on a jet pump when a bracket holding the jet 
+hose failed.  The bracket was being used to rack jet hose.  When falling, the hose could potentially have struck the mechanic 
+and caused injury.  Fortunately it did not. 
+
+Investigation showed that the bracket had been welded to the jet pump in the field and appeared to have failed upon the 
+equipment returning from a project. 
+
+The company has noted the following: 
+
+lifting options; 
+
+  Welding or cutting reduces the designed strength of a frame and can causing lifting points and/or the frame to fail during 
+
+  Any modifications to standard-configuration equipment needed ‘in the field’ should be considered using the company’s 
+
+management of change procedure prior to them being carried out; 
+
+  Any such modifications will only be made after completion and approval of the management of change process, involving 
+
+rotating stock and safety personnel; 
+
+  Any such modifications, if approved, should only be carried out by an appropriately certified welder; 
+
+  No modifications should be made which bypass or override any safety device under any circumstance. 
+
+2  Fatality – Fall from Height Arising from a Failure to Use Personal Protective Equipment 
+
+Keywords:  Fall 
+
+We have received the following incident report, involving a fall from height from an offshore platform. 
+
+A  contractor  was  working  on  the  skimmer  level  of  an  offshore  platform,  approximately  10½  metres  above  the  water,  to 
+wrap a light fixture in preparation for sandblasting operations. 
+
+He had been told by his supervisor in their safety meeting to use a ‘spider’ (a lifting device), safety harness and work vest to 
+get to the fixture, as it extended outward from the walkway.  However, the contractor chose to lean out from the walkway 
+and through the handrails, instead of using his PPE. 
+
+While  attempting  to  wrap  plastic  around  the  light,  the  fixture  broke  off  of  its  pedestal  and  the  contractor,  who  had  the 
+majority of his weight shifted outward, fell, striking his head on the way down and entering the water unconscious.  He was 
+retrieved from the water, but never regained consciousness. 
+
+The  company  involved  has  reiterated  the  importance  of  never  taking  shortcuts    and  the  need  for  job  safety  analyses  and 
+understanding of all of the potential hazards.  It has circulated information on this incident to be included in all of its safety 
+meetings  and  site  orientations,  to  underline  the  consequences  of  taking  shortcuts.    It  is  also  reviewing  the  fall  protection 
+section of its relevant handbook. 
+
+3  Diver Fatality – Underwater Explosion 
+
+Keywords:  Explosion 
+
+A  member  has  advised  of  a  recent  fatality,  involving  an  experienced  diver,  which  occurred  during  underwater  cutting 
+operations  as  part  of  a  well  stub  removal  project.    The  site  conditions  and  sequence  of  events  are  summarised  in  the 
+diagrams below. 
+
+CORROSION CAP 
+
+-188 msw 
+
+ 
+
+ 
+
+ 
+
+GROUT RETURN HOLE 
+SEEPING BUBBLES 
+
+Ø 30" CASING 
+
+Ø 20" CASING 
+
+see following 
+picture for detail 
+ 
+
+VETCO SG-5 
+18  " 3-HANGER HOUSING 
+
+30" HOUSING ASSEMBLY 
+
+NOTE: 
+LOCATED STUB 
+@ 17:00, DAY 1 
+
+MUDLINE -191 msw 
+
+LOCAL SCOURING AROUND 
+WELLHEAD 
+
+ 
+
+ 
+
+ORIGINAL MUDLINE BEFORE JETTING 
+
+DAY 4 12:32 WINDOW CUT OUT 1½  x 3½
+
+-198 msw 
+
+Safety Flash 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+The company’s subsequent investigation has noted the following findings: 
+
+  Site  conditions  had  proved  to  be  different  from  those  represented  in  the  end-customer’s  drawing,  in  terms  of  the 
+
+wellhead connector assembly, bubbling gas and lack of grout between annuli; 
+
+  Generic procedures had been produced for what had been considered a ‘standard’ or ‘routine’ well stub removal; 
+
+  The job safety analysis (JSA) had focused on excavation as the primary risk; 
+
+  A ‘can do/will do’ attitude can be prevalent among dive teams and in the wider industry, which may have caused some 
+
+resistance to halt operations; 
+
+  The project manager only had limited involvement in this operation; 
+
+  The on-site procedure, developed by a widely experienced team of diving superintendent, supervisor and diver, proved 
+
+to be not adequate to avoid the fatality. 
+
+The company has noted the following actions: 
+
+It has instigated a ‘formal request for information’ procedure for retrieval of additional information from customers; 
+
+It has reiterated that salvage and burning jobs are never routine and are potentially hazardous.  It has noted the need for 
+detailed procedures and project risk assessments to be prepared, as per its project management procedures; 
+
+It has noted the need for project management procedures to include formal job handover procedures and project risk 
+assessments; 
+
+It has pointed out the need for formal project risk assessments and work site job safety analyses (JSAs) to identify all 
+potential risks before commencement of operations; 
+
+It is aiming for a better implementation of its ‘safety stand-down’ system through reinforcement training, in accordance 
+with its management-of-change procedures, to bring about a ‘can do/will do safely’ culture embraced by all employees; 
+
+  Again  in  relation  to  a  better  implementation  of  its  management-of-change  procedures,  the  company  has  noted  that, 
+whenever  appropriate,  project  managers,  senior  and/or  onshore  management  and  the  customer  are  to  be  involved  in 
+and to approve all significant changes to procedures. 
+
+4 
+
+Incident Involving a Crane Boom 
+
+Keywords:  Crane 
+
+We have received a report of an incident whereby a crane boom fell from an angle of 45° onto its rest.  There was no one in 
+the crane at the time of the incident, but one person on the main deck was slightly hurt by the debris as the crane boom fell.  
+The crane suffered significant damage to the boom, luffing winch, brake and hydraulic motor and the potential for serious 
+injury is obvious. 
+
+No root cause has so far been identified and an investigation is still ongoing.  Initial investigations suggest that, although the 
+crane was left parked in a properly parked mode, both winch drum brakes and the safety pawl all stayed off or partially off 
+when the crane was de-energised, when they should all have engaged.  Three co-incidental failures seem extremely unusual 
+and investigations are currently centred on whether the hydraulic system could have somehow locked pressure in to keep all 
+the brakes off. 
+
+

@@ -1,0 +1,70 @@
+Safety Alert 
+
+        From the International Association of Drilling Contractors 
+
+FLASH FIRE AT DEGASSER LINE FLARE PIT INJURES WORKER 
+
+ 
+
+ 
+ALERT 05 – 34 
+
+ 
+WHAT HAPPENED: 
+
+ 
+
+WHAT CAUSED IT: 
+
+incident.  
+
+While workers were circulating well gas through the choke with the annular closed SIDPP (Shut In Drill Pipe 
+Pressure @ 350 kpa [51 psi]), it was noticed that the fire in a pail, positioned under the degasser line, had 
+extinguished.  On the Rig Manager's order, the rig stopped pumping, and the HCR valve was closed, shutting 
+in the well.  The Rig Manager then instructed a worker to go to the end of the degasser line at the flare pit and 
+to re-ignite the contents of the pail.  The worker attempted to light the contents of the pail with his personal 
+cigarette lighter, and a flash fire resulted from the spark of his lighter, igniting the methane gas venting from 
+the opening at the end of the degasser line.  As a result, the worker was seriously injured, with second degree 
+burns to his hands and face. 
+
+•  The mud weight was too low. Gas kicks were circulated out seven times during the week prior to the 
+
+•  No remote ignition kit was available on location.  
+•  There was no pre-job safety meeting.  
+•  A gas detection device was not utilized prior to attempting ignition.  
+•  The injured worker was not wearing his fire-retardant coveralls properly prior to the attempted ignition. 
+
+(The sleeves were rolled up to the elbows.)  
+
+•  Sufficient time was not spent venting or properly purging the gas in the degasser line prior to ignition. 
+ 
+CORRECTIVE ACTIONS:  To address this incident, this company issued the following directives to 
+rig personnel: 
+ 
+
+•  Drill with a heavier mud system to improve well conditions relating to gas kicks.  
+•  Create a JSA (Job Safety Analysis) on both "Circulating gas through choke" and "Ignition of gas flare at 
+
+end of degasser line."  
+
+(e.g. JSAs).  
+
+•  Acquire a remote ignition kit, and develop a safe work plan to implement its use.  
+•  Develop an action plan to train and mentor workers on the pro-active risk and hazard assessment tools 
+
+ 
+Train all personnel on a gas detection device and proper use and maintenance of fire-retardant coveralls. 
+
+The Corrective Actions stated in this alert are one company’s attempts to address the incident,  
+
+and do not necessarily reflect the position of IADC or the IADC HSE Committee. 
+
+This material is presented for information purposes only.  Managers & Supervisors should 
+
+evaluate this information to determine if it can be applied to their own situations and practices 
+
+Copyright © 2005 International Association of Drilling Contractors All rights reserved. 
+
+Issued September 2005 
+
+

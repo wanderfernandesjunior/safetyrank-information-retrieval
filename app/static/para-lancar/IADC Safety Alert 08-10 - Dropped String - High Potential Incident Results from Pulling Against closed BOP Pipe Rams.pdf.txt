@@ -1,0 +1,92 @@
+Safety Alert 
+
+        From the International Association of Drilling Contractors 
+
+ 
+ALERT 08 – 10 
+ 
+
+DROPPED STRING – HIGH POTENTIAL INCIDENT RESULTS FROM 
+
+PULLING AGAINST CLOSED BOP PIPE RAMS 
+
+ 
+WHAT HAPPENED: 
+ 
+While laying down 5" drill pipe the crew proceeded until there were 3 stands in the well.  The Company Man 
+stopped  the operation  and  instructed  the  drill crew to  use  the cementing  unit  pump  to  conduct  an  integrity 
+test on the cement plug and casing against the BOP top pipe rams.  A pre-job safety meeting was conducted 
+by the Senior Toolpusher (STP) for the driller and the drilling crew.  After pressure testing, the cement plug / 
+casing showed pressure leakage.  The pressure was bled off and the STP went to the Company Man’s office 
+for further instructions.  Prior to leaving the rig floor the STP informed the driller not to forget to open up the 
+top rams and to pull out the string.  The driller decided to assist the crew in disconnecting and lying down the 
+cementing line, valve and circulation head prior to pulling the final three stands of drill pipe.  When starting to 
+pull the last three stands out of the hole the driller felt an over-pull and remembered that top rams were still 
+closed.  No remarkable change in Martin Decker reading was observed by the driller since the lower tool joint 
+wasn’t against the top rams due to the spacing out for pressure testing.  When the tool joint reached to the 
+top rams, the drill pipe started to stretch and unfortunately, the driller didn’t have enough time to respond and 
+stop the operation especially, since the string had already traveled 6 ft. upwards.  The drill string parted and 
+the rest of the string (8 joints of pipe + about 27'of the parted joint of DP) was dropped down into the well.   
+ 
+WHAT CAUSED IT: 
+ 
+
+•  Lack of supervision from STP. 
+• 
+•  By  “testing  against  the  top  BOP  rams,  the  rig  crew  did  not  follow  the  company’s  recommended 
+
+Inexperienced driller as he was recently promoted and still in the probation period. 
+
+drilling practices. 
+
+maximum over-pull. 
+
+•  Drilling instrumentation / drilling chart recorder wasn’t operating thus it was not possible to verify the 
+
+ 
+CORRECTIVE ACTIONS:  To address this incident, this company did the following: 
+ 
+Short Term Actions: 
+ 
+
+• 
+
+Instructions  were  given  to  all  rig  crews  to  always  perform  as  cement  /  casing  integrity  test  against 
+blind rams. 
+
+•  Rig Superintendents are to provide coaching by at rig sites. 
+
+•  Rig supervisors are to perform proper planning of work scopes and divide them up to several sub-
+
+operations with each having their own pre-job meetings. 
+
+•  Additional  supervisory  resources  shall  be  assigned 
+
+to  company  rigs 
+
+i.e.  additional 
+
+field 
+
+ 
+Long Term Actions: 
+ 
+
+superintendent. 
+
+ 
+ 
+
+The Corrective Actions stated in this alert are one company’s attempts to address the incident,  
+
+and do not necessarily reflect the position of IADC or the IADC HSE Committee. 
+
+This material is presented for information purposes only.  Managers & Supervisors should 
+
+evaluate this information to determine if it can be applied to their own situations and practices 
+
+Copyright © 2005 International Association of Drilling Contractors All rights reserved. 
+
+Issued March 2008 
+
+

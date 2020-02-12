@@ -1,0 +1,96 @@
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+September 6, 2007                                                                                                                               Alert 2-07 
+Washington, DC 
+ 
+
+Programming Marine Radio and AIS Equipment 
+
+ 
+Statistics  show  that  many  mariners  in  distress  do  not  properly  identify  themselves  nor  provide  a 
+precise location when radioing for help which delays rescue services in arriving at the scene quickly 
+and providing the assistance needed.  Many marine communication devices, including marine radios 
+equipped with Digital Selective Calling (DSC) and Automatic Identification Systems (AIS) equipment 
+rely  upon  a  9-digit  Maritime  Mobile  Service  Identity  (MMSI)  number  to  identify  itself  and  more 
+importantly the user of the device.    
+ 
+The U.S. Coast Guard and the National GMDSS Task Force1 is concerned that many users of these 
+devices  are  not  obtaining,  registering  and/or  properly  entering  their  assigned  MMSI  into  these 
+devices.  Lack of an MMSI will make some of these devices inoperable, such as AIS, or incapable of 
+operating  advanced  features2  or    distress  alerting  capabilities  of  the  device.    Leaving  the  MMSI 
+unprogrammed,  entering  a  false  identity  or  not  updating  a  previously-programmed  device  with  your 
+own identity may delay a rescue and under certain situations is unlawful. 
+ 
+MMSI  use  and  registration  greatly  assists  the  U.S.  Coast  Guard  in  responding  to  an  alert  since  it 
+contains  a  description  of  the  vessel  and  telephone  numbers  used  to  contact  the  vessel’s  owner  or 
+point  of  contact  in  an  emergency.  MMSI  numbers  are  issued  by  the  FCC  if  the  vessel  requires  a 
+Station  License,  otherwise  they  can  be  obtained  from  Boat  U.S.  (www.boatus.com/mmsi), Sea Tow 
+(www.seatow.com/boating_safety/mmsi), and Shine Micro (www.shinemicro.com) often at no charge.  
+Those  having  MMSIs  should  keep  registration  information  current,  including  phone  numbers, 
+address, name and type of boat. 
+ 
+Most  new  marine  radios  have  a  special  Distress  Alerting  Capability  that  will,  upon  the  touch  of  a 
+button,  transmit  a  distress  message  which  can  include  its  identity  (MMSI)  and  location—only  if  the 
+radio  has  been  programmed  with  a  MMSI  and  is  connected  to  a  electronic  positioning  system  (e.g. 
+GPS, LORAN).   The Coast Guard recommends DSC-equipped VHF radios for all mariners because 
+of these capabilities.   
+ 
+ 
+
+                                                 
+1 The Global Maritime Distress and Safety System (GMDSS) Task Force was created by the Coast Guard to assist the government 
+in implementing this new global radio safety system.  The GMDSS Task Force is sponsored by the Radio Technical Commission for 
+Maritime Services (RTCM).  This safety alert is directed primarily to organizations and media which cater to Recreational Vessels 
+and small Commercial Vessels. 
+2  In  addition  to  the  distress  alerting  capability,  DSC  radios  have  the  ability  to  make  routine  calls  amongst  each  other,  usually  by 
+entering the other radio's MMSI and touching the transmit button.  Once the two radios have connected, they automatically switch to a 
+communication  channel  so  that  a  conversation  can  take  place.    This  is  all  done  without  having  to  hail  by  a  voice  call  and/or  use 
+channel 16.  
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+The Task Force is also on record recommending that all vessels going as much as one mile offshore 
+should carry a VHF radio (preferably DSC) and if exceeding VHF range (20-30 miles) should carry a 
+406  MHz  Emergency  Position  Indicating  Radio  Beacon  (EPIRB)  or  a  406  MHz  Personal  Locater 
+Beacon (PLB) which can be detected by search and rescue satellites almost anywhere in the world. 
+ 
+Coast  Guard’s  Rescue  21  Project  is  Upgrading  the  Coastal  Network  for  DSC  Reception.  The 
+Coast Guard has implemented an extensive project to fill gaps in its VHF coastal radio coverage and 
+to upgrade the system for DSC operation. Rescue 21 is currently operational in portions of the Pacific 
+Northwest, Gulf of Mexico, Florida, and the East coast. Vessels with DSC capability should not delay 
+obtaining, registering, and/or properly entering their assigned MMSI into their radios while Rescue 21 
+coverage  is  increased.    There  is  already  an  extensive  watch  on  the  DSC  calling  channel  by  other 
+vessels who can relay alerts to the Coast Guard. 
+
+Visit these websites (or email) for additional information: 
+
+AIS, DSC, GMDSS at www.navcen.uscg.gov/marcomms (CGComms@uscg.mil) 
+Global Maritime Distress and Safety System Task Force at (gmdss@comcast.net) 
+Rescue 21 at http://www.uscg.mil/rescue21/home 
+RTCM at www.rtcm.org (info@rtcm.org)    
+
+This material is provided for informational purpose only and does not relieve any existing domestic or 
+international safety, operational or material requirement. 
+
+ 
+
+ 
+
+

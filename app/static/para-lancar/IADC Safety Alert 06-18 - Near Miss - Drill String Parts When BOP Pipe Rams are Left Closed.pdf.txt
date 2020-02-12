@@ -1,0 +1,67 @@
+Safety Alert 
+
+        From the International Association of Drilling Contractors 
+
+ 
+ALERT 06 – 18  
+ 
+
+NEAR MISS - DRILL STRING PARTS WHEN BOP PIPE RAMS ARE LEFT CLOSED 
+
+ 
+
+WHAT HAPPENED: 
+ 
+After conducting a routine Hydrogen Sulphide (H2S) drill and returning to drilling mode.  The Driller engaged 
+the  drum  clutch  and  picked  up  the  drill  string  while  the  BOP  pipe  rams  were  still  in  closed  position.    As  a 
+result the drill string parted at the slip area reaching its maximum tensile yield of the first joint that was being 
+hoisted.    The  elevators  and  the  links  jumped  violently  when  the  pipe  parted  and  approximately  4  foot  of 
+broken drill pipe dislodged from the elevators which were approximately 15-20 feet above the rotary table.  
+Before landing on the drill floor the dislodged pipe brushed the right shoulder of a floor hand standing in the 
+immediate area.  Two other floor hands were also working the rig floor at the time.  
+ 
+This  incident  had  the  potential  to  result  in  severe  consequences  up  to  and  including  fatal.  Fortunately  the 
+floor man suffered no significant injury and will be able to return to normal duties. 
+ 
+
+ 
+
+ 
+
+ 
+WHAT CAUSED IT: 
+ 
+•  Human Error – Driller did not open the pipe rams before returning to normal operations. 
+•  Failure to follow procedures - Although it is company policy and warning signage i.e. BOP Open/Closed 
+
+were available on the rig they were not used in this instance. 
+
+ 
+CORRECTIVE ACTIONS:  To address this incident, this company issued the following: 
+ 
+•  Rig Managers are to ensure that the company designed warning signage which is designed to fit over 
+
+the weight indicator is available and used whenever BOP’s Rams are closed.  See example below. 
+
+•  Compliance with the above is to be reported to the respective Rig Superintendent. 
+•  Onsite Safety Officer is to randomly check that warning signage is being used during BOP drills.  Non 
+
+compliance is to be reported to the relevant Rig Superintendent. 
+
+ 
+
+The Corrective Actions stated in this alert are one company’s attempts to address the incident,  
+
+and do not necessarily reflect the position of IADC or the IADC HSE Committee. 
+
+ 
+
+This material is presented for information purposes only.  Managers & Supervisors should 
+
+evaluate this information to determine if it can be applied to their own situations and practices 
+
+Copyright © 2005 International Association of Drilling Contractors All rights reserved. 
+
+Issued May 2006 
+
+

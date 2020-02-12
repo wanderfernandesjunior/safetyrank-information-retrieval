@@ -1,0 +1,118 @@
+Safety Alert 
+
+        From the International Association of Drilling Contractors 
+
+ 
+ALERT 10 – 06 
+ 
+
+NEAR MISSES INVOLVING RIG BRAKING SYSTEMS 
+
+ 
+WHAT HAPPENED: 
+ 
+Recently a company has experienced several serious incidents that are of a kind you can describe as 
+
+a “Driller’s worst nightmare”.  
+
+1.  One driller had miscommunication with a crewman who, instead of opening the valves to fill the 
+
+trip tank, disengaged the auxiliary brake handle.  Because the electric auxiliary brake was not 
+engaged, the drawworks brakes overheated resulting in the driller not being able to stop the 
+blocks, which ran into the top drive rail stops. 
+
+2.  On another rig the driller turned the hydromatic brake water valve the wrong direction.  This 
+resulted in shutting off the water supply to the auxiliary hydromatic brake which caused the 
+drawworks brakes to overheat.  He was unable to stop the descent of the blocks and the 
+elevators which struck the rotary table, bending the joint of pipe in the elevators. 
+
+ 
+No injuries resulted from these incidents and each could have been far worse. 
+
+WHAT CAUSED IT: 
+ 
+ 
+
+valve.  
+
+ 
+
+In the first incident there was a breakdown in communications between the driller and crewman.   
+
+o  The floorman came from a crew that used different hand signals. 
+o  Misunderstanding by the crewman regarding the rig operation and systems. 
+o  A bolt and nut were used to lock the electric brake handle to lock it in the engaged position.   
+
+ 
+
+In the second incident the driller was not aware of the valve position for water to be supplied to the 
+auxiliary hydromatic brake.   
+
+  There was a lack of labeling to indicate the open and closed on the hydromatic brake water supply 
+
+CORRECTIVE ACTIONS:  To address this incident, this company did the following: 
+ 
+  To address the communication problem in the first incident on rigs where supervision and crews 
+
+speak different languages, the company developed rig fleet-wide standardized hand signals.  
+
+  The bolt and nut securing the electric brake engaging handle were replaced with a padlock with 
+
+the key kept in the driller’s control.   
+
+  The electric brake handle was painted safety yellow to make it more visible.   
+  The remedial action plan for the second brake incident included labeling the water control valve 
+
+to the hydromatic brake showing the direction of open and closed.   
+
+  Review with all crewmen the danger signs signifying overheating mechanical brakes.  When 
+
+mechanical brakes display signs of overheating, they are likely being misused.   
+
+ 
+These incidents have stimulated discussions among operations personnel.  A memo was sent to the 
+
+field to solicit comments about these and other issues surrounding the drawworks brake systems.  
+
+The hope is that this safety bulletin will further that discussion. 
+
+The Corrective Actions stated in this alert are one company’s attempts to address the incident,  
+
+and do not necessarily reflect the position of IADC or the IADC HSE Committee. 
+
+This material is presented for information purposes only.  Managers & Supervisors should 
+
+evaluate this information to determine if it can be applied to their own situations and practices 
+
+Copyright  2005 International Association of Drilling Contractors All rights reserved. 
+
+Issued February 2010 
+
+Safety Alert 
+
+        From the International Association of Drilling Contractors 
+
+Both incidents and remedial action plans should prompt each of us to ask, “How are we managing 
+
+the brake systems on our rig(s)?”  Audit your brake system procedures, reviewing how brakes are 
+
+used in your operation before your worst nightmare becomes reality! 
+
+ 
+ 
+
+ 
+
+The Corrective Actions stated in this alert are one company’s attempts to address the incident,  
+
+and do not necessarily reflect the position of IADC or the IADC HSE Committee. 
+
+This material is presented for information purposes only.  Managers & Supervisors should 
+
+evaluate this information to determine if it can be applied to their own situations and practices 
+
+Copyright  2005 International Association of Drilling Contractors All rights reserved. 
+
+Issued February 2010 
+
+

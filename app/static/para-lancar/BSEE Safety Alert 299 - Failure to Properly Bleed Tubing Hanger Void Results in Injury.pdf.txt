@@ -1,0 +1,165 @@
+ 
+ 
+U.S. Department of the Interior 
+Bureau of Safety and  
+Environmental Enforcement 
+Gulf of Mexico OCS Region 
+
+Safety
+Alert 
+
+Contact:  Glynn T. Breaux
+(504) 736-2560
+
+BSEE 
+
+Safety Alert Number: 299 
+31 January 2012 
+ 
+
+Failure to Properly Bleed Tubing Hanger Void Results in Injury 
+
+ 
+Prior to well temporary abandonment operations, the surface controlled subsurface safety valve 
+had been isolated and replaced with a subsurface controlled safety valve.  During the 
+abandonment operation, pressure was bled off the top of the wellhead and the casings, and the 2-
+7/8 inch tubing was cut below the wellhead when the injured person (IP) began backing the 
+tubing hanger pins off the tubing hanger during wellhead dismantling.  During removal of the 
+fifth tubing hanger pin the entire tubing hanger pin and packing nut were ejected from the tubing 
+hanger head, striking the IP on the shin.       
+ 
+A BSEE investigation revealed the following: 
+ 
+
+  Based upon wellhead drawings it was determined that it was not necessary to remove the 
+
+tubing hanger pins from the tubing hanger in order to dismantle the wellhead.  
+
+  The IP did not isolate the packing nut to prevent its turning with the stem when removing 
+
+the pin. 
+
+  The IP was standing in direct line of the pin and nut assembly’s ejection point. 
+  There were no supporting documents to indicate that the subsurface controlled safety 
+
+valve control line was bled to zero prior to removing the tubing hanger pins.    
+
+  The wellhead bleeder plugs were not used to check for trapped pressure in the void space 
+
+of the tubing hanger adapter prior to the IP removing the tubing hanger pin and nut 
+assembly.   
+
+  During proper wellhead dismantling in the shop, using the bleeder valve tool on the 
+
+tubing head adaptor void space, trapped control line hydraulic pressure was confirmed at 
+the seal sleeve located at the top of the tubing hanger. 
+
+  During the shop wellhead dismantling, the ¼ inch tubing to safety valve assembly fitting 
+
+was found to have gouged threads on both the fitting and nut, and the ferrule was not 
+fully compressed on the ¼ inch tubing.  These initial installation defects allowed 
+hydraulic fluid pressure to enter the void space.     
+
+  This trapped hydraulic fluid pressure in the tubing head and tubing head adaptor ejected 
+the tubing hanger pin and nut since they were improperly backed off of its compression 
+ring.   
+
+  There was a lack of supervision to ensure that all workers were properly trained on the 
+
+  The Job Safety Analysis (JSA) failed to recognize all hazards associated with the 
+
+wellhead dismantling procedure. 
+
+wellhead dismantling. 
+
+ 
+Therefore, the BSEE recommends to the Lessees, Operators, and their contractors that: 
+ 
+
+  Proper supervision should be employed to ensure personnel dismantling a wellhead are 
+
+properly trained, and that proper bleed-down tools are used to verify any tubing head 
+void space has been properly bled.   
+
+  The JSA should recognize wellhead dismantling hazards; e.g., the tubing head void space 
+
+trapped pressure hazards, position of personnel, etc.    
+
+  When working on hanger pins, the operator should ensure a backup wrench is used on the 
+
+packing nut so the nut does not back out with the pin.  
+It is of the utmost importance to recognize that just because the wellhead reflects zero 
+pressure, there could be other wellhead component void areas that can store trapped 
+pressure.   
+
+  When in doubt during wellhead dismantling operations, consult with the wellhead 
+
+manufacturer representative. 
+
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+  
+
+ 
+
+www.bsee.gov/Regulations-and-Guidance/Safety-Alerts.aspx  
+
+--BSEE--GOMR-- 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+A Safety Alert is a tool used by BSEE to inform the offshore oil and gas 
+industry of the circumstances surrounding an accident or a near miss.  It also 
+contains recommendations that should help prevent the recurrence of such 
+an incident on the Outer Continental Shelf. 
+
+

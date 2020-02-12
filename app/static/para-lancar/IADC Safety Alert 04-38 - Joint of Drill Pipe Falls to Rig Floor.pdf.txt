@@ -1,0 +1,114 @@
+Safety Alert 
+
+From the International Association of Drilling Contractors 
+
+ 
+
+ 
+ALERT 04 – 38 
+
+ 
+
+ 
+
+JOINT OF DRILL PIPE FALLS TO RIG FLOOR 
+
+WHAT HAPPENED: 
+ 
+A locking safety hook and 4½” IF thread drill pipe lift cap was being used to pick up a single joint of 5” drill pipe 
+from the V-Door.  As the joint of drill pipe was raised with the air hoist and was being held several feet above 
+the floor, an employee attempted to remove the pin end protector.  The hook and drill pipe lift cap separated 
+and the joint of drill pipe struck the floor and then fell across the floor. 
+ 
+WHAT CAUSED IT: 
+ 
+Although not a contributing factor in this incident, the investigation revealed that the locking safety hook was 
+worn beyond the manufacturer’s maximum clearance.  A copy of the manufacturer’s inspection data sheet for 
+Maximum In-Service Clearance is shown. (See Figure 1) Figure 2 shows over 0.3” or just under 3/8” opening 
+between  the  latch  and  the  body  of  the  hook.    According  to  the  manufacturer,  the  maximum  allowable 
+clearance between the body and the latch on this 3/8” hook is 0.09” or 3/32”. 
+ 
+The employee indicated that he heard the hook close but did not see the locking safety hook close around the 
+lift  cap.    Based  on  that,  the  assumption  is  made  that  the  hook  was  never  latched  around  the  lift  cap.    It 
+probably closed on the lift cap and never locked; thereby the lift cap was not sitting in the throat, but on the tip 
+of  the  hook.  (See  Photo  in  Figure  3)    The  twisting  motion  when  the  employee  attempted  to  remove  the 
+protector  from  the  joint  of  pipe resulted  in  the  lift  cap  twisting  out  of  the  hook  tip  and  falling  to  the  floor  and 
+across the derrick. 
+ 
+CORRECTIVE ACTIONS:  To address this incident, this company did the following: 
+ 
+1.  When using a locking safety hook the employee shall visually inspect prior to use and ensure that the hook 
+
+2. 
+
+3. 
+
+is latched and locked prior to lifting the load.  
+Inspect all locking safety hooks immediately and remove from service all hooks that have a gap between 
+the hook and the latch larger than specified by the manufacture.  
+Include  all  locking  safety  hooks  in  the  rigs  lifting  gear  register  and  ensure  all  lifting  appliances  are 
+inspected in accordance with the manufacturer recommendations.  
+
+4.  A  copy  of  the  attached  inspection  data  sheet  showing  maximum  allowable  clearance  for  locking  safety 
+
+hooks shall be available on board the rig.  
+
+5.  Existing (old style) Locking Safety Hooks currently in use be replaced as they become unserviceable with 
+one that has side safety guards to keep the latch from accidentally opening if hit or bumped. (See figure 4 
+attached.)  
+
+The Corrective Actions stated in this alert are one company’s attempts to address the incident, and do not 
+
+necessarily reflect the position of IADC or the IADC HSE Committee. 
+
+This material is presented for information purposes only.  Managers & Supervisors should  
+
+evaluate this information to determine if it can be applied to their own situations and practices. 
+
+Copyright © 2004 International Association of Drilling Contractors.  All Rights Reserved 
+
+Issued September 2004 
+
+Safety Alert 
+
+From the International Association of Drilling Contractors 
+
+ 
+
+ 
+
+ 
+
+Figure 2 = 0.3 inch 
+
+Figure 3 
+
+ 
+
+Figure 1 
+
+ 
+
+ 
+Figure 4 Safety locking hook with safety guards. 
+ 
+
+ 
+
+ 
+
+The Corrective Actions stated in this alert are one company’s attempts to address the incident, and do not 
+
+necessarily reflect the position of IADC or the IADC HSE Committee. 
+
+ 
+
+This material is presented for information purposes only.  Managers & Supervisors should  
+
+evaluate this information to determine if it can be applied to their own situations and practices. 
+
+Copyright © 2004 International Association of Drilling Contractors.  All Rights Reserved 
+
+Issued September 2004 
+
+

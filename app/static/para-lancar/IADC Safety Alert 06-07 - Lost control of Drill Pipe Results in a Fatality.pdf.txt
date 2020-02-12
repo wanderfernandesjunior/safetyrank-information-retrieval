@@ -1,0 +1,78 @@
+Safety Alert 
+
+        From the International Association of Drilling Contractors 
+
+ 
+ALERT 06 – 07 
+ 
+
+LOST CONTROL OF DRILL PIPE RESULTS IN A FATALITY 
+
+ 
+
+WHAT HAPPENED: 
+ 
+The operation was Pulling Out Of the Hole (POOH) with 5-1/2 inch drill pipe.  The Derrickman was pulling 
+back the stands of drill pipe with the assistance of an air hoist with a chain and hook attached.  After setting 
+down stand # 26 in the set back area, the Derrickman unlatched the elevators and the Driller retracted the 
+link tilt.  The Derrickman then used the derrick mounted tugger (air winch) to pull the stand of drill pipe back 
+towards the finger board, clear of the traveling block.  The Driller commenced lowering the traveling blocks 
+and after approximately a ten foot descent, the Top Drive came into contact with the top of stand #26.  As the 
+Top  Drive  impacted  the  stand  of  pipe,  energy  was  transferred  causing  the  pipe  to  bow  and  snap  back 
+towards  the  Derrickman  who  was  positioned  on  the  monkey  board.    The  stand  struck  the  Derrickman 
+knocking  him  backwards  causing  his  head  to  strike  a  derrick  beam.    Although  no  one  actually  saw  the 
+incident take place, it appears that the Derrickman lost control of the pipe thereby allowing it to fall back in to 
+the path of the descending top drive. 
+ 
+WHAT CAUSED IT: 
+ 
+Root Cause:   
+ 
+•  Derrickman lost control of the stand of pipe. 
+•  View from Derrick camera was obstructed at a critical point of the operation. 
+•  The Derrickman did not attend the Job Risk Assessment. 
+•  No Procedure was in place to ensure that stands are secured in the finger board before the Top Drive is 
+
+lowered. 
+
+ 
+CONTRIBUTING FACTORS: 
+ 
+•  Teamwork was insufficient to compensate for the obstructed view of the monkey board. 
+•  Relied solely on the inadequately placed derrick camera to establish if it is clear to lower the Top Drive. 
+•  The length of pull back chain and design of hook may have contributed. 
+ 
+CORRECTIVE ACTIONS:   
+ 
+Each company should review their top-drive tripping operation procedures to address the potential causes of 
+this incident listed above. 
+ 
+
+•  Review JSA  
+•  Review SWA (stop Work Authority) and decide on a signal that is understood by all, and when given 
+
+•  Discuss communication methods and maintain constant communication between the derrick and rig 
+
+•  Maintain line of sight with the Derrickman while on the Monkeyboard 
+
+stops the work 
+
+floor  
+
+ 
+   
+ 
+
+The Corrective Actions stated in this alert are one company’s attempts to address the incident,  
+
+and do not necessarily reflect the position of IADC or the IADC HSE Committee. 
+
+This material is presented for information purposes only.  Managers & Supervisors should 
+
+evaluate this information to determine if it can be applied to their own situations and practices 
+
+Copyright © 2005 International Association of Drilling Contractors All rights reserved. 
+
+Issued February 2006 
+
+

@@ -1,0 +1,88 @@
+ 
+
+Safety Alert 10 
+
+ 
+
+Lifeboat (TEMPSC) Davit Winch Motor Brake Failure 
+
+ 
+ 
+What happened? 
+
+A recent incident involving the failure of Lifeboat winch motor brakes occurred when a 
+defective winch motor starter module was racked in with its main contactor in a forced 
+energised condition, defeating the davit limit switch interlock and energising the motor 
+against its brakes. This caused brakes to fail and the lifeboat to free-fall to the splash zone. 
+Manual retrieval attempts failed to recover the lifeboat, which sustained severe damage, as 
+the winch wire ropes entangled then parted, causing the lifeboat to strike the platform 
+structure. 
+
+This incident has highlighted issues with the motor starter design, mainly, the vulnerability 
+to spurious electrical faults due to the non-redundancy of electrical control logic, a facility to 
+defeat safeguard interlocks, and a lack of adequate defeat override indication. 
+
+It also highlighted failure or inadequacies of various systems of work mainly: the use of 
+permit to work process; use of the JSA/Stepback 5x5 during job preparation and fault 
+troubleshooting; handover and communication; training gap analysis and competency 
+assessment; maintenance procedures; and supervision. 
+
+ 
+ 
+What went wrong? 
+
+The switchgear on this facility uses a winch motor starter that is a standard type with a 
+single mains contactor. This lifeboat winch motor starter had a permanent not-readily 
+detectable contactor fault that bypassed the logic interlock with the davit limit switches. The 
+fault was wrongly communicated to another shift electrician who had not been trained on 
+this equipment operation or maintenance practices. 
+
+When the starter was racked in and de-isolated, it allowed the winch motor to energise 
+against its brakes causing them to fail and the lifeboat winch wire ropes to payout freely. 
+The normal maintenance procedure of using a simulator was not followed, while the use of 
+lifeboat davit chains was not adopted. 
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+
+NOPSA SAFETY ALERT 10 cont’d 
+ 
+
+Key Lessons: 
+
+•  Winch motor starters should be designed to provide adequate indication of fault 
+
+annunciation, ease of troubleshooting and redundancy of components.  
+
+•  Appropriate safeguards should be installed to ensure ancillary equipment can not be 
+
+operated outside their design by providing protection appropriate to the associated 
+main equipment Safety Integrity Level/criticality.  
+
+•  Operators should ensure that their permit to work procedures are adequately 
+reviewed to cater for better handover, application of risk assessment/JSA, job 
+authorisation/follow-up and closure.  
+
+•  Operators should systemise work orders and maintenance procedures to allow for 
+
+better scrutiny of unsupervised work through traceable checklists, use of simulators 
+and davit chains.  
+
+•  Operators should ensure all new technicians are adequately trained and supervised 
+
+until fully competent to work alone.  
+
+ 
+ 
+ 
+Contact 
+For further information email alerts@nopsa.gov.au and quote Alert 10 
+ 
+
+

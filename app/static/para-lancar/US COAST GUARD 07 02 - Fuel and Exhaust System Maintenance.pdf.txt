@@ -1,0 +1,139 @@
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+August 1, 2002  (reformatted 2014) 
+Washington, DC 
+
+         Inspections and Compliance Directorate 
+
+FUEL AND EXHAUST SYSTEM MAINTENANCE 
+
+      Safety Alert 07-02 
+ 
+
+Recently  a  35,000  DWT  product  tanker  suffered  a  major  engine  room  fire  in  the  Atlantic  Ocean. 
+The fire occurred in the early morning hours while the vessel's engineroom and machinery spaces 
+were  unattended.  Upon  onset  of  the  fire,  the  vessel's  smoke  detection  system  activated  the 
+vessel's  fire  alarm.  Moments  afterwards  other  engineering  alarms  sounded  throughout  vessel. 
+During this period crewmembers reported extensive smoke throughout the cabin passageways on 
+different decks and in the bridge area. The vessel's  crew escaped each deck by exiting doors at 
+the rear of the house or via the bridge. Engineering personnel prior to exiting their living quarters 
+managed  to  activate  remote  stops  at  a  passageway  control  station.  Their  efforts  resulted  in  the 
+shutdown of various fuel and ventilation systems within the engineroom.  
+
+Initial reports indicate that due to the excessive smoke within the house and the inability to get to 
+the firefighting locker, a decision was made to extinguish the fire using the vessel's fixed Carbon 
+Dioxide  extinguishing  system.  Prior  to  release,  crewmembers  fitted  canvas  coverings  over 
+engineroom  intake  and  exhaust  vents  while  others  performed  emergency  functions  such  as 
+communications and preparations for launching the vessel's two lifeboats. Eventually, the vessel's 
+Carbon Dioxide system was activated and successfully extinguished the fire. During the course of 
+these events, a salvage team and tug were requested by the vessel's master.  
+
+Several  other  vessels  including  one  from  the  same  operating  company  stood  by  to  provide 
+assistance.  The  following  day  the  salvage  team  and  tug  arrived  on  scene.  Using  the  tug  they 
+transferred  non-essential  personnel  to  the  standby  vessel  and  made  preparations  to  tow  the 
+disabled tankship to port. There were no injuries or fatalities resulting from this casualty. However, 
+main  engine  and  machinery  space  equipment  repair  costs,  associated  salvage  and  towing  costs 
+associated are expected to be significant.  
+
+The investigation to this casualty is not complete. This safety information serves as a reminder and 
+is  provided  only  to  assist  vessel  owners,  operators,  shore-support  staff,  crews  and  engineering 
+personnel  in  assessing  and  understanding  risks  associated  with  the  operation,  maintenance  and 
+repair of their vessels.  
+
+The vessel is equipped with two vee-type, 14 cylinder, reversing, 7000 hp, turbocharged, medium 
+speed, four stroke diesel engines capable of using multiple fuels.  
+
+Main Engines 
+
+ 
+
+ 
+
+1 
+
+Fuel 
+
+Each  cylinder  has  its  own  cam  driven  fuel 
+pump and injector. Each fuel pump is fitted 
+with  its  own  supply  and  return  piping.  The 
+pre-shaped  pipes  are  about  5/8ths  of  an 
+inch  in  diameter  and  1  1/2  feet  long. 
+Intermediate fuel oil when used is supplied 
+under  pressure  at  about  35  psig  at  a 
+temperature near 215 degrees Fahrenheit. 
+The  supply  and  return  piping  attach  to 
+manifolds  on  each  bank  of  cylinders  using 
+a compression fitting. 
+
+On the fuel pump ends, each pipe consists 
+of  a  rectangular  shaped  block  containing 
+two bolt holes. Both blocks connect directly 
+opposite  one  another  on  the  fuel  pump 
+housing.  Two  metric  bolts  are  used  with 
+spacers  for  each  fitting.  The  heads  of  the 
+bolts are drilled to receive safety wiring which when properly used prevents loosening. Also located 
+on each block fitting directly between the two bolt holes is a viewing plug that is removed whenever 
+necessary to time the fuel pump to the engine.  
+
+Investigators  discovered  that  the  supply  line  to  the  starboard  engine  number  three  cylinder  fuel 
+pump  had  fractured  just  below  its  connection  into  the  rectangular  block  fitting.  Additionally, 
+shipyard  personnel  discovered  the  inboard  bolt  on  the  supply  line  fitting  loose.  Of  112  bolts 
+securing  the  fuel  pump  fittings  on  the  vessel's  two  engines,  none  were  safety  wired  despite  the 
+availability of drilled bolt heads and indications of such wiring in engine schematics and diagrams.  
+
+Just under the block fitting of each connection, hose clamped around the tube joint is a rubber boot 
+about four inches long. This boot is designed to deflect oil sprays downward should a break occur 
+in this area. The boot on number three cylinder was destroyed in the fire. 
+
+Heat Sources 
+
+The exhaust piping begins at each cylinder head with a short section that contains a receptacle for 
+an exhaust gas temperature pyrometer. Generally the piping consists of a series of ninety-degree 
+fittings  (ells),  straight  runs,  flanges,  gaskets,  and  expansion  bellows  as  it  continues  the  length  of 
+the  engine  to  other  ells  just  prior  to  entering  the  turbochargers.  At  sea  speed  loads,  vessel 
+engineers reported main engine cylinder exhaust temperatures near 850 degrees Fahrenheit.  
+
+Along the top center of the engines within the "vee" formed by the cylinder heads, all the exhaust 
+pipes should be encased in an insulated casing or shrouding. Investigators discovered numerous 
+disconnects  of  the  casing,  fallen  sections  and  a  general  absence  of  insulation  throughout  the 
+system. None of the short sections that connect to each cylinder head, nor any of the ells near the 
+turbocharger  end  of  the  engine  were  covered  with  insulation.  According  to  engine  manufacturer 
+schematics, every connection at the cylinder heads should have been both wrapped with insulation 
+and covered with shields. None of the 28 connections on both engines were covered.  
+
+ 
+
+2 
+
+Investigators  discovered  numerous  areas  where  intermediate  fuel  oil  had  contacted  these  hot 
+surfaces. 
+
+The United States Coast Guard strongly recommends that owners, operators, superintendents, 
+port  engineers,  shipboard  engineers  and  crewmembers  of  vessels  having  similar  equipment 
+ensure  the  proper  maintenance  and  repair  of  fuel  and  exhaust  systems  associated  with  main 
+propulsion and diesel driven auxiliaries onboard their vessels. 
+
+To reduce the risk of fatalities, injuries, environmental damage and  severe economic loss, diesel 
+engines  of  all  types  and  their  associated  systems  should  be  maintained  as  designed  unless 
+appropriate personnel have authorized modifications.  
+
+The insulation of potential fuel oil ignition sources and the use of specialized fasteners and other 
+devices  to  reduce  the  loosening  of  critical  engine  and  systems  components  is  essential  for  long 
+term safe operations. 
+
+This  safety  alert  is  provided  for  informational  purpose  only  and  does  not  relieve  any  domestic  or 
+international safety, operational or material requirement. Developed by the Office of Investigations 
+and Casualty Analysis. For questions or concerns please email hqs-pf-fldr-cg-inv@uscg.mil. 
+
+ 
+
+2 
+
+

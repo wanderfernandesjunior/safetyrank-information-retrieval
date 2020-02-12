@@ -1,0 +1,42 @@
+NATIONAL OFFSHORE PETROLEUM SAFETY AUTHORITY
+
+Crane Overhead Windows Dropped Object Protection
+
+SAFETY ALERT 29
+
+What happened?
+
+During a recent NOPSA inspection of an offshore facility it was noted that the pedestal 
+cranes on the facility did not have any grating protection for the overhead windows of the 
+crane. Figure 1 shows a crane without drops protection and figure 2 shows a crane with 
+drops protection on the overhead window.
+
+ 
+
+Figure 1 – no drops protection.
+
+Figure 2 – with drops protection
+
+What could go wrong?
+
+The American Petroleum Institute (API) specification 2C section 12.2 recommends that if 
+a crane cab is equipped with an overhead window, a grating or other protection should 
+be placed over the window to prevent debris from falling on the operator.
+
+In carrying out a hazard and risk assessment of crane operations, the last line of 
+defence or last line escalation factor against dropped objects affecting the crane 
+operator is a physical barrier.  Safety glass will not provide the same physical protection 
+against dropped objects as a steel grating.
+
+It is recommended that all operators carry out an assessment to confirm crane overhead 
+windows are physically protected and not just reliant on safety glass.
+
+Key Lessons:
+
+Contact
+
+For further information email alerts@nopsa.gov.au and quote Alert 29.
+
+Page 1 of 1
+
+

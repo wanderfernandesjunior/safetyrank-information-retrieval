@@ -1,0 +1,43 @@
+ 
+
+ 
+
+SAFETY ALERT 01 
+Man-riding near miss 
+
+ 
+
+What happened? 
+An offshore drilling operation stalled when a control system was inadvertently activated.  A man 
+was hoisted in a harness to release the elevators.  When the man landed on the rig floor the 
+travelling block was then lowered.  The man was removing the harness when the block fouled 
+the harness line, which was itself fouled over the racking fingers.  The man was lifted off the 
+ground towards the monkey board before the block was stopped.  Interviews revealed that the 
+man-riding activity in this case was under the controls stated in a permit that was issued for an 
+earlier unrelated activity.  The incident had clear fatality potential as the man was raised in 
+excess of 4 metres. 
+ 
+Key Lessons 
+Man-riding is an inherently risky activity and appropriate risk management processes should be 
+used to reduce the risk. 
+Blanket permits are inappropriate to control inherently risky activities such as man-riding. 
+Man-riding was conducted in this instance when other options were available that would not 
+expose a person to the potential to be harmed. 
+Man-riding hoists have traditionally been controlled manually.  It is possible to install simple, 
+effective hard barriers to remove the likelihood of human error in controlling this type of activity.  
+Risk assessment must target specific tasks or activities to be effective. 
+ 
+Recommendations 
+Man riding is an inherently risky operation that should only be performed if no other options are 
+available. 
+It is recommended that operators conduct risk assessments of current systems and include hard 
+barriers to reduce risk, such as locks or automatic controls where appropriate. 
+Man-riding activities should be planned, supervised and closed-out individually. 
+Blanket permits should not be used to control man-riding activities. 
+The use of best practice guidance such as “Step Change for Safety” publication “Best Practice 
+Guide to Man-riding Safety” is recommended. (http://stepchangeinsafety.net/) 
+ 
+Contact 
+For further information email alerts@nopsa.gov.au and quote Alert 01. 
+
+

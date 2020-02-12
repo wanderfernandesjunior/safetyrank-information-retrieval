@@ -1,0 +1,97 @@
+Safety Alert 
+
+        From the International Association of Drilling Contractors 
+
+ 
+ALERT 12 – 22  
+ 
+
+FALLING STEEL PLATE RESULTS IN STRUCK-BY INCIDENT 
+
+ 
+WHAT HAPPENED: 
+ 
+The crew was in the process of rigging down their rig.  After lowering the draw works section approximately 8 
+feet (2.4m), the crew began work on removing the driller side walking foot in preparation to lower the derrick.  
+While  removing  the  driller  side  walking  foot,  a  small  (2  feet  x  2.5  feet  /  61cm  x  76cm),  steel,  floor  plate 
+located on the skid at the off-driller side of the draw work fell approximately 12 feet (3.7m) below the drillfloor.  
+The steel plate bounced off the sub-structure and then struck an employee, who was working approximately 
+6 feet (2m) away from the substructure area.  At the time of the incident, the employee was performing other 
+duties and was not involved in the task of removing the walking foot. 
+ 
+
+WHAT CAUSED IT: 
+ 
+•  The JSA for rigging down the draw works did not include the steps to verify floor plate removal prior to 
+
+moving/lowering equipment. 
+
+•  The rig was previously stationed on a multiple well pad for 10 months and it had only been rigged down 
+
+twice from that pad until the time of incident; therefore: 
+
+o  Only two employees on this crew had multiple experiences with rig up/down for this rig. 
+o  There was a lack of familiarity in rig up/down procedures with this style of rig by the current 
+
+crew. 
+
+•  While  rigging  down  the  floor  plates,  it  was  noticed  that  the  bridle  lines  were  crossed  and  the  crew 
+immediately  began  to  fix  the  crossed  lines.    After  the  lines  were  put  in  the  correct  position,  no  one 
+thought  to  go  back  to  the  initial  job  of  removing  the  floor  plates  to  ensure  that  the  job  had  been 
+completed.    
+
+•  The rig personnel stated that they did not realize that the floor plate was separate from the actual floor 
+
+since there were no lifting eyes or cut outs in place that would make it easily noticed as removable. 
+
+o 
+
+It  was also observed  that the plate  was made of that same material and  painted the same 
+color as the floor. 
+
+•  The  ground  area  below  the  workers  was  not  sufficiently  cleared  while  the  lay  down  operations  were 
+
+being conducted. 
+
+o  Even  though  the  employee  on  the  ground  was  working  some  distance  away  from  the 
+
+substructure, he was still in the line of falling objects. 
+
+CORRECTIVE ACTIONS:  To address this incident, this company did the following: 
+ 
+•  The  company  revised  the  rig  specific  JSA  to  include  the  removal  of  all  floor  plates  and  verification  of 
+
+removal prior to lowering the draw works section. 
+
+•  Extra JSAs and supervision were provided for rigging up/down.  This is especially important after the rig 
+
+operates for several months without rigging down or if there is a high turnover of employees. 
+
+•  Rig personnel were reminded that whenever work is stopped due to a change in the planned work, they 
+
+must review the JSA steps prior to resuming the intended task. 
+
+•  Rig  personnel  were  directed  to  install  pivot  links  on  all  removable  floor  plates  to  both  assist  in  their 
+identification and serve as lifting points for rigging up or down.  If appropriate for visibility, additional color 
+will be added to make these points more recognizable.  
+
+•  Rig  personnel  were  reminded  that  the  JSA  shall  include  steps  for  determining  sufficient  safe  distance 
+from the substructure for personnel to work while floor and overhead rigging up/down is being performed. 
+
+ 
+
+ 
+
+The Corrective Actions stated in this alert are one company’s attempts to address the incident,  
+
+and do not necessarily reflect the position of IADC or the IADC HSE Committee. 
+
+This material is presented for information purposes only.  Managers & Supervisors should 
+
+evaluate this information to determine if it can be applied to their own situations and practices 
+
+Copyright  2008 International Association of Drilling Contractors All rights reserved. 
+
+Issued September 2012 
+
+

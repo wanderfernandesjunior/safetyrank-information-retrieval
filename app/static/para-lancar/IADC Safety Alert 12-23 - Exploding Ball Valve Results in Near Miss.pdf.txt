@@ -1,0 +1,64 @@
+Safety Alert 
+
+        From the International Association of Drilling Contractors 
+
+ 
+ALERT 12 – 23  
+ 
+
+EXPLODING BALL VALVE RESULTS IN NEAR MISS 
+
+ 
+WHAT HAPPENED: 
+ 
+The rig welder was instructed to cut a mild steel hose fitting from a 4 inch (10cm) brass ball valve.  Working 
+at his bench with a hot work permit, the welder used an oxy-acetylene torch to cut the mild steel fitting close 
+to the threaded  end of the valve.   Having finished  the job the  welder turned to  put  his torch away.   At this 
+time an extremely loud explosion took place and a short threaded section of the valve closest to the cut fitting 
+blew  across  the  lease,  hit  the  ground,  making  a  small  crater  approximately  26  feet  (8m)  away  from  the 
+bench.    The  threaded  section  bounced  and  flew  another  39  feet  (12m),  hitting  and  denting  a  steel  cargo 
+container. 
+ 
+
+ 
+
+WHAT CAUSED IT: 
+ 
+•  The valve had not been taken apart before the steel fitting was cut from the valve.  As the valve was in 
+the  completely  open  position,  the  valve  seal  ensured  that  the  void  space  between  the  ball  and  the 
+housing was completely enclosed. 
+ 
+
+•  This valve had been in service in a water line; therefore, it is presumed that fluid inside the sealed void 
+
+space between the housing and the ball was turned into steam by the heat of the cutting torch. 
+ 
+
+•  The applied heat  also  allowed the  valve body to expand.   The built up pressure of the steam, coupled 
+with  the  expansion  of  the  valve  body,  resulted  in  the  explosion  that  sent  the  smaller  part  of  the  valve 
+across the lease. 
+
+ 
+
+ 
+
+CORRECTIVE ACTIONS:  To address this incident, this company did the following: 
+ 
+• 
+ 
+
+Instructed rig welders that all valves must be disassembled prior to hot work. 
+
+The Corrective Actions stated in this alert are one company’s attempts to address the incident,  
+
+and do not necessarily reflect the position of IADC or the IADC HSE Committee. 
+
+This material is presented for information purposes only.  Managers & Supervisors should 
+
+evaluate this information to determine if it can be applied to their own situations and practices 
+
+Copyright  2008 International Association of Drilling Contractors All rights reserved. 
+
+Issued September 2012 
+
+

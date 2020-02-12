@@ -1,0 +1,390 @@
+AB 
+
+ 
+
+IMCA Safety Flash 08/09 
+
+Safety Flash 
+
+June 2009 
+
+These  flashes  summarise  key  safety  matters  and  incidents,  allowing  wider  dissemination  of  lessons  learnt  from  them.    The  information  below  has  been 
+provided in good faith by members and should be reviewed individually by recipients, who will determine its relevance to their own operations. 
+
+The effectiveness of the IMCA safety flash system depends on receiving reports from members in order to pass on information and avoid repeat incidents.  
+Please consider adding the IMCA secretariat (imca@imca-int.com) to your internal distribution list for safety alerts and/or manually submitting information 
+on specific incidents you consider may be relevant.  All information will be anonymised or sanitised, as appropriate. 
+
+A  number  of  other  organisations  issue  safety  flashes  and  similar  documents  which may  be  of  interest  to  IMCA  members.   Where  these  are  particularly 
+relevant, these may be summarised or highlighted here.  Links to known relevant websites are provided at www.imca-int.com/links   Additional links should 
+be submitted to webmaster@imca-int.com 
+
+ 
+
+1  Near Miss – Dropped Clump Weight 
+
+A  member  has  reported  an  incident  in  which  a  clump  weight  was  inadvertently  dropped  to  the  seabed.    The  incident 
+occurred during diving operations when operating a deck mounted tool deployment A-frame which incorporated two tugger 
+winch systems and a downline powered sheave.  Each tugger winch wire had an 88kg clump weight attached.  One tugger 
+was operational, deployed subsea with a downline secured to the wire at 10m intervals and the other inactive with the clump 
+weight suspended just below the snatch block. 
+
+While  recovering  the  tugger  wire  with  downline  to  the  surface,  it  was  noticed  that  the  winch  wire  clump  weight  could 
+potentially foul the guard rails on the A-frame.  The decision was made to boom out the A-frame further.  As the A-frame 
+was boomed out, the clump weight on the inactive wire rode up into the snatch block (because the tugger winch was not 
+paid out as the boom was extended).  The winch wire parted and the clump weight dropped to the seabed.  
+
+The clump weight landed on  a protection structure approximately 10m from the  divers who were working in  an adjacent 
+manifold.  No one was injured and no equipment was damaged but there was a high potential for serious injury to the divers 
+and for damage to subsea assets. 
+
+A-frame with tugger winch, snatch block and powered sheave arrangement 
+
+ 
+
+ 
+
+Position of deck crew during downline/tugger wire recovery 
+
+ 
+
+Following investigation it was discovered that the following factors contributed to the high potential near miss: 
+
+♦  The supervisor in charge of the operation on deck was himself operating the winch and A-frame rather than supervising 
+
+‘hands off’; 
+
+♦  The task risk assessment in place for the operation was not complete and did not cover all aspects of hazard and risk; 
+
+♦  There was no limit switch or proximity device fitted to safeguard against collision; 
+
+♦  The second tugger clump weight assembly was too close to the A-frame snatch block (when it should have been stowed 
+
+with sufficient slack to take up any extension); 
+
+♦  There  was  a  lack  of  awareness  regarding  the  position  of  the  second  tugger  winch  clump  weight  and  of  the  potential 
+
+consequences of letting out the boom on the A-frame. 
+
+The following corrective/preventative actions were taken: 
+
+♦  Review  of  operating  procedures  and  risk  assessments  for  the  use  of  lifting  appliances  incorporating  independent 
+
+hydraulic ram and winch controls, including: 
+– 
+– 
+
+awareness of hook/load position when operating A-frame 
+position  of  divers  –  exclusion  zone  for  divers  to  be  determined  from  dropped  object  analysis  and  this  should  be 
+written into operating procedures and risk assessments 
+
+–  warning notices to be posted on A-frames 
+– 
+
+deck crew to be familiarised and deemed competent to operate equipment; 
+
+♦  Supervisors should be remain ‘hands off’ and in a position to monitor and control operations; 
+
+♦  Operations requiring the over-boarding of anything when divers are in the water should require a dedicated toolbox talk 
+
+to discuss and review over-boarding task risk assessment; 
+
+♦  Full communication and agreement between the deck supervisor controlling the deck over boarding operation and the 
+
+dive supervisor regarding: 
+– 
+– 
+
+the imminent over-boarding of a load 
+that divers are clear of the dropped object exclusion zone. 
+
+2  Reintroduction of Personal Locator Beacons on Helicopter Flights 
+
+Members’  attention  is  drawn  to  the  attached  announcement  from  Oil  &  Gas  UK  regarding  recent  developments  with 
+personal  locator  beacons  (PLBs)  for  passengers  in  helicopters,  which  states  that  it  has  been  agreed  that  PLBs  should  be 
+reintroduced on offshore helicopter flights from mid-July.  This follows an earlier announcement from the UK Civil Aviation 
+Authority stopping the use of PLBs, which was covered in IMCA safety flash 05-09. 
+
+ 
+
+ 
+
+3  Fall From Height 
+
+A member has reported an incident in which a person was injured in a fall from a different level.  A saturation diver used the 
+transfer under pressure (TUP) access hatch to come out of the saturation chamber while unloading equipment.  To re-enter 
+the chamber the diver held on to the top dogging bar of the chamber.  The dogging bar rotated towards him causing him to 
+lose his grip and fall approximately five feet on to the bell skid leading to muscle contusion and hairline fractures of his right 
+forearm and right thigh. 
+
+Further investigation revealed the following: 
+
+♦ 
+
+In normal circumstances the presence of the diving bell at this TUP access hatch made access and egress safe.  When the 
+diving bell was removed, there was less edge protection around the platform; 
+
+♦  The injured person did not recognise the lack of protection and increased risk of falling; 
+
+♦  The injured person used an incorrect handle (dogging bar) to pull himself into the chamber. 
+
+The following recommendations were made: 
+
+♦  Reinforce the importance of management of change procedures; 
+
+♦  Ensure the correct fixed handholds are used when accessing or exiting a saturation chamber; 
+
+♦  Ensure all relevant personnel are aware of the location and use of the correct handholds; 
+
+♦  Construct a removable platform with additional edge protection to facilitate access to and from the chamber when the 
+
+bell is not present (see second picture). 
+
+ 
+Grip used by diver when 
+entering 
+ 
+
+ 
+Temporary ladder used 
+by divers – tied off to 
+platform 
+ 
+
+ 
+Base of diving bell rests 
+on deck here and mated 
+with flange here when 
+not in use 
+ 
+
+ 
+Fixed entrance 
+platform ladder 
+ 
+
+  
+
+Saturation chamber from which diver fell 
+
+SIDE VIEW 
+
+ 
+
+Saturation main entrance 
+ 
+
+Installed sliding extension platform with handle 
+ 
+
+Removable handrail 
+ 
+
+ 
+
+Movable platform to allow safe access to saturation chamber 
+
+ 
+
+4  Sodasorb Burn Injury 
+
+A member has reported that a diver has sustained a serious Sodasorb burn to his wrist. 
+
+After investigation by the member, the following was found: 
+
+♦  The spare bell scrubber basket had been filled with Sodasorb and sealed in a polythene bag which was in the bell for two 
+
+days before it was used.  During this period it appears that seawater had entered the container; 
+
+♦  When the diver lifted the basket, liquid ran out causing chemical burns to his wrist, the severity of which required that 
+
+the diver be decompressed; 
+
+♦  The polythene bag had either not been properly sealed or had been damaged. 
+
+It is recommended that the polythene bag should be checked for seal and integrity before use, ensuring that it stays dry and 
+that  dive  team  members  are  reminded  of  the  importance  of  safe  handling  practices  of  Sodasorb  and  other  diving  system 
+chemicals. 
+
+Oil & Gas UK E-Newsletter
+
+If you can’t view this email, please click here
+
+UK Oil and Gas Helicopter Task Group update
+Reintroduction of PLBs on helicopter flights                                            3rd June 2009
+
+ 
+
+Following a meeting on 2 June 2009 between the CAA, helicopter operators, the
+health and safety executive and Oil & Gas UK, it has been agreed that personal
+locator beacons should be reintroduced on offshore helicopter flights from mid
+July. To find out more about the outcomes of the meeting, the background and the
+technical challenges that will need to be overcome, please read on below.
+
+ Background
+
+Following the ditching of an offshore helicopter in the UK sector in February, investigations by the UK Air Accidents Investigation
+Branch (AAIB) found that interference from the personal locator beacons – or PLBs – worn by passengers had effectively
+switched off the “smart” long range rescue beacons that were fitted to the life rafts. This could have impacted the effectiveness of
+the search and rescue operation.
+
+The smart technology fitted to the life raft beacons is designed to shut the beacon down if it detects another beacon signal within
+a certain radius. This is supposed to ensure that the aircraft can easily be homed in on by Search and Rescue (SAR) aircraft by
+having only one high-powered aircraft beacon transmitting at a time. However, in the ETAP ditching, the lower powered
+passenger PLBs (non-smart) were detected by the smart beacons, which caused all  of the aircraft and life raft beacons to power
+down.
+
+ 
+
+To find out more about the work
+of the helicopter task group and
+other important areas of work,
+please click here
+
+A short summary of the other
+work fronts can be found below:
+
+Flight following system
+
+This new multilateration system enables
+helicopter positions to be displayed to
+the air traffic controllers on their radar
+display without using radar.
+
+Improvements to VHF voice
+rebroadcasting
+
+2009 will see the completion of a project
+to revolutionise voice communication
+with offshore helicopters.
+
+Helideck lighting trials
+
+As a result, the UK Civil Aviation Authority (CAA) instructed offshore helicopter operators within the UK to stop carrying personal
+beacons in ‘stand by’ mode because of the risk of them being accidentally switched on, interfering with the aircraft’s safety
+systems and shutting down its long-range beacons.
+
+Trials for enhanced helideck lighting are
+currently being carried out on
+installations across the UKCS.
+
+Following this instruction, it was agreed that the carriage of PLBs offshore would be temporarily halted until a solution to the
+issue could be found. This was to ensure a consistent approach, and also because PLBs carried in the ‘off’ mode are difficult
+(and for some models impossible) to activate whilst they are being worn.
+
+Implementation of advanced
+HUMS system
+
+The beacons can still, however, be worn on board offshore platforms, especially for work being done over the side.  
+
+Current position within the UK sector
+
+The PLB Workgroup, established in March this year, has been working with the helicopter operators
+and CAA to find a solution to these issues and have PLBs returned to use offshore as soon as
+possible. This was identified as a priority by the Helicopter Task Group.
+ 
+Following a series of discussions, a high level meeting was held on 2nd June 2009 between the
+CAA, Health and Safety Executive (HSE), helicopter operators and Oil & Gas UK representatives to
+agree a timeline for the reintroduction of PLBs. 
+
+The group discussed the following issues: 
+
+Accidental activation of PLBs – in order for the CAA and helicopter operators to accept the
+reintroduction of PLBs, it must be demonstrated for each different type of PLB that they are
+unlikely to go off accidentally (for example if dropped on the floor or tampered with during the
+flight)
+
+Smart beacon interference – To prevent the PLBs interfering with and shutting down the life
+raft beacons (as happened in the ETAP ditching), the life raft beacons must be switched back
+to a non-smart mode, so that they do not automatically switch off if they detect another
+
+The industry is committed to
+the early application of
+advanced anomaly detection
+data analysis for existing
+helicopter Health and Usage
+Monitoring Systems.
+
+The new system will be able to detect
+faults that are not being highlighted by
+current HUMS analysis.
+
+Offshore meteorological
+observation and reporting
+
+Oil & Gas UK is liaising with CAA and
+the Met Office to progress CAA
+recommendations, including the
+requirement for aeronautical
+meteorological stations on offshore
+installations and formal training of
+personnel making meteorological
+observations.
+
+http://www.oilandgas.org.uk/media/enews/PLB_update.html[04/06/2009 17:01:02]
+
+Oil & Gas UK E-Newsletter
+
+beacon going off nearby.
+
+Direction Finding (DF) equipment – This is the equipment used on board search and rescue
+helicopters and marine vessels to locate and home in on emergency beacons (including
+PLBs). Testing needs to be done to identify if any of this equipment needs upgrading so it
+can home in on an area if several beacons/PLBs are transmitting in that area.
+
+The outcomes of the meeting for each of these issues are summarised below:
+
+Personal Locator Beacons
+
+There was general agreement by all parties that PLBs should be reintroduced for use on helicopters
+by the middle of July; to that end the following actions were agreed:
+
+Each PLB model will go through a series of tests which have been approved by the CAA to
+demonstrate that the PLB in question is unlikely to activate accidentally (for example if
+dropped or knocked). Once a particular PLB has passed all these tests, the results will be
+reviewed by the CAA, helicopter operators and Oil & Gas UK in order to reach agreement for
+reintroduction on offshore flights.
+
+Helicopter operators will develop a standard pre-flight briefing for PLBs. The briefing DVD will
+also be revised.
+
+Helicopter operators will install 121.5mhz (the frequency PLBs transmit on) receivers onshore
+to check that no PLBs have been accidentally activated before boarding. Installation operators
+will install similar receivers offshore.
+
+Oil & Gas UK will convene a meeting at the end of June with the CAA and helicopter
+operators to agree the final steps towards PLB reintroduction in July.
+
+Smart Locator Beacons 
+
+The CAA will be writing to the helicopter operators to confirm the CAA’s expectation that the
+smart locator beacons in the life rafts will be replaced by non-smart beacons.
+
+Helicopter operators will produce a timetable for the replacement of smart locator beacons
+and share this with Oil & Gas UK.
+
+The CAA will host a technical meeting with all parties during early June to discuss smart
+beacon issues and any other issues arising linked to the reintroduction.
+
+Additional issues
+
+It was also agreed that further tests will be carried out to confirm the ability of Direction Finding
+equipment to home in on multiple beacon sources. This work will not need to be completed before
+reintroduction of PLBs.
+
+For further information please contact Britta Hallbauer at bhallbauer@oilandgasuk.co.uk or on 01224 577 250.
+
+Unsubscribe: If you do not wish to receive this newsletter, click on the unsubscribe link now and title the email, unsubscribe e-
+newsletter
+
+© 2009 United Kingdom Offshore Oil and Gas Industry Association Limited trading as Oil & Gas UK
+London: Tel 020 7802 2400  Fax 020 7802 2401    
+Aberdeen: Tel 01224 577 250  Fax 01224 577 251
+Email info@oilandgasuk.co.uk  Website http://www.oilandgasuk.co.uk
+
+ 
+ 
+
+http://www.oilandgas.org.uk/media/enews/PLB_update.html[04/06/2009 17:01:02]
+
+

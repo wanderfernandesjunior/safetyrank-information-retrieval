@@ -1,0 +1,173 @@
+AB
+
+ 
+
+ 
+
+Keywords:  Lifting 
+
+IMCA Safety Flash 07/03 
+
+July 2003 
+
+These  flashes  summarise  key  safety  matters  and  incidents,  allowing  wider  dissemination  of  lessons  learned  from  them.    The  information  below  has  been 
+provided in good faith by members and should be reviewed individually by recipients, who will determine its relevance to their own operations. 
+
+The effectiveness of the IMCA safety flash system depends on receiving reports from members in order to pass on information and avoid repeat incidents.  
+Please consider adding the IMCA secretariat (imca@imca-int.com) to your internal distribution list for safety alerts and/or manually submitting information 
+on specific incidents you consider may be relevant.  All information will be anonymised or sanitised, as appropriate. 
+
+A  number  of  other  organisations  issue  safety  flashes  and  similar  documents  which  may  be  of  interest  to  IMCA  members.    Where  these  are  particularly 
+relevant, these may be summarised or highlighted here.  Links to known relevant websites are provided at www.imca-int.com/links   Additional links should 
+be submitted to webmaster@imca-int.com 
+
+1  Webbing Strop Failure during Transponder Recovery 
+
+A  DSV  was  conducting  diving  operations  recovering  a  previously  installed  transponder  array.    During  the  transponder 
+recovery the diver connected the transponder beacon’s webbing strop (supplied with the transponder) and a separate vessel 
+strop on the tripod stand to the crane hook. 
+
+The load was lifted off the bottom and the divers moved clear under the vessel.  The crane lifted the load 10m then slewed 
+to  stern  and  carried  on  coming  up.    Upon  arrival  at  surface  the  transponder  beacon  was  found  to  be  missing.    Due  to 
+compliance with safe crane and diving operations, there was no personal injury or subsea asset damage.  The transponder 
+beacon was subsequently located close to original lifting position. 
+
+In  the  resulting  investigation,  the  stitching  on  the  webbing  strop  on  the  transponder  beacon  was  found  to  have  failed.  
+The webbing  strop  had  not  been  subjected  to  certification  or  maintenance.    In  communication  with  the  supplier,  the  hire 
+company stated that the webbing strop was not supplied for lifting purposes but only for general handling. 
+
+The company’s immediate actions were: 
+
+ 
+
+Issue of a safety alert; 
+
+  Removal of any hire company supplied webbing strops from all transponder beacons; 
+
+  All  future  transponder  deployment  and  recovery  operations  are  to  be  carried  out  with  strict  adherence  to  company 
+
+  All sites are to carry out a safety brief to make personnel aware of this incident; 
+
+  Site  management  are  to  reiterate  with  personnel  the  requirement  to  carry  out  pre-use  visual  inspection  of  lifting 
+
+procedure; 
+
+equipment; 
+
+The company has also noted the following longer term actions: 
+
+  Discussion with transponder supplier of suitable lifting equipment arrangements; 
+
+ 
+
+Issue of a company work instruction to identify suitable lifting arrangements for transponders; 
+
+  Sharing of lessons learned with industry, through IMCA. 
+
+2  Defective Hammer Shaft 
+
+Keywords:  Hand tools 
+
+To  support  a  new  client  policy,  a  company  was  changing  over  to  the  use  of  fibreglass  shafts  for  all  hammers  over  2lbs.  
+One of the first to be sent offshore was a 14lb hammer.  Within a short period of use, the shaft showed signs of cracking just 
+behind the head of the hammer.  Use was stopped and the defect reported. 
+
+After discussion with the supplier and the client, all fibreglass handled hammers were withdrawn and the company involved 
+has reverted to wooden shafts. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+The company involved has restated the importance of taking care in the selection of tools, noting that the latest technology 
+may not be necessarily better than tried-and-tested equipment.  It reminds personnel that good pre-use inspection remains a 
+critical requirement not to be ignored or bypassed. 
+
+3  Fatality – Fall from Suspended Work Platform 
+
+Keywords:  Fall 
+
+A man was working on the lower level of a suspended modular scaffold.  He fell from the scaffold through a gap between two 
+modular platform sections.  The plywood used to bridge the gap between the two platforms was found on the floor.  He fell 
+from approximately 18 metres, sustaining severe injuries.  He was taken to hospital, but died from his injuries. 
+
+The subsequent investigation noted the following contributory factors: 
+
+the supervisor and his team had not received training concerning scaffolding procedures; 
+
+the supervisor thought the scaffolding was safe merely because it was set up, so he authorised the person involved to go 
+to the work location to complete previous day’s activity; 
+
+there was a lack of communication between the sub-contractor setting up the scaffolds and the sub-contractor using the 
+scaffolds; 
+
+ 
+
+the victim had not recognised a 90° tube across the platform walkway as a barrier. 
+
+4  Fire Incidents 
+
+Keywords:  Fire 
+
+Fire is one of the greatest risks to vessels and everybody needs to be on constant guard to prevent fires.  We have recently 
+received the following reports of incidents involving fires. 
+
+4.1  Fire in Crane 440V Contact Box 
+
+In this incident, a contact burnt out and set fire to adjacent cables and auxiliary switches.  The complete contact, 
+damaged cables and switches had to be renewed/repaired. 
+
+The company involved has reinforced planned maintenance/regular inspection schedules. 
+
+4.2  Fires involving Laundry Tumble Dryers 
+
+4.2.1  Electrical Component 
+
+In the first incident of this type, the main heater element in a tumble dryer overheated and ignited, possibly 
+due to an insulation problem.  The only damage was to other electrical components. 
+
+The defective part was replaced and all damaged areas were insulated. 
+
+The company involved has added regular inspection of insulation properties by the ETO to its maintenance 
+regimes. 
+
+4.2.2  Lint Build-Up 
+
+In  this  incident,  a  heater  element  overheated  due  to  a  fault  and  lint  (‘fluff’)  behind  the  drum  caught  fire.  
+The fire  did  not  reach  the  vent.    Due  to  a  shortage  of  spare  parts  (the  dryer  was  old),  the  dryer  was 
+replaced. 
+
+As a precaution, the vent trunking was thoroughly cleaned with any build-up of lint removed and the piping 
+was improved to give better exhaust capability. 
+
+In this instance, the lint filters in the machine were found to be clean of build-up of lint, but the company 
+involved has reiterated instructions to stewards on its vessels to ensure there is no build-up of lint prior to 
+each use and to ensure that such units are never overloaded. 
+
+Safety Flash 
+
+ 
+
+4.3  Fire in Equipment Space – Welding in Vicinity 
+
+During welding/burning on an adjacent wall or floor, a fire broke out in a machinery space on a vessel. 
+
+The company involved has reiterated the importance of its permit-to-work (PTW) system, along with the need to 
+perform job safety analyses (JSAs) for all ‘hot work’ performed outside of designated hot work areas. 
+
+The company noted the following precautions to be included in the above: 
+
+ 
+
+fire  watches  at  the  point  of  hot  operations  and  in  other  spaces  above  or  below  that  may  be  affected  by  the 
+work; 
+
+  portable fire extinguishers and fire blankets to be present; 
+
+  combustibles to be cleared away prior to commencement of the work. 
+
+

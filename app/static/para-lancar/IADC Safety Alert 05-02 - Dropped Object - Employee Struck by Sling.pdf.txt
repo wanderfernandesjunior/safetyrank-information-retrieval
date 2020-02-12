@@ -1,0 +1,114 @@
+Safety Alert 
+
+        From the International Association of Drilling Contractors 
+
+DROPPED OBJECT - EMPLOYEE STRUCK BY SLING 
+
+ 
+ALERT 05 – 02 
+
+WHAT HAPPENED: 
+
+A serious incident occurred on a Jackup Drilling rig when an employee was struck in the head by the eye of a 
+¾” stainless steel sling, resulting in a skull fracture and multiple sutures to the face and hand.  The crew was 
+in the process of picking-up and laying-down the #3 Deep Well Pump.  A nylon sling was secured to the 6” 
+deep well hose, and the hose was lifted 50 ft through the opening on the main deck.  The power supply cable 
+and the safety cable for the deep well pump were tied to the deep well hose with a ½” manila rope.  As the 
+hose was lifted the rope parted.  As the cables fell through the hole on the main deck the eye on the end of 
+the safety cable struck the employee on the forehead rendering him unconscious.   
+
+WHAT CAUSED IT: 
+
+Several  company  safety  management  systems  such  as  JSA,  PTW,  and  Safe  Work  Practices  were  not 
+properly followed.  These systems were being used as a “check the box,” instead of an important tool so that 
+hazards are discussed, identified and managed.  The crew had reviewed a JSA, but the JSA was for the #1& 
+#2 deep wells, which are located over the side of the rig.  The #3 deep well poses different hazards because 
+of its location, and those hazards were not recognized or managed.  The JSA used did identify several safety 
+critical  steps  such  as  “inspect  rigging  and  equipment,”  but  these  safety  steps  were  ignored.    Inadequate 
+inspection of the rigging used to lift the pump and secure the auxiliary cables.  The nylon sling used to lift the 
+hose was not fit for purpose and showed severe wear and damage.  A permit was also issued, but an Area 
+Supervisor was not assigned to oversee the operation, or to ensure that company Safe Work practices were 
+adhered to.  Although a JSA and PTW were completed, the principal safety systems, which are in place to 
+prevent this type of incident from occurring, were not enforced.  Rig personnel were not following the PTW 
+and JSA procedure in the company’s procedures manual.  When the deep well tower was removed 8 years 
+earlier, rig personnel did not attach permanent brackets and fasteners to secure the power supply cable and 
+safety cable to the 6” hose.  Instead, rope was used to hold these cables to the deep well hose.  Inadequate 
+Risk  Assessment  -  rope  was  used  in  place  of  brackets  and  fasteners,  and  unfortunately  this  was  an 
+acceptable practice with rig personnel.  Reference the company manual on rigging (Rigging Module, Fiber 
+Rope, and for proper application of fiber rope). 
+
+CORRECTIVE ACTIONS:  To address this incident, this company did the following: 
+
+Action Items (Rig) 
+
+The Safety Committee for each rig will review all JSAs and identify specialty lifts (installation of boat ropes, 
+take-on  hoses,  deepwell  installation,  etc.).    After  identification,  each  JSA  must  be  reviewed  by  the  Safety 
+Committee to ensure that the rigging utilized in these operations is specified in the JSA and is fit for purpose 
+for the intended job.  Due Date: 30-Jan-2005 
+Action Items (Management) 
+There have been several incidents recently where rope failed while supporting weight.  The Operations and 
+HSE Departments are currently revising the procedures manual section on Rigging Module, Fiber Rope so 
+the allowable applications for fiber rope are clearly defined.  Due Date: 15-Jan-2005 
+
+Operations  and  HSE  Departments  will  develop  a  company  approved  rigging  and  support  system  for 
+running submersible pumps over the side.  Due Date: 15-Jan-2005  
+
+This incident is still under investigation, further information may follow. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+The Corrective Actions stated in this alert are one company’s attempts to address the incident,  
+
+and do not necessarily reflect the position of IADC or the IADC HSE Committee. 
+
+This material is presented for information purposes only.  Managers & Supervisors should 
+
+evaluate this information to determine if it can be applied to their own situations and practices 
+
+Copyright © 2005 International Association of Drilling Contractors All rights reserved. 
+
+Issued January 2005 
+
+Safety Alert 
+
+        From the International Association of Drilling Contractors 
+
+ 
+
+ 
+
+ 
+
+The Corrective Actions stated in this alert are one company’s attempts to address the incident,  
+
+and do not necessarily reflect the position of IADC or the IADC HSE Committee. 
+
+This material is presented for information purposes only.  Managers & Supervisors should 
+
+evaluate this information to determine if it can be applied to their own situations and practices 
+
+Copyright © 2005 International Association of Drilling Contractors All rights reserved. 
+
+Issued January 2005 
+
+

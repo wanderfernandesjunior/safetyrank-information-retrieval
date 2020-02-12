@@ -1,0 +1,175 @@
+ 
+
+ 
+
+ 
+
+June 22, 2005 
+Washington, DC 
+ 
+Personal Flotation Devices  - Incorrect CO2 Cylinder Installation / False Positive Service Indicators 
+
+Alert 4-05 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Recently the U.S. Coast Guard has become aware of a potential problem when installing CO2 
+cylinders that have bayonet tips in inflatable personal flotation devices (PFDs or life jackets).  If a 
+cylinder is not properly installed, the PFD will not inflate with CO2.  The problem may affect several 
+thousand PFDs, but the Coast Guard is only aware of one incident to date.   
+ 
+Some Mustang, Protexion, and  Stearns/SOSpenders PFDs using Halkey-Roberts’ inflators can 
+indicate a green “Ready” status when the CO2 cylinder is not properly installed.  This false positive 
+green indication occurs when the cylinder-bayonet assembly is inserted in the inflator, not turned, and 
+the cylinder is not ejected.   
+ 
+Cylinders with bayonet tips are designed to be pushed in and turned 1/8th turn clockwise to a full stop 
+to secure the cylinder.  When the cylinder is not turned to secure it in place, the PFD will not inflate 
+with CO2.  The PFD may still be inflated orally.  If the CO2 cylinder is not turned, the mechanism is 
+supposed to eject it.  In some production units a false positive green indication can be achieved by 
+simply pushing the cylinder into the mechanism without turning it 1/8th turn to a full stop.  According to 
+the consumer report, a user was led to believe the cylinder-bayonet was properly engaged without 
+turning it due to the firm seating of the cylinder-bayonet, which also prevented the cylinder-bayonet 
+from ejecting as designed. 
+ 
+Consumers should check the model number of the PFD (located on the manufacturer’s label) to see if 
+your PFD is affected.   The models numbers are:  
+ 
+
+Contact Number 
+1-800-526-0532 (USA) 
+1-800-661-6181 (CAN) 
+www.mustangsurvival.com 
+ 
+
+Manufacturer 
+Mustang Survival 
+Customer 
+Service  
+3870 Mustang 
+Way 
+Bellingham, WA 
+98226 
+USA 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+PFD Model # 
+MC1900 Automatic 
+MC1900HR Automatic 
+w/ Harness 
+MD0100 LIFT Vest 
+Manual  
+MD0200 LIFT Vest 
+Automatic 
+MD3081 Manual 
+MD3082 Manual with 
+Harness 
+MD3083 Automatic 
+MD3084 Automatic w/ 
+Harness 
+All colors and Styles 
+
+ 
+
+ 
+
+PFD Model # 
+
+Contact Number 
+
+1-800-268-3112 
+www.nautilusbyprotexion.com  
+customerservice@protexionproducts.com 
+ 
+
+1-800-328-3208 EXT 1 
+www.stearnsinc.com  
+
+ 
+Manufacturer 
+Protexion 
+Products Inc. 
+643 Speedvale 
+Ave W 
+Guelph Ontario  
+N1K 1E6  
+CANADA 
+ 
+Stearns Inc. 
+1100 Stearns 
+Drive  
+Sauk Rapids, MN 
+ 56379 
+(also 
+SOSpenders) 
+
+NIV3000, Manual 
+NIV3500, Manual with 
+Harness 
+NIV4000, Automatic 
+NIV4500, Automatic 
+with Harness  
+ 
+
+38MLNG, Manual 
+38MHRN, Manual w/ 
+Harness 
+24MSPT, Manual 
+38MREG, Manual 
+38MBP, Manual 
+38ASSTD, Automatic 
+38ASHAR, Automatic 
+w/ Harness 
+38ASPRO, Automatic 
+38CHR, Automatic and 
+Manual 
+1469, Automatic 
+1473, Automatic with 
+Harness 
+
+ 
+Updated cylinder installation instructions are on the home pages of manufacturers’ websites and at 
+the Coast Guard website listed below.  Review and follow the instructions.  Check your device to 
+ensure that the inserted CO2 cylinder-bayonet has been fully turned clockwise prior to use.  
+ 
+If your PFD inflator does not eject an unturned cylinder-bayonet, contact the PFD manufacturer for 
+servicing.   
+ 
+View the following documents for updated rearming instructions: 
+
+ 
+Manual inflator rearming – http://www.uscg.mil/hq/g-m/moa/docs/co2man.pdf  
+Automatic inflator rearming -  http://www.uscg.mil/hq/g-m/moa/docs/co2auto.pdf  
+
+ 
+For other PFD related recalls and alerts access - http://www.uscg.mil/hq/g-m/mse4/recall.htm  
+For additional safety alerts access - http://marinesafetyalerts.us 
+ 
+This safety alert is provided for informational purposes only and does not relieve any existing 
+domestic or international safety, operational, or material requirement. 
+
+

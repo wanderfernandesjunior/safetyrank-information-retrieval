@@ -1,0 +1,70 @@
+Safety Alert 
+
+        From the International Association of Drilling Contractors 
+
+ 
+ALERT 08 – 18 
+ 
+
+FALL FROM CASING RESULTS IN LTA 
+
+ 
+WHAT HAPPENED: 
+ 
+The deck crew was in the process of back-loading a 30 foot mud motor to a crew boat off the port side of the 
+rig.  The deck coordinator had slung the mud motor with a sling at each end using the double wrap method of 
+slinging.  After attaching the tag lines to the load, the deck coordinator moved to what he perceived to be a 
+safe  area  (approximately  6  feet  (2  meters)  away)  on  the  light  end  of  the  load.    The  deck  coordinator  then 
+signaled the crane operator to raise the load.  As was discussed in the pre-job talk the crane operator raised 
+the load to height that the deck coordinator could determine that the load was stable (approximately 2 feet 
+[.6t meter]).  At this time the deck coordinator approached the load on the light end and signaled the crane 
+operator to raise the load for back-loading.  When the crane operator started his lift, the load shifted, causing 
+it  to  rise  on  the  light  end  and  to  move  towards  the  deck  coordinator.    In  an  effort  to  get  away  from  the 
+unexpected movement of the load the deck coordinator put himself on the side of the load that had no room 
+for escape.  He was then forced to sit down on the other smaller tubulars also stored on top of the casing.  
+The starboard aft movement of the load coupled with elevation of the light end of the mud motor caused the 
+entrapment  of  the  deck  coordinator’s  left  leg.    Now  the  deck  coordinator  was  over  the  edge  of  the  racked 
+casing and his leg was trapped between the suspended mud motor and the two mud motors on the racked 
+casing.  The crane operator stopped the crane, and the load then moved forward releasing the trapped deck 
+coordinator,  who  then  fell  approximately9½  feet  (2.85  meters)  from  the  top  of  10¾”  casing  stacked  on  the 
+port pipe rack to the catwalk.  The injured person sustained fractures of his left leg and his right arm as a 
+direct result of the fall and the entrapment of his leg. 
+ 
+WHAT CAUSED IT: 
+ 
+The deck coordinator’s position in relation to the load when it shifted caused the entrapment and subsequent 
+fall.  The crane block was centered prior to the lift and appropriate slinging techniques were employed for the 
+lift.  The heavy end of the load was not free during the initial lift to see if the load was stable.  The most likely 
+reason  for  the  load  transition  is  the  shifting  of  the  balanced  load  from  the  heavy  end  to  the  light  end  as  it 
+came to equilibrium.    
+ 
+When the casing was initially loaded aboard the rig it was determined that it would be there for an extended 
+period.  There was no mitigation of the risks associated with landing and lifting loads from that height.  The 
+pre-job planning used a JSA that did not make mention of the height to which the deck coordinator would be 
+rigging the loads.  The crane operator made mention of the edge and the height during the pre-job planning; 
+however no controls were put in place. 
+ 
+CORRECTIVE ACTIONS:  To address this incident, this company instructed rig personnel:   
+ 
+•  The person in charge of the load is responsible to check that both ends are free. 
+•  When  loading  or  unloading  items  from  racked  tubulars,  all  lifts  will  be  checked  for  stability  and  correct 
+
+rigging.  
+
+•  Personnel shall move off the racked tubular prior to making the lift. 
+ 
+ 
+
+The Corrective Actions stated in this alert are one company’s attempts to address the incident,  
+
+and do not necessarily reflect the position of IADC or the IADC HSE Committee. 
+
+This material is presented for information purposes only.  Managers & Supervisors should 
+
+evaluate this information to determine if it can be applied to their own situations and practices 
+
+Copyright © 2005 International Association of Drilling Contractors All rights reserved. 
+
+Issued May 2008 
+
+

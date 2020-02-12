@@ -1,0 +1,74 @@
+Safety Alert 
+
+        From the International Association of Drilling Contractors 
+
+ 
+ALERT 10 – 30  
+
+HIGH POTENTIAL DROPPED OBJECT INCIDENTS 
+
+RESULT IN TWO LTIs 
+
+ 
+
+WHAT HAPPENED: 
+ 
+Two  lost  time  incidents  occurred  on  two  separate  occasions  where  two  employees  were  struck  by  falling 
+rubber guides from the Top Drive Back Up Wrenches (BUW). 
+ 
+Incident  one:    The  rig  had  finished  drilling  and  was  in  the  process  of  making  a  wiper  trip.    The  driller 
+attempted to break the stand at the top drive connection.  The BUW was positioned incorrectly grabbing one 
+part of the X-over sub.  The torque boost was used to break the connection at upper well control valve safety 
+clamp.    This  resulted  in  the  safety  clamp  falling  on  top  of  the  BUW.    The  driller  proceeded  to  pick  up  the 
+stand and make made up the connection at the rotary table.  As the driller started pulling the drill string, the 
+lower safety clamp resting on the bottom part of the BUW caught the stabbing rubber guides and sheared 
+the holding bolts which resulted in rubber guides falling 95 feet to floor striking injured person. 
+ 
+
+Incident  two:    While  pulling  out  of  the  hole  to  make  up  a  new  bottom  hole  assembly,  the  assistant  driller 
+broke out the TD connection at the monkey board.  He then picked up the blocks to check to see that the top 
+drive was screwed out of the stand.  He then lowered the blocks which hit the top of the stand.  The rubber 
+guide’s  holding  bolts  sheared  off  and  the  rubber  guides  fell  to  the  rig  floor  approximately  100  feet.    The 
+injured person was struck in the face and cheek.   
+
+WHAT CAUSED IT: 
+ 
+In both of these incidents it was noted that there was a failure by the crew to identify that the BUWs were 
+positioned  improperly.    Poor  communications  occurred  between  drillers  and  derrickmen  in  each  incident.  
+The  Top  Drive  must  not  be  set  down  on  the  pipe.    The  torque  boost  was  improperly  used  to  break  a 
+connection  as  stated  in  the  first  incident.    The  BUW  cylinder  adjustment  pins  require  proper  calibration  to 
+avoid grabbing the crossover sub.  The JSA was not adequate in identifying such hazards.   
+
+CORRECTIVE ACTIONS:  To address this incident, this company did the following: 
+ 
+  The driller is responsible in his operation to see that the Top Drive is not set down on the pipe. 
+  The driller needs to make sure the BUW is aligned in the center to the pipe as the TD is lowered. 
+  The driller needs to make sure that the monkey board cameras are operable and used. 
+  Additional training may be required for the Driller to understand the operation of breaking out drill pipe 
+
+from the Top Drive. 
+
+  There is simply no substitute for good communication between the driller and the derrickman. 
+ 
+
+ 
+
+ 
+
+The Corrective Actions stated in this alert are one company’s attempts to address the incident,  
+
+and do not necessarily reflect the position of IADC or the IADC HSE Committee. 
+
+This material is presented for information purposes only.  Managers & Supervisors should 
+
+evaluate this information to determine if it can be applied to their own situations and practices 
+
+Copyright  2005 International Association of Drilling Contractors All rights reserved. 
+
+Issued October 2010 
+
+ 
+
+ 
+
+

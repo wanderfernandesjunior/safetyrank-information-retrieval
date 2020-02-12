@@ -1,0 +1,66 @@
+This issue sponsored by
+
+http://www.aiche.org/CCPS/Publications/Beacon/index.aspx
+
+Messages for Manufacturing Personnel
+Vapor Cloud Explosions
+
+January 2011
+
+A vapor cloud explosion occurs when a sufficient amount of 
+
+flammable or combustible material is released, mixes with air, and is 
+ignited. Some causes of the release of the vapor or gas fuel include:
+• Loss of process containment from failure of a pipe, reactor, storage 
+tank, or other process vessel containing flammable or combustible 
+liquid, or a flammable gas.
+• Rapid discharge of flammable vapor to the atmosphere through a 
+pressure relief system.
+• Release of flammable liquid stored under pressure – for example, 
+Liquefied Petroleum Gas (LPG). The discharged liquid will rapidly 
+boil at atmospheric pressure, forming a flammable vapor cloud.
+
+If the flammable vapor cloud is ignited, it can explode, producing 
+
+a blast wave which can cause major destruction at a large distance. 
+This is particularly true for releases in congested or confined areas, 
+for vapor clouds that have drifted into such areas, and for reactive 
+materials. In addition, heat from the fireball can cause significant 
+injury or damage.
+
+Some of the worst disasters in the history of the process industries 
+
+have been vapor cloud explosions. Some examples include:
+• June 1974, Flixborough, England (28 fatalities)
+• October 1989, Houston, Texas (23 fatalities)
+• March 2005, Texas City, Texas (15 fatalities)
+• December 2005, Buncefield, England (no fatalities but 43 injuries 
+and major damage)
+• October 2009, Jaipur, India (12 fatalities)
+
+What can you do?
+
+• Make sure that piping and equipment inspections and preventive maintenance tasks are completed as 
+required to ensure mechanical integrity of process equipment. Containment of fuel is the best way to prevent 
+vapor cloud explosions. Ignition sources for flammable vapor clouds – for example, heaters, vehicles, 
+unclassified electrical areas, hot work, static discharge – are difficult to control. 
+• Ensure that safe work practices are followed, including hot work procedures in areas near flammable 
+inventories.
+• If you detect any leak, no matter how small, on equipment containing flammable or combustible liquid or 
+flammable vapor, report it immediately and know how to initiate emergency procedures.
+• If your plant contains flammable or combustible materials, you should have written emergency procedures 
+for a leak. Review and understand these procedures, participate in drills, and know what you must do to 
+protect yourself and others in case of a leak. Know when and how to use appropriate personal protective 
+equipment (for example, flame resistant clothing) and leak detection equipment such as portable flammable 
+material detectors.
+
+Keep flammable materials inside the process equipment!
+
+AIChE © 2011. All rights reserved. Reproduction for non-commercial, educational purposes is encouraged.  However, reproduction 
+for the purpose of resale by anyone other than CCPS is strictly prohibited.   Contact us at ccps_beacon@aiche.org or 646-495-1371.
+
+The Beacon is usually available in Afrikaans, Arabic, Chinese, Danish, Dutch, English, French, German, Greek, Gujarati, Hebrew, Hindi, Italian, Japanese, Korean, Malay, 
+
+Marathi, Norwegian, Persian, Polish, Portuguese, Russian, Spanish, Swedish, Thai, Telugu, Turkish, and Vietnamese.
+
+

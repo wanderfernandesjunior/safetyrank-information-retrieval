@@ -1,0 +1,111 @@
+This issue sponsored by
+
+www.aiche.org/ccps
+
+http://www.aiche.org/CCPS/Publications/Beacon/index.aspx
+
+Messages for Manufacturing Personnel
+
+Can overcooling a reactor cause a runaway reaction?
+In 1996, there was an explosion of a 600 US gallon (~2.3 cu m) batch 
+reactor in a British dye factory. The process required addition of nitrosyl
+sulfuric acid (NSA) to the reactor, containing an amine and sulfuric acid, at a 
+temperature between 30 and 40 °C. The reaction was exothermic – it 
+generated heat. The feed typically took about 5 hours, and the feed was 
+manually controlled. This process had been operating for many years, and 
+hundreds of batches prepared without problem.
+
+Jacksonville, Florida, 2007
+
+www.iomosaic.com
+
+July 2018
+
+Damage from other runaway reactions
+
+Early in the NSA feed, the batch was overheated to almost 50 °C and the 
+
+NSA feed was stopped. The batch was then cooled to 25 °C (too cold) and 
+NSA addition was resumed. When the NSA feed was completed the batch 
+temperature could not be controlled with the available cooling, and exceeded 
+the maximum temperature which could be recorded by the temperature 
+instrument. The reactor was overpressurized by the runaway reaction and it 
+exploded. The lower part of the reactor was propelled off of its supports onto 
+the building floor. The reactor agitator landed on the roof, and the top of the 
+reactor was found about 500 ft (150 m) away. Fortunately, nobody was 
+injured. The direct cost was more than 2 million UK Pounds.
+Reference:  Partington and Waldram, IChemE Symposium Series, No. 148, pp. 81-93, 2001.
+
+Morganton, North Carolina, 2006
+
+Did you know?
+
+ The rate of most exothermic chemical reactions increases as the 
+temperature increases, and decreases at lower temperature. If the 
+reaction temperature is too low, the reaction will be slower, and 
+unreacted material may accumulate in the reactor. If the reaction 
+temperature then increases, the unreacted material will be 
+available to react. If there is enough unreacted material, the 
+energy released may exceed the reactor cooling capacity.
+ At high temperature, other chemical reactions including 
+
+decomposition reactions which are not important at the intended 
+reaction temperature may become significant. These reactions 
+may release more energy, and the reaction products might 
+include gases which can generate high pressure in a reactor.
+
+ In this incident, it is believed that approximately 30% unreacted 
+
+NSA accumulated in the reactor during the time that the batch 
+was too cold. Laboratory studies and computer simulations 
+indicated that this accumulation might not have been sufficient 
+to cause the runaway. Another heat source, such as a steam leak 
+to the reactor jacket, might have been necessary. However, the 
+energy available from unreacted NSA made the reactor more 
+vulnerable to a runaway if there were other heat sources.
+ It is important to ensure that reaction systems are in good 
+
+working order, since equipment leaks and other malfunctions 
+can cause, or contribute to, chemical reaction incidents.
+
+What can you do?
+
+ Know which of your reactions are exothermic, 
+
+and may become uncontrollable if reactants 
+accumulate. Some examples include 
+polymerization, nitration, sulfonation, acid-base 
+reaction, and oxidation.
+
+ Be aware that, for many reactions, it is not only 
+the upper temperature limit which is critical for 
+safety, but also the lower temperature limit. 
+Overcooling a reactor can result in 
+accumulation of unreacted material which can 
+cause an uncontrollably high temperature later.
+ Understand the consequences of deviating from 
+
+critical safety parameters – temperature, 
+pressure, flow rate, mixing, or whatever is 
+critical for your process. Be aware of the 
+consequences of deviations, both too high and 
+too low, and know what action to take if a 
+deviation occurs.
+
+ If you do not have chemical reaction processes 
+
+in your plant, be aware that low temperature can 
+still cause problems. For example, liquids may 
+freeze or become very thick, or solids may 
+precipitate out of a solution.
+
+It might not be safe if your process is “too cool”!
+
+©AIChE 2018. All rights reserved. Reproduction for non-commercial, educational purposes is encouraged. However, reproduction for any 
+commercial purpose without express written consent of AIChE is strictly prohibited. Contact us at ccps_beacon@aiche.org or 646-495-1371.
+
+The Beacon is usually available in Afrikaans, Arabic, Catalan, Chinese, Czech, Danish, Dutch, English, Filipino, French, German, Greek, Gujarati, Hebrew, Hindi, Hungarian, Indonesian,  
+
+Italian, Japanese, Korean, Malay, Marathi, Mongolian, Persian (Farsi), Polish, Portuguese, Romanian, Russian, Spanish, Swedish, Telugu, Thai, Turkish, Urdu, and Vietnamese.
+
+

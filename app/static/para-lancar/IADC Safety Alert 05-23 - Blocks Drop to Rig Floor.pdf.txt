@@ -1,0 +1,66 @@
+Safety Alert 
+
+        From the International Association of Drilling Contractors 
+
+ 
+ALERT 05 – 23 
+ 
+
+BLOCKS DROP TO RIG FLOOR 
+
+ 
+WHAT HAPPENED: 
+ 
+While pulling out of the hole with the first stand of 5” drill pipe to change the BHA, the 3/4” make up cable 
+had  been  removed  from  the  rotary  tongs  and  replaced  with  a  3/4  “  snub  line.    During  the  change  out,  the 
+make  up  cable  was  dropped  down  between  the  drawworks  and  snubbing  post  which  was  in  line  with  the 
+brake linkage. As it fell, the thimbled eye on the cable became wedged under the brake linkage.  This was 
+unknown  to  the  driller.    When  the  driller  disengaged  the  clutch  and  tried  to  apply  the  brakes,  the  wedged 
+thimbled eye on the cable kept him from doing so and the blocks fell to the rig floor.  No injuries occurred as 
+the floor had been cleared of all personnel. 
+ 
+WHAT CAUSED IT: 
+ 
+•  The employee did not assess the hazard of dropping the thimble eye and cable in the slot between 
+
+•  The moving parts of the brake linkage were unguarded which allowed this and any other object to 
+
+the drawworks and the snubbing post. 
+
+become wedged under the linkage. 
+
+•  Pre job planning was not adequate to be certain that all equipment was in safe working order. 
+•  Attention to house keeping was lacking 
+ 
+CORRECTIVE ACTIONS:  To address this incident, this company did the following: 
+ 
+•  Safety meetings were held with crews to discuss the importance of assessing the hazards of each action 
+
+taken while performing a job. 
+
+•  The Elmago/ HydroMatic is to be kept engaged at all times during the tripping operation. 
+•  A proper guard was fabricated to cover the brake linkage and installed to prevent recurrence. 
+•  A pre job checklist for tripping out of the hole was written to cover all steps of the operation and 
+
+•  Supervisors and crews were to make certain that every tool, line, or other loose items have a designated 
+
+equipment functionality 
+
+place for storage when not in use. 
+
+ 
+ 
+
+The Corrective Actions stated in this alert are one company’s attempts to address the incident,  
+
+and do not necessarily reflect the position of IADC or the IADC HSE Committee. 
+
+This material is presented for information purposes only.  Managers & Supervisors should 
+
+evaluate this information to determine if it can be applied to their own situations and practices 
+
+Copyright © 2005 International Association of Drilling Contractors All rights reserved. 
+
+Issued June 2005 
+
+

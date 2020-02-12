@@ -1,0 +1,280 @@
+AB 
+
+ 
+
+IMCA Safety Flash 12/12 
+
+Safety Flash 
+
+November 2012 
+
+These  flashes  summarise  key  safety  matters  and  incidents,  allowing  wider  dissemination  of  lessons  learnt  from  them.    The  information  below  has  been 
+provided in good faith by members and should be reviewed individually by recipients, who will determine its relevance to their own operations. 
+
+The effectiveness of the IMCA safety flash system depends on receiving reports from members in order to pass on information and avoid repeat incidents.  
+Please consider adding the IMCA secretariat (imca@imca-int.com) to your internal distribution list for safety alerts and/or manually submitting information 
+on specific incidents you consider may be relevant.  All information will be anonymised or sanitised, as appropriate. 
+
+A  number  of  other  organisations  issue  safety  flashes  and  similar  documents  which may  be  of  interest  to  IMCA  members.   Where  these  are  particularly 
+relevant, these may be summarised or highlighted here.  Links to known relevant websites are provided at www.imca-int.com/links   Additional links should 
+be submitted to webmaster@imca-int.com 
+
+ 
+
+1  Lifeboat Damaged Whilst Being Lowered on Davit 
+
+A member has reported an incident in which a lifeboat was damaged.  The incident occurred when the davit was boomed out 
+to lower the lifeboat.  The lowering was part of a functionality test after adjustment of limit switches by the manufacturer’s 
+service engineers.  
+
+Whilst booming out, one of the remote control wires for lifting the brake got trapped behind a wire sheave arrangement. 
+When the wire became taut, the remote control wire lifted the static brake and the lifeboat started lowering while it was still 
+above  the  deck.    The  lifeboat  got  stuck  on  its  protection  fender,  from  which  the  stainless  steel  turnbuckle  parted.    The 
+lifeboat then swung out sharply and was damaged in several locations when it swung back in, hitting the side of the vessel. 
+The lifeboat then descended to the water on the centrifugal brake control.  It was not possible to stop the process as the 
+remote control wire remained stuck and taut, lifting the static brake.  
+
+The lifeboat was moderately damaged, suffering a puncture hole in the starboard side bottom (approx. 5 x 5 cm), crushing 
+damage to the fibre-glass on the starboard forward top (approx. 80 x 15 cm), and loss of some of the water sprinkler tubing, 
+which  came  off  when  the  lifeboat  hit  the  side  of  the  vessel.    No  one  was  in  the  lifeboat  at  the  time  and  there  were  no 
+injuries. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Figures showing damage to lifeboat 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Figures showing how remote wire got stuck behind a wire sheave arrangement 
+
+ 
+During our members’ investigation the following points were noted: 
+
+♦ 
+
+♦ 
+
+It was unclear when the remote control wire had slipped  in between the sheave and sheave guard.  It was  difficult  to 
+observe the many obstacles which could potentially foul this wire; 
+
+If the remote wire had been kept under adequate tension this would have prevented the likelihood of it fouling;  
+
+♦  The  fact  that  the  lifeboat  could  be  lowered  while  not  yet  fully  boomed  out  could  be considered  a  design  error.    The 
+
+manufacturers have been asked to investigate this further;  
+
+♦  The likelihood that the remote wire could become fouled was not foreseen by the manufacturers, and there were no 
+
+written procedures or instructions covering this. 
+
+The following recommendations were made: 
+
+♦  Persons  involved  with  lifeboat  lowering  and  recovery  should  ensure  that  the  remote  wires  are  constantly  out  of  the 
+
+sheave and not fouled with any other rigging. 
+
+2  Near Miss: Dropped Object 
+
+A  member  has  reported  an  incident  in  which  a  pipe-wrench  weighing  1.2kg  fell  15m  to  the  deck.    The  incident  occurred 
+when hand tools were being hoisted up for use by personnel working at height. Two workers at height were preparing to lift 
+three tools at once from the deck to their working platform, using a low pressure air hoist.  A tag line was attached to one 
+of the tools to help guide and avoid entanglement.  Once the load could no longer be controlled by the tag line a “NO GO 
+ZONE” was put in place and the DROPS zone directly below was cleared of personnel.  As the tools came to the level of the 
+working  platform  one  of  them  got  caught  on  the  bottom  of  the  platform,  which tore the  stitching  of  the  single  leg  tether 
+(rated  at  30lbs  breaking  strain).    The  result  was  that  the  tool  fell  15m  back  to  the  deck.    There  were  no  injuries.    The 
+workplace was made safe and a safety stand-down was held. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Figures: (L) pipe-wrench that fell (R) snapped single leg tether 
+
+Our member’s investigation noted the following: 
+
+♦  The crew had held a job safety analysis (JSA) meeting beforehand and identified and assembled the tools required for the 
+
+job; 
+
+♦  The immediate cause of the incident was that the tool became caught during the lift, which caused the DROPS tether 
+
+stitching to tear, allowing the pipe wrench to fall to the deck below. 
+
+Our member drew the following key lessons from the incident: 
+
+♦  DROPS training plans should be continually emphasized; 
+
+♦  Care should be taken with the safe work load (SWL) of straps and tethers used for hoisting tools; 
+
+♦  Single leg tethers should not be used as lifting devices; 
+
+♦  Establish a pre-use inspection and regular inspection cycle for DROPS equipment; 
+
+♦  Carefully identify entanglement points on the lift route when hoisting tools aloft. 
+
+Members’ attention is drawn to the following IMCA material which may be of assistance: 
+
+ 
+♦ 
+
+♦ 
+
+♦ 
+
+♦ 
+
+♦ 
+
+IMCA SEL 019 Guidelines for lifting operations 
+
+IMCA SPP 04 Avoiding dropped objects 
+
+IMCA SPC 05 Lifting equipment 
+
+IMCA SPC 06 Working at height 
+
+IMCA SPC 12 Avoiding dropped objects 
+
+3  High Potential Near Miss: Dropped Object 
+
+A member has reported an incident in which a piece of angle bar fell 11m to the deck.  The incident occurred when shipyard 
+workers and third party contractors were in the process of removing a tensioner platform.  It was mistakenly assumed that 
+contractors  had  completed  the  cutting  of  the  tensioner  platform,  as  all  barricade  tape  directly  under  the  cut  tensioner 
+platform had been removed. 
+
+Workers were rigging the tensioner platform to be lifted out when they noticed a piece of angle bar that had not been cut, 
+hence, preventing the platform from being lifted.  A worker was deployed to cut the angle bar.  He cut the top side of the 
+angle  bar  before  he  passed  the  cutting  torch  to  another  person  to  cut  the  bottom  part  of  the  angle  bar  because  it  was 
+beyond his reach. This second person then cut off the angle bar and placed it on the scaffold before returning to his original 
+task.  As he did so, he unwittingly kicked the angle bar off the scaffolding, and it fell to the deck below.  
+
+Four members of the crew were on the deck when the piece of angle bar fell from scaffold platform above and landed next 
+to  them,  approximately  1.5m  away.    Had  the  piece  of  angle  bar  struck  one  or  more  persons  in  that  group,  it  could  have 
+caused severe or fatal injuries.  
+
+An immediate safety stand down was held for all personnel involved.  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Figures: (L) Tensioner platform (R) showing where angle bar landed and bounced 
+
+Figure showing piece of angle bar where it finally landed 
+
+ 
+
+ 
+
+ 
+Our member found that the root causes of the incident were as follows:  
+
+♦  One of the workers doing the cutting was not qualified to do this task; 
+
+♦  The unqualified worker doing the cutting did not remove or secure the angle bar from the scaffold; 
+
+♦  There was no barricading tape found below the scaffold platform. 
+
+Our member took the following corrective actions: 
+
+♦  All loose materials should be removed from all high level working platforms.  If this is not possible, all materials must be 
+
+relocated away from the edge of platform and should be properly secured; 
+
+♦  All areas underneath where work is taking place at height should be barriered off with hazard tape when overhead work 
+
+is in progress, and should remain until after the overhead work is completed; 
+
+♦  A guard worker may be posted outside the danger zone to prevent access to the hazardous dropped object zone; 
+
+♦  Only properly trained and competent workers should be allowed to carry out the work; 
+
+♦  Before work at height starts when the vessel is in the shipyard, appropriate inspection of the worksite should take place 
+
+by qualified shipyard personnel. 
+
+Members’ attention is drawn to the following IMCA material which may be of assistance: 
+
+IMCA SEL 019 Guidelines for lifting operations 
+
+IMCA SPP 04 Avoiding dropped objects 
+
+IMCA SPC 05 Lifting equipment 
+
+IMCA SPC 06 Working at height 
+
+IMCA SPC 12 Avoiding dropped objects 
+
+♦ 
+
+♦ 
+
+♦ 
+
+♦ 
+
+♦ 
+
+ 
+
+4  US Coast Guard Alert: Problem with Certain Kinds of Personal Flotation Device 
+
+The United States Coast Guard (USCG) has published the following Marine Safety Alert regarding certain Mustang Survival 
+Inflatable PFDs with Hammar MA1hydrostatic (HIT) inflation systems which may not inflate and require a new re-arm kit to 
+properly inflate by manual or automatic activation.  This safety alert identifies which products are affected.  Certain inflatable 
+personal  flotation  devices  may  be  subject  to  delayed  or  non-inflations.    Further  information  can  be  downloaded  from 
+www.fish.state.pa.us/newsreleases/2012press/uscg_alert_3-12.pdf 
+
+

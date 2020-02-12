@@ -1,0 +1,68 @@
+Safety Alert 
+
+        From the International Association of Drilling Contractors 
+
+ 
+ALERT 15-03  
+
+Lifeboat Unintentionally Released Results in Two Fatalities 
+
+WHAT HAPPENED: 
+An Assistant Electrician and Assistant Mechanic were inside a lifeboat performing weekly preventive maintenance while a Motorman 
+was positioned on standby outside. When the work was thought to be completed, the hang off pendants were removed with the 
+Assistant Electrician still onboard the lifeboat. The Assistant Mechanic re-entered the lifeboat to address an unfinished maintenance 
+task. He proceeded to the engine compartment and asked the Assistant Electrician to function the lifeboat’s engine throttle. The 
+Assistant Electrician instead pulled the lifeboat’s release lever, which resulted in the release of the lifeboat hooks and the lifeboat fell 
+125 feet to the water. Both the Assistant Mechanic and Assistant Electrician perished from the lifeboat’s fall. 
+WHAT CAUSED IT: 
+•  Assistant Mechanic and Assistant Electrician performed maintenance work without the hang off pendants attached. 
+•  Motorman observed Assistant Mechanic re-enter the lifeboat without the hang off pendants attached and did not initiate Stop 
+
+Work Authority. 
+
+•  Assistant Electrician operated the lifeboat hook release lever after bypassing its safeguards. 
+•  Assistant Electrician performed mechanical duties on lifeboat without adequate training.  
+•  Permit Issuer incorrectly appointed Assistant Electrician to the Permit Authority role. 
+CORRECTIVE ACTIONS:  To address this incident, this company did the following: 
+• 
+
+The company will update its Totally Enclosed Motor Propelled Survival Craft Standard to require installation of standardized 
+lifeboat warning signs for entering lifeboats, and to improve the lifeboat release mechanism labeling. 
+The company will update its Emergency Drills and Exercises Offshore Standard to require all personnel to receive annual lifeboat 
+familiarization training in addition to its existing program. 
+The company will update its induction and orientation process to provide additional awareness on Stop Work Authority through 
+videos and SWA drill participation. 
+The company engineering group will review the adequacy of lifeboat release mechanism safety barriers. 
+The company will review its preventive maintenance program to provide additional guidelines on the inspection of the lifeboat 
+release mechanism. 
+The company will review its lifeboat work instructions and ensure the following is included: 
+
+• 
+
+• 
+
+• 
+• 
+
+• 
+
+-No work may be performed inside the lifeboat without hang off pendants installed. The only exception is during the installation 
+and removal of the hang off pendants. 
+-A requirement to raise an energy isolation certificate for each lifeboat taken out of service including -mechanical isolation of 
+hang off pendants with two locks. 
+-Master, Chief Mate or Barge Supervisor must be assigned as Permit Authority over lifeboat work activities and must be 
+present when attaching and removing hang off pendants. 
+-At least one person performing work in the lifeboat must be a licensed Coxswain. 
+-A description of all lifeboat operating controls with photos or diagrams. 
+
+Photo of lifeboat’s control panel - the yellow arrow indicates the lifeboat’s throttle, & the red arrow indicates its release lever. 
+
+The Corrective Actions stated in this alert are one company’s attempts to address the incident, and do not necessarily reflect the position of IADC or the IADC HSE Committee. 
+
+This material is presented for information purposes only.  Managers & Supervisors should evaluate this information to determine if it can be applied to their own situations and practices 
+
+Copyright  2015 International Association of Drilling Contractors All rights reserved. 
+
+Issued June 2015 
+
+

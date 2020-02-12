@@ -1,0 +1,104 @@
+www.aiche.org/ccps
+
+http://www.aiche.org/CCPS/Publications/Beacon/index.aspx
+
+Messages for Manufacturing Personnel
+
+www.iomosaic.com
+
+Small leak leads to catastrophic failure
+
+July 2019
+
+This issue sponsored by
+
+The June 2019 Beacon described an incident in which operators discovered a 
+
+small leak in an 8-inch (200 mm) pipe containing flammable hydrocarbon gas. While 
+the pipe was being isolated and depressurized, it suddenly failed catastrophically 
+(Figure 1) releasing flammable gas. Fortunately, there were no injuries.
+
+1
+
+In another incident, in a refinery in the United States, operators observed a leak in 
+
+a pipe exiting the Crude Unit Atmospheric Column. The pipe contained high 
+temperature light gas oil (Figures 2, 3). During the response to the leak, the pipe 
+catastrophically failed releasing a large quantity of hot gas oil (Figure 4). The 
+resulting fire (Figure 5) injured 6 people, put others at risk, and caused significant 
+damage to the refinery. Thousands of people in the surrounding community sought 
+medical attention. Important parts of the refinery were shut down for many months.
+
+Did You Know?
+
+When you observe a small leak in a pipe or vessel, it is 
+
+possible that the leak is from a small crack or pinhole in the 
+pipe or vessel wall. The pipe or vessel wall may look like 
+this:
+
+2
+
+4
+
+3
+
+5
+
+It is also possible that the small leak is the first complete 
+
+penetration of a pipe or vessel wall which has been 
+significantly thinned by corrosion or erosion. It might look 
+like this:
+
+If a large area of the wall is thinned it may be ready to fail 
+catastrophically, releasing a large amount of the pipe or 
+vessel contents. Your efforts to respond to the leak may 
+disturb the pipe or vessel, making failure more likely. 
+Significant changes to the process conditions inside (pressure, 
+temperature, flow rate) may also increase the likelihood of 
+failure.
+
+What Can You Do?
+
+ If you find a small leak any process equipment, first, 
+
+report the leak. Consider the possibility of a 
+catastrophic failure, and make sure that the response 
+plan will protect people, property, and the 
+environment if this happens.
+
+ Understand the potential consequences of a 
+
+catastrophic failure based on your knowledge of the 
+properties of the material in the leaking pipe or vessel 
+(flammability, toxicity, corrosiveness, etc.) and the 
+process conditions (temperature, pressure, flow rate, 
+quantity of material, etc.).
+
+ Consult your plant technical experts on the process 
+
+and materials, corrosion hazards, materials of 
+construction, and emergency response to help 
+determine how to safely respond to the small leak.
+
+ Read the April 2011 Beacon about small leaks 
+
+becoming large leaks for more information.
+
+References:
+
+1. Morey, A. “Corrosion Under Insulation Revisited: Aren’t We About to Finish that Project?” Process Safety Progress 37 (4), pp. 502-505, December 2018.
+
+2. US Chemical Safety Board report, https://www.csb.gov/chevron-refinery-fire/
+
+What if that small leak turns into a big leak?
+
+©AIChE 2019. All rights reserved. Reproduction for non-commercial, educational purposes is encouraged. However, reproduction for any 
+commercial purpose without express written consent of AIChE is strictly prohibited. Contact us at ccps_beacon@aiche.org or 646-495-1371.
+
+The Beacon is usually available in Afrikaans, Arabic, Catalan, Chinese, Czech, Danish, Dutch, English, Filipino, French, German, Greek, Gujarati, Hebrew, Hindi, Hungarian, Italian, 
+
+Japanese, Korean, Malay, Marathi, Mongolian, Persian (Farsi), Polish, Portuguese, Romanian, Russian, Spanish, Swedish, Telugu, Thai, Turkish, Urdu, and Vietnamese.
+
+

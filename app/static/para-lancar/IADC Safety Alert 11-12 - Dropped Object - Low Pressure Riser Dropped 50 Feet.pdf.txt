@@ -1,0 +1,76 @@
+Safety Alert 
+
+        From the International Association of Drilling Contractors 
+
+ 
+ALERT 11 – 12 
+
+DROPPED OBJECT – LOW PRESSURE RISER 
+
+DROPPED 50 FEET 
+
+ 
+WHAT HAPPENED: 
+ 
+A low pressure riser weighing four (4) tons dropped 50 feet (15 meters) from the diverter onto the platform 
+below.  The 25 foot (7.84 meter) long extension joint, or low pressure riser was secured in the rotary table in 
+the diverter spider clamp and the diverter housing was mated to the extension and the securing ring made up 
+tight using the C- spanner and hammer.  Once it was secure, the complete assembly was picked up enough 
+to release the spider clamp.  The assembly was raised through the rotary table with two roughnecks guiding 
+it to avoid any possible hang ups.  No hang ups were noted and the weight indicator was closely monitored.  
+At  approximately  four  feet  from  clearing  the  rotary  table,  part  of  the  assembly  dropped  down  through  the 
+rotary table landing 50 feet (15 meters) to the platform below. 
+
+ 
+
+ 
+
+ 
+WHAT CAUSED IT: 
+ 
+The pin end thread had not been fully mated up during a recent 3
+allowed fluid to migrate into the threaded area causing corrosion and eventual failure of the thread.  
+ 
+ 
+ 
+
+Condition of threads on parted diverter 
+
+rd
+
+ Party (non OEM) onshore overhaul.  This 
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+CORRECTIVE ACTIONS:  To address this incident, this company did the following: 
+ 
+•  Before carrying out any overhaul and integrity testing ensure the correct Operating Service Procedure 
+
+(OSP) is obtained for the part number of the equipment. 
+
+•  OEM procedures are to be followed by end users and all 3rd Parties. 
+•  OEM has been notified of the incident and been asked to provide professional support as appropriate. 
+ 
+
+The Corrective Actions stated in this alert are one company’s attempts to address the incident,  
+
+and do not necessarily reflect the position of IADC or the IADC HSE Committee. 
+
+This material is presented for information purposes only.  Managers & Supervisors should 
+
+evaluate this information to determine if it can be applied to their own situations and practices 
+
+Copyright  2005 International Association of Drilling Contractors All rights reserved. 
+
+Issued May 2011 
+
+

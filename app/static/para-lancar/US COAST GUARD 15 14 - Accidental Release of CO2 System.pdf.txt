@@ -1,0 +1,134 @@
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+November 12, 2014 
+Washington, DC 
+
+         Inspections and Compliance Directorate 
+
+      Safety Alert 15-14 
+ 
+
+ACCIDENTAL RELEASE OF CO2 SYSTEM! 
+
+IMPORTANCE OF DESIGN AND TESTING OF EMERGENCY SYSTEM CONTROLS 
+
+ 
+This  safety  alert  serves  to  remind  shoreside  and  vessel  personnel  of  the  importance  of  1)  designing  and 
+maintaining emergency systems to be logical and easily operated in high stress situations, 2) maintaining a 
+high  level  of  crew  familiarity  with  emergency  systems,  and  3)  exercising  safeguards  during  testing  to 
+mitigate the risk of human error or system malfunction.  Although regulations prescribe standards for safety 
+systems aboard vessels, installations particularly those onboard uninspected vessels, can vary dramatically.   
+ 
+During a recent Uninspected Towing Vessel (UTV) exam, a vessel crewmember intending to test the fuel oil 
+shut-off cables instead pulled the CO2 system release cables.  As seen in photos directly below and at the 
+end of this safety alert, the emergency control panel used during the incident contained pull cables for both 
+the CO2 system and fuel oil shut-offs.   
+ 
+Accidental releases are not uncommon and vessel crewmember and Coast Guard inspector fatalities have 
+occurred  in  the  past.    Fortunately,  in  this  instance  the  audible  alarm  system  and  release  time  delay 
+functioned as intended, allowing all personnel to safely evacuate the machinery spaces prior to discharge. 
+ 
+
+Poor design characteristics: 
+ 
+Similar  activation  pulls  were  collocated 
+for fuel and CO2 systems.  Fuel oil shut 
+down  signage  was  located  on  the  left, 
+but fuel oil pulls were located on the far 
+right with three CO2 pulls in between. 
+   
+
+ 
+
+ 
+
+In a separate recent UTV examination, an inspector found two sets of 
+remote  emergency  shutdowns  with  only  one  set  operational.    The 
+original  station  (see  image  on  the  right)  appears  to  be  fully 
+operational, but was not connected.  The operational shutdowns were 
+at a separate location.  
+ 
+Crew interactions with emergency systems often occur during periods 
+of  increased  stress  (e.g.,  a  compliance  exam,  drill,  or  an  actual 
+emergency).    System  design,  proper  human  engineering,  labeling, 
+and detailed training will substantially reduce the risk of human error.   
+ 
+
+ 
+
+DISCONNECTED 
+
+SYSTEM! 
+
+ 
+
+  Safety Alert 15-14 
+
+ 
+ 
+ 
+The Coast Guard recommends conducting a comprehensive pre-test meeting and simulated step-by-step 
+“walk-through” between involved parties prior to actual testing of complex or potentially confusing systems.  
+Operational controls should be implemented to maximize safety and reduce risk. 
+ 
+Furthermore,  the  Coast  Guard  strongly  reminds  all  maritime  operators  of  the  importance  in  performing 
+regular  vessel  specific  emergency  drills  and  to  ensure  that  all  crewmembers  have  the  proper  knowledge, 
+skills, and abilities to respond to any potential emergency.   
+ 
+UTV  regulations  in  46  Code  of  Federal  Regulations  (CFR)  27.209  require  all  crewmembers  to  be  familiar 
+with  the  location  and  operation  of  engine  room  fuel-shutoffs  and  fire  extinguishing  equipment.    All 
+credentialed  mariners  are  required  by  46  CFR  15.405  to  be  familiar  with  firefighting  and  lifesaving 
+equipment.  Additionally, Coast Guard guidance on CO2 system safety and is available at:   
+http://www.uscg.mil/hq/cg5/nvic/2000s.asp#2000 . 
+ 
+Remember: 
+
+•  Emergency  systems  should  be  designed  with  human  factors  in  mind  -  logically  understood  and 
+
+easily operated during high stress situations. 
+
+ 
+•  System training will provide the familiarity needed during an emergency. 
+  
+•  Pre-test  coordination  and  review  of  procedures  will  minimize  accidental  and  potentially  fatal 
+
+discharges. 
+
+ 
+This  safety  alert  is  provided  for  informational  purpose  only  and  does  not  relieve  any  domestic  or 
+international  safety,  operational  or  material  requirements.    It  was  developed  by  the  Coast  Guard  Towing 
+Vessel Center of Expertise and Office of Investigations and Casualty Analysis.  For questions or concerns 
+please visit the Towing Vessel National Center of Expertise web site (www.uscg.mil/TVNCOE) and click on 
+the  “About  Us”  tab  under  TVNCOE  Home  for  contact  information  or  send  an  e-mail  to  the  Office  of 
+Investigations and Casualty Analysis at: hqs-pf-fldr-cg-inv@uscg.mil. 
+ 
+ 
+
+ 
+
+CO2 pulls: 
+ 
+To main engine manifold - Top Left 
+To main engine room - Center 
+To generator room manifold - Bottom Left 
+ 
+Fuel Oil valve stops: 
+ 
+To main engines - Top Right 
+To generators - Bottom Right 
+
+ 
+
+ 
+
+2 
+
+CO2 ACTIVATIONS     F.O. STOPS 
+
+

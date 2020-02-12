@@ -1,0 +1,175 @@
+AB 
+
+ 
+
+IMCA Safety Flash 13/13 
+
+Safety Flash 
+
+ September 2013 
+
+These  flashes  summarise  key  safety  matters  and  incidents,  allowing  wider  dissemination  of  lessons  learnt  from  them.    The  information  below  has  been 
+provided in good faith by members and should be reviewed individually by recipients, who will determine its relevance to their own operations. 
+
+The effectiveness of the IMCA safety flash system depends on receiving reports from members in order to pass on information and avoid repeat incidents.  
+Please consider adding the IMCA secretariat (imca@imca-int.com) to your internal distribution list for safety alerts and/or manually submitting information 
+on specific incidents you consider may be relevant.  All information will be anonymised or sanitised, as appropriate. 
+
+A  number  of  other  organisations  issue  safety  flashes  and  similar  documents  which may  be  of  interest  to  IMCA  members.   Where  these  are  particularly 
+relevant, these may be summarised or highlighted here.  Links to known relevant websites are provided at www.imca-int.com/links   Additional links should 
+be submitted to webmaster@imca-int.com 
+
+ 
+
+1  Near Miss: Un-noticed Expiry and Deterioration of Carbon Dioxide Absorbent Material  
+
+A member has reported a near miss incident in which carbon dioxide absorbent material expired and deteriorated beyond 
+usable condition. This was discovered when a saturation diver reported an acidic taste in his mouth during a lock-out.   
+
+Our members’ investigation revealed the following: 
+
+  The reclaim tower was found to contain CO2 absorbent with an acidic odour; 
+
+  27 drums of CO2 absorbent had recently been received onboard the vessel as part of a field transfer of materials; 
+
+  The drums were stored in a shaded area behind the dive complex; 
+
+  The  crew  taking  delivery  did  not  check  the  condition  of  the  material  when  it  arrived,  believing  that  the  sender  had 
+
+already checked it prior to delivery; 
+
+  23 of the 27 drums of CO2 absorbent received were found to be discoloured and had an acidic odour; 
+
+  Some of the containers did not have labels attached: some were past their “use by” date, and some were still in date; 
+
+  The  caps  of  the  containers  did  not  seal  correctly,  exposing  the  material  to  salty  moisture,  extreme  heat  and  high 
+
+humidity (tropical environmental conditions); 
+
+  While there was guidance in company manuals on the quantity of CO2  absorbent to be used per man per day, there was 
+
+no company guidance on the correct handling and storage of CO2 absorbent. 
+
+Figure: Showing the discoloured CO2 absorbent material (note flecks 
+of stained or off-white pellets). 
+
+Figure: Showing good CO2 absorbent material (note white pellets). 
+
+ 
+
+ 
+
+ 
+Our member took the following actions: 
+
+  All  CO2  absorbent  material  found  to  be  discoloured  or  expired  was  immediately  removed  and  replaced  with  fresh 
+
+supplies of in-date absorbent material;   
+
+  Guidance on the correct handling and storage of CO2 absorbent, including guidance on delivery inspection, was prepared 
+
+and issued; 
+
+  Guidance on the management of materials that have a shelf life, and are subject to expiry dates, was prepared and issued.   
+
+The following lessons were learned: 
+
+  Packaging  deterioration  can  occur  during  the  transportation,  handling  and  storage  of  absorbent  material.    Once  seals 
+have been compromised and moisture enters storage drums, the shelf-life of the material will shorten dramatically.  This 
+is particularly so if the material is stored in high-temperature/high-humidity locations; 
+
+  Some CO2 absorbent drums are supplied without expiry dates from vendors.  These should not be accepted; 
+
+  On  receipt  from  the  vendor,  expiry  dates  should  be  checked  to  ensure  there  is  a  suitable  shelf  life  remaining 
+
+  Whenever materials subject to shelf-life are transferred from a marine-base to a worksite, or from worksite to worksite, 
+
+(recommend a minimum of 1 year); 
+
+expiry dates should be checked; 
+
+ 
+
+If any transferred goods are due to expire within six months, then the recipients should be specifically informed; 
+
+  No items that have exceeded their expiry dates should be used; 
+
+  Care should be taken that expiry dates are tracked, and that replacement stock is ordered ahead of expiry; 
+
+  Care should be taken to use consumables in order of their expiry (i.e. use the oldest first);   
+
+  Any items that exceed their expiry dates must be clearly marked as expired and returned to the appropriate marine base 
+
+for disposal. 
+
+2  Bunkering Hose Cut by Propeller 
+
+The  Marine  Safety  Forum  has  published  the  following  safety  flash,  regarding  an  incident  in  which  a  bunkering  hose  was 
+damaged because it sank and fouled the propeller.    
+
+The safety flash can be downloaded from www.marinesafetyforum.org/upload-files//safetyalerts/msf-safety-flash-13.20.pdf  
+
+3  Crewman Injured Whilst Changing Out Crane Wire 
+
+The Marine Safety Forum has published the following safety flash, regarding an incident in which someone was injured while 
+changing out the wire on the crane. The injured person was directly in the way of the crane wire when it spring back owing 
+to stored mechanical energy, and suffered a small cut just above the eye. 
+
+The safety flash can be downloaded from www.marinesafetyforum.org/upload-files//safetyalerts/msf-safety-flash-13.21.pdf  
+
+4  Spillage of Oil-based Mud 
+
+The Marine Safety Forum has published the following safety flash, regarding an incident in which an amount of oil based mud 
+(OBM) was spilt onto the deck of a newly commissioned platform supply vessel (PSV).  
+
+The safety flash can be downloaded from www.marinesafetyforum.org/upload-files//safetyalerts/msf-safety-flash-13.22.pdf  
+ 
+
+ 
+
+ 
+5  Dropped Object Near Miss: Wind Sensor     
+
+A member has reported an incident in which part of a plastic fixed unit wind sensor weighing 0.8kg dropped 10m to the top 
+of the bridge roof. The wind sensor fell from the top of the aerial deck to the top of the bridge deck. At the time of the 
+incident there were no works taking place on the ROV deck or on the roof of the bridge; there were no injuries. Weather 
+conditions at the time were gusting southerly winds at 11m/s or 21.3 Knots, and the vessel was heading into the wind. 
+
+Use of the “DROPS calculator” for this dropped object showed that the potential had it actually hit a person was for a major 
+LTI.  
+
+Our member took the following steps: 
+
+  Ensured that all vessel departments have a robust DROPPED Objects inspection regime in place; 
+
+  Ensure all equipment at height is in a planned preventative maintenance program; 
+
+  Check fixed unit equipment to ensure that integral fixings are in place (if possible check securing means). 
+
+Figure 1 - Showing where wind sensor fell, from the top of the aerial deck to the top of the bridge deck 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Figure 2 - showing wind sensor in situ without it’s lid  
+
+Figure 3 - Showing the lid of the wind sensor (weight 0.8kg) 
+
+ 
+
+ 
+
+Member’s attention is drawn to the following IMCA material which may be of assistance: 
+
+IMCA SPP 04 - Avoiding dropped objects; 
+
+IMCA SPC 12 - Avoiding dropped objects. 
+
+

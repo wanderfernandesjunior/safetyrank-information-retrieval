@@ -1,0 +1,262 @@
+AB 
+
+ 
+
+IMCA Safety Flash 15/13 
+
+Safety Flash 
+
+  September 2013 
+
+These  flashes  summarise  key  safety  matters  and  incidents,  allowing  wider  dissemination  of  lessons  learnt  from  them.    The  information  below  has  been 
+provided in good faith by members and should be reviewed individually by recipients, who will determine its relevance to their own operations. 
+
+The effectiveness of the IMCA safety flash system depends on receiving reports from members in order to pass on information and avoid repeat incidents.  
+Please consider adding the IMCA secretariat (imca@imca-int.com) to your internal distribution list for safety alerts and/or manually submitting information 
+on specific incidents you consider may be relevant.  All information will be anonymised or sanitised, as appropriate. 
+
+A  number  of  other  organisations  issue  safety  flashes  and  similar  documents  which may  be  of  interest  to  IMCA  members.   Where  these  are  particularly 
+relevant, these may be summarised or highlighted here.  Links to known relevant websites are provided at www.imca-int.com/links   Additional links should 
+be submitted to webmaster@imca-int.com 
+
+ 
+
+1  LTI: Dropped Object Incident  
+
+A  member  has  reported  an  incident  in  which  someone  sustained  a  serious  neck  injury  as  a  result  of  a  dropped  object 
+incident. The incident occurred whilst members of the crew were using a chain block/tackle assembly on a H-beam, to assist 
+with manoeuvring the heavy lids to the chain lockers which were located on a mezzanine deck. As chain locker lids are too 
+heavy to move manually, two months previously, an H-beam had been installed in this location to permit the use of a chain 
+assembly/trolley.  
+
+One of the persons conducting the work manually pulled the chain aside; momentum caused the trolley for the chain block 
+assembly to run along the H-beam track. There was no end stopper and the trolley fell off the H-beam. It fell approximately 
+1.2  meters,  glancing  off  the  injured  person’s  helmet  and  landing  on  deck.  The  total  weight  of  the  trolley  and  chain  block 
+assembly was approximately 33 kg. The injured person walked off the job unaided, and was attended by the onboard medic. 
+The initial prognosis was a fractured neck. A neck brace was applied and then the injured party was medivaced by helicopter.  
+
+Figure 1 - General arrangement on mezzanine deck 
+
+ 
+
+ H Beam Chain Locker 500Kg Chain Locker Lid 3m  
+
+         Figure 2 - H-beam with missing ‘Trolley Stopper’ 
+
+ 
+
+ Figure 3 - Chain Assembly 
+
+    
+ 
+
+ 
+
+Our member’s initial investigation noted the following immediate causes: 
+
+  There was no ‘trolley stopper’, or similar device, on the H-beam, to prevent chain assembly/trolley from falling off the 
+
+end of the beam;  
+
+  The injured person was working under a unsecured load and ostensibly unaware of the consequences of pulling the chain 
+
+assembly along H-beam when there was no trolley stopper; 
+
+  The injured person disconnected the chain from chain locker lid. 
+
+Our member noted the following root causes to the incident: 
+
+  Organisation 
+
+instructions were not followed; 
+
+-  Although  there  were  four  persons  working  on  the  particular  job,  there  was  a  lack  of  supervision,  as  work 
+
+-  Work equipment was allowed to be used, despite being known and identified as ‘faulty’. The day before the incident 
+it had been reported that there was no ‘trolley stopper’ on the retrofitted H-beam. No action was taken to address 
+this very serious omission;  
+
+-  The potential of falling objects was not recognised or identified as a foreseeable and significant risk.   
+
+  People 
+
+  Environment 
+
+-  Work instructions were not followed. The injured person disconnected chain from chain locker lid; this was not a 
+specified work instruction within documentation, nor instruction from the lead AB. The injured person appeared to 
+have been working from his own initiative in undertaking this action.  
+
+-  There  was  a  lack  of  situational  awareness.  The  injured  person  and  his  colleagues,  whilst  familiar  with  the  generic 
+activity of opening chain locker doors, were not familiar with the new H-beam and the overhead chain assembly tool 
+and this may have contributed to the incident occuring. It was noted that this was the first time the H-beam/chain 
+assembly tool arrangement had been used at this worksite.  
+
+Our member took the following actions:  
+
+ 
+
+Installed a trolley stopper on that particular H-beam; 
+
+  A fleet-wide “time out for safety” was carried out, and further DROPS awareness training was organised;  
+
+  A DROPS survey was performed with all similar beams inspected and maintained at member worksites; 
+
+  Checked certifications of H-beam, lifting equipment and chain assembly requested for inspection. 
+
+Members’ attention is drawn to the following IMCA material which may be of assistance: 
+
+IMCA SPP 04 - Avoiding dropped objects; 
+
+IMCA SPC 12 - Avoiding dropped objects. 
+
+ 
+
+ 
+
+ 
+
+ 
+2 
+
+Incidents Involving Use of Scaffolding    
+
+A member has reported a number of incidents involving the use of scaffolding. Many activities on members’ vessels have to 
+be done at locations which  are hard to access or at  a height. In order to be able to work at these locations scaffolding is 
+erected. To ensure a safe and stable platform to work from, scaffolding is built according to industry standards and practices; 
+a competent person should inspect the scaffolding before use, and tags are used to indicate if a scaffolding is safe to access or 
+not. Despite these and other precautions,  crew should still remain fully  aware of their own safety and the safety of others 
+when using scaffolding. 
+
+Four recent scaffolding related incidents, each with a brief summary as to the immediate cause: 
+
+Incident #1 - after a test blow of a hydraulic hammer, it was discovered that a scaffold pipe was damaged between the anvil 
+and the casing. 
+
+Immediate cause: Although the site was inspected, the hazards were not recognised. 
+
+  
+
+Incident #2 - a crewman was injured after tripping over a scaffold tube (supporting the handrail) whilst carrying an angle bar 
+of approximately 15 kg.   
+
+Immediate causes: Poor co-ordination of the work activities, and there was no signage in place to warn of the obstacles. 
+
+Incident  #3  -  during  renewal  and  repair  activities,  a  plate  supporting  scaffolding  was  removed  and  replaced  with  a  metal 
+plate without having the scaffolding inspected by a competent person.  
+
+Immediate causes: Lack of sharing information between supervisors; owing to time pressure a “solution” was found instead of stopping 
+the job. 
+
+Incident #4 - scaffolding boards, which were out of sight, on top of the exhaust line, were left over from repair works and 
+started to smoulder due to the heat of the exhaust line. 
+
+Immediate cause: Improper housekeeping after work was finished. 
+
+Scaffold pipe hits anvil of hydraulic 
+
+Tripping over scaffold board 
+
+Smouldering scaffold boards 
+
+ 
+
+ 
+
+ 
+
+hammer 
+
+Our member drew the following lessons: 
+
+  Perform a full workplace risk assessment before starting the work;  
+
+  Keep walkways clear of obstacles, or otherwise mark obstacles; 
+
+  Never modify scaffolding;  
+
+  Remove all scaffolding material after the job, and contact scaffolding supervisor when scaffolding material is left behind.  
+
+3  Fire on Board and Sinking of Liftboat Mako  
+
+The National Transportation Safety Board of the United States (US NTSB) has published the following safety flash regarding  
+the  US-registered  liftboat  Mako,  which  caught  fire  while  supporting  oil  drilling  operations  about  6  miles  off  the  coast  of 
+Nigeria. No one on board was injured, but the Mako was a total loss in the accident. 
+
+The safety flash can be downloaded from www.ntsb.gov/doclib/reports/2013/MAB1314.pdf    
+
+ 
+4  Diving Helmet: Failure of Sealed Pull Pin 
+
+A member has reported an incident without injury in which the knob of a sealed pull pin assembly (p/n 505-110) on a Kirby 
+Morgan  diver’s  helmet  came  apart.  The  incident  occurred  after  an  air  dive,  when  the dive  team  was  assisting  the  diver  to 
+remove his helmet. On the block side of the hat, the sealed pull pin came apart whilst undressing the diver. Upon inspection, 
+the dive team found that the threaded part of the shaft on the plunger, at the base of the threading, just above the square 
+key,  had  broken  and  the  knob  had  separated  from  the  pull  pin  assembly.  The  Nyloc  lock  nut  was  connected  to  the  top 
+threaded  section  and  still  in  the  end  of  the  knob.  All  parts  of  the  pull  pin  assembly  were  recovered.  Both  sealed  pull  pin 
+assemblies on the helmet were removed and replaced.  
+
+Our  member  contacted  Dive  Lab  to  discuss  the  incident.  From  photographs  and  information  sent  by  our  member,  it  was 
+determined that the pull pin shaft had crevice corrosion.  
+
+Kirby Morgan strongly recommend that the tender, stand-by diver, or at least a second person, ALWAYS perform a pre-dive 
+check  that  includes  checking  the  sealed  pull  pins  to  ensure  that  both  are  functioning  correctly  and  are  fully  engaged  and 
+latched in the closed position prior to each and every dive. 
+
+Helmet sealed pull pin slot after failure 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Plunger 
+
+Breakage 
+point 
+
+Nyloc 
+lock nut 
+
+knob 
+
+Parts of failed sealed pull pin 
+
+The following actions were recommended: 
+
+  Pre- and post-dive checks; 
+
+  Regular careful inspection of pull pin assemblies, in accordance with Dive Lab checklist appendices A2.1, A2.2 and A2.23; 
+
+  Regular check of pull pins for signs of leakage and corrosion, and to ensure that pull pins are operating properly; 
+
+  All  torque  specifications  for  fasteners  (10-15  inch/lbs  for  the  Nyloc  Lock  Nut  on  the  pull  Pin  assemblies)  should  be 
+
+strictly followed. 
+
+Kirby Morgan notes that the following further information is available at www.kirbymorgan.com: 
+
+  Pull Pin Overhaul procedure www.divelab.com/assets/pdf/training-guides/Pull_Pin_Procedure.pdf;   
+
+  Bulletin #2 of 2013: Sealed Pull Pin Inspection & Maintenance; 
+
+  Bulletin #6 of August 23, 2011 New Kits Part Numbers 425-090, 425-099, 525-211, 525-373, 525-385 and 525-718; 
+
+  Bulletin #7 of December 1, 2010 Change to Product Bulletin 530-110 Lock Nut Replaces 330-320 Lock Nut. 
+
+ 
+5 
+
+Injury - Failure of Hatch Holdback Arrangements    
+
+The Marine Safety Forum has published the following safety flash, regarding an incident in which a crew member was injured 
+when  there  was  a  failure  of  the  mechanism  holding  back  a  heavy  watertight  door.  The  incident  occurred  because  the 
+arrangements for holding back the door were not adequate.  
+
+The safety flash can be downloaded from www.marinesafetyforum.org/upload-files//safetyalerts/msf-safety-flash-13.32.pdf  
+
+

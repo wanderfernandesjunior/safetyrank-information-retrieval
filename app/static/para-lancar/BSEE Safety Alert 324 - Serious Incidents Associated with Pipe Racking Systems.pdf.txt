@@ -1,0 +1,120 @@
+SAFETY ALERT 
+ 
+
+Safety Alert No. 324 
+April 6, 2017  
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+
+           Contact: Jason Mathews  
+           Phone: (504) 731-1496 
+
+ 
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+Serious Incidents Associated with Pipe Racking Systems 
+
+ 
+Multiple safety incidents have occurred with rig automatic pipe racking systems.  These incidents 
+involved failures of fingerboard latches and guide head claws to open or close properly.  The 
+failures allowed unsecured pipe stands to become potentially lethal hazards.   
+ 
+
+ 
+
+ 
+
+  6 May 2012: While spinning out during a trip, a failure of communication between the 
+
+driller and assistant driller led the driller to unlatch and retract the block, unaware that the 
+rollers on the guide head claws were not closed.  This allowed the pipe stand to fall across 
+the derrick.   
+ 
+
+  20 Oct 2015: While tripping casing, a spotter verified the fingerboard latches were open 
+and gave verbal instructions to the assistant driller to retract the landing string from the 
+fingerboard.  Due to a pressure leak in the pipe racking system, a fingerboard latch closed 
+before the pipe was retracted, causing the pipe to bend until the lower guide head claw 
+broke.  The pipe then recoiled, fatally striking the spotter. 
+ 
+
+  20 Mar 2016: While transferring stands between fingerboards, an assistant driller loaded a 
+
+4½-inch pipe into the 6 5/8-inch finger. The pipe failed to fully land causing the display to 
+indicate that the slot was not populated by a stand.  The assistant driller failed to notice the 
+anomaly, and selected the same slot for the next stand.  When the latches opened the first 
+stand fell from the fingerboard. 
+ 
+
+  9 Oct 2016: During a trip, drill pipe was racked and the fingerboard latches were visually 
+
+confirmed to be closed.  As the assistant driller retracted the racker arms, the upper guide 
+head claws failed to release from the drill pipe causing the stand to pull against the upper 
+
+fingerboard latch, shearing it from the fingerboard.  This caused the fingerboard latch to 
+break, fall, and strike the drill floor in the red zone.  
+
+ 
+Therefore, BSEE recommends that operators perform a full inspection of their automatic pipe 
+racking system before using the equipment on their next well.    BSEE encourages the operators to: 
+
+  contact the manufacturers of their automatic pipe racking systems to check for product 
+
+bulletins or safety alerts issued by the manufacturer to assure that their systems are being 
+operated and maintained as required. 
+ review their training program and work instructions for their pipe racking system to assure 
+that all rig floor personnel have received up to date instructions on how to operate this 
+equipment safely and remain alert to possible mechanical malfunctions.    
+
+ 
+Operators should also consider the following options:  
+ 
+
+Installing sensors on guide head claws with a type of interactive software that allows 
+operators to verify claw position at a control panel and automatically prevents movement of 
+the guide head when guide head claws are not in the correct position. 
+ 
+Installing sensors on the fingerboard latches with a type of interactive software that allows 
+operators to verify latch position at a control panel and automatically prevent movement of 
+the guide head when fingerboard latches are not in the correct position. 
+ 
+Installing low pressure sensors that provide notification of an out of range condition or that 
+automatically prevents movement of the guide head when low pneumatic pressure is 
+detected at the fingerboard latch pistons. 
+ 
+Installing strategically placed cameras near the pipe racking system for operator verification 
+of the connection from multiple angles.  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+A Safety Alert is a tool used by BSEE to inform the offshore oil and gas industry of the 
+circumstances surrounding an accident or near miss. It also contains recommendations 
+that should help prevent the recurrence of such an incident on the Outer Continental 
+Shelf.  
+ 
+
+

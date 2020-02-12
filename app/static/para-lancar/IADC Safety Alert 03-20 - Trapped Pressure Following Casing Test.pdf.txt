@@ -1,0 +1,66 @@
+Safety Alert 
+
+From the International Association of Drilling Contractors 
+
+ 
+
+ 
+ALERT 03 – 20 
+ 
+
+TRAPPED PRESSURE FOLLOWING CASING TEST 
+
+ 
+WHAT HAPPENED: 
+ 
+13 3/8" casing was run into the hole and cemented in place.  The float collar and cement were drilled out with 
+a mud motor and the BOP was closed to test the casing.  The pressure was brought up to 1500 psi with the rig 
+pump.  Following the test the driller attempted to bleed down the  pressure through the standpipe.   Pressure 
+would  not  bleed  back  through  the  mud  motor,  so  the  HCR  was  opened  to  bleed  back  through  the  choke 
+manifold.    The  driller  instructed  everyone  to  stand  back  as  he  opened  the  BOP.    Pressure  blew  the  inner 
+bushings out of the rotary table.  No injuries resulted. 
+ 
+WHAT CAUSED IT: 
+ 
+A pre-job safety meeting was held prior to the pressure test, but did not include how the pressure was to be 
+bled off when the test was complete.  This was an essential step in the process that was omitted and serious 
+injuries could have occurred.   
+ 
+The mud motor impeded the bleed  back through the standpipe so the Driller elected to go through the HCR 
+and choke manifold. The rig personnel assumed the flow path was lined up, and did not check the flow path to 
+be  certain  the  pressure  could  be  bled  off  through  the  choke  manifold.    Also,  no  one  checked  the  casing 
+pressure gauge after opening the HCR valve to ensure the pressure had gone to zero.   
+ 
+The  driller  on-tour  was  not  informed  that  the  mechanic  had  worked  on  the  Superchoke  earlier  in  the  day.  
+Therefore,  he  was  unaware  that  the  Superchoke  had  not  lined  the  choke  manifold  up  to  its  standard 
+configuration. 
+ 
+This procedure of bleeding off pressure following casing tests is very common and casing is tested against the 
+BOP’s  every  day  in  operations.    Circumstances  alter  the  way  the  pressure  must  be  bled  off,  i.e.,  having  a 
+check valve in the kill line, a float in the drill string, a piece of a rubber drill pipe protector lodged in the mud 
+cross, to name a few.  Personnel must be certain that the pressure is completely bled off before opening the 
+BOP to the atmosphere.  
+ 
+CORRECTIVE ACTIONS:  To address this incident, this company instructed rig personnel:   
+ 
+•  Rig personnel were instructed to develop a JSA, "Bleeding Pressure to Zero Following a Casing Test".   
+•  This  same  JSA  may  work  for  bleeding  pressure  to  zero  following  a  formation  integrity  test.    (A  related 
+issue is having the annulus open to the atmosphere below the test plug when testing BOPE, to ensure the 
+test joint doesn't become a missile.)   
+
+•  The topic of bleeding off pressure should be discussed every time the casing is tested.   
+•  Ask the question, "How can we verify that the pressure is gone before we open the BOPs?"   
+
+The Corrective Actions stated in this alert are one company’s attempts to address the incident, and do not 
+
+necessarily reflect the position of IADC or the IADC HSE Committee. 
+
+This material is presented for information purposes only.  Managers & Supervisors should  
+
+evaluate this information to determine if it can be applied to their own situations and practices. 
+
+Copyright © 2003 International Association of Drilling Contractors.  All Rights Reserved 
+
+Issued May 2003 
+
+

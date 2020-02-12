@@ -1,0 +1,89 @@
+Safety Alert 
+
+        From the International Association of Drilling Contractors 
+
+ 
+ALERT 13 – 26  
+ 
+
+ 
+WHAT HAPPENED: 
+
+FAILURE OF LIFTING EYEBOLT RESULTS IN DROPPED OBJECT 
+
+The deck crew was attempting to move an electric motor weighing approximately 200kg (440 pounds) from 
+the  shelter  deck  into  a  sea  container.    The  motor  was  lifted  using  a  crane.    The  banks-man  signaled  the 
+crane operator to pick up the motor and lift it to the container, which was 5 meters (16 feet) away.  The motor 
+was  lifted  and  moved  to  a  height  of  approximately  2.5  meters  (8  feet).    When  the  motor  approached  the 
+container at a height of about 60cm (2 feet), two roustabouts entered the container to position the motor from 
+inside  using  taglines.    As  the  motor  was  being  pulled  into  the  sea  container  it  tapped  the  wall  of  the 
+container.  The motor casing parted at the eyebolt anchor mount allowing the motor to fall to the floor.  The 
+crane operator stopped the job and informed the Supervisor.  No personnel were injured. 
+ 
+
+ 
+
+ 
+
+ 
+
+WHAT CAUSED IT: 
+
+•  Failure of the lifting eye. 
+•  The  motor  had  been  in  storage  for  a  period  of  approximately  5  years.    It  was  identified  during  the 
+investigation the lifting eye had previously parted and had been welded to the frame of the motor at an 
+earlier time by persons unknown.  The implications of this were not realized by the crew and they thought 
+that they could safely complete the task.  The eyebolt had not been included in the lifting gear inspection 
+routine. 
+
+•  The motor had been painted and the lifting eye looked to be in good condition. 
+•  Lack  of  knowledge  by  the  deck  crew  to  identify  the  hazards  associated  with  previous  failures  of  lifting 
+
+eyes, and the fact they should never be welded. 
+
+CORRECTIVE ACTIONS:  To address this incident, this company did the following: 
+ 
+
+•  Rig crews were instructed to remove all lifting eyes from motors in storage and on location and 
+
+• 
+
+replace the eyelet with a suitable bolt that conforms to the thread pattern of the motor. 
+If eye bolts are to be utilized, rig crews were instructed to include the lifting eye bolts on the lifting 
+inspection registers and routine maintenance inspections. 
+
+•  All crews were advised of the previous alerts on lifting eye failures and inspection requirements. 
+•  All personnel were reminded that lifting eyes are to be utilized for final positioning only.  Electric 
+
+motors are to be placed inside a designated basket for movement around the rig or they are to be 
+slung by deck crew. 
+
+•  Rig crews were reminded that lifting eyebolts are designed for final positioning on mounting 
+
+brackets/foundation only and should not be utilized for overhead lifting and transport. 
+
+Note:  Reference IADC Safety Alerts 09-02 and 03-19 for additional information. 
+
+The Corrective Actions stated in this alert are one company’s attempts to address the incident,  
+
+and do not necessarily reflect the position of IADC or the IADC HSE Committee. 
+
+This material is presented for information purposes only.  Managers & Supervisors should 
+
+evaluate this information to determine if it can be applied to their own situations and practices 
+
+Copyright  2013 International Association of Drilling Contractors All rights reserved. 
+
+Issued November 2013 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+

@@ -1,0 +1,105 @@
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Alert 6-17      Offshore Crane Operator Falls through Dislodged Grating 
+ 
+
+ 
+WHAT HAPPENED: 
+ 
+The deck crew was preparing to move two gas racks from the well test area.  While moving the gas 
+racks the crane block started swinging in an uncontrolled manner.  The Crane Operator, in an attempt 
+to regain control, boomed up causing the crane to reach the boom upper limit.  However, the continual 
+swinging of the block resulted in it hitting the upper crane pedestal walk-around grating several times.   
+ 
+Once the upper limit was reset by the Electronic Technician, the Crane Operator was able to park the 
+crane in the boom rest and exit the crane cabin to start inspecting the upper crane walkway for 
+damage. During the inspection, the Crane Operator stepped onto a piece of grating causing it to flip up 
+and fall 58 feet (17.6 meters) to the main deck below. As the grating flipped up the Crane Operator 
+managed to grab part of the upper walkway structure and fell 15 feet (4.5 meters) to a staircase below 
+resulting in a fracture of his left leg. 
+
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+
+CONTRIBUTING FACTORS: 
+
+  Crane block swung in an uncontrolled manner and hit the walk-around grating, damaging the 
+
+fastening devices of the grating. 
+
+  Crane Operator did not identify hazard and walked onto unsecured grating. 
+  The current grating design has the front and rear kick plates secured directly on the grating itself 
+
+and not the walkway frame, negating the possibility of using the kick plates as a retention 
+mechanism for the grating.     
+
+  The potential fall exposure was not identified by the Crane Operator.    
+
+LESSONS LEARNED: 
+ 
+The company has issued internal communications to share the lessons learned from this incident: 
+
+  Discuss environmental conditions including vessel motion for all lifting activities during the Job 
+
+Safety Analysis 
+
+  Report all incidents immediately to supervisor 
+
+  Ensure the incident scene is made safe before any inspection or investigation 
+
+The company conducted a hazard hunt on all rigs to locate similar walkway designs where the kick 
+plates are not welded to or an integral part of the walkway frame and support structure. 
+
+The company engineering group in collaboration with the manufacturer will review the adequacy of the 
+grating design, and implement any improvement fleet wide. 
+
+The company will review its crane operators’ competency and training programs to better manage 
+unusual situations when the block starts swinging. 
+
+A Safety Alert can consist of any type of health, safety & environment (HSE) notification or    
+
+Near Miss/Near Hit alert.  Proactive Alerts on jobs well done are also encouraged. 
+
+ 
+
+ 
+
+ 
+
+1. Lattice boom crane 
+
+2.  Grating Location 
+
+ 
+
+A Safety Alert can consist of any type of health, safety & environment (HSE) notification or    
+
+Near Miss/Near Hit alert.  Proactive Alerts on jobs well done are also encouraged. 
+
+ 
+
+Kick plates welded on the grating rather 
+
+than the walkway frames. 
+
+3. Grating kick plates 
+
+ 
+
+A Safety Alert can consist of any type of health, safety & environment (HSE) notification or    
+
+Near Miss/Near Hit alert.  Proactive Alerts on jobs well done are also encouraged. 
+
+

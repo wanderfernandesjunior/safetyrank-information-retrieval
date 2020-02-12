@@ -1,0 +1,137 @@
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+October 9, 2014 
+Washington, DC 
+
+         Inspections and Compliance Directorate 
+
+      Safety Alert 10-14 
+ 
+
+PREVENTING BARGE EXPLOSIONS 
+
+in 
+
+for 
+
+managers 
+
+Recent  casualties  involving  explosions  aboard  barges  conducting  tank  cleaning  operations 
+alongside  marine  terminals  have  resulted  in  serious  injuries  to  vessel  crews  and  facility  workers, 
+catastrophic property damage, as well as harm to the environment.  A review of related casualties 
+has  revealed  that  vessel  personnel,  facility  personnel  and  shore  side  managers  failed  to  ensure 
+that  established  procedures  and  safe  practices  were  followed.    Specifically,  the  Operational 
+Manuals  and  regulatory  requirements  were  not  routinely  followed  by  those  involved.    As  a  result 
+unintended and disastrous consequences occurred.  
+ 
+This  safety  alert  aims 
+to 
+raise  awareness  regarding 
+this 
+issue  and  highlight 
+critical  lessons  learned  from 
+these incidents.  Facility and 
+vessel 
+and 
+operators,  both  ashore  and 
+afloat,  responsible 
+the 
+oversight  of,  or  specifically 
+involved 
+tank  cleaning, 
+stripping  or  gas  freeing  of 
+flammable  cargoes,  should 
+take  note  and  ensure  the 
+widest  distribution 
+to  all 
+personnel. 
+ 
+Title 33 Code of Federal Regulations (CFR) Part 154 – Facilities Transferring Oil or Hazardous 
+Material  in  Bulk;  requires  facilities  to  submit  for  approval  to  the  Captain  of  the  Port  (COTP),  an 
+Operations  Manual  that  provides  facility  details,  types  of  cargos  handled,  duties/knowledge 
+requirements  of  specific  personnel,  locations  of  emergency  shutdowns,  descriptions  of  tank 
+cleaning  procedures,  emergency  procedures,  and  other  requirements  for  each  type  of  cargo 
+evolution,  tank  cleaning,  and  vapor  control  processes.    For  facilities  that  conduct  tank  cleaning, 
+stripping,  or  gas  freeing  operations  on  tank  vessels,  the  Operations  Manual  must  contain  a 
+description  of  their  procedures  that  are  consistent  with  the  International  Safety  Guide  for  Oil 
+Tankers and Terminals (ISGOTT).  Specific sections of the Fifth edition are referenced in 33 CFR 
+Part 154.   
+ 
+The most common causal factor associated with these tank barge explosions is that the Person in 
+Charge (PIC) of the facility and/or tank barge failed to follow key Operating Manual procedures. 
+ 
+ 
+ 
+
+1 
+
+endorsement.   
+
+transfer of cargo or slops. 
+
+immediate vicinity. 
+
+ 
+ 
+ 
+As  a  result  of  these  casualties  the 
+Coast  Guard  strongly  recommends 
+that  facility  and  vessel    managers, 
+operators  and  PIC’s  performing  tank 
+cleaning,  stripping,  or  gas  freeing  of 
+flammable cargos on board any vessel 
+review  ISGOTT  Fifth  edition  and  fully 
+comply  with  all  related  regulations  and 
+Operating Manuals while also ensuring 
+(among many other items): 
+ 
+•  Operations Manual is complete and meets regulatory requirements. 
+•  Facility personnel training programs meet regulatory requirements. 
+•  Facility PIC is designated and properly trained. 
+•  Barge PIC holds a required valid USCG Merchant Mariner’s Credential with a Tankerman-PIC 
+
+ 
+
+•  Barge  or  vessel  is  properly  grounded  by  a  bonding  wire  or  other  approved  method  prior  to 
+
+•  Spark  producing  tools  and  machinery  are  removed  from  the  involved  barge  or  vessel  and 
+
+•  Portable fans or blowers used to ventilate tanks are intrinsically safe and properly grounded. 
+•  Minimizing  the  operation  of  other  vessels  near  the  facility  during  tank  cleaning  or  gas  freeing 
+
+operations to reduce potential vapor ignition sources. 
+
+•  Operating manual procedures for dropping / draining and cleaning of cargo lines and piping and 
+
+tank cleaning are strictly followed. 
+
+•  During  tank  cleaning  (washing)  and  gas-freeing  operations,  consistent  with  ISGOTT  Ch  11.3, 
+conduct  water  flushing  of  the  tank  bottom  and  piping  systems  while  monitoring  the  Lower 
+Flammable Limit (LEL) prior to commencing forced ventilating.   
+
+•  A Certified Marine Chemist certifies tanks as "Safe for Workers," "Safe for Hotwork" before 
+
+personnel enter that tank or conduct hot work.   
+
+ 
+Facility  and  vessel  operators  may  submit  a  written  request  for  the  COTP  to  consider  alternative 
+procedures,  methods,  or  equipment  standards  than  those  established  within  the  ISGOTT  or 
+regulations.  The COTP will evaluate any proposed alternative to ensure it provides an equivalent 
+level of safety and pollution protection as required by the regulations.   
+ 
+This Safety Alert is provided for informational purposes only and does not relieve any domestic or 
+international  safety,  operational  or  material  requirement.    It  was  developed  by  the  U.S.  Coast 
+Guard  Eighth  District  Prevention  division  in  coordination  with  the  Office  of  Investigations  and 
+Analysis, Washington DC.  For questions or concerns, please email hqs-pf-fldr-cg-inv@uscg.mil.  
+
+ 
+
+2 
+
+

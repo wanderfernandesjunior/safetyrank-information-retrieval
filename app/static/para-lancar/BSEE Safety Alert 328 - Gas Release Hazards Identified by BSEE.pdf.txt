@@ -1,0 +1,130 @@
+SAFETY ALERT 
+ 
+
+Safety Alert No. 328  
+January 5, 2018    
+
+ 
+ 
+
+ 
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+             Contact: Jason Mathews  
+              Phone: (504) 731-1496 
+
+Gas Release Hazards Identified by BSEE 
+
+BSEE inspectors use hand-held gas detectors, thermal cameras, and infrared thermometers during gas release risk inspections. 
+
+ 
+
+ 
+
+The Bureau of Safety and Environmental Enforcement (BSEE) recently conducted a review on the 
+latest  compliance and incident  data to  identify  safety  trends  throughout the  Gulf  of  Mexico.  The 
+analysis pointed to a potential risk associated with gas releases. During the timeframe reviewed, 
+thirty-one gas release incidents were reported to BSEE by fourteen unique operators. Further, the 
+bureau issued thirty-six gas release incidents of non-compliance during the same timeframe. To 
+reduce  the  likelihood  of  future  incidents  or  compliance  issues,  BSEE  developed  a  protocol  to 
+conduct  targeted  Gas  Release  Performance-Based  Risk  Inspections  on  twenty-six  production 
+platforms and ten well operations in the Gulf of Mexico Region over a two day period. 
+ 
+At  the  completion  of  the  inspections,  BSEE  further  reviewed  the  results  supplied  by  the  district 
+offices  and  conducted  additional  reviews  on  Safety  and  Environmental  Management  System 
+specific  items  –  e.g.,  training  documents,  electrical  classification  drawings,  safe  work  practices, 
+job safety analyses, etc. The findings were: 
+ 
+
+  Seventeen percent of the facilities involved in the  inspections had documented oil or gas 
+
+accumulation.  
+
+  Eight of the thirty-six facilities, or 22 percent, had a non-operable gas detector, no process 
+implemented for  calibrating  devices, failed  a bump test,  or  had  no  documentation  on the 
+frequency and/or results of inspections.  
+
+  The  facilities  associated  with  the  Gas  Release  inspections  had  no  issues  identified  by 
+BSEE  staff  on  excessive  temperatures.  In  fact,  most  observations  made  by  inspectors 
+indicated high temperature areas were well insulated and out of human reach.  
+
+  Only  one  facility  had  an  outdated  electrical  classification  drawing,  but  very  few  facilities 
+had  warning  signs  to  address  area  classification.    Most  signs  observed  by  BSEE 
+inspectors during the Gas Release investigation focused on personal protective equipment 
+– ear protection, safety glasses, gloves, etc. Additionally, one facility failed to notify BSEE 
+of potential hazards through an orientation.  
+
+  The inspections suggest that operators’ safe work practices do not fully cover pressurized 
+welding  enclosures,  and  are  not  readily  available  to  offshore  personnel.  Bridging 
+documents  with  contractors  need  to  be  evaluated  to  ensure  personnel  are  fulfilling  their 
+obligations.  
+
+  Overall,  job  safety  analyses  reviewed  by  BSEE  met  the  intent  of  Subpart  S;  however, 
+multiple  job  safety  analyses  had  potential  noncompliance  with  30  CFR  250.1911  or 
+250.1928.  
+
+  BSEE  identified  multiple  facilities  which  lacked  evidence  of  personnel  training  in  gas 
+
+detection.  
+
+Therefore, BSEE recommends that operators: 
+ 
+
+ 
+
+  Develop and implement daily and weekly inspection protocol to check for common gas 
+
+releases based on incident data – float cells, thief hatches, produced water treatment units, 
+etc.  
+
+  Work with gas detector original equipment manufacturers to develop and implement 
+
+monthly, quarterly, and annual inspection protocol for the handheld gas detectors on their 
+facilities that document the date of the inspection or test; include the name and position, and 
+the signature of the person who performed the inspection or test; include the serial number 
+or other identifier of the equipment on which the inspection or test was performed; include a 
+description of the inspection or test performed. 
+
+  Review their facilities and contracted drilling rigs to determine if area classification signs 
+
+exist. If they don’t exist or they’re not properly marked, operators shall mark the area with 
+signs identifying potential hazards.  
+
+  Review all safe work practices associated with gas detection and verify that they are 
+
+available to all employees involved in the operations and reflect current practices.  
+
+  Verify their compliance with 30 CFR 250.1928 and evaluate / audit their latest JSAs with 30 
+
+CFR 250.1911.  
+
+  Meet with gas detector original equipment manufacturers, production contractors, and 
+
+drilling contractors to develop minimal training requirements for day-to-day operations.   
+
+  Verify that all responsible company personnel and contractors are trained in the work 
+
+practices necessary to understand and perform their jobs in a safe and environmentally 
+sound manner in accordance with all provisions of Subpart S. 
+
+A Safety Alert is a tool used by BSEE to inform the offshore oil and gas industry of the 
+circumstances surrounding an accident or near miss. It also contains recommendations 
+that should help prevent the recurrence of such an incident on the Outer Continental 
+Shelf.  
+ 
+
+

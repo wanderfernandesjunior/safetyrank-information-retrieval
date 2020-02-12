@@ -1,0 +1,306 @@
+AB 
+
+ 
+
+IMCA Safety Flash 06/15 
+
+Safety Flash 
+
+  May 2015 
+
+These flashes summarise key safety matters and incidents, allowing wider dissemination of lessons learnt from them.  The information below has been provided 
+in good faith by members and should be reviewed individually by recipients, who will determine its relevance to their own operations. 
+
+The effectiveness of the IMCA safety flash system depends on receiving reports from members in order to pass on information and avoid repeat incidents.  
+Please consider adding the IMCA secretariat (imca@imca-int.com) to your internal distribution list for safety alerts and/or manually submitting information on 
+specific incidents you consider may be relevant.  All information will be anonymised or sanitised, as appropriate. 
+
+A number of other organisations issue safety flashes and similar documents which may be of interest to IMCA members.  Where these are particularly relevant, 
+these may be summarised or highlighted here.  Links to known relevant websites are provided at www.imca-int.com/links   Additional links should be submitted 
+to webmaster@imca-int.com 
+
+ 
+
+1  Objects Dropped from Pipelay Tower 
+
+A member has reported an incident in which two objects fell from a pipelay tower.  The incident occurred some four weeks 
+after repairs to a 360Te winch wire garage at the top of the pipelay tower.  These repairs had involved the erection of scaffolding 
+50-60m above the deck in the pipelay tower, removal of the garage assembly, repair and reinstallation. 
+
+During operations four weeks later a shaft weighing 1kg and shaft end cap weighing 500g fell approximately 57m to the mobile 
+work platform below.  There were no injuries. 
+
+ 
+
+The objects which fell from the tower 
+
+ 
+
+Our member’s investigation noted the following: 
+
+  During the earlier reinstallation of the garage assembly, the securing bolts for the shaft end cap were installed without any 
+means of thread locker (Loctite).  This resulted in the bolts for one of the shaft end caps vibrating loose, resulting in the 
+shaft being unrestrained and free to vibrate out along with the end cap; 
+
+  There was no written work instruction or method statement for the earlier corrective maintenance; 
+
+  There was no means of securing the end cap retaining bolts other than the torque of the bolt itself in the shaft; 
+
+  The drawings for the garage assembly and parts list did not reference the use of thread locker; 
+
+  The garage assembly was not listed on the vessel asset equipment register and therefore no maintenance was assigned to it. 
+
+The following actions were taken: 
+
+  Use of secondary means of securing fasteners for all equipment, particularly at height; 
+
+  Checked security and integrity of remaining fasteners; 
+
+  Fasteners cleaned, torqued to the correct value, thread locked (Loctite) and wire moussed; 
+
+  Equipment entered into the appropriate asset equipment register and planned maintenance scheduled; 
+
+Members are reminded of IMCA promotional material as follows: 
+
+  Pocket card IMCA SPC 12 – Avoiding dropped objects; 
+
+  Poster IMCA SPP 04 – Avoiding dropped objects. 
+
+Members may wish to refer to the following similar incidents (key words: dropped, object, pipelay, tower): 
+
+ 
+
+ 
+
+IMCA SF 11/12 Incident 2 Near Miss: Dropped Object 
+
+IMCA SF 01/15 Incident 5 High Potential Dropped Object 
+
+ 
+2  Failure of Underwater Pan and Tilt Rotator Unit 
+
+A member has reported an incident in which there was a small explosion  and fire on a remotely operated vehicle  (ROV).  
+Personnel had reported having experienced minor issues with the upper pan and tilt unit fitted on the ROV camera whilst it 
+was subsea.  Once the unit was recovered, they intended to connect it to a computer and run the on-deck camera analyser 
+software. 
+
+An explosion blew the single axis driver assembly (SADA) with the camera unit attached (approximately 5kg weight) away from 
+the main rotator unit.  The explosion resulted in the SADA with camera becoming separated (the 6 x 5mm grommet screws 
+connecting the SADA to the camera pan and tilt main housing were sheared) and propelled at a high speed away from the pan 
+and tilt main housing.  Flames were noticed coming out of pan and tilt rotator unit and extinguished. 
+
+There were no injuries. 
+
+Close up of pan and tilt unit 
+
+Broken pan and tilt unit shown in situ 
+
+Close up of broken pan and tilt unit 
+
+ 
+
+ 
+
+ 
+
+Our member noted that the origin of the over-pressure that led to the explosion is still unknown and under investigation with 
+the unit manufacturer. 
+
+The lessons were as follows: 
+
+  Never be in the line of fire; 
+
+  Maintenance/repair work on the pan and tilt units should be reduced to ALARP – as low as reasonably practical; 
+
+  Ensure there is a robust management of change process – ensure that there is proper risk assessment when the situation 
+
+has changed, as in this case. 
+
+Members may wish to refer to the following similar incident (key word: overpressure) 
+
+ 
+
+IMCA SF 08/03 Incident 2 Fatality – Pressure Build-Up leading to Sudden Release of Mechanical Plug  
+
+3  Marine Risk Management within the Safety Zone 
+
+The Marine Safety Forum has drawn attention to the increasing frequency of serious marine incidents within installation 500m 
+zones.  This highlights the need for: 
+
+  Greater understanding and ownership of marine risk from an installation perspective; 
+
+  Strict operating discipline in compliance with established procedures and recognised operating limits; 
+
+  Better quality communications between installation and vessels. 
+
+Further information can be downloaded from here. 
+
+4  Near Miss Incidents: Crew Transfer Vehicles Approaching Wind Turbines 
+
+A member has reported a number of recent near miss incidents involving the approach of small boats  – offshore renewable 
+industry crew transfer vehicles – to wind turbine towers.  In both incidents the vessels have become unattached from the boat 
+landing and have then become dangerously close to hitting the monopile when taking avoiding action. 
+
+ 
+Incident 1 
+
+During personnel transfer onto the crew transfer vessel a wave caused the bow of the vessel to shift to the port side on the 
+boat landing; the Master tried to correct the movement by altering the steering to the starboard side.  A misjudgement caused 
+the vessel to suddenly over-compensate and become even further off centre upon the boat landing.  The Master then slewed 
+the vessel around to starboard in order to realign upon the boat landing without the tide and wave influence (on the beam 
+when in the transfer position).  At this point the vessel became unattached from the boat landing.  To avoid hitting the monopile, 
+unable to reverse due to a following sea, the Master throttled forwards away from danger.  The vessel passed approximately 
+2m from the boat landing. 
+
+The vessel is pushed onto the boat landing centrally and transfer operations are underway 
+
+After craning operations finish and just after one of the technicians descends the ladder 
+
+onto the vessel, the vessel slides a short way to starboard 
+
+The crewman holds onto the handrail whilst the Master slowly repositions the vessel back into 
+the boat landing; he shouts up to the technicians to STOP transfer until he tells them otherwise. 
+
+Note: the vessel is now not centrally on the boat landing 
+
+The vessel moves suddenly to starboard, the crewman evacuates the transfer platform 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+The vessel becomes unattached from the boat landing.  The Master in interview said he was unable to 
+
+The vessel accelerates forwards in order to avoid contact with the monopile and manoeuvres into position 
+
+reverse away from the monopile due to sea state/current; the photo shows the waves bow on 
+
+to re-begin push-on.  There were four technicians left on the monopile during this time 
+
+Our member noted that if the Master knew he was about to make a significant steering alteration he should have informed the 
+crewman first to allow him to safely evacuate the transfer platform before the movement began. 
+
+Our member’s recommendation was that if a crew transfer vessel moves significantly off centre of a boat landing, the Master 
+should first instruct the crewman to remove himself from the transfer platform and tell him to order the technicians to STOP 
+transfer and standby.  Then the Master should pull the vessel away from the wind turbine and begin correct push-on again 
+before recommencing transfer. 
+
+ 
+Incident 2 
+
+A crew transfer vessel was at work in marginal sea/weather conditions that were near to the limit of the vessel capabilities to 
+transfer crew in a safe manner.  The Master made the decision to attempt pushing onto a wind turbine boat landing in order 
+to better assess the vessel’s movement.  After a short while he quickly deemed the weather conditions too severe and decided 
+to abort the procedure.  When the Master put the jet controls into reverse to move astern, only one jet responded.  Due to 
+the high engine power being applied to hold the vessel in position against the boat landing, the vessel turned sharply to starboard 
+in front of the boat landing.  The Master instantly attempted to use the jog steer back up controls to avoid collision but this 
+was unsuccessful; the port jet would not respond.  Next the Master tripped the jet control isolators and re-booted the system.  
+This time all was now working correctly and the vessel was driven away from danger and returned to shore without further 
+problems.  Again the crew transfer vessel came within two metres of colliding with the monopile. 
+
+Our member conducted a full overhaul of the system but there were no obvious signs of damage or deterioration found.  As a 
+precaution to prevent further reoccurrences, the supplier of the jet drives was asked to attend the vessel the next day to 
+perform a second system overhaul and fault finding exercise.  After two further days of work on the system, the drive supplier 
+concluded that a worn jet control potentiometer had caused the units not to respond as requested. 
+
+Incident 3 – Joystick potentiometer wear 
+
+This incident is similar to incident 2 above.  Within the previous week on another crew transfer vessel the Master noticed the 
+vessel was not steering correctly when on passage to site.  Suddenly the steering on both units would not centralise and was 
+stuck hard to starboard, the jet display alarmed with fault code: JS steer fault (joystick). 
+
+The Master, under advice over the phone from the superintendent, removed the joystick from the fly bridge steering console 
+and replaced it with the faulty unit in the wheelhouse.  All steering was regained.  The faulty unit was sent back to the supplier, 
+and under investigation it was found that the steering potentiometers had worn.  Our member considered introducing planned 
+maintenance/replacement of such units to prevent recurrence. 
+
+Members may wish to refer to the following similar incidents (key words: renewables): 
+
+ 
+
+IMCA 17/13 Incident 2 Small Workboats Used on Offshore Wind Farms. 
+
+ 
+
+5  Badly Sprained Ankle Resulting in LTI 
+
+A member has reported an incident in which a person suffered a badly sprained ankle leading to an LTI.  The incident occurred 
+when the person was making his way from the wheelhouse to the galley via the external staircase.  When he put his weight on 
+the second step his foot slipped and he fell the remaining distance (approximately 2 metres) to the deck resulting in an ankle 
+injury. 
+
+Initial first aid was provided on the vessel until the injured person could be taken to hospital.  Subsequent medical assessment 
+diagnosed a badly sprained ankle resulting in being unable to do any work for at least seven days.  This was likely to be followed 
+by a period of restricted work. 
+
+ 
+
+Showing step staircase outside onboard vessel 
+
+ 
+
+  The injured person fell without hitting any other steps on way down and took the full impact on his foot when he hit the 
+
+  The design of the stair (approx. 40 degrees from vertical) meant that when descending in this manner, only the person’s 
+
+Our member’s investigation noted the following: 
+
+  Conditions were wet at the time;  
+
+  Other than being wet, the steps were clean; 
+
+deck; 
+
+  The injured person was descending facing away from steps; 
+
+heel COULD be placed on the tread; 
+
+  Steep stairs were not identified as a hazard on this vessel; 
+
+at the time of the fall. 
+
+Lessons learnt: 
+
+  The injured person was wearing correctly fitted, laced/zipped work boots with good tread, and was not carrying anything 
+
+  Although risk assessments for the project covered all operational tasks they did not extend to cover descending stairways;  
+
+  No warnings signs were in place identifying the steep stairway or the need to use the hand rail. 
+
+The support provided by the correctly worn work safety boots may have limited the extent of the ankle injury. 
+
+Recommendation and corrective action: 
+
+ 
+
+Individuals should always consider the safest method of descending stairs before doing so; 
+
+  Stairways to be kept clean, and where possible, non-slip treads/nosings fitted; 
+
+ 
+
+‘Caution steep stairway use handrails’ signage fitted; 
+
+  The fact that you have not been told how to descend the stairs does not remove the need for you to assess your own 
+
+safety before descending, and decide how to descend the stairway; 
+
+  Ensure hazards not directly linked to operational tasks, are considered and addressed in the workplace, and included in 
+
+vessel induction for all crew, client personnel and passengers; 
+
+  Ensure that work boots and all other PPE is fitted and worn correctly. 
+
+Members may wish to refer to the following similar incident (key words: slipped, stairs): 
+
+IMCA SF 17/14 Incident 5 Slips, Trips and falls – Raising Awareness. 
+
+

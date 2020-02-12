@@ -1,0 +1,90 @@
+Safety Alert 
+
+        From the International Association of Drilling Contractors 
+
+ 
+ALERT 13 – 10  
+
+ 
+
+HOT WORK OPERATIONS RESULTS IN DROPPED OBJECT 
+
+ 
+
+ 
+WHAT HAPPENED: 
+A  third  party  construction  company  was  carrying  out  the  removal  of  various  sections  of  grating  from  the 
+derrick crown platform.  The area had been prepared for the removal by setting up a pulley system and the 
+grating  was  lashed  through  the  perforations  using  retaining  wire  (the  same  type  as  would  be  used  to  lash 
+scaffolding boards on to scaffolding).  After the preparation work had been carried out the section of grating 
+was cut free in order to lower it to the drill floor.  At this point a section of grating measuring 70 x 37cm (2 ft x 
+1 ft) and weighing 5.7Kg (13lbs) broke free and fell a distance of 52m (171ft) to the drill floor.  The grating 
+struck a section of the accommodation, fragmented into  three sections and then all sections landed on the 
+port side box girder of the rig. 
+ 
+
+The 3 sections of grating measured 70 cm x 37cm 
+
+Retaining wire used to secure the grating. Arrow 
+
+(2ft x 1ft) and weighed in total 5.7Kg (13lbs). 
+
+shows points of failure. 
+
+ 
+
+ 
+
+ 
+
+WHAT CAUSED IT: 
+•  During  oxy/acetylene  cutting  of  the  grating,  burning  slag  had  made  contact  with  the  retention  wire 
+
+causing damage which had gone unnoticed. 
+
+•  When  the  grating  was  cut  free  from  the  derrick  structure  the  weight  of  the  grating  bearing  on  the 
+
+damaged wire caused the retention wire to fail at the damaged point. 
+
+•  The drop zone was insufficient. 
+•  Personnel were present in the landing zone. 
+•  There was only single point retention fitted to the grating. 
+
+ 
+
+ 
+
+CORRECTIVE ACTIONS:  To address this incident, this company did the following: 
+•  The  company  reviewed  their  method  of  securing  the  grating  to  include  a  primary  and  secondary 
+
+attachment.  The secondary attachment should be a minimum of a certified 1 ton wire rope sling. 
+
+•  The company’s risk assessment procedure was reviewed to include controls to prevent damage to any 
+
+lifting equipment which was to be used. 
+
+•  All  employees  are  required  to  inspect  all  lifting  equipment  and  accessories  prior  to  and  after  every 
+
+•  All  employees  were  reminded,  during  JSA  review,  to  take measures  to  ensure  no  personnel  enter  into 
+
+operation. 
+
+the drop zone. 
+
+•  The company initiated a stand down and held a Toolbox Talk to inform all personnel of the ongoing work.  
+Additionally,  measures  were  implemented  to  restrict  personnel  from  all  outside  areas  during  critical 
+operations. 
+
+The Corrective Actions stated in this alert are one company’s attempts to address the incident,  
+
+and do not necessarily reflect the position of IADC or the IADC HSE Committee. 
+
+This material is presented for information purposes only.  Managers & Supervisors should 
+
+evaluate this information to determine if it can be applied to their own situations and practices 
+
+Copyright  2013 International Association of Drilling Contractors All rights reserved. 
+
+Issued March 2013 
+
+

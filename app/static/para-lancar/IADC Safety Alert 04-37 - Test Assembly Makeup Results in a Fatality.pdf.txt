@@ -1,0 +1,83 @@
+Safety Alert 
+
+From the International Association of Drilling Contractors 
+
+TEST ASSEMBLY MAKEUP RESULTS IN A FATALITY 
+
+ 
+ALERT 04 – 37 
+
+ 
+
+ 
+WHAT HAPPENED: 
+
+ 
+The rig was pressure testing BOPs and surface equipment.  
+The test assembly had been made up with a side entry sub 
+and  lo-torque  valves.    On  the  3rd  test,  the  manual  lower 
+IBOP  (inner  blow  out  preventer)  on  the  TDS  (top  drive 
+system,  could  not  be  closed  due  to  the  position  of  the 
+torque tube key slot.  At this time the TDS connection  was 
+broken and backed out of the test string to align the torque 
+tube key slot.  After the key  slot had been  aligned and the 
+valve  closed  the  driller  proceeded  to  make  up  the  TDS 
+connection.  Rig tongs were placed on the TIW valve above 
+the  side  entry  sub  for  back  up.    While  applying  torque  the 
+tong  bite  broke  and  allowed  the  test  assembly  to  rotate.  
+The  deceased  was  struck  about  the  abdomen  and  upper 
+body by the side outlet and lo-torque valve. (See picture at 
+right). 
+
+ 
+An  immediate  fleet-wide  procedural  change  prohibiting  the 
+attachment of any pressure testing assembly to a side-entry 
+sub  until  all  drill  string  connections  have  been  made  up  to 
+their full make up torque shall be effective immediately.   
+ 
+In  order  to  prevent  this  from  reoccurring,  a  job  risk 
+assessment shall be developed and utilized on every rig for 
+the  specific  procedure  to  be  followed  for  make  up  of  side 
+entry  subs  that  will,  as  a  minimum:  1.  Prohibit  the 
+attachment of any pressure testing assembly to the side of 
+the  side  entry  sub  until  all  drill  string  connections  have 
+been  made-up  to  their  full  make-up  torque.    2.  Ensure  all 
+side  entry  subs  comply  with  the  requirements  of  internal 
+engineering  standards.    3.  Ensure  that  a  review  of  all 
+precautions  and  inspections  identified  in  the  company 
+safety  manual  are  thoroughly  discussed  and  implemented.  
+4.  Ensure  no  personnel  are  in  a  position  that  will  place 
+them in the path of a potential load or energy source.   
+ 
+All  OIMs  and  Rig  Managers  shall:  a)  Submit  the  job  risk 
+assessment meeting the above requirements for review and 
+approval by regional management within 7 days. 
+ 
+
+ 
+WHAT CAUSED IT: 
+ 
+The  exact  cause  of  the  accident  and  corrective  measures  to  be  undertaken  are  still  under  investigation.    The  failure  to 
+identify the hazard and assess the risk was a major factor in this fatality.   
+ 
+CORRECTIVE ACTIONS:  To address this incident, this company issued the following directives: 
+
+ 
+
+ 
+
+ 
+
+The Corrective Actions stated in this alert are one company’s attempts to address the incident, and do not 
+
+necessarily reflect the position of IADC or the IADC HSE Committee. 
+
+This material is presented for information purposes only.  Managers & Supervisors should  
+
+evaluate this information to determine if it can be applied to their own situations and practices. 
+
+Copyright © 2004 International Association of Drilling Contractors.  All Rights Reserved 
+
+Issued September 2004 
+
+

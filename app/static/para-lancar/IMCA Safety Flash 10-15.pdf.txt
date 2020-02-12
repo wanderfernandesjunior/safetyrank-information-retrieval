@@ -1,0 +1,318 @@
+AB 
+
+ 
+
+IMCA Safety Flash 10/15 
+
+Safety Flash 
+
+ July 2015 
+
+These flashes summarise key safety matters and incidents, allowing wider dissemination of lessons learnt from them.  The information below has been provided 
+in good faith by members and should be reviewed individually by recipients, who will determine its relevance to their own operations. 
+
+The effectiveness of the IMCA safety flash system depends on receiving reports from members in order to pass on information and avoid repeat incidents.  
+Please consider adding the IMCA secretariat (imca@imca-int.com) to your internal distribution list for safety alerts and/or manually submitting information on 
+specific incidents you consider may be relevant.  All information will be anonymised or sanitised, as appropriate. 
+
+A number of other organisations issue safety flashes and similar documents which may be of interest to IMCA members.  Where these are particularly relevant, 
+these may be summarised or highlighted here.  Links to known relevant websites are provided at www.imca-int.com/links   Additional links should be submitted 
+to webmaster@imca-int.com 
+
+ 
+
+1  Near Miss: Dropped Object Fell from Crane Boom 
+
+A member has reported a near miss incident in which an object was discovered which must have fallen from the crane boom. 
+It happened during crane operations when it was noticed that a piece of steel measuring approximately 70mm x 40mm and 
+weighing approximately 300g fell from the boom tip area to the deck. It was assumed (and investigation clearly indicated) that 
+the object came from the inside of the crane hook pocket. This means that the object fell from approximately 100 metres. 
+
+The DROPS calculator suggests that such an object hitting a person from that height would have caused a fatality.  
+
+Location of incident 
+
+Dropped piece of steel 
+
+ 
+
+ 
+
+ 
+
+Internal condition of crane pocket 
+
+ 
+
+ 
+
+Our members’ investigation revealed the following:  
+
+  Continuous movement of the main block inside the crane hook pocket caused damage to such an extent that a piece of 
+
+steel broke loose and fell down; 
+
+  The crane hook pocket had been designed for storing the main block during transportation. The crane hook pocket could 
+
+be locked against the boom using hydraulic pins; 
+
+ 
+  When using the auxiliary hook the crane hook pocket was locked against the boom. This caused steel on steel movement 
+
+of the main block inside the crane hook pocket when booming up and down; 
+
+  Crane inspections only included load bearing parts of the crane;  
+
+  The crane hook pocket had been designed bearing in mind that the auxiliary hook would not be used frequently;  
+
+  No documentation was available on how this crane hook pocket should be used when using the auxiliary hook (locked 
+
+against the boom or unlocked);  
+
+  An engineering bulletin from the crane manufacturer was not properly taken up by management. 
+
+Members may wish to refer to the following similar incidents (search words: dropped, crane): 
+
+ 
+
+ 
+
+ 
+
+IMCA SF 04/11 – Crane boom dropped object  
+
+IMCA SF 01/12 – Crane hook block dropped to deck 
+
+IMCA SF 02/15 – Dropped object near miss: Falling crane block. 
+
+2  Dropped Object Near Miss: Antenna Parts Worked Loose and Fell to Deck  
+
+A member has reported a near miss incident in which part of a single side band (SSB) antenna fell off the mast to deck during 
+bad weather. The antenna had three parts which were threaded and screwed together. The first part of the antenna was not 
+fully screwed into the second part. In high winds, the antenna was waving back and forth in the wind which caused it to loosen 
+and become detached. There were no injuries.  
+
+Our member notes that this incident could have had a much more serious outcome had one of the base plates dropped from 
+a height. 
+
+SSB antenna above bridge 
+
+Detached antenna shown on deck afterwards 
+
+ 
+
+ 
+
+ 
+
+Our member took the following actions: 
+
+  Damaged antenna was removed from above bridge and replaced with new one; 
+
+  Ensured correct practices were used for securing all navigation/communication equipment at height and/or on masts;  
+
+  Thorough check of all existing equipment above bridge or at height and/or on masts, most especially after installation or 
+
+maintenance by a third party;  
+
+  Crew “time out for safety” carried out emphasizing hazards and risks of working at height and/or on masts, particularly 
+
+the area above the vessel bridge (sometimes called the monkey island). 
+
+The following lessons were learnt: 
+
+  Continual vigilance is called for where there is even the potential for loose objects to fall from height;  
+
+  Visual inspections should be thorough and careful; 
+
+  Equipment at height that is exposed to the elements (for example on masts and on the  monkey island above the bridge) 
+should be regularly checked to ensure there is nothing working loose or any loose objects which may fall in bad weather 
+conditions. 
+
+Members may wish to refer to the following similar incidents (search words: mast, dropped): 
+
+ 
+
+ 
+
+IMCA SF 04/10 Incident 2 –  Falling object [from mast];  
+
+IMCA SF 06/13 Incident 3 – Near miss: dropped object - falling camera. 
+
+ 
+Members should refer to the following IMCA safety promotional material intended for use by vessel crews:  
+
+ 
+
+ 
+
+IMCA SPP 04 – Avoiding dropped objects; 
+
+IMCA SPC 12 – Avoiding dropped objects. 
+
+3  Control of Sub-Contractor Personnel: Unplanned and Uncertified Lifting Operations 
+
+A member has reported a near miss incident in which sub-contractors’ lifting operations had to be stopped due to several 
+unsafe conditions.  Sub-contractors were found using uncertified lifting equipment, and lifting slings were being used over sharp 
+edges of vessel frames.  Work was stopped by shore-based staff visiting the vessel.   
+
+It was found that: 
+
+inappropriate lifting practices; 
+
+  The  crew  and  the  sub-contractor  personnel  were  unaware  that  they  were  engaged  in  potentially  dangerous  and 
+
+  The sub-contractor had conducted no planning or pre-job inspection; 
+
+  Such risk assessment as had taken place, failed to consider all hazards, including the uncertified equipment and unsuitable 
+
+position of lifting slings; 
+
+  The sub-contractor’s supervisor was not present when the operation started;  
+
+  Vessel crew failed to verify safety of job planning and certification of equipment when issuing the permit to work (PTW); 
+
+  Vessel crew and contractors failed to exercise the stop work policy when work was conducted in an unsafe manner. 
+
+Our member took the following actions: 
+
+  Stopped the job, held discussion with sub-contractor personnel and vessel crew; 
+
+  After management review, fabricated and welded on a pad eye to facilitate safe lifting activities. 
+
+The following lessons were identified: 
+
+  Proper task risk assessment should be conducted at the planning and implementation stages to ensure that all potential 
+
+hazards are identified and all necessary and required safety precautions are put in place;  
+
+  All equipment used for lifting operations should be properly certified and suitable; 
+
+  All lifting equipment should be inspected before and after use, and certification status should be confirmed accordingly, 
+
+before issue of PTW;  
+
+  There  should  be  appropriate  control  of  sub-contractor’s  personnel.    If  there  is  direct  management  control  of  the 
+operations  of  a  sub-contractor,  or  if  contractor  management  has  a  ‘prevailing  influence’  over  the  operations  of  sub-
+contractors, then the responsibility for safety generally remains with the contractor.  
+
+ Members may wish to refer to the following similar incidents (search words: control, sub-contractor, strop):  
+
+ 
+
+ 
+
+IMCA SF 16/09 Incident 1 – Near miss: Unexpected lowering of a suspended load; 
+
+IMCA SF 10/13 Incident 1 – High potential near miss: Lifting equipment failure. 
+
+4  Poor Storage Leading to Failure and Disintegration of Cutting Discs 
+
+A  number  of  incidents  have  come  to  IMCA’s  attention  in  which  cutting  discs  from  one  manufacturer  have  failed  and 
+disintegrated whilst in use.  When using hand-held rotating machinery of this sort, there is great potential for serious harm to 
+the operator and anyone nearby should this happen, given that the discs rotate in excess of 12,000rpm.  It was initially suspected 
+that this was a manufacturing fault affecting a batch of these discs. 
+
+However,  subsequent  investigation  has  revealed  that  the  cutting  discs  failed  as  a  direct  consequence  of  being  stored  in 
+inappropriate conditions.  This followed discussions with the manufacturer of the discs.   Once notified of the problem, the 
+manufacturer quickly investigated the circumstances of the disc failures and have identified that the manner in which the discs 
+were stored is the most likely root cause of the problem.  Below is an extract from their report: 
+
+“The discs at some point have been subject to damp conditions.  When bonded abrasives are subjected to dampness this often leads to 
+a breakdown in the resin which has a very important role of acting as a binding agent in the make-up of the discs.  Bonded abrasives 
+should always be stored in dry, frost-free conditions avoiding wide variations in temperature, damp and humidity.  They should always be 
+properly protected and supported to prevent damage and distortion.” 
+
+ 
+It should be noted that there was no evidence that the discs supplied by this manufacturer were at fault in any way.   The 
+manner in which the discs were stored was the most likely root cause of the problem. 
+
+Action: Members are encouraged to review the means of storage for all cutting and grinding discs in order to prevent any 
+similar occurrence, with particular reference to ensuring that such storage avoids wide variations in temperature, damp and 
+humidity. 
+
+Members may wish to refer to the following similar incidents (search words: disc, cutting, grinding): 
+
+ 
+
+IMCA SF 11/11 – Grinding disc with defects. 
+
+Members  should  be  aware  of 
+int.com/media/102554/imcaspc11.pdf. 
+
+the 
+
+IMCA  pocket  safety  card  on  cutting  and  grinding  safety,  www.imca-
+
+    
+
+ 
+
+5  Daughter Craft Man Overboard Incident 
+
+The Marine Safety Forum has published the following safety flash regarding a non-fatal man overboard incident.  A vessel was 
+on  location  performing  routine  duties.    A  Daughter  Craft  (DC)  had  been  used  for  a  drill  and  was  in  the  process  of  being 
+recovered when the boat man engaged in this work fell  backwards  into  the  water  when  the  small boat jerked  to  starboard.  
+He was recovered and was uninjured.  No other party was injured during the incident. 
+
+The main conclusion drawn was that the boatman did not secure his safety harness to the harness point and did not convey 
+this to the deck crew.  Also, the deck crew lowered the davit wire without confirmation that the boatman was secure.  
+
+Causes: Failure of communication, failure to be aware of safety responsibilities, failure to use PPE appropriately. 
+
+The safety flash can be downloaded from www.marinesafetyforum.org/upload-files//safetyalerts/msf-safety-flash-15.19.pdf. 
+
+Members may wish to review the following similar incidents (search words: man overboard): 
+
+IMCA SF 16/13 Incident 2 – Fatality – Man overboard; 
+
+IMCA SF 02/15 Incident 5 – Near miss – Man overboard. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+6  Lithium Battery Contents in Eyes  
+
+The Marine Safety Forum has published the following safety flash regarding an incident in which a crewman was splashed in the 
+eyes with material from a Lithium battery.  The incident occurred offshore whilst the ship’s Electro Technical Officer (ETO) 
+was engaged in the repair of a ship’s instant reaction electronic welders mask.  The tablet style lithium ion battery to the mask 
+needed replacing and due to the compact nature of the equipment it was considered that this could only be done by soldering 
+connections on to the new battery.  The original mask battery was soldered by machine soldering.  The repair required manual 
+soldering for obvious reasons.  The  first  connection  was  made  successfully  and  whilst  soldering  the  second  connection 
+the lithium battery overheated and popped causing the battery contents to spray out into the ETO’s eyes.  
+
+Personnel nearby reacted rapidly and correctly applying copious quantities of water to the injured person’s eyes.  There was 
+no permanent harm to the injured person’s eyes. 
+
+The root causes of the incident were: 
+
+  Failure to use personal protective equipment (PPE); 
+
+ 
+
+ 
+
+Inadequate time was allowed between soldering operations for the battery to cool down causing it to over-pressurise and 
+fail resulting in the injury; 
+
+Inadequate  work  planning  or  programming  –  the  work  was  seen  as  “everyday”  which  resulted  in  an  inadequate  risk 
+assessment. 
+
+The safety flash can be downloaded from www.marinesafetyforum.org/upload-files//safetyalerts/msf-safety-flash-15.20.pdf.  
+
+Members should be aware that IMCA provides a useful series of safety prompt cards, one of which is “keep your eyes on 
+safety” – www.imca-int.com/media/102581/imcaspc14.pdf. 
+
+ 
+
+ 
+
+ 
+
+

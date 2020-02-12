@@ -1,0 +1,146 @@
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+June 17, 2013 
+Washington, DC 
+
+         Inspections and Compliance Directorate 
+
+ 
+
+        
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+           05-13 
+
+RECENT FAILURES OF DYNAMIC POSITIONING (DP) SYSTEMS ON 
+
+MOBILE OFFSHORE DRILLING UNITS 
+
+ 
+This Safety Alert addresses dynamic positioning  incidents resulting in a loss of position on drillships.  
+A  loss  of  position  during  a  critical  activity  may  result  in  a  loss  of  well  control  and  severe 
+consequences  including  loss  of  life,  pollution,  and  property  damage.  Critical  activities  are  those 
+activities  where  the  consequences  of  equipment  failure  or  loss  of  position  are  greater  than  under 
+normal operating circumstances.  Two examples would be a MODU conducting well operations with 
+non-shearables  through  the  blowout  preventer  (e.g.,  the  blowout  preventer's  shear  ram(s)  cannot 
+shear)  or  when  the  time  to  terminate  operations  is  unacceptable  (e.g.,  the  MODU  crew  cannot 
+reposition the non-shearable away from the BOP's shear ram in the time required to disconnect). 
+ 
+Recent incidents involving drillship loss of position and emergency disconnects have highlighted the 
+importance  of  operating  a  dynamically  positioned  drillship  within  its  design  limits,  ensuring  dynamic 
+positioning  compentency  levels  and  ensuring  approprate  precautions  are  taken  during  maintenance 
+and  testing  of  critical  equipment.  A  loss  of  position  on  a  dynamically  positioned  drillship  can  be 
+mitigated  by  following  dynamic  positioning    system  guidance  published  in  the  ‘‘DP  Operations 
+Guidance Prepared through the Dynamic Positioning Committee of the Marine Technology Society to 
+aid  in  the  safe  and  effective  management  of  DP  Operations,’’  March  2012  Part  2  Appendix  1 
+(dynamically positioned MODUs), available at: 
+ 
+ http://www.dynamic-positioning.com/dp_operations_guidance.cfm .   
+ 
+See our notice in the Federal Register (77 FR 26562) available at:  
+ 
+http://www.uscg.mil/hq/cg5/cg521/docs/DP_FR_Notice_2012-10669.pdf . 
+ 
+In two recent incidents, dynamically positioned drillships lost functional thrusters due to an electrical 
+disturbance when attempting to reconnect a faulty thruster after maintenance.  When the thruster was 
+reconnected it was not electrically isolated from other thrusters and the thrusters did not “ride through” 
+the  disturbance  causing  loss  of  thrust.    During  these  incidents  the  drillship  crews  were  unable  to 
+restore all functional thrusters and as a consequence these drillships lost position and had to initiate 
+the emergency disconnect sequence (EDS).   
+ 
+In another incident a dynamically positioned drillship encountered severe weather with high, shifting 
+winds that caused it to lose position and initiate the EDS.  Despite receiving a weather alert for severe 
+thunderstorms  and  high  winds  well  before  this  incident,  only  half  of  the  available  diesel  generators 
+were  on  line  when  the  storm  hit  and  the  DP  Operator  (DPO)  ordered  a  significant  heading  change 
+with a high rate of turn when the drillship began to lose position.  The drillship was unable to achieve 
+the ordered heading or bring all generators online before it lost position and had to initiate the EDS. 
+ 
+
+Page 1  
+
+ 
+
+Based  on  these  incidents,  the  U.S.  Coast  Guard  recommends  that  owners  and  operators  of 
+dynamically positioned MODUs operating on the U.S. Outer Continental Shelf: 
+ 
+
+• 
+
+Include appropriate material on preventing these incidents in training programs for DPOs and 
+other  key  DP  personnel.    Training  programs  should  maximize  use  of  DP  simulators  to  gain 
+proficiency in maintaining heading (dynamically positioned drillships) and ensuring  equipment 
+is  ready  ahead  of  severe  weather,  ensuring  communications  with  the  drill  floor  (e.g.  use  of 
+“blue  advisory”/risk  assessment)  and  re-establishing  thrust  in  emergency  situations.  (See 
+Marine  Technology  Society  (MTS)  MODU  Operations  Guidance  Section  4.13  and  IMCA  M 
+117 Rev.1 Appendix 4). 
+
+•  Develop  and  implement  a  Critical  Activity  Mode  of  Operation  (CAMO)  and  a  Well  Specific 
+Operating Guideline per MTS, “DP Operations Guidance” to ensure that the most reliable DP 
+system  configuration  is  used  during  critical  activities.    Develop  and  utilize  a  CAMO  for  any 
+activity you or your lessee identifies as critical.  When developing a CAMO, consider requiring 
+open bus operation during critical activities to prevent a worst case failure with a potential for 
+zero  thrust  in  excess  of  your  drift  off  time  to  the  Point  of  Disconnect  (See  MTS  DP  MODU 
+Operations  Guidance  Section  4.8  and  Appendix  C  “Example  of  a  CAMO”,  “Power 
+Distribution”).  
+
+o 
+
+It  may  be  possible  to  make  a  common  power  system  fully  fault  tolerant  in  respect  of 
+single failure criteria for DP Class 2 and DP Class 3.  However, in such designs fault 
+tolerance depends on a very comprehensive range of protective functions and on many 
+items  of  equipment  being  able  to  perform  to  capacity.    Operating  the  power  plant  as 
+two or more independent power systems reduces dependence on protective functions 
+and  vulnerability  to  hidden  failures.    It  does  not  remove  all  common  points  between 
+redundant  systems.    The  potential  to  lose  one  part  of  the  system  is  higher  but  the 
+potential  to  lose  the  complete  system  is  reduced  (See  MTS  “DP  Vessel  Design 
+Philosophy Guidelines” Section 10.8). 
+
+•  Perform testing aboard MODUs to ensure functional thruster drives will ride-through a system 
+disturbance.  This  testing  should  indicate  how  the  system  will  react  during  a  significant  bus 
+disturbance such as a short circuit on the main switchboard.  Where ride-through capability is 
+an essential part of the DP redundancy concept it should be proven by live short circuit and 
+ground fault testing per Section 9.2.5 of the MTS “DP Vessel Design Philosophy Guidelines”.  
+This testing should be incorporated into the vessel DP Proving Trial (5-year). 
+
+•  Perform regular thermal imaging surveys of DP system electrical equipment (e.g., switchgear, 
+drives, motor controllers, etc.) as part of a preventative maintenance program to provide early 
+detection of faulty or loose connections. 
+
+ 
+This Safety Alert is provided for informational purposes and does not relieve any foreign or domestic 
+requirement.    Developed  by  the  Coast  Guard  Outer  Continental  Shelf  National  Center  of  Expertise. 
+For additional information contact Commander James Rocco: james.v.rocco@uscg.mil . 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Distributed by the Office of Investigations and Casualty Analysis:  http://Marineinvestigations.us 
+To subscribe:kenneth.w.olsen@uscg.mil 
+
+Page 2              
+
+

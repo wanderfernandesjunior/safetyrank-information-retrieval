@@ -1,0 +1,153 @@
+Safety Alert 
+
+        From the International Association of Drilling Contractors 
+
+ 
+ALERT 07 – 13 
+ 
+
+DROPPED CRANE BLOCK HOOK LATCH 
+
+ 
+WHAT HAPPENED: 
+ 
+The deck crew was changing out cutting skips.  A 
+full skip had just been landed and unhooked from 
+the  whip  line  of  the  starboard  crane.    As  the 
+crane was booming into position for the next lift, 
+the J-latch (Fig.1) from the main block’s hook fell 
+approximately  40  meters  and  landed  on  top  of 
+the  cuttings  skid,  then  bounced  between  two 
+employees  and  came  to  rest  on  the  main  deck.  
+No  injuries  or  other  damage  occurred.    The 
+incident  was  designated  “High  Potential”  for 
+severe injury. 
+ 
+WHAT CAUSED IT: 
+ 
+The main block hook J-latch came in contact with the crane boom.   The boom saver (protector) pad was not 
+in the correct position on the boom to prevent metal-to-metal contact between main block and the boom (see 
+Fig 2). 
+ 
+
+Fig.1  
+
+ 
+
+Boom saver pad to protect 
+boom. Pad was out of place  
+
+Main block 
+and hook  
+
+Point of impact.  
+
+Fig. 2 showing the approximate point of impact on 
+the boom by the block and the incorrect position of 
+the boom saver pad.  
+ 
+ (This diagram is not to scale and does not 
+reflect the position of the whip line or boom 
+during the incident and is used only to illustrate 
+the impact between the main block and boom). 
+
+The impact dislodged the circ-clips which allowed the pin to be knocked out of place which allowed the latch 
+to fall (see Fig. 3 below).   
+ 
+
+ 
+
+ 
+Fig. 3: The pin that was displaced after the circ-clips were 
+dislodged when the block struck the boom.   
+ 
+Circ-clip installs in the grooves at each end of the pin that 
+retains the hook latch. 
+ 
+It has been ascertained that the circ- clip and pin system 
+used to retain the hook latch is designed for easy 
+disassembly for equipment inspection and should not be 
+altered.  
+
+ 
+
+ 
+
+ 
+
+The Corrective Actions stated in this alert are one company’s attempts to address the incident,  
+
+and do not necessarily reflect the position of IADC or the IADC HSE Committee. 
+
+This material is presented for information purposes only.  Managers & Supervisors should 
+
+evaluate this information to determine if it can be applied to their own situations and practices 
+
+Copyright © 2005 International Association of Drilling Contractors All rights reserved. 
+
+Issued April 2007 
+
+Safety Alert 
+
+        From the International Association of Drilling Contractors 
+
+ 
+CORRECTIVE ACTIONS:  To address this incident, this company did the following: 
+ 
+•  Crane Operators during pre-tour inspections are to ensure the following:   
+
+o  The anti-two block is correctly positioned so the block cannot be stopped above the boom saver. 
+o  The J-latch system is intact—circ-clips are securely in place on the pin.  
+o  The boom saver pad is in good condition and positioned to prevent metal-to-metal contact (see 
+
+Fig. 4 below).  
+
+ 
+
+Fig. 4:  The boom saver pad that did not 
+prevent main block from contacting the 
+boom. 
+
+                    
+ 
+
+                                    
+
+            
+
+•  Maintenance personnel are to ensure the J-latch system is placed on preventive maintenance plan for 
+annual change-out of renewable / replaceable parts (pin and circ-clips; and main latch if required).  Have 
+complete spare latch assembly on hand. 
+
+•  Roustabouts and Crane Operators are to ensure the J-latch lock is secured before all lifts and before 
+stowing the block.  This must be captured in rig procedures, JSA’s, etc. and communicated to all crews 
+
+•  Crane operator is to conduct an immediate post-impact inspection if the block is seen to contact the 
+
+boom or other object. Verify pin is in place with circ-clips intact.  
+
+•  Operations managers are to notify the inspection company of this incident and ensure that the location / 
+
+position and condition of the boom saver pad is included in future inspections.   
+
+•  Crane operator is to operate crane in such a way to prevent excessive swinging of the main block.  
+•  Maintenance personnel are to consider changing boom saver pad to wrapped nylon line, as it may be 
+
+more effective and lighter. 
+
+ 
+ 
+
+The Corrective Actions stated in this alert are one company’s attempts to address the incident,  
+
+and do not necessarily reflect the position of IADC or the IADC HSE Committee. 
+
+This material is presented for information purposes only.  Managers & Supervisors should 
+
+evaluate this information to determine if it can be applied to their own situations and practices 
+
+Copyright © 2005 International Association of Drilling Contractors All rights reserved. 
+
+Issued April 2007 
+
+

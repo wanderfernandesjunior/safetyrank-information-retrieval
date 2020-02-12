@@ -1,0 +1,82 @@
+Safety Alert 
+
+        From the International Association of Drilling Contractors 
+
+ 
+ALERT 11 – 09 
+
+IMPROPERLY MOUNTED RIG FLOOR WINCH 
+
+RESULTS IN HI-POTENTIAL NEAR HIT 
+
+ 
+WHAT HAPPENED: 
+ 
+During operations on the drill floor the crew was in the process of picking up riser through the V-door.  They 
+were using the 4500 kg winch for pulling back the riser to permit racking of the riser into the V-door.  As the 
+riser was being picked up, the winch bolts holding the winch to the pedestal failed and the winch broke free 
+from its pedestal.  When the winch broke free from its mount and was suspended by its wire rope, it swung 
+sideways and smashed the glass on the doghouse door.  The riser then slid back down the V-door and came 
+to rest on the V-door stopper. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Winch suspended by  
+
+wire rope 
+
+Winch base plate showing 
+
+incorrect bolt pattern 
+
+Winch swinging toward  
+
+doghouse door 
+
+WHAT CAUSED IT: 
+ 
+  The  original  winch  base  did  not  have  the  same  design  or  bolt  pattern  as  the  base  holding  plate  and 
+
+required modification before use (holes were misaligned). 
+
+  Failure to recognize situation as requiring Management of Change (MOC) controls. 
+  Undersized bolts used to secure the winch to its base failed under load. 
+  There was no follow-up inspection record of the modification or load testing performed. 
+  Wrong team members were involved in the installation 
+ 
+CORRECTIVE ACTIONS:  To address this incident, this company instructed rig personnel in the 
+following: 
+ 
+  Check all lifting equipment before use for damage or potential mechanical failure. 
+  Follow Management Of Change (MOC) process to plan the scope of work and who needs to be involved 
+
+at each phase. 
+
+  Renewal  and  modifications  to  equipment  are  to  be  checked  by  OIM,  Maintenance  Supervisor  and 
+QHSET Officer at a minimum (Tourpusher to be included for Drilling equipment and Barge Engineer for 
+Marine equipment). 
+
+  Any load bearing equipment should be load tested to SWL before use. 
+ 
+
+The Corrective Actions stated in this alert are one company’s attempts to address the incident,  
+
+and do not necessarily reflect the position of IADC or the IADC HSE Committee. 
+
+This material is presented for information purposes only.  Managers & Supervisors should 
+
+evaluate this information to determine if it can be applied to their own situations and practices 
+
+Copyright  2005 International Association of Drilling Contractors All rights reserved. 
+
+Issued April 2011 
+
+

@@ -1,0 +1,69 @@
+Safety Alert 
+
+From the International Association of Drilling Contractors 
+
+ 
+
+ 
+ALERT 03 – 30 
+ 
+
+MODIFIED TONG ATTACHMENT RESULTS IN MTO 
+
+ 
+WHAT HAPPENED: 
+ 
+The rig crewmembers were working on the rig floor preparing to torque up the bit.  A shackle was needed to attach 
+the make-up chain to a line-pull sensor.  Instead of getting a shackle from storage, the shackle was taken from the 
+snub line on the breakout tong.  The crewmembers did not replace the shackle following the bit being made up to 
+the bit sub.   
+ 
+The crew also needed to test the down-hole motor so a stand of collars was run in the hole and the top drive was 
+rotated into the stabilizer on top of the stand.  The breakout tongs were placed on the stump for back up purposes.  
+When the top drive spin-up was complete, the breakout line spooled off and broke loose from the cathead.  The tong 
+spun  around  rapidly  causing  the  loose  end  of  the  snub  line  to  strike  the  driller  on  his  hardhat.    The  driller  was 
+knocked  down  and  was  later  taken  to  the  hospital for  evaluation.    The  driller  was checked  out  at  the  hospital  and 
+released to return to work.  One stitch was required to close a head wound. 
+ 
+WHAT CAUSED IT: 
+ 
+One issue was that the crewmember perceived a shortage of shackles so he borrowed a shackle from the breakout 
+tong’s snub line when one was needed to attach the load cell to the jerk chain.  At that point, no one recognized the 
+hazard created by modifying the equipment and they failed to reinstall the shackle.  Other shackles were available, 
+which leads to the next safety issue. 
+ 
+The second issue was that those supervising did not pay full attention to what the rig floor crewmembers were doing 
+to prepare for the task of torquing the bit.  The issue then is of supervising the operation and not getting so busy with 
+other  activities  that  attention  isn't  paid  to  the  rig  floor  crewmember's  behavior.    Other  shackles  were  available  but 
+supervisors failed to recognize a need to oversee rig floor crewmembers in their effort to attach the load cell.  
+ 
+A third remedial action identified from this incident is the need for a better, engineered driller's protection cage.   
+ 
+CORRECTIVE ACTIONS:  To address this incident, this company did the following: 
+ 
+•  Crews  discussed  the  need  for  better  communications.    They  also  installed  a  plastic  tie  in  the  shackle  pin  to 
+make the removal of the shackle more difficult and less likely to happen.  All shackles/clevises must have the 
+pin wire tied in place at all times.  A good practice would be to leave a shackle attached to the load cell so it’s 
+available when needed. 
+
+•  Equipment modifications that are not documented and communicated to all personnel can lead to very serious 
+incidents.    Anytime  equipment  is  modified,  it  must  be  returned  to  its  normal  state  as  soon  as  possible.  
+Obviously there must be a method used to alert all personnel to the fact that a change was made.   
+
+•  The driller’s cage height has been raised and the cage was extended to more completely protect the driller.  
+•  All  crews  were  reminded  to  an  “equipment  modification”  process,  which  includes  a  document  that  must  be 
+signed by the appropriate supervisor in charge and passed on to other crews should a crew change take place.   
+
+The Corrective Actions stated in this alert are one company’s attempts to address the incident, and do not 
+
+necessarily reflect the position of IADC or the IADC HSE Committee. 
+
+This material is presented for information purposes only.  Managers & Supervisors should  
+
+evaluate this information to determine if it can be applied to their own situations and practices. 
+
+Copyright © 2003 International Association of Drilling Contractors.  All Rights Reserved 
+
+Issued July 2003 
+
+

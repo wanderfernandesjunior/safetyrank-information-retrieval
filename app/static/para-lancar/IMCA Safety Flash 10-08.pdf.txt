@@ -1,0 +1,150 @@
+Safety Flash 
+
+AB
+
+ 
+
+ 
+
+ 
+
+IMCA Safety Flash 10/08 Rev. 1 
+
+June 2008 
+
+These  flashes  summarise  key  safety  matters  and  incidents,  allowing  wider  dissemination  of  lessons  learned  from  them.    The  information  below  has  been 
+provided in good faith by members and should be reviewed individually by recipients, who will determine its relevance to their own operations. 
+
+The effectiveness of the IMCA safety flash system depends on receiving reports from members in order to pass on information and avoid repeat incidents.  
+Please consider adding the IMCA secretariat (imca@imca-int.com) to your internal distribution list for safety alerts and/or manually submitting information 
+on specific incidents you consider may be relevant.  All information will be anonymised or sanitised, as appropriate. 
+
+A  number  of  other  organisations  issue  safety  flashes  and  similar  documents  which  may  be  of  interest  to  IMCA  members.    Where  these  are  particularly 
+relevant, these may be summarised or highlighted here.  Links to known relevant websites are provided at www.imca-int.com/links   Additional links should 
+be submitted to webmaster@imca-int.com 
+
+This flash has been reissued to provide additional guidance in respect of item 3 – GPS Antenna Problems 
+
+1  Unsecured Object Fell and Injured Crewman 
+
+During routine offshore operations, a piece of unsecured grillage stowed on deck toppled and struck a member of the deck 
+crew  on  the  foot.    The  impact  was  severe  and  caused  multiple  fractures  to  the  metatarsal  bones  of  his  foot  and  serious 
+lacerations.  The injured crew member was medivaced to a local hospital where he is currently being treated. 
+
+At the time of the incident the weather was flat calm and the vessel was in transit.  The deck crew was involved in setting up 
+a  rigging  arrangement  on  the  over-boarding  chute  whilst  technicians  were  carrying  out  fault-finding  on  other  equipment.  
+Four members of the deck crew were on their way to collect rigging equipment from the rigging container.  To reach the 
+container the crew had to pass between a deck tugger winch and a heavy piece of grating which had been removed from the 
+top  of  the  equipment  being  investigated  by  the  technicians.    This  piece  of  grating  was  stowed  upright  against  the  plough 
+guards on deck. 
+
+Whilst passing between the tugger and the plough guard the grating was disturbed and fell, striking the foot of the injured 
+party.  The grating was fitted with fixing lugs, one of which severely impacted the foot, penetrating the safety boot and caused 
+the injuries. 
+
+Fixing lug 
+
+Grating and 
+approximate 
+positions of crew 
+at the time 
+
+This incident occurred during routine deck activities when the level of hazard awareness and attention to detail was perhaps 
+not as high as it would be when the vessel was fully operational on project construction work.  This highlights the need for 
+the  same  level  of  awareness,  attention  to  detail  and  communications  during  routine  work  as  there  is  during  project 
+construction operations. 
+
+The following points were noted: 
+
+♦  The grating was an obvious obstruction and partly blocked a frequently used access route to storage and working areas; 
+
+♦ 
+
+It was left completely unsecured and incorrectly stowed; 
+
+ 
+
+ 
+
+injured party; 
+
+♦  Three people attempted to walk round the obstruction without identifying the potential hazard – the fourth became the 
+
+♦  An obvious hazard went unchecked and subsequently caused an accident. 
+
+2  Dry Suit Inflation Installation on to a KM 37 Helmet 
+
+The practice of installing a dry suit inflation whip with modified fittings onto a KM 37 side block has been reported to IMCA. 
+
+Kirby Morgan Dive Systems Inc. has advised the following. 
+
+ 
+
+♦  The modification to the side block assembly of the KM 37, shown in the photograph above, is not recommended; 
+
+♦  The leverage on the brass fitting is extremely high giving a high potential for breakage; 
+
+♦  The fitting at the bottom of the side block is a 3/8" straight thread fitting with an O-ring seal which is not designed to 
+
+sustain this kind of leverage. 
+
+Members are reminded that an in-line valve is not deemed necessary by the helmet manufacturer, as long as a good quality 
+and suitably approved inflator hose is used or the KMDSI restrictor adapter PN# 555-210. 
+
+3  GPS Antenna Problems – updated 
+
+A member has reported a serious failure of a vessel’s GPS positioning equipment.  When approaching the work area, which 
+was close to the shore, the vessel experienced a complete failure of all its GPS receivers (eight receivers from four different 
+manufacturers/suppliers). 
+
+Following extensive fault-finding which isolated the problem to the area of the vessel bridge, it was discovered that one GPS 
+unit was causing the failure of all the other units.  The receiving antenna for the unit had failed and had become a transmitter, 
+the signal from which subsequently blocked all the other GPS receivers mounted nearby.  The close proximity (<1m) of this 
+damaged  antenna  unit  to  two  other  GPS  antenna  units  may  also  have  caused  damage  to  the  internal  electronics  of  these 
+units. 
+
+Members  are  warned  to  be  aware  of  the  potential  hazard  posed  by  a  faulty  GPS  antenna  and  that  all  GPS  antennae  be 
+separated by at least two metres where possible.  It is recommended that when selecting the mounting location and installing global 
+navigation satellite system (GNSS) antennae, guidance is taken from the system manufacturer with regard to safe operating distance 
+from  other  equipment  and  with  special  attention  given  to  transmit/receive  devices.    Care  should  also  be  taken  in  the  selection  of 
+appropriate  cabling  and  antennae  and  to  the  shielding  and  grounding  required  for  these  systems.    A regular  inspection  and 
+maintenance schedule is also recommended, with periodic replacement of cables. 
+
+4  Fire Watches for Surface Welding and Burning Operations 
+
+A member has reported a number of incidents during welding and burning operations which had the potential to result in 
+injury to personnel or damage to equipment or vessels. 
+
+Members are urged to consider the following fire watch precautions when carrying out hot work operations: 
+
+♦  A suitably competent Fire Watch should be designated; 
+
+♦  The Fire Watch should be provided with suitable fire fighting and safety equipment dependent on the type and area of 
+
+♦  The Fire Watch should be shown the area of operation and all adjacent areas; 
+
+♦  The Fire Watch should be made familiar with all fixed and temporary fire fighting and safety equipment in the immediate 
+
+operations; 
+
+and adjacent areas; 
+
+♦ 
+
+It is of particular importance that the Fire Watch is provided with clear and unambiguous instructions on the procedure 
+to raise the alarm in the event of a fire.  This may require the Fire Watch to be made familiar with the nearest active fire 
+alarm activation point and be provided with direct communications to the bridge; 
+
+♦  The  immediate  and  adjacent  areas  should  be  inspected  prior  to  welding  or  burning  operations  to  ensure  that  good 
+housekeeping standards are in force.  Clean and tidy areas in the vicinity of the work areas may help to avoid any fire 
+related incidents; 
+
+The  Fire  Watch  should  be  in  place  prior  to  commencement  and  throughout  the  duration  of  the  welding  or  burning 
+operations.  The Fire Watch should remain in force on completion of the operations until all involved are reasonably satisfied 
+that the requirement for a full time watch can be dispensed with. 
+
+ 
+
+ 
+
+

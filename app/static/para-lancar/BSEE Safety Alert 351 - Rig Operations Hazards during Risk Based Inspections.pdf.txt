@@ -1,0 +1,177 @@
+ 
+
+ 
+
+ 
+ 
+
+SAFETY ALERT 
+ 
+
+ 
+
+Safety Alert No. 351 
+29 May 2019  
+
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+
+       
+       
+
+ 
+ 
+
+Contact: Jason Mathews  
+Phone: (504) 731-1496 
+
+BSEE Identifies Rig Operations Hazards 
+
+during Risk Based Inspections 
+
+BSEE Inspectors conducting Rig Operations Hazards Performance Based Risk Inspection 
+
+The Bureau of Safety and Environmental Enforcement recently conducted a review of 2016 
+through 2018 compliance and incident data to identify safety trends throughout the Gulf of 
+Mexico. The analysis pointed to a potential risk associated with rig operations. During the 
+time frame reviewed, one fatality occurred and other high-potential injuries were associated 
+with  rig  floor  equipment.  Due  to  the  recent  events  and  their  associated  severity,  BSEE 
+developed a unique Performance Based Risk Inspection (PBRI) protocol that focused on 
+reducing  the  likelihood  of  similar  incidents  and  compliance  issues  Gulf-wide.  BSEE 
+inspected 11 rigs in the Gulf of Mexico over a multiday period.  
+ 
+At the completion of the inspections, BSEE reviewed the results and conducted additional 
+reviews on Safety and Environmental Management System specific items, e.g., personnel 
+competency,  identified  safe  zones,  communication  between  Operators  and  Contractors, 
+and short-service employees (SSEs). BSEE concluded: 
+ 
+ 
+
+•  The interactions between the operators and contractors occur frequently enough to 
+
+allow for discussions of responsibilities, work scope, and hazard and risk 
+mitigation. However, the process for pre-spuds, morning calls, and field 
+engagement meetings are not defined and seldom documented. 
+
+•  Most of the emergency response and evacuation drills, excluding spill drills, are 
+
+conducted regularly, but operators and contractors are not performing analyses or 
+critiqing each drill to identify and correct weaknesses.  
+
+•  A wide array of policies are in place to manage SSEs , but the policies (1) were not 
+understood by offshore rig management, (2) did not require identification of SSEs, 
+and (3) did not set a requirement on the number of SSEs working on location at one 
+time.  
+
+•  The majority of operators and contractors had Fitness for Service programs, but 
+
+there was a lack of evidence to support management’s commitment to fatigue and 
+fitness for duty programs, nor were the programs fully implemented.  
+
+•  BSEE witnessed good applications of safe zones and training. However, multiple 
+
+locations operating on the OCS lacked Safe/Drop zones on the rig floor and the 
+associated training.  
+
+• 
+
+Improvements are needed in fall protection equipment inspections, familiarity with 
+fall rescue plans, and storage and labeling of equipment inventory.   
+
+•  BSEE identified effective implementation of Hazard Communication programs 
+during the PBRI which covered available hazardous chemical lists, Safety Data 
+Sheets throughout the rigs, containers being properly labeled and employees 
+being trained. 
+
+•  Operators and rig contractors regularly inspected third party equipment to ensure 
+
+the equipment was properly grounded; however, some inspections are not 
+consistently documented or referenced to a global standard.  
+
+•  The inspection of man riding equipment by BSEE during the PBRI indicated there 
+
+were potential gaps regarding the requirement of a designated spotter to ensure that 
+the crane/winch/tugger operator has a visual line-of-sight during the entire personnel 
+lift process on the rig floor.  
+
+•  Most operators and rig contractors had sufficient integrity programs implemented for 
+
+their critical equipment to ensure that equipment is fit for service, but some had 
+gaps. 
+
+ 
+
+Therefore, BSEE recommends that operators and, when appropriate, contractors: 
+ 
+
+•  Review established procedures for both internal and external communication of 
+
+safety and environmental information. Consideration should be given to ensure the 
+evaluation of potential hazards in the workplace and communicating information to 
+employees and other affected parties prior to the start of well operations programs. 
+
+•  Review periodic drill schedule to ensure the inclusion of spill drills and procedures to 
+
+allow for an analysis and critique of each drill. 
+
+•  Review SSE procedures, which define the process for managing SSEs fulfilling rig 
+crew positions that are (1) new to the rig contractor company, (2) new to the person 
+filling the position, or (3) new to the rig. Operators should ensure all SSEs have 
+completed required training for the position, consider the percentage of SSEs who 
+make up a crew, and consider identifying SSEs as such on the personnel on board 
+list and by issuing them colored hard hats that identify them as SSEs. 
+
+•  Review requirements to oversee and minimize risk to offshore employees by 
+
+developing and implementing procedures for examining and assessing the fitness, 
+which includes fatigue, of their offshore crews. Additionally, operators should assign 
+a representative(s) who is responsible for establishing, implementing and 
+maintaining the fitness for duty procedures. 
+
+•  Ensure all restricted access and safe zones are sufficiently identified and 
+
+communicated to personnel, and enforced by crewmembers and supervisors. 
+
+•  Review fall protection programs and rescue plans, and ensure procedures exist for 
+
+verifying that fall prevention equipment is provided, personnel are trained, and 
+storage and inspections of equipment are conducted properly. 
+
+•  Review each 3rd party equipment inspection checklist and ensure it includes 
+grounding. See references API RP 14F, Paragraph 6.10.3 and API RP 14FZ, 
+Paragraph 6.10.3 and documentation requirements.  
+
+•  Review man riding procedures and consider including requirements for an effective 
+
+line of sight communication (or alternative) with a dedicated observer. 
+
+•  Review mechanical integrity systems to verify all work orders, preventative 
+
+maintenance tasks, and corrective maintenance tasks are being properly prioritized 
+and effectively addressed. 
+
+-- BSEE-- 
+
+A Safety Alert is a tool used by BSEE to inform the offshore oil and gas industry of the 
+circumstances surrounding a potential safety issue. It also contains recommendations 
+that could assist avoiding potential incidents on the Outer Continental Shelf. 
+
+ 
+ 
+ 
+
+ 
+
+ 
+
+

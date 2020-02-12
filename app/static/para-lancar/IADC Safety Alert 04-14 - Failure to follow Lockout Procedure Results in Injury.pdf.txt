@@ -1,0 +1,62 @@
+Safety Alert 
+
+From the International Association of Drilling Contractors 
+
+ 
+
+ 
+ALERT 04 – 14 
+ 
+
+FAILURE TO FOLLOW LOCKOUT PROCEDURE 
+
+RESULTS IN INJURY 
+
+ 
+WHAT HAPPENED: 
+ 
+Work requiring disconnection and removal commenced on a mud mixing pump assembly without completing a 
+Permit  to  Work,  Lock/Tag/Try  or  reviewing  the  JSA.    During  the  work  scope,  a  Motorman  passing  by  was 
+asked to operate the chain fall assembly by pulling the control chain to raise the motor.  While pulling on this 
+chain, it is thought that the loose fall of the operating chain contacted the on/off switch for the electric pump.  
+This switch was about three foot above the motor and in direct line of the chain fall assembly.  (See attached 
+photos)  This energized the 100 horsepower motor and caused it to go out of control.  It swung outward then 
+upward, striking the motorman who was seriously injured and received a fracture of the upper arm and severe 
+bruising to the side of his body, neck and face. 
+ 
+WHAT CAUSED IT: 
+ 
+•  No pre-job planning  
+•  No Permit to Work  
+•  No Lock out Tag out and Try  
+•  No Job Safety Analysis 
+ 
+CORRECTIVE ACTIONS:  To address this incident, this company did the following: 
+ 
+•  Refresher training for Permit To Work, Lockout/Tagout/Try and JSA.  
+•  Revise the JSA for this job to increase detail to eliminate these hazards and include Lockout procedures.  
+•  Recommend purpose built lifting frame to eliminate chain falls from piping.  
+• 
+•  Recommend the electric switch be evaluated for a different type switch that is guarded on the start button. 
+
+Install safety signs on all equipment that can be remotely operated or that starts automatically.  
+
+ 
+
+ 
+
+ 
+
+The Corrective Actions stated in this alert are one company’s attempts to address the incident, and do not 
+
+necessarily reflect the position of IADC or the IADC HSE Committee. 
+
+This material is presented for information purposes only.  Managers & Supervisors should  
+
+evaluate this information to determine if it can be applied to their own situations and practices. 
+
+Copyright © 2004 International Association of Drilling Contractors.  All Rights Reserved 
+
+Issued March 2004 
+
+

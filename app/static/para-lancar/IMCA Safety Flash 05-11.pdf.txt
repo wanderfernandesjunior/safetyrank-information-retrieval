@@ -1,0 +1,259 @@
+AB 
+
+ 
+
+IMCA Safety Flash 05/11 
+
+Safety Flash 
+
+June 2011 
+
+These  flashes  summarise  key  safety  matters  and  incidents,  allowing  wider  dissemination  of  lessons  learnt  from  them.    The  information  below  has  been 
+provided in good faith by members and should be reviewed individually by recipients, who will determine its relevance to their own operations. 
+
+The effectiveness of the IMCA safety flash system depends on receiving reports from members in order to pass on information and avoid repeat incidents.  
+Please consider adding the IMCA secretariat (imca@imca-int.com) to your internal distribution list for safety alerts and/or manually submitting information 
+on specific incidents you consider may be relevant.  All information will be anonymised or sanitised, as appropriate. 
+
+A  number  of  other  organisations  issue  safety  flashes  and  similar  documents  which may  be  of  interest  to  IMCA  members.   Where  these  are  particularly 
+relevant, these may be summarised or highlighted here.  Links to known relevant websites are provided at www.imca-int.com/links   Additional links should 
+be submitted to webmaster@imca-int.com 
+
+ 
+
+1  Near Miss: Security of Equipment in Transit 
+
+A member has reported an incident in which an ROV launch and recovery system (LARS) arrived offshore with parts missing.  
+The  LARS  arrived  onboard  the  vessel  without  the  pin  connecting  the  left  side  (standing  on  the  LARS  looking  outboard) 
+transport post to the A-frame.  
+
+Following investigation, it was learnt that the A-Frame lift post pin was in place when the new LARS system left the supplier, 
+but  was  not  in  place  when  it  arrived  at  our  member’s  storage  facility.    The  missing  pin  was  identified  during  routine 
+inspection after the unit had been lifted and transported (twice), lifted and installed aboard the  vessel. For the pin to have 
+been lost during transportation represents a high potential near miss for any vehicle (and passengers) who could have been 
+struck by the pin falling from the moving transport vehicle.    
+
+Our member, in co-operation with the supplier, took immediate steps to ensure prevention of future incidents. Additionally, 
+our  member  is  in  the  process  of  designing  a  lift  post  pin  that  will  include  a  retaining  pin.  In  the  meantime,  members  are 
+encouraged to conduct a careful inspection of all A-Frame lift post pins and verify that they are secure before equipment is 
+lifted and transported. 
+
+ Lift post pin installed. 
+
+Lift post pin missing 
+
+ 
+
+ 
+
+ 
+
+ 
+
+     Example of other lift post pin locking configuration 
+
+  Example of future locking pin design with retaining pin 
+
+ 
+2 
+
+Improper Use of Tools: Bruising 
+
+A  member  has  reported  an  incident  in  which  a  crewman  was  injured  whilst  using  a  power  tool  in  an  incorrect  manner.          
+A crewman on night shift was required by the chief engineer to clean paint and corrosion off of the nuts on man-hole covers, 
+so that the covers could be removed for inspection.  He was instructed to perform this task using either a hand-held wire 
+brush or a 4 inch angle grinder fitted with a wire wheel.  These instructions were verbally acknowledged by the crewman, 
+who had been employed on the vessel for nearly a year.  Nonetheless he decided to use a 5mm grinding disk on the angle 
+grinder  instead  of  the  wire  wheel,  and  then  proceeded  to  cut  the  threads  off  the  bolts  on  the  man-hole  cover.    As  the 
+grinding disk was being used in an incorrect manner, the disk jammed causing the grinder to deflect into his shoulder, cutting 
+his boiler suit and causing bruising and a minor abrasion. 
+
+  Inspection hatch being prepared  
+
+ 
+
+ 
+
+     Broken grinding disk after inappropriate use 
+
+ 
+ 
+
+ 
+
+ 
+
+An investigation noted the following: 
+
+♦  Existing company procedures and clear instructions were not followed; 
+
+♦  Risk assessments had not been completed; 
+
+♦  The individual involved in the operation demonstrated a lack of safety awareness that put himself, his colleagues and the 
+
+vessel at risk; 
+
+♦  The individual involved in the operation had received no training in this specific task.  
+
+The following lessons were learnt from the incident: 
+
+♦  Complacency with regard to the use of power tools must be guarded against; 
+
+♦  All persons involved in a task, from deck officers and supervisors to deck crew, should have a clear understanding of the 
+
+nature of the task and their duties with regard to the task; 
+
+♦  All  crew  should  have  a  deeper  understanding  of  the  requirement  for  risk  assessment  for  all  routine  and  non-routine 
+
+tasks;   
+
+♦  All crew members should be reminded of the importance of accepting personal responsibility for safety and that they all 
+
+are empowered to stop work until safe operations are restored;  
+
+♦  Shipboard training and familiarisation should include specific training in particular tasks and equipment. 
+
+ 
+
+ 
+
+ 
+
+3  Lack of Safety Awareness: Crush Injury during Lifting Operations 
+
+A member has reported an incident in which a crewman suffered minor crush injuries when his hand was caught between 
+two objects during lifting operations.  The incident occurred when some oil drums were being positioned on the deck using 
+the  crane,  with  the  assistance  of  two  deck  crew.    One  was  handling  the  tag  line  while  the  other  was  acting  as  the  lift 
+supervisor and was equipped with a radio to communicate with the crane operator.  While manoeuvring the drums between 
+a deck cargo of containers, the two deck crew attempted to man-handle the drums 1.5 meters horizontally without slewing 
+the  crane  jib.    The  acting  lift  supervisor  was  pushing  on  the  drum  while  the  other  pulled  on  the  tag  line.    The  acting  lift 
+supervisor radioed the crane operator and asked him to hoist a little; he was unaware at the time that the hoist wire was 
+snagged on the container; this caused the drum to pinch the acting lift supervisor’s hand between the drum and container.  
+He sustained a minor crush injury and was sent ashore for x-rays. 
+
+Showing area where oil drums were being moved 
+
+ 
+
+ 
+
+ The member’s investigation noted the following: 
+
+♦  Existing company procedures were not followed; 
+
+♦  Risk assessments had not been completed; 
+
+♦  The individuals involved in the operation demonstrated a lack of safety awareness that put themselves, their colleagues 
+
+and their vessel at risk; 
+
+♦  The individuals involved in the operation had received no training in this specific task.  
+
+The following lessons were learnt from the incident: 
+
+♦  Complacency with regard to any lifting operation, however small, must be guarded against; 
+
+♦  All persons involved in a task, from deck officers and supervisors to deck crew, should have a clear understanding of the 
+
+nature of the task and their duties with regard to the task; 
+
+♦  All  crew  should  have  a  deeper  understanding  of  the  requirement  for  risk  assessment  for  all  routine  and  non-routine 
+
+♦  All crew members should be reminded of the importance of accepting personal responsibility for safety and that they all 
+
+are empowered to stop work until safe operations are restored; 
+
+♦  Shipboard training and familiarisation should include specific training in particular tasks and equipment. 
+
+tasks;  
+
+ 
+
+ 
+4  Anchor Handling Incident 
+
+A member has reported an incident in which a buoy was damaged during anchor handling operations.  The incident occurred 
+when recovering a buoy to deck; a lasso designed to catch a buoy cut through the buoy and damaged it beyond repair.  The 
+incident occurred because the lasso was not deployed in a procedural and safe manner.  
+
+Our member’s procedures state that the lasso should be thrown over the buoy and when tensioned, it should ‘choke’ onto 
+the wire or chain underneath the buoy. If this procedure is not successful the buoy should be placed back in the water and 
+the capture tried again until successful. 
+
+Our member highlighted this as an example of how not following procedures can have a significant cost. 
+
+        Buoy catcher lasso was not completely over the buoy 
+
+ 
+
+ 
+
+Buoy is destroyed when lasso cuts through it 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+5  Diver Safety – High Pressure Water Jetting Operations 
+
+The  Australian  National  Offshore  Petroleum  Safety  Authority  (NOPSA)  has  recently  published  Safety  Alert  46  (attached) 
+regarding diver safety during high pressure water jetting operations.  The alert highlights an incident where a diver sustained 
+a  serious  injury  when  the  retro  diffuser  tube  became  detached  from  the  gun  allowing  the  full  force  of  the  retro  jet  to 
+penetrate the diver’s arm. 
+
+This information can also be found at http://www.nopsa.gov.au/alert/Alert46.pdf  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+6  Failure of Fall Wire − Fatality 
+
+The incident is summarised here: 
+
+The UK Marine Accident Investigation Branch (MAIB) has published Safety Bulletin 1/11 (attached) regarding an overweight 
+rescue boat causing the failure of a fall wire and subsequent fatality.     
+
+During a routine drill conducted in sheltered waters, the fall wire attached to a rescue boat parted. The incident occurred at 
+the point when the rescue boat had been hoisted to its stowed position. The rescue boat and its four crew fell nearly 29 
+metres into the water below. One of the boat’s crew died and two were hospitalised. 
+
+Further information can be found at www.maib.gov.uk/cms_resources/SB1-11.pdf. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+

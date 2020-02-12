@@ -1,0 +1,76 @@
+ 
+
+ 
+
+February 25, 2005                                                                                                                    Alert 2-05 
+Washington, DC 
+ 
+Loosening of Critical Fasteners 
+ 
+Recently a large deep draft vessel was hoisting aboard its rigid hull inflatable (RHI) rescue boat when 
+it’s lifting frame, an inverted u–shaped component, separated from the brackets that attached it to the 
+deck.  As a result, the boat fell back into the water and its attending crewmember was ejected.  The 
+uninjured crewmember was promptly recovered and damage to the rescue boat was negligible. 
+ 
+ 
+
+ 
+
+ 
+ 
+MODEL: Pacific 22 NK III  
+MANUFACTURER: Osborne Rescue Boat Company (The company is no longer in business.)  
+LOCATION: Havant, Hampshire, United Kingdom.  
+ 
+Each side of the lifting frame is fastened to the deck by a bolt and nut.  It appears that due to vibration 
+the nuts securing the bolts backed off.  While the boat was being lifted the bolts also backed out of 
+their respective holes.  Although the frame was fitted with non-weight bearing struts (not visible in the 
+photographs) they were unable to handle the load and parted as the boat fell. 
+ 
+An  investigation  revealed  no  specific  maintenance  requirements  or  manufacturer  recommendations 
+for periodic inspection of the lifting frame bolts.  A vessel officer reported that limited visual inspection 
+took place monthly but indicated that a “hands-on" equipment check did not occur.   
+ 
+Crewmembers easily remedied the situation to prevent future accidental disassembly of the fastener 
+by drilling a hole through the threaded end of the bolt and installing a cotter or split pin to prevent the 
+fastener from backing off.  (See the following photograph.)  
+
+(Continued) 
+
+ 
+
+ 
+  
+
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+
+ 
+To prevent a similar casualty the U.S. Coast Guard strongly recommends that vessel owner operators 
+having  vessels  equipped  with  RHIs  manufactured  by  Osborne  Rescue  Boat  Company  or  other 
+equipment constructed in a like manner -  
+ 
+
+•  ensure that existing inspection and maintenance procedures include all critical components, 
+•  carefully inspect the equipment for loosening of key components, and; 
+•  where needed make authorized modifications. 
+
+ 
+ 
+This casualty was investigated the U.S. Coast Guard Marine Safety Office, Hampton Roads, Virginia.   
+ 
+This  safety  alert  is  provided  for  informational  purposes  only  and  does  not  relieve  any  existing 
+domestic or international safety, operational, or material requirement. 
+ 
+
+******* 
+
+

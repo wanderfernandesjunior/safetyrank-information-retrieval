@@ -1,0 +1,73 @@
+Safety Alert 
+
+From the International Association of Drilling Contractors 
+
+ 
+
+ 
+
+ 
+ALERT 03 – 28 
+ 
+
+TONG INCIDENT RESULTS IN A FATALITY 
+
+ 
+WHAT HAPPENED: 
+ 
+The  rig  floor  crew  was  making  up  drill  pipe  prior  to  running  into  the  hole  to  land  the  PBR  on  the  tubing 
+string.  The rotary brake was used to hold the pipe in the rotary from turning.  The Lead Floorman (Injured 
+Person - IP) was operating a backup manual pipe tong while torquing a stand of drill pipe with the top drive 
+system.  As the Driller began to see the spinner torque-up the drill pipe, he released the rotary brake, to 
+transfer the torque to the backup manual pipe tong.  As the torque was transferred to the backup pipe tong 
+it moved in a clockwise position and the IP became caught between the snub line and backup pipe tong 
+lever.  The IP was evacuated from the rig and later died from the injuries.   
+ 
+WHAT CAUSED IT: 
+ 
+•  The snub line was reportedly longer than normally installed due to a non-routine operation prior to the 
+
+•  The breakout tong appeared to be tensioned by the snub line, when in fact it was the cathead breakout 
+
+•  The cathead breakout line and snub line were both attached to the tong.   
+•  The cathead breakout line was jammed at the cathead giving the appearance that the snub line was 
+
+ 
+CORRECTIVE ACTIONS:  To address this incident, this company issued the following instructions to 
+rig supervisors and rig personnel: 
+ 
+•  The Rig Manager should review and confirm the current operating practices for torquing tubulars at the 
+
+•  Review tong management on the drill floor.  Confirm correct operation of pipe tongs during routine and 
+
+• 
+
+non-routine operations.   
+Include a review of safe positioning of people, supervision by Driller and Asst Driller, and the hazards 
+associated with pipe tong operations.   
+
+•  Length  of  snub  lines  and  angle  to  anchor  point  to  be  physically  verified  to  ensure  no  pinch  point 
+
+hazards exist for a Floorman while operating manual pipe tongs. 
+
+incident. 
+
+line.   
+
+tensioned.  
+
+rotary table. 
+
+The Corrective Actions stated in this alert are one company’s attempts to address the incident, and do not 
+
+necessarily reflect the position of IADC or the IADC HSE Committee. 
+
+This material is presented for information purposes only.  Managers & Supervisors should  
+
+evaluate this information to determine if it can be applied to their own situations and practices. 
+
+Copyright © 2003 International Association of Drilling Contractors.  All Rights Reserved 
+
+Issued July 2003 
+
+

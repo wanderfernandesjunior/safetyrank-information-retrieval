@@ -1,0 +1,216 @@
+Safety Alert 
+
+        From the International Association of Drilling Contractors 
+
+ 
+ALERT 09 – 10 
+
+DAMAGED ELECTRIC CORD RESULTS  
+
+IN WELDER ELECTROCUTION 
+
+ 
+
+ 
+WHAT HAPPENED  
+ 
+Two contract welders were working side by side in the hole of the bilge pump room in the column of a semi 
+submersible.  Welder 1 (Injured Person [IP]) finished his side of the job and welder 2 asked welder 1 to pass 
+the welding lead so welder 2 could weld.  Welder 2 got no response from welder 1 and noticed that welder 1 
+was in contact with the floodlight being used for additional lighting.  Welder 2 thought welder 1 might have 
+received an electric shock so welder 2 climbed out of the bilge and disconnected the floodlight and welding 
+cable.  Welder 2 immediately called for help.  Response team arrived but was unable to revive the IP.   
+Background Note:  A Permit To Work (PTW) and a Job Safety Analysis (JSA) were completed for the task.  
+The 220 V floodlight was taken to the work location, but was deemed improper for the job and was moved to 
+the side with the cord wrapped around it, but it was not removed from the work area.  At some point in time, 
+the floodlight was put in the bilge hole.   
+ 
+
+Fig. 1. 220 Volt floodlight with cord that had been pinched between the lamp fixture and the 
+mounting bracket while it was being positioned by welder 1 for the job.   
+
+Pinch point on light.  
+
+Wire pinched 
+between fixture 
+and bracket. 
+
+ 
+ 
+WHAT CAUSED IT: 
+ 
+1.  During the investigation it was discovered that the power cord was pinched and partially cut between the 
+
+ 
+
+ 
+
+light fixture and the bracket.  (See Figure 1 above.)   
+
+2.  Based on the observation of Welder 2 that Welder 1 was leaning against the floodlight, it was concluded 
+
+that Welder 1 made contact with the exposed wires and / or the fixture’s metal frame. 
+
+3.  The deceased contacted electrical current from the 220 V power cord of the floodlight.  
+4.  The floodlight was designed for a fixed installation and not suitable for use as a portable light.   
+5.  The rig has a floating 220 V system (“delta based” - 2 conductors and no common “ground” system); if 
+only one conductor is cut, the other conductor remains “hot” and will not trip the10 amp breaker.  More 
+guidance will be published by Asset Manager and Engineering on Ground Fault Circuit Interrupters and 
+related electrical safety issues.  
+
+6.  The  heat  index  (temp  +  humidity)  at  the  time  of  incident  is  estimated  at  97  deg  F.    There  was  no 
+
+mechanized ventilation (air movement) in the confined / constrained area.   
+
+7.  The coveralls worn by the IP were wet from perspiration. 
+8.  Safety  Systems  failed  to  recognize  the  potential  hazard  electrical  shock  from  the  portable  light  being 
+used.  The PTW system was used but did not capture all elements (confined space; electrical hazard; 
+ventilation; communications and rescue team alert; etc).  A JSA was conducted with welding crew and 
+supervisor, but was not specific to the job.  
+
+ 
+  
+
+The Corrective Actions stated in this alert are one company’s attempts to address the incident,  
+
+and do not necessarily reflect the position of IADC or the IADC HSE Committee. 
+
+This material is presented for information purposes only.  Managers & Supervisors should 
+
+evaluate this information to determine if it can be applied to their own situations and practices 
+
+Copyright  2005 International Association of Drilling Contractors All rights reserved. 
+
+Issued April 2009 
+
+Safety Alert 
+
+        From the International Association of Drilling Contractors 
+
+ 
+9.  Personnel (including the supervisor) were aware of the potential hazard of the floodlight and although it 
+was put aside with cord wrapped around it, the light was not removed from the work area or rendered 
+inoperative.  Although both welders were short-service contractors (less than 3 hitches on the rig), they 
+were  not  accompanied  by  a  supervisor  /  mentor  because  the  welders  were  considered  highly 
+experienced and qualified.      
+
+ 
+CORRECTIVE ACTIONS:  To address this incident, this company did the following: 
+ 
+1. 
+
+Instructed  rig  personnel  to  conduct  “Hazard  Hunt”  of  entire  rig  fleet  with  emphasis  on  portable  lights  / 
+electric cords / power tools.  Ensure all portable electric equipment is registered and inspected, looking 
+at the entire “system”, not only the electrical parts.  Chief Electrician to schedule periodic Hazard Hunt of 
+portable electric equipment, using other Heads-Of-the Departments (HOD) to assist    
+
+2.  All rig supervisors were instructed to attend JSA / PTW / Safety Leadership training sessions.  
+3.  Rig supervisors are to enforce increased participation in STOP  (TM) method by mandating 1 STOP card 
+per day per person on board (company and sub contractors; client and other client contractor personnel). 
+
+4.  Procure low-voltage / pneumatic lights for portable requirements. 
+5. 
+6.  Ensure that all Permit to Work and Job Safety Analysis documents and reviews include inspection and 
+
+Investigate use of Ground Fault Interrupter (GFI) devices to work with portable electric equipment. 
+
+assessment of all possible electrical hazards prior to the job.  
+
+7.  Before work begins, make a final worksite check to ensure all safety provisions / systems are in place 
+
+with all hazards controlled and risks are reduced to ALARP—as low as reasonably possible.  
+
+8.  Use only low voltage lighting—especially in confined spaces.  
+9.  All tools (Company’s, contractors and third party) are to be inspected and tested prior to use. 
+10.  Instructed operations personnel that all the  below lights have metallic cases or enclosures and 
+
+are prohibited as Portable Lighting   
+
+  
+
+  
+
+Permanent fixed light not to be used as portable.  
+ 
+
+ 
+
+ 
+
+  
+ 
+
+ 
+
+  
+
+ 
+
+ 
+
+ 
+
+The Corrective Actions stated in this alert are one company’s attempts to address the incident,  
+
+and do not necessarily reflect the position of IADC or the IADC HSE Committee. 
+
+This material is presented for information purposes only.  Managers & Supervisors should 
+
+evaluate this information to determine if it can be applied to their own situations and practices 
+
+Copyright  2005 International Association of Drilling Contractors All rights reserved. 
+
+Issued April 2009 
+
+Safety Alert 
+
+        From the International Association of Drilling Contractors 
+
+ 
+12. Use only Portable Lighting as prescribed by Asset Manager and Engineering.   
+ 
+
+ACCEPTABLE PORTABLE LIGHTING 
+
+All have plastic enclosure (except air-powered unit) 
+
+ 
+ 
+Air Powered – 24 Volt. 
+
+Battery Powered 
+
+   
+
+    
+
+Double insulated in-line transformer. 
+
+ 
+
+ 
+
+ 
+1.  Primary Preferred Method: Air-driven 
+2.  Secondary Preferred Method:  Battery-operated 
+3.  Approved (NOT preferred):  Low-voltage (50 Volt AC and below) with in-line transformer 
+4.  LAST RESORT (must be approved by Rig Manager / Electrical Supervisor prior to use):  High-
+
+voltage (above 50Vac) must be rated for portable service as well as double insulated 
+
+ 
+ 
+
+The Corrective Actions stated in this alert are one company’s attempts to address the incident,  
+
+and do not necessarily reflect the position of IADC or the IADC HSE Committee. 
+
+This material is presented for information purposes only.  Managers & Supervisors should 
+
+evaluate this information to determine if it can be applied to their own situations and practices 
+
+Copyright  2005 International Association of Drilling Contractors All rights reserved. 
+
+Issued April 2009 
+
+

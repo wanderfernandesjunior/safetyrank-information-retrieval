@@ -1,0 +1,266 @@
+AB
+
+ 
+
+IMCA Safety Flash 09/06 
+
+July 2006 
+
+These  flashes  summarise  key  safety  matters  and  incidents,  allowing  wider  dissemination  of  lessons  learned  from  them.    The  information  below  has  been 
+provided in good faith by members and should be reviewed individually by recipients, who will determine its relevance to their own operations. 
+
+The effectiveness of the IMCA safety flash system depends on receiving reports from members in order to pass on information and avoid repeat incidents.  
+Please consider adding the IMCA secretariat (imca@imca-int.com) to your internal distribution list for safety alerts and/or manually submitting information 
+on specific incidents you consider may be relevant.  All information will be anonymised or sanitised, as appropriate. 
+
+A  number  of  other  organisations  issue  safety  flashes  and  similar  documents  which  may  be  of  interest  to  IMCA  members.    Where  these  are  particularly 
+relevant, these may be summarised or highlighted here.  Links to known relevant websites are provided at www.imca-int.com/links   Additional links should 
+be submitted to webmaster@imca-int.com 
+
+ 
+
+1  Near-Miss Involving Hyfex Fire Extinguisher Refill Kits 
+
+IMCA has received the attached Divex HSE alert, which members should be aware of. 
+
+2  Fatal Accident with Lifting Appliance 
+
+IMCA  has  received  a  reports  on  a  fatal  incident  during  a  lifting  operation.    A  provisions  crane  was  loading  pallets  onto  a 
+vessel using a pallet fork.  After landing a pallet on the deck, the pallet fork was pulled clear and the crane operator moved 
+the crane outward to pick up the next load.  During this operation, the crane winch wire snapped.  The pallet fork fell onto 
+the deck, landing on a member of the crew, who subsequently died of his injuries. 
+
+Sketch of lifting equipment 
+
+ 
+
+The company noted the following causes to the incident: 
+
+  a malfunctioning or missing ‘upper limit switch’; 
+
+ 
+
+the wire end at the hook side was terminated by means of three incorrectly-applied U-bolt clamps instead of a ferrule 
+and swage (see figures overleaf). 
+
+The following lessons were drawn from the incident: 
+
+  Limit switches are important safety equipment that should be tested regularly to confirm their proper operation 
+
+ 
+
+  Winch wire end terminations should be correctly performed.   
+
+  Cranes should be inspected before lifting operations, using an approved check-list 
+
+  Procedures  should  be  established  to  ensure  personnel  are  properly  informed  of  the  hazards  involved  in  crane 
+
+operations, and do not stand underneath loads 
+
+Safety Flash 
+
+Incorrect method of attaching clamps to winch wires.  
+
+ 
+
+Example of a correctly prepared ferrule lock.  
+
+Other techniques acceptable to classification societies  
+
+and/or the crane manufacturer may be used. 
+
+ 
+
+3  Small Fire Caused by Toaster in Mess Room 
+
+IMCA has received a report on a small fire which occurred in the mess room of a production platform. 
+
+A plastic tray had been left on top of a conveyor toaster.  A member of the crew entered the mess room, plugged in and 
+turned on the toaster.  The tray was not taken off of the top of the toaster.  The person then left the mess room without 
+turning off the toaster.  Subsequently the plastic tray holding the bread melted and caught fire. 
+
+The fire was successfully extinguished with a dry powder extinguisher and there were no injuries. 
+
+The following lessons were drawn from the incident: 
+
+  Ensure that no items are placed on top of this type of toaster even when not in use; 
+
+  Consider the use of guards and/or signs; 
+
+ 
+
+  When this type of toaster is in use, the user should remain in attendance and switch it off before leaving; 
+
+  Consider the suitability of certain types of toaster for a given location; 
+
+  Crew should be reminded about the need for basic safety awareness even when engaged in everyday domestic tasks. 
+
+DIVEX HSE ALERT 
+
+ 
+ 
+HSE Alert No. HSE001-2006
+ 
+ 
+ 
+ 
+Hyfex Fire Extinguisher Refill Kits 
+ 
+Part No’s SE4816 and SE4817 
+ 
+ 
+ 
+ 
+DATE 
+ 
+ 
+
+ 
+COUNTRY: 
+
+ 
+05/05/06 
+
+ 
+EGYPT 
+
+  
+
+ 
+
+Divex Ltd. 
+Enterprise Drive 
+Westhill, Aberdeen 
+AB32 6TQ, United Kingdom 
+
+Telephone  +44 (0)1224 740145 
+Facsimile   +44 (0)1224 740172 
+e-mail  
+
+info@divex.co.uk 
+
+ 
+LOCATION: 
+
+ 
+DECOMPRESSION CHAMBER 
+
+ 
+
+DESCRIPTION 
+An  installed  Hyfex  Hyperbaric  Fire  Extinguisher  has  recently  catastrophically  ruptured  inside  a 
+decompression chamber.  Fortunately no personnel were injured as a result of the incident and only minor 
+damage  occurred  to  the  interior  of  the  decompression  chamber.    The  photographs  below  indicate  the 
+potential severity of the failure: 
+ 
+
+ 
+
+ 
+
+ 
+ 
+INVESTIGATION FINDINGS 
+Investigation has revealed that the interior wall of the fire extinguisher was badly corroded, in places the 
+wall  thickness  was  only  approximately  2mm  thick.    Typically  wall  thickness  should  be  approximately 
+4.2mm and 6.3mm thick based on the type of cylinder. 
+ 
+The users’ contract for maintenance had recently been awarded to a local service company in the country 
+of operation and the maintenance and servicing process was not carried out as per Divex requirements.  It 
+was obvious that the Servicing Company did not fully understand what was required of them. 
+ 
+The contents of the ruptured extinguisher seem to indicate that the wrong type of foaming agent has been 
+used  and  that  it  has  had  a  significant  influence  on  the  high  levels  of  corrosion.    Initial  appearances  are 
+that a “protein based” foam agent such as “bulls blood” with a high level of iron content may have been 
+used.  This is difficult to quantify at present.   
+ 
+ 
+LESSONS LEARNED 
+•  Servicing and tests were not carried out as per Divex requirements; 
+•  Divex refill packs were not used in performing refill process; 
+•  The  sub-contractors  were  not  fully  aware  of  technical  requirements  and  did  not  hold  the  necessary 
+
+ 
+
+factory / manufacturers training and qualifications; 
+
+•  Had divers been inside the chamber at the time there would have been a high potential for people to 
+
+be injured. 
+
+ 
+
+Rev 1 
+
+Page 1 of 2
+
+ 
+ 
+CORRECTIVE ACTION 
+•  Divex  have  performed  an  incident  investigation,  including  discussions  with  the  Diving  Company 
+
+ 
+
+involved; 
+Informed IMCA of our intention to issue an HSE Alert to the industry; 
+
+• 
+ 
+ 
+RECOMMENDATIONS 
+•  Clients  (users)  need  to  refill  Hyfex  Extinguishers  with  Divex  AFFF  Refill  Packs  (SE4816  (3Ltr)  and 
+
+ 
+
+SE4817 (7.5 Ltr); 
+
+•  Users  must  ensure  their  sub-contractors  are  fully  aware  of  technical  requirements  and  hold  the 
+
+necessary factory / manufacturers training. 
+Issue Divex HSE Alert to all trade associations (e.g. IMCA, ADC (UK) and ADC (USA); 
+Issue Divex HSE Alert to all known purchasers of Divex Hyfex Extinguishers; 
+
+• 
+• 
+•  Distribute Divex HSE Alert to all Divex locations. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+NAME: 
+
+ 
+ 
+Kevin Smith 
+
+ 
+ 
+JOB TITLE:
+
+ 
+ 
+General Manager - QHSE 
+
+ 
+ 
+DATE: 
+
+ 
+ 
+05/07/06 
+
+ 
+  for and on behalf of Divex Ltd. 
+
+Rev 1 
+
+Page 2 of 2
+
+

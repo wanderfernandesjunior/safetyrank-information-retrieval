@@ -1,0 +1,80 @@
+Safety Alert 
+
+        From the International Association of Drilling Contractors 
+
+ 
+ALERT 10 – 18 
+ 
+
+MAKING UP SUB ASSEMBLY RESULTS IN A FATALITY 
+
+ 
+WHAT HAPPENED: 
+ 
+The  rig  crew  was  using  the  top  drive  and  back-up  tong  to  make  up  the  sub  assembly.    The  pin  end  of  the 
+crossover  sub  was  set  into  the  bit  breaker  plate.    As  torque  was  applied  to  the  sub  assembly  with  the  top 
+drive, the crossover sub pin released from the bit breaker plate allowing the drill string and tongs to strike the 
+rig floor crewman pinning him against the “A” leg of the derrick.   
+ 
+
+WHAT CAUSED IT: 
+ 
+•  A snub line was not in place on the cross-over sub while making up the sub. 
+•  The torque from the top drive caused the drill string to bow. 
+•  Power to the top drive was not shut down quick enough. 
+•  Using the top drive to make up the connection may have caused the torque to the drill string.  
+ 
+
+CORRECTIVE ACTIONS:  To address this incident, this company did the following: 
+ 
+•  Rig crew personnel were instructed to use a snub line on crossover subs when making them up.   
+•  Rig crew personnel were instructed to use a chain tong to make up the sub assembly.   
+•  Rig  crew  personnel  were  instructed  to  not  torque  the  connections  of  the  BHA  until  the  entire  BHA, 
+
+including the air hammer, is made up with chain tongs.  
+
+•  Once all  BHA connections are made  up  and tightened  with chain tongs, lower the  BHA down the hole 
+
+and torque each connection as appropriate.   
+
+•  After setting the tong(s) and before applying final torque to connections, rig floor personnel should move 
+
+to a safe location away from the BHA and tongs and behind a barrier.   
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+IADC Note:  See the safety meeting topic “Making a Trip” in the IADC “5 Minute Safety Topic” book.  Also 
+see IADC HSE Reference Guidelines Section 3.8.   
+
+The Corrective Actions stated in this alert are one company’s attempts to address the incident,  
+
+and do not necessarily reflect the position of IADC or the IADC HSE Committee. 
+
+This material is presented for information purposes only.  Managers & Supervisors should 
+
+evaluate this information to determine if it can be applied to their own situations and practices 
+
+Copyright  2005 International Association of Drilling Contractors All rights reserved. 
+
+Issued June 2010 
+
+

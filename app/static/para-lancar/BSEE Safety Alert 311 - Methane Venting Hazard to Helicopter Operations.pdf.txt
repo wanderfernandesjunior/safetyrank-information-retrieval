@@ -1,0 +1,111 @@
+BSEE  
+
+ 
+U.S. Department of the Interior 
+Bureau of Safety and Environmental 
+Enforcement  
+
+Safety 
+Alert 
+
+Safety Alert No. 311 
+1 May 2014 
+ 
+
+ 
+ 
+
+Contact: Steve Rauch 
+Phone Number (703) 787-1763 
+
+Methane Venting Hazard to Helicopter Operations 
+
+ 
+Discussion:  There is a need for increased awareness of the hazard that methane and other combustible 
+gases pose to helicopter operations on offshore oil and gas facilities.  On March 24, 2011 a helicopter 
+accident occurred that the NTSB attributed to “The loss of engine power due to an engine compressor 
+stall as a result of ingesting methane gas during takeoff.” (see CEN11LA252).  Two other accidents 
+with similar circumstances occurred in 2013 and are currently under investigation. 
+ 
+Methane is a colorless, odorless gas that is lighter than air and extremely flammable.  It is a natural by-
+product of oil production that may be captured for commercial purposes, but could be vented or flared 
+to the atmosphere to control a sudden over-pressurization. 
+  
+When vented, it can drift over the helideck where it can be ingested by the engine and act as unmetered 
+fuel potentially causing the engine to overspeed or fail.  For this reason offshore facilities generally 
+place methane booms as far away from helidecks as practical.  
+ 
+
+ 
+
+ 
+In 2010 the Helicopter Safety Advisory Conference (HSAC) updated Recommended Practice         
+(RP) 92-4 warning pilots, and Oil and Gas Operators, of the hazards of methane venting/flaring and 
+providing guidance for safe operations.  RP 92-4 states “Ignited flare booms can release a large 
+volume of natural gas and create a hot intense heat with little time for the pilot to react.    Likewise, 
+un-ignited gas vents can release reasonably large volumes of methane gas under certain conditions. 
+Thus, operations conducted in close proximity to un-ignited gas vents require precautions to prevent 
+inadvertent ingestion of combustible gases by the helicopter engine(s).  
+
+ 
+ 
+RP 92-4 warns pilots: 
+ 
+(a)  Gas will drift upwards and downwind of the vent.  Plan the approach and takeoff to observe and 
+avoid the area downwind or directly over the gas vent, remaining as far away as practicable from 
+the open end of the vent boom. 
+ 
+(b)  Exercise caution when starting or landing on an offshore helideck when the deck is downwind 
+of a gas vent. 
+ 
+RP 92-4 also advises Oil and Gas Operators: 
+  
+• Notify nearby helicopter operators and bases of the hazard for planned operations. 
+• Wind socks or indicator should be clearly visible to provide a clear indication of the wind direction 
+
+• High  volume  large  gas  vents  should  have  red  rotating  beacons  installed  to  indicate  when  gas  is 
+
+for the pilot.  
+
+venting.  
+ 
+
+The  intent  is  that  the  wind  sock  be  unobstructed  by  equipment  or  other  objects  on  the  structure  and 
+clearly visible to the pilot during his approach.  
+ 
+In addition to HSAC RP 92-4, the American Petroleum Institute (API) also recognizes the threat 
+methane venting poses to helicopters and is considering this issue in the rewrite of API RP 2L. The draft 
+2L-1 (1 of 3 documents to replace API RP 2L) for “New Build Helideck Design” recommends: 
+ 
+•
+
+sources of these discharges be located as far as practicable away from the helideck and oriented so 
+the typical prevailing wind will carry the discharges away from the helideck area. 
+sniffers or other detection devices (infrared, etc.) to detect these discharges and automatically trigger 
+status lights when discharges may present a hazard to pilots.  
+
+•
+
+ 
+Despite engineering efforts to minimize the effects of  methane, it is an inherent by-product of 
+production that will continue to be released and continue to affect helicopter operations.    
+ 
+BSEE recommends that helicopter companies, pilots, and offshore Oil and Gas Operators thoroughly 
+review and adhere to the guidance provided in HSAC RP 92-4 and company policies.   Remember, 
+these mitigation measures will minimize, but not eliminate, the hazards posed by vented methane. 
+ 
+Alertness by the pilot to the winds, the warning light(s), and to the aircraft’s performance is essential. 
+ 
+ 
+ 
+ 
+
+-BSEE- 
+
+www.bsee.gov 
+
+A Safety Alert is a tool used by BSEE to inform the offshore oil and gas industry of the 
+circumstances surrounding an accident or a near miss.  It also contains recommendations that 
+should help prevent the recurrence of such an incident on the Outer Continental Shelf. 
+
+

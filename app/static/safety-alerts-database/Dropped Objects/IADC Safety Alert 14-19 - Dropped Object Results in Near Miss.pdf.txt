@@ -1,0 +1,71 @@
+Safety Alert 
+
+        From the International Association of Drilling Contractors 
+
+ 
+ALERT 14 – 19 
+ 
+
+DROPPED OBJECT RESULTS IN NEAR MISS 
+
+ 
+WHAT HAPPENED: 
+ 
+During tripping and laying down of the cementing pipe string, the drilling crew discovered a 25.4 cm (10 inch) 
+diameter, 0.68 Kg (1.5 lbs) brass thrust washer lying on the rear of the drill floor.  The washer had fallen from 
+the inside of the top sheave in the crown assembly of the derrick, missing  the  nearest  worker by  2 meters 
+(6.5 feet).  A visual inspection, performed by the crew from the ground using a camera with a telephoto lens, 
+identified that the sheave pin (which forms the axle for the sheave) had moved laterally and the sheave was 
+noticeably leaning from its normal, vertical position.  A crane equipped with a man basket was mobilized so 
+that  personnel could access the crown to  inspect, render safe, and repair the damage.  At this time it  was 
+observed that the outer sheave locking plate bolts had sheared and the plate itself was seen resting on the 
+edge  of  the  crown  assembly.    These  conditions  created  the  potential  for  a  more  serious  incident, 
+necessitating a suspension of rig operations. 
+ 
+WHAT CAUSED IT: 
+ 
+•  The  bolts  that  secure  the  locking  plate  in  place  on  the  crown  housing  became  loose  over  time.    As  a 
+result  the  locking  plate  was  making  contact  with  the  sheave  pin.    This  continued  movement  from  the 
+sheave pin onto the locking plates resulted in wear on the locking plate bolts and caused the subsequent 
+failure of the bolts. 
+
+•  Restricted  access  to  the  locking  plates  did  not  allow  workers  to  clearly  identify  the  backing  off  of  the 
+
+locking plate bolts. 
+
+•  A  review  of  product  specifications  did  not  indicate  a  requirement  to  torque  the  crown  pin  keeper  plate 
+bolts to a specified range; or to perform inspections on this area of the crown assembly on a prescribed 
+basis. 
+
+ 
+
+CORRECTIVE ACTIONS:  To address this incident, this company did the following: 
+ 
+•  The company installed Nord-Lock Washers® and Loctite® on all lock plate bolts. 
+•  To ensure bolts are secure prior to each time the derrick is raised, the lock plate bolts shall be torqued to 
+41  lb-ft.  and  this  procedure  will  be  captured  in  the  corresponding  JSA/SOP  for  completing  a  pre-raise 
+derrick inspection and in the inspection itself. 
+
+•  Although  the  crown  inspection  that  was  completed  prior  to  the  incident  was  thorough,  it  included  a 
+generic statement that “all  crown bolts are secured and in  good repair.”  The inspection  document has 
+been updated to specifically identify the need to inspect each locking plate and their corresponding bolts. 
+•  This  style  of  the  derrick  does  not  allow  access  to  the  crown  when  it  is  in  the  raised  position.    Rig 
+Managers  will  be  provided  with  binoculars  to  inspect  the  crown  assembly,  specifically  the  sheave  pins 
+from the ground level during daily walk around inspections. 
+
+ 
+Credit to: ENFORM Safety Alert #12-2014 
+
+The Corrective Actions stated in this alert are one company’s attempts to address the incident,  
+
+and do not necessarily reflect the position of IADC or the IADC HSE Committee. 
+
+This material is presented for information purposes only.  Managers & Supervisors should 
+
+evaluate this information to determine if it can be applied to their own situations and practices 
+
+Copyright  2014 International Association of Drilling Contractors All rights reserved. 
+
+Issued July 2014 
+
+

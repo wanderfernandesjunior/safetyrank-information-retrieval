@@ -1,0 +1,219 @@
+AB
+
+ 
+
+IMCA Safety Flash 06/00 
+
+October 2000 
+
+These  flashes  summarise  key  safety  matters  and  incidents,  allowing  wider  dissemination  of  lessons  learned  from  them.    The  information  below  has  been 
+provided in good faith by members and should be reviewed individually by recipients, who will determine its relevance to their own operations. 
+
+The effectiveness of the IMCA safety flash system depends on receiving reports from members in order to pass on information and avoid repeat incidents.  
+Please consider adding the IMCA secretariat (imca@imca-int.com) to your internal distribution list for safety alerts and/or manually submitting information 
+on specific incidents you consider may be relevant.  All information will be anonymised or sanitised, as appropriate. 
+
+A  number  of  other  organisations  issue  safety  flashes  and  similar  documents  which  may  be  of  interest  to  IMCA  members.    Where  these  are  particularly 
+relevant, these may be summarised or highlighted here.  Links to known relevant websites are provided at www.imca-int.com/links  Additional links should 
+be submitted to webmaster@imca-int.com 
+
+ 
+
+1  Transponder/Beacon Explosion 
+
+A member has reported on an incident which occurred when a mini transponder/beacon exploded, injuring an employee in 
+the face.  The injury was caused by the end piece of the transponder being blown off. 
+
+The transponder, Applied Acoustic model 919 mini beacon, exploded when it was activated after being charged.  The charger 
+used was an Applied Acoustic model 982 smart charger. 
+
+The contractor involved has been in contact with the equipment manufacturer, who advised that these transponders should 
+be dismantled/ depressurised until the reason for the explosion had been identified. 
+
+The  manufacturer,  Applied  Acoustic  Engineer,  has  proposed  the  attached  procedure  (Annex  1)  on  how  to 
+dismantle/depressurise the mini transponders/beacons in a safe manner. 
+
+Once the transponders have been depressurised there is no danger of an explosion. 
+
+2  Personnel Lifting System Fatality 
+
+We  have  learned  of  a  fatality  when  a  worker  fell  from  a  full  body  harness 
+boatswain’s  chair  when  ascending  on  a  hoisting  system.    The  initial  information 
+from  the  investigation  team  indicates  that  the  individual  fell  when  he  became 
+detached  from  the  self-locked  grip  latch  hook,  similar  to  that  depicted  below.  
+The latch on the hook depicted on the right opens outward. 
+
+The company involved has implemented a survey of all personnel hoisting and fall 
+arrest systems seeking: 
+
+  verification  that  all  hook  components  are  designed  and  manufactured  and 
+
+  where such hooks are used, these should be self-locking and self-closing with 
+
+certified for lifting personnel; 
+
+an inward moving latch. 
+
+Examples of such hooks are shown overleaf. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+3  Serious Fire Extinguisher Alert 
+
+We have received a report of a fatality whilst using a fire extinguisher.  A worker was using a fire extinguisher to put out a 
+small  fire  when  the  extinguisher  suddenly  exploded,  resulting  in  the  person’s  death  from  the  flying  debris.    Part  of  the 
+extinguisher cracked open when the internal CO2 cylinder opened (225 psi/17 bar), hitting the user in the chest. 
+
+The cause of the incident was corrosion of the cylinder under the rubber protective foot.  Water had entered the rubber 
+lining, causing serious corrosion. 
+
+We understand that the vendor has distributed a warning to all owners of this type of fire extinguisher stating that the annual 
+inspection should include visual inspection of the bottom of the cylinder after the rubber foot has been removed.  Please see 
+the photographs below: 
+
+ 
+
+ 
+
+ 
+
+4  Hydraulic Injury to Hand 
+
+Work was being undertaken servicing an engine.  Immediately prior to the accident the first cylinder head had been removed 
+using the equipment and procedures normally used for this task.  The hydraulic power tool for tensioning the main retaining 
+bolts (regulated at 500 bar) was applied and pressured up to 490 bar.  The injured person’s left hand was on the body of the 
+jack.  As he slackened the main nut on the tensioned bolt a small release of HP oil was injected into his left hand. 
+
+The cause of the release was the failure of an HP seal on the hydraulic jack that allowed a high velocity discharge of a small 
+quantity of hydraulic oil to be released through a small aperture.  The failure was attributed to a missing backup ‘o’-ring seal.  
+Even though the injured person was wearing PPE, the jet of oil penetrated his left hand. 
+
+ 
+
+ 
+
+ 
+
+The reason for the missing backup ‘o’-ring could not be established.  It was either omitted by the manufacturer or during 
+maintenance.  The risk assessment that was carried out did not identify that high pressure could be contained within the jack. 
+
+The company involved has identified the following: 
+
+the need for a specific procedure regarding the changing of seal/’o’-ring assemblies; 
+
+investigation and availability of gloves that provide additional protection against equipment that may involve high pressure 
+hazards; 
+
+  hydraulic jacks should be included on planned maintenance system; 
+
+  additional PPE (full face visors) to be worn while performing this task in future. 
+
+Note: 
+
+Procedure 
+
+Note 
+
+ 
+
+ 
+
+1) 
+
+2) 
+
+3) 
+
+4) 
+
+5) 
+
+6) 
+
+7) 
+
+8) 
+
+Annex 1 
+
+Dismantling/Depressurising Procedure for AAE 91x  ‘Mini’-Beacons 
+
+Introduction 
+
+This note covers the following models: 919, 916, 915, 915H.  All references to a ‘beacon’ include these four models. 
+
+To ensure that there can be no possibility of pressure build up inside one of the above models, or to relieve any possible 
+pressure build up, the following procedure should be followed. 
+
+Please read this whole procedure and ensure that it is fully understood prior to undertaking any action. 
+
+The  aim  of  this  procedure  is  to  remove  the  lower  (connector)  end-cap,  thus  relieving  any  possible  internal  pressure  and 
+allowing any unwanted gasses to disperse. 
+
+In  the  event  of  misuse  or  an  unforeseen  circumstance,  there  may  be  the  potential  for  pressure  to  be  built  up  inside  the 
+beacon because of heat or by venting of the battery pack. However unlikely, we will therefore assume that, for the purposes 
+of this procedure, the beacon is: 1) Pressurised and 2) That the gasses may be ignited by a flame or spark.  
+
+The beacon should be removed to a place free of electrical apparatus where the beacons can be disassembled. 
+
+In order to contain any possible rapid pressure relief, precautions should be taken to minimise the effect of any rapid 
+ejection of one or other end-cap. 
+
+If any safety clothing or shatter proof mask is available, it should be worn. It is advisable that hand protection be worn 
+when unscrewing the main securing screw. 
+
+There is a possibility that a small amount of pressure will be inside the beacon simply due to the change in the volume of air 
+as the temperature changes. For example if a beacon is assembled in a cold environment and it is subsequently taken to a 
+warm room a small amount of pressure will exist. This very small amount of pressure is entirely normal and will be of no 
+consequence or significance whatsoever. 
+
+To avoid the possibility of creating a spark inside the unit, the beacon should NOT be switched on. 
+
+The beacon should not point to any person or object which might be hurt or damaged from one or both of the end-
+caps of the beacon being expelled at high speed. 
+
+The central securing screw which is located on the lower (connector) end-cap should be unscrewed 2 or 3 times at 
+which  time  it  should  be  checked  that  the  LOWER  end-cap  is  being  driven  away  from  the  beacon  tube  (cylindrical 
+pressure  housing)  and  that  the  transducer  TOP  end-cap  remains  close  to  the  tube.  The  transducer  TOP  end-cap 
+should be pushed onto the tube at this time if it has been seen to come away.  
+
+The LOWER end-cap securing screw man now be undone further. After a total of around 16 turns, the LOWER end-
+cap will have been driven away from the tube sufficiently for the two O rings to be free of the tube, thus allowing any 
+pressure to escape.  
+
+The LOWER end-cap securing screw may now be unscrewed completely (about 7 - 8 turns) and the LOWER end-cap 
+withdrawn from the body tube by a few centimetres. The LOWER end-cap is connected to the electronics inside the 
+remaining  beacon  body  by  a  grey  ribbon  cable  which  may  now  be  disconnected  from  the  LOWER  end-cap  circuit 
+board. 
+
+Note 
+
+We would also suggest that the ribbon cable be pulled away from the circuit board inside the tube of the beacon so that 
+there is no potential for this cable to be damaged whilst connected to the electronics and  battery pack inside the beacon. 
+
+Safety Flash 
+
+ 
+
+9) 
+
+The beacon has now been separated thereby completely eliminating the possibility of any pressure build up inside the 
+unit. Furthermore, any unwanted gasses are now free to disperse.  These gasses, if present at all, are sufficiently small in 
+volume that we do not suggest the need for any room ventilation. 
+
+The three beacon parts; Lower end-cap, main body and ribbon cable, can now be packed or stored as required. 
+
+Finally, it should be noted that, historically, hundreds of these beacons have been manufactured and used extensively in the 
+field. This procedure has been written after just one beacon caused injury for reasons we do not yet know. As stated above, 
+the chances of any operator experiencing a problem are very small, but until the cause of the problem is known, the above 
+procedure should be followed to ensure the utmost safety. 
+
+APPLIED ACOUSTIC ENGINEERING LTD 
+
+

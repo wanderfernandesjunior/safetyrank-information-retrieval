@@ -1,0 +1,151 @@
+ 
+SAFETY ALERT 42 
+
+NATIONAL OFFSHORE PETROLEUM SAFETY AUTHORITY 
+
+ 
+
+ 
+
+What happened? 
+
+Hot Work Leads to Fire 
+
+A recent fire on a normally unattended platform has highlighted the requirement to 
+ensure that risk assessments are conducted as thoroughly as possible and are not over-
+reliant on referencing previously conducted risk assessments from similar tasks. 
+
+The fire was detected visually from an approaching vessel transporting a crew of 
+workers to the facility to continue repair work, replacing structural steel. 
+
+During the morning approach it was identified that a section of the timber scaffold 
+planking was on fire.  The boat stopped on approach and stood by at a safe distance 
+while the alarm was raised and the facility production, shutdown and blowdown, was 
+initiated. 
+
+When it was deemed safe to board the facility the crew identified a 3 metre by 3 metre 
+section of the planking missing (assumed burned) and some remaining boards were 
+burning and smouldering.  Affected boards were jettisoned into the ocean and recovered 
+by another vessel. 
+
+The crew’s work on the day previous to the fire involved the removal of structural steel 
+members using oxy-acetylene cutting equipment, conducted in hides, located on 
+scaffolding.  The timber planking at the base of the hides was covered in fire blankets 
+and a fire watch was engaged to observe the work. 
+
+At the completion of the day’s work a final inspection of the hides was conducted prior to 
+the crew departing the facility. 
+
+During the period between personnel departing the facility and returning the following 
+morning, a flame detector at the facility went into alarm and returned to normal.  While 
+this alarm was captured in logs, the information was not communicated to the crew prior 
+to attending the facility. 
+
+What could go wrong? 
+
+Despite the fire blankets providing good coverage of the hide flooring there will always 
+be pockets and folds in the blankets, particularly around areas where piping and 
+structural members penetrate through the hide / habitat. 
+
+Hot “slag” from oxy-acetylene gouging may find it’s way into the pockets and folds 
+without being visually detected on inspections.  Where this slag comes in contact with a 
+combustible material (e.g. timber planks) there is potential for a fire to take hold. 
+
+Several factors, both planned and good fortune, prevented escalation of the fire to a far 
+more significant event.  These included: 
+
+  The fire blankets on top of the boards prevented the natural escalation of the 
+
+flames; 
+
+exposed; 
+
+  Good housekeeping within the hides meant that no flammable materials were left 
+
+  The area where the work was being conducted was furthest from the facility’s 
+
+hydrocarbon piping; and 
+
+ 
+
+Page 1 of 2 
+
+ 
+
+ 
+SAFETY ALERT 42 
+
+NATIONAL OFFSHORE PETROLEUM SAFETY AUTHORITY 
+
+Hot Work Leads to Fire 
+
+  Favourable weather conditions in regard to wind speed and direction. 
+
+Key Lessons: 
+
+  HAZIDs, Risk Assessments, JHAs and other evaluations should be conducted for 
+
+each individual project / work scope.  What worked previously does not necessarily 
+apply to the task at hand. 
+
+  Consideration should be given to alternative methods of work and equipment.  In 
+
+this instance the risk of hot work as opposed to cold cutting; the use of steel or grid 
+mesh as opposed to timber planking. 
+
+  Operators should develop a specification for construction of their hides / habitats 
+
+that includes consideration of detection equipment / instrumentation, both existing 
+and temporary. 
+
+  Consider the development of guidelines / procedures / competencies for personnel 
+
+required to perform fire-watch duties. 
+
+  Consider the development of checklists for (pre-) and (post-) hot work within 
+
+habitats / hides. 
+
+  Fires can smoulder for a significant period after work has ceased and therefore 
+
+consideration should also be given to making thorough post-job inspections 
+and possibly work-site wet down, a requirement of the permit. 
+
+Who is responsible? 
+
+(i)  The Operator of an offshore facility has a general duty of care under the Offshore 
+
+Petroleum and Greenhouse Gas Storage Act 2006 to ensure that all work and 
+other activities are safe, and that the risk to the health of people is as low as 
+reasonably practicable.  Specifically, the Operator must implement and maintain 
+safe systems of work and ensure any plant and equipment are safe. 
+
+(ii)  Any person who is in control of any part of a facility or particular work carried out 
+
+at a facility has similar duties to the Operator for that part of the facility or that 
+particular activity. 
+
+(iii) Every person at a facility must at all times take all reasonably practicable steps to 
+
+ensure that by any act or omission, they do not create or increase a risk to the 
+health or safety of either themselves or anyone else. 
+
+Contact 
+
+For further information email alerts@nopsa.gov.au and quote Alert 42. 
+
+Page 2 of 2 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+

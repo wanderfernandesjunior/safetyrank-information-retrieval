@@ -1,0 +1,86 @@
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+August 3, 2017 
+Washington, DC 
+
+         Inspections and Compliance Directorate 
+
+ 
+
+                                 Safety Alert 08-17 
+
+Know your high seas comms equipment and how to use them. 
+
+You just might save your own life when in trouble offshore! 
+
+ 
+
+ 
+
+the 
+
+that 
+
+to  note 
+
+  Each  of 
+
+Recent inquiries by Coast Guard Marine Inspectors indicate that a large number of vessel operators 
+and  ship  masters  continue  to  rely  on  outdated  high  seas  communications  frequencies  when 
+communicating  with  the  United  States  Coast  Guard.    This  Safety  Alert  reminds  all  mariners  of  the 
+appropriate  use  of  Single  Side  Band  High 
+Frequency  (SSB-HF)  radios  when  attempting 
+to contact the Coast Guard outside the normal 
+range  of  Very  High  Frequency-Frequency 
+Modulation  (VHF-FM)  marine  radios.    It  is 
+the  Coast  Guard 
+important 
+discontinued  monitoring 
+SSB-HF 
+frequency  of  2182  KHz  over  four  years  ago; 
+nevertheless,  many  mariners  continue 
+to 
+attempt to contact the Coast Guard using this 
+frequency.    Also,  many  mariners  attempt  to 
+contact  the  Coast  Guard  using  their  EPIRBs, 
+cell  phones,  SAT  phones,  and  even  NOAA 
+weather  electronics. 
+these 
+its  own 
+communications  devices  has 
+limitations and specific functional capabilities.         Above: Example of Single Side Band High Frequency Radio                                    
+ 
+SSB-HF  communications  offer  a  greater  transmission  range  when  other  options  are  not  available. 
+SSB-HF  radios  equipped  with  digital  selective  calling  (DSC)  are  capable  of  triggering  an  alert  at 
+Coast  Guard  Communications  Command  and  are  an  especially  reliable  means  for  initiating 
+communications with the Coast Guard during distress situations. 
+ 
+The Coast Guard keeps watch on the Global Maritime Distress and Safety System (GMDSS) SSB-HF 
+frequencies 4125, 6215, 8291 and 12,290 kHz in place of the old international radiotelephone distress 
+frequency 2182 kHz.  More detailed information on the SSB-HF and HF DSC frequencies on which 
+the  Coast  Guard  keeps  watch 
+listed  here: 
+https://www.navcen.uscg.gov/?pageName=cgcommsCall.  Questions or comments concerning Coast 
+Guard HF distress, safety and broadcast services may be sent to the Coast Guard Communications 
+Command at COM-DG-M-CWOWatchstanders@uscg.mil.  
+ 
+This  safety  alert  is  provided  for  informational  purpose  only  and  does  not  relieve  any  domestic  or 
+international  safety,  operational,  or  material  requirements.  Developed  by  Marine  Inspection  SME 
+Sector  Mobile  and  the  Office  of  Investigations  and  Casualty  Analysis.    Questions  or  comments 
+regarding this Safety Alert may be sent to HQS-PF-fldr-CG-INV@uscg.mil. 
+
+for  distress  and  safety  purposes  are 
+
+ 
+
+ 
+
+ 
+
+

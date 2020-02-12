@@ -1,0 +1,119 @@
+Safety Alert 
+
+        From the International Association of Drilling Contractors 
+
+ 
+ALERT 08 – 03  
+ 
+
+CRANE RIG UP RESULTS IN FALL FROM HEIGHT 
+
+ 
+
+ 
+
+ 
+WHAT HAPPENED: 
+ 
+The rig crews were rigging up a tall pedestal crane on an offshore production 
+platform  as  the  first  phase  of  the  drilling  package  rig–up  process.    The  heel 
+section of the boom was secured and pinned and the next task was to install 
+a hydraulic cylinder, which is used to raise and lower the boom.  The Driller 
+and  Derrickman  had  successfully  removed  the  transport-securing  pin  and 
+were  lowering  the  cylinder  in  place  on  the  turntable  clevis  with  assistance 
+from  another  crane.      At  this  point  the  cylinder  slipped  in  its  rigging  and  fell 
+onto a handrail, which protected the pedestal walk around.  The handrail was 
+broken from its base and fell 18 feet (5.4 meters) to the deck, taking with it the 
+Derrickman  who  was  tied  onto  it  by  his  fall  protection  lanyard.    The  injured 
+received skull fractures and a broken right arm. 
+ 
+WHAT CAUSED IT: 
+ 
+The rigging was not properly applied.  Past work practice has dictated the procedure for rigging up 
+the  cylinder  with  a  second  crane,  and  rigging  that  was  simply  slung  underneath  to  support  the 
+cylinder to ease the positioning of the cylinder into the turntable support clevis.  As the cylinder was 
+lowered into position, it increased the angle exposed to the slings, causing the slings to slip upward 
+on the cylinder, allowing it to fall.   
+
+The Derrickman had tied off his fall protection lanyard to a handrail that was enclosing the pedestal walk-
+around.  Handrails surrounded the platform walk-around, so there was no need for the Derrickman to tie off.  
+ 
+CORRECTIVE ACTIONS:  To address this incident, this company instructed rig supervisors and 
+personnel in the following: 
+ 
+Just because “We have always done it this way” does not mean that the hazard is not present.  We all need 
+to take a step back and review our actions and practices upon the completion of each job and ask; “What 
+went right, what went wrong, what could we have done different?” 
+ 
+Perform  JSA’s  on  each  task  in  a  job  -  not  the  whole  job.    Clearly  the  installation  of  the  boom  heel 
+section  and  then  the  cylinder  are  two  tasks  in  the  job  of  installing  the  crane.    After  the  job  is 
+complete, capture lessons learned during the review of JSA and up-date the JSA on file as needed. 
+
+ 
+Rig  supervisors:   Immediately  audit  fall  protection  training  on  your  rig.    Spend  an  equal  amount  of 
+time talking about tie-off points as you do on wear and care of the harness.  Identify individual tie-off 
+points for your lanyards.  Provide and clearly mark tie-off points around the rig.  A handrail is not an 
+appropriate  tie  off  point  for  fall  protection,  as  it  is  designed  to  withstand  only  200  pounds  of  side 
+loading, where as an appropriate fall protection tie off point is required to withstand 5000 pounds of 
+dynamic loading. 
+
+When rigging loads, use only API recommended hitching techniques.  Improvised slinging will not be 
+a part of our work practice. 
+
+ 
+
+ 
+
+ 
+
+The Corrective Actions stated in this alert are one company’s attempts to address the incident,  
+
+and do not necessarily reflect the position of IADC or the IADC HSE Committee. 
+
+This material is presented for information purposes only.  Managers & Supervisors should 
+
+evaluate this information to determine if it can be applied to their own situations and practices 
+
+Copyright © 2008 International Association of Drilling Contractors All rights reserved. 
+
+Issued January 2008 
+
+Safety Alert 
+
+        From the International Association of Drilling Contractors 
+
+ 
+Most  importantly  take  the  time  to  visualize  the  work  to  be  done  and  identify  the  potential  hazards, 
+and  communicate  them,  so  a  control  can  be  implemented.    Think  beyond  the  evident,  adopt  a 
+questioning attitude: “What If?”  Remember: 
+
+Step 1: Identify the Hazard  
+
+Step 2: Assess the Risk  
+
+Step 3: Identify Controls  
+
+Step 4: Implement Controls  
+
+Step 5 Monitor the Process. 
+
+The above 5 steps are a simple and effective tool for all of us to use, whether crossing a busy street or 
+installing a crane. 
+
+ 
+
+ 
+
+The Corrective Actions stated in this alert are one company’s attempts to address the incident,  
+
+and do not necessarily reflect the position of IADC or the IADC HSE Committee. 
+
+This material is presented for information purposes only.  Managers & Supervisors should 
+
+evaluate this information to determine if it can be applied to their own situations and practices 
+
+Copyright © 2008 International Association of Drilling Contractors All rights reserved. 
+
+Issued January 2008 
+
+

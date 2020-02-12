@@ -1,0 +1,67 @@
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+SMALL BORE TUBING FAILURE ON BOP CONTROL SYSTEM                                                                  
+ALERT 3-18 
+
+ 
+
+ 
+WHAT HAPPENED: 
+ 
+While starting up the control system for the BOP stack during maintenance activities, there was a 
+release of hydraulic fluid from a small bore tubing which had separated from the 3,000 PSI manifold of 
+the system. An estimated 196 litres (51 gallons) of fluid was released from the system into a bunded 
+area.  
+
+CONTRIBUTING FACTORS: 
+
+ 
+ 
+ 
+The failed section of pipework was sent onshore for failure mode analysis, which revealed the cause to 
+be a fatigue fracture caused by deep bite marks, resulting from excessive tightening of the compression 
+nut.  Inspection of the unit identified several fittings that had also been overtightened.  
+ 
+
+ 
+ 
+ 
+
+ 
+
+A Safety Alert can consist of any type of health, safety & environment (HSE) notification or    
+
+Near Miss/Near Hit alert.  Proactive Alerts on jobs well done are also encouraged. 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+LESSONS LEARNED: 
+ 
+Inspect piping and tubing connections and ensure there are no loose or over tightened connections.  
+
+Consider marking correctly torqued connections to easily identify which have been torqued. 
+
+Use gauge/tool provided by manufacturer to avoid damaging small bore tubing.  
+
+A Safety Alert can consist of any type of health, safety & environment (HSE) notification or    
+
+Near Miss/Near Hit alert.  Proactive Alerts on jobs well done are also encouraged. 
+
+

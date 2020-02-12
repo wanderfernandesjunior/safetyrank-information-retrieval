@@ -1,0 +1,135 @@
+ 
+ 
+SAFETY ALERT 37 
+
+   NATIONAL OFFSHORE PETROLEUM SAFETY AUTHORITY 
+ 
+ 
+Boiler Furnace Explosions
+
+What happened? 
+
+Recent  incidents  on  Floating  Production,  Storage  and  Offloading  (FPSO) 
+facilities  in  Australian  waters  have  highlighted  the  dangers  of  unignited  fuel 
+accumulating  in  boiler  furnaces.    In  two  cases  there  were  explosions  in  boiler 
+furnaces  resulting  in  structural  damage  to  the  boiler.    Fortunately  no  one  was 
+injured. 
+ 
+A furnace explosion is a rapid uncontrolled combustion of fuel in the combustion 
+chamber or exhaust uptake of a boiler resulting in high overpressure.  The basic 
+cause of this is the ignition of an accumulation of unburned fuel at some point in 
+the system. 
+ 
+One  incident  involved  a  number  of  failed  attempts  to  light  a  boiler  on  diesel  oil 
+and  a  further  attempt  to  light  the  burner  on  fuel  gas.    A  furnace  explosion 
+occurred which caused structural damage to the membrane walls of the furnace.  
+In  another  case,  whilst  two  boilers  were  being  brought  on  line,  there  was  a 
+furnace  explosion  in  one  boiler  shortly  after  the  third  successive  light  up  of  the 
+burner  on  oil  fuel.    This  caused  extensive  damage  to  the  furnace  casing  and 
+uptakes. 
+ 
+Whilst the boilers are of different types and makes, the two incidents highlight the 
+hazardous conditions that can arise during routine light up operations.  A furnace 
+flashback or sudden release of the boiler contents due to structural damage may 
+have serious consequences for personnel in the area. 
+ 
+
+Furnace casing damage 
+
+Page 1 of 3 
+
+ 
+
+   NATIONAL OFFSHORE PETROLEUM SAFETY AUTHORITY 
+ 
+ 
+Boiler Furnace Explosions
+
+ 
+ 
+SAFETY ALERT 37 
+
+ 
+
+Damaged boiler exhaust uptake 
+
+ 
+What could go wrong? 
+
+•  Several unsuccessful attempts to relight a burner result in an accumulation of 
+unburned fuel in the boiler furnace.  Ineffective purging of the furnace and gas 
+passages  with  air  will  result  in  pockets  of  combustible  mixture  remaining  in 
+the system. 
+
+•  Poor combustion and/or defective burners can result in deposits of unburned 
+
+fuel in the furnace. 
+
+•  Unstable  fuel  control  systems  can  cause  fuel  pressure  spikes,  flow  surges 
+and  poor  combustion  with  the  attendant  risks  of  explosive  ignition  in  the 
+furnace. 
+Incorrect  fuel  gas  flow  control  valve  settings  can  introduce  quantities  of  fuel 
+gas  into  the  combustion  chamber,  well  in  excess  of  the  minimum  amount 
+required for light up. 
+
+• 
+
+•  Leaking  fuel  shut  down  valves  and  pipe  connections  can  result  in  an 
+
+accumulation of unburned fuel in the furnace. 
+
+ 
+Key Lessons 
+
+•  Even  small  amounts  of  accumulated  combustible  mixture  in  a  boiler  furnace 
+
+can, on ignition, cause explosions with serious consequences. 
+
+•  Operators should  ensure  that  automatic  combustion  control  systems  are  not 
+degraded.  Properly functioning and maintained automatic burner fuel control 
+systems should not normally require manual intervention. 
+
+Page 2 of 3 
+
+ 
+ 
+SAFETY ALERT 37 
+
+   NATIONAL OFFSHORE PETROLEUM SAFETY AUTHORITY 
+ 
+Boiler Furnace Explosions 
+
+•  Procedures should be in place for the start up and safe operation of boilers on 
+oil and gas fuel.  These procedures should include mitigating measures to be 
+taken by operators should flame failure occur. 
+
+•  Always  identify  the  cause  of  persistent  flame  failures  before  attempting  to 
+relight  a  burner.    Ensure  an  extended  purge  cycle  after  repeated  failed 
+attempts to light up a burner so that unburned fuel vapour is dispersed from 
+the furnace and gas passages. 
+
+•  Burners should be lit with oil/gas fuel at the minimum design flow rate that is 
+
+necessary for stable flame establishment. 
+
+•  A system for periodic checks of burners, fuel shut down valves, safeguarding 
+
+devices and instruments should be in place. 
+
+ 
+Who is responsible? 
+
+Under  provisions  of  the  Offshore  Petroleum  and  Greenhouse  Gas  Storage  Act 
+2006,  operators  of  facilities  have  a  duty  of  care  to  ensure  that  plant  and 
+equipment at the facility are safe and without risk to health.  Manufacturers and 
+suppliers  of  plant  also  have  a  duty  to  ensure  that  plant,  when  properly  used,  is 
+safe and without risk to health. 
+ 
+
+Contact 
+
+For further information email alerts@nopsa.gov.au and quote Alert 37. 
+
+Page 3 of 3 
+
+

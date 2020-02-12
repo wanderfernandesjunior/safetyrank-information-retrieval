@@ -1,0 +1,384 @@
+AB 
+
+ 
+
+IMCA Safety Flash 15/09 
+
+Safety Flash 
+
+October 2009 
+
+These  flashes  summarise  key  safety  matters  and  incidents,  allowing  wider  dissemination  of  lessons  learnt  from  them.    The  information  below  has  been 
+provided in good faith by members and should be reviewed individually by recipients, who will determine its relevance to their own operations. 
+
+The effectiveness of the IMCA safety flash system depends on receiving reports from members in order to pass on information and avoid repeat incidents.  
+Please consider adding the IMCA secretariat (imca@imca-int.com) to your internal distribution list for safety alerts and/or manually submitting information 
+on specific incidents you consider may be relevant.  All information will be anonymised or sanitised, as appropriate. 
+
+A  number  of  other  organisations  issue  safety  flashes  and  similar  documents  which may  be  of  interest  to  IMCA  members.   Where  these  are  particularly 
+relevant, these may be summarised or highlighted here.  Links to known relevant websites are provided at www.imca-int.com/links   Additional links should 
+be submitted to webmaster@imca-int.com 
+
+ 
+
+1  Trapped Diver Umbilical Incident Resulting in Diver Fatality 
+
+A member has reported an incident where a trapped diver umbilical resulted in his death.  During the surface supplied diver 
+operation, the diver was deployed to the bottom (56m) to locate fixing points for davits which required him to travel along 
+the pipeline and for the barge to be moved into position. 
+
+During the diving operation the barge moved astern.  It is thought that this movement caused the diver’s umbilical to become 
+snagged on an object on the seabed cutting off his gas supply.  On the diver’s umbilical there were two ‘D’ rings – one at 39m 
+(~130’) and one at 50m (165’).  The 50m ‘D’ ring was attached to the bell lift wire controlling the maximum excursion of the 
+diver; it was the 39m ‘D’ ring that became snagged on the seabed.  The diver went on to bail out, reported that his umbilical 
+was fouled and made his way back to the wet bell where he appeared to have been attempting to put the bell pneumo tube 
+into his helmet when he was found by the standby diver  who had been deployed from the surface.  Both video and audio 
+communications were lost soon after the diver reported his umbilical was fouled.  Soon after the standby diver arrived at the 
+wet bell attempts were made to recover it and the divers to the surface.  As the wet bell was being recovered, since the 
+diver’s umbilical was fouled on the seabed, he was dragged out of the wet bell.  This occurred twice before the standby diver 
+freed the trapped umbilical and eventually the diver was recovered to the surface but was pronounced dead by the doctor 
+on board the vessel. 
+
+Following the investigation of the incident, a number of actions were put in place by the company: 
+
+♦  Controlled barge movements while divers are on excursion umbilical and travelling along a pipeline; 
+♦  All divers to be tended in-water, i.e. two divers in the water with one diver tending from the wet bell; 
+♦  All divers to be briefed on all emergency dive operational procedures and re-familiarised with the wet bell emergency 
+
+equipment; 
+
+♦  Thorough briefing to all divers on the emergency recovery procedures to recover a stricken diver; ensuring that always 
+his umbilical is cleared of any fouling which may have occurred during the dive and recover all the umbilical slack back to 
+the surface prior to the wet bell ascending; 
+
+♦  Use of a pre-dive survey by a remotely operated vehicle (ROV) to be carried out to check debris in the work location 
+
+♦  Ensure that both video/communications for all divers involved in a dive are connected and working as part of the pre-
+
+involving divers travelling up pipelines; 
+
+dive checks; 
+
+♦  Ensure  divers  deploy  their  excursion  umbilical  in  a  safe  manner  from  the  bell,  ensuring  that  it  is  clear  of  the 
+counterweight or any foreign objects which may be in the area of the bell footprint where the deployed umbilical would 
+lie. 
+
+Members’ attention is also drawn to the following IMCA guidelines: 
+
+♦ 
+
+♦ 
+
+♦ 
+
+IMCA D 014 Rev. 1 – IMCA International Code of Practice for Offshore Diving – which sets out good practice guidance on all 
+aspects of a diving operation including work planning, risk management including vessel movements and emergency and 
+contingency plans. 
+
+IMCA  D  030  Rev.  1  –  Surface  supplied  mixed  gas  diving  operations  –  which  sets  out  that  a  properly  equipped  wet  bell 
+(providing a gas bubble in the wet bell dome) is required for this type of operation; aspects which should be considered 
+in  the  risk  assessment  including  umbilical  management  and  the  recovery  of  an  injured  diver;  that  the  dives  for  depths 
+between 50m and 75m the bottom time should limited to a maximum of 30 minutes; that for dives greater than 50m the 
+standby diver should be located in and tend the diver from the wet bell. 
+
+IMCA D 037 – DESIGN for surface supplied mixed gas diving systems – which sets out the equipment requirements for this 
+type of diving operation. 
+
+ 
+
+2  Lost Time Injury: Gangway Deployment 
+
+A member has reported an incident in which a person suffered a broken leg during gangway deployment.  Prior to arrival at 
+the  quayside,  a  vessel’s  double  sectioned  gangway  (see  Figure  1)  was  lowered  and  extended,  in  readiness  for  use,  in 
+accordance with onboard procedures. 
+
+Approaching  the  quayside,  the  bridge  was  informed  that  berthing  plans  for  the  vessel  had  changed.    The  change  of  berth 
+required  the  use  of  a  different  gangway  and  the  bosun  was  instructed  to  recover  the  now  partly  deployed  gangway.    The 
+bosun and an able seaman (AB) started work on this task but failed to follow established procedures. 
+
+The recovery procedure required the gangway to be initially lowered to allow tension to come off the lifting wires and at the 
+same  time  allow  the  securing  pins  to  be  removed  for  stowing,  before  then  raising  the  gangway  back  up  to  the  stowed 
+position.  
+
+However, the bosun and the AB started to remove the securing pins without first lowering the gangway to take the tension 
+off the lifting wires. The AB removed the inboard pin as this was not under tension and therefore easily removed by hand.  
+The outboard pin was stiff because of the tension on the lifting wires.  A crowbar was used to exert pressure on the lower 
+section of the gangway, to allow the outboard pin to be removed.  During this process, both the bosun and the AB were 
+standing within the steps of the gangway, as shown in Figure 2. 
+
+Top extension part: when outboard pin 
+jumped out this section slid up quickly and 
+trapped the bosun and able seaman 
+ 
+
+ 
+
+ 
+
+Bosun and able seaman were standing 
+here when attempting to remove the 
+outboard pin 
+ 
+
+Figure 1 – Double (upper and lower) sectioned gangway 
+
+Figure 2 – Area of entrapment 
+
+The  expectation  was  that  the  pressure  applied  by  the  crowbar  to  the  lower  section  of  the  gangway  would  loosen  the 
+outboard  pin,  which  could  then  be  removed  by  hand.    Instead,  the  outboard  pin,  with  the  pressure  released,  jumped  out.  
+Because  there  was  still  tension  on  the  lifting  wires  at  the  lower  end  of  the  gangway,  the  lower  extension  section  of  the 
+gangway slid quickly upwards, trapping both the bosun and the AB by the legs. 
+
+Urgent  assistance  was  requested  and  both  men  were  subsequently  released  by  using  a  lever  hoist  to  relieve  the pressure.  
+During subsequent medical attention it was discovered that one of the workers had a serious fracture of the leg.  He was 
+taken to hospital ashore. 
+
+This extremely serious incident could have been avoided entirely by following the correct procedures. 
+
+3  Helicopter Task Group Update: Briefing on S-92 Helicopter Fleet 
+
+The Helicopter Task Group has published the attached briefing concerning Sikorsky S-92 helicopters. 
+
+ 
+
+4 
+
+Importance of Inspecting Fall Protection Equipment 
+
+IMCA  has  been  made  aware  of  a  number  of  examples  of  fall  protection  equipment  failing  owing  to  poor  or  sub-standard 
+equipment: 
+
+♦  Safety  Alert  09-17  –  Near  Miss  –  New  Fall  Protection  Equipment  Failure  –  published  by  the  International  Association  of 
+Drilling Contractors (IADC) (attached), notes that a new ‘pass-through tie-off adapter’ was only hot-glued and did not 
+have the required stitching. 
+
+♦  Whilst teaching a fall protection class an instructor found a new piece of fall protection equipment that was not properly 
+sewn.  This equipment was brand new, still in the bag and made by a reliable manufacturer.  One of the lanyards was 
+improperly sewn and the webbing could be pulled apart by hand. 
+
+Improperly sewn fall protection equipment 
+
+ 
+
+♦ 
+
+In another similar instance, it was discovered that the rivet from the secondary lock on the snap hook of a lanyard had 
+become  damaged  and  allowed  the  secondary  lock  to  come  free  from  the  hook.    The  hook  was  not  involved  in  a  fall 
+event. 
+
+Members  are  encouraged  to  re-emphasise  to  their  personnel  the  importance  of  thorough  inspection  of  all  fall  protection 
+equipment before and after use. 
+
+Helicopter Task Group update 
+Briefing on S-92 helicopter fleet 
+
+ 
+
+13 October 2009 
+
+ 
+
+ 
+
+ 
+Last  week  Sikorsky,  the  manufacturer  of  the  S-92  helicopter,  issued  a  letter  to  all  helicopter 
+operators concerning some occurrences of cracking which had been detected in one of the four 
+feet which mount the S-92 Main Gearbox (MGB) to the aircraft.  
+
+The  helicopter  operators  and  the  task  group  have  now  understandably  received  a  number  of  questions  from 
+passengers concerning this matter. In the Q&A briefing below, we will provide as much information as possible 
+on the current situation with the S-92 fleet. 
+
+1.  Is there a link between the S-92 accident in Newfoundland and the cracking now detected in the 
+S-92 gearbox feet? 
+
+No, there is no link between the Newfoundland accident and the cracking now detected in the gearbox feet. 
+
+2.  Are these cracks in the same area of the gearbox as was modified following the accident in 
+Canada?  
+
+No. The earlier modification replaced titanium studs on the Oil Filter Housing with steel items; that modification 
+is not connected to this issue.   
+
+3.  Will the winter weather have any impact on the reliability of the S-92 and is any additional 
+maintenance required? 
+
+No.  The  aircraft’s  flight  manual  sets  out  the  conditions  in  which  the  S-92  can  fly.  Helicopter  operators always 
+operate  within  these  criteria.  The  manufacturer’s  maintenance  procedures  are  already  designed  to  cater  for 
+differences in the climate that the helicopter may encounter in a particular role.    
+
+4.  Is vibration causing the issue with the MGB feet and do other helicopter types have the same 
+problem? 
+
+Sikorsky  does  not  believe  that  vibration  felt  in  the  cabin  is  a  contributor  in  any  way  to  the  loads  on  the 
+transmission feet.  They have conducted actual flight tests with instrumentation (strain gauges) on the feet and 
+know that the loads in the foot are primarily the result of the lifting and torque loads of the main rotor.  
+
+5.  How did Sikorsky decide upon a 10 hour inspection regime? 
+
+Sikorsky develops inspections of this type by testing and analysing the structure and determining the amount of 
+time  it  would  take  for  a  crack  to  occur  and  grow.  They  then  apply  very
+  conservative  reductions  to  set  the 
+inspection  interval  so  that  it  is  effective  at  finding  a  problem  with  plenty  of  margin  and  would  even  account 
+should  it  be  missed  during  any  particular inspection.  This  process  was  used  by  Sikorsky  to  determine the  10-
+hour  interval  specified  in  the  Service  Bulletin.  In  addition,  Sikorsky  showed  during  certification  that  the 
+attachment of the gearbox to the airframe is secure for a period of time even if one of the 4 feet is completely 
+severed from the gearbox. 
+
+6.  If a bolt fails, could it collide with the main or tail rotor? 
+
+A  small  number of  bolts  have  been  found  broken over  the last  few  years  and this  is the  reason  that they  are 
+now replaced every 500 hours for good measure.  To Sikorsky’s knowledge in all of these cases the bolt head 
+stayed in place in its hole. One reason is that the bolt is caulked after installation to prevent water ingress, and 
+this  caulking  would  hold  any  broken  piece  in  place.  In  addition,  the  area  in  which  the  bolts  are  located  is 
+enclosed from the outside environment under the crowling areas and so contact with the main blades or the tail 
+rotor would effectively be impossible.  
+
+7.  How are the cracks detected? 
+
+The  gearbox  feet  are  inspected  every  10  flight  hours  in  accordance  with  ASB92-63-020.  Cracks  are  first 
+identified visually and then confirmed through Non-Destructive Testing (NDT). This technique reveals flaws and 
+defects in a material or device without damaging or destroying the test sample.  
+
+8.  Does the 10 hours inspection include an NDT check? 
+
+The 10-hour check includes the use of NDT procedures if a crack is believed to exist through visual inspection.   
+
+9.  Would reducing the number of take offs and landings help to prevent the cracking? 
+
+Sikorsky  is  conducting  a  thorough  technical  investigation  now  and  as  soon  as  they  have  reached  conclusions 
+that  information  will  be  made  available;  at  this  time  there  is  no  Sikorsky-recommended  restriction  on  the 
+number of take offs or landings that can be conducted on a particular flight. This is based on their analysis and 
+testing.   
+
+10.  Would reducing the payload help to prevent the cracking? 
+
+Sikorsky  is  conducting  a  thorough  technical  investigation  now  and  as  soon  as  they  have  reached  conclusions 
+that information will be made available; at this time there is no payload restriction in place.   
+
+The inspection procedures introduced through Sikorsky's Alert Service Bulletin, and in place with all helicopter 
+operators, will identify and anomalies in the unlikely event that they appear. 
+
+11.  The S-92 door vibrates in flight. Could this be contributing to the cracks? 
+
+Sikorsky  is  conducting  a  thorough  technical  investigation  now  and  as  soon  as  they  have  reached  conclusions 
+that  information  will  be  made  available;  it  is  very
+  unlikely  that  any  vibration  in  the  door  assembly  is  a 
+contributory factor to this phenomena. See also the response to question 4.    
+
+12.  Could the relative inexperience of the flight crews with the S-92 be a contributing factor?  
+
+No,  not  at  all.  The  crews  are  all  fully  qualified  to  operate  the  aircraft  and  their  continuous  training  regime 
+ensures  that  standards  are  monitored  at  very  regular  intervals.  In  addition,  the  aircraft  has  a  system  called 
+HUMS (Health Utilisation & Monitoring System) which monitors a wide range of aircraft parameters and warns if 
+the aircraft is operated outside of design limitations.    
+
+13.  Are the S-92s in Norway and other regions experiencing similar problems and do they fly 
+similar flight patterns? 
+
+Yes, and the update letter recently issued by Sikorsky went to all operators world-wide.  
+
+14.  Can safety reps be invited to see the actual failed equipment/ components and can they have 
+pictures or presentation of what the failure looks like? 
+
+Sikorsky will provide photographs of the broken foot from their Materials Laboratory some time next week.  
+
+15.  Could pilots and engineers come offshore to reassure the population? Where can passengers 
+get further information? 
+
+All  helicopter  operators  will  work  closely  with  their  clients'  aviation  departments  to  ensure  that  the  fullest 
+information  is  available  for  briefing  passengers  travelling  offshore  in  whatever  form  that  has  to  take. 
+Passengers  that  have  concerns  which  could  not  be  answered  by  this  briefing  should  contact  their  employer's 
+aviation  / logistics  department  in  the  first  instance.  If  questions  remain  after  this,  passengers  can  send  an  e-
+mail  directly  to  the  Helicopter  Task  Group  which  will  seek  to  provide  an  answer  as  soon  as  possible. 
+helitaskgroup@oilandgasuk.co.uk 
+
+ 
+
+If you would like to find out more about any of the issues outlined above, please contact the 
+helicopter task group on helitaskgroup@oilandgasuk.co.uk  
+
+© 2009 United Kingdom Offshore Oil and Gas Industry Association Limited trading as Oil & Gas UK 
+London: Tel 020 7802 2400  Fax 020 7802 2401     
+Aberdeen: Tel 01224 577 250  Fax 01224 577 251 
+Email info@oilandgasuk.co.uk  Website http://www.oilandgasuk.co.uk  
+
+Safety Alert 
+
+        From the International Association of Drilling Contractors 
+
+ 
+ALERT 09 – 17 
+ 
+
+NEAR MISS—NEW FALL PROTECTION EQUIPMENT FAILURE 
+
+ 
+
+WHAT HAPPENED: 
+ 
+A  derrickman  was working  in  the  derrick  and was  using  a NEW “Pass  through  Tie-Off  Adapter”  for  his  fall 
+protection  anchor  point.    The  tie-off  adapter  in  this  case  was  a  3”  web  sling,  2  feet  long.    The  adapter  is 
+wrapped  around  a  beam  or  other  secure  tie-off  point  and  one  end  passes  through  the  other  “choking”  the 
+anchor point.  The lanyard is then attached to a full body harness d-ring.   
+
+The derrickman had tied-off and then leaned out to perform his work.  The tie-off adapter “broke”, however, 
+the derrickman was able to catch hold of the pipe to keep from falling out of the derrick.  
+
+WHAT CAUSED IT: 
+ 
+Inspection of the tie-off adapter revealed that the D-ring end of the sling had not been fully assembled.  The 
+webbing material end had been folded around the D-ring and hot glued, but had not been stitched.  Follow-
+up inspections revealed that four out of the five tie-off adapters the company had purchased were defective.   
+
+ 
+Several opportunities were missed to catch this mistake:  
+
+1)  The manufacturer failed to catch the defect during its quality control inspections;  
+2)  The  supplier  receiving  the  slings  from  the  manufacturer  also  failed  to  inspect  them  before  selling 
+
+3)  The receiving agent didn’t inspect upon receiving them;  
+4)  The Safety Advisor distributed the defective slings to the rig without inspecting them;  
+5)  The Rig Manager stored the slings in his office until needed and failed to inspect them before 
+
+them;  
+
+use;  
+
+6)  The Derrickman, which was the last chance to catch the error, began using the fall protection 
+
+7) 
+
+equipment without first inspecting it. 
+Inspections  did  not  happen  because  personnel  involved  accepted  that  new  equipment  was  in 
+good condition without defects.   
+
+ 
+CORRECTIVE ACTIONS:  To address this incident, this company did the following: 
+ 
+The company emphasized to all rig personnel that they must be the final check of all safety equipment.  The 
+extra minute or two you spend inspecting equipment before using it (new or used), may save you or a co-
+worker from serious harm.   
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+The Corrective Actions stated in this alert are one company’s attempts to address the incident,  
+
+and do not necessarily reflect the position of IADC or the IADC HSE Committee. 
+
+This material is presented for information purposes only.  Managers & Supervisors should 
+
+evaluate this information to determine if it can be applied to their own situations and practices 
+
+Copyright  2005 International Association of Drilling Contractors All rights reserved. 
+
+Issued June 2008 
+
+

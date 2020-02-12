@@ -1,0 +1,375 @@
+AB 
+
+ 
+
+IMCA Safety Flash 16/09 
+
+Safety Flash 
+
+November 2009 
+
+These  flashes  summarise  key  safety  matters  and  incidents,  allowing  wider  dissemination  of  lessons  learnt  from  them.    The  information  below  has  been 
+provided in good faith by members and should be reviewed individually by recipients, who will determine its relevance to their own operations. 
+
+The effectiveness of the IMCA safety flash system depends on receiving reports from members in order to pass on information and avoid repeat incidents.  
+Please consider adding the IMCA secretariat (imca@imca-int.com) to your internal distribution list for safety alerts and/or manually submitting information 
+on specific incidents you consider may be relevant.  All information will be anonymised or sanitised, as appropriate. 
+
+A  number  of  other  organisations  issue  safety  flashes  and  similar  documents  which may  be  of  interest  to  IMCA  members.   Where  these  are  particularly 
+relevant, these may be summarised or highlighted here.  Links to known relevant websites are provided at www.imca-int.com/links   Additional links should 
+be submitted to webmaster@imca-int.com 
+
+ 
+
+1  Near Miss: Unexpected Lowering of a Suspended Load 
+
+A member has reported an incident in which there was an unexpected lowering of a suspended load during a lifting operation 
+which had the potential to cause significant injury.  During maintenance of an ROV winch system, a yoke was being supported 
+in position by a shore crane to allow a specific task to be conducted. 
+
+The shore-side crane was provided by the port authority which had sub-contracted it in, along with a rigging team from the 
+port authority.  As the end of the working day approached, the crane operator sounded the crane horn to indicate that time 
+was  running  out.    The  vessel  team  agreed  with  the  banksman  that  all  persons  would  work  for  an  extra  thirty  minutes  to 
+complete  the  task.    However,  this  agreement  was  not  communicated  to  the  crane  driver.    Five  minutes  later  the  crane 
+operator  sounded  the  horn  again  as  he  wished  to  lower  the  load.    The  vessel  team  and  banksman  gave  little 
+acknowledgement to this.  Shortly after this the crane operator lowered the load and shut down the crane as his working 
+day was over. 
+
+At this time someone was threading a turnbuckle into the yoke.  Due to the weight of the yoke this came out of his grasp 
+prior to the yoke landing and his hands came clear.  There were no injuries. 
+
+Turnbuckles of outboard 
+yoke arms were being 
+reassembled at the time of 
+the incident 
+ 
+ 
+
+Yoke connects to both 
+sheaves; outboard yoke 
+arms were being supported 
+by quay crane 
+ 
+
+Site of yoke being supported by shore-side crane 
+
+ 
+
+♦  The crane operator was under the impression that everyone understood his signalling and thought that all persons were 
+
+Investigation of the incident revealed the following: 
+
+clear from the work site; 
+
+♦  The crane operator could not see the work site; 
+
+♦  There  was  no  verbal  or  radio  communication  with  the  crane  driver  either  before  (at  the  toolbox  talk)  or  during  the 
+
+operation; 
+
+♦  There  was  no  lift  plan  in  place  for  this  task,  which  meant  guidance,  roles  and  responsibilities  were  not  well  defined.  
+
+Internal company procedures for lifting were not followed; 
+
+ 
+
+♦ 
+
+♦ 
+
+♦ 
+
+♦  The  banksman  had  no  authority  from  a  working  hierarchy  over  the  crane  operator  to  agree  that  he  should  work  an 
+extra thirty minutes.  The working hierarchy also created poor team dynamics, as the crane operator was left out of all 
+communications and decisions; 
+
+♦  A string of errors through poor communication almost resulted in a serious injury to personnel working on the winch. 
+
+The following actions were suggested: 
+
+for lifting operations; 
+
+♦  Teams conducting lifting operations should ensure that they are familiar with and follow their own company procedures 
+
+♦  All lifts should have a lift plan – teams involved in lifting are to ensure that lift plans are in place prior to the lift starting; 
+
+♦  All persons involved in lifts should be included in the toolbox talk prior to the start of operations; 
+
+♦  Third-party  contractors  involved  in  members’  operations,  particularly  lifting  operations,  should  be  fully  briefed 
+
+beforehand and personnel should be fully aware of the required level of subcontractor supervision; 
+
+IMCA guidelines covering this type of operation are as follows: 
+
+IMCA SEL 019 – Guidelines for lifting operations 
+
+IMCA M 175 – Operational communications: Part 1 – Bridge and dive control 
+
+IMCA SEL 020/M 193 – Guidance on operational communications: Part 2 – Lifting operations. 
+
+2  Near Miss: Loss of a Small Crane (‘Cherry Picker’) Wire 
+
+A member has reported an incident in which a crane winch wire was lost during light subsea lifting work.  The winch wire 
+and the load dropped on to the seabed near to working divers. 
+
+A small crane, sometimes referred to offshore as a ‘cherry picker’, was being used to deploy a small tool basket to a diver 
+working on a subsea manifold.  It had been identified on  the previous shift there was insufficient wire on the crane winch 
+drum to reach the seabed; however there was sufficient winch wire to reach the roof of the manifold. The deck crew and 
+dive supervisors had been briefed by the previous shift regarding the short length of wire. 
+
+During the operation to deploy the basket the deck crew was instructed to deploy the tool basket to the ‘short mark’ (rope 
+marks fitted to the cherry picker wire).  The diver spotted the tool basket and gave an ‘all stop’ signal.  However, the tool 
+basket  continued  to  descend  towards  the  seabed  followed  by  the  entire  length  of  the  winch  wire  which  landed  in  close 
+proximity to the divers.  The divers were uninjured and returned unaided to the bell. 
+
+An investigation took place which, in addition to errors in lift planning, suitability of equipment and management of change, 
+revealed the following: 
+
+♦  The divers were working directly under a suspended load; 
+
+♦  There were several ‘short marks’ identified on the winch wire; 
+
+♦  The pilot of the observing remotely operated vehicle (ROV) had not been instructed to watch the descending load; 
+
+♦  The ‘lineout meter’ giving details of how much winch wire had paid out was defective; 
+
+♦  A hydroacoustic position reference (HPR) beacon had not been fitted to the wire in order to confirm the depth. 
+
+The company involved implemented a number of control measures following this incident: 
+
+♦  A  ‘dropped  object  cone’  protection  procedure  was  implemented  for  divers  where  the  diver(s)  must  be  outside  a 
+minimum 30 degree dropped object cone for all subsea lifts; if this is not practical then they must at least retire under 
+the bell.  Certain loads being deployed and recovered will require the bell to be recovered. 
+
+♦  At least two independent depth reference devices should be in operation when deploying loads subsea.  These can be: 
+
+a line out meter 
+an HPR transponder 
+rope marks 
+
+– 
+– 
+– 
+–  ROV observation should be regarded as secondary means of reference; 
+
+♦  The crane or ‘cherry picker’ operator should have suitable visual references to allow an accurate understanding of the 
+
+position of the subsea load and the capabilities of the lifting equipment. 
+
+ 
+
+3  Hand Injury: Injection of Hydraulic Fluid 
+
+IMCA has received information about a hand injury caused by leaking pressurised hydraulic fluid on a drilling rig.  A person 
+was searching for the source of a small hydraulic leak.  The leak was located and a request made for the hydraulic pump to 
+be shut down so that the damaged hose could be replaced.  The pump was duly shut down.  Then the person involved placed 
+his index finger (whilst wearing double gloves) over the damaged spot on the hose so as not to lose the location of the leak. 
+
+The person involved was unaware that hydraulic pressure remained on the system following shut down of the pump and that 
+this pressure had actually increased for around two seconds after the pump shut down (owing to back pressure).  Hydraulic 
+fluid burst through the damaged spot on the hose and was injected through the double gloves into the person’s index finger.  
+Surgery was required to find and remove the injected oil from the finger and hand of the person.  
+
+This incident serves as a timely reminder to maintain vigilance and awareness of the very serious potential hazards and risks 
+associated with working with pressurised hydraulic fluid. 
+
+Damaged spot on hydraulic hose 
+
+Major surgery was required to track and remove the injected 
+
+ 
+
+ 
+
+hydraulic oil from the person’s hand 
+
+4  Tumble Dryer Fire Onboard a Vessel 
+
+A member has reported an incident in which there was a small fire inside the drum of a tumble dryer on a vessel offshore.  
+A burning smell was detected on the bridge of the vessel concerned and an investigation into the source was commenced.  
+It was traced to the laundry where a small fire in the drum of a tumble dryer was observed.  The fire was extinguished and 
+the dryer contents removed and doused to cool. 
+
+Investigation revealed the following: 
+
+♦  The dryer had been filled with galley towels by a steward, who then started the drier on a ‘normal +’ temperature cycle 
+
+and left the laundry to carry out other duties; 
+
+♦  Despite established operating procedures, the steward did not return to the laundry on completion of the cycle and it 
+
+was around two hours later that the fire was detected; 
+
+♦  The towels were not the specific colour coded cleaning cloths designated to wipe down the galley surfaces but rather 
+
+oven towels and dish towels; 
+
+♦  The  towels  placed  in  the  dryer  appear  to  have  become  contaminated  with  oils  or  fats  which,  after  being  through  the 
+drying cycle and then remaining in the drum for  around  an hour, allowed the heat to  build up and  led to the start of 
+spontaneous combustion of the towels; 
+
+♦  The steward demonstrated lack of awareness of the established procedure for laundering galley towels/cloths and failed 
+
+to realise the consequences of his actions; 
+
+♦  The  third-party  catering  contractor  had  procedures  for  operating  the  tumble  dryers  but  these  had  not  been  put  into 
+
+practice on the vessel, nor were the catering team fully aware of these procedures; 
+
+ 
+
+♦ 
+
+♦ 
+
+♦ 
+
+♦ 
+
+♦  Control measures and lessons learnt from a previous tumble dryer fire on the same vessel had not been retained owing 
+
+to changes in catering personnel. 
+
+The following actions were taken: 
+
+♦  Vessel  management  should  ensure  that  policy  and  procedures  for  laundry  operations,  particularly  with  regard  to  the 
+
+drying of galley cloths, are fully understood by all catering personnel; 
+
+♦  Adequate and clear instructions for the operation of the laundry and any specific instructions such as for galley cloths, 
+
+payloads and temperatures should be posted in the laundry. 
+
+5  Bell Bottom Door Hydraulic Operating System Failure 
+
+A member has reported the failure of a bell bottom door hydraulic operating system.  The failure occurred while carrying 
+out standard bell recovery operations using the port dive bell on a twin bell system. 
+
+While  attempting  to  close  the  dive  bell  bottom  door,  it  was  noted  that  the  bottom  door  did  not  fully  close  and  that  the 
+bottom door had castellated.  Further attempts were made to close the door fully which exacerbated the situation, resulting 
+in the bottom hatch being jammed more solidly. 
+
+The divers carried out an internal dive bell inspection and found that the hydraulic control system had failed due to hydraulic 
+system oil loss. 
+
+Several unsuccessful attempts to rotate the bottom door were made including topping up the hydraulic oil system tank and 
+also removing sections of the internal hydraulic operating pipework in an attempt to rotate the bottom hatch manually. 
+
+The bottom door was found to have jammed to such  an  extent that the divers were  unable to produce sufficient torque, 
+using the manual tools available in the dive bell, to turn it. 
+
+The  decision  was  made  to  launch  the  starboard  dive  bell  and  effect  diver  recovery  using  the  member’s  ‘through  water 
+transfer’ procedure to the starboard bell which went without incident with all divers successfully returned to the system. 
+
+The cause of the failure was found to be a ferrule which had become detached from a hydraulic pipe in the control system, 
+rendering the bottom door hydraulic system inoperable. 
+
+The  member  noted  that  the individual  operations  of  opening/closing  and  rotation  of  the  bottom  door  were  controlled  by 
+directional  control  valves  (DCVs)  and  that  both  valves  could  be  operated  simultaneously,  so  that  in  essence  both 
+opening/closing and rotation could be carried out at the same time. 
+
+The following corrective actions were taken: 
+
+♦  visual system designed inside the dive bell to show that castellations are in line, to allow for better control by the diver; 
+
+interlock between directional control valves fitted; 
+
+♦  procedure for operating bottom hatch posted locally in bell and in dive control; 
+
+familiarisation, training and exercises improved for dive bell bottom door operation; 
+
+technical description and emergency procedures prepared and posted in dive bell and dive control; 
+
+failure modes and effects analysis (FMEA) reviewed with regard to bottom hatch operation; 
+
+♦  maintenance plan reviewed. 
+
+ 
+
+                  Pump handle                     Gauge         Hydraulic reservoir 
+
+ 
+
+Check plate 
+
+Direction control valves (DCVs) to 
+
+select raiser/lower or rotate 
+
+ 
+
+ 
+
+Actual ferrule and nut from the bell 
+
+ 
+
+6  Near Miss: ROV Fuse Bolt Failure 
+
+A member has reported an incident in which a crew member was narrowly missed by the head of a fuse bolt which had been 
+shot out of a remotely operated vehicle (ROV) manipulator arm at high speed.  It occurred as normal pre-dive checks were 
+being completed on the ROV.  The manipulator arm being tested was cycled and, during the test, the fuse bolt securing the 
+jaws of the manipulator failed.  This caused the head of the bolt to shoot out of the manipulator arm at high speed.  The head 
+of the bolt passed close to an ROV technician who could have been severely injured had it hit him.  There were no injuries. 
+
+The  manufacturer’s  operating  procedures  recommend  that  personnel  stay  clear  of  the  operational  envelope  of  the 
+manipulator  during  functional  testing  on  deck.    However,  owing  to  the  high  levels  of  kinetic  energy  shown  in  this  failure, 
+additional  caution  should  be  exercised,  for  example,  standing  further  back,  cordoning  off  the  area  and  ensuring  that  non-
+essential personnel are clear. 
+
+Further investigation revealed the following: 
+
+♦  The fuse bolt had failed under water during the previous dive; 
+
+♦  The manipulator had been exposed to heavy work during the previous dive and this had led to other components in the 
+
+arm and wrist assembly being damaged sufficiently to lead to this second fuse bolt failure on deck. 
+
+ 
+
+The following actions were taken: 
+
+♦  The ejected fuse bolt was recovered and the manipulator and ROV made ready for dive; 
+
+♦  Additional controls were identified which would prevent a recurrence of this type of incident; 
+
+♦  CCTV footage of the failure was prepared as a safety presentation; 
+
+♦  The manufacturer of the manipulator arm (Schilling Robotics) was informed; 
+
+♦  The manufacturer developed and published a safety bulletin (attached); 
+
+♦  The fuse bolt was subjected to failure analysis to better understand why it failed so dramatically. 
+
+The following further actions are recommended: 
+
+♦  Manual operation of manipulator jaws to be conducted prior to energising hydraulics; 
+
+♦  ROV  personnel  should  ensure  when  completing  deck  checks  on  ROV  manipulators  that  the  arm  is  pointing  away  (or 
+
+even outboard) from personnel and assets in the immediate area; 
+
+♦  Access to the area immediately around ROV should be controlled during pre-dive deck checks. 
+
+ 
+
+ 
+Schilling Safety Bulletin 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+

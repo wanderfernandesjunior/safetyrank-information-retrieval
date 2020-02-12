@@ -1,0 +1,72 @@
+ 
+
+ 
+
+Safety Alert 09 
+
+Shut Down Valve Failure 
+
+ 
+What happened? 
+A recent incident involving the failure of a shut down valve (SDV), and the subsequent 
+failure of two pressure safety valves (PSV), has highlighted issues associated with the 
+selection of SDVs and the need for regular maintenance and testing of SDVs and PSVs. 
+
+The failure occurred after an electrical supply fault caused an emergency shutdown of a 
+gas processing plant.  Upon subsequent start up of the plant and one of the plant’s 
+compressors, an SDV passed on closure allowing the gas pressure to build up in a 
+crossover header between high pressure and low pressure pipework systems.  Another 
+compressor was then started further increasing the pressure.  Two PSVs in the gas line 
+failed to operate at their set pressure and the pressure continued to rise until a rupture disk 
+relieved to flare. 
+
+ 
+What went wrong? 
+The incident investigation found that the SDV failed due to internal damage as a result of 
+the externally actuated valve breaking through an internal stop.  The SDV was an actuated 
+ball valve design with stops internal to the valve.  Internal inspection of the valve found that 
+the stop slot in the ball was damaged allowing the valve to over travel, and the valve seats 
+had been sheared. 
+
+Debris from the damaged SDV was found to have lodged in a downstream PSV which 
+contributed to its failure to activate.  This PSV also showed signs of corrosion and had not 
+been stripped down for an extended period due to failure to carry out planned maintenance.  
+Another downstream PSV partially opened, but then re-seated, failing to fully relieve the 
+increasing gas pressure.  While this PSV had been previously tested, no records of 
+previous strip downs of the valve were found.  In addition, the regular inspection of the 
+SDVs did not include testing to ensure SDVs closed and sealed on actuation. 
+
+ 
+Key Lessons 
+• 
+
+Shut down valves (SDV) and their actuators must be properly selected and sized for 
+their intended service.  For shut down and isolation service, movement of valves is 
+usually limited by stops on their external actuators – it is not normal practice to have a 
+stop pin or key internal to the valve when it is actuated.  Recommended industry 
+practice is for use of external stops for most applications, while positive internal stops 
+are generally only suitable for light duty applications.  Existing SDVs should be 
+reviewed to ensure that the combination of actuator and stops is suitable for the 
+service. 
+
+• 
+
+Pressure safety valves (PSV) should be regularly inspected and tested in accordance 
+with manufacturer’s specifications and relevant Standards.  These inspections should 
+include regular stripping down of the valves, where appropriate. 
+
+Regular inspection and testing of emergency shut down systems should include 
+testing of the final element (i.e. appropriate closure and sealing of the SDV). 
+
+ 
+Contact 
+For further information email alerts@nopsa.gov.au and quote Alert 09 
+ 
+
+• 
+
+ 
+
+ 
+
+

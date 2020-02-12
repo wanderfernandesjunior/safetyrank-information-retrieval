@@ -1,0 +1,115 @@
+ 
+
+ 
+
+ 
+
+Safety Alert 11 
+
+Potential Man-overboard Hazards – Jettison Skids 
+
+ 
+ 
+NOPSA inspectors visiting Mobile Offshore Drilling Units have noted potential man-
+overboard hazards associated with the configuration of explosives magazines stored on 
+jettison skids. 
+ 
+Explosives used in well operations are typically stored within dedicated magazines, which 
+in turn are stored on jettison skids. The jettison skids allow the explosives magazines to be 
+dumped into the sea in the event of a major fire. 
+ 
+ 
+What is wrong? 
+There are a variety of types of jettison skids in use, mounted or configured in a number of 
+ways. NOPSA’s concerns relates to situations where people working on or around those 
+jettison skids are exposed to unacceptable risks of falling overboard. 
+ 
+The type of work may include installation of magazines, handling of explosives and 
+maintenance of the magazine or jettison skid. 
+ 
+Jettison skids are often located outboard of the handrails or edge of the deck, and the 
+magazines are often positioned so that people wanting to open the doors have to climb up 
+to access the door catches. 
+ 
+A poor design may mean that workers are tempted to climb up on the handrail to access 
+the doors – and in many cases there are no barriers or fall protection to prevent them falling 
+overboard if they slip or lose their footing. 
+ 
+The design of the jettison support structure and its location, whether it is sitting inboard or 
+out board of the handrail, has important implication for the safe handling of both the 
+explosives and the magazines. Examples of both good and poor1 design are provided in 
+the attached photographs. 
+ 
+By incorporating human factors considerations into the design, operators can provide safe 
+access for installation, maintenance and general use of explosives magazines and jettison 
+skids.  
+ 
+ 
+ 
+ 
+ 
+
+                                                 
+1 Improvements have already been made to several installations including the one identified as poor design 
+
+Key Lessons 
+
+•  Equipment that is “added on” tends not to receive adequate level of risk assessment 
+
+prior to installation. 
+
+•  Mitigating one risk (having explosives on board during a fire) may increase other 
+
+risks (falling over board) if not properly planned. 
+
+ 
+
+ 
+
+•  The most practical consideration is to incorporate human factors in the design of 
+these platforms by including safe access, removing the need to climb or stretch, and 
+reducing the potential for man-overboard situations during the use, inspection and 
+maintenance of the skids.  
+
+ 
+ 
+Recommendations 
+ 
+Facility operators should review their current jettison skid arrangements and improve the 
+structure and/or system of work as appropriate. Operators and contractors should also 
+review the work instructions or JSA’s2 related to these tasks to ensure hazards are properly 
+identified and managed. 
+ 
+The Petroleum (Submerged Lands) (Management of Safety on Offshore Facilities) 
+Regulations 19963 address design issues under regulation 16. 
+ 
+ 
+Examples of jettison skid installations 
+ 
+Good Design 
+ 
+
+Poor design 
+ 
+
+ 
+
+No easy way to climb up to retrieve 
+explosives. No fall protection. 
+
+ 
+Explosives can be retrieved 
+standing on main-deck. 
+ 
+ 
+ 
+ 
+ 
+
+                                                 
+2 JSA – Job Safety Analysis 
+3 
+http://www.comlaw.gov.au/ComLaw/Legislation/LegislativeInstrumentCompilation1.nsf/current%5Cbytitle/7EDAC4B06D19CA67CA25706
+000167272?OpenDocument&mostrecent=1
+
+

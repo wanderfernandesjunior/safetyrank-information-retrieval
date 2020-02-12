@@ -1,0 +1,397 @@
+AB 
+
+ 
+
+IMCA Safety Flash 06/09 
+
+Safety Flash 
+
+May 2009 
+
+These  flashes  summarise  key  safety  matters  and  incidents,  allowing  wider  dissemination  of  lessons  learnt  from  them.    The  information  below  has  been 
+provided in good faith by members and should be reviewed individually by recipients, who will determine its relevance to their own operations. 
+
+The effectiveness of the IMCA safety flash system depends on receiving reports from members in order to pass on information and avoid repeat incidents.  
+Please consider adding the IMCA secretariat (imca@imca-int.com) to your internal distribution list for safety alerts and/or manually submitting information 
+on specific incidents you consider may be relevant.  All information will be anonymised or sanitised, as appropriate. 
+
+A  number  of  other  organisations  issue  safety  flashes  and  similar  documents  which may  be  of  interest  to  IMCA  members.   Where  these  are  particularly 
+relevant, these may be summarised or highlighted here.  Links to known relevant websites are provided at www.imca-int.com/links   Additional links should 
+be submitted to webmaster@imca-int.com 
+
+ 
+
+1  Super Puma Helicopter Accident – Initial Report 
+
+The  UK  Air  Accidents  Investigations  Branch  (AAIB)  has  issued  its  initial  report  into  the  recent  Super  Puma  helicopter 
+accident. 
+
+Although  this  report  relates  to  a  North  Sea  incident,  the  relevant  issues  and  the  information  regarding  the  gearbox 
+monitoring and warning systems on the helicopter type mentioned could apply anywhere. 
+
+2  Fatality During Lifting Operations 
+
+A member has reported an incident in which a fatality occurred during lifting operations.  The incident occurred on a drillship 
+while attempting to land a christmas tree (XT), using one of the vessel cranes, on to the XT trolley (see general view below).  
+It was important to centralise the XT, which weighed 50 tons in air, on to the trolley. 
+
+Centralising  guides  were  in  place  on  the  trolley  but  lifting  conditions  (heavy  load,  near  vertical  crane  boom  position  and 
+movements of floating unit) required significant planning and supervision for this operation. 
+
+The tree was approximately 0.6m above the trolley for final positioning when the main hoist hydraulic motor of the crane 
+failed catastrophically.  The 50 ton XT fell on to the trolley and as a result a further item known as the ‘tea cosy’, weighing 
+335 kg, came loose from its pedestal on top of the XT and bounced off the XT on its way down to the deck.  A member of 
+the crew supervising the operation was struck by the tea cosy and died instantly. 
+
+Tea cosy 
+ 
+
+XT trolley 
+hole cover 
+ 
+
+Short XT 
+trolley guide 
+ 
+
+110 ton XT 
+trolley 
+ 
+
+Taglines 
+(ropes) 
+ 
+
+Tall XT 
+trolley guide 
+ 
+
+XT trolley 
+skid rails 
+ 
+
+ 
+
+ 
+
+Tea cosy 
+pedestal 
+ 
+
+Position of victim 
+ 
+
+Tea cosy final position 
+ 
+
+ 
+
+Following investigation, the main causes of the incident were identified as follows: 
+
+♦  Failure in crane control: 
+
+–  A  week  before  the  accident  the  main  hoist  hydraulic  motor  was  replaced  by  an  incorrectly  sized  motor  available 
+onboard the vessel.  Though both motors look very similar and can be installed in the same position they have very 
+different torque characteristics and are designed for different purposes 
+
+–  There was no in-depth investigation performed following the first hydraulic motor failure a week before 
+–  The  hydraulic  motor  was  changed  without  reference  to  the  crane  manufacturer’s  manuals  (which  were  available 
+
+onboard) 
+
+–  A review of the preventive  maintenance system used onboard identified  defects  in spare traceability, maintenance 
+
+plans and personnel competency and training; 
+
+♦  Failures in operational control: 
+
+–  The tea cosy was not fully secured on its pedestal.  Under ‘normal’ lifting conditions, full securing of the tea cosy 
+was not considered necessary; the sudden shock due to the free fall of the entire XT had not been identified as a 
+hazard 
+Free fall of XT assembly was not considered in the risk assessment 
+
+– 
+–  The victim was standing adjacent to the XT during the final landing; though he was co-ordinating the operation he 
+
+had not been involved in the pre-job meeting. 
+
+The following recommendations and corrective actions were proposed: 
+
+♦  Ensure all are aware of the possibility of inappropriate hydraulic motors interchange on crane SEATRAK Model 7228; 
+
+♦  Ensure full assessment during lifting/crane audits of onboard preventive maintenance system; 
+
+♦ 
+
+Improve  thoroughness  of  risk  assessments  in  order  to  correctly  identify  all  hazards.    Results  and  findings  must  be 
+communicated during pre-job meetings to all persons involved in operation; 
+
+♦  The design process and hazard identification study (HAZID) review of the XT should not only focus on final use of the 
+product  but  also  upon  packaging,  fastening,  lifting,  transportation  and  installation  conditions  and  hazards.    This  should 
+include design of the tea cosy pedestal and fastening method of all non permanently attached items; 
+
+♦  Redesign and re-engineering of the centralising guides on the XT trolley; 
+
+♦  More careful attention to the handling of heavy lifts on a drillship with a near vertical crane boom. 
+
+3  Failed Nipple on Bolt Tensioning Jack 
+
+A  member  has  reported  an  incident  in  which  a  nipple  failed  on  a  bolt  tensioning  jack.    A  diver  was  carrying  out  bolt 
+tensioning on a 24" pipeline being connected to a pipeline end manifold (PLEM) flange when the nipple flew out of the jack 
+whilst the system was pressurised and hit the diver.  There were no injuries. 
+
+On investigation it was noted that an incorrect bolt tensioning jack assembly had taken place when a nipple intended for the 
+interconnecting  whips  had  been  installed  instead  of  the  recommended  correct  one.    The  difference  in  thread  size  is  quite 
+minimal but can be easily identified visually by the different size orifice.  Whenever the incorrect nipple comes loose through 
+constant utilisation, this difference is sufficient for it to be forced out when hydraulic pressure is applied to the system. 
+
+It  is  recommended  that  all  nipples  on  used  bolt  tensioning  jacks/interconnecting  whips  should  be  removed  and  visually 
+checked  to  ensure  that  the  correct  fitting  is  in  place,  and  replaced  as  necessary,  followed  by  a  maximum  system  pressure 
+test. 
+
+Nipple shown loose 
+
+ 
+
+Correct adapter 
+
+ 
+
+ 
+
+ 
+
+ 
+Initial Report 
+ 
+ 
+ACCIDENT 
+
+Aircraft Type and Registration:  
+ 
+No & Type of Engines:  
+ 
+Year of Manufacture:  
+ 
+Date & Time (UTC):  
+ 
+Location:  
+ 
+Type of Flight:  
+ 
+Persons on Board: 
+ 
+Injuries: 
+ 
+Nature of Damage:  
+ 
+Commander’s Licence:  
+ 
+Commander’s Age:  
+ 
+Commander’s Flying Experience:  
+ 
+ 
+ 
+Information Source:  
+ 
+ 
+
+AAIB Ref:  EW/C2009/04/01 
+
+Eurocopter AS332L2 Super Puma, G-REDL 
+
+2 Turbomeca Makila 1A2 turboshaft engines 
+
+2004  
+
+1 April 2009 at 1255 hrs 
+
+Approximately 11 miles north-east of Peterhead, Scotland 
+
+Commercial Air Transport (Passenger) 
+ 
+Crew -   2 
+ 
+ 
+Crew -   2        (Fatal)       Passengers -   14      (Fatal)      
+
+Passengers -    14 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+
+Helicopter destroyed 
+
+Airline Transport Pilot's Licence  
+
+31 years 
+
+2,575 hours (of which 1,870 were on type) 
+Last 90 days - 96 hours 
+Last 28 days - 37 hours 
+
+AAIB Field Investigation 
+
+The  helicopter  was  operating  a  return  scheduled  passenger  flight  from  Aberdeen  to  the  Miller  Oil 
+
+Platform, situated in the North Sea approximately 145 nm north-east of Aberdeen.  When it arrived 
+from  its  previous  flight  to  the  Bruce  Platform,  approximately  190  nm  north-east  of  Aberdeen,  a 
+‘rotors running’ crew change was carried out.  The helicopter was serviceable except for a deferred 
+defect  affecting  a  part  of  its  ice  detection  system.    The  daily  in-flight  checks  had  already  been 
+completed  satisfactorily  by  the  off-going  crew.    The  helicopter  was  refuelled,  the  passengers 
+boarded,  and  it  lifted  off  at  1040  hrs.    The  helicopter  landed  on  the  Miller  platform,  after  an 
+uneventful  flight,  at  1149  hrs,  where  it  was  refuelled  again  with  the  rotors-running.    Fourteen 
+passengers  boarded  the  helicopter  for  the  return  flight  to  Aberdeen  when  the  refuelling  was 
+complete.    The  weather  conditions  were  benign  with  light  south  to  south-easterly  winds,  good 
+
+visibility  with  generally  clear  skies  but  with  occasional  broken  cloud  at  5,000  to  6,000  ft.    Flying 
+conditions were reported as smooth and the sea was calm. 
+
+The helicopter lifted from the Miller Platform at 1203 hrs and climbed to 2,000 ft, tracking inbound 
+
+towards Aberdeen.  Recorded information on the combined Cockpit Voice and Flight Data Recorder 
+
+(CVFDR)  shows  that  the  crew  were  engaged  in  routine  cockpit  activities  and  there  were  no 
+
+operational  abnormalities.    At  1254  hrs  the  co-pilot  made  a  routine  call  on  the  company  operating 
+
+frequency  stating  that  the  helicopter  was  serviceable  and  the  ETA  was  1314  hrs.    Twelve  seconds 
+
+later one of the pilots made  a brief  MAYDAY call on the ATC frequency.  This was followed by a 
+
+similar  call,  that  included  some  position  information,  from  the  other  pilot.    The  radar  controller  at 
+
+Aberdeen acknowledged the MAYDAY call and tried unsuccessfully to contact the crew of G-REDL.  
+
+He then asked the crew of another helicopter, outbound on a similar routing, to examine the sea in 
+the area of the last radar position. 
+
+Recorded  radar  information  showed  the  aircraft  flying  inbound  towards  Aberdeen  at  2,000  ft, 
+
+climbing momentarily to 2,200 ft and then turning right and descending rapidly.  Surface visibility 
+
+was good and an eye witness, working on a supply vessel approximately 2 nm from the accident site, 
+
+heard the helicopter and saw it descend rapidly before it hit the surface of the sea.  Immediately after 
+
+impact he saw the four main rotor blades, still connected at their hub, strike the water.  Around this 
+
+time, he also heard two bangs close together.  He immediately raised the alarm and the ship turned 
+
+towards the accident site, which by now was marked by a rising column of grey then black smoke.  
+
+The  ship  launched  a  fast  rescue  boat  whilst  making  way  towards  the  scene.    The  crew  of  the  fast 
+
+rescue boat and the helicopter arrived promptly on the scene to discover an area of disturbed water, 
+
+roughly 150 m in diameter containing debris from the helicopter.  Other search and rescue vessels, 
+
+aircraft  and  helicopters  arrived  on  scene  within  40  minutes.    All  persons  on  board  were  fatally 
+injured. 
+
+The Air Accidents Investigation Branch (AAIB) was notified of the accident within minutes and a 
+
+team of inspectors, including engineers, pilots and flight recorder specialists deployed to Aberdeen 
+
+that  evening.    In  accordance  with  established  International  arrangements  the  Bureau  d'Enquetes  et 
+d'Analyses Pour la Securitie de l'Aviation Civile (BEA), representing the State of Manufacture of the 
+helicopter,  and  The  European  Aviation  Safety  Agency  (EASA),  the  Regulator  responsible  for  the 
+certification and continued airworthiness of the helicopter, were informed of the accident.  The BEA 
+appointed an Accredited Representative to lead a team of investigators from the BEA, Eurocopter - 
+the  helicopter  manufacturer,  and  Turbomeca  -  the  engine  manufacturer.    The  EASA  and  the  UK 
+Civil Aviation Authority also provided assistance to the AAIB team. 
+
+Floating wreckage from the helicopter was brought ashore towards the end of the search and rescue 
+
+phase.  As a priority, the CVFDR was located in the debris field and transported to the AAIB as soon 
+
+as it was raised from the sea bed on Sunday 5 April 2009.  By Monday 6 April 2009 the helicopter 
+
+fuselage with the engines and main rotor gear box attached, the separated rotor head with the main 
+
+rotors  blades  still  attached  and  the  separated  tail  boom  had  been  recovered  from  the  sea  bed  and 
+
+transported  to  the  AAIB  facilities  at  Farnborough,  Hampshire.    The  CVFDR  was  successfully 
+
+downloaded  at  the  AAIB  and  contained  24  hours  of  flight  data  and  one  hour  of  cockpit  voice 
+
+recording.    A  large  number  of  parameters  were  recorded  including  engine  data  and  some  system 
+
+warnings  which  are  still  being  analysed.    The  CVFDR  recording  ceased  just  prior  to  the  first 
+MAYDAY transmission. 
+
+In  common  with  similar  helicopters  operating  in  the  North  Sea,  the  helicopter  was  additionally 
+
+equipped  with  a  Health  and  Usage  Monitoring  System  (HUMS),  which  comprises  a  system  of 
+
+sensors around the engines, airframe and drive train.  Recorded information includes vibration levels 
+
+together with gearbox chip detection from a series of magnetic plugs.  The data accumulated during 
+
+helicopter operations is transferred, usually on a daily basis, to the operator’s ground-based computer 
+
+system.    The  data  is  then  subjected  to  mathematical  processes  that  establish  basic  signatures  and 
+
+enable trends to be monitored for individual components.  The HUMS data for the day’s operation, 
+
+including the accident flight, has also been recovered.  As the result of the discovery of a particle on 
+
+the main rotor gearbox epicyclic module magnetic chip detector on 25 March a daily inspection of 
+
+the epicyclic gearbox magnetic chip detector was initiated.  Also, the HUMS data was downloaded 
+
+and analysed each time the helicopter returned to its base at Aberdeen for the next 25 flying hours.  
+No further abnormalities were identified during this period.  
+
+Examination of the wreckage indicates that the accident occurred following a catastrophic failure of 
+
+the  main  rotor  gearbox  (MGB).    This  resulted  in  the  detachment  of  the  main  rotor  head  from  the 
+
+helicopter and was rapidly followed by main rotor blade strikes on the pylon and tail boom, which 
+
+became severed from the fuselage.  It is apparent that there was also a rupture in the right hand (No2) 
+
+engine  casing,  in  the  plane  of  the  second  stage  power  turbine.    This  is  currently  believed  to  be  a 
+
+secondary  feature.    Investigations  are  continuing  in  order  to  understand  completely  the  accident 
+sequence.  
+
+The  investigation  has  so  far  revealed  that  the  MGB  had  suffered  from  a  major  failure  within  the 
+epicyclic module.  This is supported by HUMS data; however, this is not yet fully understood.  The 
+examination of the MGB is continuing in conjunction with detailed analysis of the HUMS and other 
+recorded information.   
+
+Based  on  the  initial  findings  of  the  investigation  the  following  three  Safety  Recommendations  are 
+made: 
+
+Safety Recommendation 2009-048 
+
+It  is  Recommended  that  Eurocopter  issue  an  Alert  Service  Bulletin  to  require  all  operators  of 
+
+AS332L2  helicopters  to  implement  a  regime  of  additional  inspections  and  enhanced  monitoring  to 
+ensure the continued airworthiness of the main rotor gearbox epicyclic module. 
+
+Safety Recommendation 2009-049 
+
+It is Recommended that the European Aviation Safety Agency (EASA) evaluate the efficacy of the 
+
+Eurocopter programme of additional inspections and enhanced monitoring and, when satisfied, make 
+
+the  Eurocopter  Alert  Service  Bulletin  mandatory  by  issuing  an  Airworthiness  Directive  with 
+immediate effect. 
+
+Safety Recommendation 2009-050 
+
+It  is  Recommended  that  Eurocopter  improve  the  gearbox  monitoring  and  warning  systems  on  the 
+AS332L2 helicopter so as to identify degradation and provide adequate alerts. 
+
+ 
+
+

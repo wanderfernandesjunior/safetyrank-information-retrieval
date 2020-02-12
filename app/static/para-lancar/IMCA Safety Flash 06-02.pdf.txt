@@ -1,0 +1,196 @@
+AB
+
+ 
+
+IMCA Safety Flash 06/02 
+
+July 2002 
+
+These  flashes  summarise  key  safety  matters  and  incidents,  allowing  wider  dissemination  of  lessons  learned  from  them.    The  information  below  has  been 
+provided in good faith by members and should be reviewed individually by recipients, who will determine its relevance to their own operations. 
+
+The effectiveness of the IMCA safety flash system depends on receiving reports from members in order to pass on information and avoid repeat incidents.  
+Please consider adding the IMCA secretariat (imca@imca-int.com) to your internal distribution list for safety alerts and/or manually submitting information 
+on specific incidents you consider may be relevant.  All information will be anonymised or sanitised, as appropriate. 
+
+A  number  of  other  organisations  issue  safety  flashes  and  similar  documents  which  may  be  of  interest  to  IMCA  members.    Where  these  are  particularly 
+relevant, these may be summarised or highlighted here.  Links to known relevant websites are provided at www.imca-int.com/links   Additional links should 
+be submitted to webmaster@imca-int.com 
+
+ 
+
+Dynamic Positioning (DP) Blackout Incident 
+
+We  have  received  the  following  information  from  a  member  regarding  a  DP  blackout  incident  on  one  of  its  vessels.  
+This safety flash outlines the incident, the learnings from the incident and the member’s recommendations. 
+
+1  Operational Status 
+
+At the time of the incident, the member’s vessel was engaged in routine saturation diving operations and all the systems were 
+operating normally.  The weather was good, well within the limits for safe diving operations.  There was a 21 knot wind from 
+the south east and a 0.5m swell running.  The dive teams had just completed an on-bottom hand over.  An ROV was also at 
+depth with a minor entanglement in some soft line. 
+
+2  The Incident 
+
+At 02:55 hrs power from Board A to the Starboard bell was lost. Board B was selected.  Numerous Starboard bell alarms 
+activated.    Some  seconds  later  at  02:56  hrs,  the  vessel  suffered  a  brief  but  complete  loss  of  electrical  power  to  all  ship’s 
+systems, an event known in the industry as a ‘black ship’ condition. 
+
+All  vessel  systems  that  were  powered  from  the  vessel’s  power  management  system  (PMS)  were  lost  due  to  the  power 
+failure.  Some systems that should have been protected by uninterruptable power supplies (UPSs) also failed. 
+
+Some two minutes later as power and power management was returning, an azimuth thruster was restarted by the DPO.  
+A further two minutes elapsed before a tunnel thruster started.  With propulsion now available fore and aft, station keeping 
+capability  returned.    At  03:07  hrs,  control  of  the  vessel  was  regained  and  by  03:11  hrs,  all  services  had  been  restored,  all 
+generators were on line, all thrusters running and selected to DP.  The divers were successfully returned to the bells and 
+recovered to the surface. 
+
+By  a  combination  of  the  efforts  of  the  ship’s  crew  and  the  automatic  functions  of  the  PMS,  power  was  quickly  and 
+progressively restored to the vessel’s systems. 
+
+Initial  alarms  on the  Bridge  included loss  of  power management  and loss  of  propulsion  followed quickly by loss of  power.  
+The loss of power in turn caused loss of communications, lighting, clocks, positioning systems and steering.  Alarms for ‘dive 
+warning’ and ‘abort dive’ were activated in sequence by the DPO. 
+
+During  the  period  between  the  blackout  and  regaining  control  of  the  vessel,  the  vessel  had  moved  some  190m  from  its 
+original position at the work site. 
+
+3  Conclusions as to Cause 
+
+1.13.1  Technical 
+
+The  immediate  causes  of  the  incident  have  been  identified  as  technical  in  nature.    Management  system  failures  were  also 
+found to have contributed to the incident. 
+
+The technical failures that triggered the events that blacked out the vessel have been identified as: 
+
+ 
+
+  Erroneous  signals  were  issued  from  the  PLC  that  manages  the  power  distribution  onboard  the  vessel.  
+The erroneous signals were the result of physical degradation of the PLC’s backplane through which all signals 
+to and from the unit pass.  This physical degradation definitely included loose contacts, dry joints and possibly 
+also cracked and broken tracks in the circuit board itself.  All of these physical substandard conditions can be 
+attributed to ageing of the backplane. 
+
+  Terminal resistors on the printed circuit boards within the PLC had been snipped but not fully removed.  It is 
+likely  that  the  attempted  isolation  of  these  resistors  was  done  at  the  time  the  vessel  was  commissioned.  
+With the  natural  vibration  of  the  ship,  these  resistors  were  intermittently  contacting  the  remainder  of  the 
+circuit  boards  of  which  they  were  originally  a  part.    The  effect  of  this  was  to  corrupt  the  data  stored  in  the 
+system that tells the system the status of the machinery on the vessel. 
+
+  Wiring within the PLC unit was incorrect resulting in reverse polarity in the series of communications cables.  
+The effect of this would have been to stress the electronic components within the system though no evidence 
+was  found  that  this  stressing  had  caused  failure  in  any  components.    The  reversed  polarity  could  also  have 
+caused corruption of the telegram signals between boards contributing to the corruption of data. 
+
+It was found that US1 detected a self-fault and initiated a change over. US2 took over from US1 as the master PLC. 
+US1 shut down as it was receiving inconsistent data and interpreted this as a fault within itself.  This occurred as a 
+result of the corrupted signals issued from the faulty backplane.  US2 took over as it was designed to do. 
+
+Once US2 took over from US1, the combination of erroneous signals and corrupt data caused the software to open 
+the  Port  230V  secondary  breaker  and  then  to  take both  generators  off  the  6kV  board  and  open  the  6kV  bus  tie 
+more or less simultaneously.  This action left the vessel without power resulting in the blackout. 
+
+1.23.2  Management Systems 
+
+3.2.1  Prior History 
+
+The  investigation  found  that  there  was  a  significant  history  of  unexplained  starting  and  stopping  of  machinery 
+onboard the vessel going back over many years though the significance of this history was not recognised either by 
+offshore or onshore management. 
+
+In hindsight, it  is  clear that the previous  events were  significant  in  that they  were indicating  a  fault  condition that 
+could, and ultimately did result in unsafe conditions.  However, prior to the blackout and subsequent investigation, 
+personnel operating the vessel believed that the FMEAs of the vessel’s systems and the classification of the vessel 
+confirmed that no single point failure could introduce unsafe conditions. 
+
+1.1.23.2.2 
+
+FMEA, Trials & Audits 
+
+The  DP  FMEA  for  the  vessel  has  been  reviewed  as  part  of  the  investigation  and  was  found  to  be  inadequate.  
+This had not been identified either internally or in the process of the many trials programmes and audits which the 
+vessel has undergone since the FMEA was written in 1991. 
+
+1.1.33.2.3 
+
+Planned Maintenance 
+
+1.1.43.2.4 
+
+Training and Procedures 
+
+The investigation found that the UPSs onboard the vessel are not included in the planned maintenance system.  
+
+Until the incident, it had been universally considered that a blackout condition was not possible onboard the vessel 
+due  to  the  configuration  of  the  PMS.    Consequently,  the  crew  had  not  trained  to  deal  with  such  an  event,  no 
+procedures were in place and no back-up power available.  Given the very sudden and comprehensive nature of the 
+blackout,  the  crew  responded  in  a  professional  manner  to  the  event,  normalising  the  situation  without  injury  or 
+significant damage. 
+
+4  Recommendations 
+
+As  a  result  of  the  incident  and  the  findings  of  the  investigation,  the  company  involved  has  identified  a  number  of 
+recommendations which are set out below: 
+
+i) 
+
+The  existing  PMS,  which  was  installed  some  years  ago  and  is  becoming  obsolete  should  be  replaced  with  a  more 
+modern system.  The learning from this incident should be incorporated in the specification for the new system. 
+
+Safety Flash 
+
+ 
+
+ii) 
+
+Planned maintenance routines should be revised to include the UPSs onboard.  Pre-operational checks should include 
+testing of relevant UPSs.  The UPSs should be reconfigured so that power is supplied to the consumer through the UPS 
+at all times.  Primary and secondary monitoring should also be installed on all UPSs. 
+
+iii)  The scope of Dynamic Positioning FMEAs for other vessels in the fleet should be reviewed to ensure that all features 
+
+affecting the redundancy capabilities of each vessel, including power management, are included in the analysis. 
+
+iv)  The scope of Diving System FMEAs for other vessels in the fleet should be reviewed to ensure that all features affecting 
+
+the redundancy capabilities of the diving system, including power management are included in the analysis. 
+
+v) 
+
+The impact of ageing on critical components on other vessels in the fleet should be considered as part of FMEA (or 
+FMECA) and maintenance/upgrade system requirements adjusted accordingly.  The age profile of existing safety critical 
+electronic systems should be mapped. 
+
+vi)  The adequacy of the annual DP trials protocol should be reviewed to ensure that they verify the effectiveness of the 
+redundancy provisions associated with power management and its criticality in respect of station keeping in accordance 
+with revised FMEAs. 
+
+vii)  A  review  should  be  undertaken  to  determine  if  the  timing  mechanisms  of  the  various  systems  onboard  can  be 
+
+synchronised. If this is practical, it should be implemented. 
+
+viii)  Diving  emergency  and  contingency  procedures  to  be  reviewed  as  a  result  of  this  incident  and  familiarisation  of 
+
+personnel with emergency power options emphasised. 
+
+ix)  The PMS/DP failure/maintenance records on the other vessels in the fleet should be reviewed to identify if any have 
+
+similar history that could now indicate common failure modes. 
+
+x) 
+
+Existing records of non-conformity (NCRs) should be reviewed to identify any trends that may suggest common fault 
+modes in safety critical equipment.  Consideration should be given to establishing a technical review panel to evaluate 
+equipment related non-conformity reports. 
+
+xi)  Black box recording of fault detection and logging should be established for all key safety parameters.  This would assist 
+
+in identifying intermittent faults prior to incidents and the analysis of causal factors after incidents. 
+
+xii)  Policy in respect of supervision of work on safety critical systems should be reviewed with a view to improving control 
+and addressing the potential for poor workmanship.  This should include third party activities and should apply to new 
+systems and change or modification of existing systems. 
+
+

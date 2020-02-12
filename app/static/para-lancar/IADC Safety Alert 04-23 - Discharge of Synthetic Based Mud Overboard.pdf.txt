@@ -1,0 +1,65 @@
+Safety Alert 
+
+From the International Association of Drilling Contractors 
+
+ 
+
+ALERT 04 – 23 
+ 
+
+DISCHARGE OF SYNTHETIC BASED MUD OVERBOARD 
+
+ 
+WHAT HAPPENED: 
+ 
+Approximately  60  barrels  of  Synthetic  Based  Mud  (SBM)  was  discharged  overboard  when  the  trip  tank 
+overflowed. 
+ 
+WHAT CAUSED IT: 
+ 
+While tripping out of the hole and arriving at the BHA, a flow check was performed prior to pulling BHA through 
+the  BOPs.    After  no  flow  was  confirmed  the  trip  tank  was  filled  by  the  mud  mixing  pump.    When  an  alarm 
+sounded in the Driller’s shack, the AD acknowledged the alarm but did not notice that the alarm was sounding 
+for a full trip tank.  The trip tank continued to fill until it overflowed, causing approximately 135 barrels of SBM 
+to overflow the boundary containment and allowing approximately 60 barrels to be discharged overboard. 
+ 
+CORRECTIVE ACTIONS:  To address this incident, this company issued the following: 
+ 
+Directives  
+ 
+•  The Driller is to ensure that there is proper monitoring of all mud transfers.  
+•  Ensure  that  all  visual  and  audible  alarms  on  all  mud  control  and  return  systems/tanks  are  functioning 
+
+• 
+
+properly.  
+Inspect tank overflow return lines on all similar tanks to ensure they are of sufficient diameter to cope with 
+the flow rate of fluid in the event of an overflow.  
+
+•  Ensure that mud loggers are correctly monitoring level alarms and that they communicate any variations to 
+
+•  Rigs  are  to  verify  that  any  alarm  specific  to  mud/volume/flow/gain/loss/trip  tank  are  separated  from  any 
+
+•  The alarm should be readily distinguishable from others either by sound or visual indication, whichever is 
+
+the Driller.  
+
+other “common alarm”.  
+
+applicable. 
+
+ 
+
+The Corrective Actions stated in this alert are one company’s attempts to address the incident, and do not 
+
+necessarily reflect the position of IADC or the IADC HSE Committee. 
+
+This material is presented for information purposes only.  Managers & Supervisors should  
+
+evaluate this information to determine if it can be applied to their own situations and practices. 
+
+Copyright © 2004 International Association of Drilling Contractors.  All Rights Reserved 
+
+Issued June 2004 
+
+

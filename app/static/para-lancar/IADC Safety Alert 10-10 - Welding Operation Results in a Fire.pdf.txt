@@ -1,0 +1,83 @@
+Safety Alert 
+
+        From the International Association of Drilling Contractors 
+
+ 
+ALERT 10 – 10 
+ 
+
+WELDING OPERATION RESULTS IN A FIRE 
+
+ 
+WHAT HAPPENED: 
+ 
+The rig was in the shipyard for upgrades and repair.  At the time 
+of the fire, the shipyard crew was preparing leg #3 chord-B for 
+the  installation  of  an  additional  section  of  leg.    The  shipyard 
+crew was working inside a welding tent that was made of light-
+weight tarps.  The workers were grinding the mating surface of 
+the  leg  when  sparks  created  by  the  grinder  ignited  the  tent 
+surrounding the leg.  The shipyard fire watchman attempted to 
+extinguish  the  fire  using  the  dry  powder  fire  extinguisher while 
+the fire fighting team connected the main deck fire hose to the 
+manifold and sent it up to him.  Once the fire watchman had the 
+hose,  the  Crane  Operator  (Fire  Team  Leader)  opened  the  fire 
+hydrant  valve  on  the  main  deck.    He  found  that  there  was  no 
+water  pressure  at  the  hydrant  so  he  went  down  to  the  Rig 
+Engineer’s  area  and  manually  opened  the  fresh  water  pump 
+valve linking it to the fire manifold on the main deck.  With water 
+to the hose, the fire was successfully extinguished. 
+ 
+WHAT CAUSED IT: 
+ 
+  The  JSA  obtained  for  the  task  was  generic  for  “general 
+welding  and  cutting”  (generic  JSA).    A  JSA  for  gouging  at 
+leg #3 chord-B was not completed, therefore the hazard of 
+gouging with a light-weight tarp tent was not recognized.  
+
+  Safety-critical  equipment  was  not  connected/online.    The 
+fire  pump  could  not  automatically  kick  in  because  the  fire 
+pump  circuit  breaker  was  being  used  for  the  fresh  water 
+pump on the jetty.  
+
+  Supervisory  personnel  onboard  the  rig  didn’t  understand 
+their  roles  and  responsibilities  for  “Control  of  Work”.    The 
+gouging  activity  was  not  reviewed  prior  to  the  task 
+commencing.    The  risks  of  using  a  non-fire  retardant  tent 
+were not recognized and properly controlled. 
+
+  Recovery  measures  were  inadequate  (fire  hydrant  not 
+
+ready for automatic service). 
+
+ 
+ 
+CORRECTIVE ACTIONS:  To address this incident, this company did the following: 
+ 
+  Generic JSA’s are an aid only and should not be relied upon for all tasks.  Each task must have its own 
+
+  Safety-critical equipment should not be disabled without a Permit To Work (PTW) approved by the 
+
+job-specific JSA. 
+
+Senior Toolpusher. 
+
+ 
+
+The Corrective Actions stated in this alert are one company’s attempts to address the incident,  
+
+and do not necessarily reflect the position of IADC or the IADC HSE Committee. 
+
+This material is presented for information purposes only.  Managers & Supervisors should 
+
+evaluate this information to determine if it can be applied to their own situations and practices 
+
+Copyright  2005 International Association of Drilling Contractors All rights reserved. 
+
+Issued April 2010 
+
+ 
+
+ 
+
+

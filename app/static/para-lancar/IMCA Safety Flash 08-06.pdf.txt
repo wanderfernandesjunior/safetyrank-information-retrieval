@@ -1,0 +1,86 @@
+AB
+
+ 
+
+IMCA Safety Flash 08/06 
+
+June 2006 
+
+These  flashes  summarise  key  safety  matters  and  incidents,  allowing  wider  dissemination  of  lessons  learned  from  them.    The  information  below  has  been 
+provided in good faith by members and should be reviewed individually by recipients, who will determine its relevance to their own operations. 
+
+The effectiveness of the IMCA safety flash system depends on receiving reports from members in order to pass on information and avoid repeat incidents.  
+Please consider adding the IMCA secretariat (imca@imca-int.com) to your internal distribution list for safety alerts and/or manually submitting information 
+on specific incidents you consider may be relevant.  All information will be anonymised or sanitised, as appropriate. 
+
+A  number  of  other  organisations  issue  safety  flashes  and  similar  documents  which  may  be  of  interest  to  IMCA  members.    Where  these  are  particularly 
+relevant, these may be summarised or highlighted here.  Links to known relevant websites are provided at www.imca-int.com/links   Additional links should 
+be submitted to webmaster@imca-int.com 
+
+ 
+
+1  Trapped Pressure Release Incident 
+
+A  members  has  reported  a  trapped  pressure  release  incident  in  a  dive  system  transfer  chamber.    The  incident  occurred 
+onboard a diving support vessel undergoing commissioning of its saturation diving system following a dry dock.  The system 
+was compressed to an equivalent internal depth of 333 msw and then returned to ambient surface pressure. 
+
+A saturation diver entered the dive system transfer chamber, less than an hour after the system had been returned to surface 
+pressure, and decided to flush the toilet system as there was a strong smell of sewage.  On operating the bulkhead valve to 
+evacuate the holding cylinder no movement of the contents was heard, so the diver assumed that there was no pressure in 
+the system and opened the ball valve next to the WC.  In doing so he inadvertently operated the valves out of sequence.  
+The external ball valve had not been checked and was in the closed position.  Trapped pressure inside the holding cylinder 
+was then released into the chamber via the WC, back-flushing the contents of the holding cylinder – raw sewage – into the 
+chamber  with  it,  covering  the  diver.    The  force  of  the  trapped  pressure,  which  could  have  been  as  much  as  30  bar,  was 
+sufficient to lift the toilet seat and fracture it. 
+
+The diver – following a shower and change of clothes – visited the medic, who confirmed no medical action was required. 
+
+2  Serious Injury During Pipestalk Rolling Operation 
+
+A member has reported an incident that occurred recently during planned, routine pipe stalk rolling operations at a spool 
+base.  The incident resulted in serious injuries to one person. 
+
+At a fabrication facility, lengths of pipe are welded into 1 km long pipe stalks, which 
+are stored on pipe racks prior to spooling onto a pipelay vessel.  The pipe stalks can, 
+where  required,  be  repositioned  by  rolling  them  across  the  pipe  racks.    This  is  a 
+routine  operation,  involving  a  minimal  amount  of  lifting  at  the  mid-point  of  the 
+pipe stalk to induce a rolling momentum. 
+
+The injured person was assisting with planned pipe stalk rolling operations when he 
+became  entangled  in  a  tag-line  that  subsequently  trapped  and  held  him  against  the 
+rolling pipe stalk.  He was carried over the top of the rolling pipe stalk and crushed 
+between that pipe stalk and the one adjacent to it. 
+
+As a result, he sustained fractures to both legs and serious internal injuries.  First aid 
+was administered on site and he was immediately transported to hospital. 
+
+Investigation into the incident noted the following: 
+
+  Although only a minimal amount of lifting at the mid point of the pipe stalk was 
+involved,  this  activity  had  not  been  recognised  as  a  lifting  operation  and, 
+therefore, the appropriate level of control and supervision had not been applied; 
+
+  There was evidence that, while a safety management system was in place, the procedures and risk assessments used to 
+
+control the work had not been adequate; 
+
+  The task was being carried out by competent, experienced personnel, who had completed the task without harm many 
+times before.  Nevertheless, there was evidence that the personnel involved were unaware of the risk assessments and 
+procedures in place and worked to custom and practice, rather than to procedures. 
+
+ 
+
+The company has noted the following lessons to be drawn from the incident: 
+
+  Tag-lines are useful, often essential, attachments to assist in controlling a load.  However, all personnel should be acutely 
+aware  of  the  potential  risk  of  snagging  or  entanglement  of  themselves  or  other  equipment  when  using  tag-lines  and 
+ensure that they position themselves safely away from the load; 
+
+  The same level of compliance with procedures; and awareness and control of risk should be applied to routine work as 
+to  higher  risk,  and  non  routine  activities,  particularly  where  lifting  operations,  however  routine  or  low-level,  are 
+involved. 
+
+Safety Flash 
+
+

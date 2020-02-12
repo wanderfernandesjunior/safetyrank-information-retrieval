@@ -1,0 +1,59 @@
+Safety Alert 
+
+        From the International Association of Drilling Contractors 
+
+ 
+ALERT 06 – 42 
+ 
+
+MAINTENANCE – TRAPPED PRESSURE 
+
+ 
+WHAT HAPPENED: 
+ 
+A  Subsea  Specialist  and  an  Assistant  Subsea  Specialist  were  transferring  nitrogen  from  one  cylinder  to 
+another by taking nitrogen from partially filled cylinders to fill others.  The assistant had completed the job, 
+and after closing the valves on the cylinders, bled the pressure off the line by breaking the connection with a 
+wrench.    After  the  pressure  bled  down  and  he  began  removing  the  connection,  a  final  release  of  nitrogen 
+suddenly occurred.  This startled the employee and caused him to jerk his head out of the way, striking the 
+cylinder rack and chipping a tooth. 
+ 
+WHAT CAUSED IT: 
+ 
+•  The area was cluttered with items stored on the rig. 
+•  The employee used a square duct blower as a work platform, which caused the employee’s face to be 
+
+close to the cylinder rack. 
+
+•  There was no JSA generated for this job. 
+•  There was no pressure bleed-off valve on the line. 
+•  The employee worked with unsafe equipment and under unsafe conditions while observed by at least 
+
+one other team member. 
+
+ 
+CORRECTIVE ACTIONS:  To address this incident, this company did the following:   
+ 
+•  Each rig is to provide a bleed-off valve for this operation. 
+•  Rig personnel are to remove the clutter from work area to provide a safe work environment. 
+•  Personnel conducting this operation are to use a proper work platform for this operation. 
+•  Rig personnel are to generate a JSA for this job. 
+•  The supervisor in charge of the operation must ensure that personnel are using the right equipment and 
+
+are properly instructed in how to use it safely. 
+
+ 
+
+The Corrective Actions stated in this alert are one company’s attempts to address the incident,  
+
+and do not necessarily reflect the position of IADC or the IADC HSE Committee. 
+
+This material is presented for information purposes only.  Managers & Supervisors should 
+
+evaluate this information to determine if it can be applied to their own situations and practices 
+
+Copyright © 2005 International Association of Drilling Contractors All rights reserved. 
+
+Issued December 2006 
+
+

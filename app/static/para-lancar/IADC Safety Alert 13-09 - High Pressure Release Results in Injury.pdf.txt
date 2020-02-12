@@ -1,0 +1,122 @@
+Safety Alert 
+
+        From the International Association of Drilling Contractors 
+
+ 
+ALERT 13 – 09 
+
+ 
+
+HIGH PRESSURE RELEASE RESULTS IN INJURY 
+
+ 
+WHAT HAPPENED: 
+ 
+The  maintenance  team,  consisting  of  three  crew  members,  had  been  involved  in  stripping  a  pulsation 
+damper’s bottom plate, which had a damaged seal groove.  Prior to starting the task, the crew checked the 
+pulsation  damper  gauge  for  pressure  and  verified  a  zero  pressure  reading.    After  unscrewing  all  flange 
+mounting studs and Allen-screws from the bottom plate, the crew started to remove the bottom plate with the 
+extractor  studs,  which  enabled  them  to  move  the  bottom  plate  slightly.    As  per  the  advice  of  the  crew 
+supervisor and in order to remove the stuck bottom plate, it was decided to utilize the two inserts in the gap 
+between the bottom plate and dampener body in combination with the extractor studs.  While two of the crew 
+members  forced  the  bottom  plate  open  with  wedges  from  opposing  sides,  another  crew  member  (injured 
+person), who was positioned in front of the bottom plate, was using the pneumatic spanner to screw-in the 
+extractor studs.  Without warning, the diaphragm burst out due to the pressure inside, resulting in the bottom 
+flange  being  discharged  from  the  pulsation  dampener.    The  bottom  plate  struck  the  injured  person  on  the 
+thigh of his right leg, throwing him approximately 6 meters (20 feet) due to the differential pressure wave, and 
+causing serious injury to his right leg. 
+ 
+
+Position of IP after accident 
+
+Pulsation Damper K-Series Diagram 
+
+ 
+
+ 
+
+ 
+
+ 
+
+WHAT CAUSED IT: 
+ 
+The gauge read zero psi as witnessed by three separate people before dismantling of the dampener began; 
+however,  the  gauge  was  faulty  and  showed  an  inaccurate  reading.    Consequently,  the  crew  members 
+involved  in  the  operation  did  not  anticipate  the  contained  pressure  and  failed  to  bleed  off  the  pressure  by 
+opening the charging valve.  The pulsation damper had approximately 750 psi of pressure within, while the 
+bottom plate was being removed. In addition, the contributing causes were: 
+
+•  Pulsation damper gauge had an expired calibration. 
+•  Pulsation  dampener  diaphragm  was  not  secured  to  the  diaphragm  stabilizer  with  the  diaphragm 
+locking screw, which resulted in the diaphragm expanding like a balloon due to the system pressure, 
+and piercing through the bottom flange hole, as the crew tried to remove the flange. 
+
+•  The crew had no experience in removal of the pulsation damper’s bottom plate. 
+•  There was no Permit-To-Work (PTW) issued, Job Safety Analysis (JSA) completed and Toolbox Talk 
+
+(TBT) conducted prior to starting the task. 
+
+The Corrective Actions stated in this alert are one company’s attempts to address the incident,  
+
+and do not necessarily reflect the position of IADC or the IADC HSE Committee. 
+
+This material is presented for information purposes only.  Managers & Supervisors should 
+
+evaluate this information to determine if it can be applied to their own situations and practices 
+
+Copyright  2013 International Association of Drilling Contractors All rights reserved. 
+
+Issued March 2013 
+
+Safety Alert 
+
+        From the International Association of Drilling Contractors 
+
+ 
+
+ 
+
+CORRECTIVE ACTIONS:  To address this incident, this company did the following: 
+ 
+
+•  The company communicated the relevant Safety Alert to all rigs and logistic base teams. 
+•  All  maintenance  crews  were  reminded  that  the  system  pressure  must  be  bled  off  completely  by 
+opening the charging valve.  Following this, the charging valve and gauge must be unscrewed from 
+the pulsation damper.  Further, it is recommended to remove the top cover plate during disassembly 
+of  the  pulsation  damper.    This  information  should  be  reflected  in  the  relevant  JSA  and  discussed 
+during the TBT Meeting. 
+
+•  Maintenance  Foremen  were  reminded  that  whenever  personnel  are  working  on  pressurized  lines 
+and/or pressure vessels, regardless of the product contained, the pressure is to be vented before the 
+work begins. 
+
+•  The  company  placed  more  emphasis  on  its  implementation  of  the  gauges  calibration  program  and 
+
+reminded all maintenance personnel to use only gauges with a valid calibration certificate. 
+
+•  Pulsation  damper  plate  stabilizers  should  always  be  secured  to  the  diaphragm  with  the  stabilizer 
+
+screw (ensure during replacement of diaphragm elastomer). 
+
+•  All employees were reminded that all pressure vessel maintenance/services are to be performed by 
+
+•  All  employees  were  reminded  that  a  PTW  is  mandatory  for  any  maintenance  task  performed  on  a 
+
+competent mechanics only. 
+
+compressed vessel. 
+
+The Corrective Actions stated in this alert are one company’s attempts to address the incident,  
+
+and do not necessarily reflect the position of IADC or the IADC HSE Committee. 
+
+This material is presented for information purposes only.  Managers & Supervisors should 
+
+evaluate this information to determine if it can be applied to their own situations and practices 
+
+Copyright  2013 International Association of Drilling Contractors All rights reserved. 
+
+Issued March 2013 
+
+

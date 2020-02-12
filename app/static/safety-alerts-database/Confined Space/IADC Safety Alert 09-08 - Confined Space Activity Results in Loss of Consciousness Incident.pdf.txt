@@ -1,0 +1,88 @@
+Safety Alert 
+
+        From the International Association of Drilling Contractors 
+
+ 
+ALERT 09 – 08  
+ 
+
+CONFINED SPACE ACTIVITY RESULTS IN LOSS OF  
+
+CONSCIOUSNESS INCIDENT 
+
+ 
+
+WHAT HAPPENED: 
+ 
+Vessel  maintenance  was  being  conducted  on  an  accommodation  barge.    Preparation  was  being  made  to 
+enter a tank at the base of a column to undertake quarterly planned maintenance of the leakage detection 
+system.  The injured party (IP) removed a manhole cover to gain vertical access into tank at the base of the 
+column.  Within one minute of removing the manhole cover the gas detector alarm sounded and the IP lost 
+consciousness on the floor of column next to the open tank hatch.  Although the IP fully recovered with no 
+residual ill health effects, the incident was rated High Potential Incident, Medical Treatment Case, Lost Time. 
+ 
+WHAT CAUSED IT: 
+ 
+  Subsequent  gas  sampling  during  the  investigation  was  undertaken  and  recorded  unexpectedly  high 
+
+  The presence of hydrogen resulted from electrolytic reaction between the sacrificial anodes and the steel 
+
+  There was no review or analysis of the abnormal alarm for CO gas reading in the column the day before 
+
+  Warning signs from the readings taken from the column were not acted upon.  
+  The potential for hydrogen accumulation had not been identified or mitigated against. 
+  Physical  arrangements  within  the  column  did  not  allow  for  ventilation  without  first  opening  the  tank  lid. 
+Therefore, the generic confined space entry procedure could not be wholly applied, re: forced ventilation. 
+
+levels of hydrogen. 
+
+within the ballast tank. 
+
+the incident.  
+
+CORRECTIVE ACTIONS: To address this incident, this company did the following: 
+ 
+1.  Company  management  is  to  review  current  documented  procedures  and  vessel  practices  associated 
+
+with confined space entry, particularly given the potential presence of hydrogen. 
+
+2.  The  vessel  management  are  to  review  and  mitigate  against  the  risks  associated  with  build  up  of 
+hydrogen within ballast tanks and other freely-communicated pathways.  This shall include risks from fire 
+and explosion, as well as potential inhalation risks. 
+
+3.  Company and vessel management are to explore options of mitigating against confined space entry into 
+
+ballast tanks 
+  Engineered solution regarding alternative leak detection systems.  
+  Engineered solution regarding air monitoring techniques. 
+
+4.  Company management is to review task risk assessment and incident reporting procedures, to ensure 
+
+that all unusual, potentially hazardous situations are reported and acted upon as appropriate. 
+
+5.  Client  to  review  its  processes  for  engaging  with  and  sharing  key  aspects  of  its  HSSE  Management 
+System with its contract partners.  Particular emphasis to be placed upon their published Life Savers and 
+supporting standards and Knowledge Management / Safety Alerts. 
+
+6.  Both  the  company  and  Client  should  take  the  learning  from  this  incident  to  review  and  improve  their 
+safety  systems  such  that  the  risks  from  confined  space  entry  are  more  effectively  and  proactively 
+managed. 
+
+ 
+
+ 
+ 
+
+The Corrective Actions stated in this alert are one company’s attempts to address the incident,  
+
+and do not necessarily reflect the position of IADC or the IADC HSE Committee. 
+
+This material is presented for information purposes only.  Managers & Supervisors should 
+
+evaluate this information to determine if it can be applied to their own situations and practices 
+
+Copyright  2005 International Association of Drilling Contractors All rights reserved. 
+
+Issued March 2009 
+
+

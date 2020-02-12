@@ -1,0 +1,117 @@
+Safety alert 52
+
+April 2012
+
+Risks associated with 240V Electric Hand Tools / Equipment
+
+What Happened?
+
+Recent NOPSEMA inspections have highlighted an increase in the use of 240V portable electric tools and 
+temporary lighting on facilities.
+
+The use of such equipment increases the exposure of the equipment operator and other facility personnel 
+to a potential electric shock incident through contact with trailing damaged power cables, exposed 
+connections and ineffective or incorrect earths.
+
+What could go wrong?
+
+In the three years from 2006 to April 2009, NOPSA received 29 notifications of electric shock incidents. 
+Over the past three years (April 2009 – April 2012), NOPSEMA has received 39 notifications of electric shock 
+incidents, a 34% increase over a comparable time period.
+
+Fortunately, there have been no fatalities associated with electric shock incidents and all have resulted in 
+only mild shock events.
+
+Unfortunately, the industry does not appear to be acknowledging the “lessons learnt” from these incidents
+and the figures indicate that more personnel are being exposed to the potential for serious injury or death 
+due to electric shock.
+
+Of the 39 notifications:
+
+19 involved the use of temporary / portable equipment (Hand Tools, Temporary Lighting, Extension 
+Cables etc.)
+
+13 involved fixed equipment (Lighting, Switches, General Power Outlets)
+
+7 were related to welding activities (5 of which involved Earth Clamps condition / application)
+
+Key Lessons:
+
+Schedule 3 of the Offshore Petroleum and Greenhouse Gas Storage Act 2006 places duties on the operator 
+of a facility to take all reasonably practicable steps to ensure that:
+
+the facility is safe and without risk to the health of any person at or near the facility; and
+
+all work and other activities carried out on the facility are carried out in a manner that is safe and 
+without risk to the health of any person at or near the facility
+
+Good practice demands that a hierarchical approach to eliminating risks is taken:
+
+Elimination of the risk
+
+Substitution (for a less hazardous alternative)
+
+Engineering – redesign
+
+Isolation - Separate the worker from the risk
+
+Administrative procedures (Permit to Work)
+
+PPE
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+National Offshore Petroleum Safety and Environmental Management Authority
+
+1
+
+Safety alert 52
+
+240V hand tools can often be replaced with air or battery powered tools or tools powered by an isolated, 
+110V centre-tapped earth transformer.
+
+These methods of elimination or substitution are generally achievable and it is therefore reasonable for 
+their use in preference to the use of 240V tools.
+
+Residual Current Devices (RCD) are often used in offshore locations but should be considered as PPE, thus 
+low on the hierarchy table.
+
+RCDs are known to fail and rely on thorough inspection and testing to meet the Australian Standards. This 
+testing requires not only the activation of the mechanical trip but includes checking that the device 
+activates at the correct differential pre-set value (usually 30mA for personnel protection) and within the 
+required time.
+
+Further detail of the required testing can be found in AS/NZS 3760:2010.
+
+Facility operators, employers and persons in charge of work activities should review their practices for the 
+use of powered hand tools / portable electric equipment with regard to the above information.
+
+Contact:
+
+For further information email alerts@nopsema.gov.au and quote Safety Alert 52
+
+National Offshore Petroleum Safety and Environmental Management Authority
+
+2
+
+

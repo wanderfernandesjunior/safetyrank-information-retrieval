@@ -1,0 +1,124 @@
+  
+ 
+ 
+ 
+ 
+February 24, 2015 
+Washington, DC 
+
+SAFETY ALERT 
+
+Coast Guard Alert 01-15 
+BSEE Alert #315 
+
+ 
+
+DYNAMIC POSITIONING SYSTEM FAILURES ON OFFSHORE SUPPLY VESSELS ENGAGED IN OIL 
+
+AND GAS OPERATIONS IN THE U.S. OUTER CONTINENTAL SHELF 
+
+ 
+Discussion:  This  Joint  Safety  Alert  addresses  a  dynamic  positioning  (DP)  incident  involving  an  Offshore 
+Supply Vessel (OSV) which resulted in a loss of position while conducting a critical Outer Continental Shelf 
+(OCS)  activity.    The  OSV  was  attached  to  a  wellhead,  lost  position  and  severed  the  wellhead  tree  causing  a 
+lubricant release on the platform deck and to the environment.  Immediately prior to the position loss, the OSV 
+had multiple DP system alarms and failures, including loss of bow thruster and engine control.  No attempt was 
+made to identify or correct the causes of these failures and the operations continued.  
+ 
+At the time of the position loss, the OSV was being utilized to support pump and electric line equipment which 
+was  connected  to  the  well  at  the  time  of  the  incident.  Specifically,  when  the  vessel  lost  position,  the  vessel 
+operator was in the process of removing a downhole DX plug from the well via wireline.  High pressure pump 
+lines  were  also  connected  to  the  well,  although  actual  pumping  operations  were  not  in  progress.  When  the 
+vessel lost position, the Christmas tree was sheared from the well because of the force exerted on it by virtue of 
+the  connected  high  pressure  lines.  Severe  consequences  were  averted  because  a  subsurface  safety  valve  was 
+activated and there was an absence of hydrocarbon flow from the well.   
+ 
+The  OCS  activity  performed  was  critical  due  to  the  short  time  to  terminate  and  the  potential  uncontrollable 
+release of hydrocarbons from a well with known sustained casing pressure.  The Coast Guard and the BSEE are 
+issuing this joint Safety Alert because we share jurisdiction on the OCS and wish to highlight the importance of 
+an  OSV’s  Safety  Management  System  (SMS)  and  a  leaseholder’s  Safety  and  Environmental  Management 
+System (see Reference 1). 
+ 
+This incident highlights the following critical issues: 
+ 
+Alarms: The Coast Guard and BSEE stress the importance of properly acknowledging and investigating all 
+alarms, and taking immediate and positive corrective action prior to initiating or proceeding with any critical 
+OCS activity.  
+ 
+SMS: The OSV was not required to and did not have an International Safety Management (ISM) Code 
+certificate.  The Coast Guard reminds OSV owners and operators that an effective SMS is essential to safe 
+operations, particularly when those operations are critical OCS activities.  Had the OSV implemented an 
+effective SMS, as described in the ISM code, it likely would have:  
+ 
+
+1)  Had adequate emergency disconnect capability and procedures for loss of position events and personnel 
+trained  in  those  procedures.  In  this  case  the  OSV  did  not  have  adequate  emergency  disconnect 
+capability, procedures or training records;   
+
+2)  Ceased the critical OCS activity after experiencing multiple DP system failures - including engine and 
+thruster  loss  -  and  not  have  resumed  the  activity  until  after  correcting  the  causes  of  the  DP  system 
+failures (see Reference 2). 
+
+DYNAMIC POSITIONING SYSTEM FAILURES ON VESSELS OTHER THAN 
+
+MOBILE OFFSHORE DRILLING UNITS (VESSELS) 
+
+2 
+
+ 
+Dynamic  Positioning:  The  Coast  Guard  strongly  recommends  owners  and  operators  of  OSVs  using  DP  to 
+follow DP guidance provided in reference 3 (Marine Technology Society (MTS) DP operations guidance) when 
+conducting critical activities on the U.S. OCS.  See the applicable notice on this topic published in the Federal 
+Register (77 FR 62247, October 12, 2012) for more details.  Had this OSV followed the MTS DP operations 
+guidance it likely would have: 
+ 
+
+1)  Had  a  DP  system  that  met  a  minimum  of  DP  Equipment  Class  2  (DP-2).  The  involved  OSV’s  DP 
+system was DP Equipment Class 1 (DP-1), which means that a loss of position may occur in the event of 
+a single failure. (see Reference 3, paragraph 4.1);   
+ 
+
+2)  Had an Activity Specific Operating Guideline (ASOG) that prescribed emergency disconnect procedures 
+and capability to prevent equipment damage and pollution.  The involved OSV did not have an ASOG 
+defined.  The sample ASOG in MTS DP guidance recommend the operator should “halt operations and 
+initiate contingency procedures” for thruster and generator failures, which this OSV experienced prior to 
+the loss of position incident. (see Reference 3, Appendix C);   
+ 
+
+3)  Had a Critical Activity Mode of Operation (CAMO) defined.  The involved OSV did not have a CAMO 
+defined. The sample CAMO in MTS DP guidance recommend the operator change operating condition 
+from “normal operations” to “informative/consultative status (risk assess)” when any change occurs to 
+the  normal  operations  of  the  DP  system,  which  this  OSV  experienced  prior  to  the  loss  of  position 
+incident. (see Reference 3, Appendix C);   
+ 
+
+4)  Ensured  a  structured  competence  assurance  program  was  applied  to  all  key  DP  personnel.    At  a 
+minimum DP personnel should be required to demonstrate proficiency in understanding the redundancy 
+concept  and  emergency  procedures  to  respond in  the  event  of  a  DP  system  failure.    (see  Reference  3, 
+paragraph 4.14). 
+
+ 
+Leaseholder/operator SEMS:  BSEE strongly recommends leaseholders/operators consider Coast Guard 
+recommendations for DP vessels when evaluating potential hazards and establishing/implementing contractor 
+safe work practices in their SEMS program (see 30 CFR §§ 250.1911 and 250.1914).  BSEE reminds 
+leaseholders/operators of their critical role in ensuring safety and environmental hazards associated with 
+contracted vessels on their lease are properly managed.  For example, leaseholders/operators should ensure 
+hazards associated with a loss of position by contracted DP vessels are analyzed and managed with appropriate 
+contractor safe work practices.   
+ 
+For additional information, contact Lieutenant Commander Elizabeth Massimi at (504) 671-2156 with the Coast 
+Guard District 8 Prevention Division or Troy Trosclair at 504-736-2923 with the BSEE Gulf of Mexico Region. 
+ 
+Reference 1: BSEE/USCG Memorandum of Agreement OCS-07 “Safety and Environmental Management Systems 
+(SEMS) and Safety Management Systems (SMS)” (April 30, 2013).  
+ 
+Reference 2: ISM Code Regulations 7 and 10 (2014 ed.).  
+ 
+Reference 3: DP Operations Guidance, Part 2 Appendix 2:  DP Project /Construction Vessels (Dynamic Positioning 
+Committee of the Marine Technology Society to aid in the safe and effective management of DP Operations (July 31, 
+2012). 
+ 
+Reference 4: Marine Technology Society Technical and Operations Guidance (TECHOP) “Defining Critical Activities 
+Requiring Selection of Critical Activity Mode”, TECHOP_ODP_12_(O) (January 2014). 
+
+

@@ -1,0 +1,102 @@
+Safety Alert 
+
+        From the International Association of Drilling Contractors 
+
+ 
+ALERT 12 – 31  
+ 
+
+HIGH POTENTIAL - DROPPED PONY COLLAR 
+
+ 
+WHAT HAPPENED: 
+ 
+While  laying  down  an  approximately  16  foot  x  10  inch  (4.8m  x  25cm)  pony  collar,  weighing  approximately 
+3400 pounds (1.5mt), the 500 ton (454mt) center-latch elevators opened inadvertently.  The pony collar fell 6 
+feet (2m) and came to rest on the pipe skate.  In the process of falling, the lift cap struck the stump, but there 
+was no visible damage to the remaining BHA.  No personnel were in the area. 
+ 
+
+WHAT CAUSED IT: 
+ 
+•  Defective  and  inadequate  equipment:  While  being  operated  in  accordance  with  the  2009  manual,  the 
+
+center-latch elevator failed and resulted in the dropped pony collar.  
+Inadequate information/data: The 2009 version of the Manufacturer’s Operator Manual was used as the 
+reference manual.  As far as the company and the drilling crew knew, the 2009 version WAS the latest 
+version,  but  after  the  incident  occurred  the  company  found  out  from  the  Manufacturer/Equipment 
+Provider  there  was  a  2012  version.    In  the  2012  Operator  Manual,  which  had  not  been  sent  by  the 
+Equipment Provider to the company, the use of the center-latch elevators is not allowed for this type of 
+lift or lay down; instead, rotating elevators are required. 
+Inadequate engineering/manufacturing: Design of the center-latch elevator is not compatible with laying 
+down a pony collar. 
+Inadequate  maintenance  of  standards/procedures/work  instructions:  Unavailability  onsite  of  the  inserts 
+for the rotating elevators led the crew to use the center-latch elevators as a substitute, which was noted 
+as  an  acceptable  substitution  in  the  2009  Operator  Manual.    It  is  not  an  acceptable  substitution  in  the 
+2012 version.  
+Inadequate  communication:  The  process  for  communication  of  updated  manufacturers’  technical 
+documents and manuals was not well defined. 
+ 
+
+ 
+
+The Corrective Actions stated in this alert are one company’s attempts to address the incident,  
+
+and do not necessarily reflect the position of IADC or the IADC HSE Committee. 
+
+This material is presented for information purposes only.  Managers & Supervisors should 
+
+evaluate this information to determine if it can be applied to their own situations and practices 
+
+Copyright  2008 International Association of Drilling Contractors All rights reserved. 
+
+Issued December 2012 
+
+• 
+
+• 
+
+• 
+
+• 
+
+ 
+
+Safety Alert 
+
+        From the International Association of Drilling Contractors 
+
+ 
+CORRECTIVE ACTIONS:  To address this incident, this company did the following: 
+ 
+•  The company has decided to maintain sufficient spares of inserts onboard all rigs in the fleet to allow the 
+
+use of rotating elevators at both rotary centers.  
+
+•  The  company  has  decided  to  review  and  update  the  process,  as  necessary,  for  ensuring  that  current 
+
+revisions of Operator/Technical Manuals are received onboard. 
+
+•  The  company  will  utilize  cascade/share  the  learning  points  from  this  incident  with  other  company 
+
+•  The  company  will  ensure  that  a  clause  is  inserted  in  the  Terms  and  Conditions  of  agreements  with 
+Equipment  Providers  that  requires  them  to  provide  documentation  updates,  product  bulletins,  etc.  as 
+they are released. 
+
+vessels. 
+
+ 
+
+The Corrective Actions stated in this alert are one company’s attempts to address the incident,  
+
+and do not necessarily reflect the position of IADC or the IADC HSE Committee. 
+
+This material is presented for information purposes only.  Managers & Supervisors should 
+
+evaluate this information to determine if it can be applied to their own situations and practices 
+
+Copyright  2008 International Association of Drilling Contractors All rights reserved. 
+
+Issued December 2012 
+
+

@@ -1,0 +1,62 @@
+ 
+
+ 
+
+ Safety Alert 001 - ANP/SSM 
+
+CO2 Stress Corrosion Cracking (SCC-CO2) 
+
+ 
+
+ 
+
+The Superintendence of Operational Safety and Environment is issuing this safety alert to notify the petroleum 
+and gas industry and other stakeholders about a corrosion mechanism known as CO2 Stress Corrosion Cracking (SCC). 
+
+What happened? 
+
+An accident of this nature was reported to this Superintendence in January 2017. It involved a gas injection 
+flexible pipe failure in its second year of operation, although the manufacturer had evaluated its service life as 20 
+years. 
+
+Without any previous records of such accident, classification is still on its first stages, bringing new challenges 
+
+to pre-salt exploration. Researchers, however, have already identified SCC-CO2 causes, as stated below. 
+
+CO2  Stress Corrosion Cracking may cause  unexpected  and catastrophic failure of a flexible  pipe, leading to 
+
+production losses and environmental accidents. 
+
+Potential consequences 
+
+Causes 
+
+  Environment containing H2O and CO2; 
+  Static, cyclic or residual stress on pipe; 
+  Time; 
+  Susceptible material. 
+
+According to the operator, the most likely reason for CO2 existence within the annulus in such a concentration 
+enough to activate the mechanism is gas permeation across pressure armor layer. Other possible but less likely causes 
+could be failure in the internal seal connector or fluid injection with CO2 level above design limit. 
+
+Concerning the presence of water in the annular, the most likely cause is external sheath damage, which could 
+have allowed water inflow. There is also a minor possibility of water having entered the annular through the connector. 
+
+Regarding tensile armor’s stress, there were residual and operational stress enough to trigger SCC mechanism. 
+Besides,  the  tensile  armor  wires  material  was  susceptible  to  environment-assisted  fracture  (nucleation  and 
+propagation) under the design operational conditions (CO2, stress and water) within the exposed time. 
+
+ANP will share research results (CO2 stress and fugacity envelopes) as soon as they become known, for better 
+
+risk definition associated to SCC-CO2 occurrence in subsea systems. 
+
+For additional information regarding this safety alert, please contact ANP’s Superintendence of Operational 
+
+Safety and Environment at sgss@anp.gov.br. 
+
+Lessons learned 
+
+Contact 
+
+

@@ -1,0 +1,291 @@
+AB 
+
+ 
+
+IMCA Safety Flash 05/10 
+
+ July 2010 
+
+These  flashes  summarise  key  safety  matters  and  incidents,  allowing  wider  dissemination  of  lessons  learnt  from  them.    The  information  below  has  been 
+provided in good faith by members and should be reviewed individually by recipients, who will determine its relevance to their own operations. 
+
+The effectiveness of the IMCA safety flash system depends on receiving reports from members in order to pass on information and avoid repeat incidents.  
+Please consider adding the IMCA secretariat (imca@imca-int.com) to your internal distribution list for safety alerts and/or manually submitting information 
+on specific incidents you consider may be relevant.  All information will be anonymised or sanitised, as appropriate. 
+
+A  number  of  other  organisations  issue  safety  flashes  and  similar  documents  which may  be  of  interest  to  IMCA  members.   Where  these  are  particularly 
+relevant, these may be summarised or highlighted here.  Links to known relevant websites are provided at www.imca-int.com/links   Additional links should 
+be submitted to webmaster@imca-int.com 
+
+ 
+
+1  Near Miss: Burnt Out Electrical Socket 
+
+A member has reported an incident in which an electrical socket caught fire.  A member of the vessel crew was woken from 
+sleep in his cabin by a popping sound.  Shortly thereafter, he smelled burning.  He immediately got up and saw smoke coming 
+from a 6 way multi-socket plugged into the mains.  The crew member’s mobile phone and cabin television were plugged into 
+the  6  way  multi-socket.    He  immediately  extinguished  the  smouldering  socket  and  reported  the  incident.    There  were  no 
+injuries.  
+
+An examination of the socket showed that one of the surge capacitors had blown with enough heat to burn the socket.  An 
+identical socket, which had been purchased at the same time as the one involved in the incident, seemed to be working fine.  
+However, it was taken out of service to assist in preventing any risk of possible recurrence.  It was ascertained that the 6 
+way multi-socket had been purchased by a member of the vessel crew from a shop in the last port visited by the vessel.    
+
+The inside of the 6 way socket extension, showing the damage caused inside the unit 
+
+ 
+
+Direct and Root Causes 
+
+The direct cause of the incident was failed/defective portable electrical equipment – an oversurge of electrical current into 
+the 6 way multi-socket caused the internal components, and external casing, to overheat and start smouldering. 
+
+The root cause was failure to follow procedures – specific procedures in place to control electrical equipment onboard the 
+vessel were not complied with.  The aim of this procedure was to ensure that all vessel electrical equipment, crew personal 
+electrical equipment and third party project equipment is presented to the vessel electrician, prior to use on the vessel, to 
+verify and test that it is safe and fit for purpose. 
+
+All  crew  and  contractors  are  informed  of  this  procedure  during  vessel  induction,  and  portable  appliance  testing  (PAT) 
+equipment is available.  The member of crew who purchased the 6 way multi-socket did not follow the procedure and did 
+not present the multi-way socket to the vessel electrician.  No check was made to ensure that the socket was safe for use 
+with the vessel electrical supply.  Had the socket been presented to the electrician, it would have been established that it was 
+not suitable/compatible with the mains electrical set-up on the vessel and should not have been used. 
+
+ 
+
+Corrective/Preventative Actions 
+
+♦  A thorough electrical inspection of the cabin involved in the incident was carried out and it was found to be safe.  The 
+
+inspection showed that the cabin television had already been PAT tested, with testing label clearly visible and in date; 
+
+♦  A thorough sweep was undertaken onboard the vessel and all unsuitable multi-way sockets were removed. 
+
+Lessons Learnt 
+
+♦  Vessel procedures exist to ensure the safety and well-being of all persons onboard and should be complied with in order 
+
+to prevent the potential for accidents/incidents; 
+
+♦  Although electrical items may be new and safe for use, this does not necessarily mean that they are safe to use onboard 
+
+a vessel; they may possibly only be suitable for domestic/home use; 
+
+♦  All electrical items should be presented to the vessel electrician so that any doubt over condition or suitability for use 
+
+♦  Consideration  of  long-term  plans  to  rewire  vessels  to  remove  2-pin  sockets  and  install  3-pin  UK  switched  sockets 
+
+can be addressed; 
+
+throughout.  
+
+2  Water Ingress to Bow Thruster Space 
+
+A member has reported an incident in which flooding occurred in the bow thruster space of a vessel, resulting in damage to 
+the bow thruster.  The vessel’s crew were emptying a fresh water tank using the bow thruster room direct bilge eductor 
+system via the fire main.  The bilge alarm was activated, acknowledged and accepted by the duty engineer who was about to 
+complete his watch and was preparing for the handover.  The status of the bilge alarm was verbally passed to the next duty 
+engineer, but owing to distraction the engineer forgot about the alarm and the bilges were allowed to fill up.  The flooding 
+was discovered after 36 hours when the water reached the floor plate level.  As a result of the flooding, parts essential to the 
+bow thruster were damaged beyond repair and scheduled sea trials had to be postponed.   
+
+The impact of this incident was significant in terms of breaching basic watch-keeping routines and damage to equipment.  Our 
+member’s subsequent investigation identified a number of key issues and lessons learnt. 
+
+Key Issues 
+
+♦  Failure of basic watch-keeping practices; 
+
+♦  Lack of understanding of Chief Engineer’s Standing Orders; 
+
+♦  Lack of routine inspection and cleaning of bilge suction valves and filters; 
+
+♦  Absence of an approved bilge system drawing; 
+
+♦  System integrity not inspected prior to use and followed up during operation. 
+
+Lessons Learnt 
+
+♦  Chief  Engineer’s  Standing  Orders  should  contain  clear  instructions  regarding  watch-keeping  routines,  especially  with 
+
+reference to  acknowledgement of alarms and subsequent actions by the duty engineer; 
+
+♦  All alarms should be investigated immediately and acted on accordingly by the duty engineer.  Bilge high levels should not 
+be  left  in  the  alarm  condition.    These  must  be  investigated  and  pumped  out  completely  and  the  cause  verified  and 
+rectified; 
+
+♦  A  complete  set  of  instructions  for  the use  of  the bilge  system  should  be  available  to  watch-keepers  and  engine  room 
+
+staff; 
+
+♦  Watch-keepers and engine room staff should be familiar with the operation of the bilge system; 
+
+♦  Bilge suction filters and the condition of SDNR (screw down non-return) valves should be checked at regular intervals to 
+
+make sure there is no debris between the seating faces; 
+
+♦  Bilge system drawings should be verified against the existing system, and if any amendments are necessary these should 
+
+be made by the company drawing office approved by the Classification Society; 
+
+♦  Bilge system drawings should be included in vessel familiarisation for joining engineering staff. 
+
+ 
+
+3  Diver Injury During Air Cylinder Recharging 
+
+A member has reported a blown-out pillar valve resulting in injury to a diver working on deck. 
+
+The diver had been assigned to recharge a number of bale-out cylinders using compressed air, considered by the member to 
+be part of routine operations.  The recharging was performed in a dedicated open deck area.  In this instance, the recharging 
+of  this  particular  air  cylinder  was  being  carried  out  for  the  first  time  onboard,  as  the  cylinders  had  been  delivered  to  the 
+worksite empty due to safety consideration during transportation.  
+
+After hearing  a  loud noise,  members of the dive team immediately proceeded to the recharging station where the injured 
+diver, who had been working alone, was found laying down on the deck bleeding around his right eye.  The cylinder pillar 
+valve was found to be disconnected from the air cylinder. 
+
+The injured diver was found to be unconscious but regained consciousness after having been moved to a safe location. 
+
+Medical  treatment  procedures  were  initiated,  resulting  in  the  injured  diver  being  given  first  aid  on-site  and  subsequent 
+medevac to shore. 
+
+  
+
+ 
+
+The incident investigation carried out by the member company found that the diver had sustained a head injury due to the 
+accidental disconnection of the air cylinder’s pillar valve, coupled with the filling hose of the air compressor contacting the 
+diver’s head. 
+
+The  investigation  showed  the  root  cause  of  the  incident  to  be  an  incorrect  coupling  between  the  pillar  valve  and  the  air 
+cylinder in that the pillar valve had an external metric thread of M25x2 whilst the cylinder had a Whitworth imperial thread 
+of 1 inch (25.4 mm).  The two threads are technically incompatible and did not provide a correct connection between the 
+pillar valve and the air cylinder. 
+
+ 
+
+ 
+
+ 
+
+The investigation further found that the assembly procedure had not complied with EN 250-2000 and EN 144-1; a company 
+requirement where only metric threads are to be used. 
+
+The  member  stopped  all  activities,  checked  all  air  cylinder  threads  and  pillar  valve  threads  for  compatibility,  ensured  their 
+appointed subcontractor had developed working procedures and instructions for marking and checking pillar valves and air 
+cylinders, and ensured that a QHSE (quality, health, safety & environment) audit of the subcontractor had been performed 
+onboard and at their premises onshore. 
+
+The member company further stipulated that a dedicated JSA/HAZID was to be developed for each critical operation. 
+
+Members are reminded of safety flash IMCA 12/09 covering a similar incident. 
+
+ 
+
+ 
+
+ 
+
+4  Near Miss: Crane Wire Grease and Headache Ball 
+
+A  member  has  reported  an  incident  in  which  a  crane  load  fell  1-2  metres  as  a  result  of  a  riding  turn.    During  a  project 
+mobilisation in the hours of darkness, a small tool basket (<30kg) was being lifted from the quayside to the deck of the vessel.  
+Despite the poor lighting conditions, the crane driver noticed a riding turn on the whipline winch.  He informed all personnel 
+in the vicinity to stand clear and having confirmed they had done so, he manoeuvred the jib and the basket fell about 1-2m. 
+He then raised the load and slewed round to the stern of the vessel.  The riding turn was remedied with the assistance of the 
+bosun and the crane returned to normal service.  There was no damage to equipment and no injuries.  
+
+This  incident  was  not  reported  to  any  supervisory  personnel  until  later  in  the  shift  when  another  unrelated  incident 
+occurred.    This  crane  incident  came  to  light  in  the  subsequent  discussions  and  further  investigation  of  this  incident  took 
+place.    It  was  noted  that  the  whipline  had  been  greased  recently  and  the  viscosity  of  the  grease  was  such  that  the  wire 
+became sticky when passing through the cheek plates on the jib.  Further investigation revealed that the headache ball system 
+had been changed from that used originally.  A non-locking hook arrangement weighing 302kg was replaced with a locking 
+one weighing 20kg.  The combination of the light load, light headache ball arrangement and adhesive grease caused the riding 
+turn on the winch drum. 
+
+The following conclusions were drawn: 
+
+symptom of a deeper problem; 
+
+more serious consequences; 
+
+♦  The  action  of  the  crane  driver  and  bosun  had  successfully  rectified  the  riding  turn,  but  the  riding  turn  was  only  a 
+
+♦  The  cause  of  the  riding  turn  was  not  fully  established  at  the  time  and  could  have  easily  occurred  again,  possibly  with 
+
+♦  The headache ball change-out was conducted without use of management of change procedures, and the reason for the 
+
+change was not established or recorded; 
+
+♦  Because the incident was not reported when it occurred, there was no opportunity to: 
+
+– 
+– 
+– 
+
+identify root causes; 
+apply appropriate corrective actions; 
+communicate the lessons learnt to personnel on the same vessel and throughout the fleet. 
+
+Lessons Learnt 
+
+installation; 
+
+♦  A  heavier  temporary  arrangement  was  installed  later  in  the  shift  and  a  permanent  arrangement  was  ordered  for  later 
+
+♦  Personnel should be encouraged to report seemingly benign events to supervisory and management personnel who can 
+
+then judge whether or not further action is required; 
+
+♦  Personnel should be encouraged to enquire further when the unexpected happens – simply asking the “why” question 
+
+could have revealed a number of relevant facts which can then be acted upon; 
+
+♦  Our member required personnel to manage change effectively, particularly when conducting work for which an existing 
+
+plan is not proving effective or when making substantial changes to equipment and systems. 
+
+5  Oxy-Arc Umbilical Handling Winch – Fire on Deck 
+
+A  member  has  reported  an  incident  where  the triple  drum  umbilical  handling  winch  for  subsea  oxy-arc  cutting  equipment 
+caught fire. 
+
+The on deck fire alarm was raised 21 minutes after the equipment had first been made ‘hot’ and cutting had commenced by 
+the divers. 
+
+All  personnel  responded  to  the  alarm  correctly,  the  fire  was  extinguished  using  local  fire  extinguishers,  the  divers  were 
+recovered in a controlled and safe manner to the system and the vessel exited the 500 metre zone to ensure the area was 
+safe and to allow a preliminary investigation to take place. 
+
+The preliminary investigation showed that the amperage on the welding machine was set at 803 amps.  This was in excess of 
+the normal value of 150-250 amps recommended for oxy- arc cutting.  
+
+This high amperage caused the insulation around the welding unit connection at the triple drum interior connection plate to 
+breakdown/melt, causing a short and giving rise to an ignition source. 
+
+In order for the fire to have reached such intensity in the short time, the initial investigation found that the oxygen supply 
+hose inside the drum had ruptured and fuelled the fire.  
+
+Safety Flash 
+
+  
+
+ 
+
+The welding unit was rated to 800 amps which is in excess of the requirement for oxy-arc burning and exceeding the 500 
+amps rating of the welding cable and connectors - information which onboard personnel were potentially unaware of. 
+
+The member raised a company safety alert highlighting the fact that the welding machines were capable of delivering up to 
+800 amps, and new signage was placed on the machines prohibiting use by non-authorised personnel.  Lower current welding 
+machines will be procured to replace the over specified units. 
+
+Members  are  reminded  of  the  importance  of  ensuring  plant  and  equipment  compatibility  and  of  working  within  the 
+operational parameters set by equipment manufacturers and suppliers.  
+
+ 
+
+ 
+
+

@@ -1,0 +1,127 @@
+NATIONAL OFFSHORE PETROLEUM SAFETY AUTHORITY 
+
+SAFETY ALERT 16 
+
+  
+
+Control of Ignition Sources 
+
+ 
+What happened? 
+A contractor’s temporary workshop observed during a recent NOPSA inspection has 
+highlighted the importance of correct use of permit to work system, appreciation of non-
+certified electrical equipment as potential sources of ignition and the need to check 
+temporary equipment before shipping and on arrival at a facility. 
+
+A mobile Pressure Safety Valve (PSV) maintenance workshop was temporarily located 
+in a laydown area above a well-bay, in a Zone II Hazardous Area, and near an operating 
+gas lift compressor.  The workshop had non-certified electrical light fittings, domestic 
+type power outlets and a grinder with a non-certified motor. 
+
+Non-Ex electrical fittings are as indicated  
+
+Non-Ex electrical fittings and a grinder 
+
+ 
+
+A general work permit had been issued for the PSV maintenance work and included a 
+requirement to use a portable gas detector, which was placed near the entrance to the 
+container. 
+
+The issue of non-hazardous area rated equipment being used in and around the 
+workshop was raised with the operator and the operator immediately disconnected all 
+non-certified electrical equipment and fitted an ExN certified light fitting and two portable 
+gas monitors.  Use of the grinder in its current location was prohibited. 
+
+Page 1 of 2 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+NATIONAL OFFSHORE PETROLEUM SAFETY AUTHORITY 
+
+SAFETY ALERT 16 
+
+  
+
+Control of Ignition Sources 
+
+ 
+What went wrong? 
+Investigation found that although the operator had specified the use of equipment 
+suitable for use in hazardous areas, the operator failed to ensure that the PSV workshop 
+was suitable. It was put into service without an electrical inspection against the 
+specification or an appropriate risk assessment. 
+
+There was a lack of appreciation for non-certified equipment to act as potential ignition 
+sources, and their introduction together with other potential sources of ignition such as 
+grinders, should necessitate more stringent risk mitigation and control measures 
+normally stipulated under a Hot Work Permit.  
+
+During periods when the workshop was unoccupied or after shift working hours there 
+was no mechanism in place to respond to a gas detection alarm. 
+
+ 
+Key Lessons: 
+• 
+
+Temporary workshops and equipment should be checked before shipping to the 
+facility, upon arrival, and then on a regular basis during project work, to ensure that 
+equipment is as specified and remains suitable for its intended purpose. 
+
+Any introduction of potential ignition sources into hazardous areas should require a 
+Hot Work Permit and only be authorised after a thorough review of the hazards and 
+risks through a Job Safety Analysis (JSA), or equivalent, has ensured control 
+measures will reduce the risks to ALARP.  The use of a general work permit in this 
+case did not lead to appropriate controls being implemented. 
+
+The lack of recognition of non-certified electrical equipment and grinders as 
+potential sources of ignition in hazardous areas can lead to inadequate control 
+measures and unacceptable risks. 
+
+ 
+Contact 
+For further information email alerts@nopsa.gov.au and quote Alert 16. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+• 
+
+• 
+
+Page 2 of 2 
+
+ 
+
+

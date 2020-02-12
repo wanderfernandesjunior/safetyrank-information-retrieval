@@ -1,0 +1,214 @@
+Safety Alert 
+
+        From the International Association of Drilling Contractors 
+
+BATTERY EXPLODES WHILE BEING JUMP STARTED 
+
+ 
+ALERT 05 – 10 
+
+WHAT HAPPENED: 
+
+In a recent rig incident a 12 volt battery exploded while being jump started.  The 12 volt battery was fitted to 
+the Pressure Test Pump.  Booster or jumper cables were connected from the 12 volt battery to the 24 volt 
+battery of the Forklift.  The Pressure Pump was in the vicinity of the Catwalk at the time.  The individuals who 
+attempted  to  jump  start  the  batteries  were  obviously  unaware  of  the  difference  in  voltage  and  the  correct 
+method of jump starting a battery.  Fortunately the battery was the only casualty and there was no injury to 
+personnel. 
+
+WHAT CAUSED IT: 
+
+incorrect terminals.  
+
+do.  
+
+the Mechanic’s workshop.  
+
+Learning’s  
+
+1. Individuals  were  not  aware  of  the  correct  method  of  jump  starting  as  the  cables  were  placed  on  the 
+
+2. Individuals were not aware of the incompatibility between 12V and 24V.  
+3. Individuals did not call for assistance even though it would appear they did not fully comprehend what to 
+
+4. No spare battery was available so unserviceable battery could not be disconnected and trickle charged in 
+
+5. Other 12V batteries on site i.e. vehicle were not suitable to operate the Pressure Pump 
+
+CORRECTIVE ACTIONS: To address this incident, this company issued the following: 
+
+•  Only Mechanic or Electrician should be responsible for charging / Jump Starting batteries.  
+•  Procedure for jump starting is to be in accordance with Company Procedure 009.  See Attached.  
+•  No battery charging or jump starting is to occur within 45 meters (150 ft) of the wellhead i.e. outside the 
+
+hazardous area.  
+
+•  Consideration should be given to storing a spare battery.  
+•  See the instructions on the following pages.  
+
+The lesson out of this incident is – If you don’t know or your not quite sure ASK 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Exploded Battery 
+
+ 
+
+The Corrective Actions stated in this alert are one company’s attempts to address the incident,  
+
+and do not necessarily reflect the position of IADC or the IADC HSE Committee. 
+
+This material is presented for information purposes only.  Managers & Supervisors should 
+
+evaluate this information to determine if it can be applied to their own situations and practices 
+
+Copyright © 2005 International Association of Drilling Contractors All rights reserved. 
+
+Issued March 2005 
+
+Safety Alert 
+
+        From the International Association of Drilling Contractors 
+
+ 
+The company issued the following Instructions to Rig Personnel: 
+
+JUMP STARTING A 12 VOLT BATTERY 
+
+ 
+
+ 
+
+ 
+
+Jump starting vehicles is performed regularly, however often incorrectly, which could cause a serious injury. 
+Extreme  care  must  be  taken  when  jump  starting  an  engine  or  serious  bodily  damage  may  result.    If  jump 
+staring is not done correctly, expensive damage can result to a vehicle’s electrical system, particularly where 
+fitted with electronic ignitions  
+
+If the vehicle operating manual is available follow its recommended procedures.  If it is not available or there 
+are no specific instructions, follow these steps.  
+
+1. Tradesmen (mechanic or electrician) only to conduct vehicle jump starting.  
+
+2. NEVER jump start a vehicle within the hazardous area of the wellhead.  Minimum distance should be at 
+
+least 45 meters (150 feet) away.  
+
+3. Safety goggles should be worn to protect the eyes.  When jump started, batteries generate high volumes of 
+
+hydrogen gas which is extremely explosive.  Naked flames must be avoided at all times.  
+
+4. Check that cables are not frayed or damaged.  
+
+5. DO NOT lean over batteries while jump starting.  
+
+6. Check  to  ensure  both  batteries  are  the  same  voltage.    Jump starting  24V  to  12V  is  very  dangerous  and 
+
+should be avoided.  
+
+7. If failed battery is open circuit, do not attempt to jump start.  Open circuit batteries can be detected by:  
+
+a. Battery volts reading zero even after a high rate discharge test is applied  
+
+b. When the battery will not accept charge current  
+
+8. Check vehicles are not touching and are in park or neutral.  
+
+9. Make sure both vehicles ignitions are switched OFF and all electrical equipment is OFF.  
+
+a. Connect the vehicles in the following EXACT sequence making sure the jumper or booster leads are 
+
+clear of any moving parts.  See diagram on following page.  
+
+b. Take  the  RED  jumper  lead  and  connect  to  the  POSITIVE  terminal  (marked  +  or  POS)  on  the 
+
+discharged battery on the stalled vehicle  
+
+c. Connect the other end of the RED jumper lead to the POSITIVE terminal of the charged battery on the 
+
+starting vehicle  
+
+d. Take the BLACK jumper lead and connect one end to the NEGATIVE terminal (marked – or NEG) of 
+
+the charged battery on the starting vehicle  
+
+e. Make the final connection to the engine block or chassis or the stalled vehicle (negative earth vehicles 
+
+only).  Never use air conditioner, brakes or fuel lines for engine earth.  
+
+f. Start the engine of the starting or donor vehicle and allow to normalize for 5 minutes.  
+
+g. Start the engine of the stalled vehicle.  
+
+h. After starting, allow engine of the stalled vehicle to fast idle for about 10 minutes before disconnecting 
+the jumper leads to allow the cars electrical system to balance.  This reduces the possibility of damage 
+to vehicle electronics.  
+
+i.  Remove the BLACK jumper lead first from the vehicle by unclipping from the discharged battery then 
+
+the charged battery.  
+
+j.  Repeat above step for the RED jumper lead.  
+
+The Corrective Actions stated in this alert are one company’s attempts to address the incident,  
+
+and do not necessarily reflect the position of IADC or the IADC HSE Committee. 
+
+This material is presented for information purposes only.  Managers & Supervisors should 
+
+evaluate this information to determine if it can be applied to their own situations and practices 
+
+Copyright © 2005 International Association of Drilling Contractors All rights reserved. 
+
+Issued March 2005 
+
+Safety Alert 
+
+        From the International Association of Drilling Contractors 
+
+It is recommended that the discharged battery be fully charged using a battery charger.  
+
+ 
+
+ 
+10. 
+
+ 
+
+ 
+ 
+
+The Corrective Actions stated in this alert are one company’s attempts to address the incident,  
+
+and do not necessarily reflect the position of IADC or the IADC HSE Committee. 
+
+This material is presented for information purposes only.  Managers & Supervisors should 
+
+evaluate this information to determine if it can be applied to their own situations and practices 
+
+Copyright © 2005 International Association of Drilling Contractors All rights reserved. 
+
+Issued March 2005 
+
+

@@ -1,0 +1,374 @@
+AB 
+
+ 
+
+IMCA Safety Flash 15/14 
+
+Safety Flash 
+
+  September 2014 
+
+These  flashes  summarise  key  safety  matters  and  incidents,  allowing  wider  dissemination  of  lessons  learnt  from  them.    The  information  below  has  been 
+provided in good faith by members and should be reviewed individually by recipients, who will determine its relevance to their own operations. 
+
+The effectiveness of the IMCA safety flash system depends on receiving reports from members in order to pass on information and avoid repeat incidents.  
+Please consider adding the IMCA secretariat (imca@imca-int.com) to your internal distribution list for safety alerts and/or manually submitting information 
+on specific incidents you consider may be relevant.  All information will be anonymised or sanitised, as appropriate. 
+
+A  number  of  other  organisations  issue  safety  flashes  and  similar  documents  which may  be  of  interest  to  IMCA  members.   Where  these  are  particularly 
+relevant, these may be summarised or highlighted here.  Links to known relevant websites are provided at www.imca-int.com/links   Additional links should 
+be submitted to webmaster@imca-int.com 
+
+ 
+
+Crane   
+
+1  Dropped  Object  Near  Miss  –  Unsecured  Plastic  Box  fell  from  Load  being  Lifted  by  Mobile 
+
+A member has reported an incident in which an unsecured plastic box detached from the load and fell to the bottom of the 
+dry dock. The incident occurred when a vessel was on the fourth day of a fast-track dry docking to investigate and repair oil 
+leaks (and possible damage) to the vessel azimuth thrusters. Additional maintenance tasks and repairs were being carried out 
+at the same time.  
+
+Dockyard personnel were lifting a piston from one of the vessels thrusters to  the top of the dry dock, using their  mobile 
+crane.  In  order  to  contain  residual  oil  remaining  on  the  piston,  the  lifting  team  attached  a  plastic  box  to  the  piston.  The 
+piston  was  securely  slung.  However,  the  plastic  box  was  insecurely  slung,  using  pallet  wrap.  Wind  speed  was  gusting  to 
+approximately 40mph. As the load reached the top of the dry dock (height 11-12m), a gust of wind blew the plastic box off 
+the piston, which resulted in the plastic box falling back to the bottom of the dry dock. There was no one working on the 
+floor of the dry dock where the box landed. There were no injuries and no damage.  
+
+Figure 1: vessel in dry dock with mobile crane 
+
+Figure 2: plastic box 
+
+ 
+
+ 
+
+♦  There was insufficient oversight, management and control of dockyard personnel, particularly during lifting operations; 
+
+Our members’ investigation revealed the following: 
+
+♦  The job was promptly stopped by the banksman; 
+
+♦ 
+
+Incorrect tools were used for the job. 
+
+A number of further factors were identified: 
+
+♦  The dry docking was unplanned and sudden or ‘fast tracked’;  
+
+♦  There  were  adverse  weather  conditions  which,  in  addition  to  being  a  contributory  factor  to  this  particular  incident, 
+
+nearly prevented the vessel getting in to dry dock which could have delayed the entire project; 
+
+ 
+♦  Forecasted adverse weather further affected the work schedule that day. Dockyard personnel used an incorrect tool (a 
+plastic box)  and  an insecure  method for attaching the box, in order to mitigate possible delays, believing the onset of 
+more severe weather – possibly preventing the use of the crane - may have been imminent. 
+
+In this case, the dropped objects prevention scheme (DROPS) calculator provides only an indication of possible outcomes. 
+The  box  in  question  had  a  relatively  large  surface  area  which  wind  resistance  would  have  slowed  during  descent. 
+Notwithstanding this, it still had the potential to cause serious injury or even a fatality. 
+
+Our  member  noted  that  in  a  ‘normally  planned’  dry  docking,  personnel  visit  dockyards,  well  in  advance  of  the  vessels,  to 
+ensure the dockyard is ready to receive the vessel and that systems and procedures, including those related to health and 
+safety,  are  in  place  and  in  compliance  with  company  requirements.    However,  it  is  of  the  greatest  importance  that  even 
+where  a  docking  is  ‘fast-tracked’  or  unplanned  and  at  very  short  notice,  that  all  personnel,  including  dockyard  personnel, 
+follow safe working practices and procedures. 
+
+Our member took the following actions: 
+
+♦  Reiterated to all personnel that the vessel must have oversight of all lifts (including risk assessment, methods of work, 
+times, locations, projected environmental conditions (wind, fog etc) even if vessel personnel have no direct involvement 
+in the lift; 
+
+♦  Ensured that correct tools and lifting methods are always used, even where the vessel has no direct involvement in the 
+
+lift; 
+
+♦ 
+
+♦ 
+
+♦  Reiterated to both crew and dockyard staff, during all dockings, that there is not only a right, but an obligation to ‘stop 
+
+the job’ if they see anything that they think is unsafe. 
+
+Members may wish to refer to the following similar incidents (key words: dropped, object): 
+
+IMCA SF 08/11 – Incident 2: Recent near miss incidents involving potential dropped objects (Marine Safety Forum); 
+
+IMCA SF 06/13 – Incident 4: Near miss: dropped objects during lifting operations; 
+
+Members may wish to refer to IMCA SEL 032 – Guidance on safety in shipyards. 
+
+2 
+
+440V Electrical Shock Incident  
+
+A  member  has  reported  an  incident  which  a  technician  received  a  440V  electric  shock.  The  incident  occurred  during  an 
+investigation  of  a  power  distribution  unit  (PDU)  located  in  the  ROV  control  room  onboard  a  vessel.  The  purpose  of  the 
+investigation into the PDU unit was to conclude whether the observation ROV being powered from this PDU was able to 
+provide  output  data  of  a  certain  quality.  The  person  who  was  shocked  was  not  harmed  and  did  not  require  any  medical 
+follow up.   
+
+Our members’ investigation revealed the following: 
+
+♦  The  task  was  not  a  planned  operation  and  it  was  performed  by  personnel  with  inadequate  training/knowledge  of  the 
+
+dangers associated with this work; 
+
+♦  The PDU was not properly labelled with warning signs, and had no top cover; 
+
+♦  There were two separate power supplies to the PDU; this was not identified due to the low level of familiarisation of 
+
+involved personnel; 
+
+♦  The ROV supervisor was not notified about the operation; 
+
+♦  There was no job-specific permit to work (PTW) or any management of change. However, a generic PTW was made; 
+
+♦  There  was  a  risk  assessment  but  it  was  neither  suitable  nor  sufficient  –  not  according  to  requirements  in  regards  to 
+
+details, attendees and quality.   
+
+ Our member noted the causes: 
+
+♦  The direct cause of the incident was that the technician touched or came near equipment that was powered to 440 V; 
+
+♦  The root causes identified were as follows: 
+
+−  Rescheduling of work tasks caused personnel to carry out ad-hoc investigations inside the PDU unit 
+
+−  There was poor safety awareness related to ongoing work 
+
+−  The PDU was inadequately labelled as being a place where there was danger of electrical shock 
+
+ 
+
+−  There was no detailed PTW completed 
+
+−  There  was  inadequate  risk  assessment  underpinning  the  work  on  the  PDU  unit.  The  risk  assessment  was  not 
+
+performed to such a level of detail that it allowed actual risks to be disclosed 
+
+−  The persons doing the work were inadequately trained on this particular ROV system 
+
+−  There was inadequate quality and safety verification of equipment received onboard 
+
+− 
+
+It was not clear to personnel how the organization works offshore.  
+
+♦  Always make a detailed risk assessment and be compliant with the control of work system; 
+
+♦  There should be thorough verification and site acceptance of new equipment, particularly with regard to quality, labelling, 
+
+ The following lessons were identified: 
+
+♦  Stop the job if you feel unsafe; 
+
+♦  Always inform supervisor; 
+
+♦  Always complete familiarisation; 
+
+♦  Follow the requirements as defined in management system; 
+
+design and location on board.   
+
+Our member took steps to: 
+
+♦  Revise bridging document with focus on clear communication lines; 
+
+♦  Ensure control of work system was understood by all crew on board; 
+
+♦  Revise risk assessment, training matrix and amended procedures to avoid repetition. 
+
+Members may wish to refer to the following similar incidents (key words: electric, shock): 
+
+♦ 
+
+♦ 
+
+♦ 
+
+♦ 
+
+IMCA SF 15/08 – Incident 2: Risk of electrocution during routine work; 
+
+IMCA SF 07/09 – Incident 1: Fatal electrocution; 
+
+IMCA SF 02/10 – Incident 1: Crewman received 440V electric shock; 
+
+IMCA SF 08/11 – Incident 3: Electrician received electric shock. 
+
+3  Diver Injured after being Trapped Underwater  
+
+A member reported an incident which a diver became trapped underwater when the seabed gave way under him during a 
+sheet  pile  cutting/removal  operations.    The  incident  occurred  during  the  removal  of  an  abandoned  sheet  pile  quay.    Two 
+divers were in the water involved in cutting operations on underwater piles in very shallow (less than 10m) water.  One of 
+the divers was doing the horizontal cut to remove the piles when he reported to the supervisor that he could not move his 
+legs as they were covered in sand to his calves and subsequently to his chest level.  
+
+The second diver working close by was directed to assist the fist diver, and a third, rescue, diver was deployed.  The crane, 
+which was slung with piles, ready to be recovered from the seabed, was made ready to recover the trapped diver as he was 
+situated  too  far  from  the  recovery  davit.    The  two  divers  attempted  to  aerate  the  seabed  using  a  caviblaster  to  free  the 
+trapped diver but without success.  
+
+Attempts to use the crane to lift the trapped diver to safety by connecting the crane hook to his safety harness resulted in 
+damage to his harness and loss of his surface air supply and bailout.  As a matter of extreme urgency the diver was lifted clear 
+using the crane and slings around his armpits.  He lost consciousness; and sustained injuries.  Once recovered from the sea, 
+he was successfully resuscitated and subsequently transferred to hospital. 
+
+Our members’ on-going investigation noted the following initial conditional findings: 
+
+♦  Before this incident, over one hundred similar piles at this location had been safely dismantled by the contractor’s divers; 
+
+♦ 
+
+Instabilities  and  underwater  anomalies  in  this  area  had  occurred  before,  but  at  the  time  of  the  operation  no  one  was 
+aware of this; 
+
+♦  There had been a simulation or drill of unconscious diver recovery made before the job started;  
+
+♦ 
+
+ A minuted ‘tool box’ meeting had been held before the start of the job, attended by the crane operators, divers  and 
+vessel crew;  
+
+ 
+♦  Weather conditions were good, with no waves or current; 
+
+♦  Cutting operations were being conducted according to IMCA guidance and following the rules laid down by the client; 
+
+♦  Communication between the dive supervisor and the divers during the emergency proved difficult owing to the noise of 
+
+the caviblaster; 
+
+♦  The crane hook was too large to pass through the diver’s lifting harness ‘D’ ring so the standby diver attempted to pass 
+
+the hook through the harness directly below the ‘D’ ring resulting in damage to the harness; 
+
+♦  The diver was recovered and resuscitated efficiently and professionally, and the dive team were able to properly use the 
+
+♦  Vital  medical  information  (blood  group)  for  the  injured  diver  was  not  immediately  available  and  was  only  found  with 
+
+tools and techniques required;  
+
+some difficulty. 
+
+Members may wish to refer to the following similar incidents (key words: Trapped, diver): 
+
+IMCA SF 15/09 – Incident 1: Trapped diver umbilical incident resulting in diver fatality;  
+
+♦ 
+
+♦ 
+
+IMCA SF 03/09 – Incident 1: Diver entrapment.  
+
+4  Alternator Bearing Collapse caused Small Fire 
+
+A member has reported an incident on a workboat used in the offshore wind farm industry, in which there was a serious 
+failure of an alternator bearing, leading to a small engine room fire. The vessel crew noticed a sound change from the engines 
+and a reduction in revs (dropped by about 100 rpm) followed immediately by the fire alarm. The crew shut the fire flaps, and 
+the fuel and ventilation shut off using the emergency stops. The engine room was checked, and smoke and small flames or 
+glowing  were  observed  from  the  alternator.  The  fire  was  extinguished,  the  safety  of  crew,  passengers  and  vessel  was 
+confirmed, and the vessel returned to port on one engine. 
+
+Figure: showing damaged alternator with shaft out of alignment due to bearing collapse 
+
+ 
+
+Our members’ investigation noted the following: 
+
+♦  The crew were trained to respond to a fire alarm in a certain way and did so in a swift and professional manner; 
+
+♦  The problem was found to have been caused by a bearing collapse in one of the alternators. 
+
+Our member took the following actions: 
+
+♦  All alternators should be checked regularly for signs of damage which may manifest itself as ‘Black fluff’ in the windings; 
+
+♦  When the engines are shut down the alternators should be checked for overheating. 
+
+Members may wish to refer to the following similar incidents (key words: bearing): 
+
+♦ 
+
+♦ 
+
+IMCA SF 09/01 – Incident 3: ROV winch [bearing] failure; 
+
+IMCA SF 10/14 – All incidents on engine room fires. 
+
+ 
+5  Confined Space Entry – Multiple Fatalities   
+
+The UK Marine Accident Investigation Branch (MAIB) has published the following report regarding an incident in which three 
+persons were killed as a result of confined space entry on a cargo vessel in dock.  
+
+Three  crew  members  on  board  the  cargo  vessel  were  found  unconscious  in  the  main  cargo  hold  forward  access 
+compartment, which was sited in the vessel’s forecastle (f’ocsle). The crew members were recovered from the compartment 
+but, despite intensive resuscitation efforts by their rescuers, they did not survive. The vessel was carrying a cargo of sawn 
+timber and, at the time of the incident, shore stevedores were discharging the timber loaded on top of the forward hatch 
+cover. Two of the ship’s crew were standing by to clear away the deck cargo’s protective tarpaulins as the timber discharge 
+progressed aft.  During this time, the two crewmen entered the forward main hold access compartment. The chief officer, 
+who  was  looking  for  the  two  crewmen,  found  the  compartment  hatch  cover  open  and  shouted  down  to  them  before 
+climbing into the space. A third crewman saw the chief officer enter the compartment. When he looked down the hatch, he 
+saw the chief officer collapse. 
+
+The alarm was raised and an initially frantic rescue operation was undertaken by the vessel’s two remaining crew, and two 
+stevedores.  One  of  the  two crewmen  started  the  hold  ventilation  fan,  and  brought  a  breathing  apparatus  (BA)  set  and  an 
+emergency escape breathing device (EEBD) to the f’ocsle. He donned the BA set, which did not have a face mask fitted, and 
+entered the compartment. Despite having the breathing regulator in his mouth, it was not supplying him with sufficient air. 
+Two stevedores also entered the compartment during the rescue: one using the EEBD and another without any breathing 
+apparatus whatsoever. While there, they were able to pass lifting slings around the fallen crew so they could be recovered to 
+the deck. The crewman and stevedores suffered severe breathing problems when they returned to deck. 
+
+Ambulance paramedics, fire and rescue services and the police subsequently attended. Despite the best efforts of all involved, 
+none of the three crewmen who were recovered from the compartment survived. 
+
+The full report can be downloaded from: www.maib.gov.uk/cms_resources.cfm?file=/Safety%20Bulletin3_2014.pdf. 
+
+6  Marine Safe Australia – Hand Injuries 
+
+The  Marine  Safety  Forum  has  published  the  following  safety  flash  from  Marine  Safe  Australia  covering  a  number  of  hand 
+injuries including the following: 
+
+♦  Hand injury when folding aluminium ladder 
+
+While folding a four part hinged folding ladder to place it back to its stowage position, a person got his hand squeezed at the hinge 
+part;  
+
+♦  Severe hand injury – rotating machinery 
+
+♦  Serious injury - top of thumb amputated  
+
+A newly installed generator was started without belt guards in place. A person’s finger got caught by the V-belt which resulted in 
+fracture and deep laceration to the index finger. The potential could have been loss of finger/hand;  
+
+The  V-belts  of  an  air  compressor  were  found  to  be  slack  after  it  was  installed  the  previous  day.  A  crewman  decided  to 
+tension/reposition them again. While trying to check the tension of the V-belts, by manually rotating the assembly, his thumb got 
+stuck between the V-belt and pulley wheel. This resulted in the top of his thumb being amputated. 
+
+The same safety flash also covers the following incidents: 
+
+♦  Broken ankle due to poorly rigged walkway; 
+
+♦  Man overboard; 
+
+♦  Personal Flotation Device failed to automatically inflate; 
+
+♦  Person struck by tugger wire assembly; 
+
+♦  Person’s leg severed following entanglement. 
+
+ 
+
+The  safety  flash  can  be  downloaded  from  www.marinesafetyforum.org/upload-files//safetyalerts/marinesafe-australasia-july-
+safety-flashes.pdf. 
+
+

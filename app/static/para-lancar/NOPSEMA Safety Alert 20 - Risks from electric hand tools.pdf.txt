@@ -1,0 +1,108 @@
+NATIONAL OFFSHORE PETROLEUM SAFETY AUTHORITY 
+
+  
+
+SAFETY ALERT 20 
+
+Risks from Electric Hand Tools 
+
+What happened? 
+
+While carrying out a routine inspection, NOPSA inspectors recently discovered someone 
+using  an  electric  hand  tool  rated  at  240V  in  an  environment  where  the  power  supply 
+leads  could  easily  be  damaged  by  activities  such  as  cutting,  grinding  and  welding  of 
+steel  sections.  The  circumstances  were  such  that  a  prohibition  notice  was  issued  to 
+prevent the risk of one or more electrocutions. 
+
+What could go wrong? 
+
+Every year, people are killed by electrocution. The National Occupational Health and 
+Safety Commission gives a figure of 122 workers killed between 1989 and 1992 in 
+Australia. Of these, many were killed by 240 volt systems. 28% of the fatalities were 
+associated with use of industrial equipment or work tools. Significantly, 7% of the total 
+number of deaths occurred on systems protected by a residual current circuit breaker.  
+
+NOPSA has received 29 notifications of electric shock incidents in the last three years, 
+and, although none of these offshore incidents have resulted in deaths, in some cases 
+this may simply have been a matter of luck. 
+
+Key Lessons: 
+
+Schedule 3 of the Offshore Petroleum Act 2006 places duties on various parties to take 
+all reasonably practicable steps to ensure that all work activities carried out on a facility 
+are safe, and without risk to the health of any person at or near that facility. 
+
+Good practice demands that a hierarchical approach to eliminating risks is taken. This 
+means that the following steps must be followed in order: 
+
+•  Elimination of the risk; 
+•  Substitution for a less hazardous alternative; 
+•  Redesign; 
+•  Separate the worker from the risk; 
+•  The use of administrative procedures such as permit to work systems; 
+•  The use of PPE. 
+
+ 
+
+240 volt hand tools can often be replaced by air tools, eliminating the risk from 
+electrocution, making them a viable alternative whenever the use of powered hand tools 
+is required. 
+
+If the use of air tools is not possible, then substitution should be considered. Options 
+under this category include the use of battery powered hand tools, or tools powered by 
+an isolated, 110 volt centre-tapped earth transformer. 
+
+Page 1 of 2 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+NATIONAL OFFSHORE PETROLEUM SAFETY AUTHORITY 
+
+  
+
+SAFETY ALERT 20 
+
+Risks from Electric Hand Tools 
+
+These methods of elimination or substitution are generally achievable, and it is therefore 
+reasonable for them to be adopted in preference to the use of 240 volt tools.  
+
+Facility operators, employers, and persons in charge of work activities on facilities 
+should review their practices for the use of powered hand tools in light of the above 
+information. 
+
+Contact 
+
+For further information email alerts@nopsa.gov.au and quote Alert 20. 
+
+Page 2 of 2 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+

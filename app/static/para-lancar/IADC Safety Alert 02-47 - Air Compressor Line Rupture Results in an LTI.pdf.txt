@@ -1,0 +1,67 @@
+Safety Alert 
+
+From the International Association of Drilling Contractors
+
+ 
+
+ 
+ALERT 02 – 47 
+ 
+
+AIR COMPRESSOR LINE RUPTURE RESULTS IN AN LTI 
+
+ 
+WHAT HAPPENED: 
+ 
+After  the  compressor  unit  arrived  on  location,  the  employee  had  connected  the  #2  compressor  to 
+start  the  crane.    Shortly  after  starting  the  compressor,  the  low-pressure  relief  valve  popped  off. 
+When  the  employee  climbed  onto  the  frame  to  check  the  relief  valve,  the  1-1/2"  stainless  steel 
+supply line from the compressor to the volume tank ruptured, striking employee in the face and left 
+leg.  The incident resulted in multiple sutures to the face. 
+ 
+WHAT CAUSED IT: 
+ 
+While in the yard the air compressor receiver tank was hooked to the yard supply air line and was used as a 
+volume tank.  Both compressor isolation valves on the 1-1/2" supply line from the compressor to the receiver 
+tank were closed during that period.  This compressor system had three relief valves in the system with each 
+designated for a different purpose.  While used in the yard, the line for the one pressure relief valve line was 
+connected to the receiver tank.  With the isolation valves between the compressor and receiver in the closed 
+position, the pressure relief valve could not detect the pressure being delivered and therefore could not open 
+to divert pressure through the intake causing over pressurization and rupture of the 1-1/2" supply line. 
+ 
+CORRECTIVE ACTIONS:  To address this incident, this company did the following:   
+ 
+• 
+
+If the discharge line is equipped with an isolation valve or check valve, it must have a spring loaded relief 
+safety valve (pop off) in place between the shut off valve and the compressor as well as the one on the 
+tank.  
+
+•  The total relieving capacity of the safety valves shall be rated to prevent pressure in the line or receiver 
+
+from exceeding the maximum allowable working pressure by no more than 10 percent.) 
+
+•  At no time shall a valve of any type be placed between the air receiver and its safety valve or 
+
+valves.  During rig up of any equipment the proper inspection and start up procedures should always be 
+followed. Pre-job meetings should be held and written JSAs should be completed or existing ones 
+reviewed and updated before proceeding.  
+
+•  Developed procedures to be used when inspecting and hooking up compressor systems.   
+•  Supervisory personnel must approve all  modifications to equipment and the company’s 
+
+equipment modification process form must be used. 
+
+The Corrective Actions stated in this alert are one company’s attempts to address the incident, and do not 
+
+necessarily reflect the position of IADC or the IADC HSE Committee. 
+
+This material is presented for information purposes only.  Managers & Supervisors should  
+
+evaluate this information to determine if it can be applied to their own situations and practices. 
+
+Copyright © 2002 International Association of Drilling Contractors.  All Rights Reserved 
+
+Issued October 2002 
+
+

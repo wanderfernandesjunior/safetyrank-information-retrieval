@@ -1,0 +1,113 @@
+SAFETY ALERT 
+
+Safety Alert No. 345 
+25 January 2019   
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+                     Contact: Jason Mathews 
+       
+
+           Phone: (504) 731-1496 
+
+Sprag Brake Clutch Failure Leads to Near Miss 
+
+On 13 October 2018, while lifting a construction lay 
+down  box  (2500  lbs)  from  a  motor  vessel  with  the 
+platform  crane  auxiliary  line,  the  crane  operator 
+proceeded  to  raise  the  load.  When  the  load  was 
+approximately  6  feet  off  of  the  deck,  the  winch 
+failed  resulting  in  the  load  free  falling  back  to  the 
+deck  of  the  boat.  The  winch  continued  to  unspool 
+after  the  load  hit  the  deck  causing  the  rigging  to 
+also  fall  to  the  deck.  A  deckhand  on  the  motor 
+vessel  was  able  to  avoid  the  falling  load.  There 
+
+Figure 1: The replacement winch. This winch is 
+similar to the one that was involved in the incident. 
+
+were  no  injuries  to  personnel  or  harm  to  the 
+environment as a result of the incident. 
+
+The  winch  was  removed  from  service  by  the  crane  mechanic  and  sent  to  a  3rd  party 
+facility to be pull tested, brake tested and disassembled. During testing, it was found that 
+it would randomly fail to hold the load when the load was released and then pulled again. 
+A  full  quarterly  inspection  of  the  crane  had  been  completed  with  no  problems  the  week 
+before the incident. 
+
+Figure 2: The disassembled sprag brake clutch 
+
+When disassembled, it was found that the sprag brake clutch was not as tight and rigid as 
+normal and would randomly slip in certain positions. After disassembly, the sprag clutch 
+was  found  to  have  abnormal  marks  on  the  outer  and  inner  surface  of  the  sprag 
+components potentially caused by shock loading and/or faulty components. 
+
+A representative of the crane manufacturer stated that identical or similar components are 
+widely used on cranes in the Gulf of Mexico. 
+
+Additional  analysis  of  the  failed  components  is  being  conducted  by  the  crane 
+manufacturer  –  depending  on  the  results,  testing  and  inspection  procedures  may  be 
+revised. 
+
+Therefore, BSEE recommends that operators consider the following: 
+
+·  Look for warning signs of a sprag brake clutch malfunction (e.g. slipping after the 
+winch stops). Crane operators should report any abnormal behavior to mechanics 
+and facility management. 
+
+·  Verify control mechanisms including brakes and clutches for proper operation in 
+
+compliance with API RP 2D C.4.1 (6th edition) and manufacturers recommendations 
+during pre-use, monthly, quarterly, and annual inspections. 
+
+·  Winches should be periodically disassembled and all wear items should be 
+
+inspected for damage. Typical inspection intervals are one to five years, and may 
+vary depending on frequency of use. Refer to the manufacturer’s recommendations 
+and applicable industry codes such as API RP 2D (Section C.4.1). Consider ASME 
+Spec B30.5-2004 (chapter 5-2) for guidance. 
+
+· 
+
+If you do not have records of the last winch disassembly and the winch is over five 
+years old, limit use of the winch and schedule a disassembly and inspection soon. 
+
+·  Conduct periodic oil sampling and analysis. 
+
+o  Record and trend results over time – high levels or sudden increases in iron 
+
+contaminants may indicate serious mechanical problems. Disassembly of the 
+winch may be required to determine the cause. 
+
+o  Oil should be changed regularly, typically annually. Use only the oil type 
+
+specified by the manufacturer. Improper oil may lead to brake clutch slippage. 
+
+·  Conduct a winch warm-up procedure at crane start-up to help prevent brake 
+
+slippage. This is especially important during cold weather. 
+
+·  Avoid shock loading the crane. If you suspect that a crane has been shock loaded, 
+
+safely lower the load, remove the crane from service and follow the manufacturer 
+recommended inspection procedures to verify that the crane has not been damaged. 
+
+·  Review all communications and safety bulletins from crane manufacturers and share 
+
+them with your crane operators, mechanics and riggers. 
+
+-- BSEE -- 
+
+A Safety Alert is a tool used by BSEE to inform the offshore oil and gas industry of the 
+circumstances surrounding an accident or near miss. It also contains recommendations 
+that should help prevent the recurrence of such an incident on the Outer Continental 
+Shelf.
+
+

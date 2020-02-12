@@ -1,0 +1,89 @@
+Safety Alert 
+
+From the International Association of Drilling Contractors 
+
+ 
+
+ 
+ALERT 03 – 34  
+ 
+
+PREVENTING CROWN COLLISIONS 
+
+The crown saver device toggle was contacted and engaged 
+however due to speed, the blocks hit the crown.  Sheared 
+bolts and other hardware fell from crown bumper.  The 
+crown was undamaged but dropped objects posed a hazard 
+to derrickman and crew. 
+Note damage to the crown beam. 
+
+ 
+WHAT HAPPENED: 
+ 
+First  Incident:    The  rig  was  doing  a  wiper  trip.    While 
+working  through  a  tight  spot,  the  Driller  lost  count  of  the 
+singles.    The  top  layer  of  drilling  line  on  the  drum  passed 
+through  under  the  crown  saver  device  toggle.    The  blocks 
+collided  with  the  crown  bumper  block  shaking  the  derrick 
+upon  impact.   Crown  saver device had  not  been tested  on 
+this shift. 
+Second  Incident:    During  a  trip  out  to  change  the  bit, 
+someone was trying to talk with the driller causing him to be 
+distracted and the blocks hit the crown.  The tool joints had 
+been miscounted and even though the crown saver device 
+activated,  it  did  not  stop  the  blocks  in  time  to  prevent 
+collision.  It was determined the crown saver device was set 
+too high and trip speed was excessive.  It had been tested 
+but not with the drilling line.   
+Third  Incident:    While  pulling  out  of  the  hole,  the  driller 
+miscounted the tool joints.   
+ 
+ 
+WHAT CAUSED IT: 
+ 
+Common threads to all the above accidents:  Due to distraction and/or loss of focus and concentration, the 
+driller lost count of tool joints.  Losing count resulted in the driller’s failure to reduce traveling block speed in time.  
+Additionally, the improperly set and/or untested crown saver device.  In most of the above cases, damage was mitigated by 
+a crown saver bumper block system.  It is a common practice to envelop wooden blocks in wire mesh to prevent fragments 
+from falling upon collision. 
+ 
+CORRECTIVE ACTIONS:  To address this incident, this company took the following corrective actions 
+to prevent recurrence: 
+ 
+1.  The  driller  should  stop  and  secure  the  blocks  if  someone  needs  to  speak  with  him  either  by  phone  or  in  person.  
+
+ 
+
+Distraction is the primary factor that causes crown collisions. 
+
+2.  Operate blocks at a controllable speed.  Avoid rushing.   
+3.  As a backup to the driller’s attention, everyone on the floor should count the tool joints coming through the rotary.   
+4.  Test the crown saver device by slowly pulling into the crown saver device toggle with the top layer of line on the drum 
+and  do  not  use  a  “broom  handle”  to  activate  it.    Ensure  the  derrickman  is  monitoring  distance  between  blocks  and 
+crown and can signal the driller when the crown saver device is being tested or set. 
+
+5.  The crown saver device should be checked with the drilling line as soon as practicable by each driller coming on tour, 
+before each trip, and after each slip and cut.  This check should be noted on the daily drilling report.  (IADC APRG 
+3.17.N, API RP54 9.4.8) 
+
+6.  For “double masts,” remember a kelly length plus a single will be longer than a double.  Extra care should be taken. 
+7.  The crown saver device must also be reset and checked after moving it for longer stands during trips. 
+8.  Ensure safety of the person adjusting the crown saver device by immobilizing drawworks, “chaining” brake, and taking 
+necessary measures to prevent anyone from operating the drawworks while the crown saver device is being adjusted. 
+
+9.  Be sure that the carriage mechanism that carries the crown saver device is secured against drift from vibration. 
+Note see IADC Safety Alerts 99-03, 00-21, and 02-22 
+
+The Corrective Actions stated in this alert are one company’s attempts to address the incident, and do not 
+
+necessarily reflect the position of IADC or the IADC HSE Committee. 
+
+This material is presented for information purposes only.  Managers & Supervisors should  
+
+evaluate this information to determine if it can be applied to their own situations and practices. 
+
+Copyright © 2003 International Association of Drilling Contractors.  All Rights Reserved 
+
+Issued August 2003 
+
+

@@ -1,0 +1,108 @@
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Safety Alert 
+
+        From the International Association of Drilling Contractors 
+
+ 
+ALERT 14 – 08  
+
+MAINTENANCE ON ACCOMMODATION’S ELEVATOR RESULTS IN A FATALITY 
+
+ 
+
+WHAT HAPPENED: 
+During  the  maintenance  of  the  activation  system  of  the  load  lift  door,  a  team  comprising  of  an  electrician  (injured  person)  and  an 
+electronic  technician  decided  to  visually  check  the  accommodation’s  elevator,  in  order  to  compare  both  mechanisms  to  facilitate  the 
+repair  of  the  load  lift.    When  checking  the  accommodations  elevator,  the  electrician  entered  the  elevator,  climbed  on  the  top  of  the 
+cabin,  changed  the  operation  mode  from  “Auto”  to  “Inspection”  (maintenance  mode),  and  performed  the  required  inspections.    The 
+electrician was unable to determine what was affecting the activation mechanism of the load lift.  Concluding the inspection, he took the 
+lift  down  to  just  above  the  lower  floor.    He  then  changed  the  operation  mode  to  “Auto”  and  leaned  over  the  structure  of  the  door 
+activation mechanism, which placed his head between the lift structure and the door sill of the higher level.  Since the lift was positioned 
+above the so called “door zone,” it started its lifting process to level the elevator, which compressed the electrician’s head resulting in 
+the fatality. 
+ 
+
+ 
+
+ 
+
+WHAT CAUSED IT: 
+•  Activity performed without a Permit to Work, including proper energy isolation.  Thus the risks were not assessed. 
+• 
+• 
+•  Activity performed without supervision. 
+•  Poor safety culture. 
+
+Lack of procedure for elevator maintenance. 
+Lack of training for the elevator maintenance team. 
+
+ 
+
+CORRECTIVE ACTIONS:  To address this incident, this company did the following: 
+• 
+
+The  company  reminded  all  installation  personnel  to  include  the  supervision  or  immediate  leadership  in  maintenance  activity 
+planning; 
+
+•  Rig Managers were instructed to keep strict control of the correct utilization of Risk Analysis and the Permit to Work system; 
+•  All Rig Managers and maintenance employees were reminded that, during services planning and PTW issuance, they are required 
+
+to know the equipment that they will be using in order to identify the appropriate training to perform the task; 
+
+•  All employees were reminded to apply and follow all company operating policies/procedures and to enforce the concept of “If in 
+
+• 
+• 
+
+• 
+
+doubt, Stop!” 
+The company reinforced the leadership role of all Rig Managers and focus on safety; 
+The  company  set  out  to  clearly  define  the  maintenance  activities  to  be  carried  out  by  the  onboard  crew  and  the  ones  to  be 
+performed by specialized companies/manufacturers, based on manufacturers manuals and instructions; 
+The company established training requirements (operation, rescue, maintenance) which were provided to elevator manufacturers 
+upon delivery of equipment to offshore units. 
+
+The Corrective Actions stated in this alert are one company’s attempts to address the incident,  
+
+and do not necessarily reflect the position of IADC or the IADC HSE Committee. 
+
+This material is presented for information purposes only.  Managers & Supervisors should 
+
+evaluate this information to determine if it can be applied to their own situations and practices 
+
+Copyright  2014 International Association of Drilling Contractors All rights reserved. 
+
+Issued March 2014 
+
+
