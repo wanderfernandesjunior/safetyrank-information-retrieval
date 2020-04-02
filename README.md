@@ -1,6 +1,9 @@
 ![Logo](https://jcconcursos.uol.com.br/media/_versions/orgao/brasao-ifes_sm.png)
 # Trabalho de IA
 ## Conceitos de recuperação de informação aplicados a documentos de alertas de segurança industriais obtidos da internet
+
+Texto completo: [clique aqui](https://github.com/wanderfernandesjunior/trabalho-ia/blob/master/TextoCompleto.pdf)
+
 Demo: [http://safetyrank.herokuapp.com/](http://safetyrank.herokuapp.com/)
 
 ## Resumo
